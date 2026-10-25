@@ -1,0 +1,163 @@
+{
+ "runId": "2026-10-25T09-46-41-374Z-97f730",
+ "week": "2026-W43",
+ "domain": "www.nsf.gov",
+ "startedAt": "2026-10-25T09:46:41.756Z",
+ "scanned": [
+  "860703e628cdedd5",
+  "bb99ac75bd039d9a",
+  "f4c0550ebfca8e65",
+  "850678166b778317",
+  "76dad36e40ef59c0",
+  "1204576fa5e84b6c",
+  "25160638499c2315",
+  "eea17fe67f44bea6",
+  "0dc5f345d0365392",
+  "ea066c4294890283",
+  "0105717a8c778351",
+  "302b440f994019d7",
+  "7cd74cbd5ecc9d7d",
+  "c716ecd7d19275e3",
+  "7a7e4644e88cbd3e",
+  "cdb08368f544b3ae",
+  "fa2a29fe26f70fec",
+  "3ff8fd2b43d3fe63",
+  "aba87ce3ddeee392",
+  "ab0eb236bc2d5ab4",
+  "764b6691dfc56f68",
+  "ed93ba7883a3ae6d",
+  "c317649bf65ec4a9",
+  "86392c3d44d56087"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 330,
+  "checked": 330,
+  "brokenCount": 10,
+  "broken": [
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_TsJiiOrzSB6fak6bKc6FPg",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/frontier-research-earth-sciences-fres-program-webinar-0/2020-09-16"
+    ]
+   },
+   {
+    "url": "https://www.whitehouse.gov/wp-content/uploads/2022/08/08-2022-OSTP-Public-Access-Memo.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/public-access-webcast-external-stakeholders"
+    ]
+   },
+   {
+    "url": "https://beta.nsf.ov/public-access",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/events/public-access-webcast-external-stakeholders"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_ccHxTvYJTNSDRuIV3VWwAQ",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/public-access-webcast-external-stakeholders"
+    ]
+   },
+   {
+    "url": "https://www.whitehouse.gov/sites/whitehouse.gov/files/images/NSCI%20Strategic%20Plan.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/oac-core-oac-oac-core-research/505670/157158"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/cise/oac/vision/blueprint-2019/nsf-aci-blueprint-v10-508.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/oac-core-oac-oac-core-research/505670/157158"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJIscO-qrzwpHt823VTawbGaFR_jyVotXPA%20",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/geo-ihub-meet/2023-06-22"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/geo/geo-innovation/index.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/geo-ihub-meet/2023-06-22"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_U2I01rzIQ3ONpYMpO5Y4kA",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/webinar-revised-proposal-award-policies-procedures-guide/2024-03-12"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/cise/oac/vision/blueprint-2019/CI-LWD.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/research-coordination-networks-fostering-nurturing-diverse/505952/nsf22-558"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 23,
+  "resources": 23,
+  "images": 23,
+  "standards": 12,
+  "link-check": 23,
+  "plain-language": 16,
+  "alfa": 13,
+  "deprecated-html": 4,
+  "third-party": 5,
+  "public-interest": 4,
+  "tech": 2,
+  "lighthouse": 1,
+  "sustainability": 1,
+  "security": 1
+ },
+ "tally": {
+  "ok": 23,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 1,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-25T09:50:05.863Z"
+}
