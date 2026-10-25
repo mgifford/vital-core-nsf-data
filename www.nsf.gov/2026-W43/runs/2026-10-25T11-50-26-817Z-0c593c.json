@@ -1,0 +1,147 @@
+{
+ "runId": "2026-10-25T11-50-26-817Z-0c593c",
+ "week": "2026-W43",
+ "domain": "www.nsf.gov",
+ "startedAt": "2026-10-25T11:50:27.231Z",
+ "scanned": [
+  "81c3ffaa0fed92cc",
+  "6cb5db0fb2c808d1",
+  "04a4e70489233d01",
+  "5b5ed36801905461",
+  "61d8a97f7e14196c",
+  "87ff9cf6cf6c484d",
+  "e23419b79c557d13",
+  "7467191f755f3f6d",
+  "be2d7fbecffdad92",
+  "79ccd8208b53b50c",
+  "7a5d525bed7a1399",
+  "0e3d69fab2bcfe80",
+  "36a0b036ec173fb1",
+  "55598057b146a914",
+  "438089a840dac9d7",
+  "03f1904d72791b26",
+  "c1514c22e7425a4a",
+  "8b7a336301b111b9",
+  "b2f47e5d202e9a85",
+  "dd29d07498eb5023",
+  "3af7748ff2c80c12",
+  "643700bd351ed71d",
+  "2e9ce838ebad8489",
+  "3f28284f74f471dc"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 245,
+  "checked": 245,
+  "brokenCount": 8,
+  "broken": [
+   {
+    "url": "https://www.nsf.gov/edu/Videos/2024NRTInformationalWebinar.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/nsf-research-traineeship-program-nrt-office-hour/2024-10-09"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_Ibv7K8y2QIWBzSj87JYhbw",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/nsf-eng-cmmi-career-program-webinar"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_OEVBRkGPTkiQMYRWHy2uvA",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/nsf-introductory-webinar-finders-foundry/2026-04-08"
+    ]
+   },
+   {
+    "url": "http://www.nsf.gov/cise/sci/paci_elig.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/paci-advanced-computational-infrastructure/5215/5427"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/funding/opportunities/dcl-collaborative-opportunity-research-between-iucrcs-corbi/appendix_a.doc",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-collaborative-opportunity-research-between-iucrcs-corbi/nsf10-008"
+    ]
+   },
+   {
+    "url": "https://nncta.org/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.nsf.gov/news/new-report-identifies-pathways-strengthen-us-competitiveness"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/geo/ear/resubmission_policy.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/geomorphology-land-use-dynamics/13690/nsf21-547/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf18045",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/geomorphology-land-use-dynamics/13690/nsf21-547/solicitation"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 23,
+  "alfa": 12,
+  "plain-language": 8,
+  "deprecated-html": 3,
+  "resources": 23,
+  "images": 23,
+  "standards": 12,
+  "link-check": 23,
+  "sustainability": 2,
+  "security": 3,
+  "third-party": 3,
+  "tech": 1,
+  "public-interest": 2,
+  "lighthouse": 2
+ },
+ "tally": {
+  "ok": 23,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 1,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-25T11:53:57.728Z"
+}
