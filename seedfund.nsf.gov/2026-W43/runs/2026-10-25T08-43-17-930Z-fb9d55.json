@@ -1,0 +1,100 @@
+{
+ "runId": "2026-10-25T08-43-17-930Z-fb9d55",
+ "week": "2026-W43",
+ "domain": "seedfund.nsf.gov",
+ "startedAt": "2026-10-25T08:43:18.482Z",
+ "scanned": [
+  "04cced54d955c0fb",
+  "6ddee9d1a88cef78",
+  "70596fe8cbdd78bc",
+  "2b3e18622e7c42d2",
+  "9fe9147d85524fb0",
+  "b94ae4c52a1f1d47",
+  "b7b9bfd209a3942c",
+  "08b0f77d48797f4a",
+  "89e36f25cb83a970",
+  "5829b1de334f6e7a",
+  "ee2624f91fe38b05",
+  "f1126e9a73313371",
+  "5ce502ca9d431714",
+  "2d9f0c5c62e2c0f4",
+  "29216f786f4f3f4c",
+  "882a93d58659eb13",
+  "98b4e9929f39b83b",
+  "2838571ebf9c7629",
+  "5595df8cd8f35615",
+  "9e6cc7cb01480af1",
+  "58c47cd4fff3e781",
+  "93db2bb8b35bb653",
+  "90633e7304095d2e",
+  "bab8f1a65aa6aba5",
+  "d65c49f0cef0554e"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 144,
+  "checked": 144,
+  "brokenCount": 2,
+  "broken": [
+   {
+    "url": "https://standards.usa.gov/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://seedfund.nsf.gov/styleguide"
+    ]
+   },
+   {
+    "url": "https://www.radiatorlabs.com/",
+    "status": 0,
+    "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
+    "foundOn": [
+     "https://seedfund.nsf.gov/topics/internet-of-things"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "sustainability": 2,
+  "axe": 25,
+  "resources": 25,
+  "images": 25,
+  "standards": 10,
+  "public-interest": 3,
+  "link-check": 25,
+  "security": 5,
+  "alfa": 14,
+  "plain-language": 12,
+  "tech": 4,
+  "third-party": 10,
+  "lighthouse": 4,
+  "deprecated-html": 3
+ },
+ "tally": {
+  "ok": 25,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-25T08:46:32.408Z"
+}
