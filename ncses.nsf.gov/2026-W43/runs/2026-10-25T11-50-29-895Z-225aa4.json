@@ -1,0 +1,862 @@
+{
+ "runId": "2026-10-25T11-50-29-895Z-225aa4",
+ "week": "2026-W43",
+ "domain": "ncses.nsf.gov",
+ "startedAt": "2026-10-25T11:50:30.953Z",
+ "scanned": [
+  "7cb1ea9f489844b1",
+  "c95b1641b7afccce",
+  "ab35204c76ae38e6",
+  "c93f920a197883c0",
+  "795afd94deb8c78a",
+  "d88c9b34949f6a96",
+  "d4d636e05bd039c5",
+  "f0b761021ad16fd0",
+  "8c6787fb49829d95",
+  "34b174131789ca3f",
+  "8e2b9aeeebf1eaab",
+  "67a461aae9ac81a1",
+  "5adf20c52e4f4b2e",
+  "4a98208b8af8c25d",
+  "a1494d06a2b81722",
+  "c161cc04da995da3",
+  "ee62064cf954151b",
+  "5e01c216071395ff",
+  "9a43ef01881857a0",
+  "4e870677a5640072",
+  "c8e400c9b7443ee6",
+  "2a686e5029f9aa89",
+  "21c596d450cd8a9c",
+  "d9da2b40678203c4",
+  "2e2e7998ffd9259c"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 2623,
+  "checked": 500,
+  "brokenCount": 83,
+  "broken": [
+   {
+    "url": "http://ncses.nsf.gov/sed/",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsf24336/table/2-6",
+     "https://ncses.nsf.gov/pubs/nsf24336/table/a-4",
+     "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14495"
+    ]
+   },
+   {
+    "url": "https://ncses.nsf.gov/wmpd",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsf24336/table/2-6",
+     "https://ncses.nsf.gov/pubs/nsf24336/table/a-4"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/about",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099",
+     "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14495"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099",
+     "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14495"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/about/quality-transparency",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099",
+     "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14495"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/about/data-governance",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099",
+     "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14495"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/about/whats-new",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099",
+     "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14495"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/about/contact",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099",
+     "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14495"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/interest-areas",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099",
+     "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14495"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/about/research",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099",
+     "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14495"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/interest-areas/innovation-global-competitiveness",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099",
+     "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14495"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/interest-areas/stem",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099",
+     "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14495"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/interest-areas/research-development",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099",
+     "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14495"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/interest-areas/science-engineering-workforce",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099",
+     "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14495"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/surveys",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099",
+     "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14495"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/search?query=&excludePubAssets=true&pageSize=40&sort=date",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099",
+     "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14495"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/schedule-of-release-dates",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099",
+     "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14495"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/surveys-analysis",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099",
+     "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14495"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/explore-data/microdata",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099",
+     "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14495"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/licensing",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099",
+     "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14495"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/explore-data",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099",
+     "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14495"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/corrections",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099",
+     "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14495"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/funding-opportunities",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099",
+     "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14495"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/initiatives",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099",
+     "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14495"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/initiatives/national-secure-data-service-demo",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099",
+     "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14495"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/initiatives/cybersecurity-workforce-data-initiative",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099",
+     "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14495"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/resource",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099",
+     "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14495"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/resource/library",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099",
+     "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14495"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/initiatives/standard-application-process",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099",
+     "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14495"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/resource/master-gov-lists-ffrdc",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099",
+     "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14495"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/resource/faqs",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099",
+     "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14495"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/surveys/graduate-students-postdoctorates-s-e/2024",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/resource/glossary",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099",
+     "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14495"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/surveys/graduate-students-postdoctorates-s-e/2023",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/surveys/graduate-students-postdoctorates-s-e/2021",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/surveys/graduate-students-postdoctorates-s-e/2022",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/ncses26004/assets/ncses26004.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf26307/assets/nsf26307.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf26308/assets/nsf26308.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf26308",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/1659/assets/0/file/ncses_gss.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf26308/figure/2",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf26308/figure/1",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf26307/assets/technical-tables/nsf26307-technical-tables-tables.zip",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf26307/assets/technical-tables/nsf26307-technical-tables-tables-excels.zip",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf26307/assets/technical-tables/tables/nsf26307-taba-001.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf26307/assets/technical-tables/nsf26307-technical-tables-tables-pdfs.zip",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf26307/assets/technical-tables/tables/nsf26307-taba-001.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf26307/assets/technical-tables/tables/nsf26307-taba-002.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf26307/assets/technical-tables/tables/nsf26307-taba-002.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf26307/assets/technical-tables/tables/nsf26307-taba-004.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf26307/assets/technical-tables/tables/nsf26307-taba-003.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf26307/assets/technical-tables/tables/nsf26307-taba-003.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf26307/assets/technical-tables/tables/nsf26307-taba-004.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf26307/assets/technical-tables/tables/nsf26307-taba-005.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf26307/assets/technical-tables/tables/nsf26307-taba-005.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf26307/assets/technical-tables/tables/nsf26307-taba-006.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf26307/assets/technical-tables/tables/nsf26307-taba-007.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf26307/assets/technical-tables/tables/nsf26307-taba-006.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf26307/assets/technical-tables/tables/nsf26307-taba-007.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf26307/assets/technical-tables/tables/nsf26307-taba-008.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf26307/assets/technical-tables/tables/nsf26307-taba-009.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf26307/assets/technical-tables/tables/nsf26307-taba-009.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf26307/assets/technical-tables/tables/nsf26307-taba-008.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf26307/assets/technical-tables/tables/nsf26307-taba-011.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf26307/assets/technical-tables/tables/nsf26307-taba-010.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf26307/assets/technical-tables/tables/nsf26307-taba-011.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf26307/assets/technical-tables/tables/nsf26307-taba-010.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/1659/assets/0/files/srvygradstudentspostdocs2023.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf26307/assets/technical-tables/tables/nsf26307-tabb-001.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/archived?url=https://www.nsf.gov/statistics/questionnaires.cfm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099",
+     "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14495"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf26307/assets/technical-tables/tables/nsf26307-tabb-001.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf26307/assets/data-tables/tables/nsf26307-tab001-003.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf26307/assets/data-tables/tables/nsf26307-tab001-003.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf26307/assets/data-tables/tables/nsf26307-tab001-001.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf26307/assets/data-tables/tables/nsf26307-tab001-001.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf26307/assets/data-tables/tables/nsf26307-tab002-001.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf26307/assets/data-tables/tables/nsf26307-tab003-002.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf26307/assets/data-tables/tables/nsf26307-tab003-002.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf26307/assets/data-tables/tables/nsf26307-tab002-001.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf26307/assets/data-tables/tables/nsf26307-tab004-001.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf26307/assets/data-tables/tables/nsf26307-tab004-001.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+     "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 25,
+  "alfa": 10,
+  "plain-language": 17,
+  "resources": 25,
+  "images": 25,
+  "link-check": 25,
+  "deprecated-html": 2,
+  "public-interest": 3,
+  "tech": 2,
+  "sustainability": 3,
+  "standards": 12,
+  "lighthouse": 6,
+  "third-party": 4,
+  "security": 1
+ },
+ "tally": {
+  "ok": 25,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-25T11:55:53.526Z"
+}
