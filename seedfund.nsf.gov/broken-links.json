@@ -1,0 +1,71 @@
+{
+ "domain": "seedfund.nsf.gov",
+ "updatedAt": "2026-10-25T08:43:16.574Z",
+ "links": {
+  "https://relavomedical.com/": {
+   "status": 0,
+   "reason": "UND_ERR_CONNECT_TIMEOUT",
+   "firstSeen": "2026-W43",
+   "lastSeen": "2026-W43",
+   "_weeks": [
+    "2026-W43"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/news/relavo"
+   ]
+  },
+  "https://www.sam.gov/SAM/": {
+   "status": 500,
+   "reason": "HTTP 500",
+   "firstSeen": "2026-W43",
+   "lastSeen": "2026-W43",
+   "_weeks": [
+    "2026-W43"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/how-to-submit/unique-entity-id"
+   ]
+  },
+  "http://betahatch.com/": {
+   "status": 500,
+   "reason": "HTTP 500",
+   "firstSeen": "2026-W43",
+   "lastSeen": "2026-W43",
+   "_weeks": [
+    "2026-W43"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/showcase"
+   ]
+  },
+  "https://artaic.com/": {
+   "status": 0,
+   "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+   "firstSeen": "2026-W43",
+   "lastSeen": "2026-W43",
+   "_weeks": [
+    "2026-W43"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/showcase"
+   ]
+  },
+  "https://captionhealth.com/": {
+   "status": 0,
+   "reason": "ERR_SSL_TLSV1_ALERT_INTERNAL_ERROR",
+   "firstSeen": "2026-W43",
+   "lastSeen": "2026-W43",
+   "_weeks": [
+    "2026-W43"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/showcase"
+   ]
+  }
+ }
+}

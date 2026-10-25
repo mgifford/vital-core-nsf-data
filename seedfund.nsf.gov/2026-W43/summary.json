@@ -1,0 +1,5289 @@
+{
+ "domain": "seedfund.nsf.gov",
+ "week": "2026-W43",
+ "generatedAt": "2026-10-25T08:43:16.532Z",
+ "pagesScanned": 25,
+ "pagesAudited": 25,
+ "coverage": {
+  "axe": 25,
+  "resources": 25,
+  "standards": 12,
+  "alfa": 9,
+  "plain-language": 12,
+  "deprecated-html": 1,
+  "sustainability": 4,
+  "tech": 1,
+  "security": 2,
+  "lighthouse": 1
+ },
+ "blocked": null,
+ "axe": {
+  "violationTotal": 150,
+  "pagesWithViolations": 25,
+  "pagesScanned": 25,
+  "medianViolations": 6,
+  "rules": {
+   "heading-order": {
+    "count": 17,
+    "pages": 11,
+    "impact": "moderate",
+    "help": "Heading levels should only increase by one",
+    "helpUrl": "https://dequeuniversity.com/rules/axe/4.14/heading-order?application=axeAPI",
+    "tags": [
+     "best-practice"
+    ],
+    "examplePages": [
+     "https://seedfund.nsf.gov/awardees/history/details?company=emerald-tutu-inc-the",
+     "https://seedfund.nsf.gov/awardees/history/details?company=ubiqd-inc",
+     "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://seedfund.nsf.gov/awardees/history/details?company=emerald-tutu-inc-the",
+      "instances": 2
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/history/details?company=ubiqd-inc",
+      "instances": 2
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc",
+      "instances": 2
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/phase-1/details?company=coolaimate-inc",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/phase-1/details?company=sofab-inks-llc",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/phase-1/details?company=opal-htm-inc",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/history/details?company=resource-chemical-corp",
+      "instances": 2
+     },
+     {
+      "url": "https://seedfund.nsf.gov/portfolio/details?company=folia-water-inc",
+      "instances": 2
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/history/details?company=iambic-inc",
+      "instances": 2
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/phase-1/details?company=orion-wave-technology-corporation",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/phase-1/details?company=rumedical-nova-limited-liability-co",
+      "instances": 1
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://seedfund.nsf.gov/awardees/history/details?company=emerald-tutu-inc-the",
+      "target": ".award:nth-child(1) > .usa-section.usa-grid > .usa-grid-full > .usa-width-one-fourth > .mb5:nth-child(1) > h4",
+      "html": "<h4 class=\"subhead uppercase\">Project Leader</h4>"
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/history/details?company=emerald-tutu-inc-the",
+      "target": ".award:nth-child(2) > .usa-section.usa-grid > .usa-grid-full > .usa-width-one-fourth > .mb5:nth-child(1) > h4",
+      "html": "<h4 class=\"subhead uppercase\">Project Leader</h4>"
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/history/details?company=ubiqd-inc",
+      "target": ".award:nth-child(1) > .usa-section.usa-grid > .usa-grid-full > .usa-width-one-fourth > .mb5:nth-child(1) > h4",
+      "html": "<h4 class=\"subhead uppercase\">Project Leader</h4>"
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/history/details?company=ubiqd-inc",
+      "target": ".award:nth-child(2) > .usa-section.usa-grid > .usa-grid-full > .usa-width-one-fourth > .mb5:nth-child(1) > h4",
+      "html": "<h4 class=\"subhead uppercase\">Project Leader</h4>"
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc",
+      "target": ".award:nth-child(1) > .usa-section.usa-grid > .usa-grid-full > .usa-width-one-fourth > .mb5:nth-child(1) > h4",
+      "html": "<h4 class=\"subhead uppercase\">Project Leader</h4>"
+     }
+    ]
+   },
+   "landmark-banner-is-top-level": {
+    "count": 23,
+    "pages": 23,
+    "impact": "moderate",
+    "help": "Banner landmark should not be contained in another landmark",
+    "helpUrl": "https://dequeuniversity.com/rules/axe/4.14/landmark-banner-is-top-level?application=axeAPI",
+    "tags": [
+     "best-practice"
+    ],
+    "examplePages": [
+     "https://seedfund.nsf.gov/awardees/history/details?company=emerald-tutu-inc-the",
+     "https://seedfund.nsf.gov/news/RubiLaboratories",
+     "https://seedfund.nsf.gov/news/akanocure-pharmaceuticals"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://seedfund.nsf.gov/awardees/history/details?company=emerald-tutu-inc-the",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/RubiLaboratories",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/akanocure-pharmaceuticals",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/relavo",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/cyclopure",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/history/details?company=ubiqd-inc",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/UpstreamBiotechnology",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/phase-1/details?company=coolaimate-inc",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/showcase",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/alloy-enterprises",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/phase-1/details?company=sofab-inks-llc",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/phase-1/details?company=opal-htm-inc",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/Thiozen",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/history/details?company=resource-chemical-corp",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/portfolio/details?company=folia-water-inc",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/history/details?company=iambic-inc",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/phase-1/details?company=orion-wave-technology-corporation",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/resources/awardees/phase-1/rules-and-regulations",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/shark-wheel",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/phase-1/details?company=rumedical-nova-limited-liability-co",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/how-to-submit/unique-entity-id",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/topics/robotics",
+      "instances": 1
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://seedfund.nsf.gov/awardees/history/details?company=emerald-tutu-inc-the",
+      "target": ".usa-banner-header",
+      "html": "<header class=\"usa-banner-header\">"
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/RubiLaboratories",
+      "target": ".usa-banner-header",
+      "html": "<header class=\"usa-banner-header\">"
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/akanocure-pharmaceuticals",
+      "target": ".usa-banner-header",
+      "html": "<header class=\"usa-banner-header\">"
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/relavo",
+      "target": ".usa-banner-header",
+      "html": "<header class=\"usa-banner-header\">"
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/cyclopure",
+      "target": ".usa-banner-header",
+      "html": "<header class=\"usa-banner-header\">"
+     }
+    ]
+   },
+   "landmark-no-duplicate-banner": {
+    "count": 23,
+    "pages": 23,
+    "impact": "moderate",
+    "help": "Document should not have more than one banner landmark",
+    "helpUrl": "https://dequeuniversity.com/rules/axe/4.14/landmark-no-duplicate-banner?application=axeAPI",
+    "tags": [
+     "best-practice"
+    ],
+    "examplePages": [
+     "https://seedfund.nsf.gov/awardees/history/details?company=emerald-tutu-inc-the",
+     "https://seedfund.nsf.gov/news/RubiLaboratories",
+     "https://seedfund.nsf.gov/news/akanocure-pharmaceuticals"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://seedfund.nsf.gov/awardees/history/details?company=emerald-tutu-inc-the",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/RubiLaboratories",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/akanocure-pharmaceuticals",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/relavo",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/cyclopure",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/history/details?company=ubiqd-inc",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/UpstreamBiotechnology",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/phase-1/details?company=coolaimate-inc",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/showcase",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/alloy-enterprises",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/phase-1/details?company=sofab-inks-llc",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/phase-1/details?company=opal-htm-inc",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/Thiozen",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/history/details?company=resource-chemical-corp",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/portfolio/details?company=folia-water-inc",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/history/details?company=iambic-inc",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/phase-1/details?company=orion-wave-technology-corporation",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/resources/awardees/phase-1/rules-and-regulations",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/shark-wheel",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/phase-1/details?company=rumedical-nova-limited-liability-co",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/how-to-submit/unique-entity-id",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/topics/robotics",
+      "instances": 1
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://seedfund.nsf.gov/awardees/history/details?company=emerald-tutu-inc-the",
+      "target": ".usa-header",
+      "html": "<header class=\"usa-header usa-header-basic header--fixed\" role=\"banner\">"
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/RubiLaboratories",
+      "target": ".usa-header",
+      "html": "<header class=\"usa-header usa-header-basic header--fixed\" role=\"banner\">"
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/akanocure-pharmaceuticals",
+      "target": ".usa-header",
+      "html": "<header class=\"usa-header usa-header-basic header--fixed\" role=\"banner\">"
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/relavo",
+      "target": ".usa-header",
+      "html": "<header class=\"usa-header usa-header-basic header--fixed\" role=\"banner\">"
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/cyclopure",
+      "target": ".usa-header",
+      "html": "<header class=\"usa-header usa-header-basic header--fixed\" role=\"banner\">"
+     }
+    ]
+   },
+   "landmark-unique": {
+    "count": 31,
+    "pages": 23,
+    "impact": "moderate",
+    "help": "Landmarks should have a unique role or role/label/title (i.e. accessible name) combination",
+    "helpUrl": "https://dequeuniversity.com/rules/axe/4.14/landmark-unique?application=axeAPI",
+    "tags": [
+     "best-practice"
+    ],
+    "examplePages": [
+     "https://seedfund.nsf.gov/awardees/history/details?company=emerald-tutu-inc-the",
+     "https://seedfund.nsf.gov/news/RubiLaboratories",
+     "https://seedfund.nsf.gov/news/akanocure-pharmaceuticals"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://seedfund.nsf.gov/awardees/history/details?company=emerald-tutu-inc-the",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/RubiLaboratories",
+      "instances": 2
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/akanocure-pharmaceuticals",
+      "instances": 2
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/relavo",
+      "instances": 2
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/cyclopure",
+      "instances": 2
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/history/details?company=ubiqd-inc",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/UpstreamBiotechnology",
+      "instances": 2
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/phase-1/details?company=coolaimate-inc",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/showcase",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/alloy-enterprises",
+      "instances": 2
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/phase-1/details?company=sofab-inks-llc",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/phase-1/details?company=opal-htm-inc",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/Thiozen",
+      "instances": 2
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/history/details?company=resource-chemical-corp",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/portfolio/details?company=folia-water-inc",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/history/details?company=iambic-inc",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/phase-1/details?company=orion-wave-technology-corporation",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/resources/awardees/phase-1/rules-and-regulations",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/shark-wheel",
+      "instances": 2
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/phase-1/details?company=rumedical-nova-limited-liability-co",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/how-to-submit/unique-entity-id",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/topics/robotics",
+      "instances": 1
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://seedfund.nsf.gov/awardees/history/details?company=emerald-tutu-inc-the",
+      "target": ".usa-header",
+      "html": "<header class=\"usa-header usa-header-basic header--fixed\" role=\"banner\">"
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/RubiLaboratories",
+      "target": ".usa-header",
+      "html": "<header class=\"usa-header usa-header-basic header--fixed\" role=\"banner\">"
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/RubiLaboratories",
+      "target": ".main-content-headroom",
+      "html": "<main id=\"main-content\" class=\"main-content-headroom\">"
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/akanocure-pharmaceuticals",
+      "target": ".usa-header",
+      "html": "<header class=\"usa-header usa-header-basic header--fixed\" role=\"banner\">"
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/akanocure-pharmaceuticals",
+      "target": ".main-content-headroom",
+      "html": "<main id=\"main-content\" class=\"main-content-headroom\">"
+     }
+    ]
+   },
+   "link-in-text-block": {
+    "count": 23,
+    "pages": 23,
+    "impact": "serious",
+    "help": "Links must be distinguishable without relying on color",
+    "helpUrl": "https://dequeuniversity.com/rules/axe/4.14/link-in-text-block?application=axeAPI",
+    "tags": [
+     "wcag2a",
+     "wcag141"
+    ],
+    "examplePages": [
+     "https://seedfund.nsf.gov/awardees/history/details?company=emerald-tutu-inc-the",
+     "https://seedfund.nsf.gov/news/RubiLaboratories",
+     "https://seedfund.nsf.gov/news/akanocure-pharmaceuticals"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://seedfund.nsf.gov/awardees/history/details?company=emerald-tutu-inc-the",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/RubiLaboratories",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/akanocure-pharmaceuticals",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/relavo",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/cyclopure",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/history/details?company=ubiqd-inc",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/UpstreamBiotechnology",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/phase-1/details?company=coolaimate-inc",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/showcase",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/alloy-enterprises",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/phase-1/details?company=sofab-inks-llc",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/phase-1/details?company=opal-htm-inc",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/Thiozen",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/history/details?company=resource-chemical-corp",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/portfolio/details?company=folia-water-inc",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/history/details?company=iambic-inc",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/phase-1/details?company=orion-wave-technology-corporation",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/resources/awardees/phase-1/rules-and-regulations",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/shark-wheel",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/phase-1/details?company=rumedical-nova-limited-liability-co",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/how-to-submit/unique-entity-id",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/topics/robotics",
+      "instances": 1
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://seedfund.nsf.gov/awardees/history/details?company=emerald-tutu-inc-the",
+      "target": ".banner-left > a[href$=\"solicitation-proposal/\"]",
+      "html": "<a href=\"/solicitation-proposal/\">click here</a>"
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/RubiLaboratories",
+      "target": ".banner-left > a[href$=\"solicitation-proposal/\"]",
+      "html": "<a href=\"/solicitation-proposal/\">click here</a>"
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/akanocure-pharmaceuticals",
+      "target": ".banner-left > a[href$=\"solicitation-proposal/\"]",
+      "html": "<a href=\"/solicitation-proposal/\">click here</a>"
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/relavo",
+      "target": ".banner-left > a[href$=\"solicitation-proposal/\"]",
+      "html": "<a href=\"/solicitation-proposal/\">click here</a>"
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/cyclopure",
+      "target": ".banner-left > a[href$=\"solicitation-proposal/\"]",
+      "html": "<a href=\"/solicitation-proposal/\">click here</a>"
+     }
+    ]
+   },
+   "landmark-main-is-top-level": {
+    "count": 8,
+    "pages": 8,
+    "impact": "moderate",
+    "help": "Main landmark should not be contained in another landmark",
+    "helpUrl": "https://dequeuniversity.com/rules/axe/4.14/landmark-main-is-top-level?application=axeAPI",
+    "tags": [
+     "best-practice"
+    ],
+    "examplePages": [
+     "https://seedfund.nsf.gov/news/RubiLaboratories",
+     "https://seedfund.nsf.gov/news/akanocure-pharmaceuticals",
+     "https://seedfund.nsf.gov/news/relavo"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://seedfund.nsf.gov/news/RubiLaboratories",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/akanocure-pharmaceuticals",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/relavo",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/cyclopure",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/UpstreamBiotechnology",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/alloy-enterprises",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/Thiozen",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/shark-wheel",
+      "instances": 1
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://seedfund.nsf.gov/news/RubiLaboratories",
+      "target": ".main-content-headroom > main",
+      "html": "<main id=\"main-content\">"
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/akanocure-pharmaceuticals",
+      "target": ".main-content-headroom > main",
+      "html": "<main id=\"main-content\">"
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/relavo",
+      "target": ".main-content-headroom > main",
+      "html": "<main id=\"main-content\">"
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/cyclopure",
+      "target": ".main-content-headroom > main",
+      "html": "<main id=\"main-content\">"
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/UpstreamBiotechnology",
+      "target": ".main-content-headroom > main",
+      "html": "<main id=\"main-content\">"
+     }
+    ]
+   },
+   "landmark-no-duplicate-main": {
+    "count": 8,
+    "pages": 8,
+    "impact": "moderate",
+    "help": "Document should not have more than one main landmark",
+    "helpUrl": "https://dequeuniversity.com/rules/axe/4.14/landmark-no-duplicate-main?application=axeAPI",
+    "tags": [
+     "best-practice"
+    ],
+    "examplePages": [
+     "https://seedfund.nsf.gov/news/RubiLaboratories",
+     "https://seedfund.nsf.gov/news/akanocure-pharmaceuticals",
+     "https://seedfund.nsf.gov/news/relavo"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://seedfund.nsf.gov/news/RubiLaboratories",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/akanocure-pharmaceuticals",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/relavo",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/cyclopure",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/UpstreamBiotechnology",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/alloy-enterprises",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/Thiozen",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/shark-wheel",
+      "instances": 1
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://seedfund.nsf.gov/news/RubiLaboratories",
+      "target": ".main-content-headroom",
+      "html": "<main id=\"main-content\" class=\"main-content-headroom\">"
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/akanocure-pharmaceuticals",
+      "target": ".main-content-headroom",
+      "html": "<main id=\"main-content\" class=\"main-content-headroom\">"
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/relavo",
+      "target": ".main-content-headroom",
+      "html": "<main id=\"main-content\" class=\"main-content-headroom\">"
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/cyclopure",
+      "target": ".main-content-headroom",
+      "html": "<main id=\"main-content\" class=\"main-content-headroom\">"
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/UpstreamBiotechnology",
+      "target": ".main-content-headroom",
+      "html": "<main id=\"main-content\" class=\"main-content-headroom\">"
+     }
+    ]
+   },
+   "page-has-heading-one": {
+    "count": 10,
+    "pages": 10,
+    "impact": "moderate",
+    "help": "Page should contain a level-one heading",
+    "helpUrl": "https://dequeuniversity.com/rules/axe/4.14/page-has-heading-one?application=axeAPI",
+    "tags": [
+     "best-practice"
+    ],
+    "examplePages": [
+     "https://seedfund.nsf.gov/news/RubiLaboratories",
+     "https://seedfund.nsf.gov/news/akanocure-pharmaceuticals",
+     "https://seedfund.nsf.gov/news/relavo"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://seedfund.nsf.gov/news/RubiLaboratories",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/akanocure-pharmaceuticals",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/relavo",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/cyclopure",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/UpstreamBiotechnology",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/assets/img/adcom/test.html",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/SAM.html",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/alloy-enterprises",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/Thiozen",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/shark-wheel",
+      "instances": 1
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://seedfund.nsf.gov/news/RubiLaboratories",
+      "target": "html",
+      "html": "<html lang=\"en-US\" class=\" js flexbox flexboxl...\">"
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/akanocure-pharmaceuticals",
+      "target": "html",
+      "html": "<html lang=\"en-US\" class=\" js flexbox flexboxl...\">"
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/relavo",
+      "target": "html",
+      "html": "<html lang=\"en-US\" class=\" js flexbox flexboxl...\">"
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/cyclopure",
+      "target": "html",
+      "html": "<html lang=\"en-US\" class=\" js flexbox flexboxl...\">"
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/UpstreamBiotechnology",
+      "target": "html",
+      "html": "<html lang=\"en-US\" class=\" js flexbox flexboxl...\">"
+     }
+    ]
+   },
+   "document-title": {
+    "count": 2,
+    "pages": 2,
+    "impact": "serious",
+    "help": "Documents must have <title> element to aid in navigation",
+    "helpUrl": "https://dequeuniversity.com/rules/axe/4.14/document-title?application=axeAPI",
+    "tags": [
+     "wcag2a",
+     "wcag242"
+    ],
+    "examplePages": [
+     "https://seedfund.nsf.gov/assets/img/adcom/test.html",
+     "https://seedfund.nsf.gov/SAM.html"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://seedfund.nsf.gov/assets/img/adcom/test.html",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/SAM.html",
+      "instances": 1
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://seedfund.nsf.gov/assets/img/adcom/test.html",
+      "target": "html",
+      "html": "<html><head></head><body></body></html>"
+     },
+     {
+      "url": "https://seedfund.nsf.gov/SAM.html",
+      "target": "html",
+      "html": "<html><head></head><body><p>Any company that does business with the government needs a SAM account. When you register, you’ll have to share bank account information. Registration expires after one yea"
+     }
+    ]
+   },
+   "html-has-lang": {
+    "count": 2,
+    "pages": 2,
+    "impact": "serious",
+    "help": "<html> element must have a lang attribute",
+    "helpUrl": "https://dequeuniversity.com/rules/axe/4.14/html-has-lang?application=axeAPI",
+    "tags": [
+     "wcag2a",
+     "wcag311"
+    ],
+    "examplePages": [
+     "https://seedfund.nsf.gov/assets/img/adcom/test.html",
+     "https://seedfund.nsf.gov/SAM.html"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://seedfund.nsf.gov/assets/img/adcom/test.html",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/SAM.html",
+      "instances": 1
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://seedfund.nsf.gov/assets/img/adcom/test.html",
+      "target": "html",
+      "html": "<html><head></head><body></body></html>"
+     },
+     {
+      "url": "https://seedfund.nsf.gov/SAM.html",
+      "target": "html",
+      "html": "<html><head></head><body><p>Any company that does business with the government needs a SAM account. When you register, you’ll have to share bank account information. Registration expires after one yea"
+     }
+    ]
+   },
+   "landmark-one-main": {
+    "count": 2,
+    "pages": 2,
+    "impact": "moderate",
+    "help": "Document should have one main landmark",
+    "helpUrl": "https://dequeuniversity.com/rules/axe/4.14/landmark-one-main?application=axeAPI",
+    "tags": [
+     "best-practice"
+    ],
+    "examplePages": [
+     "https://seedfund.nsf.gov/assets/img/adcom/test.html",
+     "https://seedfund.nsf.gov/SAM.html"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://seedfund.nsf.gov/assets/img/adcom/test.html",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/SAM.html",
+      "instances": 1
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://seedfund.nsf.gov/assets/img/adcom/test.html",
+      "target": "html",
+      "html": "<html><head></head><body></body></html>"
+     },
+     {
+      "url": "https://seedfund.nsf.gov/SAM.html",
+      "target": "html",
+      "html": "<html><head></head><body><p>Any company that does business with the government needs a SAM account. When you register, you’ll have to share bank account information. Registration expires after one yea"
+     }
+    ]
+   },
+   "region": {
+    "count": 1,
+    "pages": 1,
+    "impact": "moderate",
+    "help": "All page content should be contained by landmarks",
+    "helpUrl": "https://dequeuniversity.com/rules/axe/4.14/region?application=axeAPI",
+    "tags": [
+     "best-practice"
+    ],
+    "examplePages": [
+     "https://seedfund.nsf.gov/SAM.html"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://seedfund.nsf.gov/SAM.html",
+      "instances": 1
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://seedfund.nsf.gov/SAM.html",
+      "target": "p",
+      "html": "<p>Any company that does business with the government needs a SAM account. When you register, you’ll have to share bank account information. Registration expires after one year.</p>"
+     }
+    ]
+   }
+  }
+ },
+ "alfa": {
+  "failedTotal": 228,
+  "pagesWithFailures": 9,
+  "pagesScanned": 9,
+  "medianFailures": 22,
+  "rules": {
+   "sia-r61": {
+    "count": 1,
+    "pages": 1,
+    "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r61",
+    "examplePages": [
+     "https://seedfund.nsf.gov/news/RubiLaboratories"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://seedfund.nsf.gov/news/RubiLaboratories",
+      "instances": 1
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://seedfund.nsf.gov/news/RubiLaboratories",
+      "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
+      "html": null
+     }
+    ]
+   },
+   "sia-r111": {
+    "count": 176,
+    "pages": 8,
+    "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r111",
+    "examplePages": [
+     "https://seedfund.nsf.gov/news/RubiLaboratories",
+     "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=coolaimate-inc"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://seedfund.nsf.gov/news/RubiLaboratories",
+      "instances": 17
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc",
+      "instances": 22
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/phase-1/details?company=coolaimate-inc",
+      "instances": 19
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/phase-1/details?company=sofab-inks-llc",
+      "instances": 19
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/phase-1/details?company=orion-wave-technology-corporation",
+      "instances": 19
+     },
+     {
+      "url": "https://seedfund.nsf.gov/resources/awardees/phase-1/rules-and-regulations",
+      "instances": 32
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/phase-1/details?company=rumedical-nova-limited-liability-co",
+      "instances": 19
+     },
+     {
+      "url": "https://seedfund.nsf.gov/how-to-submit/unique-entity-id",
+      "instances": 29
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://seedfund.nsf.gov/news/RubiLaboratories",
+      "target": "<a href=\"#\">",
+      "html": null
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/RubiLaboratories",
+      "target": "<a href=\"https://www.sbir.gov/fraud-waste-abuse\" target=\"_blank\" rel=\"noopener noreferrer\">",
+      "html": null
+     },
+     {
+      "url": "https://seedfund.nsf.gov/news/RubiLaboratories",
+      "target": "<a class=\"usa-footer-primary-link\" href=\"/about/\">",
+      "html": null
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc",
+      "target": "<a href=\"mailto:fcassou@cyclopure.com\">",
+      "html": null
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc",
+      "target": "<a href=\"tel:9176124649\">",
+      "html": null
+     }
+    ]
+   },
+   "sia-r4": {
+    "count": 1,
+    "pages": 1,
+    "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r4",
+    "examplePages": [
+     "https://seedfund.nsf.gov/assets/img/adcom/test.html"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://seedfund.nsf.gov/assets/img/adcom/test.html",
+      "instances": 1
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://seedfund.nsf.gov/assets/img/adcom/test.html",
+      "target": "<html>",
+      "html": null
+     }
+    ]
+   },
+   "sia-r1": {
+    "count": 1,
+    "pages": 1,
+    "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r1",
+    "examplePages": [
+     "https://seedfund.nsf.gov/assets/img/adcom/test.html"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://seedfund.nsf.gov/assets/img/adcom/test.html",
+      "instances": 1
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://seedfund.nsf.gov/assets/img/adcom/test.html",
+      "target": "{\"type\":\"document\",\"children\":[{\"type\":\"element\",\"children\":[{\"type\":\"element\",\"",
+      "html": null
+     }
+    ]
+   },
+   "sia-r59": {
+    "count": 1,
+    "pages": 1,
+    "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r59",
+    "examplePages": [
+     "https://seedfund.nsf.gov/assets/img/adcom/test.html"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://seedfund.nsf.gov/assets/img/adcom/test.html",
+      "instances": 1
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://seedfund.nsf.gov/assets/img/adcom/test.html",
+      "target": "{\"type\":\"document\",\"children\":[{\"type\":\"element\",\"children\":[{\"type\":\"element\",\"",
+      "html": null
+     }
+    ]
+   },
+   "sia-r87": {
+    "count": 1,
+    "pages": 1,
+    "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r87",
+    "examplePages": [
+     "https://seedfund.nsf.gov/assets/img/adcom/test.html"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://seedfund.nsf.gov/assets/img/adcom/test.html",
+      "instances": 1
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://seedfund.nsf.gov/assets/img/adcom/test.html",
+      "target": "{\"type\":\"document\",\"children\":[{\"type\":\"element\",\"children\":[{\"type\":\"element\",\"",
+      "html": null
+     }
+    ]
+   },
+   "sia-r20": {
+    "count": 5,
+    "pages": 5,
+    "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r20",
+    "examplePages": [
+     "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=coolaimate-inc",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=sofab-inks-llc"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/phase-1/details?company=coolaimate-inc",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/phase-1/details?company=sofab-inks-llc",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/phase-1/details?company=orion-wave-technology-corporation",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/phase-1/details?company=rumedical-nova-limited-liability-co",
+      "instances": 1
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc",
+      "target": "@aria-role=\"img\"",
+      "html": null
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/phase-1/details?company=coolaimate-inc",
+      "target": "@aria-role=\"img\"",
+      "html": null
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/phase-1/details?company=sofab-inks-llc",
+      "target": "@aria-role=\"img\"",
+      "html": null
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/phase-1/details?company=orion-wave-technology-corporation",
+      "target": "@aria-role=\"img\"",
+      "html": null
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/phase-1/details?company=rumedical-nova-limited-liability-co",
+      "target": "@aria-role=\"img\"",
+      "html": null
+     }
+    ]
+   },
+   "sia-r53": {
+    "count": 6,
+    "pages": 5,
+    "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r53",
+    "examplePages": [
+     "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=coolaimate-inc",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=sofab-inks-llc"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc",
+      "instances": 2
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/phase-1/details?company=coolaimate-inc",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/phase-1/details?company=sofab-inks-llc",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/phase-1/details?company=orion-wave-technology-corporation",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/phase-1/details?company=rumedical-nova-limited-liability-co",
+      "instances": 1
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc",
+      "target": "<h4 class=\"subhead uppercase\">",
+      "html": null
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc",
+      "target": "<h4 class=\"subhead uppercase\">",
+      "html": null
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/phase-1/details?company=coolaimate-inc",
+      "target": "<h4 class=\"subhead uppercase\">",
+      "html": null
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/phase-1/details?company=sofab-inks-llc",
+      "target": "<h4 class=\"subhead uppercase\">",
+      "html": null
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/phase-1/details?company=orion-wave-technology-corporation",
+      "target": "<h4 class=\"subhead uppercase\">",
+      "html": null
+     }
+    ]
+   },
+   "sia-r78": {
+    "count": 6,
+    "pages": 5,
+    "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r78",
+    "examplePages": [
+     "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=coolaimate-inc",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=sofab-inks-llc"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc",
+      "instances": 2
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/phase-1/details?company=coolaimate-inc",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/phase-1/details?company=sofab-inks-llc",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/phase-1/details?company=orion-wave-technology-corporation",
+      "instances": 1
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/phase-1/details?company=rumedical-nova-limited-liability-co",
+      "instances": 1
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc",
+      "target": "<h2 class=\"h2 results-company-title\" style=\"\">",
+      "html": null
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc",
+      "target": "<h2 class=\"h2 results-company-title\" style=\"\">",
+      "html": null
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/phase-1/details?company=coolaimate-inc",
+      "target": "<h2 class=\"h1 results-company-title\" style=\"\">",
+      "html": null
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/phase-1/details?company=sofab-inks-llc",
+      "target": "<h2 class=\"h1 results-company-title\" style=\"\">",
+      "html": null
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/phase-1/details?company=orion-wave-technology-corporation",
+      "target": "<h2 class=\"h1 results-company-title\" style=\"\">",
+      "html": null
+     }
+    ]
+   },
+   "sia-r18": {
+    "count": 2,
+    "pages": 1,
+    "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r18",
+    "examplePages": [
+     "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc",
+      "instances": 2
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc",
+      "target": "@aria-label=\"address\"",
+      "html": null
+     },
+     {
+      "url": "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc",
+      "target": "@aria-label=\"address\"",
+      "html": null
+     }
+    ]
+   },
+   "sia-r66": {
+    "count": 28,
+    "pages": 2,
+    "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r66",
+    "examplePages": [
+     "https://seedfund.nsf.gov/resources/awardees/phase-1/rules-and-regulations",
+     "https://seedfund.nsf.gov/how-to-submit/unique-entity-id"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://seedfund.nsf.gov/resources/awardees/phase-1/rules-and-regulations",
+      "instances": 16
+     },
+     {
+      "url": "https://seedfund.nsf.gov/how-to-submit/unique-entity-id",
+      "instances": 12
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://seedfund.nsf.gov/resources/awardees/phase-1/rules-and-regulations",
+      "target": "text: \"\n      The basics\n    \"",
+      "html": null
+     },
+     {
+      "url": "https://seedfund.nsf.gov/resources/awardees/phase-1/rules-and-regulations",
+      "target": "text: \"\n      Accounting\n    \"",
+      "html": null
+     },
+     {
+      "url": "https://seedfund.nsf.gov/resources/awardees/phase-1/rules-and-regulations",
+      "target": "text: \"\n      Tax Information - IMPORTANT\n    \"",
+      "html": null
+     },
+     {
+      "url": "https://seedfund.nsf.gov/how-to-submit/unique-entity-id",
+      "target": "text: \"\n      Overview\n    \"",
+      "html": null
+     },
+     {
+      "url": "https://seedfund.nsf.gov/how-to-submit/unique-entity-id",
+      "target": "text: \"\n      Required Registrations\n    \"",
+      "html": null
+     }
+    ]
+   }
+  }
+ },
+ "consensus": {
+  "uniqueIssues": 165,
+  "consensus": 2,
+  "axeOnly": 134,
+  "alfaOnly": 29,
+  "rawAxe": 136,
+  "rawAlfa": 31,
+  "byKey": {
+   "axe-core:heading-order": {
+    "actRuleId": null,
+    "axeRules": [
+     "heading-order"
+    ],
+    "alfaRules": [],
+    "pages": 11,
+    "engines": "axe"
+   },
+   "axe-core:landmark-banner-is-top-level": {
+    "actRuleId": null,
+    "axeRules": [
+     "landmark-banner-is-top-level"
+    ],
+    "alfaRules": [],
+    "pages": 23,
+    "engines": "axe"
+   },
+   "axe-core:landmark-no-duplicate-banner": {
+    "actRuleId": null,
+    "axeRules": [
+     "landmark-no-duplicate-banner"
+    ],
+    "alfaRules": [],
+    "pages": 23,
+    "engines": "axe"
+   },
+   "axe-core:landmark-unique": {
+    "actRuleId": null,
+    "axeRules": [
+     "landmark-unique"
+    ],
+    "alfaRules": [],
+    "pages": 23,
+    "engines": "axe"
+   },
+   "axe-core:link-in-text-block": {
+    "actRuleId": null,
+    "axeRules": [
+     "link-in-text-block"
+    ],
+    "alfaRules": [],
+    "pages": 23,
+    "engines": "axe"
+   },
+   "axe-core:landmark-main-is-top-level": {
+    "actRuleId": null,
+    "axeRules": [
+     "landmark-main-is-top-level"
+    ],
+    "alfaRules": [],
+    "pages": 8,
+    "engines": "axe"
+   },
+   "axe-core:landmark-no-duplicate-main": {
+    "actRuleId": null,
+    "axeRules": [
+     "landmark-no-duplicate-main"
+    ],
+    "alfaRules": [],
+    "pages": 8,
+    "engines": "axe"
+   },
+   "axe-core:page-has-heading-one": {
+    "actRuleId": null,
+    "axeRules": [
+     "page-has-heading-one"
+    ],
+    "alfaRules": [],
+    "pages": 10,
+    "engines": "axe"
+   },
+   "act:2779a5": {
+    "actRuleId": "2779a5",
+    "axeRules": [
+     "document-title"
+    ],
+    "alfaRules": [
+     "sia-r1"
+    ],
+    "pages": 2,
+    "engines": "both"
+   },
+   "act:b5c3f8": {
+    "actRuleId": "b5c3f8",
+    "axeRules": [
+     "html-has-lang"
+    ],
+    "alfaRules": [
+     "sia-r4"
+    ],
+    "pages": 2,
+    "engines": "both"
+   },
+   "axe-core:landmark-one-main": {
+    "actRuleId": null,
+    "axeRules": [
+     "landmark-one-main"
+    ],
+    "alfaRules": [],
+    "pages": 2,
+    "engines": "axe"
+   },
+   "axe-core:region": {
+    "actRuleId": null,
+    "axeRules": [
+     "region"
+    ],
+    "alfaRules": [],
+    "pages": 1,
+    "engines": "axe"
+   },
+   "alfa:sia-r61": {
+    "actRuleId": null,
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r61"
+    ],
+    "pages": 1,
+    "engines": "alfa"
+   },
+   "alfa:sia-r111": {
+    "actRuleId": null,
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r111"
+    ],
+    "pages": 8,
+    "engines": "alfa"
+   },
+   "alfa:sia-r59": {
+    "actRuleId": null,
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r59"
+    ],
+    "pages": 1,
+    "engines": "alfa"
+   },
+   "alfa:sia-r87": {
+    "actRuleId": null,
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r87"
+    ],
+    "pages": 1,
+    "engines": "alfa"
+   },
+   "act:5f99a7": {
+    "actRuleId": "5f99a7",
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r20"
+    ],
+    "pages": 5,
+    "engines": "alfa"
+   },
+   "alfa:sia-r53": {
+    "actRuleId": null,
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r53"
+    ],
+    "pages": 5,
+    "engines": "alfa"
+   },
+   "alfa:sia-r78": {
+    "actRuleId": null,
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r78"
+    ],
+    "pages": 5,
+    "engines": "alfa"
+   },
+   "act:5c01ea": {
+    "actRuleId": "5c01ea",
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r18"
+    ],
+    "pages": 1,
+    "engines": "alfa"
+   },
+   "alfa:sia-r66": {
+    "actRuleId": null,
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r66"
+    ],
+    "pages": 2,
+    "engines": "alfa"
+   }
+  }
+ },
+ "sustainability": {
+  "pages": 4,
+  "medianBytes": 876130,
+  "meanBytes": 1134362,
+  "medianRequests": 30,
+  "totalCo2g": 0.67,
+  "meanCo2g": 0.1681,
+  "totalEnergyWh": 1.36,
+  "meanEnergyWh": 0.3403
+ },
+ "deprecatedHtml": null,
+ "resources": {
+  "total": 27,
+  "byType": {
+   "embedded-media": 24,
+   "pdf": 3
+  },
+  "list": [
+   {
+    "url": "https://www.youtube.com/embed/FxNogB3gV60?modestbranding=1&showinfo=0&fs=1&enablejsapi=1&origin=https%3A%2F%2Fseedfund.nsf.gov",
+    "type": "embedded-media",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/showcase"
+    ]
+   },
+   {
+    "url": "https://www.youtube.com/embed/1ZFHZuNbxhs?modestbranding=1&showinfo=0&fs=1&enablejsapi=1&origin=https%3A%2F%2Fseedfund.nsf.gov",
+    "type": "embedded-media",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/showcase"
+    ]
+   },
+   {
+    "url": "https://www.youtube.com/embed/mKWCoHlInZg?enablejsapi=1&origin=https%3A%2F%2Fseedfund.nsf.gov",
+    "type": "embedded-media",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/showcase"
+    ]
+   },
+   {
+    "url": "https://www.youtube.com/embed/OsLDAevskrA?enablejsapi=1&origin=https%3A%2F%2Fseedfund.nsf.gov",
+    "type": "embedded-media",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/showcase"
+    ]
+   },
+   {
+    "url": "https://www.youtube.com/embed/RcPFQJorwpc?modestbranding=1&showinfo=0&fs=1&enablejsapi=1&origin=https%3A%2F%2Fseedfund.nsf.gov",
+    "type": "embedded-media",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/showcase"
+    ]
+   },
+   {
+    "url": "https://www.youtube.com/embed/rnUx5iRdHWk?modestbranding=1&showinfo=0&fs=1&enablejsapi=1&origin=https%3A%2F%2Fseedfund.nsf.gov",
+    "type": "embedded-media",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/showcase"
+    ]
+   },
+   {
+    "url": "https://www.youtube.com/embed/XDEgLYwdKP4?modestbranding=1&showinfo=0&fs=1&enablejsapi=1&origin=https%3A%2F%2Fseedfund.nsf.gov",
+    "type": "embedded-media",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/showcase"
+    ]
+   },
+   {
+    "url": "https://www.youtube.com/embed/w6oYYZFhzeE?modestbranding=1&showinfo=0&fs=1&enablejsapi=1&origin=https%3A%2F%2Fseedfund.nsf.gov",
+    "type": "embedded-media",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/showcase"
+    ]
+   },
+   {
+    "url": "https://www.youtube.com/embed/L-wLMGI6v9M?modestbranding=1&showinfo=0&fs=1&enablejsapi=1&origin=https%3A%2F%2Fseedfund.nsf.gov",
+    "type": "embedded-media",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/showcase"
+    ]
+   },
+   {
+    "url": "https://www.youtube.com/embed/1UAXId9owiY?modestbranding=1&showinfo=0&fs=1&enablejsapi=1&origin=https%3A%2F%2Fseedfund.nsf.gov",
+    "type": "embedded-media",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/showcase"
+    ]
+   },
+   {
+    "url": "https://www.youtube.com/embed/DRzAudR65tI?modestbranding=1&showinfo=0&fs=1&enablejsapi=1&origin=https%3A%2F%2Fseedfund.nsf.gov",
+    "type": "embedded-media",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/showcase"
+    ]
+   },
+   {
+    "url": "https://www.youtube.com/embed/iKqpWy_9KSE?modestbranding=1&showinfo=0&fs=1&enablejsapi=1&origin=https%3A%2F%2Fseedfund.nsf.gov",
+    "type": "embedded-media",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/showcase"
+    ]
+   },
+   {
+    "url": "https://www.youtube.com/embed/fnv-hdTCSPM?modestbranding=1&showinfo=0&fs=1&enablejsapi=1&origin=https%3A%2F%2Fseedfund.nsf.gov",
+    "type": "embedded-media",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/showcase"
+    ]
+   },
+   {
+    "url": "https://www.youtube.com/embed/LcDj-_89Tcw?modestbranding=1&showinfo=0&fs=1&enablejsapi=1&origin=https%3A%2F%2Fseedfund.nsf.gov",
+    "type": "embedded-media",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/showcase"
+    ]
+   },
+   {
+    "url": "https://www.youtube.com/embed/f5iYvMtqTAo?modestbranding=1&showinfo=0&fs=1&enablejsapi=1&origin=https%3A%2F%2Fseedfund.nsf.gov",
+    "type": "embedded-media",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/showcase"
+    ]
+   },
+   {
+    "url": "https://www.youtube.com/embed/BqzF0oIAXUI?modestbranding=1&showinfo=0&fs=1&enablejsapi=1&origin=https%3A%2F%2Fseedfund.nsf.gov",
+    "type": "embedded-media",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/showcase"
+    ]
+   },
+   {
+    "url": "https://www.youtube.com/embed/jvnyzUogCZo?modestbranding=1&showinfo=0&fs=1&enablejsapi=1&origin=https%3A%2F%2Fseedfund.nsf.gov",
+    "type": "embedded-media",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/showcase"
+    ]
+   },
+   {
+    "url": "https://www.youtube.com/embed/Pdm0hix7OiI?modestbranding=1&showinfo=0&fs=1&enablejsapi=1&origin=https%3A%2F%2Fseedfund.nsf.gov",
+    "type": "embedded-media",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/showcase"
+    ]
+   },
+   {
+    "url": "https://www.youtube.com/embed/XzgzRg9PwRc?modestbranding=1&showinfo=0&fs=1&enablejsapi=1&origin=https%3A%2F%2Fseedfund.nsf.gov",
+    "type": "embedded-media",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/showcase"
+    ]
+   },
+   {
+    "url": "https://www.youtube.com/embed/ksxUK6OWpOA?modestbranding=1&showinfo=0&fs=1&enablejsapi=1&origin=https%3A%2F%2Fseedfund.nsf.gov",
+    "type": "embedded-media",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/showcase"
+    ]
+   },
+   {
+    "url": "https://www.youtube.com/embed/QdCIZE-eKB4?enablejsapi=1&origin=https%3A%2F%2Fseedfund.nsf.gov",
+    "type": "embedded-media",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/showcase"
+    ]
+   },
+   {
+    "url": "https://www.youtube.com/embed/Z4mwbSNvlp8?enablejsapi=1&origin=https%3A%2F%2Fseedfund.nsf.gov",
+    "type": "embedded-media",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/showcase"
+    ]
+   },
+   {
+    "url": "https://www.youtube.com/embed/OyR_i_nPkhA?enablejsapi=1&origin=https%3A%2F%2Fseedfund.nsf.gov",
+    "type": "embedded-media",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/showcase"
+    ]
+   },
+   {
+    "url": "https://fas.org/sgp/crs/misc/R44597.pdf",
+    "type": "pdf",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/resources/awardees/phase-1/rules-and-regulations"
+    ]
+   },
+   {
+    "url": "https://www.treasury.gov/ofac/downloads/ccmc/nscmiclist.pdf",
+    "type": "pdf",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/resources/awardees/phase-1/rules-and-regulations"
+    ]
+   },
+   {
+    "url": "https://media.defense.gov/2025/Jan/07/2003625471/-1/-1/1/ENTITIES-IDENTIFIED-AS-CHINESE-MILITARY-COMPANIES-OPERATING-IN-THE-UNITED-STATES.PDF",
+    "type": "pdf",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/resources/awardees/phase-1/rules-and-regulations"
+    ]
+   },
+   {
+    "url": "https://www.youtube.com/embed/ZuKJSA4uCPU?enablejsapi=1&origin=https%3A%2F%2Fseedfund.nsf.gov",
+    "type": "embedded-media",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/topics/robotics"
+    ]
+   }
+  ]
+ },
+ "standards": {
+  "pagesChecked": 12,
+  "checks": [
+   {
+    "id": "schema-gov",
+    "label": "schema.org GovernmentOrganization markup",
+    "pass": 0,
+    "total": 12,
+    "rate": 0
+   },
+   {
+    "id": "canonical",
+    "label": "Canonical URL declared",
+    "pass": 0,
+    "total": 12,
+    "rate": 0
+   },
+   {
+    "id": "hreflang",
+    "label": "hreflang alternates declared",
+    "pass": 0,
+    "total": 12,
+    "rate": 0
+   },
+   {
+    "id": "open-graph",
+    "label": "Open Graph tags (0/6)",
+    "pass": 0,
+    "total": 12,
+    "rate": 0
+   },
+   {
+    "id": "twitter-card",
+    "label": "Twitter card metadata",
+    "pass": 0,
+    "total": 12,
+    "rate": 0
+   },
+   {
+    "id": "open-social",
+    "label": "Open social presence (Mastodon/Bluesky) linked",
+    "pass": 0,
+    "total": 12,
+    "rate": 0
+   },
+   {
+    "id": "description",
+    "label": "Meta description present",
+    "pass": 2,
+    "total": 12,
+    "rate": 17
+   },
+   {
+    "id": "title",
+    "label": "Page has a <title>",
+    "pass": 11,
+    "total": 12,
+    "rate": 92
+   },
+   {
+    "id": "charset",
+    "label": "Character encoding declared",
+    "pass": 11,
+    "total": 12,
+    "rate": 92
+   },
+   {
+    "id": "lang",
+    "label": "Document language (lang) set",
+    "pass": 11,
+    "total": 12,
+    "rate": 92
+   },
+   {
+    "id": "viewport",
+    "label": "Responsive viewport (zoom not disabled)",
+    "pass": 11,
+    "total": 12,
+    "rate": 92
+   }
+  ],
+  "social": []
+ },
+ "resilience": {
+  "pagesChecked": 12,
+  "checks": [
+   {
+    "id": "pwa-manifest",
+    "label": "Web app manifest declared",
+    "pass": 0,
+    "total": 12,
+    "rate": 0,
+    "why": "A web app manifest is required for installability and controls how the app appears when launched.",
+    "evidenceExamples": []
+   },
+   {
+    "id": "pwa-service-worker",
+    "label": "Service worker registered",
+    "pass": 0,
+    "total": 12,
+    "rate": 0,
+    "why": "A service worker is what makes offline access, caching, and background sync possible.",
+    "evidenceExamples": []
+   },
+   {
+    "id": "pwa-theme-color",
+    "label": "Theme color declared",
+    "pass": 0,
+    "total": 12,
+    "rate": 0,
+    "why": "Theme color controls the browser chrome/status-bar color when the site is installed or bookmarked.",
+    "evidenceExamples": []
+   },
+   {
+    "id": "manifest-parsed",
+    "label": "Manifest fetched and parsed successfully",
+    "pass": 0,
+    "total": 12,
+    "rate": 0,
+    "why": "A manifest that fails to parse cannot drive installability or launch behavior even if the link is present.",
+    "evidenceExamples": [
+     {
+      "evidence": "No manifest declared",
+      "url": "https://seedfund.nsf.gov/awardees/history/details/?company=emerald-tutu-inc-the"
+     },
+     {
+      "evidence": "No manifest declared",
+      "url": "https://seedfund.nsf.gov/news/relavo/"
+     },
+     {
+      "evidence": "No manifest declared",
+      "url": "https://seedfund.nsf.gov/news/UpstreamBiotechnology/"
+     }
+    ]
+   },
+   {
+    "id": "manifest-maskable-icon",
+    "label": "Manifest declares a maskable icon",
+    "pass": 0,
+    "total": 12,
+    "rate": 0,
+    "why": "A maskable icon lets the OS safely crop/mask the app icon on different device shapes without clipping content.",
+    "evidenceExamples": [
+     {
+      "evidence": "No manifest declared",
+      "url": "https://seedfund.nsf.gov/awardees/history/details/?company=emerald-tutu-inc-the"
+     },
+     {
+      "evidence": "No manifest declared",
+      "url": "https://seedfund.nsf.gov/news/relavo/"
+     },
+     {
+      "evidence": "No manifest declared",
+      "url": "https://seedfund.nsf.gov/news/UpstreamBiotechnology/"
+     }
+    ]
+   },
+   {
+    "id": "sw-active",
+    "label": "Service worker is active (not just registered)",
+    "pass": 0,
+    "total": 12,
+    "rate": 0,
+    "why": "An active service worker (not just registered) is what actually intercepts requests and serves cached content.",
+    "evidenceExamples": []
+   },
+   {
+    "id": "sw-controlling",
+    "label": "Service worker controls this page load",
+    "pass": 0,
+    "total": 12,
+    "rate": 0,
+    "why": "A controlling service worker means THIS page load is being served/intercepted, not just a future one.",
+    "evidenceExamples": []
+   },
+   {
+    "id": "installable",
+    "label": "Meets basic installability criteria",
+    "pass": 0,
+    "total": 12,
+    "rate": 0,
+    "why": "Determines whether the browser can realistically offer \"Add to Home Screen\" / install, based on manifest + service worker + HTTPS together.",
+    "evidenceExamples": [
+     {
+      "evidence": "no readable web app manifest; no service worker registered",
+      "url": "https://seedfund.nsf.gov/awardees/history/details/?company=emerald-tutu-inc-the"
+     },
+     {
+      "evidence": "no readable web app manifest; no service worker registered",
+      "url": "https://seedfund.nsf.gov/news/relavo/"
+     },
+     {
+      "evidence": "no readable web app manifest; no service worker registered",
+      "url": "https://seedfund.nsf.gov/news/UpstreamBiotechnology/"
+     }
+    ]
+   },
+   {
+    "id": "pwa-apple-touch-icon",
+    "label": "Apple touch icon (iOS/bookmark icon)",
+    "pass": 11,
+    "total": 12,
+    "rate": 92,
+    "why": "iOS uses this icon for home-screen bookmarks and \"Add to Home Screen\" — without it the icon falls back to a screenshot.",
+    "evidenceExamples": []
+   },
+   {
+    "id": "pwa-https",
+    "label": "HTTPS (required for service workers)",
+    "pass": 12,
+    "total": 12,
+    "rate": 100,
+    "why": "HTTPS is required for service workers and most install prompts.",
+    "evidenceExamples": []
+   }
+  ],
+  "offline": null
+ },
+ "security": {
+  "checks": [
+   {
+    "id": "https",
+    "label": "Served over HTTPS",
+    "pass": true,
+    "detail": "https:"
+   },
+   {
+    "id": "hsts",
+    "label": "HTTP Strict Transport Security (HSTS)",
+    "pass": true,
+    "detail": ""
+   },
+   {
+    "id": "csp",
+    "label": "Content Security Policy (CSP)",
+    "pass": false,
+    "detail": ""
+   },
+   {
+    "id": "x-content-type-options",
+    "label": "X-Content-Type-Options: nosniff",
+    "pass": true,
+    "detail": ""
+   },
+   {
+    "id": "clickjacking",
+    "label": "Clickjacking protection (X-Frame-Options or CSP frame-ancestors)",
+    "pass": true,
+    "detail": ""
+   },
+   {
+    "id": "gov-tld",
+    "label": "Sponsored government TLD (.gov/.mil/.edu)",
+    "pass": true,
+    "detail": "gov"
+   },
+   {
+    "id": "security-txt",
+    "label": "Published security.txt",
+    "pass": false,
+    "detail": ""
+   },
+   {
+    "id": "www-resolution",
+    "label": "Resolves with and without www",
+    "pass": false,
+    "detail": "www.seedfund.nsf.gov"
+   }
+  ],
+  "passed": 5,
+  "total": 8
+ },
+ "publicInterest": {
+  "engine": "public-interest",
+  "checkedAt": "2026-10-25T08:31:13.525Z",
+  "a11yStatement": {
+   "result": "pass",
+   "url": "https://www.nsf.gov/policies/accessibility",
+   "confidence": "medium",
+   "checkedAt": "2026-10-25T08:31:12.455Z"
+  },
+  "carbonTxt": {
+   "result": "fail",
+   "url": null,
+   "valid": false,
+   "fields": {},
+   "checkedAt": "2026-10-25T08:31:12.456Z"
+  },
+  "greenWebFoundation": {
+   "result": "fail",
+   "green": false,
+   "hostedBy": null,
+   "url": "https://api.thegreenwebfoundation.org/greencheck/seedfund.nsf.gov",
+   "checkedAt": "2026-10-25T08:31:12.460Z"
+  },
+  "sitemaps": {
+   "xml": {
+    "found": true,
+    "url": "https://seedfund.nsf.gov/sitemap.xml"
+   },
+   "human": {
+    "found": false,
+    "url": null
+   },
+   "checkedAt": "2026-10-25T08:31:12.461Z"
+  }
+ },
+ "plainLanguage": {
+  "pagesChecked": 12,
+  "pagesScored": 7,
+  "medianWordsPerPage": 610,
+  "medianReadingEase": 23.4,
+  "medianGrade": 16.5,
+  "topUnexplainedAcronyms": [
+   {
+    "acronym": "NSF",
+    "pages": 9,
+    "examplePages": [
+     "https://seedfund.nsf.gov/news/RubiLaboratories",
+     "https://seedfund.nsf.gov/news/cyclopure",
+     "https://seedfund.nsf.gov/news/UpstreamBiotechnology",
+     "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc",
+     "https://seedfund.nsf.gov/news/alloy-enterprises"
+    ]
+   },
+   {
+    "acronym": "II",
+    "pages": 4,
+    "examplePages": [
+     "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc",
+     "https://seedfund.nsf.gov/showcase",
+     "https://seedfund.nsf.gov/awardees/history/details?company=resource-chemical-corp",
+     "https://seedfund.nsf.gov/portfolio/details?company=folia-water-inc"
+    ]
+   },
+   {
+    "acronym": "SBIR",
+    "pages": 3,
+    "examplePages": [
+     "https://seedfund.nsf.gov/showcase",
+     "https://seedfund.nsf.gov/how-to-submit/unique-entity-id",
+     "https://seedfund.nsf.gov/topics/robotics"
+    ]
+   },
+   {
+    "acronym": "STE",
+    "pages": 2,
+    "examplePages": [
+     "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc",
+     "https://seedfund.nsf.gov/portfolio/details?company=folia-water-inc"
+    ]
+   },
+   {
+    "acronym": "CA",
+    "pages": 2,
+    "examplePages": [
+     "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc",
+     "https://seedfund.nsf.gov/awardees/history/details?company=resource-chemical-corp"
+    ]
+   },
+   {
+    "acronym": "CO",
+    "pages": 2,
+    "examplePages": [
+     "https://seedfund.nsf.gov/showcase",
+     "https://seedfund.nsf.gov/awardees/history/details?company=resource-chemical-corp"
+    ]
+   },
+   {
+    "acronym": "LLC",
+    "pages": 2,
+    "examplePages": [
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=sofab-inks-llc",
+     "https://seedfund.nsf.gov/topics/robotics"
+    ]
+   },
+   {
+    "acronym": "SEARCH",
+    "pages": 2,
+    "examplePages": [
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=sofab-inks-llc",
+     "https://seedfund.nsf.gov/portfolio/details?company=folia-water-inc"
+    ]
+   },
+   {
+    "acronym": "AWARDS",
+    "pages": 2,
+    "examplePages": [
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=sofab-inks-llc",
+     "https://seedfund.nsf.gov/portfolio/details?company=folia-water-inc"
+    ]
+   },
+   {
+    "acronym": "STTR",
+    "pages": 2,
+    "examplePages": [
+     "https://seedfund.nsf.gov/how-to-submit/unique-entity-id",
+     "https://seedfund.nsf.gov/topics/robotics"
+    ]
+   },
+   {
+    "acronym": "PFAS",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/news/cyclopure"
+    ]
+   },
+   {
+    "acronym": "SAXONY",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc"
+    ]
+   },
+   {
+    "acronym": "RD",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc"
+    ]
+   },
+   {
+    "acronym": "CEO",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/showcase"
+    ]
+   },
+   {
+    "acronym": "DBA",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/showcase"
+    ]
+   }
+  ],
+  "topMisspellings": [
+   {
+    "word": "awardsearch",
+    "pages": 4,
+    "examplePages": [
+     "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=sofab-inks-llc",
+     "https://seedfund.nsf.gov/awardees/history/details?company=resource-chemical-corp",
+     "https://seedfund.nsf.gov/portfolio/details?company=folia-water-inc"
+    ]
+   },
+   {
+    "word": "nsf",
+    "pages": 4,
+    "examplePages": [
+     "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=sofab-inks-llc",
+     "https://seedfund.nsf.gov/awardees/history/details?company=resource-chemical-corp",
+     "https://seedfund.nsf.gov/portfolio/details?company=folia-water-inc"
+    ]
+   },
+   {
+    "word": "InvestigatorContact",
+    "pages": 2,
+    "examplePages": [
+     "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc",
+     "https://seedfund.nsf.gov/awardees/history/details?company=resource-chemical-corp"
+    ]
+   },
+   {
+    "word": "IIAward",
+    "pages": 2,
+    "examplePages": [
+     "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc",
+     "https://seedfund.nsf.gov/awardees/history/details?company=resource-chemical-corp"
+    ]
+   },
+   {
+    "word": "DirectorSamir",
+    "pages": 2,
+    "examplePages": [
+     "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc",
+     "https://seedfund.nsf.gov/awardees/history/details?company=resource-chemical-corp"
+    ]
+   },
+   {
+    "word": "IqbalErrataPlease",
+    "pages": 2,
+    "examplePages": [
+     "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc",
+     "https://seedfund.nsf.gov/awardees/history/details?company=resource-chemical-corp"
+    ]
+   },
+   {
+    "word": "AbstractThe",
+    "pages": 2,
+    "examplePages": [
+     "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc",
+     "https://seedfund.nsf.gov/awardees/history/details?company=resource-chemical-corp"
+    ]
+   },
+   {
+    "word": "scalable",
+    "pages": 2,
+    "examplePages": [
+     "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=sofab-inks-llc"
+    ]
+   },
+   {
+    "word": "IAward",
+    "pages": 2,
+    "examplePages": [
+     "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc",
+     "https://seedfund.nsf.gov/awardees/history/details?company=resource-chemical-corp"
+    ]
+   },
+   {
+    "word": "Scalable",
+    "pages": 2,
+    "examplePages": [
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=sofab-inks-llc",
+     "https://seedfund.nsf.gov/awardees/history/details?company=resource-chemical-corp"
+    ]
+   },
+   {
+    "word": "nanoparticle",
+    "pages": 2,
+    "examplePages": [
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=sofab-inks-llc",
+     "https://seedfund.nsf.gov/portfolio/details?company=folia-water-inc"
+    ]
+   },
+   {
+    "word": "PitchBook",
+    "pages": 2,
+    "examplePages": [
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=sofab-inks-llc",
+     "https://seedfund.nsf.gov/portfolio/details?company=folia-water-inc"
+    ]
+   },
+   {
+    "word": "reimagine",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/news/RubiLaboratories"
+    ]
+   },
+   {
+    "word": "Rubi",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/news/RubiLaboratories"
+    ]
+   },
+   {
+    "word": "Cyclopure",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/news/cyclopure"
+    ]
+   },
+   {
+    "word": "Coosa",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/news/cyclopure"
+    ]
+   },
+   {
+    "word": "polyfluoroalkyl",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/news/cyclopure"
+    ]
+   },
+   {
+    "word": "Bene",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/news/UpstreamBiotechnology"
+    ]
+   },
+   {
+    "word": "IICycloPure",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc"
+    ]
+   },
+   {
+    "word": "Cyclodextrin",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc"
+    ]
+   },
+   {
+    "word": "ProductsProject",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc"
+    ]
+   },
+   {
+    "word": "LeaderFrank",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc"
+    ]
+   },
+   {
+    "word": "Cassou",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc"
+    ]
+   },
+   {
+    "word": "Encinitas",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc"
+    ]
+   },
+   {
+    "word": "Micropollutants",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc"
+    ]
+   }
+  ]
+ },
+ "lighthouse": {
+  "pagesSampled": 1,
+  "medianPerformance": 40,
+  "medianAccessibility": 97,
+  "medianBestPractices": 69,
+  "medianSeo": 92,
+  "medianPwa": null,
+  "medianAgentic": 74,
+  "distributions": {
+   "performance": {
+    "min": 40,
+    "max": 40,
+    "p10": 40,
+    "p25": 40,
+    "p50": 40,
+    "p75": 40,
+    "p90": 40,
+    "range": 0,
+    "spreadP10toP90": 0,
+    "iqr": 0
+   },
+   "accessibility": {
+    "min": 97,
+    "max": 97,
+    "p10": 97,
+    "p25": 97,
+    "p50": 97,
+    "p75": 97,
+    "p90": 97,
+    "range": 0,
+    "spreadP10toP90": 0,
+    "iqr": 0
+   },
+   "bestPractices": {
+    "min": 69,
+    "max": 69,
+    "p10": 69,
+    "p25": 69,
+    "p50": 69,
+    "p75": 69,
+    "p90": 69,
+    "range": 0,
+    "spreadP10toP90": 0,
+    "iqr": 0
+   },
+   "seo": {
+    "min": 92,
+    "max": 92,
+    "p10": 92,
+    "p25": 92,
+    "p50": 92,
+    "p75": 92,
+    "p90": 92,
+    "range": 0,
+    "spreadP10toP90": 0,
+    "iqr": 0
+   },
+   "agentic": {
+    "min": 74,
+    "max": 74,
+    "p10": 74,
+    "p25": 74,
+    "p50": 74,
+    "p75": 74,
+    "p90": 74,
+    "range": 0,
+    "spreadP10toP90": 0,
+    "iqr": 0
+   }
+  },
+  "metrics": {
+   "firstContentfulPaintMs": 10903,
+   "largestContentfulPaintMs": 22157,
+   "speedIndexMs": 10903,
+   "totalBlockingTimeMs": 188,
+   "cumulativeLayoutShift": 0.261
+  },
+  "pwaSignals": [],
+  "recommendations": [
+   {
+    "id": "cache-insight",
+    "category": "performance",
+    "title": "Use efficient cache lifetimes",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/topics/robotics"
+    ],
+    "savingsBytes": 0,
+    "savingsMs": 2550
+   },
+   {
+    "id": "unused-javascript",
+    "category": "performance",
+    "title": "Reduce unused JavaScript",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/topics/robotics"
+    ],
+    "savingsBytes": 234602,
+    "savingsMs": 1750
+   },
+   {
+    "id": "render-blocking-insight",
+    "category": "performance",
+    "title": "Render-blocking requests",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/topics/robotics"
+    ],
+    "savingsBytes": 0,
+    "savingsMs": 1100
+   },
+   {
+    "id": "redirects",
+    "category": "performance",
+    "title": "Avoid multiple page redirects",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/topics/robotics"
+    ],
+    "savingsBytes": 0,
+    "savingsMs": 750
+   },
+   {
+    "id": "unused-css-rules",
+    "category": "performance",
+    "title": "Reduce unused CSS",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/topics/robotics"
+    ],
+    "savingsBytes": 77425,
+    "savingsMs": 650
+   },
+   {
+    "id": "mainthread-work-breakdown",
+    "category": "performance",
+    "title": "Minimize main-thread work",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/topics/robotics"
+    ],
+    "savingsBytes": 0,
+    "savingsMs": 200
+   },
+   {
+    "id": "bootup-time",
+    "category": "performance",
+    "title": "Reduce JavaScript execution time",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/topics/robotics"
+    ],
+    "savingsBytes": 0,
+    "savingsMs": 200
+   },
+   {
+    "id": "document-latency-insight",
+    "category": "performance",
+    "title": "Document request latency",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/topics/robotics"
+    ],
+    "savingsBytes": 0,
+    "savingsMs": 150
+   },
+   {
+    "id": "first-contentful-paint",
+    "category": "performance",
+    "title": "First Contentful Paint",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/topics/robotics"
+    ],
+    "savingsBytes": 0,
+    "savingsMs": 0
+   },
+   {
+    "id": "largest-contentful-paint",
+    "category": "performance",
+    "title": "Largest Contentful Paint",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/topics/robotics"
+    ],
+    "savingsBytes": 0,
+    "savingsMs": 0
+   },
+   {
+    "id": "speed-index",
+    "category": "performance",
+    "title": "Speed Index",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/topics/robotics"
+    ],
+    "savingsBytes": 0,
+    "savingsMs": 0
+   },
+   {
+    "id": "max-potential-fid",
+    "category": "performance",
+    "title": "Max Potential First Input Delay",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/topics/robotics"
+    ],
+    "savingsBytes": 0,
+    "savingsMs": 0
+   },
+   {
+    "id": "cumulative-layout-shift",
+    "category": "agentic-browsing",
+    "title": "Cumulative Layout Shift",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/topics/robotics"
+    ],
+    "savingsBytes": 0,
+    "savingsMs": 0
+   },
+   {
+    "id": "errors-in-console",
+    "category": "best-practices",
+    "title": "Browser errors were logged to the console",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/topics/robotics"
+    ],
+    "savingsBytes": 0,
+    "savingsMs": 0
+   },
+   {
+    "id": "interactive",
+    "category": "performance",
+    "title": "Time to Interactive",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/topics/robotics"
+    ],
+    "savingsBytes": 0,
+    "savingsMs": 0
+   },
+   {
+    "id": "image-size-responsive",
+    "category": "best-practices",
+    "title": "Serves images with low resolution",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/topics/robotics"
+    ],
+    "savingsBytes": 0,
+    "savingsMs": 0
+   },
+   {
+    "id": "third-party-cookies",
+    "category": "best-practices",
+    "title": "Uses third-party cookies",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/topics/robotics"
+    ],
+    "savingsBytes": 0,
+    "savingsMs": 0
+   },
+   {
+    "id": "inspector-issues",
+    "category": "best-practices",
+    "title": "Issues were logged in the `Issues` panel in Chrome Devtools",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/topics/robotics"
+    ],
+    "savingsBytes": 0,
+    "savingsMs": 0
+   },
+   {
+    "id": "link-text",
+    "category": "seo",
+    "title": "Links do not have descriptive text",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/topics/robotics"
+    ],
+    "savingsBytes": 0,
+    "savingsMs": 0
+   },
+   {
+    "id": "webmcp-registered-tools",
+    "category": "agentic-browsing",
+    "title": "WebMCP tools registered",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/topics/robotics"
+    ],
+    "savingsBytes": 0,
+    "savingsMs": 0
+   },
+   {
+    "id": "webmcp-form-coverage",
+    "category": "agentic-browsing",
+    "title": "WebMCP form coverage",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/topics/robotics"
+    ],
+    "savingsBytes": 0,
+    "savingsMs": 0
+   },
+   {
+    "id": "webmcp-schema-validity",
+    "category": "agentic-browsing",
+    "title": "WebMCP schemas are valid",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/topics/robotics"
+    ],
+    "savingsBytes": 0,
+    "savingsMs": 0
+   },
+   {
+    "id": "llms-txt",
+    "category": "agentic-browsing",
+    "title": "llms.txt follows recommendations",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/topics/robotics"
+    ],
+    "savingsBytes": 0,
+    "savingsMs": 0
+   },
+   {
+    "id": "ard-schema",
+    "category": "agentic-browsing",
+    "title": "`ai-catalog.json` schema is valid",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/topics/robotics"
+    ],
+    "savingsBytes": 0,
+    "savingsMs": 0
+   },
+   {
+    "id": "cls-culprits-insight",
+    "category": "performance",
+    "title": "Layout shift culprits",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/topics/robotics"
+    ],
+    "savingsBytes": 0,
+    "savingsMs": 0
+   },
+   {
+    "id": "lcp-discovery-insight",
+    "category": "performance",
+    "title": "LCP request discovery",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/topics/robotics"
+    ],
+    "savingsBytes": 0,
+    "savingsMs": 0
+   },
+   {
+    "id": "network-dependency-tree-insight",
+    "category": "performance",
+    "title": "Network dependency tree",
+    "pages": 1,
+    "examplePages": [
+     "https://seedfund.nsf.gov/topics/robotics"
+    ],
+    "savingsBytes": 0,
+    "savingsMs": 0
+   }
+  ]
+ },
+ "linkCheck": {
+  "brokenCount": 5,
+  "broken": [
+   {
+    "url": "https://relavomedical.com/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://seedfund.nsf.gov/news/relavo"
+    ]
+   },
+   {
+    "url": "https://www.sam.gov/SAM/",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://seedfund.nsf.gov/how-to-submit/unique-entity-id"
+    ]
+   },
+   {
+    "url": "http://betahatch.com/",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://seedfund.nsf.gov/showcase"
+    ]
+   },
+   {
+    "url": "https://artaic.com/",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://seedfund.nsf.gov/showcase"
+    ]
+   },
+   {
+    "url": "https://captionhealth.com/",
+    "status": 0,
+    "reason": "ERR_SSL_TLSV1_ALERT_INTERNAL_ERROR",
+    "foundOn": [
+     "https://seedfund.nsf.gov/showcase"
+    ]
+   }
+  ]
+ },
+ "errorPages": [],
+ "tech": [
+  {
+   "name": "Google Analytics",
+   "category": "Analytics",
+   "categories": [
+    "Analytics"
+   ],
+   "confidence": 100,
+   "version": null,
+   "website": "https://google.com/analytics",
+   "cpe": null,
+   "pagesConfirmed": 1,
+   "examplePages": [
+    "https://seedfund.nsf.gov/news/UpstreamBiotechnology"
+   ]
+  },
+  {
+   "name": "Amazon CloudFront",
+   "category": "CDN",
+   "categories": [
+    "CDN"
+   ],
+   "confidence": 100,
+   "version": null,
+   "website": "https://aws.amazon.com/cloudfront/",
+   "cpe": null,
+   "pagesConfirmed": 1,
+   "examplePages": [
+    "https://seedfund.nsf.gov/news/UpstreamBiotechnology"
+   ]
+  },
+  {
+   "name": "cdnjs",
+   "category": "CDN",
+   "categories": [
+    "CDN"
+   ],
+   "confidence": 100,
+   "version": null,
+   "website": "https://cdnjs.com",
+   "cpe": null,
+   "pagesConfirmed": 1,
+   "examplePages": [
+    "https://seedfund.nsf.gov/news/UpstreamBiotechnology"
+   ]
+  },
+  {
+   "name": "Cloudflare",
+   "category": "CDN",
+   "categories": [
+    "CDN"
+   ],
+   "confidence": 100,
+   "version": null,
+   "website": "https://www.cloudflare.com",
+   "cpe": null,
+   "pagesConfirmed": 1,
+   "examplePages": [
+    "https://seedfund.nsf.gov/news/UpstreamBiotechnology"
+   ]
+  },
+  {
+   "name": "jQuery CDN",
+   "category": "CDN",
+   "categories": [
+    "CDN"
+   ],
+   "confidence": 100,
+   "version": null,
+   "website": "https://code.jquery.com/",
+   "cpe": null,
+   "pagesConfirmed": 1,
+   "examplePages": [
+    "https://seedfund.nsf.gov/news/UpstreamBiotechnology"
+   ]
+  },
+  {
+   "name": "jQuery",
+   "category": "JavaScript libraries",
+   "categories": [
+    "JavaScript libraries"
+   ],
+   "confidence": 100,
+   "version": "3.6.0",
+   "website": "https://jquery.com",
+   "cpe": "cpe:2.3:a:jquery:jquery:*:*:*:*:*:*:*:*",
+   "pagesConfirmed": 1,
+   "examplePages": [
+    "https://seedfund.nsf.gov/news/UpstreamBiotechnology"
+   ]
+  },
+  {
+   "name": "List.js",
+   "category": "JavaScript libraries",
+   "categories": [
+    "JavaScript libraries"
+   ],
+   "confidence": 50,
+   "version": null,
+   "website": "https://listjs.com",
+   "cpe": null,
+   "pagesConfirmed": 1,
+   "examplePages": [
+    "https://seedfund.nsf.gov/news/UpstreamBiotechnology"
+   ]
+  },
+  {
+   "name": "Modernizr",
+   "category": "JavaScript libraries",
+   "categories": [
+    "JavaScript libraries"
+   ],
+   "confidence": 100,
+   "version": null,
+   "website": "https://modernizr.com",
+   "cpe": null,
+   "pagesConfirmed": 1,
+   "examplePages": [
+    "https://seedfund.nsf.gov/news/UpstreamBiotechnology"
+   ]
+  },
+  {
+   "name": "Amazon Web Services",
+   "category": "PaaS",
+   "categories": [
+    "PaaS"
+   ],
+   "confidence": 100,
+   "version": null,
+   "website": "https://aws.amazon.com/",
+   "cpe": null,
+   "pagesConfirmed": 1,
+   "examplePages": [
+    "https://seedfund.nsf.gov/news/UpstreamBiotechnology"
+   ]
+  },
+  {
+   "name": "HSTS",
+   "category": "Security",
+   "categories": [
+    "Security"
+   ],
+   "confidence": 100,
+   "version": null,
+   "website": "https://www.rfc-editor.org/rfc/rfc6797#section-6.1",
+   "cpe": null,
+   "pagesConfirmed": 1,
+   "examplePages": [
+    "https://seedfund.nsf.gov/news/UpstreamBiotechnology"
+   ]
+  },
+  {
+   "name": "Google Tag Manager",
+   "category": "Tag managers",
+   "categories": [
+    "Tag managers"
+   ],
+   "confidence": 100,
+   "version": null,
+   "website": "https://www.google.com/tagmanager",
+   "cpe": null,
+   "pagesConfirmed": 1,
+   "examplePages": [
+    "https://seedfund.nsf.gov/news/UpstreamBiotechnology"
+   ]
+  },
+  {
+   "name": "USWDS",
+   "category": "UI frameworks",
+   "categories": [
+    "UI frameworks"
+   ],
+   "confidence": 100,
+   "version": null,
+   "website": "https://designsystem.digital.gov",
+   "cpe": null,
+   "pagesConfirmed": 1,
+   "examplePages": [
+    "https://seedfund.nsf.gov/news/UpstreamBiotechnology"
+   ]
+  }
+ ],
+ "images": {
+  "pagesScanned": 25,
+  "totalImages": 166,
+  "uniqueImages": 46,
+  "missingAlt": 0,
+  "decorative": 3,
+  "withAlt": 163,
+  "altVerdicts": {
+   "GOOD": 43,
+   "DECORATIVE": 3
+  }
+ },
+ "techFindings": {
+  "model": {
+   "pages": 1,
+   "tech": {
+    "Google Analytics": 1,
+    "Amazon CloudFront": 1,
+    "cdnjs": 1,
+    "Cloudflare": 1,
+    "jQuery CDN": 1,
+    "jQuery": 1,
+    "List.js": 1,
+    "Modernizr": 1,
+    "Amazon Web Services": 1,
+    "HSTS": 1,
+    "Google Tag Manager": 1,
+    "USWDS": 1
+   },
+   "finding": {
+    "axe:landmark-banner-is-top-level": 1,
+    "axe:landmark-main-is-top-level": 1,
+    "axe:landmark-no-duplicate-banner": 1,
+    "axe:landmark-no-duplicate-main": 1,
+    "axe:landmark-unique": 1,
+    "axe:link-in-text-block": 1,
+    "axe:page-has-heading-one": 1
+   },
+   "pair": {
+    "Google Analytics": {
+     "axe:landmark-banner-is-top-level": 1,
+     "axe:landmark-main-is-top-level": 1,
+     "axe:landmark-no-duplicate-banner": 1,
+     "axe:landmark-no-duplicate-main": 1,
+     "axe:landmark-unique": 1,
+     "axe:link-in-text-block": 1,
+     "axe:page-has-heading-one": 1
+    },
+    "Amazon CloudFront": {
+     "axe:landmark-banner-is-top-level": 1,
+     "axe:landmark-main-is-top-level": 1,
+     "axe:landmark-no-duplicate-banner": 1,
+     "axe:landmark-no-duplicate-main": 1,
+     "axe:landmark-unique": 1,
+     "axe:link-in-text-block": 1,
+     "axe:page-has-heading-one": 1
+    },
+    "cdnjs": {
+     "axe:landmark-banner-is-top-level": 1,
+     "axe:landmark-main-is-top-level": 1,
+     "axe:landmark-no-duplicate-banner": 1,
+     "axe:landmark-no-duplicate-main": 1,
+     "axe:landmark-unique": 1,
+     "axe:link-in-text-block": 1,
+     "axe:page-has-heading-one": 1
+    },
+    "Cloudflare": {
+     "axe:landmark-banner-is-top-level": 1,
+     "axe:landmark-main-is-top-level": 1,
+     "axe:landmark-no-duplicate-banner": 1,
+     "axe:landmark-no-duplicate-main": 1,
+     "axe:landmark-unique": 1,
+     "axe:link-in-text-block": 1,
+     "axe:page-has-heading-one": 1
+    },
+    "jQuery CDN": {
+     "axe:landmark-banner-is-top-level": 1,
+     "axe:landmark-main-is-top-level": 1,
+     "axe:landmark-no-duplicate-banner": 1,
+     "axe:landmark-no-duplicate-main": 1,
+     "axe:landmark-unique": 1,
+     "axe:link-in-text-block": 1,
+     "axe:page-has-heading-one": 1
+    },
+    "jQuery": {
+     "axe:landmark-banner-is-top-level": 1,
+     "axe:landmark-main-is-top-level": 1,
+     "axe:landmark-no-duplicate-banner": 1,
+     "axe:landmark-no-duplicate-main": 1,
+     "axe:landmark-unique": 1,
+     "axe:link-in-text-block": 1,
+     "axe:page-has-heading-one": 1
+    },
+    "List.js": {
+     "axe:landmark-banner-is-top-level": 1,
+     "axe:landmark-main-is-top-level": 1,
+     "axe:landmark-no-duplicate-banner": 1,
+     "axe:landmark-no-duplicate-main": 1,
+     "axe:landmark-unique": 1,
+     "axe:link-in-text-block": 1,
+     "axe:page-has-heading-one": 1
+    },
+    "Modernizr": {
+     "axe:landmark-banner-is-top-level": 1,
+     "axe:landmark-main-is-top-level": 1,
+     "axe:landmark-no-duplicate-banner": 1,
+     "axe:landmark-no-duplicate-main": 1,
+     "axe:landmark-unique": 1,
+     "axe:link-in-text-block": 1,
+     "axe:page-has-heading-one": 1
+    },
+    "Amazon Web Services": {
+     "axe:landmark-banner-is-top-level": 1,
+     "axe:landmark-main-is-top-level": 1,
+     "axe:landmark-no-duplicate-banner": 1,
+     "axe:landmark-no-duplicate-main": 1,
+     "axe:landmark-unique": 1,
+     "axe:link-in-text-block": 1,
+     "axe:page-has-heading-one": 1
+    },
+    "HSTS": {
+     "axe:landmark-banner-is-top-level": 1,
+     "axe:landmark-main-is-top-level": 1,
+     "axe:landmark-no-duplicate-banner": 1,
+     "axe:landmark-no-duplicate-main": 1,
+     "axe:landmark-unique": 1,
+     "axe:link-in-text-block": 1,
+     "axe:page-has-heading-one": 1
+    },
+    "Google Tag Manager": {
+     "axe:landmark-banner-is-top-level": 1,
+     "axe:landmark-main-is-top-level": 1,
+     "axe:landmark-no-duplicate-banner": 1,
+     "axe:landmark-no-duplicate-main": 1,
+     "axe:landmark-unique": 1,
+     "axe:link-in-text-block": 1,
+     "axe:page-has-heading-one": 1
+    },
+    "USWDS": {
+     "axe:landmark-banner-is-top-level": 1,
+     "axe:landmark-main-is-top-level": 1,
+     "axe:landmark-no-duplicate-banner": 1,
+     "axe:landmark-no-duplicate-main": 1,
+     "axe:landmark-unique": 1,
+     "axe:link-in-text-block": 1,
+     "axe:page-has-heading-one": 1
+    }
+   }
+  },
+  "associations": []
+ },
+ "thirdParty": {
+  "pagesScanned": 5,
+  "vendors": [
+   {
+    "origin": "googletagmanager.com",
+    "pages": 5,
+    "pagesWithScripts": 5,
+    "isScriptVendor": true,
+    "medianBytes": 507611,
+    "medianDurationMs": 21,
+    "medianRequests": 3,
+    "pagesWithFindings": 5,
+    "examplePages": [
+     "https://seedfund.nsf.gov/news/akanocure-pharmaceuticals",
+     "https://seedfund.nsf.gov/news/cyclopure",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=opal-htm-inc",
+     "https://seedfund.nsf.gov/awardees/history/details?company=resource-chemical-corp",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=rumedical-nova-limited-liability-co"
+    ]
+   },
+   {
+    "origin": "gstatic.com",
+    "pages": 5,
+    "pagesWithScripts": 0,
+    "isScriptVendor": false,
+    "medianBytes": 74947,
+    "medianDurationMs": 0,
+    "medianRequests": 3,
+    "pagesWithFindings": 5,
+    "examplePages": [
+     "https://seedfund.nsf.gov/news/akanocure-pharmaceuticals",
+     "https://seedfund.nsf.gov/news/cyclopure",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=opal-htm-inc",
+     "https://seedfund.nsf.gov/awardees/history/details?company=resource-chemical-corp",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=rumedical-nova-limited-liability-co"
+    ]
+   },
+   {
+    "origin": "jquery.com",
+    "pages": 5,
+    "pagesWithScripts": 5,
+    "isScriptVendor": true,
+    "medianBytes": 30875,
+    "medianDurationMs": 21,
+    "medianRequests": 1,
+    "pagesWithFindings": 5,
+    "examplePages": [
+     "https://seedfund.nsf.gov/news/akanocure-pharmaceuticals",
+     "https://seedfund.nsf.gov/news/cyclopure",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=opal-htm-inc",
+     "https://seedfund.nsf.gov/awardees/history/details?company=resource-chemical-corp",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=rumedical-nova-limited-liability-co"
+    ]
+   },
+   {
+    "origin": "digitalgov.gov",
+    "pages": 5,
+    "pagesWithScripts": 5,
+    "isScriptVendor": true,
+    "medianBytes": 30230,
+    "medianDurationMs": 3,
+    "medianRequests": 1,
+    "pagesWithFindings": 5,
+    "examplePages": [
+     "https://seedfund.nsf.gov/news/akanocure-pharmaceuticals",
+     "https://seedfund.nsf.gov/news/cyclopure",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=opal-htm-inc",
+     "https://seedfund.nsf.gov/awardees/history/details?company=resource-chemical-corp",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=rumedical-nova-limited-liability-co"
+    ]
+   },
+   {
+    "origin": "google-analytics.com",
+    "pages": 5,
+    "pagesWithScripts": 5,
+    "isScriptVendor": true,
+    "medianBytes": 20805,
+    "medianDurationMs": 15,
+    "medianRequests": 2,
+    "pagesWithFindings": 5,
+    "examplePages": [
+     "https://seedfund.nsf.gov/news/akanocure-pharmaceuticals",
+     "https://seedfund.nsf.gov/news/cyclopure",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=opal-htm-inc",
+     "https://seedfund.nsf.gov/awardees/history/details?company=resource-chemical-corp",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=rumedical-nova-limited-liability-co"
+    ]
+   },
+   {
+    "origin": "cloudflare.com",
+    "pages": 5,
+    "pagesWithScripts": 5,
+    "isScriptVendor": true,
+    "medianBytes": 10891,
+    "medianDurationMs": 66,
+    "medianRequests": 3,
+    "pagesWithFindings": 5,
+    "examplePages": [
+     "https://seedfund.nsf.gov/news/akanocure-pharmaceuticals",
+     "https://seedfund.nsf.gov/news/cyclopure",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=opal-htm-inc",
+     "https://seedfund.nsf.gov/awardees/history/details?company=resource-chemical-corp",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=rumedical-nova-limited-liability-co"
+    ]
+   },
+   {
+    "origin": "googleapis.com",
+    "pages": 5,
+    "pagesWithScripts": 0,
+    "isScriptVendor": false,
+    "medianBytes": 3254,
+    "medianDurationMs": 35,
+    "medianRequests": 2,
+    "pagesWithFindings": 5,
+    "examplePages": [
+     "https://seedfund.nsf.gov/news/akanocure-pharmaceuticals",
+     "https://seedfund.nsf.gov/news/cyclopure",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=opal-htm-inc",
+     "https://seedfund.nsf.gov/awardees/history/details?company=resource-chemical-corp",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=rumedical-nova-limited-liability-co"
+    ]
+   },
+   {
+    "origin": "google.com",
+    "pages": 3,
+    "pagesWithScripts": 0,
+    "isScriptVendor": false,
+    "medianBytes": 0,
+    "medianDurationMs": 16,
+    "medianRequests": 1,
+    "pagesWithFindings": 3,
+    "examplePages": [
+     "https://seedfund.nsf.gov/news/akanocure-pharmaceuticals",
+     "https://seedfund.nsf.gov/news/cyclopure",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=rumedical-nova-limited-liability-co"
+    ]
+   }
+  ]
+ },
+ "componentClusters": {
+  "design_system": "none",
+  "design_system_label": "none",
+  "design_system_theme": null,
+  "template_page_threshold": 10,
+  "total_clusters": 48,
+  "clusters": [
+   {
+    "id": "cc-cba77e55df50",
+    "engine_key": "axe-core",
+    "rule_id": "link-in-text-block",
+    "severity": "Critical",
+    "rule_pages_affected": 23,
+    "pages_affected": 23,
+    "instances": 23,
+    "selector_path": ".banner-left > a[href$=\"solicitation-proposal/\"]",
+    "snippet_shape": "a:href",
+    "representative_selector": ".banner-left > a[href$=\"solicitation-proposal/\"]",
+    "representative_snippet": "<a href=\"/solicitation-proposal/\">click here</a>",
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "template",
+    "distinct_components_for_rule": 1,
+    "action_score": 110.4,
+    "estimated_fix_impact": {
+     "findings": 23,
+     "pages": 23,
+     "statement": "Fix one place, resolve ~23 finding(s) on 23 page(s)."
+    },
+    "affected_pages": [
+     "https://seedfund.nsf.gov/awardees/history/details?company=emerald-tutu-inc-the",
+     "https://seedfund.nsf.gov/news/RubiLaboratories",
+     "https://seedfund.nsf.gov/news/akanocure-pharmaceuticals",
+     "https://seedfund.nsf.gov/news/relavo",
+     "https://seedfund.nsf.gov/news/cyclopure",
+     "https://seedfund.nsf.gov/awardees/history/details?company=ubiqd-inc",
+     "https://seedfund.nsf.gov/news/UpstreamBiotechnology",
+     "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=coolaimate-inc",
+     "https://seedfund.nsf.gov/showcase",
+     "https://seedfund.nsf.gov/news/alloy-enterprises",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=sofab-inks-llc",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=opal-htm-inc",
+     "https://seedfund.nsf.gov/news/Thiozen",
+     "https://seedfund.nsf.gov/awardees/history/details?company=resource-chemical-corp",
+     "https://seedfund.nsf.gov/portfolio/details?company=folia-water-inc",
+     "https://seedfund.nsf.gov/awardees/history/details?company=iambic-inc",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=orion-wave-technology-corporation",
+     "https://seedfund.nsf.gov/resources/awardees/phase-1/rules-and-regulations",
+     "https://seedfund.nsf.gov/news/shark-wheel",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=rumedical-nova-limited-liability-co",
+     "https://seedfund.nsf.gov/how-to-submit/unique-entity-id",
+     "https://seedfund.nsf.gov/topics/robotics"
+    ]
+   },
+   {
+    "id": "cc-c462e13cff10",
+    "engine_key": "axe-core",
+    "rule_id": "landmark-banner-is-top-level",
+    "severity": "Serious",
+    "rule_pages_affected": 23,
+    "pages_affected": 23,
+    "instances": 23,
+    "selector_path": ".usa-banner-header",
+    "snippet_shape": "header:",
+    "representative_selector": ".usa-banner-header",
+    "representative_snippet": "<header class=\"usa-banner-header\">",
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "template",
+    "distinct_components_for_rule": 1,
+    "action_score": 82.8,
+    "estimated_fix_impact": {
+     "findings": 23,
+     "pages": 23,
+     "statement": "Fix one place, resolve ~23 finding(s) on 23 page(s)."
+    },
+    "affected_pages": [
+     "https://seedfund.nsf.gov/awardees/history/details?company=emerald-tutu-inc-the",
+     "https://seedfund.nsf.gov/news/RubiLaboratories",
+     "https://seedfund.nsf.gov/news/akanocure-pharmaceuticals",
+     "https://seedfund.nsf.gov/news/relavo",
+     "https://seedfund.nsf.gov/news/cyclopure",
+     "https://seedfund.nsf.gov/awardees/history/details?company=ubiqd-inc",
+     "https://seedfund.nsf.gov/news/UpstreamBiotechnology",
+     "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=coolaimate-inc",
+     "https://seedfund.nsf.gov/showcase",
+     "https://seedfund.nsf.gov/news/alloy-enterprises",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=sofab-inks-llc",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=opal-htm-inc",
+     "https://seedfund.nsf.gov/news/Thiozen",
+     "https://seedfund.nsf.gov/awardees/history/details?company=resource-chemical-corp",
+     "https://seedfund.nsf.gov/portfolio/details?company=folia-water-inc",
+     "https://seedfund.nsf.gov/awardees/history/details?company=iambic-inc",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=orion-wave-technology-corporation",
+     "https://seedfund.nsf.gov/resources/awardees/phase-1/rules-and-regulations",
+     "https://seedfund.nsf.gov/news/shark-wheel",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=rumedical-nova-limited-liability-co",
+     "https://seedfund.nsf.gov/how-to-submit/unique-entity-id",
+     "https://seedfund.nsf.gov/topics/robotics"
+    ]
+   },
+   {
+    "id": "cc-84e62234c764",
+    "engine_key": "axe-core",
+    "rule_id": "landmark-no-duplicate-banner",
+    "severity": "Serious",
+    "rule_pages_affected": 23,
+    "pages_affected": 23,
+    "instances": 23,
+    "selector_path": ".usa-header",
+    "snippet_shape": "header:role",
+    "representative_selector": ".usa-header",
+    "representative_snippet": "<header class=\"usa-header usa-header-basic header--fixed\" role=\"banner\">",
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "template",
+    "distinct_components_for_rule": 1,
+    "action_score": 82.8,
+    "estimated_fix_impact": {
+     "findings": 23,
+     "pages": 23,
+     "statement": "Fix one place, resolve ~23 finding(s) on 23 page(s)."
+    },
+    "affected_pages": [
+     "https://seedfund.nsf.gov/awardees/history/details?company=emerald-tutu-inc-the",
+     "https://seedfund.nsf.gov/news/RubiLaboratories",
+     "https://seedfund.nsf.gov/news/akanocure-pharmaceuticals",
+     "https://seedfund.nsf.gov/news/relavo",
+     "https://seedfund.nsf.gov/news/cyclopure",
+     "https://seedfund.nsf.gov/awardees/history/details?company=ubiqd-inc",
+     "https://seedfund.nsf.gov/news/UpstreamBiotechnology",
+     "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=coolaimate-inc",
+     "https://seedfund.nsf.gov/showcase",
+     "https://seedfund.nsf.gov/news/alloy-enterprises",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=sofab-inks-llc",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=opal-htm-inc",
+     "https://seedfund.nsf.gov/news/Thiozen",
+     "https://seedfund.nsf.gov/awardees/history/details?company=resource-chemical-corp",
+     "https://seedfund.nsf.gov/portfolio/details?company=folia-water-inc",
+     "https://seedfund.nsf.gov/awardees/history/details?company=iambic-inc",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=orion-wave-technology-corporation",
+     "https://seedfund.nsf.gov/resources/awardees/phase-1/rules-and-regulations",
+     "https://seedfund.nsf.gov/news/shark-wheel",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=rumedical-nova-limited-liability-co",
+     "https://seedfund.nsf.gov/how-to-submit/unique-entity-id",
+     "https://seedfund.nsf.gov/topics/robotics"
+    ]
+   },
+   {
+    "id": "cc-ab39724fb47e",
+    "engine_key": "axe-core",
+    "rule_id": "landmark-unique",
+    "severity": "Serious",
+    "rule_pages_affected": 23,
+    "pages_affected": 23,
+    "instances": 23,
+    "selector_path": ".usa-header",
+    "snippet_shape": "header:role",
+    "representative_selector": ".usa-header",
+    "representative_snippet": "<header class=\"usa-header usa-header-basic header--fixed\" role=\"banner\">",
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "template",
+    "distinct_components_for_rule": 2,
+    "action_score": 41.4,
+    "estimated_fix_impact": {
+     "findings": 23,
+     "pages": 23,
+     "statement": "Fix one place, resolve ~23 finding(s) on 23 page(s)."
+    },
+    "affected_pages": [
+     "https://seedfund.nsf.gov/awardees/history/details?company=emerald-tutu-inc-the",
+     "https://seedfund.nsf.gov/news/RubiLaboratories",
+     "https://seedfund.nsf.gov/news/akanocure-pharmaceuticals",
+     "https://seedfund.nsf.gov/news/relavo",
+     "https://seedfund.nsf.gov/news/cyclopure",
+     "https://seedfund.nsf.gov/awardees/history/details?company=ubiqd-inc",
+     "https://seedfund.nsf.gov/news/UpstreamBiotechnology",
+     "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=coolaimate-inc",
+     "https://seedfund.nsf.gov/showcase",
+     "https://seedfund.nsf.gov/news/alloy-enterprises",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=sofab-inks-llc",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=opal-htm-inc",
+     "https://seedfund.nsf.gov/news/Thiozen",
+     "https://seedfund.nsf.gov/awardees/history/details?company=resource-chemical-corp",
+     "https://seedfund.nsf.gov/portfolio/details?company=folia-water-inc",
+     "https://seedfund.nsf.gov/awardees/history/details?company=iambic-inc",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=orion-wave-technology-corporation",
+     "https://seedfund.nsf.gov/resources/awardees/phase-1/rules-and-regulations",
+     "https://seedfund.nsf.gov/news/shark-wheel",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=rumedical-nova-limited-liability-co",
+     "https://seedfund.nsf.gov/how-to-submit/unique-entity-id",
+     "https://seedfund.nsf.gov/topics/robotics"
+    ]
+   },
+   {
+    "id": "cc-8cbe4219c5ad",
+    "engine_key": "axe-core",
+    "rule_id": "page-has-heading-one",
+    "severity": "Moderate",
+    "rule_pages_affected": 10,
+    "pages_affected": 10,
+    "instances": 10,
+    "selector_path": "html",
+    "snippet_shape": "html:",
+    "representative_selector": "html",
+    "representative_snippet": "<html lang=\"en-US\" class=\" js flexbox flexboxl...\">",
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "template",
+    "distinct_components_for_rule": 1,
+    "action_score": 24,
+    "estimated_fix_impact": {
+     "findings": 10,
+     "pages": 10,
+     "statement": "Fix one place, resolve ~10 finding(s) on 10 page(s)."
+    },
+    "affected_pages": [
+     "https://seedfund.nsf.gov/news/RubiLaboratories",
+     "https://seedfund.nsf.gov/news/akanocure-pharmaceuticals",
+     "https://seedfund.nsf.gov/news/relavo",
+     "https://seedfund.nsf.gov/news/cyclopure",
+     "https://seedfund.nsf.gov/news/UpstreamBiotechnology",
+     "https://seedfund.nsf.gov/assets/img/adcom/test.html",
+     "https://seedfund.nsf.gov/SAM.html",
+     "https://seedfund.nsf.gov/news/alloy-enterprises",
+     "https://seedfund.nsf.gov/news/Thiozen",
+     "https://seedfund.nsf.gov/news/shark-wheel"
+    ]
+   },
+   {
+    "id": "cc-db91a2b83bb1",
+    "engine_key": "axe-core",
+    "rule_id": "landmark-main-is-top-level",
+    "severity": "Moderate",
+    "rule_pages_affected": 8,
+    "pages_affected": 8,
+    "instances": 8,
+    "selector_path": ".main-content-headroom > main",
+    "snippet_shape": "main:",
+    "representative_selector": ".main-content-headroom > main",
+    "representative_snippet": "<main id=\"main-content\">",
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "unknown",
+    "distinct_components_for_rule": 1,
+    "action_score": 19.2,
+    "estimated_fix_impact": {
+     "findings": 8,
+     "pages": 8,
+     "statement": "Fix one place, resolve ~8 finding(s) on 8 page(s)."
+    },
+    "affected_pages": [
+     "https://seedfund.nsf.gov/news/RubiLaboratories",
+     "https://seedfund.nsf.gov/news/akanocure-pharmaceuticals",
+     "https://seedfund.nsf.gov/news/relavo",
+     "https://seedfund.nsf.gov/news/cyclopure",
+     "https://seedfund.nsf.gov/news/UpstreamBiotechnology",
+     "https://seedfund.nsf.gov/news/alloy-enterprises",
+     "https://seedfund.nsf.gov/news/Thiozen",
+     "https://seedfund.nsf.gov/news/shark-wheel"
+    ]
+   },
+   {
+    "id": "cc-68f99c1d24c7",
+    "engine_key": "axe-core",
+    "rule_id": "landmark-no-duplicate-main",
+    "severity": "Moderate",
+    "rule_pages_affected": 8,
+    "pages_affected": 8,
+    "instances": 8,
+    "selector_path": ".main-content-headroom",
+    "snippet_shape": "main:",
+    "representative_selector": ".main-content-headroom",
+    "representative_snippet": "<main id=\"main-content\" class=\"main-content-headroom\">",
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "unknown",
+    "distinct_components_for_rule": 1,
+    "action_score": 19.2,
+    "estimated_fix_impact": {
+     "findings": 8,
+     "pages": 8,
+     "statement": "Fix one place, resolve ~8 finding(s) on 8 page(s)."
+    },
+    "affected_pages": [
+     "https://seedfund.nsf.gov/news/RubiLaboratories",
+     "https://seedfund.nsf.gov/news/akanocure-pharmaceuticals",
+     "https://seedfund.nsf.gov/news/relavo",
+     "https://seedfund.nsf.gov/news/cyclopure",
+     "https://seedfund.nsf.gov/news/UpstreamBiotechnology",
+     "https://seedfund.nsf.gov/news/alloy-enterprises",
+     "https://seedfund.nsf.gov/news/Thiozen",
+     "https://seedfund.nsf.gov/news/shark-wheel"
+    ]
+   },
+   {
+    "id": "cc-bff142e8838e",
+    "engine_key": "axe-core",
+    "rule_id": "landmark-unique",
+    "severity": "Serious",
+    "rule_pages_affected": 23,
+    "pages_affected": 8,
+    "instances": 8,
+    "selector_path": ".main-content-headroom",
+    "snippet_shape": "main:",
+    "representative_selector": ".main-content-headroom",
+    "representative_snippet": "<main id=\"main-content\" class=\"main-content-headroom\">",
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "unknown",
+    "distinct_components_for_rule": 2,
+    "action_score": 14.4,
+    "estimated_fix_impact": {
+     "findings": 8,
+     "pages": 8,
+     "statement": "Fix one place, resolve ~8 finding(s) on 8 page(s)."
+    },
+    "affected_pages": [
+     "https://seedfund.nsf.gov/news/RubiLaboratories",
+     "https://seedfund.nsf.gov/news/akanocure-pharmaceuticals",
+     "https://seedfund.nsf.gov/news/relavo",
+     "https://seedfund.nsf.gov/news/cyclopure",
+     "https://seedfund.nsf.gov/news/UpstreamBiotechnology",
+     "https://seedfund.nsf.gov/news/alloy-enterprises",
+     "https://seedfund.nsf.gov/news/Thiozen",
+     "https://seedfund.nsf.gov/news/shark-wheel"
+    ]
+   },
+   {
+    "id": "cc-79a5ccd081d9",
+    "engine_key": "alfa",
+    "rule_id": "sia-r53",
+    "severity": "Moderate",
+    "rule_pages_affected": 5,
+    "pages_affected": 5,
+    "instances": 6,
+    "selector_path": "<h4 class=\"subhead uppercase\">",
+    "snippet_shape": "",
+    "representative_selector": "<h4 class=\"subhead uppercase\">",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "unknown",
+    "distinct_components_for_rule": 1,
+    "action_score": 10,
+    "estimated_fix_impact": {
+     "findings": 6,
+     "pages": 5,
+     "statement": "Fix one place, resolve ~6 finding(s) on 5 page(s)."
+    },
+    "affected_pages": [
+     "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=coolaimate-inc",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=sofab-inks-llc",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=orion-wave-technology-corporation",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=rumedical-nova-limited-liability-co"
+    ]
+   },
+   {
+    "id": "cc-0b92eca39744",
+    "engine_key": "alfa",
+    "rule_id": "sia-r20",
+    "severity": "Moderate",
+    "rule_pages_affected": 5,
+    "pages_affected": 5,
+    "instances": 5,
+    "selector_path": "@aria-role=\"img\"",
+    "snippet_shape": "",
+    "representative_selector": "@aria-role=\"img\"",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "unknown",
+    "distinct_components_for_rule": 1,
+    "action_score": 10,
+    "estimated_fix_impact": {
+     "findings": 5,
+     "pages": 5,
+     "statement": "Fix one place, resolve ~5 finding(s) on 5 page(s)."
+    },
+    "affected_pages": [
+     "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=coolaimate-inc",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=sofab-inks-llc",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=orion-wave-technology-corporation",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=rumedical-nova-limited-liability-co"
+    ]
+   },
+   {
+    "id": "cc-391cc9117878",
+    "engine_key": "axe-core",
+    "rule_id": "document-title",
+    "severity": "Serious",
+    "rule_pages_affected": 2,
+    "pages_affected": 2,
+    "instances": 2,
+    "selector_path": "html",
+    "snippet_shape": "html:",
+    "representative_selector": "html",
+    "representative_snippet": "<html><head></head><body></body></html>",
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 1,
+    "action_score": 7.2,
+    "estimated_fix_impact": {
+     "findings": 2,
+     "pages": 2,
+     "statement": "Fix one place, resolve ~2 finding(s) on 2 page(s)."
+    },
+    "affected_pages": [
+     "https://seedfund.nsf.gov/assets/img/adcom/test.html",
+     "https://seedfund.nsf.gov/SAM.html"
+    ]
+   },
+   {
+    "id": "cc-a683963e0d22",
+    "engine_key": "axe-core",
+    "rule_id": "html-has-lang",
+    "severity": "Serious",
+    "rule_pages_affected": 2,
+    "pages_affected": 2,
+    "instances": 2,
+    "selector_path": "html",
+    "snippet_shape": "html:",
+    "representative_selector": "html",
+    "representative_snippet": "<html><head></head><body></body></html>",
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 1,
+    "action_score": 7.2,
+    "estimated_fix_impact": {
+     "findings": 2,
+     "pages": 2,
+     "statement": "Fix one place, resolve ~2 finding(s) on 2 page(s)."
+    },
+    "affected_pages": [
+     "https://seedfund.nsf.gov/assets/img/adcom/test.html",
+     "https://seedfund.nsf.gov/SAM.html"
+    ]
+   },
+   {
+    "id": "cc-0b92615f889d",
+    "engine_key": "axe-core",
+    "rule_id": "landmark-one-main",
+    "severity": "Moderate",
+    "rule_pages_affected": 2,
+    "pages_affected": 2,
+    "instances": 2,
+    "selector_path": "html",
+    "snippet_shape": "html:",
+    "representative_selector": "html",
+    "representative_snippet": "<html><head></head><body></body></html>",
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 1,
+    "action_score": 4.8,
+    "estimated_fix_impact": {
+     "findings": 2,
+     "pages": 2,
+     "statement": "Fix one place, resolve ~2 finding(s) on 2 page(s)."
+    },
+    "affected_pages": [
+     "https://seedfund.nsf.gov/assets/img/adcom/test.html",
+     "https://seedfund.nsf.gov/SAM.html"
+    ]
+   },
+   {
+    "id": "cc-901548c28270",
+    "engine_key": "alfa",
+    "rule_id": "sia-r78",
+    "severity": "Moderate",
+    "rule_pages_affected": 5,
+    "pages_affected": 4,
+    "instances": 4,
+    "selector_path": "<h2 class=\"h1 results-company-title\" style=\"\">",
+    "snippet_shape": "",
+    "representative_selector": "<h2 class=\"h1 results-company-title\" style=\"\">",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "unknown",
+    "distinct_components_for_rule": 2,
+    "action_score": 4,
+    "estimated_fix_impact": {
+     "findings": 4,
+     "pages": 4,
+     "statement": "Fix one place, resolve ~4 finding(s) on 4 page(s)."
+    },
+    "affected_pages": [
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=coolaimate-inc",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=sofab-inks-llc",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=orion-wave-technology-corporation",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=rumedical-nova-limited-liability-co"
+    ]
+   },
+   {
+    "id": "cc-61dafe9c2c95",
+    "engine_key": "axe-core",
+    "rule_id": "heading-order",
+    "severity": "Moderate",
+    "rule_pages_affected": 11,
+    "pages_affected": 5,
+    "instances": 10,
+    "selector_path": ".award:nth-child(*) > .usa-section.usa-grid > .usa-grid-full > .usa-width-one-fourth > .mb5:nth-child(*) > h4",
+    "snippet_shape": "h4:",
+    "representative_selector": ".award:nth-child(1) > .usa-section.usa-grid > .usa-grid-full > .usa-width-one-fourth > .mb5:nth-child(1) > h4",
+    "representative_snippet": "<h4 class=\"subhead uppercase\">Project Leader</h4>",
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "unknown",
+    "distinct_components_for_rule": 4,
+    "action_score": 3,
+    "estimated_fix_impact": {
+     "findings": 10,
+     "pages": 5,
+     "statement": "Fix one place, resolve ~10 finding(s) on 5 page(s)."
+    },
+    "affected_pages": [
+     "https://seedfund.nsf.gov/awardees/history/details?company=emerald-tutu-inc-the",
+     "https://seedfund.nsf.gov/awardees/history/details?company=ubiqd-inc",
+     "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc",
+     "https://seedfund.nsf.gov/awardees/history/details?company=resource-chemical-corp",
+     "https://seedfund.nsf.gov/awardees/history/details?company=iambic-inc"
+    ]
+   },
+   {
+    "id": "cc-135c87c407a1",
+    "engine_key": "axe-core",
+    "rule_id": "heading-order",
+    "severity": "Moderate",
+    "rule_pages_affected": 11,
+    "pages_affected": 5,
+    "instances": 5,
+    "selector_path": "address > .mb5:nth-child(*) > h4",
+    "snippet_shape": "h4:",
+    "representative_selector": "address > .mb5:nth-child(1) > h4",
+    "representative_snippet": "<h4 class=\"subhead uppercase\">Project Leader</h4>",
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "unknown",
+    "distinct_components_for_rule": 4,
+    "action_score": 3,
+    "estimated_fix_impact": {
+     "findings": 5,
+     "pages": 5,
+     "statement": "Fix one place, resolve ~5 finding(s) on 5 page(s)."
+    },
+    "affected_pages": [
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=coolaimate-inc",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=sofab-inks-llc",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=opal-htm-inc",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=orion-wave-technology-corporation",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=rumedical-nova-limited-liability-co"
+    ]
+   },
+   {
+    "id": "cc-9c1ee394f259",
+    "engine_key": "axe-core",
+    "rule_id": "region",
+    "severity": "Moderate",
+    "rule_pages_affected": 1,
+    "pages_affected": 1,
+    "instances": 1,
+    "selector_path": "p",
+    "snippet_shape": "p:",
+    "representative_selector": "p",
+    "representative_snippet": "<p>Any company that does business with the government needs a SAM account. When you register, you’ll have to share bank account information. Registration expires after one year.</p>",
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 1,
+    "action_score": 2.4,
+    "estimated_fix_impact": {
+     "findings": 1,
+     "pages": 1,
+     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+    },
+    "affected_pages": [
+     "https://seedfund.nsf.gov/SAM.html"
+    ]
+   },
+   {
+    "id": "cc-ce25a9fcf2b8",
+    "engine_key": "alfa",
+    "rule_id": "sia-r18",
+    "severity": "Moderate",
+    "rule_pages_affected": 1,
+    "pages_affected": 1,
+    "instances": 2,
+    "selector_path": "@aria-label=\"address\"",
+    "snippet_shape": "",
+    "representative_selector": "@aria-label=\"address\"",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 1,
+    "action_score": 2,
+    "estimated_fix_impact": {
+     "findings": 2,
+     "pages": 1,
+     "statement": "Fix one place, resolve ~2 finding(s) on 1 page(s)."
+    },
+    "affected_pages": [
+     "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc"
+    ]
+   },
+   {
+    "id": "cc-cffcfd807590",
+    "engine_key": "alfa",
+    "rule_id": "sia-r61",
+    "severity": "Moderate",
+    "rule_pages_affected": 1,
+    "pages_affected": 1,
+    "instances": 1,
+    "selector_path": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicid\":null,\"sys",
+    "snippet_shape": "",
+    "representative_selector": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 1,
+    "action_score": 2,
+    "estimated_fix_impact": {
+     "findings": 1,
+     "pages": 1,
+     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+    },
+    "affected_pages": [
+     "https://seedfund.nsf.gov/news/RubiLaboratories"
+    ]
+   },
+   {
+    "id": "cc-1f9bc644621b",
+    "engine_key": "alfa",
+    "rule_id": "sia-r4",
+    "severity": "Moderate",
+    "rule_pages_affected": 1,
+    "pages_affected": 1,
+    "instances": 1,
+    "selector_path": "<html>",
+    "snippet_shape": "",
+    "representative_selector": "<html>",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 1,
+    "action_score": 2,
+    "estimated_fix_impact": {
+     "findings": 1,
+     "pages": 1,
+     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+    },
+    "affected_pages": [
+     "https://seedfund.nsf.gov/assets/img/adcom/test.html"
+    ]
+   },
+   {
+    "id": "cc-faa7b673b2c7",
+    "engine_key": "alfa",
+    "rule_id": "sia-r1",
+    "severity": "Moderate",
+    "rule_pages_affected": 1,
+    "pages_affected": 1,
+    "instances": 1,
+    "selector_path": "{\"type\":\"document\",\"children\":[{\"type\":\"element\",\"children\":[{\"type\":\"element\",\"",
+    "snippet_shape": "",
+    "representative_selector": "{\"type\":\"document\",\"children\":[{\"type\":\"element\",\"children\":[{\"type\":\"element\",\"",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 1,
+    "action_score": 2,
+    "estimated_fix_impact": {
+     "findings": 1,
+     "pages": 1,
+     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+    },
+    "affected_pages": [
+     "https://seedfund.nsf.gov/assets/img/adcom/test.html"
+    ]
+   },
+   {
+    "id": "cc-cf199022eb6c",
+    "engine_key": "alfa",
+    "rule_id": "sia-r59",
+    "severity": "Moderate",
+    "rule_pages_affected": 1,
+    "pages_affected": 1,
+    "instances": 1,
+    "selector_path": "{\"type\":\"document\",\"children\":[{\"type\":\"element\",\"children\":[{\"type\":\"element\",\"",
+    "snippet_shape": "",
+    "representative_selector": "{\"type\":\"document\",\"children\":[{\"type\":\"element\",\"children\":[{\"type\":\"element\",\"",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 1,
+    "action_score": 2,
+    "estimated_fix_impact": {
+     "findings": 1,
+     "pages": 1,
+     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+    },
+    "affected_pages": [
+     "https://seedfund.nsf.gov/assets/img/adcom/test.html"
+    ]
+   },
+   {
+    "id": "cc-1dc6aa1b2fe3",
+    "engine_key": "alfa",
+    "rule_id": "sia-r87",
+    "severity": "Moderate",
+    "rule_pages_affected": 1,
+    "pages_affected": 1,
+    "instances": 1,
+    "selector_path": "{\"type\":\"document\",\"children\":[{\"type\":\"element\",\"children\":[{\"type\":\"element\",\"",
+    "snippet_shape": "",
+    "representative_selector": "{\"type\":\"document\",\"children\":[{\"type\":\"element\",\"children\":[{\"type\":\"element\",\"",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 1,
+    "action_score": 2,
+    "estimated_fix_impact": {
+     "findings": 1,
+     "pages": 1,
+     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+    },
+    "affected_pages": [
+     "https://seedfund.nsf.gov/assets/img/adcom/test.html"
+    ]
+   },
+   {
+    "id": "cc-fa1173deb0af",
+    "engine_key": "alfa",
+    "rule_id": "sia-r78",
+    "severity": "Moderate",
+    "rule_pages_affected": 5,
+    "pages_affected": 1,
+    "instances": 2,
+    "selector_path": "<h2 class=\"h2 results-company-title\" style=\"\">",
+    "snippet_shape": "",
+    "representative_selector": "<h2 class=\"h2 results-company-title\" style=\"\">",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 2,
+    "action_score": 1,
+    "estimated_fix_impact": {
+     "findings": 2,
+     "pages": 1,
+     "statement": "Fix one place, resolve ~2 finding(s) on 1 page(s)."
+    },
+    "affected_pages": [
+     "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc"
+    ]
+   },
+   {
+    "id": "cc-a5cbbc526e35",
+    "engine_key": "alfa",
+    "rule_id": "sia-r111",
+    "severity": "Moderate",
+    "rule_pages_affected": 8,
+    "pages_affected": 5,
+    "instances": 5,
+    "selector_path": "<a href=\"#\">",
+    "snippet_shape": "",
+    "representative_selector": "<a href=\"#\">",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "unknown",
+    "distinct_components_for_rule": 16,
+    "action_score": 0.63,
+    "estimated_fix_impact": {
+     "findings": 5,
+     "pages": 5,
+     "statement": "Fix one place, resolve ~5 finding(s) on 5 page(s)."
+    },
+    "affected_pages": [
+     "https://seedfund.nsf.gov/news/RubiLaboratories",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=coolaimate-inc",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=sofab-inks-llc",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=orion-wave-technology-corporation",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=rumedical-nova-limited-liability-co"
+    ]
+   },
+   {
+    "id": "cc-fc4ef361979d",
+    "engine_key": "alfa",
+    "rule_id": "sia-r111",
+    "severity": "Moderate",
+    "rule_pages_affected": 8,
+    "pages_affected": 5,
+    "instances": 5,
+    "selector_path": "<a href=\"tel:#\">",
+    "snippet_shape": "",
+    "representative_selector": "<a href=\"tel:9176124649\">",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "unknown",
+    "distinct_components_for_rule": 16,
+    "action_score": 0.63,
+    "estimated_fix_impact": {
+     "findings": 5,
+     "pages": 5,
+     "statement": "Fix one place, resolve ~5 finding(s) on 5 page(s)."
+    },
+    "affected_pages": [
+     "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=coolaimate-inc",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=sofab-inks-llc",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=orion-wave-technology-corporation",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=rumedical-nova-limited-liability-co"
+    ]
+   },
+   {
+    "id": "cc-e1aa9deaa0da",
+    "engine_key": "axe-core",
+    "rule_id": "heading-order",
+    "severity": "Moderate",
+    "rule_pages_affected": 11,
+    "pages_affected": 1,
+    "instances": 1,
+    "selector_path": "#awards-details-list > .usa-section.usa-grid > .list.results.list-reset > .usa-grid-full > .usa-grid-full > .usa-width-one-fourth > address > .mb5:nth-child(*) > h4",
+    "snippet_shape": "h4:",
+    "representative_selector": "#awards-details-list > .usa-section.usa-grid > .list.results.list-reset > .usa-grid-full > .usa-grid-full > .usa-width-one-fourth > address > .mb5:nth-child(1) > h4",
+    "representative_snippet": "<h4 class=\"subhead uppercase\">Project Leader</h4>",
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 4,
+    "action_score": 0.6,
+    "estimated_fix_impact": {
+     "findings": 1,
+     "pages": 1,
+     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+    },
+    "affected_pages": [
+     "https://seedfund.nsf.gov/portfolio/details?company=folia-water-inc"
+    ]
+   },
+   {
+    "id": "cc-2bf3b259e26c",
+    "engine_key": "axe-core",
+    "rule_id": "heading-order",
+    "severity": "Moderate",
+    "rule_pages_affected": 11,
+    "pages_affected": 1,
+    "instances": 1,
+    "selector_path": "#awards-details-list-phase-# > .usa-section.usa-grid > .list.results.list-reset > .usa-grid-full > .usa-grid-full > .usa-width-one-fourth > address > .mb5:nth-child(*) > h4",
+    "snippet_shape": "h4:",
+    "representative_selector": "#awards-details-list-phase-2 > .usa-section.usa-grid > .list.results.list-reset > .usa-grid-full > .usa-grid-full > .usa-width-one-fourth > address > .mb5:nth-child(1) > h4",
+    "representative_snippet": "<h4 class=\"subhead uppercase\">Project Leader</h4>",
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 4,
+    "action_score": 0.6,
+    "estimated_fix_impact": {
+     "findings": 1,
+     "pages": 1,
+     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+    },
+    "affected_pages": [
+     "https://seedfund.nsf.gov/portfolio/details?company=folia-water-inc"
+    ]
+   },
+   {
+    "id": "cc-d8e233cb1f57",
+    "engine_key": "alfa",
+    "rule_id": "sia-r66",
+    "severity": "Moderate",
+    "rule_pages_affected": 2,
+    "pages_affected": 1,
+    "instances": 1,
+    "selector_path": "text: \" the basics \"",
+    "snippet_shape": "",
+    "representative_selector": "text: \"\n      The basics\n    \"",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 6,
+    "action_score": 0.33,
+    "estimated_fix_impact": {
+     "findings": 1,
+     "pages": 1,
+     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+    },
+    "affected_pages": [
+     "https://seedfund.nsf.gov/resources/awardees/phase-1/rules-and-regulations"
+    ]
+   },
+   {
+    "id": "cc-ac456a90a598",
+    "engine_key": "alfa",
+    "rule_id": "sia-r66",
+    "severity": "Moderate",
+    "rule_pages_affected": 2,
+    "pages_affected": 1,
+    "instances": 1,
+    "selector_path": "text: \" accounting \"",
+    "snippet_shape": "",
+    "representative_selector": "text: \"\n      Accounting\n    \"",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 6,
+    "action_score": 0.33,
+    "estimated_fix_impact": {
+     "findings": 1,
+     "pages": 1,
+     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+    },
+    "affected_pages": [
+     "https://seedfund.nsf.gov/resources/awardees/phase-1/rules-and-regulations"
+    ]
+   },
+   {
+    "id": "cc-12b63d650a4c",
+    "engine_key": "alfa",
+    "rule_id": "sia-r66",
+    "severity": "Moderate",
+    "rule_pages_affected": 2,
+    "pages_affected": 1,
+    "instances": 1,
+    "selector_path": "text: \" tax information - important \"",
+    "snippet_shape": "",
+    "representative_selector": "text: \"\n      Tax Information - IMPORTANT\n    \"",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 6,
+    "action_score": 0.33,
+    "estimated_fix_impact": {
+     "findings": 1,
+     "pages": 1,
+     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+    },
+    "affected_pages": [
+     "https://seedfund.nsf.gov/resources/awardees/phase-1/rules-and-regulations"
+    ]
+   },
+   {
+    "id": "cc-1a82172e085e",
+    "engine_key": "alfa",
+    "rule_id": "sia-r66",
+    "severity": "Moderate",
+    "rule_pages_affected": 2,
+    "pages_affected": 1,
+    "instances": 1,
+    "selector_path": "text: \" overview \"",
+    "snippet_shape": "",
+    "representative_selector": "text: \"\n      Overview\n    \"",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 6,
+    "action_score": 0.33,
+    "estimated_fix_impact": {
+     "findings": 1,
+     "pages": 1,
+     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+    },
+    "affected_pages": [
+     "https://seedfund.nsf.gov/how-to-submit/unique-entity-id"
+    ]
+   },
+   {
+    "id": "cc-58c9a536b542",
+    "engine_key": "alfa",
+    "rule_id": "sia-r66",
+    "severity": "Moderate",
+    "rule_pages_affected": 2,
+    "pages_affected": 1,
+    "instances": 1,
+    "selector_path": "text: \" required registrations \"",
+    "snippet_shape": "",
+    "representative_selector": "text: \"\n      Required Registrations\n    \"",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 6,
+    "action_score": 0.33,
+    "estimated_fix_impact": {
+     "findings": 1,
+     "pages": 1,
+     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+    },
+    "affected_pages": [
+     "https://seedfund.nsf.gov/how-to-submit/unique-entity-id"
+    ]
+   },
+   {
+    "id": "cc-8357af6e6d98",
+    "engine_key": "alfa",
+    "rule_id": "sia-r66",
+    "severity": "Moderate",
+    "rule_pages_affected": 2,
+    "pages_affected": 1,
+    "instances": 1,
+    "selector_path": "text: \" research.gov \"",
+    "snippet_shape": "",
+    "representative_selector": "text: \"\n      Research.gov\n    \"",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 6,
+    "action_score": 0.33,
+    "estimated_fix_impact": {
+     "findings": 1,
+     "pages": 1,
+     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+    },
+    "affected_pages": [
+     "https://seedfund.nsf.gov/how-to-submit/unique-entity-id"
+    ]
+   },
+   {
+    "id": "cc-9f3b2d601711",
+    "engine_key": "alfa",
+    "rule_id": "sia-r111",
+    "severity": "Moderate",
+    "rule_pages_affected": 8,
+    "pages_affected": 1,
+    "instances": 1,
+    "selector_path": "<a href=\"https://www.sbir.gov/fraud-waste-abuse\" target=\"_blank\" rel=\"noopener noreferrer\">",
+    "snippet_shape": "",
+    "representative_selector": "<a href=\"https://www.sbir.gov/fraud-waste-abuse\" target=\"_blank\" rel=\"noopener noreferrer\">",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 16,
+    "action_score": 0.13,
+    "estimated_fix_impact": {
+     "findings": 1,
+     "pages": 1,
+     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+    },
+    "affected_pages": [
+     "https://seedfund.nsf.gov/news/RubiLaboratories"
+    ]
+   },
+   {
+    "id": "cc-5a3be7d013e6",
+    "engine_key": "alfa",
+    "rule_id": "sia-r111",
+    "severity": "Moderate",
+    "rule_pages_affected": 8,
+    "pages_affected": 1,
+    "instances": 1,
+    "selector_path": "<a class=\"usa-footer-primary-link\" href=\"/about/\">",
+    "snippet_shape": "",
+    "representative_selector": "<a class=\"usa-footer-primary-link\" href=\"/about/\">",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 16,
+    "action_score": 0.13,
+    "estimated_fix_impact": {
+     "findings": 1,
+     "pages": 1,
+     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+    },
+    "affected_pages": [
+     "https://seedfund.nsf.gov/news/RubiLaboratories"
+    ]
+   },
+   {
+    "id": "cc-de651020a53b",
+    "engine_key": "alfa",
+    "rule_id": "sia-r111",
+    "severity": "Moderate",
+    "rule_pages_affected": 8,
+    "pages_affected": 1,
+    "instances": 1,
+    "selector_path": "<a href=\"mailto:fcassou@cyclopure.com\">",
+    "snippet_shape": "",
+    "representative_selector": "<a href=\"mailto:fcassou@cyclopure.com\">",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 16,
+    "action_score": 0.13,
+    "estimated_fix_impact": {
+     "findings": 1,
+     "pages": 1,
+     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+    },
+    "affected_pages": [
+     "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc"
+    ]
+   },
+   {
+    "id": "cc-d2ef5605cee1",
+    "engine_key": "alfa",
+    "rule_id": "sia-r111",
+    "severity": "Moderate",
+    "rule_pages_affected": 8,
+    "pages_affected": 1,
+    "instances": 1,
+    "selector_path": "<a href=\"mailto:gbarin@cyclopure.com\">",
+    "snippet_shape": "",
+    "representative_selector": "<a href=\"mailto:gbarin@cyclopure.com\">",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 16,
+    "action_score": 0.13,
+    "estimated_fix_impact": {
+     "findings": 1,
+     "pages": 1,
+     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+    },
+    "affected_pages": [
+     "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc"
+    ]
+   },
+   {
+    "id": "cc-946f52a4f55e",
+    "engine_key": "alfa",
+    "rule_id": "sia-r111",
+    "severity": "Moderate",
+    "rule_pages_affected": 8,
+    "pages_affected": 1,
+    "instances": 1,
+    "selector_path": "<a href=\"mailto:yi.zhang@coolaimate.com\">",
+    "snippet_shape": "",
+    "representative_selector": "<a href=\"mailto:yi.zhang@coolaimate.com\">",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 16,
+    "action_score": 0.13,
+    "estimated_fix_impact": {
+     "findings": 1,
+     "pages": 1,
+     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+    },
+    "affected_pages": [
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=coolaimate-inc"
+    ]
+   },
+   {
+    "id": "cc-b1ba7a2ffb37",
+    "engine_key": "alfa",
+    "rule_id": "sia-r111",
+    "severity": "Moderate",
+    "rule_pages_affected": 8,
+    "pages_affected": 1,
+    "instances": 1,
+    "selector_path": "<a href=\"mailto:peter.armstrong@sofabinks.com\">",
+    "snippet_shape": "",
+    "representative_selector": "<a href=\"mailto:peter.armstrong@sofabinks.com\">",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 16,
+    "action_score": 0.13,
+    "estimated_fix_impact": {
+     "findings": 1,
+     "pages": 1,
+     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+    },
+    "affected_pages": [
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=sofab-inks-llc"
+    ]
+   },
+   {
+    "id": "cc-fcf2798bca4c",
+    "engine_key": "alfa",
+    "rule_id": "sia-r111",
+    "severity": "Moderate",
+    "rule_pages_affected": 8,
+    "pages_affected": 1,
+    "instances": 1,
+    "selector_path": "<a href=\"mailto:bowen.zheng@orion-wave.com\">",
+    "snippet_shape": "",
+    "representative_selector": "<a href=\"mailto:bowen.zheng@orion-wave.com\">",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 16,
+    "action_score": 0.13,
+    "estimated_fix_impact": {
+     "findings": 1,
+     "pages": 1,
+     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+    },
+    "affected_pages": [
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=orion-wave-technology-corporation"
+    ]
+   },
+   {
+    "id": "cc-4fbd0211e91e",
+    "engine_key": "alfa",
+    "rule_id": "sia-r111",
+    "severity": "Moderate",
+    "rule_pages_affected": 8,
+    "pages_affected": 1,
+    "instances": 1,
+    "selector_path": "<a href=\"/resources/awardees/phase-#/\">",
+    "snippet_shape": "",
+    "representative_selector": "<a href=\"/resources/awardees/phase-1/\">",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 16,
+    "action_score": 0.13,
+    "estimated_fix_impact": {
+     "findings": 1,
+     "pages": 1,
+     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+    },
+    "affected_pages": [
+     "https://seedfund.nsf.gov/resources/awardees/phase-1/rules-and-regulations"
+    ]
+   },
+   {
+    "id": "cc-fb28d6abe45b",
+    "engine_key": "alfa",
+    "rule_id": "sia-r111",
+    "severity": "Moderate",
+    "rule_pages_affected": 8,
+    "pages_affected": 1,
+    "instances": 1,
+    "selector_path": "<a href=\"/resources/awardees/phase-#/accounting/\">",
+    "snippet_shape": "",
+    "representative_selector": "<a href=\"/resources/awardees/phase-1/accounting/\">",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 16,
+    "action_score": 0.13,
+    "estimated_fix_impact": {
+     "findings": 1,
+     "pages": 1,
+     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+    },
+    "affected_pages": [
+     "https://seedfund.nsf.gov/resources/awardees/phase-1/rules-and-regulations"
+    ]
+   },
+   {
+    "id": "cc-9d26682b6846",
+    "engine_key": "alfa",
+    "rule_id": "sia-r111",
+    "severity": "Moderate",
+    "rule_pages_affected": 8,
+    "pages_affected": 1,
+    "instances": 1,
+    "selector_path": "<a href=\"/resources/awardees/phase-#/tax-information/\">",
+    "snippet_shape": "",
+    "representative_selector": "<a href=\"/resources/awardees/phase-1/tax-information/\">",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 16,
+    "action_score": 0.13,
+    "estimated_fix_impact": {
+     "findings": 1,
+     "pages": 1,
+     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+    },
+    "affected_pages": [
+     "https://seedfund.nsf.gov/resources/awardees/phase-1/rules-and-regulations"
+    ]
+   },
+   {
+    "id": "cc-da83edfa14b7",
+    "engine_key": "alfa",
+    "rule_id": "sia-r111",
+    "severity": "Moderate",
+    "rule_pages_affected": 8,
+    "pages_affected": 1,
+    "instances": 1,
+    "selector_path": "<a href=\"mailto:hyungmok.joh@rumednova.com\">",
+    "snippet_shape": "",
+    "representative_selector": "<a href=\"mailto:Hyungmok.joh@RuMedNova.com\">",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 16,
+    "action_score": 0.13,
+    "estimated_fix_impact": {
+     "findings": 1,
+     "pages": 1,
+     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+    },
+    "affected_pages": [
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=rumedical-nova-limited-liability-co"
+    ]
+   },
+   {
+    "id": "cc-c23925f3b218",
+    "engine_key": "alfa",
+    "rule_id": "sia-r111",
+    "severity": "Moderate",
+    "rule_pages_affected": 8,
+    "pages_affected": 1,
+    "instances": 1,
+    "selector_path": "<a href=\"/how-to-submit/\">",
+    "snippet_shape": "",
+    "representative_selector": "<a href=\"/how-to-submit/\">",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 16,
+    "action_score": 0.13,
+    "estimated_fix_impact": {
+     "findings": 1,
+     "pages": 1,
+     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+    },
+    "affected_pages": [
+     "https://seedfund.nsf.gov/how-to-submit/unique-entity-id"
+    ]
+   },
+   {
+    "id": "cc-e557d4558432",
+    "engine_key": "alfa",
+    "rule_id": "sia-r111",
+    "severity": "Moderate",
+    "rule_pages_affected": 8,
+    "pages_affected": 1,
+    "instances": 1,
+    "selector_path": "<a href=\"/how-to-submit/required-registrations/\">",
+    "snippet_shape": "",
+    "representative_selector": "<a href=\"/how-to-submit/required-registrations/\">",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 16,
+    "action_score": 0.13,
+    "estimated_fix_impact": {
+     "findings": 1,
+     "pages": 1,
+     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+    },
+    "affected_pages": [
+     "https://seedfund.nsf.gov/how-to-submit/unique-entity-id"
+    ]
+   },
+   {
+    "id": "cc-14aef3119f53",
+    "engine_key": "alfa",
+    "rule_id": "sia-r111",
+    "severity": "Moderate",
+    "rule_pages_affected": 8,
+    "pages_affected": 1,
+    "instances": 1,
+    "selector_path": "<a href=\"/how-to-submit/unique-entity-id/\" class=\"usa-current\">",
+    "snippet_shape": "",
+    "representative_selector": "<a href=\"/how-to-submit/unique-entity-id/\" class=\"usa-current\">",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 16,
+    "action_score": 0.13,
+    "estimated_fix_impact": {
+     "findings": 1,
+     "pages": 1,
+     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+    },
+    "affected_pages": [
+     "https://seedfund.nsf.gov/how-to-submit/unique-entity-id"
+    ]
+   }
+  ],
+  "top_actions": [
+   {
+    "id": "cc-cba77e55df50",
+    "engine_key": "axe-core",
+    "rule_id": "link-in-text-block",
+    "severity": "Critical",
+    "rule_pages_affected": 23,
+    "pages_affected": 23,
+    "instances": 23,
+    "selector_path": ".banner-left > a[href$=\"solicitation-proposal/\"]",
+    "snippet_shape": "a:href",
+    "representative_selector": ".banner-left > a[href$=\"solicitation-proposal/\"]",
+    "representative_snippet": "<a href=\"/solicitation-proposal/\">click here</a>",
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "template",
+    "distinct_components_for_rule": 1,
+    "action_score": 110.4,
+    "estimated_fix_impact": {
+     "findings": 23,
+     "pages": 23,
+     "statement": "Fix one place, resolve ~23 finding(s) on 23 page(s)."
+    },
+    "affected_pages": [
+     "https://seedfund.nsf.gov/awardees/history/details?company=emerald-tutu-inc-the",
+     "https://seedfund.nsf.gov/news/RubiLaboratories",
+     "https://seedfund.nsf.gov/news/akanocure-pharmaceuticals",
+     "https://seedfund.nsf.gov/news/relavo",
+     "https://seedfund.nsf.gov/news/cyclopure",
+     "https://seedfund.nsf.gov/awardees/history/details?company=ubiqd-inc",
+     "https://seedfund.nsf.gov/news/UpstreamBiotechnology",
+     "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=coolaimate-inc",
+     "https://seedfund.nsf.gov/showcase",
+     "https://seedfund.nsf.gov/news/alloy-enterprises",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=sofab-inks-llc",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=opal-htm-inc",
+     "https://seedfund.nsf.gov/news/Thiozen",
+     "https://seedfund.nsf.gov/awardees/history/details?company=resource-chemical-corp",
+     "https://seedfund.nsf.gov/portfolio/details?company=folia-water-inc",
+     "https://seedfund.nsf.gov/awardees/history/details?company=iambic-inc",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=orion-wave-technology-corporation",
+     "https://seedfund.nsf.gov/resources/awardees/phase-1/rules-and-regulations",
+     "https://seedfund.nsf.gov/news/shark-wheel",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=rumedical-nova-limited-liability-co",
+     "https://seedfund.nsf.gov/how-to-submit/unique-entity-id",
+     "https://seedfund.nsf.gov/topics/robotics"
+    ]
+   },
+   {
+    "id": "cc-c462e13cff10",
+    "engine_key": "axe-core",
+    "rule_id": "landmark-banner-is-top-level",
+    "severity": "Serious",
+    "rule_pages_affected": 23,
+    "pages_affected": 23,
+    "instances": 23,
+    "selector_path": ".usa-banner-header",
+    "snippet_shape": "header:",
+    "representative_selector": ".usa-banner-header",
+    "representative_snippet": "<header class=\"usa-banner-header\">",
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "template",
+    "distinct_components_for_rule": 1,
+    "action_score": 82.8,
+    "estimated_fix_impact": {
+     "findings": 23,
+     "pages": 23,
+     "statement": "Fix one place, resolve ~23 finding(s) on 23 page(s)."
+    },
+    "affected_pages": [
+     "https://seedfund.nsf.gov/awardees/history/details?company=emerald-tutu-inc-the",
+     "https://seedfund.nsf.gov/news/RubiLaboratories",
+     "https://seedfund.nsf.gov/news/akanocure-pharmaceuticals",
+     "https://seedfund.nsf.gov/news/relavo",
+     "https://seedfund.nsf.gov/news/cyclopure",
+     "https://seedfund.nsf.gov/awardees/history/details?company=ubiqd-inc",
+     "https://seedfund.nsf.gov/news/UpstreamBiotechnology",
+     "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=coolaimate-inc",
+     "https://seedfund.nsf.gov/showcase",
+     "https://seedfund.nsf.gov/news/alloy-enterprises",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=sofab-inks-llc",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=opal-htm-inc",
+     "https://seedfund.nsf.gov/news/Thiozen",
+     "https://seedfund.nsf.gov/awardees/history/details?company=resource-chemical-corp",
+     "https://seedfund.nsf.gov/portfolio/details?company=folia-water-inc",
+     "https://seedfund.nsf.gov/awardees/history/details?company=iambic-inc",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=orion-wave-technology-corporation",
+     "https://seedfund.nsf.gov/resources/awardees/phase-1/rules-and-regulations",
+     "https://seedfund.nsf.gov/news/shark-wheel",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=rumedical-nova-limited-liability-co",
+     "https://seedfund.nsf.gov/how-to-submit/unique-entity-id",
+     "https://seedfund.nsf.gov/topics/robotics"
+    ]
+   },
+   {
+    "id": "cc-84e62234c764",
+    "engine_key": "axe-core",
+    "rule_id": "landmark-no-duplicate-banner",
+    "severity": "Serious",
+    "rule_pages_affected": 23,
+    "pages_affected": 23,
+    "instances": 23,
+    "selector_path": ".usa-header",
+    "snippet_shape": "header:role",
+    "representative_selector": ".usa-header",
+    "representative_snippet": "<header class=\"usa-header usa-header-basic header--fixed\" role=\"banner\">",
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "template",
+    "distinct_components_for_rule": 1,
+    "action_score": 82.8,
+    "estimated_fix_impact": {
+     "findings": 23,
+     "pages": 23,
+     "statement": "Fix one place, resolve ~23 finding(s) on 23 page(s)."
+    },
+    "affected_pages": [
+     "https://seedfund.nsf.gov/awardees/history/details?company=emerald-tutu-inc-the",
+     "https://seedfund.nsf.gov/news/RubiLaboratories",
+     "https://seedfund.nsf.gov/news/akanocure-pharmaceuticals",
+     "https://seedfund.nsf.gov/news/relavo",
+     "https://seedfund.nsf.gov/news/cyclopure",
+     "https://seedfund.nsf.gov/awardees/history/details?company=ubiqd-inc",
+     "https://seedfund.nsf.gov/news/UpstreamBiotechnology",
+     "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=coolaimate-inc",
+     "https://seedfund.nsf.gov/showcase",
+     "https://seedfund.nsf.gov/news/alloy-enterprises",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=sofab-inks-llc",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=opal-htm-inc",
+     "https://seedfund.nsf.gov/news/Thiozen",
+     "https://seedfund.nsf.gov/awardees/history/details?company=resource-chemical-corp",
+     "https://seedfund.nsf.gov/portfolio/details?company=folia-water-inc",
+     "https://seedfund.nsf.gov/awardees/history/details?company=iambic-inc",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=orion-wave-technology-corporation",
+     "https://seedfund.nsf.gov/resources/awardees/phase-1/rules-and-regulations",
+     "https://seedfund.nsf.gov/news/shark-wheel",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=rumedical-nova-limited-liability-co",
+     "https://seedfund.nsf.gov/how-to-submit/unique-entity-id",
+     "https://seedfund.nsf.gov/topics/robotics"
+    ]
+   },
+   {
+    "id": "cc-ab39724fb47e",
+    "engine_key": "axe-core",
+    "rule_id": "landmark-unique",
+    "severity": "Serious",
+    "rule_pages_affected": 23,
+    "pages_affected": 23,
+    "instances": 23,
+    "selector_path": ".usa-header",
+    "snippet_shape": "header:role",
+    "representative_selector": ".usa-header",
+    "representative_snippet": "<header class=\"usa-header usa-header-basic header--fixed\" role=\"banner\">",
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "template",
+    "distinct_components_for_rule": 2,
+    "action_score": 41.4,
+    "estimated_fix_impact": {
+     "findings": 23,
+     "pages": 23,
+     "statement": "Fix one place, resolve ~23 finding(s) on 23 page(s)."
+    },
+    "affected_pages": [
+     "https://seedfund.nsf.gov/awardees/history/details?company=emerald-tutu-inc-the",
+     "https://seedfund.nsf.gov/news/RubiLaboratories",
+     "https://seedfund.nsf.gov/news/akanocure-pharmaceuticals",
+     "https://seedfund.nsf.gov/news/relavo",
+     "https://seedfund.nsf.gov/news/cyclopure",
+     "https://seedfund.nsf.gov/awardees/history/details?company=ubiqd-inc",
+     "https://seedfund.nsf.gov/news/UpstreamBiotechnology",
+     "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=coolaimate-inc",
+     "https://seedfund.nsf.gov/showcase",
+     "https://seedfund.nsf.gov/news/alloy-enterprises",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=sofab-inks-llc",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=opal-htm-inc",
+     "https://seedfund.nsf.gov/news/Thiozen",
+     "https://seedfund.nsf.gov/awardees/history/details?company=resource-chemical-corp",
+     "https://seedfund.nsf.gov/portfolio/details?company=folia-water-inc",
+     "https://seedfund.nsf.gov/awardees/history/details?company=iambic-inc",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=orion-wave-technology-corporation",
+     "https://seedfund.nsf.gov/resources/awardees/phase-1/rules-and-regulations",
+     "https://seedfund.nsf.gov/news/shark-wheel",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=rumedical-nova-limited-liability-co",
+     "https://seedfund.nsf.gov/how-to-submit/unique-entity-id",
+     "https://seedfund.nsf.gov/topics/robotics"
+    ]
+   },
+   {
+    "id": "cc-8cbe4219c5ad",
+    "engine_key": "axe-core",
+    "rule_id": "page-has-heading-one",
+    "severity": "Moderate",
+    "rule_pages_affected": 10,
+    "pages_affected": 10,
+    "instances": 10,
+    "selector_path": "html",
+    "snippet_shape": "html:",
+    "representative_selector": "html",
+    "representative_snippet": "<html lang=\"en-US\" class=\" js flexbox flexboxl...\">",
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "template",
+    "distinct_components_for_rule": 1,
+    "action_score": 24,
+    "estimated_fix_impact": {
+     "findings": 10,
+     "pages": 10,
+     "statement": "Fix one place, resolve ~10 finding(s) on 10 page(s)."
+    },
+    "affected_pages": [
+     "https://seedfund.nsf.gov/news/RubiLaboratories",
+     "https://seedfund.nsf.gov/news/akanocure-pharmaceuticals",
+     "https://seedfund.nsf.gov/news/relavo",
+     "https://seedfund.nsf.gov/news/cyclopure",
+     "https://seedfund.nsf.gov/news/UpstreamBiotechnology",
+     "https://seedfund.nsf.gov/assets/img/adcom/test.html",
+     "https://seedfund.nsf.gov/SAM.html",
+     "https://seedfund.nsf.gov/news/alloy-enterprises",
+     "https://seedfund.nsf.gov/news/Thiozen",
+     "https://seedfund.nsf.gov/news/shark-wheel"
+    ]
+   },
+   {
+    "id": "cc-db91a2b83bb1",
+    "engine_key": "axe-core",
+    "rule_id": "landmark-main-is-top-level",
+    "severity": "Moderate",
+    "rule_pages_affected": 8,
+    "pages_affected": 8,
+    "instances": 8,
+    "selector_path": ".main-content-headroom > main",
+    "snippet_shape": "main:",
+    "representative_selector": ".main-content-headroom > main",
+    "representative_snippet": "<main id=\"main-content\">",
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "unknown",
+    "distinct_components_for_rule": 1,
+    "action_score": 19.2,
+    "estimated_fix_impact": {
+     "findings": 8,
+     "pages": 8,
+     "statement": "Fix one place, resolve ~8 finding(s) on 8 page(s)."
+    },
+    "affected_pages": [
+     "https://seedfund.nsf.gov/news/RubiLaboratories",
+     "https://seedfund.nsf.gov/news/akanocure-pharmaceuticals",
+     "https://seedfund.nsf.gov/news/relavo",
+     "https://seedfund.nsf.gov/news/cyclopure",
+     "https://seedfund.nsf.gov/news/UpstreamBiotechnology",
+     "https://seedfund.nsf.gov/news/alloy-enterprises",
+     "https://seedfund.nsf.gov/news/Thiozen",
+     "https://seedfund.nsf.gov/news/shark-wheel"
+    ]
+   },
+   {
+    "id": "cc-68f99c1d24c7",
+    "engine_key": "axe-core",
+    "rule_id": "landmark-no-duplicate-main",
+    "severity": "Moderate",
+    "rule_pages_affected": 8,
+    "pages_affected": 8,
+    "instances": 8,
+    "selector_path": ".main-content-headroom",
+    "snippet_shape": "main:",
+    "representative_selector": ".main-content-headroom",
+    "representative_snippet": "<main id=\"main-content\" class=\"main-content-headroom\">",
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "unknown",
+    "distinct_components_for_rule": 1,
+    "action_score": 19.2,
+    "estimated_fix_impact": {
+     "findings": 8,
+     "pages": 8,
+     "statement": "Fix one place, resolve ~8 finding(s) on 8 page(s)."
+    },
+    "affected_pages": [
+     "https://seedfund.nsf.gov/news/RubiLaboratories",
+     "https://seedfund.nsf.gov/news/akanocure-pharmaceuticals",
+     "https://seedfund.nsf.gov/news/relavo",
+     "https://seedfund.nsf.gov/news/cyclopure",
+     "https://seedfund.nsf.gov/news/UpstreamBiotechnology",
+     "https://seedfund.nsf.gov/news/alloy-enterprises",
+     "https://seedfund.nsf.gov/news/Thiozen",
+     "https://seedfund.nsf.gov/news/shark-wheel"
+    ]
+   },
+   {
+    "id": "cc-bff142e8838e",
+    "engine_key": "axe-core",
+    "rule_id": "landmark-unique",
+    "severity": "Serious",
+    "rule_pages_affected": 23,
+    "pages_affected": 8,
+    "instances": 8,
+    "selector_path": ".main-content-headroom",
+    "snippet_shape": "main:",
+    "representative_selector": ".main-content-headroom",
+    "representative_snippet": "<main id=\"main-content\" class=\"main-content-headroom\">",
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "unknown",
+    "distinct_components_for_rule": 2,
+    "action_score": 14.4,
+    "estimated_fix_impact": {
+     "findings": 8,
+     "pages": 8,
+     "statement": "Fix one place, resolve ~8 finding(s) on 8 page(s)."
+    },
+    "affected_pages": [
+     "https://seedfund.nsf.gov/news/RubiLaboratories",
+     "https://seedfund.nsf.gov/news/akanocure-pharmaceuticals",
+     "https://seedfund.nsf.gov/news/relavo",
+     "https://seedfund.nsf.gov/news/cyclopure",
+     "https://seedfund.nsf.gov/news/UpstreamBiotechnology",
+     "https://seedfund.nsf.gov/news/alloy-enterprises",
+     "https://seedfund.nsf.gov/news/Thiozen",
+     "https://seedfund.nsf.gov/news/shark-wheel"
+    ]
+   },
+   {
+    "id": "cc-79a5ccd081d9",
+    "engine_key": "alfa",
+    "rule_id": "sia-r53",
+    "severity": "Moderate",
+    "rule_pages_affected": 5,
+    "pages_affected": 5,
+    "instances": 6,
+    "selector_path": "<h4 class=\"subhead uppercase\">",
+    "snippet_shape": "",
+    "representative_selector": "<h4 class=\"subhead uppercase\">",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "unknown",
+    "distinct_components_for_rule": 1,
+    "action_score": 10,
+    "estimated_fix_impact": {
+     "findings": 6,
+     "pages": 5,
+     "statement": "Fix one place, resolve ~6 finding(s) on 5 page(s)."
+    },
+    "affected_pages": [
+     "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=coolaimate-inc",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=sofab-inks-llc",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=orion-wave-technology-corporation",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=rumedical-nova-limited-liability-co"
+    ]
+   },
+   {
+    "id": "cc-0b92eca39744",
+    "engine_key": "alfa",
+    "rule_id": "sia-r20",
+    "severity": "Moderate",
+    "rule_pages_affected": 5,
+    "pages_affected": 5,
+    "instances": 5,
+    "selector_path": "@aria-role=\"img\"",
+    "snippet_shape": "",
+    "representative_selector": "@aria-role=\"img\"",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "unknown",
+    "distinct_components_for_rule": 1,
+    "action_score": 10,
+    "estimated_fix_impact": {
+     "findings": 5,
+     "pages": 5,
+     "statement": "Fix one place, resolve ~5 finding(s) on 5 page(s)."
+    },
+    "affected_pages": [
+     "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=coolaimate-inc",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=sofab-inks-llc",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=orion-wave-technology-corporation",
+     "https://seedfund.nsf.gov/awardees/phase-1/details?company=rumedical-nova-limited-liability-co"
+    ]
+   }
+  ],
+  "design_component_usage": [],
+  "page_component_usage": [],
+  "drift_page_count": 0,
+  "drift_pages": [],
+  "drift_clusters": []
+ },
+ "pagesAttempted": 25,
+ "pagesSucceeded": 25
+}

@@ -1,0 +1,541 @@
+{
+ "domain": "seedfund.nsf.gov",
+ "updatedAt": "2026-10-25T08:43:16.574Z",
+ "findings": {
+  "VS-8ade3360": {
+   "engine": "axe-core",
+   "ruleId": "link-in-text-block",
+   "summary": "Links must be distinguishable without relying on color (WCAG 1.4.1)",
+   "wcag": "1.4.1",
+   "severity": "Critical",
+   "firstSeen": "2026-W43",
+   "lastSeen": "2026-W43",
+   "_weeks": [
+    "2026-W43"
+   ],
+   "weeksSeen": 1,
+   "lastPagesAffected": 23,
+   "lastAffectedPages": [
+    "https://seedfund.nsf.gov/awardees/history/details?company=emerald-tutu-inc-the",
+    "https://seedfund.nsf.gov/news/RubiLaboratories",
+    "https://seedfund.nsf.gov/news/akanocure-pharmaceuticals",
+    "https://seedfund.nsf.gov/news/relavo",
+    "https://seedfund.nsf.gov/news/cyclopure",
+    "https://seedfund.nsf.gov/awardees/history/details?company=ubiqd-inc",
+    "https://seedfund.nsf.gov/news/UpstreamBiotechnology",
+    "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc",
+    "https://seedfund.nsf.gov/awardees/phase-1/details?company=coolaimate-inc",
+    "https://seedfund.nsf.gov/showcase",
+    "https://seedfund.nsf.gov/news/alloy-enterprises",
+    "https://seedfund.nsf.gov/awardees/phase-1/details?company=sofab-inks-llc",
+    "https://seedfund.nsf.gov/awardees/phase-1/details?company=opal-htm-inc",
+    "https://seedfund.nsf.gov/news/Thiozen",
+    "https://seedfund.nsf.gov/awardees/history/details?company=resource-chemical-corp",
+    "https://seedfund.nsf.gov/portfolio/details?company=folia-water-inc",
+    "https://seedfund.nsf.gov/awardees/history/details?company=iambic-inc",
+    "https://seedfund.nsf.gov/awardees/phase-1/details?company=orion-wave-technology-corporation",
+    "https://seedfund.nsf.gov/resources/awardees/phase-1/rules-and-regulations",
+    "https://seedfund.nsf.gov/news/shark-wheel",
+    "https://seedfund.nsf.gov/awardees/phase-1/details?company=rumedical-nova-limited-liability-co",
+    "https://seedfund.nsf.gov/how-to-submit/unique-entity-id",
+    "https://seedfund.nsf.gov/topics/robotics"
+   ]
+  },
+  "VS-c80d5faa": {
+   "engine": "axe-core",
+   "ruleId": "document-title",
+   "summary": "Documents must have <title> element to aid in navigation (WCAG 2.4.2)",
+   "wcag": "2.4.2",
+   "severity": "Serious",
+   "firstSeen": "2026-W43",
+   "lastSeen": "2026-W43",
+   "_weeks": [
+    "2026-W43"
+   ],
+   "weeksSeen": 1,
+   "lastPagesAffected": 2,
+   "lastAffectedPages": [
+    "https://seedfund.nsf.gov/assets/img/adcom/test.html",
+    "https://seedfund.nsf.gov/SAM.html"
+   ]
+  },
+  "VS-0728f339": {
+   "engine": "Siteimprove Alfa",
+   "ruleId": "sia-r1",
+   "summary": "Document has a title element (WCAG 2.4.2)",
+   "wcag": "2.4.2",
+   "severity": "Moderate",
+   "firstSeen": "2026-W43",
+   "lastSeen": "2026-W43",
+   "_weeks": [
+    "2026-W43"
+   ],
+   "weeksSeen": 1,
+   "lastPagesAffected": 1,
+   "lastAffectedPages": [
+    "https://seedfund.nsf.gov/assets/img/adcom/test.html"
+   ]
+  },
+  "VS-c126b6a6": {
+   "engine": "axe-core",
+   "ruleId": "html-has-lang",
+   "summary": "<html> element must have a lang attribute (WCAG 3.1.1)",
+   "wcag": "3.1.1",
+   "severity": "Serious",
+   "firstSeen": "2026-W43",
+   "lastSeen": "2026-W43",
+   "_weeks": [
+    "2026-W43"
+   ],
+   "weeksSeen": 1,
+   "lastPagesAffected": 2,
+   "lastAffectedPages": [
+    "https://seedfund.nsf.gov/assets/img/adcom/test.html",
+    "https://seedfund.nsf.gov/SAM.html"
+   ]
+  },
+  "VS-7a0e5645": {
+   "engine": "Siteimprove Alfa",
+   "ruleId": "sia-r4",
+   "summary": "Document has a valid lang attribute (WCAG 3.1.1)",
+   "wcag": "3.1.1",
+   "severity": "Moderate",
+   "firstSeen": "2026-W43",
+   "lastSeen": "2026-W43",
+   "_weeks": [
+    "2026-W43"
+   ],
+   "weeksSeen": 1,
+   "lastPagesAffected": 1,
+   "lastAffectedPages": [
+    "https://seedfund.nsf.gov/assets/img/adcom/test.html"
+   ]
+  },
+  "VS-646b1e0b": {
+   "engine": "Siteimprove Alfa",
+   "ruleId": "sia-r66",
+   "summary": "Text has enhanced contrast (WCAG 1.4.6)",
+   "wcag": "1.4.6",
+   "severity": "Moderate",
+   "firstSeen": "2026-W43",
+   "lastSeen": "2026-W43",
+   "_weeks": [
+    "2026-W43"
+   ],
+   "weeksSeen": 1,
+   "lastPagesAffected": 2,
+   "lastAffectedPages": [
+    "https://seedfund.nsf.gov/resources/awardees/phase-1/rules-and-regulations",
+    "https://seedfund.nsf.gov/how-to-submit/unique-entity-id"
+   ]
+  },
+  "VS-cb53cc4d": {
+   "engine": "Siteimprove Alfa",
+   "ruleId": "sia-r111",
+   "summary": "Target size is at least 44×44 CSS pixels (Enhanced) (WCAG 2.5.5)",
+   "wcag": "2.5.5",
+   "severity": "Moderate",
+   "firstSeen": "2026-W43",
+   "lastSeen": "2026-W43",
+   "_weeks": [
+    "2026-W43"
+   ],
+   "weeksSeen": 1,
+   "lastPagesAffected": 8,
+   "lastAffectedPages": [
+    "https://seedfund.nsf.gov/news/RubiLaboratories",
+    "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc",
+    "https://seedfund.nsf.gov/awardees/phase-1/details?company=coolaimate-inc",
+    "https://seedfund.nsf.gov/awardees/phase-1/details?company=sofab-inks-llc",
+    "https://seedfund.nsf.gov/awardees/phase-1/details?company=orion-wave-technology-corporation",
+    "https://seedfund.nsf.gov/resources/awardees/phase-1/rules-and-regulations",
+    "https://seedfund.nsf.gov/awardees/phase-1/details?company=rumedical-nova-limited-liability-co",
+    "https://seedfund.nsf.gov/how-to-submit/unique-entity-id"
+   ]
+  },
+  "VS-30db094d": {
+   "engine": "axe-core",
+   "ruleId": "landmark-banner-is-top-level",
+   "summary": "Banner landmark should not be contained in another landmark (WCAG criterion undetermined)",
+   "wcag": null,
+   "severity": "Serious",
+   "firstSeen": "2026-W43",
+   "lastSeen": "2026-W43",
+   "_weeks": [
+    "2026-W43"
+   ],
+   "weeksSeen": 1,
+   "lastPagesAffected": 23,
+   "lastAffectedPages": [
+    "https://seedfund.nsf.gov/awardees/history/details?company=emerald-tutu-inc-the",
+    "https://seedfund.nsf.gov/news/RubiLaboratories",
+    "https://seedfund.nsf.gov/news/akanocure-pharmaceuticals",
+    "https://seedfund.nsf.gov/news/relavo",
+    "https://seedfund.nsf.gov/news/cyclopure",
+    "https://seedfund.nsf.gov/awardees/history/details?company=ubiqd-inc",
+    "https://seedfund.nsf.gov/news/UpstreamBiotechnology",
+    "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc",
+    "https://seedfund.nsf.gov/awardees/phase-1/details?company=coolaimate-inc",
+    "https://seedfund.nsf.gov/showcase",
+    "https://seedfund.nsf.gov/news/alloy-enterprises",
+    "https://seedfund.nsf.gov/awardees/phase-1/details?company=sofab-inks-llc",
+    "https://seedfund.nsf.gov/awardees/phase-1/details?company=opal-htm-inc",
+    "https://seedfund.nsf.gov/news/Thiozen",
+    "https://seedfund.nsf.gov/awardees/history/details?company=resource-chemical-corp",
+    "https://seedfund.nsf.gov/portfolio/details?company=folia-water-inc",
+    "https://seedfund.nsf.gov/awardees/history/details?company=iambic-inc",
+    "https://seedfund.nsf.gov/awardees/phase-1/details?company=orion-wave-technology-corporation",
+    "https://seedfund.nsf.gov/resources/awardees/phase-1/rules-and-regulations",
+    "https://seedfund.nsf.gov/news/shark-wheel",
+    "https://seedfund.nsf.gov/awardees/phase-1/details?company=rumedical-nova-limited-liability-co",
+    "https://seedfund.nsf.gov/how-to-submit/unique-entity-id",
+    "https://seedfund.nsf.gov/topics/robotics"
+   ]
+  },
+  "VS-054101da": {
+   "engine": "axe-core",
+   "ruleId": "landmark-no-duplicate-banner",
+   "summary": "Document should not have more than one banner landmark (WCAG criterion undetermined)",
+   "wcag": null,
+   "severity": "Serious",
+   "firstSeen": "2026-W43",
+   "lastSeen": "2026-W43",
+   "_weeks": [
+    "2026-W43"
+   ],
+   "weeksSeen": 1,
+   "lastPagesAffected": 23,
+   "lastAffectedPages": [
+    "https://seedfund.nsf.gov/awardees/history/details?company=emerald-tutu-inc-the",
+    "https://seedfund.nsf.gov/news/RubiLaboratories",
+    "https://seedfund.nsf.gov/news/akanocure-pharmaceuticals",
+    "https://seedfund.nsf.gov/news/relavo",
+    "https://seedfund.nsf.gov/news/cyclopure",
+    "https://seedfund.nsf.gov/awardees/history/details?company=ubiqd-inc",
+    "https://seedfund.nsf.gov/news/UpstreamBiotechnology",
+    "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc",
+    "https://seedfund.nsf.gov/awardees/phase-1/details?company=coolaimate-inc",
+    "https://seedfund.nsf.gov/showcase",
+    "https://seedfund.nsf.gov/news/alloy-enterprises",
+    "https://seedfund.nsf.gov/awardees/phase-1/details?company=sofab-inks-llc",
+    "https://seedfund.nsf.gov/awardees/phase-1/details?company=opal-htm-inc",
+    "https://seedfund.nsf.gov/news/Thiozen",
+    "https://seedfund.nsf.gov/awardees/history/details?company=resource-chemical-corp",
+    "https://seedfund.nsf.gov/portfolio/details?company=folia-water-inc",
+    "https://seedfund.nsf.gov/awardees/history/details?company=iambic-inc",
+    "https://seedfund.nsf.gov/awardees/phase-1/details?company=orion-wave-technology-corporation",
+    "https://seedfund.nsf.gov/resources/awardees/phase-1/rules-and-regulations",
+    "https://seedfund.nsf.gov/news/shark-wheel",
+    "https://seedfund.nsf.gov/awardees/phase-1/details?company=rumedical-nova-limited-liability-co",
+    "https://seedfund.nsf.gov/how-to-submit/unique-entity-id",
+    "https://seedfund.nsf.gov/topics/robotics"
+   ]
+  },
+  "VS-8806389c": {
+   "engine": "axe-core",
+   "ruleId": "landmark-unique",
+   "summary": "Landmarks should have a unique role or role/label/title (i.e. accessible name) c (WCAG criterion undetermined)",
+   "wcag": null,
+   "severity": "Serious",
+   "firstSeen": "2026-W43",
+   "lastSeen": "2026-W43",
+   "_weeks": [
+    "2026-W43"
+   ],
+   "weeksSeen": 1,
+   "lastPagesAffected": 23,
+   "lastAffectedPages": [
+    "https://seedfund.nsf.gov/awardees/history/details?company=emerald-tutu-inc-the",
+    "https://seedfund.nsf.gov/news/RubiLaboratories",
+    "https://seedfund.nsf.gov/news/akanocure-pharmaceuticals",
+    "https://seedfund.nsf.gov/news/relavo",
+    "https://seedfund.nsf.gov/news/cyclopure",
+    "https://seedfund.nsf.gov/awardees/history/details?company=ubiqd-inc",
+    "https://seedfund.nsf.gov/news/UpstreamBiotechnology",
+    "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc",
+    "https://seedfund.nsf.gov/awardees/phase-1/details?company=coolaimate-inc",
+    "https://seedfund.nsf.gov/showcase",
+    "https://seedfund.nsf.gov/news/alloy-enterprises",
+    "https://seedfund.nsf.gov/awardees/phase-1/details?company=sofab-inks-llc",
+    "https://seedfund.nsf.gov/awardees/phase-1/details?company=opal-htm-inc",
+    "https://seedfund.nsf.gov/news/Thiozen",
+    "https://seedfund.nsf.gov/awardees/history/details?company=resource-chemical-corp",
+    "https://seedfund.nsf.gov/portfolio/details?company=folia-water-inc",
+    "https://seedfund.nsf.gov/awardees/history/details?company=iambic-inc",
+    "https://seedfund.nsf.gov/awardees/phase-1/details?company=orion-wave-technology-corporation",
+    "https://seedfund.nsf.gov/resources/awardees/phase-1/rules-and-regulations",
+    "https://seedfund.nsf.gov/news/shark-wheel",
+    "https://seedfund.nsf.gov/awardees/phase-1/details?company=rumedical-nova-limited-liability-co",
+    "https://seedfund.nsf.gov/how-to-submit/unique-entity-id",
+    "https://seedfund.nsf.gov/topics/robotics"
+   ]
+  },
+  "VS-d25f622d": {
+   "engine": "axe-core",
+   "ruleId": "heading-order",
+   "summary": "Heading levels should only increase by one (WCAG criterion undetermined)",
+   "wcag": null,
+   "severity": "Moderate",
+   "firstSeen": "2026-W43",
+   "lastSeen": "2026-W43",
+   "_weeks": [
+    "2026-W43"
+   ],
+   "weeksSeen": 1,
+   "lastPagesAffected": 11,
+   "lastAffectedPages": [
+    "https://seedfund.nsf.gov/awardees/history/details?company=emerald-tutu-inc-the",
+    "https://seedfund.nsf.gov/awardees/history/details?company=ubiqd-inc",
+    "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc",
+    "https://seedfund.nsf.gov/awardees/phase-1/details?company=coolaimate-inc",
+    "https://seedfund.nsf.gov/awardees/phase-1/details?company=sofab-inks-llc",
+    "https://seedfund.nsf.gov/awardees/phase-1/details?company=opal-htm-inc",
+    "https://seedfund.nsf.gov/awardees/history/details?company=resource-chemical-corp",
+    "https://seedfund.nsf.gov/portfolio/details?company=folia-water-inc",
+    "https://seedfund.nsf.gov/awardees/history/details?company=iambic-inc",
+    "https://seedfund.nsf.gov/awardees/phase-1/details?company=orion-wave-technology-corporation",
+    "https://seedfund.nsf.gov/awardees/phase-1/details?company=rumedical-nova-limited-liability-co"
+   ]
+  },
+  "VS-fa44f293": {
+   "engine": "axe-core",
+   "ruleId": "page-has-heading-one",
+   "summary": "Page should contain a level-one heading (WCAG criterion undetermined)",
+   "wcag": null,
+   "severity": "Moderate",
+   "firstSeen": "2026-W43",
+   "lastSeen": "2026-W43",
+   "_weeks": [
+    "2026-W43"
+   ],
+   "weeksSeen": 1,
+   "lastPagesAffected": 10,
+   "lastAffectedPages": [
+    "https://seedfund.nsf.gov/news/RubiLaboratories",
+    "https://seedfund.nsf.gov/news/akanocure-pharmaceuticals",
+    "https://seedfund.nsf.gov/news/relavo",
+    "https://seedfund.nsf.gov/news/cyclopure",
+    "https://seedfund.nsf.gov/news/UpstreamBiotechnology",
+    "https://seedfund.nsf.gov/assets/img/adcom/test.html",
+    "https://seedfund.nsf.gov/SAM.html",
+    "https://seedfund.nsf.gov/news/alloy-enterprises",
+    "https://seedfund.nsf.gov/news/Thiozen",
+    "https://seedfund.nsf.gov/news/shark-wheel"
+   ]
+  },
+  "VS-ff3ceb19": {
+   "engine": "axe-core",
+   "ruleId": "landmark-main-is-top-level",
+   "summary": "Main landmark should not be contained in another landmark (WCAG criterion undetermined)",
+   "wcag": null,
+   "severity": "Moderate",
+   "firstSeen": "2026-W43",
+   "lastSeen": "2026-W43",
+   "_weeks": [
+    "2026-W43"
+   ],
+   "weeksSeen": 1,
+   "lastPagesAffected": 8,
+   "lastAffectedPages": [
+    "https://seedfund.nsf.gov/news/RubiLaboratories",
+    "https://seedfund.nsf.gov/news/akanocure-pharmaceuticals",
+    "https://seedfund.nsf.gov/news/relavo",
+    "https://seedfund.nsf.gov/news/cyclopure",
+    "https://seedfund.nsf.gov/news/UpstreamBiotechnology",
+    "https://seedfund.nsf.gov/news/alloy-enterprises",
+    "https://seedfund.nsf.gov/news/Thiozen",
+    "https://seedfund.nsf.gov/news/shark-wheel"
+   ]
+  },
+  "VS-cd69be3a": {
+   "engine": "axe-core",
+   "ruleId": "landmark-no-duplicate-main",
+   "summary": "Document should not have more than one main landmark (WCAG criterion undetermined)",
+   "wcag": null,
+   "severity": "Moderate",
+   "firstSeen": "2026-W43",
+   "lastSeen": "2026-W43",
+   "_weeks": [
+    "2026-W43"
+   ],
+   "weeksSeen": 1,
+   "lastPagesAffected": 8,
+   "lastAffectedPages": [
+    "https://seedfund.nsf.gov/news/RubiLaboratories",
+    "https://seedfund.nsf.gov/news/akanocure-pharmaceuticals",
+    "https://seedfund.nsf.gov/news/relavo",
+    "https://seedfund.nsf.gov/news/cyclopure",
+    "https://seedfund.nsf.gov/news/UpstreamBiotechnology",
+    "https://seedfund.nsf.gov/news/alloy-enterprises",
+    "https://seedfund.nsf.gov/news/Thiozen",
+    "https://seedfund.nsf.gov/news/shark-wheel"
+   ]
+  },
+  "VS-d5d82446": {
+   "engine": "axe-core",
+   "ruleId": "landmark-one-main",
+   "summary": "Document should have one main landmark (WCAG criterion undetermined)",
+   "wcag": null,
+   "severity": "Moderate",
+   "firstSeen": "2026-W43",
+   "lastSeen": "2026-W43",
+   "_weeks": [
+    "2026-W43"
+   ],
+   "weeksSeen": 1,
+   "lastPagesAffected": 2,
+   "lastAffectedPages": [
+    "https://seedfund.nsf.gov/assets/img/adcom/test.html",
+    "https://seedfund.nsf.gov/SAM.html"
+   ]
+  },
+  "VS-f18df681": {
+   "engine": "axe-core",
+   "ruleId": "region",
+   "summary": "All page content should be contained by landmarks (WCAG criterion undetermined)",
+   "wcag": null,
+   "severity": "Moderate",
+   "firstSeen": "2026-W43",
+   "lastSeen": "2026-W43",
+   "_weeks": [
+    "2026-W43"
+   ],
+   "weeksSeen": 1,
+   "lastPagesAffected": 1,
+   "lastAffectedPages": [
+    "https://seedfund.nsf.gov/SAM.html"
+   ]
+  },
+  "VS-7f897be7": {
+   "engine": "Siteimprove Alfa",
+   "ruleId": "sia-r20",
+   "summary": "aria attribute is defined in WAI-ARIA (WCAG criterion undetermined)",
+   "wcag": null,
+   "severity": "Moderate",
+   "firstSeen": "2026-W43",
+   "lastSeen": "2026-W43",
+   "_weeks": [
+    "2026-W43"
+   ],
+   "weeksSeen": 1,
+   "lastPagesAffected": 5,
+   "lastAffectedPages": [
+    "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc",
+    "https://seedfund.nsf.gov/awardees/phase-1/details?company=coolaimate-inc",
+    "https://seedfund.nsf.gov/awardees/phase-1/details?company=sofab-inks-llc",
+    "https://seedfund.nsf.gov/awardees/phase-1/details?company=orion-wave-technology-corporation",
+    "https://seedfund.nsf.gov/awardees/phase-1/details?company=rumedical-nova-limited-liability-co"
+   ]
+  },
+  "VS-f054f4a4": {
+   "engine": "Siteimprove Alfa",
+   "ruleId": "sia-r53",
+   "summary": "Headings are structured hierarchically (WCAG criterion undetermined)",
+   "wcag": null,
+   "severity": "Moderate",
+   "firstSeen": "2026-W43",
+   "lastSeen": "2026-W43",
+   "_weeks": [
+    "2026-W43"
+   ],
+   "weeksSeen": 1,
+   "lastPagesAffected": 5,
+   "lastAffectedPages": [
+    "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc",
+    "https://seedfund.nsf.gov/awardees/phase-1/details?company=coolaimate-inc",
+    "https://seedfund.nsf.gov/awardees/phase-1/details?company=sofab-inks-llc",
+    "https://seedfund.nsf.gov/awardees/phase-1/details?company=orion-wave-technology-corporation",
+    "https://seedfund.nsf.gov/awardees/phase-1/details?company=rumedical-nova-limited-liability-co"
+   ]
+  },
+  "VS-2cd767ca": {
+   "engine": "Siteimprove Alfa",
+   "ruleId": "sia-r78",
+   "summary": "Table header has scope (WCAG criterion undetermined)",
+   "wcag": null,
+   "severity": "Moderate",
+   "firstSeen": "2026-W43",
+   "lastSeen": "2026-W43",
+   "_weeks": [
+    "2026-W43"
+   ],
+   "weeksSeen": 1,
+   "lastPagesAffected": 5,
+   "lastAffectedPages": [
+    "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc",
+    "https://seedfund.nsf.gov/awardees/phase-1/details?company=coolaimate-inc",
+    "https://seedfund.nsf.gov/awardees/phase-1/details?company=sofab-inks-llc",
+    "https://seedfund.nsf.gov/awardees/phase-1/details?company=orion-wave-technology-corporation",
+    "https://seedfund.nsf.gov/awardees/phase-1/details?company=rumedical-nova-limited-liability-co"
+   ]
+  },
+  "VS-7118fead": {
+   "engine": "Siteimprove Alfa",
+   "ruleId": "sia-r61",
+   "summary": "Form field label is visible (WCAG criterion undetermined)",
+   "wcag": null,
+   "severity": "Moderate",
+   "firstSeen": "2026-W43",
+   "lastSeen": "2026-W43",
+   "_weeks": [
+    "2026-W43"
+   ],
+   "weeksSeen": 1,
+   "lastPagesAffected": 1,
+   "lastAffectedPages": [
+    "https://seedfund.nsf.gov/news/RubiLaboratories"
+   ]
+  },
+  "VS-7fbb8b20": {
+   "engine": "Siteimprove Alfa",
+   "ruleId": "sia-r59",
+   "summary": "Element with orientation is not locked (WCAG criterion undetermined)",
+   "wcag": null,
+   "severity": "Moderate",
+   "firstSeen": "2026-W43",
+   "lastSeen": "2026-W43",
+   "_weeks": [
+    "2026-W43"
+   ],
+   "weeksSeen": 1,
+   "lastPagesAffected": 1,
+   "lastAffectedPages": [
+    "https://seedfund.nsf.gov/assets/img/adcom/test.html"
+   ]
+  },
+  "VS-aa242c2d": {
+   "engine": "Siteimprove Alfa",
+   "ruleId": "sia-r87",
+   "summary": "First focusable element is link to main content (WCAG criterion undetermined)",
+   "wcag": null,
+   "severity": "Moderate",
+   "firstSeen": "2026-W43",
+   "lastSeen": "2026-W43",
+   "_weeks": [
+    "2026-W43"
+   ],
+   "weeksSeen": 1,
+   "lastPagesAffected": 1,
+   "lastAffectedPages": [
+    "https://seedfund.nsf.gov/assets/img/adcom/test.html"
+   ]
+  },
+  "VS-e05344b9": {
+   "engine": "Siteimprove Alfa",
+   "ruleId": "sia-r18",
+   "summary": "aria attribute is permitted for element role (WCAG criterion undetermined)",
+   "wcag": null,
+   "severity": "Moderate",
+   "firstSeen": "2026-W43",
+   "lastSeen": "2026-W43",
+   "_weeks": [
+    "2026-W43"
+   ],
+   "weeksSeen": 1,
+   "lastPagesAffected": 1,
+   "lastAffectedPages": [
+    "https://seedfund.nsf.gov/awardees/history/details?company=cyclopure-inc"
+   ]
+  }
+ }
+}

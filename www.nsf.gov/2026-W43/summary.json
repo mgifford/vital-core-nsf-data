@@ -1,0 +1,3637 @@
+{
+ "domain": "www.nsf.gov",
+ "week": "2026-W43",
+ "generatedAt": "2026-10-25T08:43:16.153Z",
+ "pagesScanned": 25,
+ "pagesAudited": 25,
+ "coverage": {
+  "axe": 25,
+  "alfa": 15,
+  "resources": 25,
+  "standards": 13,
+  "deprecated-html": 2,
+  "sustainability": 6,
+  "plain-language": 14,
+  "lighthouse": 1,
+  "security": 1,
+  "tech": 1
+ },
+ "blocked": null,
+ "axe": {
+  "violationTotal": 55,
+  "pagesWithViolations": 25,
+  "pagesScanned": 25,
+  "medianViolations": 2,
+  "rules": {
+   "heading-order": {
+    "count": 6,
+    "pages": 6,
+    "impact": "moderate",
+    "help": "Heading levels should only increase by one",
+    "helpUrl": "https://dequeuniversity.com/rules/axe/4.14/heading-order?application=axeAPI",
+    "tags": [
+     "best-practice"
+    ],
+    "examplePages": [
+     "https://www.nsf.gov/honorary-awards/pecase/recipients/guosong-hong",
+     "https://www.nsf.gov/nsb/updates/business-funding-university-research-grew-faster-federal",
+     "https://www.nsf.gov/nsb/updates/new-members-appointed-national-science-board"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://www.nsf.gov/honorary-awards/pecase/recipients/guosong-hong",
+      "instances": 1
+     },
+     {
+      "url": "https://www.nsf.gov/nsb/updates/business-funding-university-research-grew-faster-federal",
+      "instances": 1
+     },
+     {
+      "url": "https://www.nsf.gov/nsb/updates/new-members-appointed-national-science-board",
+      "instances": 1
+     },
+     {
+      "url": "https://www.nsf.gov/honorary-awards/pecase/recipients/julia-grigsby",
+      "instances": 1
+     },
+     {
+      "url": "https://www.nsf.gov/honorary-awards/pecase/recipients/david-c-noone",
+      "instances": 1
+     },
+     {
+      "url": "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/isadore-m-singer",
+      "instances": 1
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://www.nsf.gov/honorary-awards/pecase/recipients/guosong-hong",
+      "target": ".award-winner-search-result__name",
+      "html": "<h3 class=\"award-winner-search-result__name\">\n\n\n                    <div class=\"field field-pa-first-name\">Guosong</div>\n            \n          \n\n\n                    <div class=\"field field-pa-last-n"
+     },
+     {
+      "url": "https://www.nsf.gov/nsb/updates/business-funding-university-research-grew-faster-federal",
+      "target": ".field-announcement-body > h3",
+      "html": "<h3>Highlights from the report:</h3>"
+     },
+     {
+      "url": "https://www.nsf.gov/nsb/updates/new-members-appointed-national-science-board",
+      "target": "h4",
+      "html": "<h4>About the National Science Board</h4>"
+     },
+     {
+      "url": "https://www.nsf.gov/honorary-awards/pecase/recipients/julia-grigsby",
+      "target": ".award-winner-search-result__name",
+      "html": "<h3 class=\"award-winner-search-result__name\">\n\n\n                    <div class=\"field field-pa-first-name\">Julia</div>\n            \n          \n\n\n                    <div class=\"field field-pa-last-nam"
+     },
+     {
+      "url": "https://www.nsf.gov/honorary-awards/pecase/recipients/david-c-noone",
+      "target": ".award-winner-search-result__name",
+      "html": "<h3 class=\"award-winner-search-result__name\">\n\n\n                    <div class=\"field field-pa-first-name\">David C.</div>\n            \n          \n\n\n                    <div class=\"field field-pa-last-"
+     }
+    ]
+   },
+   "region": {
+    "count": 42,
+    "pages": 25,
+    "impact": "moderate",
+    "help": "All page content should be contained by landmarks",
+    "helpUrl": "https://dequeuniversity.com/rules/axe/4.14/region?application=axeAPI",
+    "tags": [
+     "best-practice"
+    ],
+    "examplePages": [
+     "https://www.nsf.gov/honorary-awards/pecase/recipients/guosong-hong",
+     "https://www.nsf.gov/news/impact-us-beef-network-water-resources",
+     "https://www.nsf.gov/events/nsf-integrated-data-systems-services-nsf-idss-program/2025-09-19"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://www.nsf.gov/honorary-awards/pecase/recipients/guosong-hong",
+      "instances": 1
+     },
+     {
+      "url": "https://www.nsf.gov/news/impact-us-beef-network-water-resources",
+      "instances": 2
+     },
+     {
+      "url": "https://www.nsf.gov/events/nsf-integrated-data-systems-services-nsf-idss-program/2025-09-19",
+      "instances": 1
+     },
+     {
+      "url": "https://www.nsf.gov/funding/opportunities/lscbr-living-stock-collections-biological-research/9189/nsf06-574",
+      "instances": 2
+     },
+     {
+      "url": "https://www.nsf.gov/events/partnerships-innovation-webinar-series",
+      "instances": 1
+     },
+     {
+      "url": "https://www.nsf.gov/news/nsf-director-participates-white-house-asian-american-native",
+      "instances": 2
+     },
+     {
+      "url": "https://www.nsf.gov/funding/opportunities/mrsec-materials-research-science-engineering-centers/nsf16-545",
+      "instances": 2
+     },
+     {
+      "url": "https://www.nsf.gov/funding/opportunities/dcl-high-school-student-research-assistantships-mps-high-funding/nsf22-041",
+      "instances": 2
+     },
+     {
+      "url": "https://www.nsf.gov/nsb/updates/business-funding-university-research-grew-faster-federal",
+      "instances": 2
+     },
+     {
+      "url": "https://www.nsf.gov/nsb/updates/new-members-appointed-national-science-board",
+      "instances": 2
+     },
+     {
+      "url": "https://www.nsf.gov/honorary-awards/pecase/recipients/julia-grigsby",
+      "instances": 1
+     },
+     {
+      "url": "https://www.nsf.gov/news/chemists-synthesize-novel-neuroactive-compound-found",
+      "instances": 2
+     },
+     {
+      "url": "https://www.nsf.gov/tip/updates/nsf-seeks-input-inform-next-generation-advanced-networking",
+      "instances": 2
+     },
+     {
+      "url": "https://www.nsf.gov/funding/opportunities/s-stem-net-scholarships-stem-network/505889",
+      "instances": 2
+     },
+     {
+      "url": "https://www.nsf.gov/funding/opportunities/dcl-beyond-genome-ios-funding-opportunities-fy-2012-2013/nsf12-093",
+      "instances": 2
+     },
+     {
+      "url": "https://www.nsf.gov/honorary-awards/pecase/recipients/david-c-noone",
+      "instances": 1
+     },
+     {
+      "url": "https://www.nsf.gov/funding/opportunities/itr-information-technology-research-national-priorities/5524/nsf04-012",
+      "instances": 2
+     },
+     {
+      "url": "https://www.nsf.gov/reports/topical/bringing-people-focus-how-social-behavioral-economic",
+      "instances": 2
+     },
+     {
+      "url": "https://www.nsf.gov/funding/opportunities/earthcube/504780/nsf16-514/solicitation",
+      "instances": 2
+     },
+     {
+      "url": "https://www.nsf.gov/events/leaps-mps-webinar",
+      "instances": 1
+     },
+     {
+      "url": "https://www.nsf.gov/reports/performance/fy-2009-agency-financial-report/nsf10-001",
+      "instances": 2
+     },
+     {
+      "url": "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/isadore-m-singer",
+      "instances": 1
+     },
+     {
+      "url": "https://www.nsf.gov/funding/opportunities/rdcs-restricted-access-research-data-centers/505144/nsf15-586/solicitation",
+      "instances": 2
+     },
+     {
+      "url": "https://www.nsf.gov/news/mapping-methane-emissions-rivers-around-globe-reveals",
+      "instances": 2
+     },
+     {
+      "url": "https://www.nsf.gov/events/epscor-live-epscor-research-incubators-stem-excellence-e/2025-04-10",
+      "instances": 1
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://www.nsf.gov/honorary-awards/pecase/recipients/guosong-hong",
+      "target": ".usa-footer__return-to-top",
+      "html": "<div class=\"usa-footer__return-to-top\" data-once=\"tpFeedbackRttWrapper\">\n  <div class=\"usa-footer__return-to-top--inner\" data-once=\"tpFeedbackRtt\">\n    <a class=\"usa-button usa-button--secondary usa-b"
+     },
+     {
+      "url": "https://www.nsf.gov/news/impact-us-beef-network-water-resources",
+      "target": ".block-nsf-custom",
+      "html": "<div class=\"block block-nsf-custom block-nsf-print-block nsf-component\">\n  \n  \n  <div class=\"print\">\n  <a href=\"javascript:window.print()\" class=\"print__link\">Print<span class=\"visually-hidden\"> this "
+     },
+     {
+      "url": "https://www.nsf.gov/news/impact-us-beef-network-water-resources",
+      "target": ".usa-footer__return-to-top",
+      "html": "<div class=\"usa-footer__return-to-top\" data-once=\"tpFeedbackRttWrapper\">\n  <div class=\"usa-footer__return-to-top--inner\" data-once=\"tpFeedbackRtt\">\n    <a class=\"usa-button usa-button--secondary usa-b"
+     },
+     {
+      "url": "https://www.nsf.gov/events/nsf-integrated-data-systems-services-nsf-idss-program/2025-09-19",
+      "target": ".usa-footer__return-to-top",
+      "html": "<div class=\"usa-footer__return-to-top\" data-once=\"tpFeedbackRttWrapper\">\n  <div class=\"usa-footer__return-to-top--inner\" data-once=\"tpFeedbackRtt\">\n    <a class=\"usa-button usa-button--secondary usa-b"
+     },
+     {
+      "url": "https://www.nsf.gov/funding/opportunities/lscbr-living-stock-collections-biological-research/9189/nsf06-574",
+      "target": ".block-nsf-custom",
+      "html": "<div class=\"block block-nsf-custom block-nsf-print-block nsf-component\">\n  \n  \n  <div class=\"print\">\n  <a href=\"javascript:window.print()\" class=\"print__link\">Print<span class=\"visually-hidden\"> this "
+     }
+    ]
+   },
+   "list": {
+    "count": 7,
+    "pages": 1,
+    "impact": "serious",
+    "help": "<ul> and <ol> must only directly contain <li>, <script> or <template> elements",
+    "helpUrl": "https://dequeuniversity.com/rules/axe/4.14/list?application=axeAPI",
+    "tags": [
+     "wcag2a",
+     "wcag131"
+    ],
+    "examplePages": [
+     "https://www.nsf.gov/funding/opportunities/earthcube/504780/nsf16-514/solicitation"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://www.nsf.gov/funding/opportunities/earthcube/504780/nsf16-514/solicitation",
+      "instances": 7
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://www.nsf.gov/funding/opportunities/earthcube/504780/nsf16-514/solicitation",
+      "target": "ul:nth-child(52)",
+      "html": "<ul>"
+     },
+     {
+      "url": "https://www.nsf.gov/funding/opportunities/earthcube/504780/nsf16-514/solicitation",
+      "target": "ol:nth-child(70)",
+      "html": "<ol>"
+     },
+     {
+      "url": "https://www.nsf.gov/funding/opportunities/earthcube/504780/nsf16-514/solicitation",
+      "target": "ol:nth-child(84)",
+      "html": "<ol>"
+     }
+    ]
+   }
+  }
+ },
+ "alfa": {
+  "failedTotal": 972,
+  "pagesWithFailures": 15,
+  "pagesScanned": 15,
+  "medianFailures": 61,
+  "rules": {
+   "sia-r66": {
+    "count": 15,
+    "pages": 15,
+    "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r66",
+    "examplePages": [
+     "https://www.nsf.gov/honorary-awards/pecase/recipients/guosong-hong",
+     "https://www.nsf.gov/events/nsf-integrated-data-systems-services-nsf-idss-program/2025-09-19",
+     "https://www.nsf.gov/funding/opportunities/lscbr-living-stock-collections-biological-research/9189/nsf06-574"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://www.nsf.gov/honorary-awards/pecase/recipients/guosong-hong",
+      "instances": 1
+     },
+     {
+      "url": "https://www.nsf.gov/events/nsf-integrated-data-systems-services-nsf-idss-program/2025-09-19",
+      "instances": 1
+     },
+     {
+      "url": "https://www.nsf.gov/funding/opportunities/lscbr-living-stock-collections-biological-research/9189/nsf06-574",
+      "instances": 1
+     },
+     {
+      "url": "https://www.nsf.gov/funding/opportunities/mrsec-materials-research-science-engineering-centers/nsf16-545",
+      "instances": 1
+     },
+     {
+      "url": "https://www.nsf.gov/nsb/updates/new-members-appointed-national-science-board",
+      "instances": 1
+     },
+     {
+      "url": "https://www.nsf.gov/honorary-awards/pecase/recipients/julia-grigsby",
+      "instances": 1
+     },
+     {
+      "url": "https://www.nsf.gov/news/chemists-synthesize-novel-neuroactive-compound-found",
+      "instances": 1
+     },
+     {
+      "url": "https://www.nsf.gov/tip/updates/nsf-seeks-input-inform-next-generation-advanced-networking",
+      "instances": 1
+     },
+     {
+      "url": "https://www.nsf.gov/funding/opportunities/dcl-beyond-genome-ios-funding-opportunities-fy-2012-2013/nsf12-093",
+      "instances": 1
+     },
+     {
+      "url": "https://www.nsf.gov/funding/opportunities/itr-information-technology-research-national-priorities/5524/nsf04-012",
+      "instances": 1
+     },
+     {
+      "url": "https://www.nsf.gov/reports/topical/bringing-people-focus-how-social-behavioral-economic",
+      "instances": 1
+     },
+     {
+      "url": "https://www.nsf.gov/reports/performance/fy-2009-agency-financial-report/nsf10-001",
+      "instances": 1
+     },
+     {
+      "url": "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/isadore-m-singer",
+      "instances": 1
+     },
+     {
+      "url": "https://www.nsf.gov/news/mapping-methane-emissions-rivers-around-globe-reveals",
+      "instances": 1
+     },
+     {
+      "url": "https://www.nsf.gov/events/epscor-live-epscor-research-incubators-stem-excellence-e/2025-04-10",
+      "instances": 1
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://www.nsf.gov/honorary-awards/pecase/recipients/guosong-hong",
+      "target": "text: \"Feedback\"",
+      "html": null
+     },
+     {
+      "url": "https://www.nsf.gov/events/nsf-integrated-data-systems-services-nsf-idss-program/2025-09-19",
+      "target": "text: \"Feedback\"",
+      "html": null
+     },
+     {
+      "url": "https://www.nsf.gov/funding/opportunities/lscbr-living-stock-collections-biological-research/9189/nsf06-574",
+      "target": "text: \"Feedback\"",
+      "html": null
+     },
+     {
+      "url": "https://www.nsf.gov/funding/opportunities/mrsec-materials-research-science-engineering-centers/nsf16-545",
+      "target": "text: \"Feedback\"",
+      "html": null
+     },
+     {
+      "url": "https://www.nsf.gov/nsb/updates/new-members-appointed-national-science-board",
+      "target": "text: \"Feedback\"",
+      "html": null
+     }
+    ]
+   },
+   "sia-r53": {
+    "count": 4,
+    "pages": 4,
+    "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r53",
+    "examplePages": [
+     "https://www.nsf.gov/honorary-awards/pecase/recipients/guosong-hong",
+     "https://www.nsf.gov/nsb/updates/new-members-appointed-national-science-board",
+     "https://www.nsf.gov/honorary-awards/pecase/recipients/julia-grigsby"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://www.nsf.gov/honorary-awards/pecase/recipients/guosong-hong",
+      "instances": 1
+     },
+     {
+      "url": "https://www.nsf.gov/nsb/updates/new-members-appointed-national-science-board",
+      "instances": 1
+     },
+     {
+      "url": "https://www.nsf.gov/honorary-awards/pecase/recipients/julia-grigsby",
+      "instances": 1
+     },
+     {
+      "url": "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/isadore-m-singer",
+      "instances": 1
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://www.nsf.gov/honorary-awards/pecase/recipients/guosong-hong",
+      "target": "<h3 class=\"award-winner-search-result__name\">",
+      "html": null
+     },
+     {
+      "url": "https://www.nsf.gov/nsb/updates/new-members-appointed-national-science-board",
+      "target": "<h4>",
+      "html": null
+     },
+     {
+      "url": "https://www.nsf.gov/honorary-awards/pecase/recipients/julia-grigsby",
+      "target": "<h3 class=\"award-winner-search-result__name\">",
+      "html": null
+     },
+     {
+      "url": "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/isadore-m-singer",
+      "target": "<h3 class=\"award-winner-search-result__name\">",
+      "html": null
+     }
+    ]
+   },
+   "sia-r73": {
+    "count": 109,
+    "pages": 15,
+    "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r73",
+    "examplePages": [
+     "https://www.nsf.gov/honorary-awards/pecase/recipients/guosong-hong",
+     "https://www.nsf.gov/events/nsf-integrated-data-systems-services-nsf-idss-program/2025-09-19",
+     "https://www.nsf.gov/funding/opportunities/lscbr-living-stock-collections-biological-research/9189/nsf06-574"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://www.nsf.gov/honorary-awards/pecase/recipients/guosong-hong",
+      "instances": 4
+     },
+     {
+      "url": "https://www.nsf.gov/events/nsf-integrated-data-systems-services-nsf-idss-program/2025-09-19",
+      "instances": 7
+     },
+     {
+      "url": "https://www.nsf.gov/funding/opportunities/lscbr-living-stock-collections-biological-research/9189/nsf06-574",
+      "instances": 5
+     },
+     {
+      "url": "https://www.nsf.gov/funding/opportunities/mrsec-materials-research-science-engineering-centers/nsf16-545",
+      "instances": 5
+     },
+     {
+      "url": "https://www.nsf.gov/nsb/updates/new-members-appointed-national-science-board",
+      "instances": 11
+     },
+     {
+      "url": "https://www.nsf.gov/honorary-awards/pecase/recipients/julia-grigsby",
+      "instances": 4
+     },
+     {
+      "url": "https://www.nsf.gov/news/chemists-synthesize-novel-neuroactive-compound-found",
+      "instances": 7
+     },
+     {
+      "url": "https://www.nsf.gov/tip/updates/nsf-seeks-input-inform-next-generation-advanced-networking",
+      "instances": 8
+     },
+     {
+      "url": "https://www.nsf.gov/funding/opportunities/dcl-beyond-genome-ios-funding-opportunities-fy-2012-2013/nsf12-093",
+      "instances": 13
+     },
+     {
+      "url": "https://www.nsf.gov/funding/opportunities/itr-information-technology-research-national-priorities/5524/nsf04-012",
+      "instances": 13
+     },
+     {
+      "url": "https://www.nsf.gov/reports/topical/bringing-people-focus-how-social-behavioral-economic",
+      "instances": 3
+     },
+     {
+      "url": "https://www.nsf.gov/reports/performance/fy-2009-agency-financial-report/nsf10-001",
+      "instances": 3
+     },
+     {
+      "url": "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/isadore-m-singer",
+      "instances": 4
+     },
+     {
+      "url": "https://www.nsf.gov/news/mapping-methane-emissions-rivers-around-globe-reveals",
+      "instances": 13
+     },
+     {
+      "url": "https://www.nsf.gov/events/epscor-live-epscor-research-incubators-stem-excellence-e/2025-04-10",
+      "instances": 9
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://www.nsf.gov/honorary-awards/pecase/recipients/guosong-hong",
+      "target": "<p>",
+      "html": null
+     },
+     {
+      "url": "https://www.nsf.gov/honorary-awards/pecase/recipients/guosong-hong",
+      "target": "<p>",
+      "html": null
+     },
+     {
+      "url": "https://www.nsf.gov/honorary-awards/pecase/recipients/guosong-hong",
+      "target": "<p>",
+      "html": null
+     },
+     {
+      "url": "https://www.nsf.gov/events/nsf-integrated-data-systems-services-nsf-idss-program/2025-09-19",
+      "target": "<p>",
+      "html": null
+     },
+     {
+      "url": "https://www.nsf.gov/events/nsf-integrated-data-systems-services-nsf-idss-program/2025-09-19",
+      "target": "<p>",
+      "html": null
+     }
+    ]
+   },
+   "sia-r57": {
+    "count": 99,
+    "pages": 15,
+    "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r57",
+    "examplePages": [
+     "https://www.nsf.gov/honorary-awards/pecase/recipients/guosong-hong",
+     "https://www.nsf.gov/events/nsf-integrated-data-systems-services-nsf-idss-program/2025-09-19",
+     "https://www.nsf.gov/funding/opportunities/lscbr-living-stock-collections-biological-research/9189/nsf06-574"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://www.nsf.gov/honorary-awards/pecase/recipients/guosong-hong",
+      "instances": 1
+     },
+     {
+      "url": "https://www.nsf.gov/events/nsf-integrated-data-systems-services-nsf-idss-program/2025-09-19",
+      "instances": 1
+     },
+     {
+      "url": "https://www.nsf.gov/funding/opportunities/lscbr-living-stock-collections-biological-research/9189/nsf06-574",
+      "instances": 20
+     },
+     {
+      "url": "https://www.nsf.gov/funding/opportunities/mrsec-materials-research-science-engineering-centers/nsf16-545",
+      "instances": 18
+     },
+     {
+      "url": "https://www.nsf.gov/nsb/updates/new-members-appointed-national-science-board",
+      "instances": 3
+     },
+     {
+      "url": "https://www.nsf.gov/honorary-awards/pecase/recipients/julia-grigsby",
+      "instances": 1
+     },
+     {
+      "url": "https://www.nsf.gov/news/chemists-synthesize-novel-neuroactive-compound-found",
+      "instances": 5
+     },
+     {
+      "url": "https://www.nsf.gov/tip/updates/nsf-seeks-input-inform-next-generation-advanced-networking",
+      "instances": 3
+     },
+     {
+      "url": "https://www.nsf.gov/funding/opportunities/dcl-beyond-genome-ios-funding-opportunities-fy-2012-2013/nsf12-093",
+      "instances": 16
+     },
+     {
+      "url": "https://www.nsf.gov/funding/opportunities/itr-information-technology-research-national-priorities/5524/nsf04-012",
+      "instances": 16
+     },
+     {
+      "url": "https://www.nsf.gov/reports/topical/bringing-people-focus-how-social-behavioral-economic",
+      "instances": 3
+     },
+     {
+      "url": "https://www.nsf.gov/reports/performance/fy-2009-agency-financial-report/nsf10-001",
+      "instances": 5
+     },
+     {
+      "url": "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/isadore-m-singer",
+      "instances": 1
+     },
+     {
+      "url": "https://www.nsf.gov/news/mapping-methane-emissions-rivers-around-globe-reveals",
+      "instances": 5
+     },
+     {
+      "url": "https://www.nsf.gov/events/epscor-live-epscor-research-incubators-stem-excellence-e/2025-04-10",
+      "instances": 1
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://www.nsf.gov/honorary-awards/pecase/recipients/guosong-hong",
+      "target": "text: \"Top\"",
+      "html": null
+     },
+     {
+      "url": "https://www.nsf.gov/events/nsf-integrated-data-systems-services-nsf-idss-program/2025-09-19",
+      "target": "text: \"Top\"",
+      "html": null
+     },
+     {
+      "url": "https://www.nsf.gov/funding/opportunities/lscbr-living-stock-collections-biological-research/9189/nsf06-574",
+      "target": "text: \"Print\"",
+      "html": null
+     },
+     {
+      "url": "https://www.nsf.gov/funding/opportunities/lscbr-living-stock-collections-biological-research/9189/nsf06-574",
+      "target": "text: \" this Page\"",
+      "html": null
+     },
+     {
+      "url": "https://www.nsf.gov/funding/opportunities/lscbr-living-stock-collections-biological-research/9189/nsf06-574",
+      "target": "text: \"Archived funding opportunity\"",
+      "html": null
+     }
+    ]
+   },
+   "sia-r111": {
+    "count": 739,
+    "pages": 15,
+    "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r111",
+    "examplePages": [
+     "https://www.nsf.gov/honorary-awards/pecase/recipients/guosong-hong",
+     "https://www.nsf.gov/events/nsf-integrated-data-systems-services-nsf-idss-program/2025-09-19",
+     "https://www.nsf.gov/funding/opportunities/lscbr-living-stock-collections-biological-research/9189/nsf06-574"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://www.nsf.gov/honorary-awards/pecase/recipients/guosong-hong",
+      "instances": 47
+     },
+     {
+      "url": "https://www.nsf.gov/events/nsf-integrated-data-systems-services-nsf-idss-program/2025-09-19",
+      "instances": 52
+     },
+     {
+      "url": "https://www.nsf.gov/funding/opportunities/lscbr-living-stock-collections-biological-research/9189/nsf06-574",
+      "instances": 49
+     },
+     {
+      "url": "https://www.nsf.gov/funding/opportunities/mrsec-materials-research-science-engineering-centers/nsf16-545",
+      "instances": 51
+     },
+     {
+      "url": "https://www.nsf.gov/nsb/updates/new-members-appointed-national-science-board",
+      "instances": 49
+     },
+     {
+      "url": "https://www.nsf.gov/honorary-awards/pecase/recipients/julia-grigsby",
+      "instances": 47
+     },
+     {
+      "url": "https://www.nsf.gov/news/chemists-synthesize-novel-neuroactive-compound-found",
+      "instances": 50
+     },
+     {
+      "url": "https://www.nsf.gov/tip/updates/nsf-seeks-input-inform-next-generation-advanced-networking",
+      "instances": 46
+     },
+     {
+      "url": "https://www.nsf.gov/funding/opportunities/dcl-beyond-genome-ios-funding-opportunities-fy-2012-2013/nsf12-093",
+      "instances": 50
+     },
+     {
+      "url": "https://www.nsf.gov/funding/opportunities/itr-information-technology-research-national-priorities/5524/nsf04-012",
+      "instances": 55
+     },
+     {
+      "url": "https://www.nsf.gov/reports/topical/bringing-people-focus-how-social-behavioral-economic",
+      "instances": 48
+     },
+     {
+      "url": "https://www.nsf.gov/reports/performance/fy-2009-agency-financial-report/nsf10-001",
+      "instances": 49
+     },
+     {
+      "url": "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/isadore-m-singer",
+      "instances": 46
+     },
+     {
+      "url": "https://www.nsf.gov/news/mapping-methane-emissions-rivers-around-globe-reveals",
+      "instances": 50
+     },
+     {
+      "url": "https://www.nsf.gov/events/epscor-live-epscor-research-incubators-stem-excellence-e/2025-04-10",
+      "instances": 50
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://www.nsf.gov/honorary-awards/pecase/recipients/guosong-hong",
+      "target": "<button type=\"button\" class=\"usa-accordion__button usa-nav__link \" aria-expanded=\"false\" aria-controls=\"basic-mega-nav-section-1\">",
+      "html": null
+     },
+     {
+      "url": "https://www.nsf.gov/honorary-awards/pecase/recipients/guosong-hong",
+      "target": "<button type=\"button\" class=\"usa-accordion__button usa-nav__link \" aria-expanded=\"false\" aria-controls=\"basic-mega-nav-section-2\">",
+      "html": null
+     },
+     {
+      "url": "https://www.nsf.gov/honorary-awards/pecase/recipients/guosong-hong",
+      "target": "<button type=\"button\" class=\"usa-accordion__button usa-nav__link \" aria-expanded=\"false\" aria-controls=\"basic-mega-nav-section-3\">",
+      "html": null
+     },
+     {
+      "url": "https://www.nsf.gov/events/nsf-integrated-data-systems-services-nsf-idss-program/2025-09-19",
+      "target": "<button type=\"button\" class=\"usa-accordion__button usa-nav__link \" aria-expanded=\"false\" aria-controls=\"basic-mega-nav-section-1\">",
+      "html": null
+     },
+     {
+      "url": "https://www.nsf.gov/events/nsf-integrated-data-systems-services-nsf-idss-program/2025-09-19",
+      "target": "<button type=\"button\" class=\"usa-accordion__button usa-nav__link \" aria-expanded=\"false\" aria-controls=\"basic-mega-nav-section-2\">",
+      "html": null
+     }
+    ]
+   },
+   "sia-r78": {
+    "count": 1,
+    "pages": 1,
+    "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r78",
+    "examplePages": [
+     "https://www.nsf.gov/funding/opportunities/mrsec-materials-research-science-engineering-centers/nsf16-545"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://www.nsf.gov/funding/opportunities/mrsec-materials-research-science-engineering-centers/nsf16-545",
+      "instances": 1
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://www.nsf.gov/funding/opportunities/mrsec-materials-research-science-engineering-centers/nsf16-545",
+      "target": "<h2>",
+      "html": null
+     }
+    ]
+   },
+   "sia-r61": {
+    "count": 4,
+    "pages": 4,
+    "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r61",
+    "examplePages": [
+     "https://www.nsf.gov/news/chemists-synthesize-novel-neuroactive-compound-found",
+     "https://www.nsf.gov/funding/opportunities/dcl-beyond-genome-ios-funding-opportunities-fy-2012-2013/nsf12-093",
+     "https://www.nsf.gov/reports/performance/fy-2009-agency-financial-report/nsf10-001"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://www.nsf.gov/news/chemists-synthesize-novel-neuroactive-compound-found",
+      "instances": 1
+     },
+     {
+      "url": "https://www.nsf.gov/funding/opportunities/dcl-beyond-genome-ios-funding-opportunities-fy-2012-2013/nsf12-093",
+      "instances": 1
+     },
+     {
+      "url": "https://www.nsf.gov/reports/performance/fy-2009-agency-financial-report/nsf10-001",
+      "instances": 1
+     },
+     {
+      "url": "https://www.nsf.gov/news/mapping-methane-emissions-rivers-around-globe-reveals",
+      "instances": 1
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://www.nsf.gov/news/chemists-synthesize-novel-neuroactive-compound-found",
+      "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
+      "html": null
+     },
+     {
+      "url": "https://www.nsf.gov/funding/opportunities/dcl-beyond-genome-ios-funding-opportunities-fy-2012-2013/nsf12-093",
+      "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
+      "html": null
+     },
+     {
+      "url": "https://www.nsf.gov/reports/performance/fy-2009-agency-financial-report/nsf10-001",
+      "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
+      "html": null
+     },
+     {
+      "url": "https://www.nsf.gov/news/mapping-methane-emissions-rivers-around-globe-reveals",
+      "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
+      "html": null
+     }
+    ]
+   },
+   "sia-r113": {
+    "count": 1,
+    "pages": 1,
+    "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r113",
+    "examplePages": [
+     "https://www.nsf.gov/news/chemists-synthesize-novel-neuroactive-compound-found"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://www.nsf.gov/news/chemists-synthesize-novel-neuroactive-compound-found",
+      "instances": 1
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://www.nsf.gov/news/chemists-synthesize-novel-neuroactive-compound-found",
+      "target": "<a class=\"nsf--phone tel\" href=\"tel:(703)292-5111\" data-extlink=\"\">",
+      "html": null
+     }
+    ]
+   }
+  }
+ },
+ "consensus": {
+  "uniqueIssues": 102,
+  "consensus": 0,
+  "axeOnly": 32,
+  "alfaOnly": 70,
+  "rawAxe": 32,
+  "rawAlfa": 70,
+  "byKey": {
+   "axe-core:heading-order": {
+    "actRuleId": null,
+    "axeRules": [
+     "heading-order"
+    ],
+    "alfaRules": [],
+    "pages": 6,
+    "engines": "axe"
+   },
+   "axe-core:region": {
+    "actRuleId": null,
+    "axeRules": [
+     "region"
+    ],
+    "alfaRules": [],
+    "pages": 25,
+    "engines": "axe"
+   },
+   "axe-core:list": {
+    "actRuleId": null,
+    "axeRules": [
+     "list"
+    ],
+    "alfaRules": [],
+    "pages": 1,
+    "engines": "axe"
+   },
+   "alfa:sia-r66": {
+    "actRuleId": null,
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r66"
+    ],
+    "pages": 15,
+    "engines": "alfa"
+   },
+   "alfa:sia-r53": {
+    "actRuleId": null,
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r53"
+    ],
+    "pages": 4,
+    "engines": "alfa"
+   },
+   "alfa:sia-r73": {
+    "actRuleId": null,
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r73"
+    ],
+    "pages": 15,
+    "engines": "alfa"
+   },
+   "alfa:sia-r57": {
+    "actRuleId": null,
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r57"
+    ],
+    "pages": 15,
+    "engines": "alfa"
+   },
+   "alfa:sia-r111": {
+    "actRuleId": null,
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r111"
+    ],
+    "pages": 15,
+    "engines": "alfa"
+   },
+   "alfa:sia-r78": {
+    "actRuleId": null,
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r78"
+    ],
+    "pages": 1,
+    "engines": "alfa"
+   },
+   "alfa:sia-r61": {
+    "actRuleId": null,
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r61"
+    ],
+    "pages": 4,
+    "engines": "alfa"
+   },
+   "alfa:sia-r113": {
+    "actRuleId": null,
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r113"
+    ],
+    "pages": 1,
+    "engines": "alfa"
+   }
+  }
+ },
+ "sustainability": {
+  "pages": 6,
+  "medianBytes": 2621160,
+  "meanBytes": 2674429,
+  "medianRequests": 78,
+  "totalCo2g": 2.38,
+  "meanCo2g": 0.3964,
+  "totalEnergyWh": 4.81,
+  "meanEnergyWh": 0.8023
+ },
+ "deprecatedHtml": null,
+ "resources": {
+  "total": 11,
+  "byType": {
+   "iframe": 1,
+   "pdf": 10
+  },
+  "list": [
+   {
+    "url": "https://static.addtoany.com/menu/sm.25.html",
+    "type": "iframe",
+    "pages": 25,
+    "examplePages": [
+     "https://www.nsf.gov/honorary-awards/pecase/recipients/guosong-hong",
+     "https://www.nsf.gov/news/impact-us-beef-network-water-resources",
+     "https://www.nsf.gov/events/nsf-integrated-data-systems-services-nsf-idss-program/2025-09-19",
+     "https://www.nsf.gov/funding/opportunities/lscbr-living-stock-collections-biological-research/9189/nsf06-574",
+     "https://www.nsf.gov/events/partnerships-innovation-webinar-series"
+    ]
+   },
+   {
+    "url": "https://nsf-gov-resources.nsf.gov/files/NSF%20IDSS.pdf",
+    "type": "pdf",
+    "pages": 1,
+    "examplePages": [
+     "https://www.nsf.gov/events/nsf-integrated-data-systems-services-nsf-idss-program/2025-09-19"
+    ]
+   },
+   {
+    "url": "https://nsf-gov-resources.nsf.gov/pubs/2013/nsf13062/nsf13062.pdf",
+    "type": "pdf",
+    "pages": 1,
+    "examplePages": [
+     "https://www.nsf.gov/reports/topical/bringing-people-focus-how-social-behavioral-economic"
+    ]
+   },
+   {
+    "url": "https://nsf-gov-resources.nsf.gov/solicitations/pubs/2016/nsf16514/nsf16514.pdf",
+    "type": "pdf",
+    "pages": 1,
+    "examplePages": [
+     "https://www.nsf.gov/funding/opportunities/earthcube/504780/nsf16-514/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/geo/acgeo/geovision/geo_strategic_plans_2012.pdf",
+    "type": "pdf",
+    "pages": 1,
+    "examplePages": [
+     "https://www.nsf.gov/funding/opportunities/earthcube/504780/nsf16-514/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/geo/acgeo/geovision/nsf_acgeo_dynamic-earth-2015-20.pdf",
+    "type": "pdf",
+    "pages": 1,
+    "examplePages": [
+     "https://www.nsf.gov/funding/opportunities/earthcube/504780/nsf16-514/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/policies/SOR_PA_NSF-50_Principal_Investigator_Proposal_File.pdf",
+    "type": "pdf",
+    "pages": 2,
+    "examplePages": [
+     "https://www.nsf.gov/funding/opportunities/earthcube/504780/nsf16-514/solicitation",
+     "https://www.nsf.gov/funding/opportunities/rdcs-restricted-access-research-data-centers/505144/nsf15-586/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/policies/SOR_PA_NSF-51_Reviewer_Proposal_File.pdf",
+    "type": "pdf",
+    "pages": 2,
+    "examplePages": [
+     "https://www.nsf.gov/funding/opportunities/earthcube/504780/nsf16-514/solicitation",
+     "https://www.nsf.gov/funding/opportunities/rdcs-restricted-access-research-data-centers/505144/nsf15-586/solicitation"
+    ]
+   },
+   {
+    "url": "https://nsf-gov-resources.nsf.gov/attachments/302411/public/LEAPS_MPS_Program_Slide_Deck.pdf",
+    "type": "pdf",
+    "pages": 1,
+    "examplePages": [
+     "https://www.nsf.gov/events/leaps-mps-webinar"
+    ]
+   },
+   {
+    "url": "https://nsf-gov-resources.nsf.gov/files/nsfall10001.pdf",
+    "type": "pdf",
+    "pages": 1,
+    "examplePages": [
+     "https://www.nsf.gov/reports/performance/fy-2009-agency-financial-report/nsf10-001"
+    ]
+   },
+   {
+    "url": "https://nsf-gov-resources.nsf.gov/solicitations/pubs/2015/nsf15586/nsf15586.pdf",
+    "type": "pdf",
+    "pages": 1,
+    "examplePages": [
+     "https://www.nsf.gov/funding/opportunities/rdcs-restricted-access-research-data-centers/505144/nsf15-586/solicitation"
+    ]
+   }
+  ]
+ },
+ "standards": {
+  "pagesChecked": 13,
+  "checks": [
+   {
+    "id": "hreflang",
+    "label": "hreflang alternates declared",
+    "pass": 0,
+    "total": 13,
+    "rate": 0
+   },
+   {
+    "id": "open-social",
+    "label": "Open social presence (Mastodon/Bluesky) linked",
+    "pass": 0,
+    "total": 13,
+    "rate": 0
+   },
+   {
+    "id": "schema-gov",
+    "label": "schema.org GovernmentOrganization markup",
+    "pass": 3,
+    "total": 13,
+    "rate": 23
+   },
+   {
+    "id": "description",
+    "label": "Meta description present",
+    "pass": 5,
+    "total": 13,
+    "rate": 38
+   },
+   {
+    "id": "canonical",
+    "label": "Canonical URL declared",
+    "pass": 13,
+    "total": 13,
+    "rate": 100
+   },
+   {
+    "id": "title",
+    "label": "Page has a <title>",
+    "pass": 13,
+    "total": 13,
+    "rate": 100
+   },
+   {
+    "id": "charset",
+    "label": "Character encoding declared",
+    "pass": 13,
+    "total": 13,
+    "rate": 100
+   },
+   {
+    "id": "lang",
+    "label": "Document language (lang) set",
+    "pass": 13,
+    "total": 13,
+    "rate": 100
+   },
+   {
+    "id": "viewport",
+    "label": "Responsive viewport (zoom not disabled)",
+    "pass": 13,
+    "total": 13,
+    "rate": 100
+   },
+   {
+    "id": "open-graph",
+    "label": "Open Graph tags (5/6)",
+    "pass": 13,
+    "total": 13,
+    "rate": 100
+   },
+   {
+    "id": "twitter-card",
+    "label": "Twitter card metadata",
+    "pass": 13,
+    "total": 13,
+    "rate": 100
+   }
+  ],
+  "social": []
+ },
+ "resilience": {
+  "pagesChecked": 13,
+  "checks": [
+   {
+    "id": "pwa-manifest",
+    "label": "Web app manifest declared",
+    "pass": 0,
+    "total": 13,
+    "rate": 0,
+    "why": "A web app manifest is required for installability and controls how the app appears when launched.",
+    "evidenceExamples": []
+   },
+   {
+    "id": "pwa-service-worker",
+    "label": "Service worker registered",
+    "pass": 0,
+    "total": 13,
+    "rate": 0,
+    "why": "A service worker is what makes offline access, caching, and background sync possible.",
+    "evidenceExamples": []
+   },
+   {
+    "id": "pwa-theme-color",
+    "label": "Theme color declared",
+    "pass": 0,
+    "total": 13,
+    "rate": 0,
+    "why": "Theme color controls the browser chrome/status-bar color when the site is installed or bookmarked.",
+    "evidenceExamples": []
+   },
+   {
+    "id": "pwa-apple-touch-icon",
+    "label": "Apple touch icon (iOS/bookmark icon)",
+    "pass": 0,
+    "total": 13,
+    "rate": 0,
+    "why": "iOS uses this icon for home-screen bookmarks and \"Add to Home Screen\" — without it the icon falls back to a screenshot.",
+    "evidenceExamples": []
+   },
+   {
+    "id": "manifest-parsed",
+    "label": "Manifest fetched and parsed successfully",
+    "pass": 0,
+    "total": 13,
+    "rate": 0,
+    "why": "A manifest that fails to parse cannot drive installability or launch behavior even if the link is present.",
+    "evidenceExamples": [
+     {
+      "evidence": "No manifest declared",
+      "url": "https://www.nsf.gov/events/nsf-integrated-data-systems-services-nsf-idss-program/2025-09-19"
+     },
+     {
+      "evidence": "No manifest declared",
+      "url": "https://www.nsf.gov/funding/opportunities/lscbr-living-stock-collections-biological-research/9189/nsf06-574"
+     },
+     {
+      "evidence": "No manifest declared",
+      "url": "https://www.nsf.gov/funding/opportunities/dcl-high-school-student-research-assistantships-mps-high-funding/nsf22-041"
+     }
+    ]
+   },
+   {
+    "id": "manifest-maskable-icon",
+    "label": "Manifest declares a maskable icon",
+    "pass": 0,
+    "total": 13,
+    "rate": 0,
+    "why": "A maskable icon lets the OS safely crop/mask the app icon on different device shapes without clipping content.",
+    "evidenceExamples": [
+     {
+      "evidence": "No manifest declared",
+      "url": "https://www.nsf.gov/events/nsf-integrated-data-systems-services-nsf-idss-program/2025-09-19"
+     },
+     {
+      "evidence": "No manifest declared",
+      "url": "https://www.nsf.gov/funding/opportunities/lscbr-living-stock-collections-biological-research/9189/nsf06-574"
+     },
+     {
+      "evidence": "No manifest declared",
+      "url": "https://www.nsf.gov/funding/opportunities/dcl-high-school-student-research-assistantships-mps-high-funding/nsf22-041"
+     }
+    ]
+   },
+   {
+    "id": "sw-active",
+    "label": "Service worker is active (not just registered)",
+    "pass": 0,
+    "total": 13,
+    "rate": 0,
+    "why": "An active service worker (not just registered) is what actually intercepts requests and serves cached content.",
+    "evidenceExamples": []
+   },
+   {
+    "id": "sw-controlling",
+    "label": "Service worker controls this page load",
+    "pass": 0,
+    "total": 13,
+    "rate": 0,
+    "why": "A controlling service worker means THIS page load is being served/intercepted, not just a future one.",
+    "evidenceExamples": []
+   },
+   {
+    "id": "installable",
+    "label": "Meets basic installability criteria",
+    "pass": 0,
+    "total": 13,
+    "rate": 0,
+    "why": "Determines whether the browser can realistically offer \"Add to Home Screen\" / install, based on manifest + service worker + HTTPS together.",
+    "evidenceExamples": [
+     {
+      "evidence": "no readable web app manifest; no service worker registered",
+      "url": "https://www.nsf.gov/events/nsf-integrated-data-systems-services-nsf-idss-program/2025-09-19"
+     },
+     {
+      "evidence": "no readable web app manifest; no service worker registered",
+      "url": "https://www.nsf.gov/funding/opportunities/lscbr-living-stock-collections-biological-research/9189/nsf06-574"
+     },
+     {
+      "evidence": "no readable web app manifest; no service worker registered",
+      "url": "https://www.nsf.gov/funding/opportunities/dcl-high-school-student-research-assistantships-mps-high-funding/nsf22-041"
+     }
+    ]
+   },
+   {
+    "id": "pwa-https",
+    "label": "HTTPS (required for service workers)",
+    "pass": 13,
+    "total": 13,
+    "rate": 100,
+    "why": "HTTPS is required for service workers and most install prompts.",
+    "evidenceExamples": []
+   }
+  ],
+  "offline": null
+ },
+ "security": {
+  "checks": [
+   {
+    "id": "https",
+    "label": "Served over HTTPS",
+    "pass": true,
+    "detail": "https:"
+   },
+   {
+    "id": "hsts",
+    "label": "HTTP Strict Transport Security (HSTS)",
+    "pass": true,
+    "detail": ""
+   },
+   {
+    "id": "csp",
+    "label": "Content Security Policy (CSP)",
+    "pass": false,
+    "detail": ""
+   },
+   {
+    "id": "x-content-type-options",
+    "label": "X-Content-Type-Options: nosniff",
+    "pass": true,
+    "detail": ""
+   },
+   {
+    "id": "clickjacking",
+    "label": "Clickjacking protection (X-Frame-Options or CSP frame-ancestors)",
+    "pass": true,
+    "detail": ""
+   },
+   {
+    "id": "gov-tld",
+    "label": "Sponsored government TLD (.gov/.mil/.edu)",
+    "pass": true,
+    "detail": "gov"
+   },
+   {
+    "id": "security-txt",
+    "label": "Published security.txt",
+    "pass": false,
+    "detail": ""
+   },
+   {
+    "id": "www-resolution",
+    "label": "Resolves with and without www",
+    "pass": true,
+    "detail": "nsf.gov"
+   }
+  ],
+  "passed": 6,
+  "total": 8
+ },
+ "publicInterest": {
+  "engine": "public-interest",
+  "checkedAt": "2026-10-25T08:32:42.280Z",
+  "a11yStatement": {
+   "result": "pass",
+   "url": "https://www.nsf.gov/accessibility",
+   "confidence": "high",
+   "checkedAt": "2026-10-25T08:32:41.300Z"
+  },
+  "carbonTxt": {
+   "result": "fail",
+   "url": null,
+   "valid": false,
+   "fields": {},
+   "checkedAt": "2026-10-25T08:32:41.301Z"
+  },
+  "greenWebFoundation": {
+   "result": "fail",
+   "green": false,
+   "hostedBy": null,
+   "url": "https://api.thegreenwebfoundation.org/greencheck/nsf.gov",
+   "checkedAt": "2026-10-25T08:32:41.301Z"
+  },
+  "sitemaps": {
+   "xml": {
+    "found": true,
+    "url": "https://www.nsf.gov/sitemap.xml"
+   },
+   "human": {
+    "found": true,
+    "url": "https://www.nsf.gov/sitemap"
+   },
+   "checkedAt": "2026-10-25T08:32:41.302Z"
+  }
+ },
+ "plainLanguage": {
+  "pagesChecked": 14,
+  "pagesScored": 10,
+  "medianWordsPerPage": 395,
+  "medianReadingEase": 27,
+  "medianGrade": 17,
+  "topUnexplainedAcronyms": [
+   {
+    "acronym": "STEM",
+    "pages": 5,
+    "examplePages": [
+     "https://www.nsf.gov/news/nsf-director-participates-white-house-asian-american-native",
+     "https://www.nsf.gov/nsb/updates/business-funding-university-research-grew-faster-federal",
+     "https://www.nsf.gov/funding/opportunities/itr-information-technology-research-national-priorities/5524/nsf04-012",
+     "https://www.nsf.gov/funding/opportunities/earthcube/504780/nsf16-514/solicitation",
+     "https://www.nsf.gov/funding/opportunities/rdcs-restricted-access-research-data-centers/505144/nsf15-586/solicitation"
+    ]
+   },
+   {
+    "acronym": "NSF",
+    "pages": 4,
+    "examplePages": [
+     "https://www.nsf.gov/news/nsf-director-participates-white-house-asian-american-native",
+     "https://www.nsf.gov/tip/updates/nsf-seeks-input-inform-next-generation-advanced-networking",
+     "https://www.nsf.gov/funding/opportunities/itr-information-technology-research-national-priorities/5524/nsf04-012",
+     "https://www.nsf.gov/news/mapping-methane-emissions-rivers-around-globe-reveals"
+    ]
+   },
+   {
+    "acronym": "PDF",
+    "pages": 4,
+    "examplePages": [
+     "https://www.nsf.gov/reports/topical/bringing-people-focus-how-social-behavioral-economic",
+     "https://www.nsf.gov/funding/opportunities/earthcube/504780/nsf16-514/solicitation",
+     "https://www.nsf.gov/reports/performance/fy-2009-agency-financial-report/nsf10-001",
+     "https://www.nsf.gov/funding/opportunities/rdcs-restricted-access-research-data-centers/505144/nsf15-586/solicitation"
+    ]
+   },
+   {
+    "acronym": "FY",
+    "pages": 3,
+    "examplePages": [
+     "https://www.nsf.gov/funding/opportunities/dcl-beyond-genome-ios-funding-opportunities-fy-2012-2013/nsf12-093",
+     "https://www.nsf.gov/funding/opportunities/itr-information-technology-research-national-priorities/5524/nsf04-012",
+     "https://www.nsf.gov/reports/performance/fy-2009-agency-financial-report/nsf10-001"
+    ]
+   },
+   {
+    "acronym": "PI",
+    "pages": 3,
+    "examplePages": [
+     "https://www.nsf.gov/funding/opportunities/dcl-beyond-genome-ios-funding-opportunities-fy-2012-2013/nsf12-093",
+     "https://www.nsf.gov/funding/opportunities/earthcube/504780/nsf16-514/solicitation",
+     "https://www.nsf.gov/funding/opportunities/rdcs-restricted-access-research-data-centers/505144/nsf15-586/solicitation"
+    ]
+   },
+   {
+    "acronym": "MB",
+    "pages": 2,
+    "examplePages": [
+     "https://www.nsf.gov/reports/topical/bringing-people-focus-how-social-behavioral-economic",
+     "https://www.nsf.gov/reports/performance/fy-2009-agency-financial-report/nsf10-001"
+    ]
+   },
+   {
+    "acronym": "US",
+    "pages": 2,
+    "examplePages": [
+     "https://www.nsf.gov/funding/opportunities/earthcube/504780/nsf16-514/solicitation",
+     "https://www.nsf.gov/funding/opportunities/rdcs-restricted-access-research-data-centers/505144/nsf15-586/solicitation"
+    ]
+   },
+   {
+    "acronym": "II",
+    "pages": 2,
+    "examplePages": [
+     "https://www.nsf.gov/funding/opportunities/earthcube/504780/nsf16-514/solicitation",
+     "https://www.nsf.gov/funding/opportunities/rdcs-restricted-access-research-data-centers/505144/nsf15-586/solicitation"
+    ]
+   },
+   {
+    "acronym": "VII",
+    "pages": 2,
+    "examplePages": [
+     "https://www.nsf.gov/funding/opportunities/earthcube/504780/nsf16-514/solicitation",
+     "https://www.nsf.gov/funding/opportunities/rdcs-restricted-access-research-data-centers/505144/nsf15-586/solicitation"
+    ]
+   },
+   {
+    "acronym": "III",
+    "pages": 2,
+    "examplePages": [
+     "https://www.nsf.gov/funding/opportunities/earthcube/504780/nsf16-514/solicitation",
+     "https://www.nsf.gov/funding/opportunities/rdcs-restricted-access-research-data-centers/505144/nsf15-586/solicitation"
+    ]
+   },
+   {
+    "acronym": "IV",
+    "pages": 2,
+    "examplePages": [
+     "https://www.nsf.gov/funding/opportunities/earthcube/504780/nsf16-514/solicitation",
+     "https://www.nsf.gov/funding/opportunities/rdcs-restricted-access-research-data-centers/505144/nsf15-586/solicitation"
+    ]
+   },
+   {
+    "acronym": "VIII",
+    "pages": 2,
+    "examplePages": [
+     "https://www.nsf.gov/funding/opportunities/earthcube/504780/nsf16-514/solicitation",
+     "https://www.nsf.gov/funding/opportunities/rdcs-restricted-access-research-data-centers/505144/nsf15-586/solicitation"
+    ]
+   },
+   {
+    "acronym": "VI",
+    "pages": 2,
+    "examplePages": [
+     "https://www.nsf.gov/funding/opportunities/earthcube/504780/nsf16-514/solicitation",
+     "https://www.nsf.gov/funding/opportunities/rdcs-restricted-access-research-data-centers/505144/nsf15-586/solicitation"
+    ]
+   },
+   {
+    "acronym": "GC",
+    "pages": 2,
+    "examplePages": [
+     "https://www.nsf.gov/funding/opportunities/earthcube/504780/nsf16-514/solicitation",
+     "https://www.nsf.gov/funding/opportunities/rdcs-restricted-access-research-data-centers/505144/nsf15-586/solicitation"
+    ]
+   },
+   {
+    "acronym": "CA",
+    "pages": 2,
+    "examplePages": [
+     "https://www.nsf.gov/funding/opportunities/earthcube/504780/nsf16-514/solicitation",
+     "https://www.nsf.gov/funding/opportunities/rdcs-restricted-access-research-data-centers/505144/nsf15-586/solicitation"
+    ]
+   }
+  ],
+  "topMisspellings": [
+   {
+    "word": "nsf",
+    "pages": 5,
+    "examplePages": [
+     "https://www.nsf.gov/nsb/updates/business-funding-university-research-grew-faster-federal",
+     "https://www.nsf.gov/funding/opportunities/dcl-beyond-genome-ios-funding-opportunities-fy-2012-2013/nsf12-093",
+     "https://www.nsf.gov/funding/opportunities/itr-information-technology-research-national-priorities/5524/nsf04-012",
+     "https://www.nsf.gov/funding/opportunities/earthcube/504780/nsf16-514/solicitation",
+     "https://www.nsf.gov/funding/opportunities/rdcs-restricted-access-research-data-centers/505144/nsf15-586/solicitation"
+    ]
+   },
+   {
+    "word": "Geosciences",
+    "pages": 3,
+    "examplePages": [
+     "https://www.nsf.gov/honorary-awards/pecase/recipients/david-c-noone",
+     "https://www.nsf.gov/funding/opportunities/itr-information-technology-research-national-priorities/5524/nsf04-012",
+     "https://www.nsf.gov/funding/opportunities/earthcube/504780/nsf16-514/solicitation"
+    ]
+   },
+   {
+    "word": "IHEs",
+    "pages": 2,
+    "examplePages": [
+     "https://www.nsf.gov/tip/updates/nsf-seeks-input-inform-next-generation-advanced-networking",
+     "https://www.nsf.gov/funding/opportunities/rdcs-restricted-access-research-data-centers/505144/nsf15-586/solicitation"
+    ]
+   },
+   {
+    "word": "https",
+    "pages": 2,
+    "examplePages": [
+     "https://www.nsf.gov/funding/opportunities/dcl-beyond-genome-ios-funding-opportunities-fy-2012-2013/nsf12-093",
+     "https://www.nsf.gov/funding/opportunities/rdcs-restricted-access-research-data-centers/505144/nsf15-586/solicitation"
+    ]
+   },
+   {
+    "word": "www",
+    "pages": 2,
+    "examplePages": [
+     "https://www.nsf.gov/funding/opportunities/dcl-beyond-genome-ios-funding-opportunities-fy-2012-2013/nsf12-093",
+     "https://www.nsf.gov/funding/opportunities/rdcs-restricted-access-research-data-centers/505144/nsf15-586/solicitation"
+    ]
+   },
+   {
+    "word": "jsp",
+    "pages": 2,
+    "examplePages": [
+     "https://www.nsf.gov/funding/opportunities/dcl-beyond-genome-ios-funding-opportunities-fy-2012-2013/nsf12-093",
+     "https://www.nsf.gov/funding/opportunities/rdcs-restricted-access-research-data-centers/505144/nsf15-586/solicitation"
+    ]
+   },
+   {
+    "word": "summ",
+    "pages": 2,
+    "examplePages": [
+     "https://www.nsf.gov/funding/opportunities/dcl-beyond-genome-ios-funding-opportunities-fy-2012-2013/nsf12-093",
+     "https://www.nsf.gov/funding/opportunities/rdcs-restricted-access-research-data-centers/505144/nsf15-586/solicitation"
+    ]
+   },
+   {
+    "word": "ods",
+    "pages": 2,
+    "examplePages": [
+     "https://www.nsf.gov/funding/opportunities/dcl-beyond-genome-ios-funding-opportunities-fy-2012-2013/nsf12-093",
+     "https://www.nsf.gov/funding/opportunities/rdcs-restricted-access-research-data-centers/505144/nsf15-586/solicitation"
+    ]
+   },
+   {
+    "word": "Sethuraman",
+    "pages": 1,
+    "examplePages": [
+     "https://www.nsf.gov/news/nsf-director-participates-white-house-asian-american-native"
+    ]
+   },
+   {
+    "word": "Panchanathan",
+    "pages": 1,
+    "examplePages": [
+     "https://www.nsf.gov/news/nsf-director-participates-white-house-asian-american-native"
+    ]
+   },
+   {
+    "word": "roundtable",
+    "pages": 1,
+    "examplePages": [
+     "https://www.nsf.gov/news/nsf-director-participates-white-house-asian-american-native"
+    ]
+   },
+   {
+    "word": "congressionally",
+    "pages": 1,
+    "examplePages": [
+     "https://www.nsf.gov/nsb/updates/business-funding-university-research-grew-faster-federal"
+    ]
+   },
+   {
+    "word": "Leath",
+    "pages": 1,
+    "examplePages": [
+     "https://www.nsf.gov/nsb/updates/business-funding-university-research-grew-faster-federal"
+    ]
+   },
+   {
+    "word": "IndicatorsScience",
+    "pages": 1,
+    "examplePages": [
+     "https://www.nsf.gov/nsb/updates/business-funding-university-research-grew-faster-federal"
+    ]
+   },
+   {
+    "word": "NSBThe",
+    "pages": 1,
+    "examplePages": [
+     "https://www.nsf.gov/nsb/updates/business-funding-university-research-grew-faster-federal"
+    ]
+   },
+   {
+    "word": "presidentially",
+    "pages": 1,
+    "examplePages": [
+     "https://www.nsf.gov/nsb/updates/business-funding-university-research-grew-faster-federal"
+    ]
+   },
+   {
+    "word": "NCSESNSF",
+    "pages": 1,
+    "examplePages": [
+     "https://www.nsf.gov/nsb/updates/business-funding-university-research-grew-faster-federal"
+    ]
+   },
+   {
+    "word": "Jeffers",
+    "pages": 1,
+    "examplePages": [
+     "https://www.nsf.gov/nsb/updates/business-funding-university-research-grew-faster-federal"
+    ]
+   },
+   {
+    "word": "ejeffers",
+    "pages": 1,
+    "examplePages": [
+     "https://www.nsf.gov/nsb/updates/business-funding-university-research-grew-faster-federal"
+    ]
+   },
+   {
+    "word": "Malkan",
+    "pages": 1,
+    "examplePages": [
+     "https://www.nsf.gov/nsb/updates/new-members-appointed-national-science-board"
+    ]
+   },
+   {
+    "word": "Droegemeier",
+    "pages": 1,
+    "examplePages": [
+     "https://www.nsf.gov/nsb/updates/new-members-appointed-national-science-board"
+    ]
+   },
+   {
+    "word": "Northridge",
+    "pages": 1,
+    "examplePages": [
+     "https://www.nsf.gov/nsb/updates/new-members-appointed-national-science-board"
+    ]
+   },
+   {
+    "word": "Schaeffer",
+    "pages": 1,
+    "examplePages": [
+     "https://www.nsf.gov/nsb/updates/new-members-appointed-national-science-board"
+    ]
+   },
+   {
+    "word": "Magnetics",
+    "pages": 1,
+    "examplePages": [
+     "https://www.nsf.gov/nsb/updates/new-members-appointed-national-science-board"
+    ]
+   },
+   {
+    "word": "Spacesystems",
+    "pages": 1,
+    "examplePages": [
+     "https://www.nsf.gov/nsb/updates/new-members-appointed-national-science-board"
+    ]
+   }
+  ]
+ },
+ "lighthouse": {
+  "pagesSampled": 1,
+  "medianPerformance": 35,
+  "medianAccessibility": 100,
+  "medianBestPractices": 96,
+  "medianSeo": 100,
+  "medianPwa": null,
+  "medianAgentic": 100,
+  "distributions": {
+   "performance": {
+    "min": 35,
+    "max": 35,
+    "p10": 35,
+    "p25": 35,
+    "p50": 35,
+    "p75": 35,
+    "p90": 35,
+    "range": 0,
+    "spreadP10toP90": 0,
+    "iqr": 0
+   },
+   "accessibility": {
+    "min": 100,
+    "max": 100,
+    "p10": 100,
+    "p25": 100,
+    "p50": 100,
+    "p75": 100,
+    "p90": 100,
+    "range": 0,
+    "spreadP10toP90": 0,
+    "iqr": 0
+   },
+   "bestPractices": {
+    "min": 96,
+    "max": 96,
+    "p10": 96,
+    "p25": 96,
+    "p50": 96,
+    "p75": 96,
+    "p90": 96,
+    "range": 0,
+    "spreadP10toP90": 0,
+    "iqr": 0
+   },
+   "seo": {
+    "min": 100,
+    "max": 100,
+    "p10": 100,
+    "p25": 100,
+    "p50": 100,
+    "p75": 100,
+    "p90": 100,
+    "range": 0,
+    "spreadP10toP90": 0,
+    "iqr": 0
+   },
+   "agentic": {
+    "min": 100,
+    "max": 100,
+    "p10": 100,
+    "p25": 100,
+    "p50": 100,
+    "p75": 100,
+    "p90": 100,
+    "range": 0,
+    "spreadP10toP90": 0,
+    "iqr": 0
+   }
+  },
+  "metrics": {
+   "firstContentfulPaintMs": 4367,
+   "largestContentfulPaintMs": 8956,
+   "speedIndexMs": 4367,
+   "totalBlockingTimeMs": 4367,
+   "cumulativeLayoutShift": 0.019
+  },
+  "pwaSignals": [],
+  "recommendations": [
+   {
+    "id": "mainthread-work-breakdown",
+    "category": "performance",
+    "title": "Minimize main-thread work",
+    "pages": 1,
+    "examplePages": [
+     "https://www.nsf.gov/news/chemists-synthesize-novel-neuroactive-compound-found"
+    ],
+    "savingsBytes": 0,
+    "savingsMs": 4350
+   },
+   {
+    "id": "bootup-time",
+    "category": "performance",
+    "title": "Reduce JavaScript execution time",
+    "pages": 1,
+    "examplePages": [
+     "https://www.nsf.gov/news/chemists-synthesize-novel-neuroactive-compound-found"
+    ],
+    "savingsBytes": 0,
+    "savingsMs": 3550
+   },
+   {
+    "id": "unused-javascript",
+    "category": "performance",
+    "title": "Reduce unused JavaScript",
+    "pages": 1,
+    "examplePages": [
+     "https://www.nsf.gov/news/chemists-synthesize-novel-neuroactive-compound-found"
+    ],
+    "savingsBytes": 678524,
+    "savingsMs": 1500
+   },
+   {
+    "id": "redirects",
+    "category": "performance",
+    "title": "Avoid multiple page redirects",
+    "pages": 1,
+    "examplePages": [
+     "https://www.nsf.gov/news/chemists-synthesize-novel-neuroactive-compound-found"
+    ],
+    "savingsBytes": 0,
+    "savingsMs": 900
+   },
+   {
+    "id": "unused-css-rules",
+    "category": "performance",
+    "title": "Reduce unused CSS",
+    "pages": 1,
+    "examplePages": [
+     "https://www.nsf.gov/news/chemists-synthesize-novel-neuroactive-compound-found"
+    ],
+    "savingsBytes": 158952,
+    "savingsMs": 550
+   },
+   {
+    "id": "unminified-javascript",
+    "category": "performance",
+    "title": "Minify JavaScript",
+    "pages": 1,
+    "examplePages": [
+     "https://www.nsf.gov/news/chemists-synthesize-novel-neuroactive-compound-found"
+    ],
+    "savingsBytes": 9865,
+    "savingsMs": 0
+   },
+   {
+    "id": "unminified-css",
+    "category": "performance",
+    "title": "Minify CSS",
+    "pages": 1,
+    "examplePages": [
+     "https://www.nsf.gov/news/chemists-synthesize-novel-neuroactive-compound-found"
+    ],
+    "savingsBytes": 5773,
+    "savingsMs": 0
+   },
+   {
+    "id": "first-contentful-paint",
+    "category": "performance",
+    "title": "First Contentful Paint",
+    "pages": 1,
+    "examplePages": [
+     "https://www.nsf.gov/news/chemists-synthesize-novel-neuroactive-compound-found"
+    ],
+    "savingsBytes": 0,
+    "savingsMs": 0
+   },
+   {
+    "id": "largest-contentful-paint",
+    "category": "performance",
+    "title": "Largest Contentful Paint",
+    "pages": 1,
+    "examplePages": [
+     "https://www.nsf.gov/news/chemists-synthesize-novel-neuroactive-compound-found"
+    ],
+    "savingsBytes": 0,
+    "savingsMs": 0
+   },
+   {
+    "id": "speed-index",
+    "category": "performance",
+    "title": "Speed Index",
+    "pages": 1,
+    "examplePages": [
+     "https://www.nsf.gov/news/chemists-synthesize-novel-neuroactive-compound-found"
+    ],
+    "savingsBytes": 0,
+    "savingsMs": 0
+   },
+   {
+    "id": "total-blocking-time",
+    "category": "performance",
+    "title": "Total Blocking Time",
+    "pages": 1,
+    "examplePages": [
+     "https://www.nsf.gov/news/chemists-synthesize-novel-neuroactive-compound-found"
+    ],
+    "savingsBytes": 0,
+    "savingsMs": 0
+   },
+   {
+    "id": "max-potential-fid",
+    "category": "performance",
+    "title": "Max Potential First Input Delay",
+    "pages": 1,
+    "examplePages": [
+     "https://www.nsf.gov/news/chemists-synthesize-novel-neuroactive-compound-found"
+    ],
+    "savingsBytes": 0,
+    "savingsMs": 0
+   },
+   {
+    "id": "interactive",
+    "category": "performance",
+    "title": "Time to Interactive",
+    "pages": 1,
+    "examplePages": [
+     "https://www.nsf.gov/news/chemists-synthesize-novel-neuroactive-compound-found"
+    ],
+    "savingsBytes": 0,
+    "savingsMs": 0
+   },
+   {
+    "id": "image-size-responsive",
+    "category": "best-practices",
+    "title": "Serves images with low resolution",
+    "pages": 1,
+    "examplePages": [
+     "https://www.nsf.gov/news/chemists-synthesize-novel-neuroactive-compound-found"
+    ],
+    "savingsBytes": 0,
+    "savingsMs": 0
+   },
+   {
+    "id": "webmcp-registered-tools",
+    "category": "agentic-browsing",
+    "title": "WebMCP tools registered",
+    "pages": 1,
+    "examplePages": [
+     "https://www.nsf.gov/news/chemists-synthesize-novel-neuroactive-compound-found"
+    ],
+    "savingsBytes": 0,
+    "savingsMs": 0
+   },
+   {
+    "id": "webmcp-form-coverage",
+    "category": "agentic-browsing",
+    "title": "WebMCP form coverage",
+    "pages": 1,
+    "examplePages": [
+     "https://www.nsf.gov/news/chemists-synthesize-novel-neuroactive-compound-found"
+    ],
+    "savingsBytes": 0,
+    "savingsMs": 0
+   },
+   {
+    "id": "webmcp-schema-validity",
+    "category": "agentic-browsing",
+    "title": "WebMCP schemas are valid",
+    "pages": 1,
+    "examplePages": [
+     "https://www.nsf.gov/news/chemists-synthesize-novel-neuroactive-compound-found"
+    ],
+    "savingsBytes": 0,
+    "savingsMs": 0
+   },
+   {
+    "id": "llms-txt",
+    "category": "agentic-browsing",
+    "title": "llms.txt follows recommendations",
+    "pages": 1,
+    "examplePages": [
+     "https://www.nsf.gov/news/chemists-synthesize-novel-neuroactive-compound-found"
+    ],
+    "savingsBytes": 0,
+    "savingsMs": 0
+   },
+   {
+    "id": "ard-schema",
+    "category": "agentic-browsing",
+    "title": "`ai-catalog.json` schema is valid",
+    "pages": 1,
+    "examplePages": [
+     "https://www.nsf.gov/news/chemists-synthesize-novel-neuroactive-compound-found"
+    ],
+    "savingsBytes": 0,
+    "savingsMs": 0
+   }
+  ]
+ },
+ "linkCheck": {
+  "brokenCount": 12,
+  "broken": [
+   {
+    "url": "https://www.nsf.gov/pubs/2022/nsf22527/nsf22527.htm",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/s-stem-net-scholarships-stem-network/505889"
+    ]
+   },
+   {
+    "url": "https://www.fastlane.nsf.gov/a1/newstan.htm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/rdcs-restricted-access-research-data-centers/505144/nsf15-586/solicitation",
+     "https://www.nsf.gov/funding/opportunities/earthcube/504780/nsf16-514/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf18045&org=NSF",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/rdcs-restricted-access-research-data-centers/505144/nsf15-586/solicitation",
+     "https://www.nsf.gov/funding/opportunities/earthcube/504780/nsf16-514/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/policies/SOR_PA_NSF-50_Principal_Investigator_Proposal_File.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/rdcs-restricted-access-research-data-centers/505144/nsf15-586/solicitation",
+     "https://www.nsf.gov/funding/opportunities/earthcube/504780/nsf16-514/solicitation"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_sbmbd-I8TYGYnjlNyzX22g",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/nsf-integrated-data-systems-services-nsf-idss-program/2025-09-19"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/events/nsf-integrated-data-systems-services-nsf-idss-program/funding/opportunities/idss-integrated-data-systems-services/nsf25-544/solicitation",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/nsf-integrated-data-systems-services-nsf-idss-program/2025-09-19"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_e1lYYrLGS3CC4FeLgxAZ5w",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/leaps-mps-webinar"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/geo/acgeo/geovision/geo_strategic_plans_2012.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/earthcube/504780/nsf16-514/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/geo/earthcube/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/earthcube/504780/nsf16-514/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/geo/acgeo/geovision/nsf_acgeo_dynamic-earth-2015-20.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/earthcube/504780/nsf16-514/solicitation"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJIsfuusqDMqG7p_ttST2BvDeS-U8sh99F4",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/partnerships-innovation-webinar-series"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_unzzd4mWScmCughakbkBXw?utm_medium=email&utm_source=govdelivery",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/epscor-live-epscor-research-incubators-stem-excellence-e/2025-04-10"
+    ]
+   }
+  ]
+ },
+ "errorPages": [],
+ "tech": [
+  {
+   "name": "Crazy Egg",
+   "category": "Analytics",
+   "categories": [
+    "Analytics"
+   ],
+   "confidence": 100,
+   "version": null,
+   "website": "https://crazyegg.com",
+   "cpe": null,
+   "pagesConfirmed": 1,
+   "examplePages": [
+    "https://www.nsf.gov/events/epscor-live-epscor-research-incubators-stem-excellence-e/2025-04-10"
+   ]
+  },
+  {
+   "name": "Google Analytics",
+   "category": "Analytics",
+   "categories": [
+    "Analytics"
+   ],
+   "confidence": 100,
+   "version": null,
+   "website": "https://google.com/analytics",
+   "cpe": null,
+   "pagesConfirmed": 1,
+   "examplePages": [
+    "https://www.nsf.gov/events/epscor-live-epscor-research-incubators-stem-excellence-e/2025-04-10"
+   ]
+  },
+  {
+   "name": "Amazon CloudFront",
+   "category": "CDN",
+   "categories": [
+    "CDN"
+   ],
+   "confidence": 100,
+   "version": null,
+   "website": "https://aws.amazon.com/cloudfront/",
+   "cpe": null,
+   "pagesConfirmed": 1,
+   "examplePages": [
+    "https://www.nsf.gov/events/epscor-live-epscor-research-incubators-stem-excellence-e/2025-04-10"
+   ]
+  },
+  {
+   "name": "jsDelivr",
+   "category": "CDN",
+   "categories": [
+    "CDN"
+   ],
+   "confidence": 100,
+   "version": null,
+   "website": "https://www.jsdelivr.com/",
+   "cpe": null,
+   "pagesConfirmed": 1,
+   "examplePages": [
+    "https://www.nsf.gov/events/epscor-live-epscor-research-incubators-stem-excellence-e/2025-04-10"
+   ]
+  },
+  {
+   "name": "Drupal",
+   "category": "CMS",
+   "categories": [
+    "CMS"
+   ],
+   "confidence": 100,
+   "version": "10",
+   "website": "https://www.drupal.org/",
+   "cpe": "cpe:2.3:a:drupal:drupal:*:*:*:*:*:*:*:*",
+   "pagesConfirmed": 1,
+   "examplePages": [
+    "https://www.nsf.gov/events/epscor-live-epscor-research-incubators-stem-excellence-e/2025-04-10"
+   ]
+  },
+  {
+   "name": "Amazon Web Services",
+   "category": "PaaS",
+   "categories": [
+    "PaaS"
+   ],
+   "confidence": 100,
+   "version": null,
+   "website": "https://aws.amazon.com/",
+   "cpe": null,
+   "pagesConfirmed": 1,
+   "examplePages": [
+    "https://www.nsf.gov/events/epscor-live-epscor-research-incubators-stem-excellence-e/2025-04-10"
+   ]
+  },
+  {
+   "name": "PHP",
+   "category": "Programming languages",
+   "categories": [
+    "Programming languages"
+   ],
+   "confidence": 100,
+   "version": null,
+   "website": "https://php.net",
+   "cpe": "cpe:2.3:a:php:php:*:*:*:*:*:*:*:*",
+   "pagesConfirmed": 1,
+   "examplePages": [
+    "https://www.nsf.gov/events/epscor-live-epscor-research-incubators-stem-excellence-e/2025-04-10"
+   ]
+  },
+  {
+   "name": "HSTS",
+   "category": "Security",
+   "categories": [
+    "Security"
+   ],
+   "confidence": 100,
+   "version": null,
+   "website": "https://www.rfc-editor.org/rfc/rfc6797#section-6.1",
+   "cpe": null,
+   "pagesConfirmed": 1,
+   "examplePages": [
+    "https://www.nsf.gov/events/epscor-live-epscor-research-incubators-stem-excellence-e/2025-04-10"
+   ]
+  },
+  {
+   "name": "Google Tag Manager",
+   "category": "Tag managers",
+   "categories": [
+    "Tag managers"
+   ],
+   "confidence": 100,
+   "version": null,
+   "website": "https://www.google.com/tagmanager",
+   "cpe": null,
+   "pagesConfirmed": 1,
+   "examplePages": [
+    "https://www.nsf.gov/events/epscor-live-epscor-research-incubators-stem-excellence-e/2025-04-10"
+   ]
+  },
+  {
+   "name": "Apache HTTP Server",
+   "category": "Web servers",
+   "categories": [
+    "Web servers"
+   ],
+   "confidence": 100,
+   "version": null,
+   "website": "https://httpd.apache.org/",
+   "cpe": "cpe:2.3:a:apache:http_server:*:*:*:*:*:*:*:*",
+   "pagesConfirmed": 1,
+   "examplePages": [
+    "https://www.nsf.gov/events/epscor-live-epscor-research-incubators-stem-excellence-e/2025-04-10"
+   ]
+  },
+  {
+   "name": "AddToAny",
+   "category": "Widgets",
+   "categories": [
+    "Widgets"
+   ],
+   "confidence": 100,
+   "version": null,
+   "website": "https://www.addtoany.com",
+   "cpe": null,
+   "pagesConfirmed": 1,
+   "examplePages": [
+    "https://www.nsf.gov/events/epscor-live-epscor-research-incubators-stem-excellence-e/2025-04-10"
+   ]
+  }
+ ],
+ "images": {
+  "pagesScanned": 25,
+  "totalImages": 453,
+  "uniqueImages": 42,
+  "missingAlt": 0,
+  "decorative": 138,
+  "withAlt": 315,
+  "altVerdicts": {
+   "GOOD": 28,
+   "DECORATIVE": 11,
+   "TOO_SHORT": 3
+  }
+ },
+ "techFindings": {
+  "model": {
+   "pages": 1,
+   "tech": {
+    "Crazy Egg": 1,
+    "Google Analytics": 1,
+    "Amazon CloudFront": 1,
+    "jsDelivr": 1,
+    "Drupal": 1,
+    "Amazon Web Services": 1,
+    "PHP": 1,
+    "HSTS": 1,
+    "Google Tag Manager": 1,
+    "Apache HTTP Server": 1,
+    "AddToAny": 1
+   },
+   "finding": {
+    "axe:region": 1,
+    "alfa:sia-r66": 1,
+    "alfa:sia-r73": 1,
+    "alfa:sia-r57": 1,
+    "alfa:sia-r111": 1
+   },
+   "pair": {
+    "Crazy Egg": {
+     "axe:region": 1,
+     "alfa:sia-r66": 1,
+     "alfa:sia-r73": 1,
+     "alfa:sia-r57": 1,
+     "alfa:sia-r111": 1
+    },
+    "Google Analytics": {
+     "axe:region": 1,
+     "alfa:sia-r66": 1,
+     "alfa:sia-r73": 1,
+     "alfa:sia-r57": 1,
+     "alfa:sia-r111": 1
+    },
+    "Amazon CloudFront": {
+     "axe:region": 1,
+     "alfa:sia-r66": 1,
+     "alfa:sia-r73": 1,
+     "alfa:sia-r57": 1,
+     "alfa:sia-r111": 1
+    },
+    "jsDelivr": {
+     "axe:region": 1,
+     "alfa:sia-r66": 1,
+     "alfa:sia-r73": 1,
+     "alfa:sia-r57": 1,
+     "alfa:sia-r111": 1
+    },
+    "Drupal": {
+     "axe:region": 1,
+     "alfa:sia-r66": 1,
+     "alfa:sia-r73": 1,
+     "alfa:sia-r57": 1,
+     "alfa:sia-r111": 1
+    },
+    "Amazon Web Services": {
+     "axe:region": 1,
+     "alfa:sia-r66": 1,
+     "alfa:sia-r73": 1,
+     "alfa:sia-r57": 1,
+     "alfa:sia-r111": 1
+    },
+    "PHP": {
+     "axe:region": 1,
+     "alfa:sia-r66": 1,
+     "alfa:sia-r73": 1,
+     "alfa:sia-r57": 1,
+     "alfa:sia-r111": 1
+    },
+    "HSTS": {
+     "axe:region": 1,
+     "alfa:sia-r66": 1,
+     "alfa:sia-r73": 1,
+     "alfa:sia-r57": 1,
+     "alfa:sia-r111": 1
+    },
+    "Google Tag Manager": {
+     "axe:region": 1,
+     "alfa:sia-r66": 1,
+     "alfa:sia-r73": 1,
+     "alfa:sia-r57": 1,
+     "alfa:sia-r111": 1
+    },
+    "Apache HTTP Server": {
+     "axe:region": 1,
+     "alfa:sia-r66": 1,
+     "alfa:sia-r73": 1,
+     "alfa:sia-r57": 1,
+     "alfa:sia-r111": 1
+    },
+    "AddToAny": {
+     "axe:region": 1,
+     "alfa:sia-r66": 1,
+     "alfa:sia-r73": 1,
+     "alfa:sia-r57": 1,
+     "alfa:sia-r111": 1
+    }
+   }
+  },
+  "associations": []
+ },
+ "thirdParty": {
+  "pagesScanned": 3,
+  "vendors": [
+   {
+    "origin": "awswaf.com",
+    "pages": 3,
+    "pagesWithScripts": 3,
+    "isScriptVendor": true,
+    "medianBytes": 703538,
+    "medianDurationMs": 77,
+    "medianRequests": 7,
+    "pagesWithFindings": 3,
+    "examplePages": [
+     "https://www.nsf.gov/honorary-awards/pecase/recipients/guosong-hong",
+     "https://www.nsf.gov/funding/opportunities/lscbr-living-stock-collections-biological-research/9189/nsf06-574",
+     "https://www.nsf.gov/funding/opportunities/dcl-high-school-student-research-assistantships-mps-high-funding/nsf22-041"
+    ]
+   },
+   {
+    "origin": "googletagmanager.com",
+    "pages": 3,
+    "pagesWithScripts": 3,
+    "isScriptVendor": true,
+    "medianBytes": 653858,
+    "medianDurationMs": 71,
+    "medianRequests": 4,
+    "pagesWithFindings": 3,
+    "examplePages": [
+     "https://www.nsf.gov/honorary-awards/pecase/recipients/guosong-hong",
+     "https://www.nsf.gov/funding/opportunities/lscbr-living-stock-collections-biological-research/9189/nsf06-574",
+     "https://www.nsf.gov/funding/opportunities/dcl-high-school-student-research-assistantships-mps-high-funding/nsf22-041"
+    ]
+   },
+   {
+    "origin": "cloud.gov",
+    "pages": 3,
+    "pagesWithScripts": 3,
+    "isScriptVendor": true,
+    "medianBytes": 442958,
+    "medianDurationMs": 146,
+    "medianRequests": 4,
+    "pagesWithFindings": 3,
+    "examplePages": [
+     "https://www.nsf.gov/honorary-awards/pecase/recipients/guosong-hong",
+     "https://www.nsf.gov/funding/opportunities/lscbr-living-stock-collections-biological-research/9189/nsf06-574",
+     "https://www.nsf.gov/funding/opportunities/dcl-high-school-student-research-assistantships-mps-high-funding/nsf22-041"
+    ]
+   },
+   {
+    "origin": "addtoany.com",
+    "pages": 3,
+    "pagesWithScripts": 3,
+    "isScriptVendor": true,
+    "medianBytes": 76722,
+    "medianDurationMs": 145,
+    "medianRequests": 3,
+    "pagesWithFindings": 3,
+    "examplePages": [
+     "https://www.nsf.gov/honorary-awards/pecase/recipients/guosong-hong",
+     "https://www.nsf.gov/funding/opportunities/lscbr-living-stock-collections-biological-research/9189/nsf06-574",
+     "https://www.nsf.gov/funding/opportunities/dcl-high-school-student-research-assistantships-mps-high-funding/nsf22-041"
+    ]
+   },
+   {
+    "origin": "crazyegg.com",
+    "pages": 3,
+    "pagesWithScripts": 3,
+    "isScriptVendor": true,
+    "medianBytes": 70826,
+    "medianDurationMs": 78,
+    "medianRequests": 4,
+    "pagesWithFindings": 3,
+    "examplePages": [
+     "https://www.nsf.gov/honorary-awards/pecase/recipients/guosong-hong",
+     "https://www.nsf.gov/funding/opportunities/lscbr-living-stock-collections-biological-research/9189/nsf06-574",
+     "https://www.nsf.gov/funding/opportunities/dcl-high-school-student-research-assistantships-mps-high-funding/nsf22-041"
+    ]
+   },
+   {
+    "origin": "digitalgov.gov",
+    "pages": 3,
+    "pagesWithScripts": 3,
+    "isScriptVendor": true,
+    "medianBytes": 30230,
+    "medianDurationMs": 2,
+    "medianRequests": 1,
+    "pagesWithFindings": 3,
+    "examplePages": [
+     "https://www.nsf.gov/honorary-awards/pecase/recipients/guosong-hong",
+     "https://www.nsf.gov/funding/opportunities/lscbr-living-stock-collections-biological-research/9189/nsf06-574",
+     "https://www.nsf.gov/funding/opportunities/dcl-high-school-student-research-assistantships-mps-high-funding/nsf22-041"
+    ]
+   },
+   {
+    "origin": "amazonaws.com",
+    "pages": 3,
+    "pagesWithScripts": 0,
+    "isScriptVendor": false,
+    "medianBytes": 11052,
+    "medianDurationMs": 1,
+    "medianRequests": 1,
+    "pagesWithFindings": 3,
+    "examplePages": [
+     "https://www.nsf.gov/honorary-awards/pecase/recipients/guosong-hong",
+     "https://www.nsf.gov/funding/opportunities/lscbr-living-stock-collections-biological-research/9189/nsf06-574",
+     "https://www.nsf.gov/funding/opportunities/dcl-high-school-student-research-assistantships-mps-high-funding/nsf22-041"
+    ]
+   },
+   {
+    "origin": "jsdelivr.net",
+    "pages": 3,
+    "pagesWithScripts": 3,
+    "isScriptVendor": true,
+    "medianBytes": 824,
+    "medianDurationMs": 35,
+    "medianRequests": 1,
+    "pagesWithFindings": 3,
+    "examplePages": [
+     "https://www.nsf.gov/honorary-awards/pecase/recipients/guosong-hong",
+     "https://www.nsf.gov/funding/opportunities/lscbr-living-stock-collections-biological-research/9189/nsf06-574",
+     "https://www.nsf.gov/funding/opportunities/dcl-high-school-student-research-assistantships-mps-high-funding/nsf22-041"
+    ]
+   },
+   {
+    "origin": "google-analytics.com",
+    "pages": 3,
+    "pagesWithScripts": 0,
+    "isScriptVendor": false,
+    "medianBytes": 0,
+    "medianDurationMs": 20,
+    "medianRequests": 1,
+    "pagesWithFindings": 3,
+    "examplePages": [
+     "https://www.nsf.gov/honorary-awards/pecase/recipients/guosong-hong",
+     "https://www.nsf.gov/funding/opportunities/lscbr-living-stock-collections-biological-research/9189/nsf06-574",
+     "https://www.nsf.gov/funding/opportunities/dcl-high-school-student-research-assistantships-mps-high-funding/nsf22-041"
+    ]
+   }
+  ]
+ },
+ "componentClusters": {
+  "design_system": "none",
+  "design_system_label": "none",
+  "design_system_theme": null,
+  "template_page_threshold": 10,
+  "total_clusters": 23,
+  "clusters": [
+   {
+    "id": "cc-93d23f8c11f6",
+    "engine_key": "alfa",
+    "rule_id": "sia-r73",
+    "severity": "Serious",
+    "rule_pages_affected": 15,
+    "pages_affected": 15,
+    "instances": 45,
+    "selector_path": "<p>",
+    "snippet_shape": "",
+    "representative_selector": "<p>",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "template",
+    "distinct_components_for_rule": 1,
+    "action_score": 45,
+    "estimated_fix_impact": {
+     "findings": 45,
+     "pages": 15,
+     "statement": "Fix one place, resolve ~45 finding(s) on 15 page(s)."
+    },
+    "affected_pages": [
+     "https://www.nsf.gov/honorary-awards/pecase/recipients/guosong-hong",
+     "https://www.nsf.gov/events/nsf-integrated-data-systems-services-nsf-idss-program/2025-09-19",
+     "https://www.nsf.gov/funding/opportunities/lscbr-living-stock-collections-biological-research/9189/nsf06-574",
+     "https://www.nsf.gov/funding/opportunities/mrsec-materials-research-science-engineering-centers/nsf16-545",
+     "https://www.nsf.gov/nsb/updates/new-members-appointed-national-science-board",
+     "https://www.nsf.gov/honorary-awards/pecase/recipients/julia-grigsby",
+     "https://www.nsf.gov/news/chemists-synthesize-novel-neuroactive-compound-found",
+     "https://www.nsf.gov/tip/updates/nsf-seeks-input-inform-next-generation-advanced-networking",
+     "https://www.nsf.gov/funding/opportunities/dcl-beyond-genome-ios-funding-opportunities-fy-2012-2013/nsf12-093",
+     "https://www.nsf.gov/funding/opportunities/itr-information-technology-research-national-priorities/5524/nsf04-012",
+     "https://www.nsf.gov/reports/topical/bringing-people-focus-how-social-behavioral-economic",
+     "https://www.nsf.gov/reports/performance/fy-2009-agency-financial-report/nsf10-001",
+     "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/isadore-m-singer",
+     "https://www.nsf.gov/news/mapping-methane-emissions-rivers-around-globe-reveals",
+     "https://www.nsf.gov/events/epscor-live-epscor-research-incubators-stem-excellence-e/2025-04-10"
+    ]
+   },
+   {
+    "id": "cc-1450bfc88bbf",
+    "engine_key": "alfa",
+    "rule_id": "sia-r111",
+    "severity": "Serious",
+    "rule_pages_affected": 15,
+    "pages_affected": 15,
+    "instances": 45,
+    "selector_path": "<button type=\"button\" class=\"usa-accordion__button usa-nav__link \" aria-expanded=\"false\" aria-controls=\"basic-mega-nav-section-#\">",
+    "snippet_shape": "",
+    "representative_selector": "<button type=\"button\" class=\"usa-accordion__button usa-nav__link \" aria-expanded=\"false\" aria-controls=\"basic-mega-nav-section-1\">",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "template",
+    "distinct_components_for_rule": 1,
+    "action_score": 45,
+    "estimated_fix_impact": {
+     "findings": 45,
+     "pages": 15,
+     "statement": "Fix one place, resolve ~45 finding(s) on 15 page(s)."
+    },
+    "affected_pages": [
+     "https://www.nsf.gov/honorary-awards/pecase/recipients/guosong-hong",
+     "https://www.nsf.gov/events/nsf-integrated-data-systems-services-nsf-idss-program/2025-09-19",
+     "https://www.nsf.gov/funding/opportunities/lscbr-living-stock-collections-biological-research/9189/nsf06-574",
+     "https://www.nsf.gov/funding/opportunities/mrsec-materials-research-science-engineering-centers/nsf16-545",
+     "https://www.nsf.gov/nsb/updates/new-members-appointed-national-science-board",
+     "https://www.nsf.gov/honorary-awards/pecase/recipients/julia-grigsby",
+     "https://www.nsf.gov/news/chemists-synthesize-novel-neuroactive-compound-found",
+     "https://www.nsf.gov/tip/updates/nsf-seeks-input-inform-next-generation-advanced-networking",
+     "https://www.nsf.gov/funding/opportunities/dcl-beyond-genome-ios-funding-opportunities-fy-2012-2013/nsf12-093",
+     "https://www.nsf.gov/funding/opportunities/itr-information-technology-research-national-priorities/5524/nsf04-012",
+     "https://www.nsf.gov/reports/topical/bringing-people-focus-how-social-behavioral-economic",
+     "https://www.nsf.gov/reports/performance/fy-2009-agency-financial-report/nsf10-001",
+     "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/isadore-m-singer",
+     "https://www.nsf.gov/news/mapping-methane-emissions-rivers-around-globe-reveals",
+     "https://www.nsf.gov/events/epscor-live-epscor-research-incubators-stem-excellence-e/2025-04-10"
+    ]
+   },
+   {
+    "id": "cc-b1ae0b7fee46",
+    "engine_key": "alfa",
+    "rule_id": "sia-r66",
+    "severity": "Serious",
+    "rule_pages_affected": 15,
+    "pages_affected": 15,
+    "instances": 15,
+    "selector_path": "text: \"feedback\"",
+    "snippet_shape": "",
+    "representative_selector": "text: \"Feedback\"",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "template",
+    "distinct_components_for_rule": 1,
+    "action_score": 45,
+    "estimated_fix_impact": {
+     "findings": 15,
+     "pages": 15,
+     "statement": "Fix one place, resolve ~15 finding(s) on 15 page(s)."
+    },
+    "affected_pages": [
+     "https://www.nsf.gov/honorary-awards/pecase/recipients/guosong-hong",
+     "https://www.nsf.gov/events/nsf-integrated-data-systems-services-nsf-idss-program/2025-09-19",
+     "https://www.nsf.gov/funding/opportunities/lscbr-living-stock-collections-biological-research/9189/nsf06-574",
+     "https://www.nsf.gov/funding/opportunities/mrsec-materials-research-science-engineering-centers/nsf16-545",
+     "https://www.nsf.gov/nsb/updates/new-members-appointed-national-science-board",
+     "https://www.nsf.gov/honorary-awards/pecase/recipients/julia-grigsby",
+     "https://www.nsf.gov/news/chemists-synthesize-novel-neuroactive-compound-found",
+     "https://www.nsf.gov/tip/updates/nsf-seeks-input-inform-next-generation-advanced-networking",
+     "https://www.nsf.gov/funding/opportunities/dcl-beyond-genome-ios-funding-opportunities-fy-2012-2013/nsf12-093",
+     "https://www.nsf.gov/funding/opportunities/itr-information-technology-research-national-priorities/5524/nsf04-012",
+     "https://www.nsf.gov/reports/topical/bringing-people-focus-how-social-behavioral-economic",
+     "https://www.nsf.gov/reports/performance/fy-2009-agency-financial-report/nsf10-001",
+     "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/isadore-m-singer",
+     "https://www.nsf.gov/news/mapping-methane-emissions-rivers-around-globe-reveals",
+     "https://www.nsf.gov/events/epscor-live-epscor-research-incubators-stem-excellence-e/2025-04-10"
+    ]
+   },
+   {
+    "id": "cc-4c38762acbda",
+    "engine_key": "axe-core",
+    "rule_id": "region",
+    "severity": "Serious",
+    "rule_pages_affected": 25,
+    "pages_affected": 25,
+    "instances": 25,
+    "selector_path": ".usa-footer__return-to-top",
+    "snippet_shape": "div:",
+    "representative_selector": ".usa-footer__return-to-top",
+    "representative_snippet": "<div class=\"usa-footer__return-to-top\" data-once=\"tpFeedbackRttWrapper\">\n  <div class=\"usa-footer__return-to-top--inner\" data-once=\"tpFeedbackRtt\">\n    <a class=\"usa-button usa-button--secondary usa-b",
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "template",
+    "distinct_components_for_rule": 3,
+    "action_score": 30,
+    "estimated_fix_impact": {
+     "findings": 25,
+     "pages": 25,
+     "statement": "Fix one place, resolve ~25 finding(s) on 25 page(s)."
+    },
+    "affected_pages": [
+     "https://www.nsf.gov/honorary-awards/pecase/recipients/guosong-hong",
+     "https://www.nsf.gov/news/impact-us-beef-network-water-resources",
+     "https://www.nsf.gov/events/nsf-integrated-data-systems-services-nsf-idss-program/2025-09-19",
+     "https://www.nsf.gov/funding/opportunities/lscbr-living-stock-collections-biological-research/9189/nsf06-574",
+     "https://www.nsf.gov/events/partnerships-innovation-webinar-series",
+     "https://www.nsf.gov/news/nsf-director-participates-white-house-asian-american-native",
+     "https://www.nsf.gov/funding/opportunities/mrsec-materials-research-science-engineering-centers/nsf16-545",
+     "https://www.nsf.gov/funding/opportunities/dcl-high-school-student-research-assistantships-mps-high-funding/nsf22-041",
+     "https://www.nsf.gov/nsb/updates/business-funding-university-research-grew-faster-federal",
+     "https://www.nsf.gov/nsb/updates/new-members-appointed-national-science-board",
+     "https://www.nsf.gov/honorary-awards/pecase/recipients/julia-grigsby",
+     "https://www.nsf.gov/news/chemists-synthesize-novel-neuroactive-compound-found",
+     "https://www.nsf.gov/tip/updates/nsf-seeks-input-inform-next-generation-advanced-networking",
+     "https://www.nsf.gov/funding/opportunities/s-stem-net-scholarships-stem-network/505889",
+     "https://www.nsf.gov/funding/opportunities/dcl-beyond-genome-ios-funding-opportunities-fy-2012-2013/nsf12-093",
+     "https://www.nsf.gov/honorary-awards/pecase/recipients/david-c-noone",
+     "https://www.nsf.gov/funding/opportunities/itr-information-technology-research-national-priorities/5524/nsf04-012",
+     "https://www.nsf.gov/reports/topical/bringing-people-focus-how-social-behavioral-economic",
+     "https://www.nsf.gov/funding/opportunities/earthcube/504780/nsf16-514/solicitation",
+     "https://www.nsf.gov/events/leaps-mps-webinar",
+     "https://www.nsf.gov/reports/performance/fy-2009-agency-financial-report/nsf10-001",
+     "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/isadore-m-singer",
+     "https://www.nsf.gov/funding/opportunities/rdcs-restricted-access-research-data-centers/505144/nsf15-586/solicitation",
+     "https://www.nsf.gov/news/mapping-methane-emissions-rivers-around-globe-reveals",
+     "https://www.nsf.gov/events/epscor-live-epscor-research-incubators-stem-excellence-e/2025-04-10"
+    ]
+   },
+   {
+    "id": "cc-18591ddde1e0",
+    "engine_key": "axe-core",
+    "rule_id": "region",
+    "severity": "Serious",
+    "rule_pages_affected": 25,
+    "pages_affected": 15,
+    "instances": 15,
+    "selector_path": ".block-nsf-custom",
+    "snippet_shape": "div:href",
+    "representative_selector": ".block-nsf-custom",
+    "representative_snippet": "<div class=\"block block-nsf-custom block-nsf-print-block nsf-component\">\n  \n  \n  <div class=\"print\">\n  <a href=\"javascript:window.print()\" class=\"print__link\">Print<span class=\"visually-hidden\"> this ",
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "template",
+    "distinct_components_for_rule": 3,
+    "action_score": 18,
+    "estimated_fix_impact": {
+     "findings": 15,
+     "pages": 15,
+     "statement": "Fix one place, resolve ~15 finding(s) on 15 page(s)."
+    },
+    "affected_pages": [
+     "https://www.nsf.gov/news/impact-us-beef-network-water-resources",
+     "https://www.nsf.gov/funding/opportunities/lscbr-living-stock-collections-biological-research/9189/nsf06-574",
+     "https://www.nsf.gov/news/nsf-director-participates-white-house-asian-american-native",
+     "https://www.nsf.gov/funding/opportunities/mrsec-materials-research-science-engineering-centers/nsf16-545",
+     "https://www.nsf.gov/funding/opportunities/dcl-high-school-student-research-assistantships-mps-high-funding/nsf22-041",
+     "https://www.nsf.gov/nsb/updates/business-funding-university-research-grew-faster-federal",
+     "https://www.nsf.gov/nsb/updates/new-members-appointed-national-science-board",
+     "https://www.nsf.gov/news/chemists-synthesize-novel-neuroactive-compound-found",
+     "https://www.nsf.gov/tip/updates/nsf-seeks-input-inform-next-generation-advanced-networking",
+     "https://www.nsf.gov/funding/opportunities/s-stem-net-scholarships-stem-network/505889",
+     "https://www.nsf.gov/funding/opportunities/dcl-beyond-genome-ios-funding-opportunities-fy-2012-2013/nsf12-093",
+     "https://www.nsf.gov/funding/opportunities/itr-information-technology-research-national-priorities/5524/nsf04-012",
+     "https://www.nsf.gov/reports/topical/bringing-people-focus-how-social-behavioral-economic",
+     "https://www.nsf.gov/reports/performance/fy-2009-agency-financial-report/nsf10-001",
+     "https://www.nsf.gov/news/mapping-methane-emissions-rivers-around-globe-reveals"
+    ]
+   },
+   {
+    "id": "cc-cffcfd807590",
+    "engine_key": "alfa",
+    "rule_id": "sia-r61",
+    "severity": "Moderate",
+    "rule_pages_affected": 4,
+    "pages_affected": 4,
+    "instances": 4,
+    "selector_path": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicid\":null,\"sys",
+    "snippet_shape": "",
+    "representative_selector": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "unknown",
+    "distinct_components_for_rule": 1,
+    "action_score": 8,
+    "estimated_fix_impact": {
+     "findings": 4,
+     "pages": 4,
+     "statement": "Fix one place, resolve ~4 finding(s) on 4 page(s)."
+    },
+    "affected_pages": [
+     "https://www.nsf.gov/news/chemists-synthesize-novel-neuroactive-compound-found",
+     "https://www.nsf.gov/funding/opportunities/dcl-beyond-genome-ios-funding-opportunities-fy-2012-2013/nsf12-093",
+     "https://www.nsf.gov/reports/performance/fy-2009-agency-financial-report/nsf10-001",
+     "https://www.nsf.gov/news/mapping-methane-emissions-rivers-around-globe-reveals"
+    ]
+   },
+   {
+    "id": "cc-929d23e37e61",
+    "engine_key": "alfa",
+    "rule_id": "sia-r57",
+    "severity": "Serious",
+    "rule_pages_affected": 15,
+    "pages_affected": 10,
+    "instances": 10,
+    "selector_path": "text: \"print\"",
+    "snippet_shape": "",
+    "representative_selector": "text: \"Print\"",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "template",
+    "distinct_components_for_rule": 7,
+    "action_score": 4.29,
+    "estimated_fix_impact": {
+     "findings": 10,
+     "pages": 10,
+     "statement": "Fix one place, resolve ~10 finding(s) on 10 page(s)."
+    },
+    "affected_pages": [
+     "https://www.nsf.gov/funding/opportunities/lscbr-living-stock-collections-biological-research/9189/nsf06-574",
+     "https://www.nsf.gov/funding/opportunities/mrsec-materials-research-science-engineering-centers/nsf16-545",
+     "https://www.nsf.gov/nsb/updates/new-members-appointed-national-science-board",
+     "https://www.nsf.gov/news/chemists-synthesize-novel-neuroactive-compound-found",
+     "https://www.nsf.gov/tip/updates/nsf-seeks-input-inform-next-generation-advanced-networking",
+     "https://www.nsf.gov/funding/opportunities/dcl-beyond-genome-ios-funding-opportunities-fy-2012-2013/nsf12-093",
+     "https://www.nsf.gov/funding/opportunities/itr-information-technology-research-national-priorities/5524/nsf04-012",
+     "https://www.nsf.gov/reports/topical/bringing-people-focus-how-social-behavioral-economic",
+     "https://www.nsf.gov/reports/performance/fy-2009-agency-financial-report/nsf10-001",
+     "https://www.nsf.gov/news/mapping-methane-emissions-rivers-around-globe-reveals"
+    ]
+   },
+   {
+    "id": "cc-9491a0826b2a",
+    "engine_key": "alfa",
+    "rule_id": "sia-r57",
+    "severity": "Serious",
+    "rule_pages_affected": 15,
+    "pages_affected": 10,
+    "instances": 10,
+    "selector_path": "text: \" this page\"",
+    "snippet_shape": "",
+    "representative_selector": "text: \" this Page\"",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "template",
+    "distinct_components_for_rule": 7,
+    "action_score": 4.29,
+    "estimated_fix_impact": {
+     "findings": 10,
+     "pages": 10,
+     "statement": "Fix one place, resolve ~10 finding(s) on 10 page(s)."
+    },
+    "affected_pages": [
+     "https://www.nsf.gov/funding/opportunities/lscbr-living-stock-collections-biological-research/9189/nsf06-574",
+     "https://www.nsf.gov/funding/opportunities/mrsec-materials-research-science-engineering-centers/nsf16-545",
+     "https://www.nsf.gov/nsb/updates/new-members-appointed-national-science-board",
+     "https://www.nsf.gov/news/chemists-synthesize-novel-neuroactive-compound-found",
+     "https://www.nsf.gov/tip/updates/nsf-seeks-input-inform-next-generation-advanced-networking",
+     "https://www.nsf.gov/funding/opportunities/dcl-beyond-genome-ios-funding-opportunities-fy-2012-2013/nsf12-093",
+     "https://www.nsf.gov/funding/opportunities/itr-information-technology-research-national-priorities/5524/nsf04-012",
+     "https://www.nsf.gov/reports/topical/bringing-people-focus-how-social-behavioral-economic",
+     "https://www.nsf.gov/reports/performance/fy-2009-agency-financial-report/nsf10-001",
+     "https://www.nsf.gov/news/mapping-methane-emissions-rivers-around-globe-reveals"
+    ]
+   },
+   {
+    "id": "cc-572ef064e705",
+    "engine_key": "alfa",
+    "rule_id": "sia-r57",
+    "severity": "Serious",
+    "rule_pages_affected": 15,
+    "pages_affected": 8,
+    "instances": 8,
+    "selector_path": "text: \"top\"",
+    "snippet_shape": "",
+    "representative_selector": "text: \"Top\"",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "unknown",
+    "distinct_components_for_rule": 7,
+    "action_score": 3.43,
+    "estimated_fix_impact": {
+     "findings": 8,
+     "pages": 8,
+     "statement": "Fix one place, resolve ~8 finding(s) on 8 page(s)."
+    },
+    "affected_pages": [
+     "https://www.nsf.gov/honorary-awards/pecase/recipients/guosong-hong",
+     "https://www.nsf.gov/events/nsf-integrated-data-systems-services-nsf-idss-program/2025-09-19",
+     "https://www.nsf.gov/nsb/updates/new-members-appointed-national-science-board",
+     "https://www.nsf.gov/honorary-awards/pecase/recipients/julia-grigsby",
+     "https://www.nsf.gov/tip/updates/nsf-seeks-input-inform-next-generation-advanced-networking",
+     "https://www.nsf.gov/reports/topical/bringing-people-focus-how-social-behavioral-economic",
+     "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/isadore-m-singer",
+     "https://www.nsf.gov/events/epscor-live-epscor-research-incubators-stem-excellence-e/2025-04-10"
+    ]
+   },
+   {
+    "id": "cc-2586836cf983",
+    "engine_key": "axe-core",
+    "rule_id": "heading-order",
+    "severity": "Moderate",
+    "rule_pages_affected": 6,
+    "pages_affected": 4,
+    "instances": 4,
+    "selector_path": ".award-winner-search-result__name",
+    "snippet_shape": "h3:",
+    "representative_selector": ".award-winner-search-result__name",
+    "representative_snippet": "<h3 class=\"award-winner-search-result__name\">\n\n\n                    <div class=\"field field-pa-first-name\">Guosong</div>\n            \n          \n\n\n                    <div class=\"field field-pa-last-n",
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "unknown",
+    "distinct_components_for_rule": 3,
+    "action_score": 3.2,
+    "estimated_fix_impact": {
+     "findings": 4,
+     "pages": 4,
+     "statement": "Fix one place, resolve ~4 finding(s) on 4 page(s)."
+    },
+    "affected_pages": [
+     "https://www.nsf.gov/honorary-awards/pecase/recipients/guosong-hong",
+     "https://www.nsf.gov/honorary-awards/pecase/recipients/julia-grigsby",
+     "https://www.nsf.gov/honorary-awards/pecase/recipients/david-c-noone",
+     "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/isadore-m-singer"
+    ]
+   },
+   {
+    "id": "cc-9a06500dc290",
+    "engine_key": "alfa",
+    "rule_id": "sia-r53",
+    "severity": "Moderate",
+    "rule_pages_affected": 4,
+    "pages_affected": 3,
+    "instances": 3,
+    "selector_path": "<h3 class=\"award-winner-search-result__name\">",
+    "snippet_shape": "",
+    "representative_selector": "<h3 class=\"award-winner-search-result__name\">",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "unknown",
+    "distinct_components_for_rule": 2,
+    "action_score": 3,
+    "estimated_fix_impact": {
+     "findings": 3,
+     "pages": 3,
+     "statement": "Fix one place, resolve ~3 finding(s) on 3 page(s)."
+    },
+    "affected_pages": [
+     "https://www.nsf.gov/honorary-awards/pecase/recipients/guosong-hong",
+     "https://www.nsf.gov/honorary-awards/pecase/recipients/julia-grigsby",
+     "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/isadore-m-singer"
+    ]
+   },
+   {
+    "id": "cc-9604bf97d38e",
+    "engine_key": "axe-core",
+    "rule_id": "region",
+    "severity": "Serious",
+    "rule_pages_affected": 25,
+    "pages_affected": 2,
+    "instances": 2,
+    "selector_path": ".block-nsf-print-block",
+    "snippet_shape": "div:href",
+    "representative_selector": ".block-nsf-print-block",
+    "representative_snippet": "<div class=\"block block-nsf-custom block-nsf-print-block nsf-component\">\n  \n  \n  <div class=\"print\">\n  <a href=\"javascript:window.print()\" class=\"print__link\">Print<span class=\"visually-hidden\"> this ",
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 3,
+    "action_score": 2.4,
+    "estimated_fix_impact": {
+     "findings": 2,
+     "pages": 2,
+     "statement": "Fix one place, resolve ~2 finding(s) on 2 page(s)."
+    },
+    "affected_pages": [
+     "https://www.nsf.gov/funding/opportunities/earthcube/504780/nsf16-514/solicitation",
+     "https://www.nsf.gov/funding/opportunities/rdcs-restricted-access-research-data-centers/505144/nsf15-586/solicitation"
+    ]
+   },
+   {
+    "id": "cc-b72ad4466715",
+    "engine_key": "alfa",
+    "rule_id": "sia-r78",
+    "severity": "Moderate",
+    "rule_pages_affected": 1,
+    "pages_affected": 1,
+    "instances": 1,
+    "selector_path": "<h2>",
+    "snippet_shape": "",
+    "representative_selector": "<h2>",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 1,
+    "action_score": 2,
+    "estimated_fix_impact": {
+     "findings": 1,
+     "pages": 1,
+     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+    },
+    "affected_pages": [
+     "https://www.nsf.gov/funding/opportunities/mrsec-materials-research-science-engineering-centers/nsf16-545"
+    ]
+   },
+   {
+    "id": "cc-528c5cec2484",
+    "engine_key": "alfa",
+    "rule_id": "sia-r113",
+    "severity": "Moderate",
+    "rule_pages_affected": 1,
+    "pages_affected": 1,
+    "instances": 1,
+    "selector_path": "<a class=\"nsf--phone tel\" href=\"tel:(#)#-#\" data-extlink=\"\">",
+    "snippet_shape": "",
+    "representative_selector": "<a class=\"nsf--phone tel\" href=\"tel:(703)292-5111\" data-extlink=\"\">",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 1,
+    "action_score": 2,
+    "estimated_fix_impact": {
+     "findings": 1,
+     "pages": 1,
+     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+    },
+    "affected_pages": [
+     "https://www.nsf.gov/news/chemists-synthesize-novel-neuroactive-compound-found"
+    ]
+   },
+   {
+    "id": "cc-5b1742be1b9e",
+    "engine_key": "axe-core",
+    "rule_id": "list",
+    "severity": "Serious",
+    "rule_pages_affected": 1,
+    "pages_affected": 1,
+    "instances": 2,
+    "selector_path": "ol:nth-child(*)",
+    "snippet_shape": "ol:",
+    "representative_selector": "ol:nth-child(70)",
+    "representative_snippet": "<ol>",
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 2,
+    "action_score": 1.8,
+    "estimated_fix_impact": {
+     "findings": 2,
+     "pages": 1,
+     "statement": "Fix one place, resolve ~2 finding(s) on 1 page(s)."
+    },
+    "affected_pages": [
+     "https://www.nsf.gov/funding/opportunities/earthcube/504780/nsf16-514/solicitation"
+    ]
+   },
+   {
+    "id": "cc-a4e0ebfccecf",
+    "engine_key": "axe-core",
+    "rule_id": "list",
+    "severity": "Serious",
+    "rule_pages_affected": 1,
+    "pages_affected": 1,
+    "instances": 1,
+    "selector_path": "ul:nth-child(*)",
+    "snippet_shape": "ul:",
+    "representative_selector": "ul:nth-child(52)",
+    "representative_snippet": "<ul>",
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 2,
+    "action_score": 1.8,
+    "estimated_fix_impact": {
+     "findings": 1,
+     "pages": 1,
+     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+    },
+    "affected_pages": [
+     "https://www.nsf.gov/funding/opportunities/earthcube/504780/nsf16-514/solicitation"
+    ]
+   },
+   {
+    "id": "cc-568652235f32",
+    "engine_key": "alfa",
+    "rule_id": "sia-r57",
+    "severity": "Serious",
+    "rule_pages_affected": 15,
+    "pages_affected": 3,
+    "instances": 3,
+    "selector_path": "text: \"archived funding opportunity\"",
+    "snippet_shape": "",
+    "representative_selector": "text: \"Archived funding opportunity\"",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "unknown",
+    "distinct_components_for_rule": 7,
+    "action_score": 1.29,
+    "estimated_fix_impact": {
+     "findings": 3,
+     "pages": 3,
+     "statement": "Fix one place, resolve ~3 finding(s) on 3 page(s)."
+    },
+    "affected_pages": [
+     "https://www.nsf.gov/funding/opportunities/lscbr-living-stock-collections-biological-research/9189/nsf06-574",
+     "https://www.nsf.gov/funding/opportunities/mrsec-materials-research-science-engineering-centers/nsf16-545",
+     "https://www.nsf.gov/funding/opportunities/itr-information-technology-research-national-priorities/5524/nsf04-012"
+    ]
+   },
+   {
+    "id": "cc-3848587e4da0",
+    "engine_key": "alfa",
+    "rule_id": "sia-r53",
+    "severity": "Moderate",
+    "rule_pages_affected": 4,
+    "pages_affected": 1,
+    "instances": 1,
+    "selector_path": "<h4>",
+    "snippet_shape": "",
+    "representative_selector": "<h4>",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 2,
+    "action_score": 1,
+    "estimated_fix_impact": {
+     "findings": 1,
+     "pages": 1,
+     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+    },
+    "affected_pages": [
+     "https://www.nsf.gov/nsb/updates/new-members-appointed-national-science-board"
+    ]
+   },
+   {
+    "id": "cc-77d62681d6c8",
+    "engine_key": "alfa",
+    "rule_id": "sia-r57",
+    "severity": "Serious",
+    "rule_pages_affected": 15,
+    "pages_affected": 2,
+    "instances": 2,
+    "selector_path": "text: \" archived content \"",
+    "snippet_shape": "",
+    "representative_selector": "text: \"\n  Archived content\n\"",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 7,
+    "action_score": 0.86,
+    "estimated_fix_impact": {
+     "findings": 2,
+     "pages": 2,
+     "statement": "Fix one place, resolve ~2 finding(s) on 2 page(s)."
+    },
+    "affected_pages": [
+     "https://www.nsf.gov/news/chemists-synthesize-novel-neuroactive-compound-found",
+     "https://www.nsf.gov/news/mapping-methane-emissions-rivers-around-globe-reveals"
+    ]
+   },
+   {
+    "id": "cc-e26aa592e5be",
+    "engine_key": "axe-core",
+    "rule_id": "heading-order",
+    "severity": "Moderate",
+    "rule_pages_affected": 6,
+    "pages_affected": 1,
+    "instances": 1,
+    "selector_path": ".field-announcement-body > h3",
+    "snippet_shape": "h3:",
+    "representative_selector": ".field-announcement-body > h3",
+    "representative_snippet": "<h3>Highlights from the report:</h3>",
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 3,
+    "action_score": 0.8,
+    "estimated_fix_impact": {
+     "findings": 1,
+     "pages": 1,
+     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+    },
+    "affected_pages": [
+     "https://www.nsf.gov/nsb/updates/business-funding-university-research-grew-faster-federal"
+    ]
+   },
+   {
+    "id": "cc-0789f141efcf",
+    "engine_key": "axe-core",
+    "rule_id": "heading-order",
+    "severity": "Moderate",
+    "rule_pages_affected": 6,
+    "pages_affected": 1,
+    "instances": 1,
+    "selector_path": "h4",
+    "snippet_shape": "h4:",
+    "representative_selector": "h4",
+    "representative_snippet": "<h4>About the National Science Board</h4>",
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 3,
+    "action_score": 0.8,
+    "estimated_fix_impact": {
+     "findings": 1,
+     "pages": 1,
+     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+    },
+    "affected_pages": [
+     "https://www.nsf.gov/nsb/updates/new-members-appointed-national-science-board"
+    ]
+   },
+   {
+    "id": "cc-ed73ba20638e",
+    "engine_key": "alfa",
+    "rule_id": "sia-r57",
+    "severity": "Serious",
+    "rule_pages_affected": 15,
+    "pages_affected": 1,
+    "instances": 1,
+    "selector_path": "text: \"toggle entire alert text\"",
+    "snippet_shape": "",
+    "representative_selector": "text: \"Toggle entire alert text\"",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 7,
+    "action_score": 0.43,
+    "estimated_fix_impact": {
+     "findings": 1,
+     "pages": 1,
+     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+    },
+    "affected_pages": [
+     "https://www.nsf.gov/funding/opportunities/dcl-beyond-genome-ios-funding-opportunities-fy-2012-2013/nsf12-093"
+    ]
+   },
+   {
+    "id": "cc-38ad9c01ddbd",
+    "engine_key": "alfa",
+    "rule_id": "sia-r57",
+    "severity": "Serious",
+    "rule_pages_affected": 15,
+    "pages_affected": 1,
+    "instances": 1,
+    "selector_path": "text: \"archived document\"",
+    "snippet_shape": "",
+    "representative_selector": "text: \"Archived document\"",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 7,
+    "action_score": 0.43,
+    "estimated_fix_impact": {
+     "findings": 1,
+     "pages": 1,
+     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+    },
+    "affected_pages": [
+     "https://www.nsf.gov/reports/performance/fy-2009-agency-financial-report/nsf10-001"
+    ]
+   }
+  ],
+  "top_actions": [
+   {
+    "id": "cc-93d23f8c11f6",
+    "engine_key": "alfa",
+    "rule_id": "sia-r73",
+    "severity": "Serious",
+    "rule_pages_affected": 15,
+    "pages_affected": 15,
+    "instances": 45,
+    "selector_path": "<p>",
+    "snippet_shape": "",
+    "representative_selector": "<p>",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "template",
+    "distinct_components_for_rule": 1,
+    "action_score": 45,
+    "estimated_fix_impact": {
+     "findings": 45,
+     "pages": 15,
+     "statement": "Fix one place, resolve ~45 finding(s) on 15 page(s)."
+    },
+    "affected_pages": [
+     "https://www.nsf.gov/honorary-awards/pecase/recipients/guosong-hong",
+     "https://www.nsf.gov/events/nsf-integrated-data-systems-services-nsf-idss-program/2025-09-19",
+     "https://www.nsf.gov/funding/opportunities/lscbr-living-stock-collections-biological-research/9189/nsf06-574",
+     "https://www.nsf.gov/funding/opportunities/mrsec-materials-research-science-engineering-centers/nsf16-545",
+     "https://www.nsf.gov/nsb/updates/new-members-appointed-national-science-board",
+     "https://www.nsf.gov/honorary-awards/pecase/recipients/julia-grigsby",
+     "https://www.nsf.gov/news/chemists-synthesize-novel-neuroactive-compound-found",
+     "https://www.nsf.gov/tip/updates/nsf-seeks-input-inform-next-generation-advanced-networking",
+     "https://www.nsf.gov/funding/opportunities/dcl-beyond-genome-ios-funding-opportunities-fy-2012-2013/nsf12-093",
+     "https://www.nsf.gov/funding/opportunities/itr-information-technology-research-national-priorities/5524/nsf04-012",
+     "https://www.nsf.gov/reports/topical/bringing-people-focus-how-social-behavioral-economic",
+     "https://www.nsf.gov/reports/performance/fy-2009-agency-financial-report/nsf10-001",
+     "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/isadore-m-singer",
+     "https://www.nsf.gov/news/mapping-methane-emissions-rivers-around-globe-reveals",
+     "https://www.nsf.gov/events/epscor-live-epscor-research-incubators-stem-excellence-e/2025-04-10"
+    ]
+   },
+   {
+    "id": "cc-1450bfc88bbf",
+    "engine_key": "alfa",
+    "rule_id": "sia-r111",
+    "severity": "Serious",
+    "rule_pages_affected": 15,
+    "pages_affected": 15,
+    "instances": 45,
+    "selector_path": "<button type=\"button\" class=\"usa-accordion__button usa-nav__link \" aria-expanded=\"false\" aria-controls=\"basic-mega-nav-section-#\">",
+    "snippet_shape": "",
+    "representative_selector": "<button type=\"button\" class=\"usa-accordion__button usa-nav__link \" aria-expanded=\"false\" aria-controls=\"basic-mega-nav-section-1\">",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "template",
+    "distinct_components_for_rule": 1,
+    "action_score": 45,
+    "estimated_fix_impact": {
+     "findings": 45,
+     "pages": 15,
+     "statement": "Fix one place, resolve ~45 finding(s) on 15 page(s)."
+    },
+    "affected_pages": [
+     "https://www.nsf.gov/honorary-awards/pecase/recipients/guosong-hong",
+     "https://www.nsf.gov/events/nsf-integrated-data-systems-services-nsf-idss-program/2025-09-19",
+     "https://www.nsf.gov/funding/opportunities/lscbr-living-stock-collections-biological-research/9189/nsf06-574",
+     "https://www.nsf.gov/funding/opportunities/mrsec-materials-research-science-engineering-centers/nsf16-545",
+     "https://www.nsf.gov/nsb/updates/new-members-appointed-national-science-board",
+     "https://www.nsf.gov/honorary-awards/pecase/recipients/julia-grigsby",
+     "https://www.nsf.gov/news/chemists-synthesize-novel-neuroactive-compound-found",
+     "https://www.nsf.gov/tip/updates/nsf-seeks-input-inform-next-generation-advanced-networking",
+     "https://www.nsf.gov/funding/opportunities/dcl-beyond-genome-ios-funding-opportunities-fy-2012-2013/nsf12-093",
+     "https://www.nsf.gov/funding/opportunities/itr-information-technology-research-national-priorities/5524/nsf04-012",
+     "https://www.nsf.gov/reports/topical/bringing-people-focus-how-social-behavioral-economic",
+     "https://www.nsf.gov/reports/performance/fy-2009-agency-financial-report/nsf10-001",
+     "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/isadore-m-singer",
+     "https://www.nsf.gov/news/mapping-methane-emissions-rivers-around-globe-reveals",
+     "https://www.nsf.gov/events/epscor-live-epscor-research-incubators-stem-excellence-e/2025-04-10"
+    ]
+   },
+   {
+    "id": "cc-b1ae0b7fee46",
+    "engine_key": "alfa",
+    "rule_id": "sia-r66",
+    "severity": "Serious",
+    "rule_pages_affected": 15,
+    "pages_affected": 15,
+    "instances": 15,
+    "selector_path": "text: \"feedback\"",
+    "snippet_shape": "",
+    "representative_selector": "text: \"Feedback\"",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "template",
+    "distinct_components_for_rule": 1,
+    "action_score": 45,
+    "estimated_fix_impact": {
+     "findings": 15,
+     "pages": 15,
+     "statement": "Fix one place, resolve ~15 finding(s) on 15 page(s)."
+    },
+    "affected_pages": [
+     "https://www.nsf.gov/honorary-awards/pecase/recipients/guosong-hong",
+     "https://www.nsf.gov/events/nsf-integrated-data-systems-services-nsf-idss-program/2025-09-19",
+     "https://www.nsf.gov/funding/opportunities/lscbr-living-stock-collections-biological-research/9189/nsf06-574",
+     "https://www.nsf.gov/funding/opportunities/mrsec-materials-research-science-engineering-centers/nsf16-545",
+     "https://www.nsf.gov/nsb/updates/new-members-appointed-national-science-board",
+     "https://www.nsf.gov/honorary-awards/pecase/recipients/julia-grigsby",
+     "https://www.nsf.gov/news/chemists-synthesize-novel-neuroactive-compound-found",
+     "https://www.nsf.gov/tip/updates/nsf-seeks-input-inform-next-generation-advanced-networking",
+     "https://www.nsf.gov/funding/opportunities/dcl-beyond-genome-ios-funding-opportunities-fy-2012-2013/nsf12-093",
+     "https://www.nsf.gov/funding/opportunities/itr-information-technology-research-national-priorities/5524/nsf04-012",
+     "https://www.nsf.gov/reports/topical/bringing-people-focus-how-social-behavioral-economic",
+     "https://www.nsf.gov/reports/performance/fy-2009-agency-financial-report/nsf10-001",
+     "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/isadore-m-singer",
+     "https://www.nsf.gov/news/mapping-methane-emissions-rivers-around-globe-reveals",
+     "https://www.nsf.gov/events/epscor-live-epscor-research-incubators-stem-excellence-e/2025-04-10"
+    ]
+   },
+   {
+    "id": "cc-4c38762acbda",
+    "engine_key": "axe-core",
+    "rule_id": "region",
+    "severity": "Serious",
+    "rule_pages_affected": 25,
+    "pages_affected": 25,
+    "instances": 25,
+    "selector_path": ".usa-footer__return-to-top",
+    "snippet_shape": "div:",
+    "representative_selector": ".usa-footer__return-to-top",
+    "representative_snippet": "<div class=\"usa-footer__return-to-top\" data-once=\"tpFeedbackRttWrapper\">\n  <div class=\"usa-footer__return-to-top--inner\" data-once=\"tpFeedbackRtt\">\n    <a class=\"usa-button usa-button--secondary usa-b",
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "template",
+    "distinct_components_for_rule": 3,
+    "action_score": 30,
+    "estimated_fix_impact": {
+     "findings": 25,
+     "pages": 25,
+     "statement": "Fix one place, resolve ~25 finding(s) on 25 page(s)."
+    },
+    "affected_pages": [
+     "https://www.nsf.gov/honorary-awards/pecase/recipients/guosong-hong",
+     "https://www.nsf.gov/news/impact-us-beef-network-water-resources",
+     "https://www.nsf.gov/events/nsf-integrated-data-systems-services-nsf-idss-program/2025-09-19",
+     "https://www.nsf.gov/funding/opportunities/lscbr-living-stock-collections-biological-research/9189/nsf06-574",
+     "https://www.nsf.gov/events/partnerships-innovation-webinar-series",
+     "https://www.nsf.gov/news/nsf-director-participates-white-house-asian-american-native",
+     "https://www.nsf.gov/funding/opportunities/mrsec-materials-research-science-engineering-centers/nsf16-545",
+     "https://www.nsf.gov/funding/opportunities/dcl-high-school-student-research-assistantships-mps-high-funding/nsf22-041",
+     "https://www.nsf.gov/nsb/updates/business-funding-university-research-grew-faster-federal",
+     "https://www.nsf.gov/nsb/updates/new-members-appointed-national-science-board",
+     "https://www.nsf.gov/honorary-awards/pecase/recipients/julia-grigsby",
+     "https://www.nsf.gov/news/chemists-synthesize-novel-neuroactive-compound-found",
+     "https://www.nsf.gov/tip/updates/nsf-seeks-input-inform-next-generation-advanced-networking",
+     "https://www.nsf.gov/funding/opportunities/s-stem-net-scholarships-stem-network/505889",
+     "https://www.nsf.gov/funding/opportunities/dcl-beyond-genome-ios-funding-opportunities-fy-2012-2013/nsf12-093",
+     "https://www.nsf.gov/honorary-awards/pecase/recipients/david-c-noone",
+     "https://www.nsf.gov/funding/opportunities/itr-information-technology-research-national-priorities/5524/nsf04-012",
+     "https://www.nsf.gov/reports/topical/bringing-people-focus-how-social-behavioral-economic",
+     "https://www.nsf.gov/funding/opportunities/earthcube/504780/nsf16-514/solicitation",
+     "https://www.nsf.gov/events/leaps-mps-webinar",
+     "https://www.nsf.gov/reports/performance/fy-2009-agency-financial-report/nsf10-001",
+     "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/isadore-m-singer",
+     "https://www.nsf.gov/funding/opportunities/rdcs-restricted-access-research-data-centers/505144/nsf15-586/solicitation",
+     "https://www.nsf.gov/news/mapping-methane-emissions-rivers-around-globe-reveals",
+     "https://www.nsf.gov/events/epscor-live-epscor-research-incubators-stem-excellence-e/2025-04-10"
+    ]
+   },
+   {
+    "id": "cc-18591ddde1e0",
+    "engine_key": "axe-core",
+    "rule_id": "region",
+    "severity": "Serious",
+    "rule_pages_affected": 25,
+    "pages_affected": 15,
+    "instances": 15,
+    "selector_path": ".block-nsf-custom",
+    "snippet_shape": "div:href",
+    "representative_selector": ".block-nsf-custom",
+    "representative_snippet": "<div class=\"block block-nsf-custom block-nsf-print-block nsf-component\">\n  \n  \n  <div class=\"print\">\n  <a href=\"javascript:window.print()\" class=\"print__link\">Print<span class=\"visually-hidden\"> this ",
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "template",
+    "distinct_components_for_rule": 3,
+    "action_score": 18,
+    "estimated_fix_impact": {
+     "findings": 15,
+     "pages": 15,
+     "statement": "Fix one place, resolve ~15 finding(s) on 15 page(s)."
+    },
+    "affected_pages": [
+     "https://www.nsf.gov/news/impact-us-beef-network-water-resources",
+     "https://www.nsf.gov/funding/opportunities/lscbr-living-stock-collections-biological-research/9189/nsf06-574",
+     "https://www.nsf.gov/news/nsf-director-participates-white-house-asian-american-native",
+     "https://www.nsf.gov/funding/opportunities/mrsec-materials-research-science-engineering-centers/nsf16-545",
+     "https://www.nsf.gov/funding/opportunities/dcl-high-school-student-research-assistantships-mps-high-funding/nsf22-041",
+     "https://www.nsf.gov/nsb/updates/business-funding-university-research-grew-faster-federal",
+     "https://www.nsf.gov/nsb/updates/new-members-appointed-national-science-board",
+     "https://www.nsf.gov/news/chemists-synthesize-novel-neuroactive-compound-found",
+     "https://www.nsf.gov/tip/updates/nsf-seeks-input-inform-next-generation-advanced-networking",
+     "https://www.nsf.gov/funding/opportunities/s-stem-net-scholarships-stem-network/505889",
+     "https://www.nsf.gov/funding/opportunities/dcl-beyond-genome-ios-funding-opportunities-fy-2012-2013/nsf12-093",
+     "https://www.nsf.gov/funding/opportunities/itr-information-technology-research-national-priorities/5524/nsf04-012",
+     "https://www.nsf.gov/reports/topical/bringing-people-focus-how-social-behavioral-economic",
+     "https://www.nsf.gov/reports/performance/fy-2009-agency-financial-report/nsf10-001",
+     "https://www.nsf.gov/news/mapping-methane-emissions-rivers-around-globe-reveals"
+    ]
+   },
+   {
+    "id": "cc-cffcfd807590",
+    "engine_key": "alfa",
+    "rule_id": "sia-r61",
+    "severity": "Moderate",
+    "rule_pages_affected": 4,
+    "pages_affected": 4,
+    "instances": 4,
+    "selector_path": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicid\":null,\"sys",
+    "snippet_shape": "",
+    "representative_selector": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "unknown",
+    "distinct_components_for_rule": 1,
+    "action_score": 8,
+    "estimated_fix_impact": {
+     "findings": 4,
+     "pages": 4,
+     "statement": "Fix one place, resolve ~4 finding(s) on 4 page(s)."
+    },
+    "affected_pages": [
+     "https://www.nsf.gov/news/chemists-synthesize-novel-neuroactive-compound-found",
+     "https://www.nsf.gov/funding/opportunities/dcl-beyond-genome-ios-funding-opportunities-fy-2012-2013/nsf12-093",
+     "https://www.nsf.gov/reports/performance/fy-2009-agency-financial-report/nsf10-001",
+     "https://www.nsf.gov/news/mapping-methane-emissions-rivers-around-globe-reveals"
+    ]
+   },
+   {
+    "id": "cc-929d23e37e61",
+    "engine_key": "alfa",
+    "rule_id": "sia-r57",
+    "severity": "Serious",
+    "rule_pages_affected": 15,
+    "pages_affected": 10,
+    "instances": 10,
+    "selector_path": "text: \"print\"",
+    "snippet_shape": "",
+    "representative_selector": "text: \"Print\"",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "template",
+    "distinct_components_for_rule": 7,
+    "action_score": 4.29,
+    "estimated_fix_impact": {
+     "findings": 10,
+     "pages": 10,
+     "statement": "Fix one place, resolve ~10 finding(s) on 10 page(s)."
+    },
+    "affected_pages": [
+     "https://www.nsf.gov/funding/opportunities/lscbr-living-stock-collections-biological-research/9189/nsf06-574",
+     "https://www.nsf.gov/funding/opportunities/mrsec-materials-research-science-engineering-centers/nsf16-545",
+     "https://www.nsf.gov/nsb/updates/new-members-appointed-national-science-board",
+     "https://www.nsf.gov/news/chemists-synthesize-novel-neuroactive-compound-found",
+     "https://www.nsf.gov/tip/updates/nsf-seeks-input-inform-next-generation-advanced-networking",
+     "https://www.nsf.gov/funding/opportunities/dcl-beyond-genome-ios-funding-opportunities-fy-2012-2013/nsf12-093",
+     "https://www.nsf.gov/funding/opportunities/itr-information-technology-research-national-priorities/5524/nsf04-012",
+     "https://www.nsf.gov/reports/topical/bringing-people-focus-how-social-behavioral-economic",
+     "https://www.nsf.gov/reports/performance/fy-2009-agency-financial-report/nsf10-001",
+     "https://www.nsf.gov/news/mapping-methane-emissions-rivers-around-globe-reveals"
+    ]
+   },
+   {
+    "id": "cc-9491a0826b2a",
+    "engine_key": "alfa",
+    "rule_id": "sia-r57",
+    "severity": "Serious",
+    "rule_pages_affected": 15,
+    "pages_affected": 10,
+    "instances": 10,
+    "selector_path": "text: \" this page\"",
+    "snippet_shape": "",
+    "representative_selector": "text: \" this Page\"",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "template",
+    "distinct_components_for_rule": 7,
+    "action_score": 4.29,
+    "estimated_fix_impact": {
+     "findings": 10,
+     "pages": 10,
+     "statement": "Fix one place, resolve ~10 finding(s) on 10 page(s)."
+    },
+    "affected_pages": [
+     "https://www.nsf.gov/funding/opportunities/lscbr-living-stock-collections-biological-research/9189/nsf06-574",
+     "https://www.nsf.gov/funding/opportunities/mrsec-materials-research-science-engineering-centers/nsf16-545",
+     "https://www.nsf.gov/nsb/updates/new-members-appointed-national-science-board",
+     "https://www.nsf.gov/news/chemists-synthesize-novel-neuroactive-compound-found",
+     "https://www.nsf.gov/tip/updates/nsf-seeks-input-inform-next-generation-advanced-networking",
+     "https://www.nsf.gov/funding/opportunities/dcl-beyond-genome-ios-funding-opportunities-fy-2012-2013/nsf12-093",
+     "https://www.nsf.gov/funding/opportunities/itr-information-technology-research-national-priorities/5524/nsf04-012",
+     "https://www.nsf.gov/reports/topical/bringing-people-focus-how-social-behavioral-economic",
+     "https://www.nsf.gov/reports/performance/fy-2009-agency-financial-report/nsf10-001",
+     "https://www.nsf.gov/news/mapping-methane-emissions-rivers-around-globe-reveals"
+    ]
+   },
+   {
+    "id": "cc-572ef064e705",
+    "engine_key": "alfa",
+    "rule_id": "sia-r57",
+    "severity": "Serious",
+    "rule_pages_affected": 15,
+    "pages_affected": 8,
+    "instances": 8,
+    "selector_path": "text: \"top\"",
+    "snippet_shape": "",
+    "representative_selector": "text: \"Top\"",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "unknown",
+    "distinct_components_for_rule": 7,
+    "action_score": 3.43,
+    "estimated_fix_impact": {
+     "findings": 8,
+     "pages": 8,
+     "statement": "Fix one place, resolve ~8 finding(s) on 8 page(s)."
+    },
+    "affected_pages": [
+     "https://www.nsf.gov/honorary-awards/pecase/recipients/guosong-hong",
+     "https://www.nsf.gov/events/nsf-integrated-data-systems-services-nsf-idss-program/2025-09-19",
+     "https://www.nsf.gov/nsb/updates/new-members-appointed-national-science-board",
+     "https://www.nsf.gov/honorary-awards/pecase/recipients/julia-grigsby",
+     "https://www.nsf.gov/tip/updates/nsf-seeks-input-inform-next-generation-advanced-networking",
+     "https://www.nsf.gov/reports/topical/bringing-people-focus-how-social-behavioral-economic",
+     "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/isadore-m-singer",
+     "https://www.nsf.gov/events/epscor-live-epscor-research-incubators-stem-excellence-e/2025-04-10"
+    ]
+   },
+   {
+    "id": "cc-2586836cf983",
+    "engine_key": "axe-core",
+    "rule_id": "heading-order",
+    "severity": "Moderate",
+    "rule_pages_affected": 6,
+    "pages_affected": 4,
+    "instances": 4,
+    "selector_path": ".award-winner-search-result__name",
+    "snippet_shape": "h3:",
+    "representative_selector": ".award-winner-search-result__name",
+    "representative_snippet": "<h3 class=\"award-winner-search-result__name\">\n\n\n                    <div class=\"field field-pa-first-name\">Guosong</div>\n            \n          \n\n\n                    <div class=\"field field-pa-last-n",
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "unknown",
+    "distinct_components_for_rule": 3,
+    "action_score": 3.2,
+    "estimated_fix_impact": {
+     "findings": 4,
+     "pages": 4,
+     "statement": "Fix one place, resolve ~4 finding(s) on 4 page(s)."
+    },
+    "affected_pages": [
+     "https://www.nsf.gov/honorary-awards/pecase/recipients/guosong-hong",
+     "https://www.nsf.gov/honorary-awards/pecase/recipients/julia-grigsby",
+     "https://www.nsf.gov/honorary-awards/pecase/recipients/david-c-noone",
+     "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/isadore-m-singer"
+    ]
+   }
+  ],
+  "design_component_usage": [],
+  "page_component_usage": [],
+  "drift_page_count": 0,
+  "drift_pages": [],
+  "drift_clusters": []
+ },
+ "pagesAttempted": 25,
+ "pagesSucceeded": 25
+}
