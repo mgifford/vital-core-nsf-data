@@ -1,0 +1,183 @@
+{
+ "runId": "2026-10-25T08-30-56-221Z-7ad69b",
+ "week": "2026-W43",
+ "domain": "www.nsf.gov",
+ "startedAt": "2026-10-25T08:30:56.626Z",
+ "scanned": [
+  "67924e7a28486cf8",
+  "732bdea9b236ddb3",
+  "079c9936c170cced",
+  "4e803f4b38e82e15",
+  "ee5cb4059a19a615",
+  "175ccbf0e9258e97",
+  "eaef641304cfffde",
+  "1b5bf6e689ab9f88",
+  "870d61f9fac19921",
+  "3a30bb0af5576a02",
+  "b1f06d9fd4d56c05",
+  "3cb0bebfc224a494",
+  "3bcbd8c3abbd19ac",
+  "7d22c77135da2d38",
+  "94c429934df8fb7b",
+  "f8bd27d961fc1d79",
+  "18425d3af78d7a50",
+  "183abb68edb62218",
+  "590fbbef9b5e7d79",
+  "420393323131e4c3",
+  "64c73851eaa397d0",
+  "b8c29666cc2529ff",
+  "0c2eb432778338d2",
+  "fc064bf811779c12",
+  "841d5be0a1a05746"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 230,
+  "checked": 230,
+  "brokenCount": 12,
+  "broken": [
+   {
+    "url": "https://www.nsf.gov/pubs/2022/nsf22527/nsf22527.htm",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/s-stem-net-scholarships-stem-network/505889"
+    ]
+   },
+   {
+    "url": "https://www.fastlane.nsf.gov/a1/newstan.htm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/rdcs-restricted-access-research-data-centers/505144/nsf15-586/solicitation",
+     "https://www.nsf.gov/funding/opportunities/earthcube/504780/nsf16-514/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf18045&org=NSF",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/rdcs-restricted-access-research-data-centers/505144/nsf15-586/solicitation",
+     "https://www.nsf.gov/funding/opportunities/earthcube/504780/nsf16-514/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/policies/SOR_PA_NSF-50_Principal_Investigator_Proposal_File.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/rdcs-restricted-access-research-data-centers/505144/nsf15-586/solicitation",
+     "https://www.nsf.gov/funding/opportunities/earthcube/504780/nsf16-514/solicitation"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_sbmbd-I8TYGYnjlNyzX22g",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/nsf-integrated-data-systems-services-nsf-idss-program/2025-09-19"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/events/nsf-integrated-data-systems-services-nsf-idss-program/funding/opportunities/idss-integrated-data-systems-services/nsf25-544/solicitation",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/nsf-integrated-data-systems-services-nsf-idss-program/2025-09-19"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_e1lYYrLGS3CC4FeLgxAZ5w",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/leaps-mps-webinar"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/geo/acgeo/geovision/geo_strategic_plans_2012.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/earthcube/504780/nsf16-514/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/geo/earthcube/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/earthcube/504780/nsf16-514/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/geo/acgeo/geovision/nsf_acgeo_dynamic-earth-2015-20.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/earthcube/504780/nsf16-514/solicitation"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJIsfuusqDMqG7p_ttST2BvDeS-U8sh99F4",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/partnerships-innovation-webinar-series"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_unzzd4mWScmCughakbkBXw?utm_medium=email&utm_source=govdelivery",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/epscor-live-epscor-research-incubators-stem-excellence-e/2025-04-10"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 25,
+  "resources": 25,
+  "images": 25,
+  "security": 1,
+  "link-check": 25,
+  "alfa": 15,
+  "plain-language": 14,
+  "third-party": 3,
+  "standards": 13,
+  "sustainability": 6,
+  "public-interest": 4,
+  "deprecated-html": 2,
+  "lighthouse": 1,
+  "tech": 1
+ },
+ "tally": {
+  "ok": 25,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-25T08:34:48.365Z"
+}
