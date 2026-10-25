@@ -1,0 +1,88 @@
+{
+ "runId": "2026-10-25T08-43-26-918Z-8dbe4a",
+ "week": "2026-W43",
+ "domain": "ncses.nsf.gov",
+ "startedAt": "2026-10-25T08:43:27.353Z",
+ "scanned": [
+  "9395bb784177ae35",
+  "5c96b165fb41a447",
+  "1c90f7dcd21f00fc",
+  "4bcd6bbc731da90d",
+  "c433ba1b7ce806b4",
+  "a1e9bda107bc6047",
+  "d84de7b5c9931676",
+  "41e6b6b0c8d6bd8d",
+  "a8ba0b40d9f2019d",
+  "cb371229b3d70a8f",
+  "567a5c122d2a8976",
+  "491295a6f6b69a00",
+  "f1854d4eb7fe0ddf",
+  "44c82efab862e5c3",
+  "e5da6d13e30c3748",
+  "899ac1f58eb6af60",
+  "a4dbeddaa1174174",
+  "1339e3efc33bd2fe",
+  "2cff469e972b7ff4",
+  "1aa7c4c0d623fc7c",
+  "6855d44c842ce430",
+  "37a69c6ba1780200",
+  "aac2e1d63474cdb5",
+  "e7b85073904099a2"
+ ],
+ "errors": [
+  {
+   "pageId": "8a7ee26360cbbd46",
+   "url": "http://ncses.nsf.gov/surveys/earned-doctorates",
+   "error": "Error: page.goto: net::ERR_CONNECTION_RESET at http://ncses.nsf.gov/surveys/earned-doctorates\nCall log:\n  - navigating to \"http://ncses.nsf.gov/surveys/earned-doctorates\", waiting until \"load\"\n"
+  }
+ ],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 2416,
+  "checked": 500,
+  "brokenCount": 0,
+  "broken": []
+ },
+ "enginesRun": {
+  "axe": 24,
+  "alfa": 11,
+  "resources": 24,
+  "images": 24,
+  "standards": 18,
+  "link-check": 24,
+  "sustainability": 2,
+  "third-party": 4,
+  "plain-language": 12,
+  "tech": 3,
+  "public-interest": 3,
+  "lighthouse": 3,
+  "deprecated-html": 1,
+  "security": 1
+ },
+ "tally": {
+  "ok": 24,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 1
+ },
+ "finishedAt": "2026-10-25T08:48:26.525Z"
+}
