@@ -1,0 +1,102 @@
+{
+ "runId": "2026-10-25T09-01-53-331Z-1c0321",
+ "week": "2026-W43",
+ "domain": "ncses.nsf.gov",
+ "startedAt": "2026-10-25T09:01:53.746Z",
+ "scanned": [
+  "5b434f493a036d1f",
+  "936eeab75879a2dc",
+  "f266c4eed04f6f46",
+  "41bf9c7a40de6d8d",
+  "f899c41f38ec5ac0",
+  "4c4fbe48fa6498d6",
+  "4c0a9752b6180ef4",
+  "b0f4c47ac322d0d5",
+  "dd7004c6f70d4f99",
+  "3a9b34bb080e8f1b",
+  "a1d9dc1ece9a5119",
+  "0ef79d08db6cad5f",
+  "0b41b170aa0f5394",
+  "4acc7d20348e57ac",
+  "5826bced294f5bf9",
+  "bb0f76423eb62368",
+  "22cbd907b1447fcb",
+  "208a3ec639d82e0c",
+  "d2a1eaa774108677",
+  "34fcec3181088367",
+  "f61a8f90ef14332b",
+  "05992af05c9e7dd1",
+  "cd871d9bc308809f",
+  "fc771c60d473b1b8",
+  "ae0d0500aaefc338"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 3001,
+  "checked": 500,
+  "brokenCount": 2,
+  "broken": [
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25320",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsf25320/figure/1"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/sed/",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsf25349/table/1-3",
+     "https://ncses.nsf.gov/pubs/nsf24336/table/B-2",
+     "https://ncses.nsf.gov/pubs/nsf24336/table/7-6"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 25,
+  "alfa": 14,
+  "plain-language": 15,
+  "resources": 25,
+  "images": 25,
+  "standards": 13,
+  "link-check": 25,
+  "public-interest": 3,
+  "tech": 3,
+  "lighthouse": 5,
+  "sustainability": 2,
+  "security": 3,
+  "third-party": 8,
+  "deprecated-html": 2
+ },
+ "tally": {
+  "ok": 25,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-25T09:11:05.184Z"
+}
