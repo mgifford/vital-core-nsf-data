@@ -1,0 +1,140 @@
+{
+ "runId": "2026-10-25T08-49-45-516Z-c6c721",
+ "week": "2026-W43",
+ "domain": "www.nsf.gov",
+ "startedAt": "2026-10-25T08:49:47.126Z",
+ "scanned": [
+  "36d0a0b973b104fe",
+  "2c8590f5c6a590f7",
+  "417d9a66929d7b3c",
+  "94890f5fb57e5dfa",
+  "ab588dedfdab02af",
+  "614f88a23346d852",
+  "d80b3922517bccf8",
+  "63d64fe4c9ccf1fe",
+  "4f31bbfdbaf0265c",
+  "a7345bb9761e1639",
+  "8003230635aa334d",
+  "288cc97176d8ffc2",
+  "b403d445925ca218",
+  "71afa719ee5d6310",
+  "ce1b8230dc375e27",
+  "27feebbf433abdd2",
+  "9c63bdfbeba7de0b",
+  "6f072190d974632d",
+  "11a0506891de576c",
+  "545601362cf18c83",
+  "ff311f74131dcdd2",
+  "50013c3a53b30895",
+  "dc8b4c4e88ba31ef",
+  "a7f069e00d6fea6e",
+  "5c37fa567cada226"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 255,
+  "checked": 255,
+  "brokenCount": 7,
+  "broken": [
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_ZMlZsvX1QRubdkvu4CakOw",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/civic-innovation-challenge-webinar/2022-02-25"
+    ]
+   },
+   {
+    "url": "https://oregonstate.zoom.us/webinar/register/WN_RaxdCNHKT_OnhCSpoxQkLQ",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/polar-researchers-elevate-your-broader-impacts-polar-steam/2023-08-22"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf21087",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/robert-noyce-teacher-scholarship-program/5733/updates/94709"
+    ]
+   },
+   {
+    "url": "http://www.whitehouse.gov/sites/default/files/microsites/ostp/materials_genome_initiative-final.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-designing-materials-revolutionize-engineer-our-future-dmref/nsf13-025"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubs/2020/nsf20025/nsf20025.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/nsf-career-program-webinars/2021-05-20"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubs/2020/nsf20525/nsf20525.htm",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/nsf-career-program-webinars/2021-05-20"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/crssprgm/career/CAREERwebinar2021.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/nsf-career-program-webinars/2021-05-20"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 23,
+  "resources": 23,
+  "images": 23,
+  "link-check": 23,
+  "plain-language": 8,
+  "standards": 8,
+  "tech": 3,
+  "third-party": 2,
+  "alfa": 7,
+  "public-interest": 1,
+  "security": 3,
+  "deprecated-html": 2,
+  "lighthouse": 1,
+  "sustainability": 2
+ },
+ "tally": {
+  "ok": 23,
+  "blocked": 2,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-25T08:53:10.790Z"
+}
