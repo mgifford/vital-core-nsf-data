@@ -1,0 +1,220 @@
+{
+ "runId": "2026-10-25T09-12-36-592Z-c4d20b",
+ "week": "2026-W43",
+ "domain": "www.nsf.gov",
+ "startedAt": "2026-10-25T09:12:37.001Z",
+ "scanned": [
+  "0aae92fec4be3b54",
+  "c1ea9efa27904bff",
+  "5fae264041e20c1d",
+  "38e0729a599055aa",
+  "63d1dd3a841a2f31",
+  "6970a7b0fb2d3554",
+  "df7ef50cd82e0685",
+  "84df28c5f7c2cf3e",
+  "b1539bf4d607bd3e",
+  "5da7e9fb7de83ccb",
+  "9feeae0a0adce69d",
+  "736aca77b6d3934c",
+  "c372fdaf1442f0f9",
+  "6bea2cbe561c0e00",
+  "6ef31072a2f03431",
+  "5677e2faa3d3debb",
+  "8d9e7a0955c6c332",
+  "b76d888193420aee",
+  "928225e461fdafa9",
+  "8c55824d06b37d4b",
+  "3b4692fd46e54102",
+  "793a243f6d0aa012",
+  "de0fe5832a7b5669",
+  "72aa05aa443de90c"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 438,
+  "checked": 438,
+  "brokenCount": 17,
+  "broken": [
+   {
+    "url": "https://pages.shanti.virginia.edu/JUTrustNet2016/files/2017/02/JUTrustNetWorkshopMar2016Report.pdf",
+    "status": 0,
+    "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/juno-japan-us-network-opportunity/504949/nsf17-586/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.fastlane.nsf.gov/a1/newstan.htm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/juno-japan-us-network-opportunity/504949/nsf17-586/solicitation",
+     "https://www.nsf.gov/funding/opportunities/nsf-convergence-accelerator-pilot-phase-ii/505777/nsf20-555/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/policies/SOR_PA_NSF-50_Principal_Investigator_Proposal_File.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/juno-japan-us-network-opportunity/504949/nsf17-586/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf14043",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/juno-japan-us-network-opportunity/504949/nsf17-586/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/bio/pubs/awards/2010awards.htm",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/2010-project/5337/nsf09-514/solicitation"
+    ]
+   },
+   {
+    "url": "http://garnet.arabidopsis.org.uk/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/2010-project/5337/nsf09-514/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.uni-tuebingen.de/plantphys/AFGN",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/2010-project/5337/nsf09-514/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.biosci.ohio-state.edu/~plantbio/Facilities/abrc/abrchome.htm",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/2010-project/5337/nsf09-514/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=aag",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/2010-project/5337/nsf09-514/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.fastlane.nsf.gov/a1/newstan.htm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/2010-project/5337/nsf09-514/solicitation"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJItfu2prTopHp0f34StHH-Z2WT9PrrQocs",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/nsf-opportunities-introduction-listening-session"
+    ]
+   },
+   {
+    "url": "https://trumpadministration.archives.performance.gov/CAP/CAP_goals.html",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsf-convergence-accelerator-pilot-phase-ii/505777/nsf20-555/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/od/broadeningparticipation/bp.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsf-convergence-accelerator-pilot-phase-ii/505777/nsf20-555/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/od/broadeningparticipation/BIO_BroadeningParticipation_v4mt_508.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsf-convergence-accelerator-pilot-phase-ii/505777/nsf20-555/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf20076",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsf-convergence-accelerator-pilot-phase-ii/505777/nsf20-555/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf18045",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsf-convergence-accelerator-pilot-phase-ii/505777/nsf20-555/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/ehr/Pubs/CRESTDirectory.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/centers-research-excellence-science-technology-crest-hbcu/6668/updates/94810"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 23,
+  "resources": 23,
+  "images": 23,
+  "link-check": 23,
+  "alfa": 9,
+  "plain-language": 11,
+  "standards": 15,
+  "lighthouse": 3,
+  "deprecated-html": 3,
+  "sustainability": 2,
+  "third-party": 5,
+  "security": 1,
+  "tech": 1,
+  "public-interest": 1
+ },
+ "tally": {
+  "ok": 23,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 1,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-25T09:16:46.241Z"
+}
