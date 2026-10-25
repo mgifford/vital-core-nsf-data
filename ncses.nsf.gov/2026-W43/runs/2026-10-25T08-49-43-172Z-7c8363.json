@@ -1,0 +1,616 @@
+{
+ "runId": "2026-10-25T08-49-43-172Z-7c8363",
+ "week": "2026-W43",
+ "domain": "ncses.nsf.gov",
+ "startedAt": "2026-10-25T08:49:43.656Z",
+ "scanned": [
+  "1499e66ab7d18cef",
+  "b830cdf48af90c20",
+  "6078bc22b314c015",
+  "8a7ee26360cbbd46",
+  "8f68d22548ec8813",
+  "1c55f1ceebcdcf90",
+  "8211094448f74bd1",
+  "f93f3ec5005e1b80",
+  "bc2f7382df4f13a4",
+  "dc7d9e72404ea210",
+  "a311573b382c40ce",
+  "6e73d6ab4d29b0c2",
+  "1b2e14bcd0c3d44e",
+  "cdf58eeebbe0dac9",
+  "9b7ee1d715cdeada",
+  "56fad76b51004927",
+  "b2a71c2019e63812",
+  "6e32c5ac5c2c3d33",
+  "b37ae9c0ef6c56f9",
+  "ca781d49f61a25dd",
+  "5b722ad91a6c1f0d",
+  "b84591829e52ba28",
+  "7f7f04a8b5abb8e6",
+  "71274da60ee93fd7",
+  "4bf56a16e3a80739"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 3263,
+  "checked": 500,
+  "brokenCount": 44,
+  "broken": [
+   {
+    "url": "https://www.whitehouse.gov/wp-content/uploads/2022/02/02-2022-Critical-and-Emerging-Technologies-List-Update.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.ncses.nsf.gov/pubs/nsf25307/section/21137"
+    ]
+   },
+   {
+    "url": "https://www.whitehouse.gov/wp-content/uploads/2022/10/National-Strategy-for-Advanced-Manufacturing-10072022.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.ncses.nsf.gov/pubs/nsf25307/section/21137"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/about",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/early-career-doctorates/2017",
+     "http://ncses.nsf.gov/surveys/earned-doctorates",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/1-4",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/5-2",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/1-2",
+     "http://ncses.nsf.gov/surveys-analysis",
+     "http://ncses.nsf.gov/pubs/nsf25316"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/early-career-doctorates/2017",
+     "http://ncses.nsf.gov/surveys/earned-doctorates",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/1-4",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/5-2",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/1-2",
+     "http://ncses.nsf.gov/surveys-analysis",
+     "http://ncses.nsf.gov/pubs/nsf25316"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/about/quality-transparency",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/early-career-doctorates/2017",
+     "http://ncses.nsf.gov/surveys/earned-doctorates",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/1-4",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/5-2",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/1-2",
+     "http://ncses.nsf.gov/surveys-analysis",
+     "http://ncses.nsf.gov/pubs/nsf25316"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/about/data-governance",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/early-career-doctorates/2017",
+     "http://ncses.nsf.gov/surveys/earned-doctorates",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/1-4",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/5-2",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/1-2",
+     "http://ncses.nsf.gov/surveys-analysis",
+     "http://ncses.nsf.gov/pubs/nsf25316"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/about/research",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/early-career-doctorates/2017",
+     "http://ncses.nsf.gov/surveys/earned-doctorates",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/1-4",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/5-2",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/1-2",
+     "http://ncses.nsf.gov/surveys-analysis",
+     "http://ncses.nsf.gov/pubs/nsf25316"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/about/whats-new",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/early-career-doctorates/2017",
+     "http://ncses.nsf.gov/surveys/earned-doctorates",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/1-4",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/5-2",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/1-2",
+     "http://ncses.nsf.gov/surveys-analysis",
+     "http://ncses.nsf.gov/pubs/nsf25316"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/about/contact",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/early-career-doctorates/2017",
+     "http://ncses.nsf.gov/surveys/earned-doctorates",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/1-4",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/5-2",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/1-2",
+     "http://ncses.nsf.gov/surveys-analysis",
+     "http://ncses.nsf.gov/pubs/nsf25316"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/interest-areas",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/early-career-doctorates/2017",
+     "http://ncses.nsf.gov/surveys/earned-doctorates",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/1-4",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/5-2",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/1-2",
+     "http://ncses.nsf.gov/surveys-analysis",
+     "http://ncses.nsf.gov/pubs/nsf25316"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/interest-areas/innovation-global-competitiveness",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/early-career-doctorates/2017",
+     "http://ncses.nsf.gov/surveys/earned-doctorates",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/1-4",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/5-2",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/1-2",
+     "http://ncses.nsf.gov/surveys-analysis",
+     "http://ncses.nsf.gov/pubs/nsf25316"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/interest-areas/research-development",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/early-career-doctorates/2017",
+     "http://ncses.nsf.gov/surveys/earned-doctorates",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/1-4",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/5-2",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/1-2",
+     "http://ncses.nsf.gov/surveys-analysis",
+     "http://ncses.nsf.gov/pubs/nsf25316"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/interest-areas/science-engineering-workforce",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/early-career-doctorates/2017",
+     "http://ncses.nsf.gov/surveys/earned-doctorates",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/1-4",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/5-2",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/1-2",
+     "http://ncses.nsf.gov/surveys-analysis",
+     "http://ncses.nsf.gov/pubs/nsf25316"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/interest-areas/stem",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/early-career-doctorates/2017",
+     "http://ncses.nsf.gov/surveys/earned-doctorates",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/1-4",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/5-2",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/1-2",
+     "http://ncses.nsf.gov/surveys-analysis",
+     "http://ncses.nsf.gov/pubs/nsf25316"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/surveys-analysis",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/early-career-doctorates/2017",
+     "http://ncses.nsf.gov/surveys/earned-doctorates",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/1-4",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/5-2",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/1-2",
+     "http://ncses.nsf.gov/surveys-analysis",
+     "http://ncses.nsf.gov/pubs/nsf25316"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/surveys",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/early-career-doctorates/2017",
+     "http://ncses.nsf.gov/surveys/earned-doctorates",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/1-4",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/5-2",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/1-2",
+     "http://ncses.nsf.gov/surveys-analysis",
+     "http://ncses.nsf.gov/pubs/nsf25316"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/schedule-of-release-dates",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/early-career-doctorates/2017",
+     "http://ncses.nsf.gov/surveys/earned-doctorates",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/1-4",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/5-2",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/1-2",
+     "http://ncses.nsf.gov/surveys-analysis",
+     "http://ncses.nsf.gov/pubs/nsf25316"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/search?query=&excludePubAssets=true&pageSize=40&sort=date",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/early-career-doctorates/2017",
+     "http://ncses.nsf.gov/surveys/earned-doctorates",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/1-4",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/5-2",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/1-2",
+     "http://ncses.nsf.gov/surveys-analysis",
+     "http://ncses.nsf.gov/pubs/nsf25316"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/explore-data",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/early-career-doctorates/2017",
+     "http://ncses.nsf.gov/surveys/earned-doctorates",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/1-4",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/5-2",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/1-2",
+     "http://ncses.nsf.gov/surveys-analysis",
+     "http://ncses.nsf.gov/pubs/nsf25316"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/corrections",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/early-career-doctorates/2017",
+     "http://ncses.nsf.gov/surveys/earned-doctorates",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/1-4",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/5-2",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/1-2",
+     "http://ncses.nsf.gov/surveys-analysis",
+     "http://ncses.nsf.gov/pubs/nsf25316"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/explore-data/microdata",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/early-career-doctorates/2017",
+     "http://ncses.nsf.gov/surveys/earned-doctorates",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/1-4",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/5-2",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/1-2",
+     "http://ncses.nsf.gov/surveys-analysis",
+     "http://ncses.nsf.gov/pubs/nsf25316"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/licensing",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/early-career-doctorates/2017",
+     "http://ncses.nsf.gov/surveys/earned-doctorates",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/1-4",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/5-2",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/1-2",
+     "http://ncses.nsf.gov/surveys-analysis",
+     "http://ncses.nsf.gov/pubs/nsf25316"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/initiatives",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/early-career-doctorates/2017",
+     "http://ncses.nsf.gov/surveys/earned-doctorates",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/1-4",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/5-2",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/1-2",
+     "http://ncses.nsf.gov/surveys-analysis",
+     "http://ncses.nsf.gov/pubs/nsf25316"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/funding-opportunities",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/early-career-doctorates/2017",
+     "http://ncses.nsf.gov/surveys/earned-doctorates",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/1-4",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/5-2",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/1-2",
+     "http://ncses.nsf.gov/surveys-analysis",
+     "http://ncses.nsf.gov/pubs/nsf25316"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/initiatives/cybersecurity-workforce-data-initiative",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/early-career-doctorates/2017",
+     "http://ncses.nsf.gov/surveys/earned-doctorates",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/1-4",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/5-2",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/1-2",
+     "http://ncses.nsf.gov/surveys-analysis",
+     "http://ncses.nsf.gov/pubs/nsf25316"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/initiatives/national-secure-data-service-demo",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/early-career-doctorates/2017",
+     "http://ncses.nsf.gov/surveys/earned-doctorates",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/1-4",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/5-2",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/1-2",
+     "http://ncses.nsf.gov/surveys-analysis",
+     "http://ncses.nsf.gov/pubs/nsf25316"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/initiatives/standard-application-process",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/early-career-doctorates/2017",
+     "http://ncses.nsf.gov/surveys/earned-doctorates",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/1-4",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/5-2",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/1-2",
+     "http://ncses.nsf.gov/surveys-analysis",
+     "http://ncses.nsf.gov/pubs/nsf25316"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/resource",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/early-career-doctorates/2017",
+     "http://ncses.nsf.gov/surveys/earned-doctorates",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/1-4",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/5-2",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/1-2",
+     "http://ncses.nsf.gov/surveys-analysis",
+     "http://ncses.nsf.gov/pubs/nsf25316"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/resource/master-gov-lists-ffrdc",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/early-career-doctorates/2017",
+     "http://ncses.nsf.gov/surveys/earned-doctorates",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/1-4",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/5-2",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/1-2",
+     "http://ncses.nsf.gov/surveys-analysis",
+     "http://ncses.nsf.gov/pubs/nsf25316"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/resource/library",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/early-career-doctorates/2017",
+     "http://ncses.nsf.gov/surveys/earned-doctorates",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/1-4",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/5-2",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/1-2",
+     "http://ncses.nsf.gov/surveys-analysis",
+     "http://ncses.nsf.gov/pubs/nsf25316"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/resource/glossary",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/early-career-doctorates/2017",
+     "http://ncses.nsf.gov/surveys/earned-doctorates",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/1-4",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/5-2",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/1-2",
+     "http://ncses.nsf.gov/surveys-analysis",
+     "http://ncses.nsf.gov/pubs/nsf25316"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/resource/faqs",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/early-career-doctorates/2017",
+     "http://ncses.nsf.gov/surveys/earned-doctorates",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/1-4",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/5-2",
+     "http://ncses.nsf.gov/pubs/nsf22331/table/1-2",
+     "http://ncses.nsf.gov/surveys-analysis",
+     "http://ncses.nsf.gov/pubs/nsf25316"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/surveys/early-career-doctorates/2017",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/early-career-doctorates/2017"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf21323/assets/nsf21323.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/early-career-doctorates/2017"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf942688/assets/nsf942688.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/early-career-doctorates/2017"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf21322",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/early-career-doctorates/2017"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf21322/assets/nsf21322.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/early-career-doctorates/2017"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf21322/figure/1",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/early-career-doctorates/2017"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/442/assets/0/file/ncses_workforcestatistics_onepager.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/early-career-doctorates/2017"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf21322/figure/2",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/early-career-doctorates/2017"
+    ]
+   },
+   {
+    "url": "https://ncses.nsf.gov/wmpd/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/early-career-doctorates/2017"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf21323/assets/technical-tables/nsf21323-technical-tables-tables.zip",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/early-career-doctorates/2017"
+    ]
+   },
+   {
+    "url": "https://trumpwhitehouse.archives.gov/wp-content/uploads/2020/10/National-Strategy-for-CET.pdf",
+    "status": 0,
+    "reason": "EAI_AGAIN",
+    "foundOn": [
+     "https://www.ncses.nsf.gov/pubs/nsf25307/section/21137"
+    ]
+   },
+   {
+    "url": "https://trumpwhitehouse.archives.gov/wp-content/uploads/2018/10/Advanced-Manufacturing-Strategic-Plan-2018.pdf",
+    "status": 0,
+    "reason": "EAI_AGAIN",
+    "foundOn": [
+     "https://www.ncses.nsf.gov/pubs/nsf25307/section/21137"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 25,
+  "alfa": 13,
+  "plain-language": 18,
+  "resources": 25,
+  "images": 25,
+  "third-party": 11,
+  "link-check": 25,
+  "public-interest": 1,
+  "standards": 12,
+  "lighthouse": 3,
+  "deprecated-html": 3,
+  "sustainability": 2,
+  "security": 2,
+  "tech": 1
+ },
+ "tally": {
+  "ok": 25,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-25T08:56:04.212Z"
+}
