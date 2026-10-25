@@ -1,0 +1,114 @@
+{
+ "runId": "2026-10-25T09-01-57-364Z-8c17b3",
+ "week": "2026-W43",
+ "domain": "seedfund.nsf.gov",
+ "startedAt": "2026-10-25T09:01:57.893Z",
+ "scanned": [
+  "d1cfc3f142b93db7",
+  "76cf397f588580a6",
+  "8f145eef75ceae8a",
+  "9f6db4a81e8a6029",
+  "37f31e50e185f52b",
+  "5543fdafda653b10",
+  "344a1d1e2b4cbba6",
+  "7a5f0dedb9dc1617",
+  "1b3dd3ed31d02989",
+  "8d8322ad30e19efa",
+  "6da37ce30afcfd88",
+  "98356b6e74285710",
+  "49e290534f3600d9",
+  "72f4857da48a02d0",
+  "b680ced7f79de919",
+  "dec70286e1c8b1c3",
+  "50c707c7d670d9fd",
+  "a3186c0dccab5c88",
+  "7ea545eedda936cf",
+  "ee2d0c72d8dbc830",
+  "345b7b567ee9b1e7",
+  "e9fa4b49b48dc1b1",
+  "ed63d5a5378884d4",
+  "77f90900ae8a0a88",
+  "e3e59a0430252913"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 147,
+  "checked": 147,
+  "brokenCount": 4,
+  "broken": [
+   {
+    "url": "http://www.pcka.com/",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://seedfund.nsf.gov/awardees/history/details?company=pc-krause-and-associates-inc"
+    ]
+   },
+   {
+    "url": "https://nsf.gov/staff/staff_bio.jsp?lan=spanchan&org=EF&from_org=EF",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://seedfund.nsf.gov/press"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/staff/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://seedfund.nsf.gov/press"
+    ]
+   },
+   {
+    "url": "https://seedfund.nsf.gov/centers/focus-area/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://seedfund.nsf.gov/centers/ceps/novel-treatment-process-makes-fertilizer-from-human-waste"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 25,
+  "resources": 25,
+  "images": 25,
+  "standards": 13,
+  "link-check": 25,
+  "plain-language": 15,
+  "third-party": 5,
+  "alfa": 11,
+  "public-interest": 2,
+  "security": 5,
+  "sustainability": 2,
+  "deprecated-html": 4
+ },
+ "tally": {
+  "ok": 25,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-25T09:04:21.048Z"
+}
