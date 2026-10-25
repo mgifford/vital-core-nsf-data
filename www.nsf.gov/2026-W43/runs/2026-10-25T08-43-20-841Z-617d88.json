@@ -1,0 +1,260 @@
+{
+ "runId": "2026-10-25T08-43-20-841Z-617d88",
+ "week": "2026-W43",
+ "domain": "www.nsf.gov",
+ "startedAt": "2026-10-25T08:43:22.261Z",
+ "scanned": [
+  "d23e0b13da70fa28",
+  "b828fdfc8eb25263",
+  "4b9dc7cdbe5e6086",
+  "c84b65b8841fe332",
+  "7088e51c32c43bde",
+  "85c7242af7a6cce2",
+  "9e0bf482d90f7256",
+  "a075c12f1d9ed220",
+  "f835d6c9cac3f6a7",
+  "9041fc4214a236bf",
+  "41e2fc7942aed1be",
+  "25b149f5e29787d8",
+  "4383ef35bf961483",
+  "2aaec0957aba92dc",
+  "c9839aabfccfba06",
+  "5f7c1041f90fbf55",
+  "7f40df936a309cae",
+  "5aa48cfa28d9c69e",
+  "a9e1ea15bcaa74c9",
+  "ba8d07febde85a82",
+  "5353d41b1dc9f698",
+  "dab4fceb22c3ff09",
+  "0ca3b889145497d6",
+  "a48d2b78e0e7a39d",
+  "dacb1902a4386519"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 315,
+  "checked": 315,
+  "brokenCount": 22,
+  "broken": [
+   {
+    "url": "http://www.fastlane.nsf.gov/a1/newstan.htm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sts-science-technology-society/5324/nsf04-531/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubsys/ods/getpub.cfm?iin127",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sts-science-technology-society/5324/nsf04-531/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubsys/ods/getpub.cfm?nsb9772",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sts-science-technology-society/5324/nsf04-531/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/cgi-bin/getpub?gpm",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sts-science-technology-society/5324/nsf04-531/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/home/crssprgm/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sts-science-technology-society/5324/nsf04-531/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/home/grants/grants_gac.htm",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sts-science-technology-society/5324/nsf04-531/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/cgi-bin/getpub?gp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sts-science-technology-society/5324/nsf04-531/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/home/cns/start.htm",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sts-science-technology-society/5324/nsf04-531/solicitation"
+    ]
+   },
+   {
+    "url": "https://public.govdelivery.com/accounts/USNSF/subscriber/new?topic_id=USNSF_418",
+    "status": 502,
+    "reason": "HTTP 502",
+    "foundOn": [
+     "https://www.nsf.gov/events/ethical-responsible-research-program-office-hours/2024-12-04"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/home/ebulletin",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sts-science-technology-society/5324/nsf04-531/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/sbe/ses/sts/start.htm",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sts-science-technology-society/5324/nsf04-531/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/https:/www.nsf.gov/cise/oac/vision/blueprint-2019/Coordination-Services.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/access-aco-advanced-cyberinfrastructure-coordination-ecosystem-services/505867/nsf21-556/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.fastlane.nsf.gov/a1/newstan.htm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/access-aco-advanced-cyberinfrastructure-coordination-ecosystem-services/505867/nsf21-556/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/cise/oac/vision/blueprint-2019/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/access-aco-advanced-cyberinfrastructure-coordination-ecosystem-services/505867/nsf21-556/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/cise/oac/vision/blueprint-2019/Coordination-Services.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/access-aco-advanced-cyberinfrastructure-coordination-ecosystem-services/505867/nsf21-556/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf18045",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/access-aco-advanced-cyberinfrastructure-coordination-ecosystem-services/505867/nsf21-556/solicitation"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_KV4lI3dCQsyp-2D2K1a4mQ",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/dms-virtual-office-hour-1"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/news/special_reports/announcements/092221.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/initiatives/convergence-accelerator/updates/nsf-invests-21-million-tackle-two-complex"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/news/special_reports/announcements/070220.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/mrsec-materials-research-science-engineering-centers/nsf21-625"
+    ]
+   },
+   {
+    "url": "http://www.mrsec.org/centers/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/mrsec-materials-research-science-engineering-centers/nsf21-625"
+    ]
+   },
+   {
+    "url": "http://www.nsf.gov/mps/dmr/awards/dmr_nsec.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/mrsec-materials-research-science-engineering-centers/nsf21-625"
+    ]
+   },
+   {
+    "url": "http://www.nsf.gov/mps/dmr/awards/dmr_mrsec_stc.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/mrsec-materials-research-science-engineering-centers/nsf21-625"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 25,
+  "alfa": 12,
+  "plain-language": 12,
+  "resources": 25,
+  "images": 25,
+  "standards": 13,
+  "security": 3,
+  "tech": 6,
+  "link-check": 25,
+  "public-interest": 1,
+  "third-party": 3,
+  "lighthouse": 1,
+  "deprecated-html": 2,
+  "sustainability": 2
+ },
+ "tally": {
+  "ok": 25,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-25T08:46:55.411Z"
+}
