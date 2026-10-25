@@ -1,0 +1,124 @@
+{
+ "runId": "2026-10-25T08-30-57-730Z-f324e1",
+ "week": "2026-W43",
+ "domain": "seedfund.nsf.gov",
+ "startedAt": "2026-10-25T08:30:58.909Z",
+ "scanned": [
+  "54f9cd34d6025623",
+  "100b00528a640b9e",
+  "782df37f3292542b",
+  "132492c2bdd539b9",
+  "cc4ac7acfb5faa6f",
+  "0cd64e0d11499486",
+  "d832050d3968dca6",
+  "9a0bcc6bce5997fa",
+  "db2f3afe0f9ee667",
+  "dc92f9eeb1e29e1a",
+  "192f6656b75335de",
+  "ff26bb29cb4ca17d",
+  "182d7ce93181e5eb",
+  "ae7bde60c769a9b3",
+  "c1fa5d27fe10fcdd",
+  "d030069783b72ccc",
+  "54cb99d0c2edd52e",
+  "2891b837f0c965c3",
+  "fbc3b0c39240b6f5",
+  "6745a6d9bb1945de",
+  "0c77806eedb7e7c0",
+  "a656769f9cc8f72f",
+  "ddda3c87a7cbcfd8",
+  "df6a568435d8321d",
+  "7e6b9cd0cc2139f1"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 281,
+  "checked": 281,
+  "brokenCount": 5,
+  "broken": [
+   {
+    "url": "https://relavomedical.com/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://seedfund.nsf.gov/news/relavo"
+    ]
+   },
+   {
+    "url": "https://www.sam.gov/SAM/",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://seedfund.nsf.gov/how-to-submit/unique-entity-id"
+    ]
+   },
+   {
+    "url": "http://betahatch.com/",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://seedfund.nsf.gov/showcase"
+    ]
+   },
+   {
+    "url": "https://artaic.com/",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://seedfund.nsf.gov/showcase"
+    ]
+   },
+   {
+    "url": "https://captionhealth.com/",
+    "status": 0,
+    "reason": "ERR_SSL_TLSV1_ALERT_INTERNAL_ERROR",
+    "foundOn": [
+     "https://seedfund.nsf.gov/showcase"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 25,
+  "alfa": 9,
+  "plain-language": 12,
+  "resources": 25,
+  "images": 25,
+  "standards": 12,
+  "security": 2,
+  "link-check": 25,
+  "public-interest": 4,
+  "third-party": 5,
+  "sustainability": 4,
+  "deprecated-html": 1,
+  "lighthouse": 1,
+  "tech": 1
+ },
+ "tally": {
+  "ok": 25,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-25T08:33:49.290Z"
+}
