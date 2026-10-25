@@ -1,0 +1,90 @@
+{
+ "runId": "2026-10-25T09-12-28-235Z-f1acec",
+ "week": "2026-W43",
+ "domain": "ncses.nsf.gov",
+ "startedAt": "2026-10-25T09:12:28.546Z",
+ "scanned": [
+  "69dcab912c7c71ff",
+  "f4e070d076f088aa",
+  "ef335ce7d832dd8a",
+  "d320fd5154ff627b",
+  "a1f99a1a71ff9d81",
+  "997d96c9d60cc5f8",
+  "611c1d0ed1bfa733",
+  "1e3b5d8a2b6b4860",
+  "f7dccaaa7c746346",
+  "323b02f19119eceb",
+  "fdd5fdb92d7ad239",
+  "538b1556b54cc36d",
+  "7cd6566af9321120",
+  "29aebd0960e9065d",
+  "52bbb1a8717fa71e",
+  "492321f2fcbb8ac2",
+  "ec0602af7e01fe47",
+  "f8a47a066339e0c7",
+  "ed4dde215fe72ae3",
+  "b2d8cae5454fb939",
+  "052f41a334282104",
+  "2f75394ad7a0239f",
+  "4e3bbe950bca872c",
+  "07e67d82f69b39de",
+  "1ebc8a89479faafb"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 2930,
+  "checked": 500,
+  "brokenCount": 1,
+  "broken": [
+   {
+    "url": "https://www.science-metrix.com/patent-and-trademark-indicators-for-the-science-and-engineering-indicators-2026-technical-documentation/",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20262/figure/TRN-20"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 25,
+  "plain-language": 13,
+  "resources": 25,
+  "images": 25,
+  "security": 5,
+  "link-check": 25,
+  "standards": 16,
+  "alfa": 13,
+  "third-party": 4,
+  "lighthouse": 1,
+  "sustainability": 1,
+  "public-interest": 1
+ },
+ "tally": {
+  "ok": 25,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-25T09:19:28.769Z"
+}
