@@ -1,0 +1,203 @@
+{
+ "runId": "2026-10-25T09-01-45-657Z-1646b7",
+ "week": "2026-W43",
+ "domain": "www.nsf.gov",
+ "startedAt": "2026-10-25T09:01:46.048Z",
+ "scanned": [
+  "ad5502773c947823",
+  "26f9fdc1736ff696",
+  "645fa3a1f98b1f25",
+  "82637c8192932116",
+  "3b18598bab2f4576",
+  "59dafa7e4b798d08",
+  "52beddc3819c16a8",
+  "f0a8e12253e6d93b",
+  "72693c5bd8da9ff2",
+  "7cca4a104fcdef7f",
+  "b50d74451a4c6c8a",
+  "863d49209475733d",
+  "0dcf260c78418174",
+  "ea9c2e7ef686240b",
+  "19ff1246fe906725",
+  "e1fb7e73fd281e3a",
+  "cc278391b6bba730",
+  "54431aa37e6f7bff",
+  "7cdb8ed691113156",
+  "a725c4fd4963524c",
+  "2544f2beb8637767",
+  "59694c116199ecee",
+  "05e5aea67c926cf3",
+  "f202b018e6161740",
+  "e35ebe77f97ecc63"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 351,
+  "checked": 351,
+  "brokenCount": 15,
+  "broken": [
+   {
+    "url": "http://silurus.acnatsci.org/ACSI/idx_pages/PBI_index.html",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "http://www.nsf.gov/funding/pgm_summ.jsp?from=fund&org=BIO&pims_id=5343"
+    ]
+   },
+   {
+    "url": "http://www.ncep.noaa.gov/vsp/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-joint-nsfnoaa-agreement-regarding-national-centers/nsf13-117"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/geo/ags/ags-noaa-proposal-process.pptx",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-joint-nsfnoaa-agreement-regarding-national-centers/nsf13-117"
+    ]
+   },
+   {
+    "url": "https://urldefense.com/v3/__https:/www.whitehouse.gov/briefing-room/statements-releases/2022/08/09/fact-sheet-chips-and-science-act-will-lower-costs-create-jobs-strengthen-supply-chains-and-counter-china/__;!!FiG2giev53vN!-fnLMX9eWrLtKEmdBtgakQE_aGQyxDPSzae-c9RAExDTIQCimxyT7UJXcH6_29Jsa2-XVmJgHYEH09Mq8w$",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/news/statement-director-sethuraman-panchanathan-release-national"
+    ]
+   },
+   {
+    "url": "https://nam01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fzoom.us%2Ftest&data=02%7C01%7Cys347%40drexel.edu%7C32739783e23142a88a2408d850ee4a6a%7C3664e6fa47bd45a696708c4f080f8ca6%7C0%7C0%7C637348331676876221&sdata=vKE9Cs3DV%2FqdU3Nk5jN%2BajMinIK20WXTNtO%2FaGfw4hU%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://www.nsf.gov/events/office-hour-environmental-convergence-opportunities-cbet/2020-11-23"
+    ]
+   },
+   {
+    "url": "https://nam01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fbeta.nsf.gov%2Fabout%2Fparticipant&data=02%7C01%7Cys347%40drexel.edu%7C32739783e23142a88a2408d850ee4a6a%7C3664e6fa47bd45a696708c4f080f8ca6%7C0%7C0%7C637348331676876221&sdata=M7FFVjswL3lR2XMlThxvPXKsz134trqSP%2FJfQLprTqE%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://www.nsf.gov/events/office-hour-environmental-convergence-opportunities-cbet/2020-11-23"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_hzYDvM28T_iDvqhQDfO7CQ",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/office-hour-environmental-convergence-opportunities-cbet/2020-11-23"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_z_LJWRwRSxiKKCeYmp8-lA",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/verticals-enabling-intelligent-network-systems-vines/2025-06-16"
+    ]
+   },
+   {
+    "url": "https://www.fastlane.nsf.gov/a1/newstan.htm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsf-science-engineering-education-sustainability-fellows/504673/nsf13-595/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/policies/SOR_PA_NSF-50_Principal_Investigator_Proposal_File.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsf-science-engineering-education-sustainability-fellows/504673/nsf13-595/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=aag",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsf-science-engineering-education-sustainability-fellows/504673/nsf13-595/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubs/2014/nsf14043/nsf14043.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsf-science-engineering-education-sustainability-fellows/504673/nsf13-595/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/nsf/ere",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/news/engineer-develops-tool-predict-oxygen-levels-water"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/geo/oce/pubs/nsf-oce-sea-change-reply-may-11-2015.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/information/dcl-towards-new-approach-provision-marine-seismic-capabilities/nsf18-061"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/geo/oce/pubs/Seismic_Workshop%20Report_final_2016.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/information/dcl-towards-new-approach-provision-marine-seismic-capabilities/nsf18-061"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 25,
+  "resources": 25,
+  "images": 25,
+  "standards": 15,
+  "link-check": 25,
+  "alfa": 13,
+  "plain-language": 8,
+  "deprecated-html": 4,
+  "third-party": 7,
+  "public-interest": 1,
+  "lighthouse": 3,
+  "tech": 1,
+  "security": 2
+ },
+ "tally": {
+  "ok": 25,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-25T09:05:36.341Z"
+}
