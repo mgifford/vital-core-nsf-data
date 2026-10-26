@@ -1,0 +1,155 @@
+{
+ "runId": "2026-10-26T14-22-18-143Z-2de47d",
+ "week": "2026-W44",
+ "domain": "www.nsf.gov",
+ "startedAt": "2026-10-26T14:22:18.548Z",
+ "scanned": [
+  "46c19e59098b539a",
+  "f63ca4f434c75df2",
+  "4016494fe4fdc4da",
+  "722d865c46411b4e",
+  "c4ef1287aaee9c99",
+  "3c3094cca81c4c6b",
+  "69970476e6c74cea",
+  "521eb47d67175c7a",
+  "85455b91cd0d8981",
+  "1cfd25dfdfe2bb05",
+  "b953ba739f987a36",
+  "098748a20afa5c56",
+  "354c05207f7bd4c2",
+  "da90054ce94e5160",
+  "df32ccae74c41b3b",
+  "3091c4529535ac6c",
+  "ef81333c42dae2ad",
+  "a281e28d27210398",
+  "5e0fe81e63dd45fb",
+  "e5423af265ac89a6",
+  "b5e2aa7c40b5fda9",
+  "ab792617fbf6cf14",
+  "29b355317e0ae01b",
+  "7f57cc79a267f2f3",
+  "6ef4e155975613dd"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 270,
+  "checked": 270,
+  "brokenCount": 9,
+  "broken": [
+   {
+    "url": "https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.nsf.gov%2Ffunding%2Fopportunities%2Fags-atmospheric-geospace-sciences-program&data=05%7C02%7Cmbershad%40nsf.gov%7Cc3acce3f60b746b883eb08df14d5c475%7C4939bd9435634244904d6e68ffc9b8cf%7C0%7C0%7C639252580560740942%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=bSkbHcrx93igb4WqLJupbK9h8fPE2PbrGau2dicuuAY%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/astro-innovations-astronomical-sciences-innovations"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubs/2023/nsf23550/nsf23550.htm",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/future-manufacturing-webinar-2"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_QsmU5KpcTOOTTUJB8oSHxw",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/webinar-introduction-cfire-initiative/2024-03-26"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/funding/initiatives/regional-innovation-engines/funding-opportunity-deadlines",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/tip/updates/nsf-engines-announces-type-2-award-deadlines"
+    ]
+   },
+   {
+    "url": "https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDIsInVyaSI6ImJwMjpjbGljayIsInVybCI6Imh0dHBzOi8vbnNmLnpvb21nb3YuY29tL3dlYmluYXIvcmVnaXN0ZXIvV05fd0EtYUJCTDRSUHktdGN4SG52NEtxUT91dG1fbWVkaXVtPWVtYWlsJnV0bV9zb3VyY2U9Z292ZGVsaXZlcnkiLCJidWxsZXRpbl9pZCI6IjIwMjQwNDAxLjkyNjg3MTQxIn0.MieyRvA9ALcIz-STQ7GbKI5JzyzH6YOTWtgKfHYnJMo/s/2927620976/br/239922784278-l",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/epscor-live/2024-04-30"
+    ]
+   },
+   {
+    "url": "https://www.fastlane.nsf.gov/a1/newstan.htm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/vec-nsfintel-partnership-visual-experiential-computing/505085/nsf15-518/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubs/2014/nsf14043/nsf14043.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/vec-nsfintel-partnership-visual-experiential-computing/505085/nsf15-518/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=aag",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/vec-nsfintel-partnership-visual-experiential-computing/505085/nsf15-518/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/policies/SOR_PA_NSF-50_Principal_Investigator_Proposal_File.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/vec-nsfintel-partnership-visual-experiential-computing/505085/nsf15-518/solicitation"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 25,
+  "resources": 25,
+  "images": 25,
+  "standards": 13,
+  "third-party": 8,
+  "link-check": 25,
+  "tech": 4,
+  "alfa": 13,
+  "security": 3,
+  "plain-language": 11,
+  "deprecated-html": 4,
+  "sustainability": 1,
+  "lighthouse": 1
+ },
+ "tally": {
+  "ok": 25,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-26T14:26:07.463Z"
+}
