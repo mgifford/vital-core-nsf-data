@@ -1,0 +1,156 @@
+{
+ "runId": "2026-10-26T16-19-54-734Z-3f12f9",
+ "week": "2026-W44",
+ "domain": "iucrc.nsf.gov",
+ "startedAt": "2026-10-26T16:19:55.128Z",
+ "scanned": [
+  "aae5682a223b2c9a",
+  "b27f6c93e53005f3",
+  "3ce256bbb85ff714",
+  "497a931523aca590",
+  "7210766fb55603f2",
+  "6445828a57a60e5f",
+  "9875de95a5dee0fb",
+  "bc62be6ded3adc18",
+  "789090050aa8462a",
+  "1de555a04b0a8378",
+  "fecaa8c89d20c88c",
+  "783090f53a4af8fc",
+  "89aeca6c9b3a7051",
+  "fa11ba5205f573c7",
+  "6fcb309ae5c223d9",
+  "e660082b7b357ab8",
+  "00f75ff96e970346",
+  "ec5a166cec524733",
+  "ecbf06e1359c4235",
+  "ba33937b4efe3f34",
+  "e63795ce73b9b21f",
+  "acbd368e2b7ea93a",
+  "cca2f520c8377229",
+  "fa5a83013d5c48df",
+  "2114299063fcd666"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 247,
+  "checked": 247,
+  "brokenCount": 9,
+  "broken": [
+   {
+    "url": "http://www.clarkson.edu/citer",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-identification-technology-research"
+    ]
+   },
+   {
+    "url": "https://devel.private.id/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-identification-technology-research"
+    ]
+   },
+   {
+    "url": "https://www.eaton.com/",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-infrastructure-trustworthiness-in-energy-systems-cites"
+    ]
+   },
+   {
+    "url": "https://iucrc.nsf.gov/centers/center-for-soil-technologies-soiltech",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/focus-area/energy-and-environment/page/4"
+    ]
+   },
+   {
+    "url": "https://www.usdairy.com/about-us/dmi",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/membrane-engineering-science-and-technology-center"
+    ]
+   },
+   {
+    "url": "https://www.sigmaaldrich.com/US/en?srsltid=AfmBOorxuVrt2gplXvKgtqsNaKj2qbU-M0pvX3CwheKIseugrfy6IVon",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/membrane-engineering-science-and-technology-center"
+    ]
+   },
+   {
+    "url": "https://www.usbr.gov/",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/membrane-engineering-science-and-technology-center"
+    ]
+   },
+   {
+    "url": "https://www.avangrid.com/",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/wind-energy-science-technology-and-research"
+    ]
+   },
+   {
+    "url": "https://www.ge.com/renewableenergy/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/wind-energy-science-technology-and-research"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 22,
+  "alfa": 10,
+  "resources": 22,
+  "images": 22,
+  "link-check": 22,
+  "deprecated-html": 3,
+  "tech": 3,
+  "standards": 11,
+  "third-party": 7,
+  "plain-language": 10,
+  "public-interest": 2,
+  "lighthouse": 2,
+  "sustainability": 1,
+  "security": 1
+ },
+ "tally": {
+  "ok": 22,
+  "blocked": 3,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-26T16:22:56.476Z"
+}
