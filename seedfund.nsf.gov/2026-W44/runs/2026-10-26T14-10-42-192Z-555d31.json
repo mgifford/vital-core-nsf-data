@@ -1,0 +1,100 @@
+{
+ "runId": "2026-10-26T14-10-42-192Z-555d31",
+ "week": "2026-W44",
+ "domain": "seedfund.nsf.gov",
+ "startedAt": "2026-10-26T14:10:42.856Z",
+ "scanned": [
+  "701d3d69c7baebb5",
+  "9571ffc50f45854c",
+  "6b734ff82182bbc2",
+  "364d7c36a6680cd5",
+  "985b92c152353572",
+  "0bb905934e0550fc",
+  "0c8233e4ea47e9b0",
+  "3d58b7ceea66175e",
+  "a3af376e972b4967",
+  "86dfdf3676865f48",
+  "3bf9949228a9e71e",
+  "161ff1caca73a0be",
+  "f5bac0e607c85554",
+  "ed632c157de4cfd0",
+  "ccafd5e1f7798624",
+  "7c26a639b304b775",
+  "61221ab2cfd431d0",
+  "67d2d62965b61fd4",
+  "a8b27da5fdcf5e02",
+  "59205811f021decf",
+  "1437771984d1fffb",
+  "7b9155aad45db12b",
+  "06e2eed3156337d9",
+  "480ed412fcdd1de3",
+  "631ff07d6effd6b6"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 128,
+  "checked": 128,
+  "brokenCount": 2,
+  "broken": [
+   {
+    "url": "http://www.resuture.com/",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://seedfund.nsf.gov/awardees/history/details?company=resuture-inc"
+    ]
+   },
+   {
+    "url": "https://www.sam.gov/SAM/",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://seedfund.nsf.gov/apply/full-proposal"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 25,
+  "resources": 25,
+  "images": 25,
+  "security": 6,
+  "link-check": 25,
+  "plain-language": 12,
+  "alfa": 12,
+  "standards": 11,
+  "public-interest": 2,
+  "third-party": 9,
+  "deprecated-html": 3,
+  "sustainability": 1,
+  "tech": 1,
+  "lighthouse": 1
+ },
+ "tally": {
+  "ok": 25,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-26T14:13:39.573Z"
+}
