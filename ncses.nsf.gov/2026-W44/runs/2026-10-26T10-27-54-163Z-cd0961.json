@@ -1,0 +1,201 @@
+{
+ "runId": "2026-10-26T10-27-54-163Z-cd0961",
+ "week": "2026-W44",
+ "domain": "ncses.nsf.gov",
+ "startedAt": "2026-10-26T10:27:55.795Z",
+ "scanned": [
+  "0238348153a36be4",
+  "fdb3e33dd08f677a",
+  "358089021d98ba8c",
+  "4e58cc23140d26ba",
+  "143b6877f02dd397",
+  "397f5bbc9b37281c",
+  "bff7aea47b68797a",
+  "5ef24c3986673a90",
+  "b1a59127170f048c",
+  "9effe6b695a7c232",
+  "8d2ca66e4f78f0ef",
+  "9bee6077e1f9cc1f",
+  "439bc9f18b685162",
+  "f5e4626dbc2dd933",
+  "992a64dd84271712",
+  "10bd17374db8a1c2",
+  "c82645701eb058ec",
+  "7f91c506f802ed0a",
+  "879c5ddb9f424977",
+  "cca9247b1bdfbe7a",
+  "b9ee1f5f7618e3a9",
+  "88b2f973e613817e",
+  "4045bbf7830315af"
+ ],
+ "errors": [
+  {
+   "pageId": "c9080d1b530dd48e",
+   "url": "http://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=State+Government%2FAgency+R%26D",
+   "error": "Error: page.goto: net::ERR_CONNECTION_RESET at http://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=State+Government%2FAgency+R%26D\nCall log:\n  - navigating to \"http://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=State+Government%2FAgency+R%26"
+  },
+  {
+   "pageId": "4c07d9c623fe7f9e",
+   "url": "http://ncses.nsf.gov/pubs/nsf23300/report",
+   "error": "Error: page.goto: net::ERR_CONNECTION_RESET at http://ncses.nsf.gov/pubs/nsf23300/report\nCall log:\n  - navigating to \"http://ncses.nsf.gov/pubs/nsf23300/report\", waiting until \"load\"\n"
+  }
+ ],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 2765,
+  "checked": 500,
+  "brokenCount": 12,
+  "broken": [
+   {
+    "url": "https://aishe.gov.in/aishe/gotoAisheReports",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20261/international-comparisons-and-global-competitiveness",
+     "https://ncses.nsf.gov/pubs/nsb20261/figure/TAL-32",
+     "https://ncses.nsf.gov/pubs/nsb20261/persistence-and-attrition-in-stem-education-and-training"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/ncses22202/section/11154",
+     "http://ncses.nsf.gov/interest-areas/stem"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/about",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/ncses22202/section/11154",
+     "http://ncses.nsf.gov/interest-areas/stem"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/about/data-governance",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/ncses22202/section/11154",
+     "http://ncses.nsf.gov/interest-areas/stem"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/about/research",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/ncses22202/section/11154",
+     "http://ncses.nsf.gov/interest-areas/stem"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/about/contact",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/ncses22202/section/11154",
+     "http://ncses.nsf.gov/interest-areas/stem"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/about/whats-new",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/ncses22202/section/11154",
+     "http://ncses.nsf.gov/interest-areas/stem"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/about/quality-transparency",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/ncses22202/section/11154",
+     "http://ncses.nsf.gov/interest-areas/stem"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/interest-areas/innovation-global-competitiveness",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/ncses22202/section/11154",
+     "http://ncses.nsf.gov/interest-areas/stem"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/interest-areas/research-development",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/ncses22202/section/11154",
+     "http://ncses.nsf.gov/interest-areas/stem"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/interest-areas/science-engineering-workforce",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/ncses22202/section/11154",
+     "http://ncses.nsf.gov/interest-areas/stem"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/interest-areas",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/ncses22202/section/11154",
+     "http://ncses.nsf.gov/interest-areas/stem"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "sustainability": 3,
+  "axe": 23,
+  "alfa": 11,
+  "resources": 23,
+  "images": 23,
+  "link-check": 23,
+  "standards": 15,
+  "plain-language": 12,
+  "third-party": 7,
+  "lighthouse": 2,
+  "public-interest": 1,
+  "deprecated-html": 1,
+  "tech": 4
+ },
+ "tally": {
+  "ok": 23,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 2
+ },
+ "finishedAt": "2026-10-26T10:33:29.977Z"
+}
