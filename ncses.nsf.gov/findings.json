@@ -1,6 +1,6 @@
 {
  "domain": "ncses.nsf.gov",
- "updatedAt": "2026-10-25T08:43:16.494Z",
+ "updatedAt": "2026-10-26T18:51:38.834Z",
  "findings": {
   "VS-179ad9b3": {
    "engine": "Siteimprove Alfa",
@@ -9,17 +9,23 @@
    "wcag": "2.5.8",
    "severity": "Moderate",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksSeen": 1,
-   "lastPagesAffected": 4,
+   "weeksSeen": 2,
+   "lastPagesAffected": 9,
    "lastAffectedPages": [
-    "https://ncses.nsf.gov/pubs/nsb20226/figure/KTI-29",
-    "https://ncses.nsf.gov/pubs/nsf23300/report/field-of-doctorate",
-    "https://ncses.nsf.gov/pubs/nsf20301/report/education-related-debt",
-    "https://ncses.nsf.gov/pubs/nsf22327"
+    "https://ncses.nsf.gov/pubs/nsb20261/international-comparisons-and-global-competitiveness",
+    "https://ncses.nsf.gov/pubs/nsf25304/section/21274",
+    "https://ncses.nsf.gov/pubs/nsb20262/figure/TRN-33",
+    "http://ncses.nsf.gov/pubs/nsb20262/table/TRN-6",
+    "https://ncses.nsf.gov/pubs/nsb20212/table/LBR-3",
+    "https://ncses.nsf.gov/pubs/nsf26303/section/26246",
+    "https://ncses.nsf.gov/pubs/nsf23342",
+    "https://ncses.nsf.gov/pubs/nsf25355",
+    "http://ncses.nsf.gov/interest-areas/innovation-global-competitiveness"
    ]
   },
   "VS-860306d8": {
@@ -29,32 +35,39 @@
    "wcag": "2.5.3",
    "severity": "Critical",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksSeen": 1,
-   "lastPagesAffected": 19,
+   "weeksSeen": 2,
+   "lastPagesAffected": 141,
    "lastAffectedPages": [
-    "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-45",
-    "http://ncses.nsf.gov/pubs/ncses22202/figure/3",
-    "http://ncses.nsf.gov/pubs/nsf26315/report/data-source",
-    "https://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=Higher+Education+Degrees",
-    "https://ncses.nsf.gov/pubs/nsf25347",
-    "https://ncses.nsf.gov/pubs/nsb20257/table/SDISC-6",
-    "https://ncses.nsf.gov/resource",
-    "https://www.ncses.nsf.gov/licensing",
-    "https://ncses.nsf.gov/pubs/nsb20226/figure/KTI-29",
-    "https://ncses.nsf.gov/pubs/nsf25341/figure/1",
-    "https://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Higher+Education+R%26D",
-    "https://ncses.nsf.gov/pubs/nsf26325",
-    "https://ncses.nsf.gov/pubs/nsf23349",
-    "https://ncses.nsf.gov/pubs/nsf25344",
-    "https://ncses.nsf.gov/pubs/nsb20262/supplemental-tables",
-    "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-78",
-    "https://ncses.nsf.gov/permissions",
-    "https://ncses.nsf.gov/pubs/nsb20257/notes",
-    "https://ncses.nsf.gov/pubs/nsb20226/table/SAKTI-2"
+    "https://ncses.nsf.gov/pubs/ncses26206",
+    "https://ncses.nsf.gov/pubs/nsb20261/international-comparisons-and-global-competitiveness",
+    "https://ncses.nsf.gov/pubs/nsf26313/surveypage/table/16477",
+    "https://ncses.nsf.gov/pubs/nsf25304/section/21274",
+    "https://www.ncses.nsf.gov/about",
+    "https://ncses.nsf.gov/pubs/nsf23351/surveypage/table/9706",
+    "https://www.ncses.nsf.gov/pubs/nsf26313/surveypage/table/16477",
+    "https://ncses.nsf.gov/surveys/state-government-research-development",
+    "https://www.ncses.nsf.gov/search?aois=Research+and+Development+Funding+and+Performance&query=&topics=R%26D+Publications+%26+Articles",
+    "https://ncses.nsf.gov/pubs/nsb20262/figure/TRN-33",
+    "https://ncses.nsf.gov/pubs/nsb20262/figure/TRN-31",
+    "http://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=Postgraduation+Plans",
+    "https://ncses.nsf.gov/pubs/nsf24336/table/1-4",
+    "https://ncses.nsf.gov/archived?url=https%3A%2F%2Fwww.nsf.gov%2Fstatistics%2Fstates%2F",
+    "https://ncses.nsf.gov/pubs/nsb20261/persistence-and-attrition-in-stem-education-and-training",
+    "https://ncses.nsf.gov/pubs/nsb202333/figure/PBS-5",
+    "https://www.ncses.nsf.gov/search?aois=Research+and+Development+Funding+and+Performance&query=&topics=Federal+Government%2FAgency+R%26D",
+    "https://ncses.nsf.gov/pubs/nsf24336/table/5-1",
+    "http://ncses.nsf.gov/accessibility",
+    "http://ncses.nsf.gov/pubs/nsb20262/table/TRN-6",
+    "https://ncses.nsf.gov/pubs/nsf23327",
+    "https://www.ncses.nsf.gov/data-collections/national-patterns/2022-2023",
+    "https://ncses.nsf.gov/pubs/nsb20257/table/DISC-4",
+    "https://ncses.nsf.gov/pubs/nsf26320/surveypage/table/17520",
+    "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-22"
    ]
   },
   "VS-f7dba940": {
@@ -64,21 +77,39 @@
    "wcag": "2.5.3",
    "severity": "Moderate",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksSeen": 1,
-   "lastPagesAffected": 8,
+   "weeksSeen": 2,
+   "lastPagesAffected": 76,
    "lastAffectedPages": [
-    "https://ncses.nsf.gov/pubs/nsf25347",
-    "https://ncses.nsf.gov/pubs/nsb20257/table/SDISC-6",
-    "https://ncses.nsf.gov/resource",
-    "https://ncses.nsf.gov/pubs/nsb20226/figure/KTI-29",
-    "https://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Higher+Education+R%26D",
-    "https://ncses.nsf.gov/pubs/nsf26325",
-    "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-78",
-    "https://ncses.nsf.gov/pubs/nsb20226/table/SAKTI-2"
+    "https://ncses.nsf.gov/pubs/ncses26206",
+    "https://ncses.nsf.gov/pubs/nsb20261/international-comparisons-and-global-competitiveness",
+    "https://ncses.nsf.gov/pubs/nsf25304/section/21274",
+    "https://www.ncses.nsf.gov/pubs/nsf26313/surveypage/table/16477",
+    "https://ncses.nsf.gov/surveys/state-government-research-development",
+    "https://www.ncses.nsf.gov/search?aois=Research+and+Development+Funding+and+Performance&query=&topics=R%26D+Publications+%26+Articles",
+    "https://ncses.nsf.gov/pubs/nsb20262/figure/TRN-33",
+    "http://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=Postgraduation+Plans",
+    "https://ncses.nsf.gov/pubs/nsf24336/table/1-4",
+    "https://ncses.nsf.gov/archived?url=https%3A%2F%2Fwww.nsf.gov%2Fstatistics%2Fstates%2F",
+    "https://ncses.nsf.gov/pubs/nsb20261/persistence-and-attrition-in-stem-education-and-training",
+    "https://www.ncses.nsf.gov/search?aois=Research+and+Development+Funding+and+Performance&query=&topics=Federal+Government%2FAgency+R%26D",
+    "https://ncses.nsf.gov/pubs/nsf24336/table/5-1",
+    "http://ncses.nsf.gov/accessibility",
+    "http://ncses.nsf.gov/pubs/nsb20262/table/TRN-6",
+    "https://ncses.nsf.gov/pubs/nsf23327",
+    "https://ncses.nsf.gov/pubs/nsb20257/table/DISC-4",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Knowledge+and+Technology+Intensive+%28KTI%29+Industries",
+    "https://ncses.nsf.gov/pubs/ncses26205",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Clinical+Trials+and+Medical+Projects",
+    "https://ncses.nsf.gov/pubs/nsb20212/table/LBR-3",
+    "http://ncses.nsf.gov/pubs/ncses22202/section/11154",
+    "https://ncses.nsf.gov/pubs/nsf26303/section/26246",
+    "https://ncses.nsf.gov/pubs/nsb20262/figure/TRN-15",
+    "https://ncses.nsf.gov/pubs/nsb20262/table/STRN-44"
    ]
   },
   "VS-ede1e565": {
@@ -88,26 +119,59 @@
    "wcag": "1.1.1",
    "severity": "Critical",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksSeen": 1,
-   "lastPagesAffected": 13,
+   "weeksSeen": 2,
+   "lastPagesAffected": 93,
    "lastAffectedPages": [
-    "http://ncses.nsf.gov/pubs/ncses22202/figure/3",
-    "https://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=Higher+Education+Degrees",
-    "https://ncses.nsf.gov/resource",
-    "https://ncses.nsf.gov/pubs/nsf23300/downloads",
-    "https://www.ncses.nsf.gov/licensing",
-    "https://ncses.nsf.gov/pubs/nsf25341/figure/1",
-    "https://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Higher+Education+R%26D",
-    "https://ncses.nsf.gov/pubs/nsf26325",
-    "https://ncses.nsf.gov/pubs/nsf23300/report/field-of-doctorate",
-    "https://ncses.nsf.gov/pubs/nsf23349",
-    "https://ncses.nsf.gov/pubs/nsf23300/how-do-i",
-    "http://ncses.nsf.gov/pubs/nsf23300",
-    "https://ncses.nsf.gov/permissions"
+    "https://ncses.nsf.gov/pubs/ncses26206",
+    "https://ncses.nsf.gov/pubs/nsf26313/surveypage/table/16477",
+    "https://ncses.nsf.gov/pubs/nsf25304/section/21274",
+    "https://www.ncses.nsf.gov/about",
+    "https://ncses.nsf.gov/pubs/nsf23351/surveypage/table/9706",
+    "https://www.ncses.nsf.gov/pubs/nsf26313/surveypage/table/16477",
+    "https://ncses.nsf.gov/surveys/state-government-research-development",
+    "https://www.ncses.nsf.gov/search?aois=Research+and+Development+Funding+and+Performance&query=&topics=R%26D+Publications+%26+Articles",
+    "http://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=Postgraduation+Plans",
+    "https://ncses.nsf.gov/pubs/nsf24336/table/1-4",
+    "https://ncses.nsf.gov/archived?url=https%3A%2F%2Fwww.nsf.gov%2Fstatistics%2Fstates%2F",
+    "https://www.ncses.nsf.gov/search?aois=Research+and+Development+Funding+and+Performance&query=&topics=Federal+Government%2FAgency+R%26D",
+    "https://ncses.nsf.gov/pubs/nsf24336/table/5-1",
+    "http://ncses.nsf.gov/accessibility",
+    "https://ncses.nsf.gov/pubs/nsf23327",
+    "https://www.ncses.nsf.gov/data-collections/national-patterns/2022-2023",
+    "https://ncses.nsf.gov/pubs/nsf26320/surveypage/table/17520",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Knowledge+and+Technology+Intensive+%28KTI%29+Industries",
+    "https://ncses.nsf.gov/pubs/ncses26205",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Clinical+Trials+and+Medical+Projects",
+    "https://www.ncses.nsf.gov/pubs/nsf25307/section/21136",
+    "http://ncses.nsf.gov/pubs/ncses22202/section/11154",
+    "http://ncses.nsf.gov/interest-areas/stem",
+    "https://ncses.nsf.gov/surveys/business-enterprise-research-development",
+    "https://ncses.nsf.gov/explore-data/microdata/science-engineering-research-facilities"
+   ]
+  },
+  "VS-9074b4dd": {
+   "engine": "axe-core",
+   "ruleId": "image-alt",
+   "summary": "Images must have alternative text (WCAG 1.1.1)",
+   "wcag": "1.1.1",
+   "severity": "Critical",
+   "firstSeen": "2026-W43",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W43",
+    "2026-W44"
+   ],
+   "weeksSeen": 2,
+   "lastPagesAffected": 3,
+   "lastAffectedPages": [
+    "https://ncses.nsf.gov/pubs/ncses26206",
+    "https://ncses.nsf.gov/pubs/nsf21321",
+    "https://ncses.nsf.gov/pubs/ncses26205"
    ]
   },
   "VS-a24eaa8c": {
@@ -117,20 +181,39 @@
    "wcag": "1.1.1",
    "severity": "Moderate",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksSeen": 1,
-   "lastPagesAffected": 7,
+   "weeksSeen": 2,
+   "lastPagesAffected": 51,
    "lastAffectedPages": [
-    "https://ncses.nsf.gov/resource",
-    "https://ncses.nsf.gov/pubs/nsf23300/downloads",
-    "https://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Higher+Education+R%26D",
-    "https://ncses.nsf.gov/pubs/nsf26325",
-    "https://ncses.nsf.gov/pubs/nsf23300/report/field-of-doctorate",
-    "https://ncses.nsf.gov/pubs/nsf23300/how-do-i",
-    "http://ncses.nsf.gov/pubs/nsf23300"
+    "https://ncses.nsf.gov/pubs/ncses26206",
+    "https://ncses.nsf.gov/pubs/nsf25304/section/21274",
+    "https://www.ncses.nsf.gov/pubs/nsf26313/surveypage/table/16477",
+    "https://ncses.nsf.gov/surveys/state-government-research-development",
+    "https://www.ncses.nsf.gov/search?aois=Research+and+Development+Funding+and+Performance&query=&topics=R%26D+Publications+%26+Articles",
+    "http://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=Postgraduation+Plans",
+    "https://ncses.nsf.gov/pubs/nsf24336/table/1-4",
+    "https://ncses.nsf.gov/archived?url=https%3A%2F%2Fwww.nsf.gov%2Fstatistics%2Fstates%2F",
+    "https://www.ncses.nsf.gov/search?aois=Research+and+Development+Funding+and+Performance&query=&topics=Federal+Government%2FAgency+R%26D",
+    "https://ncses.nsf.gov/pubs/nsf24336/table/5-1",
+    "http://ncses.nsf.gov/accessibility",
+    "https://ncses.nsf.gov/pubs/nsf23327",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Knowledge+and+Technology+Intensive+%28KTI%29+Industries",
+    "https://ncses.nsf.gov/pubs/ncses26205",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Clinical+Trials+and+Medical+Projects",
+    "http://ncses.nsf.gov/pubs/ncses22202/section/11154",
+    "http://ncses.nsf.gov/pubs/nsf25322/surveypage/table/13698",
+    "https://ncses.nsf.gov/search?aois=Research+and+Development+Funding+and+Performance&query=&topics=State+Government%2FAgency+R%26D",
+    "https://ncses.nsf.gov/explore-data/microdata",
+    "http://ncses.nsf.gov/pubs/nsf23300/report",
+    "https://ncses.nsf.gov/pubs/nsf19310",
+    "http://ncses.nsf.gov/search?aois=STEM+Education&query=&topics=Family+Characteristics",
+    "https://ncses.nsf.gov/browse-library?survey=National+Survey+of+College+Graduates+%28NSCG%29",
+    "https://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=Occupation",
+    "https://ncses.nsf.gov/pubs/nsf26301"
    ]
   },
   "VS-a0bdbdf6": {
@@ -140,26 +223,39 @@
    "wcag": "1.3.1",
    "severity": "Critical",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksSeen": 1,
-   "lastPagesAffected": 13,
+   "weeksSeen": 2,
+   "lastPagesAffected": 98,
    "lastAffectedPages": [
-    "http://ncses.nsf.gov/pubs/ncses22202/figure/3",
-    "http://ncses.nsf.gov/pubs/nsf26315/report/data-source",
-    "https://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=Higher+Education+Degrees",
-    "https://ncses.nsf.gov/pubs/nsf25347",
-    "https://ncses.nsf.gov/resource",
-    "https://www.ncses.nsf.gov/licensing",
-    "https://ncses.nsf.gov/pubs/nsf25341/figure/1",
-    "https://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Higher+Education+R%26D",
-    "https://ncses.nsf.gov/pubs/nsf26325",
-    "https://ncses.nsf.gov/pubs/nsf23349",
-    "https://ncses.nsf.gov/pubs/nsf25344",
-    "https://ncses.nsf.gov/permissions",
-    "https://ncses.nsf.gov/pubs/nsf22327"
+    "https://ncses.nsf.gov/pubs/ncses26206",
+    "https://ncses.nsf.gov/pubs/nsf26313/surveypage/table/16477",
+    "https://ncses.nsf.gov/pubs/nsf25304/section/21274",
+    "https://www.ncses.nsf.gov/about",
+    "https://ncses.nsf.gov/pubs/nsf23351/surveypage/table/9706",
+    "https://www.ncses.nsf.gov/pubs/nsf26313/surveypage/table/16477",
+    "https://ncses.nsf.gov/surveys/state-government-research-development",
+    "https://www.ncses.nsf.gov/search?aois=Research+and+Development+Funding+and+Performance&query=&topics=R%26D+Publications+%26+Articles",
+    "http://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=Postgraduation+Plans",
+    "https://ncses.nsf.gov/pubs/nsf24336/table/1-4",
+    "https://ncses.nsf.gov/archived?url=https%3A%2F%2Fwww.nsf.gov%2Fstatistics%2Fstates%2F",
+    "https://www.ncses.nsf.gov/search?aois=Research+and+Development+Funding+and+Performance&query=&topics=Federal+Government%2FAgency+R%26D",
+    "https://ncses.nsf.gov/pubs/nsf24336/table/5-1",
+    "http://ncses.nsf.gov/accessibility",
+    "https://ncses.nsf.gov/pubs/nsf23327",
+    "https://www.ncses.nsf.gov/data-collections/national-patterns/2022-2023",
+    "https://ncses.nsf.gov/pubs/nsf26320/surveypage/table/17520",
+    "https://ncses.nsf.gov/pubs/nsf21300",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Knowledge+and+Technology+Intensive+%28KTI%29+Industries",
+    "https://ncses.nsf.gov/pubs/ncses26205",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Clinical+Trials+and+Medical+Projects",
+    "https://www.ncses.nsf.gov/pubs/nsf25307/section/21136",
+    "http://ncses.nsf.gov/pubs/ncses22202/section/11154",
+    "http://ncses.nsf.gov/interest-areas/stem",
+    "https://ncses.nsf.gov/surveys/business-enterprise-research-development"
    ]
   },
   "VS-f6d344d5": {
@@ -169,45 +265,19 @@
    "wcag": "1.3.1",
    "severity": "Critical",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksSeen": 1,
-   "lastPagesAffected": 2,
+   "weeksSeen": 2,
+   "lastPagesAffected": 5,
    "lastAffectedPages": [
-    "http://ncses.nsf.gov/pubs/nsf26315/report/data-source",
-    "https://ncses.nsf.gov/pubs/nsf22327"
-   ]
-  },
-  "VS-e5294462": {
-   "engine": "Siteimprove Alfa",
-   "ruleId": "sia-r16",
-   "summary": "aria-required-attr role has required aria attributes (WCAG 1.3.1)",
-   "wcag": "1.3.1",
-   "severity": "Serious",
-   "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
-   "_weeks": [
-    "2026-W43"
-   ],
-   "weeksSeen": 1,
-   "lastPagesAffected": 14,
-   "lastAffectedPages": [
-    "https://ncses.nsf.gov/pubs/nsf25347",
-    "https://ncses.nsf.gov/pubs/nsb20257/table/SDISC-6",
-    "https://ncses.nsf.gov/resource",
-    "https://ncses.nsf.gov/pubs/nsf23300/downloads",
-    "https://ncses.nsf.gov/pubs/nsb20226/figure/KTI-29",
-    "https://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Higher+Education+R%26D",
-    "https://ncses.nsf.gov/pubs/nsf26325",
-    "https://ncses.nsf.gov/pubs/nsf23300/report/field-of-doctorate",
-    "https://ncses.nsf.gov/pubs/nsf23300/how-do-i",
-    "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-78",
-    "http://ncses.nsf.gov/pubs/nsf23300",
-    "https://ncses.nsf.gov/pubs/nsb20226/table/SAKTI-2",
-    "https://ncses.nsf.gov/pubs/nsf20301/report/education-related-debt",
-    "https://ncses.nsf.gov/pubs/nsf22327"
+    "https://ncses.nsf.gov/pubs/nsf21300",
+    "https://ncses.nsf.gov/pubs/nsf25300/figure/3",
+    "https://ncses.nsf.gov/pubs/nsf25300/additional-resources",
+    "https://ncses.nsf.gov/pubs/nsf21319",
+    "https://ncses.nsf.gov/pubs/nsf22328"
    ]
   },
   "VS-07ba3b17": {
@@ -215,25 +285,41 @@
    "ruleId": "td-headers-attr",
    "summary": "Table cell headers attributes must refer to other <th> elements in the same tabl (WCAG 1.3.1)",
    "wcag": "1.3.1",
-   "severity": "Serious",
+   "severity": "Critical",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksSeen": 1,
-   "lastPagesAffected": 10,
+   "weeksSeen": 2,
+   "lastPagesAffected": 82,
    "lastAffectedPages": [
-    "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-45",
-    "http://ncses.nsf.gov/pubs/ncses22202/figure/3",
-    "https://ncses.nsf.gov/pubs/nsb20257/table/SDISC-6",
-    "https://ncses.nsf.gov/pubs/nsf25341/figure/1",
-    "https://ncses.nsf.gov/pubs/nsf23300/report/field-of-doctorate",
-    "https://ncses.nsf.gov/pubs/nsf23349",
-    "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-78",
-    "https://ncses.nsf.gov/pubs/nsb20226/table/SAKTI-2",
-    "https://ncses.nsf.gov/pubs/nsf20301/report/education-related-debt",
-    "https://ncses.nsf.gov/pubs/nsf22327"
+    "https://ncses.nsf.gov/pubs/nsb20261/international-comparisons-and-global-competitiveness",
+    "https://ncses.nsf.gov/pubs/nsf26313/surveypage/table/16477",
+    "https://ncses.nsf.gov/pubs/nsf25304/section/21274",
+    "https://ncses.nsf.gov/pubs/nsf23351/surveypage/table/9706",
+    "https://www.ncses.nsf.gov/pubs/nsf26313/surveypage/table/16477",
+    "https://ncses.nsf.gov/pubs/nsb20262/figure/TRN-33",
+    "https://ncses.nsf.gov/pubs/nsb20262/figure/TRN-31",
+    "https://ncses.nsf.gov/pubs/nsf24336/table/1-4",
+    "https://ncses.nsf.gov/pubs/nsb20261/persistence-and-attrition-in-stem-education-and-training",
+    "https://ncses.nsf.gov/pubs/nsb202333/figure/PBS-5",
+    "https://ncses.nsf.gov/pubs/nsf24336/table/5-1",
+    "http://ncses.nsf.gov/pubs/nsb20262/table/TRN-6",
+    "https://ncses.nsf.gov/pubs/nsf23327",
+    "https://ncses.nsf.gov/pubs/nsb20257/table/DISC-4",
+    "https://ncses.nsf.gov/pubs/nsf26320/surveypage/table/17520",
+    "https://ncses.nsf.gov/pubs/nsf21300",
+    "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-22",
+    "https://ncses.nsf.gov/pubs/nsb20212/table/LBR-3",
+    "https://www.ncses.nsf.gov/pubs/nsf25307/section/21136",
+    "http://ncses.nsf.gov/pubs/ncses22202/section/11154",
+    "https://ncses.nsf.gov/pubs/nsf26303/section/26246",
+    "https://ncses.nsf.gov/pubs/nsb20262/figure/TRN-15",
+    "https://ncses.nsf.gov/pubs/nsb20262/table/STRN-44",
+    "http://ncses.nsf.gov/pubs/nsf25322/surveypage/table/13698",
+    "http://ncses.nsf.gov/pubs/ncses22202/section/11144"
    ]
   },
   "VS-4bcaa7bf": {
@@ -243,14 +329,39 @@
    "wcag": "1.3.1",
    "severity": "Serious",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksSeen": 1,
-   "lastPagesAffected": 1,
+   "weeksSeen": 2,
+   "lastPagesAffected": 35,
    "lastAffectedPages": [
-    "https://ncses.nsf.gov/pubs/nsf26325"
+    "https://ncses.nsf.gov/pubs/nsf26313/surveypage/table/16477",
+    "https://ncses.nsf.gov/pubs/nsf23351/surveypage/table/9706",
+    "https://www.ncses.nsf.gov/pubs/nsf26313/surveypage/table/16477",
+    "https://ncses.nsf.gov/surveys/state-government-research-development",
+    "https://ncses.nsf.gov/pubs/nsf24336/table/1-4",
+    "https://ncses.nsf.gov/pubs/nsf24336/table/5-1",
+    "https://www.ncses.nsf.gov/data-collections/national-patterns/2022-2023",
+    "https://ncses.nsf.gov/pubs/nsf26320/surveypage/table/17520",
+    "https://ncses.nsf.gov/surveys/business-enterprise-research-development",
+    "http://ncses.nsf.gov/pubs/nsf25322/surveypage/table/13698",
+    "https://ncses.nsf.gov/surveys/federal-facilities-research-development",
+    "https://ncses.nsf.gov/pubs/nsf26301",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14488",
+    "https://ncses.nsf.gov/surveys/ffrdc-postdocs/2023",
+    "http://ncses.nsf.gov/pubs/nsf24336/surveypage/table/11712",
+    "https://ncses.nsf.gov/pubs/nsf25314/table/1",
+    "https://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14509",
+    "https://ncses.nsf.gov/pubs/nsf25349/table/4-3",
+    "https://ncses.nsf.gov/surveys/science-engineering-research-facilities/2021",
+    "https://ncses.nsf.gov/pubs/nsf26320/surveypage/table/17502",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14440",
+    "https://ncses.nsf.gov/surveys/state-government-research-development/2021",
+    "https://www.ncses.nsf.gov/surveys/nonprofit-research-activities/2022",
+    "https://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16058",
+    "https://ncses.nsf.gov/pubs/nsf26320/surveypage/table/17518"
    ]
   },
   "VS-efb165c2": {
@@ -260,92 +371,165 @@
    "wcag": "1.3.1",
    "severity": "Serious",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksSeen": 1,
-   "lastPagesAffected": 1,
+   "weeksSeen": 2,
+   "lastPagesAffected": 35,
    "lastAffectedPages": [
-    "https://ncses.nsf.gov/pubs/nsf26325"
+    "https://ncses.nsf.gov/pubs/nsf26313/surveypage/table/16477",
+    "https://ncses.nsf.gov/pubs/nsf23351/surveypage/table/9706",
+    "https://www.ncses.nsf.gov/pubs/nsf26313/surveypage/table/16477",
+    "https://ncses.nsf.gov/surveys/state-government-research-development",
+    "https://ncses.nsf.gov/pubs/nsf24336/table/1-4",
+    "https://ncses.nsf.gov/pubs/nsf24336/table/5-1",
+    "https://www.ncses.nsf.gov/data-collections/national-patterns/2022-2023",
+    "https://ncses.nsf.gov/pubs/nsf26320/surveypage/table/17520",
+    "https://ncses.nsf.gov/surveys/business-enterprise-research-development",
+    "http://ncses.nsf.gov/pubs/nsf25322/surveypage/table/13698",
+    "https://ncses.nsf.gov/surveys/federal-facilities-research-development",
+    "https://ncses.nsf.gov/pubs/nsf26301",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14488",
+    "https://ncses.nsf.gov/surveys/ffrdc-postdocs/2023",
+    "http://ncses.nsf.gov/pubs/nsf24336/surveypage/table/11712",
+    "https://ncses.nsf.gov/pubs/nsf25314/table/1",
+    "https://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14509",
+    "https://ncses.nsf.gov/pubs/nsf25349/table/4-3",
+    "https://ncses.nsf.gov/surveys/science-engineering-research-facilities/2021",
+    "https://ncses.nsf.gov/pubs/nsf26320/surveypage/table/17502",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14440",
+    "https://ncses.nsf.gov/surveys/state-government-research-development/2021",
+    "https://www.ncses.nsf.gov/surveys/nonprofit-research-activities/2022",
+    "https://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16058",
+    "https://ncses.nsf.gov/pubs/nsf26320/surveypage/table/17518"
+   ]
+  },
+  "VS-e5294462": {
+   "engine": "Siteimprove Alfa",
+   "ruleId": "sia-r16",
+   "summary": "aria-required-attr role has required aria attributes (WCAG 1.3.1)",
+   "wcag": "1.3.1",
+   "severity": "Serious",
+   "firstSeen": "2026-W43",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W43",
+    "2026-W44"
+   ],
+   "weeksSeen": 2,
+   "lastPagesAffected": 80,
+   "lastAffectedPages": [
+    "https://ncses.nsf.gov/pubs/ncses26206",
+    "https://ncses.nsf.gov/pubs/nsb20261/international-comparisons-and-global-competitiveness",
+    "https://ncses.nsf.gov/pubs/nsf25304/section/21274",
+    "https://www.ncses.nsf.gov/pubs/nsf26313/surveypage/table/16477",
+    "https://ncses.nsf.gov/surveys/state-government-research-development",
+    "https://www.ncses.nsf.gov/search?aois=Research+and+Development+Funding+and+Performance&query=&topics=R%26D+Publications+%26+Articles",
+    "https://ncses.nsf.gov/pubs/nsb20262/figure/TRN-33",
+    "http://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=Postgraduation+Plans",
+    "https://ncses.nsf.gov/pubs/nsf24336/table/1-4",
+    "https://ncses.nsf.gov/archived?url=https%3A%2F%2Fwww.nsf.gov%2Fstatistics%2Fstates%2F",
+    "https://ncses.nsf.gov/pubs/nsb20261/persistence-and-attrition-in-stem-education-and-training",
+    "https://www.ncses.nsf.gov/search?aois=Research+and+Development+Funding+and+Performance&query=&topics=Federal+Government%2FAgency+R%26D",
+    "https://ncses.nsf.gov/pubs/nsf24336/table/5-1",
+    "http://ncses.nsf.gov/accessibility",
+    "http://ncses.nsf.gov/pubs/nsb20262/table/TRN-6",
+    "https://ncses.nsf.gov/pubs/nsf23327",
+    "https://ncses.nsf.gov/pubs/nsb20257/table/DISC-4",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Knowledge+and+Technology+Intensive+%28KTI%29+Industries",
+    "https://ncses.nsf.gov/pubs/ncses26205",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Clinical+Trials+and+Medical+Projects",
+    "https://ncses.nsf.gov/pubs/nsb20212/table/LBR-3",
+    "http://ncses.nsf.gov/pubs/ncses22202/section/11154",
+    "https://ncses.nsf.gov/pubs/nsf26303/section/26246",
+    "https://ncses.nsf.gov/pubs/nsb20262/figure/TRN-15",
+    "https://ncses.nsf.gov/pubs/nsb20262/table/STRN-44"
    ]
   },
   "VS-d6097011": {
    "engine": "Siteimprove Alfa",
    "ruleId": "sia-r68",
-   "summary": "Presentational children of an element are not focusable (WCAG 1.3.1)",
+   "summary": "Element has its required owned elements (WCAG 1.3.1)",
    "wcag": "1.3.1",
    "severity": "Moderate",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksSeen": 1,
-   "lastPagesAffected": 6,
+   "weeksSeen": 2,
+   "lastPagesAffected": 42,
    "lastAffectedPages": [
-    "https://ncses.nsf.gov/pubs/nsb20257/table/SDISC-6",
-    "https://ncses.nsf.gov/pubs/nsf23300/report/field-of-doctorate",
-    "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-78",
-    "https://ncses.nsf.gov/pubs/nsb20226/table/SAKTI-2",
-    "https://ncses.nsf.gov/pubs/nsf20301/report/education-related-debt",
-    "https://ncses.nsf.gov/pubs/nsf22327"
+    "https://ncses.nsf.gov/pubs/nsb20261/international-comparisons-and-global-competitiveness",
+    "https://ncses.nsf.gov/pubs/nsf25304/section/21274",
+    "https://www.ncses.nsf.gov/pubs/nsf26313/surveypage/table/16477",
+    "https://ncses.nsf.gov/pubs/nsb20262/figure/TRN-33",
+    "https://ncses.nsf.gov/pubs/nsf24336/table/1-4",
+    "https://ncses.nsf.gov/pubs/nsb20261/persistence-and-attrition-in-stem-education-and-training",
+    "https://ncses.nsf.gov/pubs/nsf24336/table/5-1",
+    "http://ncses.nsf.gov/pubs/nsb20262/table/TRN-6",
+    "https://ncses.nsf.gov/pubs/nsf23327",
+    "https://ncses.nsf.gov/pubs/nsb20257/table/DISC-4",
+    "https://ncses.nsf.gov/pubs/nsb20212/table/LBR-3",
+    "http://ncses.nsf.gov/pubs/ncses22202/section/11154",
+    "https://ncses.nsf.gov/pubs/nsf26303/section/26246",
+    "https://ncses.nsf.gov/pubs/nsb20262/figure/TRN-15",
+    "https://ncses.nsf.gov/pubs/nsb20262/table/STRN-44",
+    "http://ncses.nsf.gov/pubs/nsf25322/surveypage/table/13698",
+    "https://ncses.nsf.gov/pubs/nsb20226/table/SKTI-25",
+    "https://ncses.nsf.gov/pubs/nsf25341/figure/3",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14488",
+    "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25",
+    "https://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14509",
+    "https://ncses.nsf.gov/pubs/nsf22316/table/25",
+    "http://ncses.nsf.gov/resource/faqs",
+    "https://ncses.nsf.gov/pubs/nsf25355",
+    "https://ncses.nsf.gov/pubs/nsf26320/surveypage/table/17502"
    ]
   },
   "VS-9207ed51": {
    "engine": "Siteimprove Alfa",
    "ruleId": "sia-r45",
-   "summary": "aria-hidden element is not exposed to assistive technology (WCAG 1.3.1)",
+   "summary": "Table headers attribute refers to cells in the same table (WCAG 1.3.1)",
    "wcag": "1.3.1",
    "severity": "Moderate",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksSeen": 1,
-   "lastPagesAffected": 6,
+   "weeksSeen": 2,
+   "lastPagesAffected": 36,
    "lastAffectedPages": [
-    "https://ncses.nsf.gov/pubs/nsb20257/table/SDISC-6",
-    "https://ncses.nsf.gov/pubs/nsf23300/report/field-of-doctorate",
-    "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-78",
-    "https://ncses.nsf.gov/pubs/nsb20226/table/SAKTI-2",
-    "https://ncses.nsf.gov/pubs/nsf20301/report/education-related-debt",
-    "https://ncses.nsf.gov/pubs/nsf22327"
-   ]
-  },
-  "VS-3c632d31": {
-   "engine": "Siteimprove Alfa",
-   "ruleId": "sia-r64",
-   "summary": "Element has required owned roles (WCAG 1.3.1)",
-   "wcag": "1.3.1",
-   "severity": "Moderate",
-   "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
-   "_weeks": [
-    "2026-W43"
-   ],
-   "weeksSeen": 1,
-   "lastPagesAffected": 1,
-   "lastAffectedPages": [
-    "https://ncses.nsf.gov/resource"
-   ]
-  },
-  "VS-4408605e": {
-   "engine": "Siteimprove Alfa",
-   "ruleId": "sia-r46",
-   "summary": "Element has required aria-owns (WCAG 1.3.1)",
-   "wcag": "1.3.1",
-   "severity": "Moderate",
-   "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
-   "_weeks": [
-    "2026-W43"
-   ],
-   "weeksSeen": 1,
-   "lastPagesAffected": 1,
-   "lastAffectedPages": [
-    "https://ncses.nsf.gov/pubs/nsf22327"
+    "https://ncses.nsf.gov/pubs/nsb20261/international-comparisons-and-global-competitiveness",
+    "https://ncses.nsf.gov/pubs/nsf25304/section/21274",
+    "https://www.ncses.nsf.gov/pubs/nsf26313/surveypage/table/16477",
+    "https://ncses.nsf.gov/pubs/nsf24336/table/1-4",
+    "https://ncses.nsf.gov/pubs/nsb20261/persistence-and-attrition-in-stem-education-and-training",
+    "https://ncses.nsf.gov/pubs/nsf24336/table/5-1",
+    "http://ncses.nsf.gov/pubs/nsb20262/table/TRN-6",
+    "https://ncses.nsf.gov/pubs/nsf23327",
+    "https://ncses.nsf.gov/pubs/nsb20257/table/DISC-4",
+    "https://ncses.nsf.gov/pubs/nsb20212/table/LBR-3",
+    "https://ncses.nsf.gov/pubs/nsf26303/section/26246",
+    "https://ncses.nsf.gov/pubs/nsb20262/table/STRN-44",
+    "http://ncses.nsf.gov/pubs/nsf25322/surveypage/table/13698",
+    "https://ncses.nsf.gov/pubs/nsb20226/table/SKTI-25",
+    "https://ncses.nsf.gov/pubs/nsf25341/figure/3",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14488",
+    "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25",
+    "https://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14509",
+    "https://ncses.nsf.gov/pubs/nsf22316/table/25",
+    "https://ncses.nsf.gov/pubs/nsf25355",
+    "https://ncses.nsf.gov/pubs/nsf26320/surveypage/table/17502",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14440",
+    "https://ncses.nsf.gov/pubs/nsb20262/table/STRN-17",
+    "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-46",
+    "https://ncses.nsf.gov/pubs/nsf22334"
    ]
   },
   "VS-0ddc2ac6": {
@@ -360,9 +544,56 @@
     "2026-W43"
    ],
    "weeksSeen": 1,
+   "lastPagesAffected": 8,
+   "lastAffectedPages": [
+    "https://ncses.nsf.gov/pubs/nsf25300/report/glossary",
+    "https://ncses.nsf.gov/pubs/nsf25300/contact-us",
+    "https://ncses.nsf.gov/pubs/nsf25300/prior-releases",
+    "https://ncses.nsf.gov/pubs/nsf25300/figure/5",
+    "https://ncses.nsf.gov/pubs/nsf26315/figure/3",
+    "https://ncses.nsf.gov/pubs/nsf26315",
+    "https://ncses.nsf.gov/pubs/nsf25300/report/field-of-doctorate",
+    "https://ncses.nsf.gov/pubs/nsf22327"
+   ],
+   "_coverageLost": true
+  },
+  "VS-4408605e": {
+   "engine": "Siteimprove Alfa",
+   "ruleId": "sia-r46",
+   "summary": "Table header cell is assigned to data cells (WCAG 1.3.1)",
+   "wcag": "1.3.1",
+   "severity": "Moderate",
+   "firstSeen": "2026-W43",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W43",
+    "2026-W44"
+   ],
+   "weeksSeen": 2,
+   "lastPagesAffected": 4,
+   "lastAffectedPages": [
+    "http://ncses.nsf.gov/pubs/ncses22202/section/11154",
+    "https://ncses.nsf.gov/pubs/nsf19310",
+    "https://ncses.nsf.gov/pubs/nsf22316/table/25",
+    "https://ncses.nsf.gov/pubs/nsf21321/table/1-2"
+   ]
+  },
+  "VS-3c632d31": {
+   "engine": "Siteimprove Alfa",
+   "ruleId": "sia-r64",
+   "summary": "Heading has an accessible name (WCAG 1.3.1)",
+   "wcag": "1.3.1",
+   "severity": "Moderate",
+   "firstSeen": "2026-W43",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W43",
+    "2026-W44"
+   ],
+   "weeksSeen": 2,
    "lastPagesAffected": 1,
    "lastAffectedPages": [
-    "https://ncses.nsf.gov/pubs/nsf22327"
+    "https://ncses.nsf.gov/interest-areas/stem"
    ]
   },
   "VS-8ade3360": {
@@ -372,21 +603,39 @@
    "wcag": "1.4.1",
    "severity": "Serious",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksSeen": 1,
-   "lastPagesAffected": 8,
+   "weeksSeen": 2,
+   "lastPagesAffected": 54,
    "lastAffectedPages": [
-    "http://ncses.nsf.gov/pubs/ncses22202/figure/3",
-    "https://www.ncses.nsf.gov/licensing",
-    "https://ncses.nsf.gov/pubs/nsb20226/figure/KTI-29",
-    "https://ncses.nsf.gov/pubs/nsf26325",
-    "https://ncses.nsf.gov/pubs/nsf23300/how-do-i",
-    "https://ncses.nsf.gov/permissions",
-    "https://ncses.nsf.gov/pubs/nsb20226/table/SAKTI-2",
-    "https://ncses.nsf.gov/pubs/nsf22327"
+    "https://ncses.nsf.gov/pubs/nsf26313/surveypage/table/16477",
+    "https://www.ncses.nsf.gov/about",
+    "https://ncses.nsf.gov/pubs/nsf23351/surveypage/table/9706",
+    "https://www.ncses.nsf.gov/pubs/nsf26313/surveypage/table/16477",
+    "https://ncses.nsf.gov/pubs/nsf24336/table/1-4",
+    "https://ncses.nsf.gov/pubs/nsb202333/figure/PBS-5",
+    "https://ncses.nsf.gov/pubs/nsf24336/table/5-1",
+    "http://ncses.nsf.gov/accessibility",
+    "https://ncses.nsf.gov/pubs/nsf26320/surveypage/table/17520",
+    "https://ncses.nsf.gov/pubs/nsf21300",
+    "https://ncses.nsf.gov/pubs/nsb20212/table/LBR-3",
+    "http://ncses.nsf.gov/pubs/ncses22202/section/11154",
+    "https://ncses.nsf.gov/pubs/nsb20262/figure/TRN-15",
+    "https://ncses.nsf.gov/explore-data/microdata/science-engineering-research-facilities",
+    "https://ncses.nsf.gov/explore-data/microdata",
+    "http://ncses.nsf.gov/pubs/nsf23300/report",
+    "https://ncses.nsf.gov/pubs/nsf19310",
+    "http://ncses.nsf.gov/pubs/ncses22202/section/11144",
+    "https://ncses.nsf.gov/pubs/nsf26301",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14488",
+    "https://ncses.nsf.gov/indicators/permissions",
+    "http://ncses.nsf.gov/pubs/nsf24336/surveypage/table/11712",
+    "https://ncses.nsf.gov/pubs/nsf25314/table/1",
+    "https://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14509",
+    "https://ncses.nsf.gov/pubs/nsf25349/table/4-3"
    ]
   },
   "VS-efd91fdd": {
@@ -396,19 +645,39 @@
    "wcag": "1.4.1",
    "severity": "Moderate",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksSeen": 1,
-   "lastPagesAffected": 6,
+   "weeksSeen": 2,
+   "lastPagesAffected": 32,
    "lastAffectedPages": [
-    "https://ncses.nsf.gov/pubs/nsb20257/table/SDISC-6",
-    "https://ncses.nsf.gov/pubs/nsb20226/figure/KTI-29",
-    "https://ncses.nsf.gov/pubs/nsf26325",
-    "https://ncses.nsf.gov/pubs/nsf23300/how-do-i",
-    "https://ncses.nsf.gov/pubs/nsb20226/table/SAKTI-2",
-    "https://ncses.nsf.gov/pubs/nsf22327"
+    "https://www.ncses.nsf.gov/pubs/nsf26313/surveypage/table/16477",
+    "https://ncses.nsf.gov/pubs/nsf24336/table/1-4",
+    "https://ncses.nsf.gov/pubs/nsf24336/table/5-1",
+    "http://ncses.nsf.gov/pubs/nsb20262/table/TRN-6",
+    "https://ncses.nsf.gov/pubs/nsb20212/table/LBR-3",
+    "http://ncses.nsf.gov/pubs/ncses22202/section/11154",
+    "https://ncses.nsf.gov/pubs/nsb20262/figure/TRN-15",
+    "http://ncses.nsf.gov/pubs/nsf25322/surveypage/table/13698",
+    "http://ncses.nsf.gov/pubs/nsf23300/report",
+    "https://ncses.nsf.gov/pubs/nsf19310",
+    "https://ncses.nsf.gov/pubs/nsf26301",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14488",
+    "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25",
+    "https://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14509",
+    "https://ncses.nsf.gov/pubs/nsf22316/table/25",
+    "https://ncses.nsf.gov/pubs/nsf25355",
+    "https://ncses.nsf.gov/pubs/nsf26320/surveypage/table/17502",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14440",
+    "https://ncses.nsf.gov/pubs/nsb20262/table/STRN-17",
+    "https://ncses.nsf.gov/pubs/nsb202333/acknowledgments-and-citation",
+    "https://ncses.nsf.gov/pubs/nsb20214/sidebar/coronavirus-publication-output-and-international-collaboration",
+    "https://ncses.nsf.gov/pubs/nsf21321/table/1-2",
+    "https://ncses.nsf.gov/pubs/nsb202333/figure/PBS-B",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14453",
+    "http://ncses.nsf.gov/pubs/nsf23300/how-do-i"
    ]
   },
   "VS-c613c153": {
@@ -418,21 +687,39 @@
    "wcag": "2.1.1",
    "severity": "Serious",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksSeen": 1,
-   "lastPagesAffected": 8,
+   "weeksSeen": 2,
+   "lastPagesAffected": 68,
    "lastAffectedPages": [
-    "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-45",
-    "http://ncses.nsf.gov/pubs/ncses22202/figure/3",
-    "https://ncses.nsf.gov/pubs/nsb20257/table/SDISC-6",
-    "https://ncses.nsf.gov/pubs/nsf25341/figure/1",
-    "https://ncses.nsf.gov/pubs/nsf23349",
-    "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-78",
-    "https://ncses.nsf.gov/pubs/nsb20226/table/SAKTI-2",
-    "https://ncses.nsf.gov/pubs/nsf22327"
+    "https://ncses.nsf.gov/pubs/nsb20261/international-comparisons-and-global-competitiveness",
+    "https://ncses.nsf.gov/pubs/nsf26313/surveypage/table/16477",
+    "https://ncses.nsf.gov/pubs/nsf25304/section/21274",
+    "https://ncses.nsf.gov/pubs/nsf23351/surveypage/table/9706",
+    "https://www.ncses.nsf.gov/pubs/nsf26313/surveypage/table/16477",
+    "https://ncses.nsf.gov/pubs/nsb20262/figure/TRN-33",
+    "https://ncses.nsf.gov/pubs/nsb20262/figure/TRN-31",
+    "https://ncses.nsf.gov/pubs/nsf24336/table/1-4",
+    "https://ncses.nsf.gov/pubs/nsb20261/persistence-and-attrition-in-stem-education-and-training",
+    "https://ncses.nsf.gov/pubs/nsf24336/table/5-1",
+    "http://ncses.nsf.gov/pubs/nsb20262/table/TRN-6",
+    "https://ncses.nsf.gov/pubs/nsf23327",
+    "https://ncses.nsf.gov/pubs/nsb20257/table/DISC-4",
+    "https://ncses.nsf.gov/pubs/nsf26320/surveypage/table/17520",
+    "https://ncses.nsf.gov/pubs/nsf21300",
+    "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-22",
+    "https://ncses.nsf.gov/pubs/nsb20212/table/LBR-3",
+    "https://www.ncses.nsf.gov/pubs/nsf25307/section/21136",
+    "http://ncses.nsf.gov/pubs/ncses22202/section/11154",
+    "https://ncses.nsf.gov/pubs/nsf26303/section/26246",
+    "http://ncses.nsf.gov/pubs/nsf25322/surveypage/table/13698",
+    "http://ncses.nsf.gov/pubs/ncses22202/section/11144",
+    "https://ncses.nsf.gov/pubs/nsb20226/table/SKTI-25",
+    "https://ncses.nsf.gov/pubs/nsf25341/figure/3",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14488"
    ]
   },
   "VS-9425a266": {
@@ -442,38 +729,39 @@
    "wcag": "4.1.2",
    "severity": "Critical",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksSeen": 1,
-   "lastPagesAffected": 25,
+   "weeksSeen": 2,
+   "lastPagesAffected": 152,
    "lastAffectedPages": [
-    "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-45",
-    "http://ncses.nsf.gov/pubs/ncses22202/figure/3",
-    "http://ncses.nsf.gov/pubs/nsf26315/report/data-source",
-    "https://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=Higher+Education+Degrees",
-    "https://ncses.nsf.gov/pubs/nsf25347",
-    "https://ncses.nsf.gov/pubs/nsb20257/table/SDISC-6",
-    "https://ncses.nsf.gov/resource",
-    "https://ncses.nsf.gov/pubs/nsf23300/downloads",
-    "https://www.ncses.nsf.gov/licensing",
-    "https://ncses.nsf.gov/pubs/nsb20226/figure/KTI-29",
-    "https://ncses.nsf.gov/pubs/nsf25341/figure/1",
-    "https://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Higher+Education+R%26D",
-    "https://ncses.nsf.gov/pubs/nsf26325",
-    "https://ncses.nsf.gov/pubs/nsf23300/report/field-of-doctorate",
-    "https://ncses.nsf.gov/pubs/nsf23349",
-    "https://ncses.nsf.gov/pubs/nsf25344",
-    "https://ncses.nsf.gov/pubs/nsb20262/supplemental-tables",
-    "https://ncses.nsf.gov/pubs/nsf23300/how-do-i",
-    "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-78",
-    "http://ncses.nsf.gov/pubs/nsf23300",
-    "https://ncses.nsf.gov/permissions",
-    "https://ncses.nsf.gov/pubs/nsb20257/notes",
-    "https://ncses.nsf.gov/pubs/nsb20226/table/SAKTI-2",
-    "https://ncses.nsf.gov/pubs/nsf20301/report/education-related-debt",
-    "https://ncses.nsf.gov/pubs/nsf22327"
+    "https://ncses.nsf.gov/pubs/ncses26206",
+    "https://ncses.nsf.gov/pubs/nsb20261/international-comparisons-and-global-competitiveness",
+    "https://ncses.nsf.gov/pubs/nsf26313/surveypage/table/16477",
+    "https://ncses.nsf.gov/pubs/nsf25304/section/21274",
+    "https://www.ncses.nsf.gov/about",
+    "https://ncses.nsf.gov/pubs/nsf23351/surveypage/table/9706",
+    "https://www.ncses.nsf.gov/pubs/nsf26313/surveypage/table/16477",
+    "https://ncses.nsf.gov/surveys/state-government-research-development",
+    "https://www.ncses.nsf.gov/search?aois=Research+and+Development+Funding+and+Performance&query=&topics=R%26D+Publications+%26+Articles",
+    "https://ncses.nsf.gov/pubs/nsb20262/figure/TRN-33",
+    "https://ncses.nsf.gov/pubs/nsb20262/figure/TRN-31",
+    "https://ncses.nsf.gov/pubs/nsf21321",
+    "http://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=Postgraduation+Plans",
+    "https://ncses.nsf.gov/pubs/nsf24336/table/1-4",
+    "https://ncses.nsf.gov/archived?url=https%3A%2F%2Fwww.nsf.gov%2Fstatistics%2Fstates%2F",
+    "https://ncses.nsf.gov/pubs/nsb20261/persistence-and-attrition-in-stem-education-and-training",
+    "https://ncses.nsf.gov/pubs/nsb202333/figure/PBS-5",
+    "https://www.ncses.nsf.gov/search?aois=Research+and+Development+Funding+and+Performance&query=&topics=Federal+Government%2FAgency+R%26D",
+    "https://ncses.nsf.gov/pubs/nsf24336/table/5-1",
+    "http://ncses.nsf.gov/accessibility",
+    "http://ncses.nsf.gov/pubs/nsb20262/table/TRN-6",
+    "https://ncses.nsf.gov/pubs/nsf23327",
+    "https://www.ncses.nsf.gov/data-collections/national-patterns/2022-2023",
+    "https://ncses.nsf.gov/pubs/nsb20257/table/DISC-4",
+    "https://ncses.nsf.gov/pubs/nsf26320/surveypage/table/17520"
    ]
   },
   "VS-1467ea8a": {
@@ -483,20 +771,39 @@
    "wcag": "4.1.2",
    "severity": "Critical",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksSeen": 1,
-   "lastPagesAffected": 7,
+   "weeksSeen": 2,
+   "lastPagesAffected": 51,
    "lastAffectedPages": [
-    "https://ncses.nsf.gov/pubs/nsf25347",
-    "https://ncses.nsf.gov/pubs/nsb20257/table/SDISC-6",
-    "https://ncses.nsf.gov/pubs/nsb20226/figure/KTI-29",
-    "https://ncses.nsf.gov/pubs/nsf23300/report/field-of-doctorate",
-    "https://ncses.nsf.gov/pubs/nsf25344",
-    "https://ncses.nsf.gov/pubs/nsb20226/table/SAKTI-2",
-    "https://ncses.nsf.gov/pubs/nsf20301/report/education-related-debt"
+    "https://ncses.nsf.gov/pubs/nsb20261/international-comparisons-and-global-competitiveness",
+    "https://ncses.nsf.gov/pubs/nsf26313/surveypage/table/16477",
+    "https://www.ncses.nsf.gov/pubs/nsf26313/surveypage/table/16477",
+    "https://ncses.nsf.gov/pubs/nsb20262/figure/TRN-33",
+    "https://ncses.nsf.gov/pubs/nsb20262/figure/TRN-31",
+    "https://ncses.nsf.gov/pubs/nsb20261/persistence-and-attrition-in-stem-education-and-training",
+    "https://ncses.nsf.gov/pubs/nsb202333/figure/PBS-5",
+    "http://ncses.nsf.gov/pubs/nsb20262/table/TRN-6",
+    "https://ncses.nsf.gov/pubs/nsb20257/table/DISC-4",
+    "https://ncses.nsf.gov/pubs/nsf26320/surveypage/table/17520",
+    "https://ncses.nsf.gov/pubs/nsb20212/table/LBR-3",
+    "https://ncses.nsf.gov/pubs/nsf26303/section/26246",
+    "https://ncses.nsf.gov/pubs/nsb20262/figure/TRN-15",
+    "https://ncses.nsf.gov/pubs/nsb20262/table/STRN-44",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14488",
+    "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25",
+    "https://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14509",
+    "https://ncses.nsf.gov/pubs/nsf25349/table/4-3",
+    "https://ncses.nsf.gov/pubs/nsf25355",
+    "https://ncses.nsf.gov/pubs/nsf26320/surveypage/table/17502",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14440",
+    "https://ncses.nsf.gov/pubs/nsb20261/table/STAL-11",
+    "https://ncses.nsf.gov/pubs/nsb202333/figure/PBS-12",
+    "https://ncses.nsf.gov/pubs/nsb20257/figure/DISC-12",
+    "https://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16058"
    ]
   },
   "VS-58301a87": {
@@ -506,36 +813,58 @@
    "wcag": "4.1.2",
    "severity": "Serious",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksSeen": 1,
-   "lastPagesAffected": 4,
+   "weeksSeen": 2,
+   "lastPagesAffected": 18,
    "lastAffectedPages": [
-    "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-45",
-    "https://ncses.nsf.gov/pubs/nsb20226/figure/KTI-29",
-    "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-78",
-    "https://ncses.nsf.gov/pubs/nsb20226/table/SAKTI-2"
+    "https://ncses.nsf.gov/pubs/nsb202333/figure/PBS-5",
+    "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-22",
+    "https://ncses.nsf.gov/pubs/nsb20212/table/LBR-3",
+    "https://ncses.nsf.gov/pubs/nsb20226/conclusion",
+    "https://ncses.nsf.gov/pubs/nsb20201",
+    "https://ncses.nsf.gov/pubs/nsb20226/table/SKTI-25",
+    "https://ncses.nsf.gov/pubs/nsb202333/executive-summary",
+    "https://ncses.nsf.gov/pubs/nsb202333/figure/PBS-12",
+    "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-51",
+    "https://ncses.nsf.gov/pubs/nsb20226/figure/KTI-17",
+    "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-41",
+    "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-46",
+    "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-82",
+    "https://ncses.nsf.gov/pubs/nsb202333/acknowledgments-and-citation",
+    "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-39",
+    "https://ncses.nsf.gov/pubs/nsb20214/sidebar/coronavirus-publication-output-and-international-collaboration",
+    "https://ncses.nsf.gov/pubs/nsb202333/figure/PBS-B",
+    "https://ncses.nsf.gov/pubs/nsb20221"
    ]
   },
   "VS-a2a3dffb": {
    "engine": "Siteimprove Alfa",
    "ruleId": "sia-r90",
-   "summary": "Component with same name serves same purpose (WCAG 4.1.2)",
+   "summary": "Element with presentational children has no focusable content (WCAG 4.1.2)",
    "wcag": "4.1.2",
    "severity": "Moderate",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksSeen": 1,
-   "lastPagesAffected": 3,
+   "weeksSeen": 2,
+   "lastPagesAffected": 9,
    "lastAffectedPages": [
-    "https://ncses.nsf.gov/pubs/nsb20226/figure/KTI-29",
-    "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-78",
-    "https://ncses.nsf.gov/pubs/nsb20226/table/SAKTI-2"
+    "https://ncses.nsf.gov/pubs/nsb20212/table/LBR-3",
+    "https://ncses.nsf.gov/pubs/nsb20201",
+    "https://ncses.nsf.gov/pubs/nsb20226/table/SKTI-25",
+    "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-46",
+    "https://ncses.nsf.gov/pubs/nsb202333/acknowledgments-and-citation",
+    "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-39",
+    "https://ncses.nsf.gov/pubs/nsb20214/sidebar/coronavirus-publication-output-and-international-collaboration",
+    "https://ncses.nsf.gov/pubs/nsb202333/figure/PBS-B",
+    "https://ncses.nsf.gov/pubs/nsb20221"
    ]
   },
   "VS-be8d563e": {
@@ -545,32 +874,38 @@
    "wcag": "1.4.3",
    "severity": "Serious",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksSeen": 1,
-   "lastPagesAffected": 2,
+   "weeksSeen": 2,
+   "lastPagesAffected": 5,
    "lastAffectedPages": [
-    "https://ncses.nsf.gov/pubs/nsf23300/report/field-of-doctorate",
-    "https://ncses.nsf.gov/pubs/nsf22327"
+    "https://ncses.nsf.gov/pubs/nsf21300",
+    "https://ncses.nsf.gov/browse-library?survey=National+Survey+of+College+Graduates+%28NSCG%29",
+    "https://ncses.nsf.gov/indicators/states/indicator/state-student-aid-expenditures-per-full-time-undergraduate-student",
+    "https://ncses.nsf.gov/pubs/nsf21319",
+    "https://ncses.nsf.gov/pubs/nsf22328"
    ]
   },
   "VS-f7e99f4b": {
    "engine": "Siteimprove Alfa",
    "ruleId": "sia-r69",
-   "summary": "Text has sufficient color contrast (Enhanced) (WCAG 1.4.3)",
+   "summary": "Text has minimum contrast (WCAG 1.4.3)",
    "wcag": "1.4.3",
    "severity": "Moderate",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksSeen": 1,
-   "lastPagesAffected": 1,
+   "weeksSeen": 2,
+   "lastPagesAffected": 2,
    "lastAffectedPages": [
-    "https://ncses.nsf.gov/pubs/nsf22327"
+    "https://ncses.nsf.gov/browse-library?survey=National+Survey+of+College+Graduates+%28NSCG%29",
+    "https://ncses.nsf.gov/indicators/states/indicator/state-student-aid-expenditures-per-full-time-undergraduate-student"
    ]
   },
   "VS-646b1e0b": {
@@ -580,116 +915,186 @@
    "wcag": "1.4.6",
    "severity": "Serious",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksSeen": 1,
-   "lastPagesAffected": 14,
+   "weeksSeen": 2,
+   "lastPagesAffected": 83,
    "lastAffectedPages": [
-    "https://ncses.nsf.gov/pubs/nsf25347",
-    "https://ncses.nsf.gov/pubs/nsb20257/table/SDISC-6",
-    "https://ncses.nsf.gov/resource",
-    "https://ncses.nsf.gov/pubs/nsf23300/downloads",
-    "https://ncses.nsf.gov/pubs/nsb20226/figure/KTI-29",
-    "https://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Higher+Education+R%26D",
-    "https://ncses.nsf.gov/pubs/nsf26325",
-    "https://ncses.nsf.gov/pubs/nsf23300/report/field-of-doctorate",
-    "https://ncses.nsf.gov/pubs/nsf23300/how-do-i",
-    "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-78",
-    "http://ncses.nsf.gov/pubs/nsf23300",
-    "https://ncses.nsf.gov/pubs/nsb20226/table/SAKTI-2",
-    "https://ncses.nsf.gov/pubs/nsf20301/report/education-related-debt",
-    "https://ncses.nsf.gov/pubs/nsf22327"
+    "https://ncses.nsf.gov/pubs/ncses26206",
+    "https://ncses.nsf.gov/pubs/nsb20261/international-comparisons-and-global-competitiveness",
+    "https://ncses.nsf.gov/pubs/nsf25304/section/21274",
+    "https://www.ncses.nsf.gov/pubs/nsf26313/surveypage/table/16477",
+    "https://ncses.nsf.gov/surveys/state-government-research-development",
+    "https://www.ncses.nsf.gov/search?aois=Research+and+Development+Funding+and+Performance&query=&topics=R%26D+Publications+%26+Articles",
+    "https://ncses.nsf.gov/pubs/nsb20262/figure/TRN-33",
+    "http://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=Postgraduation+Plans",
+    "https://ncses.nsf.gov/pubs/nsf24336/table/1-4",
+    "https://ncses.nsf.gov/archived?url=https%3A%2F%2Fwww.nsf.gov%2Fstatistics%2Fstates%2F",
+    "https://ncses.nsf.gov/pubs/nsb20261/persistence-and-attrition-in-stem-education-and-training",
+    "https://www.ncses.nsf.gov/search?aois=Research+and+Development+Funding+and+Performance&query=&topics=Federal+Government%2FAgency+R%26D",
+    "https://ncses.nsf.gov/pubs/nsf24336/table/5-1",
+    "http://ncses.nsf.gov/accessibility",
+    "http://ncses.nsf.gov/pubs/nsb20262/table/TRN-6",
+    "https://ncses.nsf.gov/pubs/nsf23327",
+    "https://ncses.nsf.gov/pubs/nsb20257/table/DISC-4",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Knowledge+and+Technology+Intensive+%28KTI%29+Industries",
+    "https://ncses.nsf.gov/pubs/ncses26205",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Clinical+Trials+and+Medical+Projects",
+    "https://ncses.nsf.gov/pubs/nsb20212/table/LBR-3",
+    "http://ncses.nsf.gov/pubs/ncses22202/section/11154",
+    "https://ncses.nsf.gov/pubs/nsf26303/section/26246",
+    "https://ncses.nsf.gov/indicators/states/technical-notes",
+    "https://ncses.nsf.gov/pubs/nsb20262/figure/TRN-15"
    ]
   },
   "VS-2208081b": {
    "engine": "Siteimprove Alfa",
    "ruleId": "sia-r73",
-   "summary": "Text has minimum contrast ratio of 4.5:1 (WCAG 1.4.8)",
+   "summary": "Paragraph line height is at least 1.5 (WCAG 1.4.8)",
    "wcag": "1.4.8",
    "severity": "Serious",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksSeen": 1,
-   "lastPagesAffected": 14,
+   "weeksSeen": 2,
+   "lastPagesAffected": 82,
    "lastAffectedPages": [
-    "https://ncses.nsf.gov/pubs/nsf25347",
-    "https://ncses.nsf.gov/pubs/nsb20257/table/SDISC-6",
-    "https://ncses.nsf.gov/resource",
-    "https://ncses.nsf.gov/pubs/nsf23300/downloads",
-    "https://ncses.nsf.gov/pubs/nsb20226/figure/KTI-29",
-    "https://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Higher+Education+R%26D",
-    "https://ncses.nsf.gov/pubs/nsf26325",
-    "https://ncses.nsf.gov/pubs/nsf23300/report/field-of-doctorate",
-    "https://ncses.nsf.gov/pubs/nsf23300/how-do-i",
-    "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-78",
-    "http://ncses.nsf.gov/pubs/nsf23300",
-    "https://ncses.nsf.gov/pubs/nsb20226/table/SAKTI-2",
-    "https://ncses.nsf.gov/pubs/nsf20301/report/education-related-debt",
-    "https://ncses.nsf.gov/pubs/nsf22327"
+    "https://ncses.nsf.gov/pubs/ncses26206",
+    "https://ncses.nsf.gov/pubs/nsb20261/international-comparisons-and-global-competitiveness",
+    "https://ncses.nsf.gov/pubs/nsf25304/section/21274",
+    "https://www.ncses.nsf.gov/pubs/nsf26313/surveypage/table/16477",
+    "https://ncses.nsf.gov/surveys/state-government-research-development",
+    "https://www.ncses.nsf.gov/search?aois=Research+and+Development+Funding+and+Performance&query=&topics=R%26D+Publications+%26+Articles",
+    "https://ncses.nsf.gov/pubs/nsb20262/figure/TRN-33",
+    "http://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=Postgraduation+Plans",
+    "https://ncses.nsf.gov/pubs/nsf24336/table/1-4",
+    "https://ncses.nsf.gov/archived?url=https%3A%2F%2Fwww.nsf.gov%2Fstatistics%2Fstates%2F",
+    "https://ncses.nsf.gov/pubs/nsb20261/persistence-and-attrition-in-stem-education-and-training",
+    "https://www.ncses.nsf.gov/search?aois=Research+and+Development+Funding+and+Performance&query=&topics=Federal+Government%2FAgency+R%26D",
+    "https://ncses.nsf.gov/pubs/nsf24336/table/5-1",
+    "http://ncses.nsf.gov/accessibility",
+    "http://ncses.nsf.gov/pubs/nsb20262/table/TRN-6",
+    "https://ncses.nsf.gov/pubs/nsf23327",
+    "https://ncses.nsf.gov/pubs/nsb20257/table/DISC-4",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Knowledge+and+Technology+Intensive+%28KTI%29+Industries",
+    "https://ncses.nsf.gov/pubs/ncses26205",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Clinical+Trials+and+Medical+Projects",
+    "https://ncses.nsf.gov/pubs/nsb20212/table/LBR-3",
+    "http://ncses.nsf.gov/pubs/ncses22202/section/11154",
+    "https://ncses.nsf.gov/pubs/nsf26303/section/26246",
+    "https://ncses.nsf.gov/pubs/nsb20262/figure/TRN-15",
+    "https://ncses.nsf.gov/pubs/nsb20262/table/STRN-44"
    ]
   },
   "VS-388b5438": {
    "engine": "Siteimprove Alfa",
    "ruleId": "sia-r80",
-   "summary": "Scrollable element is keyboard accessible (WCAG 1.4.8)",
+   "summary": "Paragraph line height uses a relative unit (WCAG 1.4.8)",
    "wcag": "1.4.8",
-   "severity": "Serious",
+   "severity": "Moderate",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksSeen": 1,
-   "lastPagesAffected": 13,
+   "weeksSeen": 2,
+   "lastPagesAffected": 54,
    "lastAffectedPages": [
-    "https://ncses.nsf.gov/pubs/nsf25347",
-    "https://ncses.nsf.gov/resource",
-    "https://ncses.nsf.gov/pubs/nsf23300/downloads",
-    "https://ncses.nsf.gov/pubs/nsb20226/figure/KTI-29",
-    "https://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Higher+Education+R%26D",
-    "https://ncses.nsf.gov/pubs/nsf26325",
-    "https://ncses.nsf.gov/pubs/nsf23300/report/field-of-doctorate",
-    "https://ncses.nsf.gov/pubs/nsf23300/how-do-i",
-    "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-78",
-    "http://ncses.nsf.gov/pubs/nsf23300",
-    "https://ncses.nsf.gov/pubs/nsb20226/table/SAKTI-2",
-    "https://ncses.nsf.gov/pubs/nsf20301/report/education-related-debt",
-    "https://ncses.nsf.gov/pubs/nsf22327"
+    "https://ncses.nsf.gov/pubs/ncses26206",
+    "https://ncses.nsf.gov/pubs/nsb20261/international-comparisons-and-global-competitiveness",
+    "https://ncses.nsf.gov/surveys/state-government-research-development",
+    "https://www.ncses.nsf.gov/search?aois=Research+and+Development+Funding+and+Performance&query=&topics=R%26D+Publications+%26+Articles",
+    "http://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=Postgraduation+Plans",
+    "https://ncses.nsf.gov/archived?url=https%3A%2F%2Fwww.nsf.gov%2Fstatistics%2Fstates%2F",
+    "https://ncses.nsf.gov/pubs/nsb20261/persistence-and-attrition-in-stem-education-and-training",
+    "https://www.ncses.nsf.gov/search?aois=Research+and+Development+Funding+and+Performance&query=&topics=Federal+Government%2FAgency+R%26D",
+    "http://ncses.nsf.gov/accessibility",
+    "https://ncses.nsf.gov/pubs/nsf23327",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Knowledge+and+Technology+Intensive+%28KTI%29+Industries",
+    "https://ncses.nsf.gov/pubs/ncses26205",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Clinical+Trials+and+Medical+Projects",
+    "https://ncses.nsf.gov/pubs/nsb20212/table/LBR-3",
+    "http://ncses.nsf.gov/pubs/ncses22202/section/11154",
+    "https://ncses.nsf.gov/search?aois=Research+and+Development+Funding+and+Performance&query=&topics=State+Government%2FAgency+R%26D",
+    "https://ncses.nsf.gov/explore-data/microdata",
+    "https://ncses.nsf.gov/pubs/nsb20201",
+    "http://ncses.nsf.gov/pubs/nsf23300/report",
+    "https://ncses.nsf.gov/pubs/nsf19310",
+    "http://ncses.nsf.gov/search?aois=STEM+Education&query=&topics=Family+Characteristics",
+    "https://ncses.nsf.gov/pubs/nsb20226/table/SKTI-25",
+    "https://ncses.nsf.gov/browse-library?survey=National+Survey+of+College+Graduates+%28NSCG%29",
+    "https://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=Occupation",
+    "https://ncses.nsf.gov/pubs/nsf26301"
    ]
   },
   "VS-fbf54eba": {
    "engine": "Siteimprove Alfa",
    "ruleId": "sia-r74",
-   "summary": "Link is distinguishable without relying on color (WCAG 1.4.8)",
+   "summary": "Paragraph font size uses a relative unit (WCAG 1.4.8)",
    "wcag": "1.4.8",
-   "severity": "Serious",
+   "severity": "Moderate",
+   "firstSeen": "2026-W43",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W43",
+    "2026-W44"
+   ],
+   "weeksSeen": 2,
+   "lastPagesAffected": 54,
+   "lastAffectedPages": [
+    "https://ncses.nsf.gov/pubs/ncses26206",
+    "https://ncses.nsf.gov/pubs/nsb20261/international-comparisons-and-global-competitiveness",
+    "https://ncses.nsf.gov/surveys/state-government-research-development",
+    "https://www.ncses.nsf.gov/search?aois=Research+and+Development+Funding+and+Performance&query=&topics=R%26D+Publications+%26+Articles",
+    "http://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=Postgraduation+Plans",
+    "https://ncses.nsf.gov/archived?url=https%3A%2F%2Fwww.nsf.gov%2Fstatistics%2Fstates%2F",
+    "https://ncses.nsf.gov/pubs/nsb20261/persistence-and-attrition-in-stem-education-and-training",
+    "https://www.ncses.nsf.gov/search?aois=Research+and+Development+Funding+and+Performance&query=&topics=Federal+Government%2FAgency+R%26D",
+    "http://ncses.nsf.gov/accessibility",
+    "https://ncses.nsf.gov/pubs/nsf23327",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Knowledge+and+Technology+Intensive+%28KTI%29+Industries",
+    "https://ncses.nsf.gov/pubs/ncses26205",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Clinical+Trials+and+Medical+Projects",
+    "https://ncses.nsf.gov/pubs/nsb20212/table/LBR-3",
+    "http://ncses.nsf.gov/pubs/ncses22202/section/11154",
+    "https://ncses.nsf.gov/search?aois=Research+and+Development+Funding+and+Performance&query=&topics=State+Government%2FAgency+R%26D",
+    "https://ncses.nsf.gov/explore-data/microdata",
+    "https://ncses.nsf.gov/pubs/nsb20201",
+    "http://ncses.nsf.gov/pubs/nsf23300/report",
+    "https://ncses.nsf.gov/pubs/nsf19310",
+    "http://ncses.nsf.gov/search?aois=STEM+Education&query=&topics=Family+Characteristics",
+    "https://ncses.nsf.gov/pubs/nsb20226/table/SKTI-25",
+    "https://ncses.nsf.gov/browse-library?survey=National+Survey+of+College+Graduates+%28NSCG%29",
+    "https://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=Occupation",
+    "https://ncses.nsf.gov/pubs/nsf26301"
+   ]
+  },
+  "VS-48291402": {
+   "engine": "Siteimprove Alfa",
+   "ruleId": "sia-r71",
+   "summary": "Paragraph text is not justified (WCAG 1.4.8)",
+   "wcag": "1.4.8",
+   "severity": "Moderate",
    "firstSeen": "2026-W43",
    "lastSeen": "2026-W43",
    "_weeks": [
     "2026-W43"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 13,
+   "lastPagesAffected": 3,
    "lastAffectedPages": [
-    "https://ncses.nsf.gov/pubs/nsf25347",
-    "https://ncses.nsf.gov/resource",
-    "https://ncses.nsf.gov/pubs/nsf23300/downloads",
-    "https://ncses.nsf.gov/pubs/nsb20226/figure/KTI-29",
-    "https://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Higher+Education+R%26D",
-    "https://ncses.nsf.gov/pubs/nsf26325",
-    "https://ncses.nsf.gov/pubs/nsf23300/report/field-of-doctorate",
-    "https://ncses.nsf.gov/pubs/nsf23300/how-do-i",
-    "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-78",
-    "http://ncses.nsf.gov/pubs/nsf23300",
-    "https://ncses.nsf.gov/pubs/nsb20226/table/SAKTI-2",
-    "https://ncses.nsf.gov/pubs/nsf20301/report/education-related-debt",
-    "https://ncses.nsf.gov/pubs/nsf22327"
-   ]
+    "https://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16123",
+    "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16060",
+    "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099"
+   ],
+   "_coverageLost": true
   },
   "VS-cb53cc4d": {
    "engine": "Siteimprove Alfa",
@@ -698,384 +1103,514 @@
    "wcag": "2.5.5",
    "severity": "Serious",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksSeen": 1,
-   "lastPagesAffected": 13,
+   "weeksSeen": 2,
+   "lastPagesAffected": 83,
    "lastAffectedPages": [
-    "https://ncses.nsf.gov/pubs/nsf25347",
-    "https://ncses.nsf.gov/pubs/nsb20257/table/SDISC-6",
-    "https://ncses.nsf.gov/resource",
-    "https://ncses.nsf.gov/pubs/nsf23300/downloads",
-    "https://ncses.nsf.gov/pubs/nsb20226/figure/KTI-29",
-    "https://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Higher+Education+R%26D",
-    "https://ncses.nsf.gov/pubs/nsf26325",
-    "https://ncses.nsf.gov/pubs/nsf23300/report/field-of-doctorate",
-    "https://ncses.nsf.gov/pubs/nsf23300/how-do-i",
-    "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-78",
-    "https://ncses.nsf.gov/pubs/nsb20226/table/SAKTI-2",
-    "https://ncses.nsf.gov/pubs/nsf20301/report/education-related-debt",
-    "https://ncses.nsf.gov/pubs/nsf22327"
+    "https://ncses.nsf.gov/pubs/ncses26206",
+    "https://ncses.nsf.gov/pubs/nsb20261/international-comparisons-and-global-competitiveness",
+    "https://ncses.nsf.gov/pubs/nsf25304/section/21274",
+    "https://www.ncses.nsf.gov/pubs/nsf26313/surveypage/table/16477",
+    "https://ncses.nsf.gov/surveys/state-government-research-development",
+    "https://www.ncses.nsf.gov/search?aois=Research+and+Development+Funding+and+Performance&query=&topics=R%26D+Publications+%26+Articles",
+    "https://ncses.nsf.gov/pubs/nsb20262/figure/TRN-33",
+    "http://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=Postgraduation+Plans",
+    "https://ncses.nsf.gov/pubs/nsf24336/table/1-4",
+    "https://ncses.nsf.gov/archived?url=https%3A%2F%2Fwww.nsf.gov%2Fstatistics%2Fstates%2F",
+    "https://ncses.nsf.gov/pubs/nsb20261/persistence-and-attrition-in-stem-education-and-training",
+    "https://www.ncses.nsf.gov/search?aois=Research+and+Development+Funding+and+Performance&query=&topics=Federal+Government%2FAgency+R%26D",
+    "https://ncses.nsf.gov/pubs/nsf24336/table/5-1",
+    "http://ncses.nsf.gov/accessibility",
+    "http://ncses.nsf.gov/pubs/nsb20262/table/TRN-6",
+    "https://ncses.nsf.gov/pubs/nsf23327",
+    "https://ncses.nsf.gov/pubs/nsb20257/table/DISC-4",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Knowledge+and+Technology+Intensive+%28KTI%29+Industries",
+    "https://ncses.nsf.gov/pubs/ncses26205",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Clinical+Trials+and+Medical+Projects",
+    "https://ncses.nsf.gov/pubs/nsb20212/table/LBR-3",
+    "http://ncses.nsf.gov/pubs/ncses22202/section/11154",
+    "https://ncses.nsf.gov/pubs/nsf26303/section/26246",
+    "https://ncses.nsf.gov/indicators/states/technical-notes",
+    "https://ncses.nsf.gov/pubs/nsb20262/figure/TRN-15"
    ]
   },
   "VS-f18df681": {
    "engine": "axe-core",
    "ruleId": "region",
-   "summary": "All page content should be contained by landmarks (WCAG criterion undetermined)",
+   "summary": "All page content should be contained by landmarks (best practice, not a WCAG requirement)",
    "wcag": null,
    "severity": "Serious",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksSeen": 1,
-   "lastPagesAffected": 25,
+   "weeksSeen": 2,
+   "lastPagesAffected": 152,
    "lastAffectedPages": [
-    "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-45",
-    "http://ncses.nsf.gov/pubs/ncses22202/figure/3",
-    "http://ncses.nsf.gov/pubs/nsf26315/report/data-source",
-    "https://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=Higher+Education+Degrees",
-    "https://ncses.nsf.gov/pubs/nsf25347",
-    "https://ncses.nsf.gov/pubs/nsb20257/table/SDISC-6",
-    "https://ncses.nsf.gov/resource",
-    "https://ncses.nsf.gov/pubs/nsf23300/downloads",
-    "https://www.ncses.nsf.gov/licensing",
-    "https://ncses.nsf.gov/pubs/nsb20226/figure/KTI-29",
-    "https://ncses.nsf.gov/pubs/nsf25341/figure/1",
-    "https://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Higher+Education+R%26D",
-    "https://ncses.nsf.gov/pubs/nsf26325",
-    "https://ncses.nsf.gov/pubs/nsf23300/report/field-of-doctorate",
-    "https://ncses.nsf.gov/pubs/nsf23349",
-    "https://ncses.nsf.gov/pubs/nsf25344",
-    "https://ncses.nsf.gov/pubs/nsb20262/supplemental-tables",
-    "https://ncses.nsf.gov/pubs/nsf23300/how-do-i",
-    "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-78",
-    "http://ncses.nsf.gov/pubs/nsf23300",
-    "https://ncses.nsf.gov/permissions",
-    "https://ncses.nsf.gov/pubs/nsb20257/notes",
-    "https://ncses.nsf.gov/pubs/nsb20226/table/SAKTI-2",
-    "https://ncses.nsf.gov/pubs/nsf20301/report/education-related-debt",
-    "https://ncses.nsf.gov/pubs/nsf22327"
-   ]
-  },
-  "VS-d25f622d": {
-   "engine": "axe-core",
-   "ruleId": "heading-order",
-   "summary": "Heading levels should only increase by one (WCAG criterion undetermined)",
-   "wcag": null,
-   "severity": "Serious",
-   "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
-   "_weeks": [
-    "2026-W43"
-   ],
-   "weeksSeen": 1,
-   "lastPagesAffected": 13,
-   "lastAffectedPages": [
-    "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-45",
-    "http://ncses.nsf.gov/pubs/ncses22202/figure/3",
-    "https://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=Higher+Education+Degrees",
-    "https://ncses.nsf.gov/resource",
-    "https://ncses.nsf.gov/pubs/nsb20226/figure/KTI-29",
-    "https://ncses.nsf.gov/pubs/nsf25341/figure/1",
-    "https://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Higher+Education+R%26D",
-    "https://ncses.nsf.gov/pubs/nsf23300/report/field-of-doctorate",
-    "https://ncses.nsf.gov/pubs/nsf23349",
-    "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-78",
-    "https://ncses.nsf.gov/pubs/nsb20226/table/SAKTI-2",
-    "https://ncses.nsf.gov/pubs/nsf20301/report/education-related-debt",
-    "https://ncses.nsf.gov/pubs/nsf22327"
+    "https://ncses.nsf.gov/pubs/ncses26206",
+    "https://ncses.nsf.gov/pubs/nsb20261/international-comparisons-and-global-competitiveness",
+    "https://ncses.nsf.gov/pubs/nsf26313/surveypage/table/16477",
+    "https://ncses.nsf.gov/pubs/nsf25304/section/21274",
+    "https://www.ncses.nsf.gov/about",
+    "https://ncses.nsf.gov/pubs/nsf23351/surveypage/table/9706",
+    "https://www.ncses.nsf.gov/pubs/nsf26313/surveypage/table/16477",
+    "https://ncses.nsf.gov/surveys/state-government-research-development",
+    "https://www.ncses.nsf.gov/search?aois=Research+and+Development+Funding+and+Performance&query=&topics=R%26D+Publications+%26+Articles",
+    "https://ncses.nsf.gov/pubs/nsb20262/figure/TRN-33",
+    "https://ncses.nsf.gov/pubs/nsb20262/figure/TRN-31",
+    "https://ncses.nsf.gov/pubs/nsf21321",
+    "http://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=Postgraduation+Plans",
+    "https://ncses.nsf.gov/pubs/nsf24336/table/1-4",
+    "https://ncses.nsf.gov/archived?url=https%3A%2F%2Fwww.nsf.gov%2Fstatistics%2Fstates%2F",
+    "https://ncses.nsf.gov/pubs/nsb20261/persistence-and-attrition-in-stem-education-and-training",
+    "https://ncses.nsf.gov/pubs/nsb202333/figure/PBS-5",
+    "https://www.ncses.nsf.gov/search?aois=Research+and+Development+Funding+and+Performance&query=&topics=Federal+Government%2FAgency+R%26D",
+    "https://ncses.nsf.gov/pubs/nsf24336/table/5-1",
+    "http://ncses.nsf.gov/accessibility",
+    "http://ncses.nsf.gov/pubs/nsb20262/table/TRN-6",
+    "https://ncses.nsf.gov/pubs/nsf23327",
+    "https://www.ncses.nsf.gov/data-collections/national-patterns/2022-2023",
+    "https://ncses.nsf.gov/pubs/nsb20257/table/DISC-4",
+    "https://ncses.nsf.gov/pubs/nsf26320/surveypage/table/17520"
    ]
   },
   "VS-fa724f90": {
    "engine": "axe-core",
    "ruleId": "aria-dialog-name",
-   "summary": "ARIA dialog and alertdialog nodes should have an accessible name (WCAG criterion undetermined)",
+   "summary": "ARIA dialog and alertdialog nodes should have an accessible name (best practice, not a WCAG requirement)",
    "wcag": null,
    "severity": "Serious",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksSeen": 1,
-   "lastPagesAffected": 7,
+   "weeksSeen": 2,
+   "lastPagesAffected": 66,
    "lastAffectedPages": [
-    "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-45",
-    "http://ncses.nsf.gov/pubs/ncses22202/figure/3",
-    "https://ncses.nsf.gov/pubs/nsb20257/table/SDISC-6",
-    "https://ncses.nsf.gov/pubs/nsb20226/figure/KTI-29",
-    "https://ncses.nsf.gov/pubs/nsf25341/figure/1",
-    "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-78",
-    "https://ncses.nsf.gov/pubs/nsb20226/table/SAKTI-2"
+    "https://ncses.nsf.gov/pubs/nsf26313/surveypage/table/16477",
+    "https://ncses.nsf.gov/pubs/nsf23351/surveypage/table/9706",
+    "https://www.ncses.nsf.gov/pubs/nsf26313/surveypage/table/16477",
+    "https://ncses.nsf.gov/pubs/nsb20262/figure/TRN-33",
+    "https://ncses.nsf.gov/pubs/nsb20262/figure/TRN-31",
+    "https://ncses.nsf.gov/pubs/nsf24336/table/1-4",
+    "https://ncses.nsf.gov/pubs/nsb202333/figure/PBS-5",
+    "https://ncses.nsf.gov/pubs/nsf24336/table/5-1",
+    "http://ncses.nsf.gov/pubs/nsb20262/table/TRN-6",
+    "https://ncses.nsf.gov/pubs/nsb20257/table/DISC-4",
+    "https://ncses.nsf.gov/pubs/nsf26320/surveypage/table/17520",
+    "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-22",
+    "https://ncses.nsf.gov/pubs/nsb20212/table/LBR-3",
+    "https://ncses.nsf.gov/pubs/nsb20262/figure/TRN-15",
+    "https://ncses.nsf.gov/pubs/nsb20262/table/STRN-44",
+    "http://ncses.nsf.gov/pubs/nsf25322/surveypage/table/13698",
+    "https://ncses.nsf.gov/pubs/nsb20226/table/SKTI-25",
+    "https://ncses.nsf.gov/pubs/nsf25341/figure/3",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14488",
+    "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25",
+    "https://ncses.nsf.gov/pubs/nsf24317/figure/3",
+    "http://ncses.nsf.gov/pubs/nsf24336/surveypage/table/11712",
+    "https://ncses.nsf.gov/pubs/nsf25314/table/1",
+    "https://ncses.nsf.gov/pubs/nsf24323/figure/4",
+    "https://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14509"
    ]
   },
   "VS-33841929": {
    "engine": "axe-core",
    "ruleId": "label-title-only",
-   "summary": "Form elements should have a visible label (WCAG criterion undetermined)",
+   "summary": "Form elements should have a visible label (best practice, not a WCAG requirement)",
    "wcag": null,
    "severity": "Serious",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksSeen": 1,
-   "lastPagesAffected": 1,
+   "weeksSeen": 2,
+   "lastPagesAffected": 3,
    "lastAffectedPages": [
-    "https://ncses.nsf.gov/pubs/nsf22327"
-   ]
-  },
-  "VS-d5d82446": {
-   "engine": "axe-core",
-   "ruleId": "landmark-one-main",
-   "summary": "Document should have one main landmark (WCAG criterion undetermined)",
-   "wcag": null,
-   "severity": "Moderate",
-   "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
-   "_weeks": [
-    "2026-W43"
-   ],
-   "weeksSeen": 1,
-   "lastPagesAffected": 12,
-   "lastAffectedPages": [
-    "https://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=Higher+Education+Degrees",
-    "https://ncses.nsf.gov/resource",
-    "https://ncses.nsf.gov/pubs/nsf23300/downloads",
-    "https://www.ncses.nsf.gov/licensing",
-    "https://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Higher+Education+R%26D",
-    "https://ncses.nsf.gov/pubs/nsf26325",
-    "https://ncses.nsf.gov/pubs/nsf23300/report/field-of-doctorate",
-    "https://ncses.nsf.gov/pubs/nsf23349",
-    "https://ncses.nsf.gov/pubs/nsf23300/how-do-i",
-    "https://ncses.nsf.gov/permissions",
-    "https://ncses.nsf.gov/pubs/nsf20301/report/education-related-debt",
-    "https://ncses.nsf.gov/pubs/nsf22327"
-   ]
-  },
-  "VS-8806389c": {
-   "engine": "axe-core",
-   "ruleId": "landmark-unique",
-   "summary": "Landmarks should have a unique role or role/label/title (i.e. accessible name) c (WCAG criterion undetermined)",
-   "wcag": null,
-   "severity": "Moderate",
-   "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
-   "_weeks": [
-    "2026-W43"
-   ],
-   "weeksSeen": 1,
-   "lastPagesAffected": 8,
-   "lastAffectedPages": [
-    "https://ncses.nsf.gov/pubs/nsf25347",
-    "https://ncses.nsf.gov/pubs/nsb20226/figure/KTI-29",
-    "https://ncses.nsf.gov/pubs/nsf25341/figure/1",
-    "https://ncses.nsf.gov/pubs/nsf26325",
-    "https://ncses.nsf.gov/pubs/nsf23300/report/field-of-doctorate",
-    "https://ncses.nsf.gov/pubs/nsf23349",
-    "https://ncses.nsf.gov/pubs/nsf20301/report/education-related-debt",
-    "https://ncses.nsf.gov/pubs/nsf22327"
-   ]
-  },
-  "VS-fa44f293": {
-   "engine": "axe-core",
-   "ruleId": "page-has-heading-one",
-   "summary": "Page should contain a level-one heading (WCAG criterion undetermined)",
-   "wcag": null,
-   "severity": "Moderate",
-   "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
-   "_weeks": [
-    "2026-W43"
-   ],
-   "weeksSeen": 1,
-   "lastPagesAffected": 2,
-   "lastAffectedPages": [
-    "https://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=Higher+Education+Degrees",
-    "https://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Higher+Education+R%26D"
-   ]
-  },
-  "VS-4fac2f41": {
-   "engine": "axe-core",
-   "ruleId": "aria-allowed-role",
-   "summary": "ARIA role should be appropriate for the element (WCAG criterion undetermined)",
-   "wcag": null,
-   "severity": "Minor",
-   "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
-   "_weeks": [
-    "2026-W43"
-   ],
-   "weeksSeen": 1,
-   "lastPagesAffected": 2,
-   "lastAffectedPages": [
-    "https://ncses.nsf.gov/pubs/nsb20257/table/SDISC-6",
-    "https://ncses.nsf.gov/pubs/nsb20262/supplemental-tables"
-   ]
-  },
-  "VS-0066c67d": {
-   "engine": "axe-core",
-   "ruleId": "empty-heading",
-   "summary": "Headings should not be empty (WCAG criterion undetermined)",
-   "wcag": null,
-   "severity": "Minor",
-   "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
-   "_weeks": [
-    "2026-W43"
-   ],
-   "weeksSeen": 1,
-   "lastPagesAffected": 1,
-   "lastAffectedPages": [
-    "https://ncses.nsf.gov/resource"
-   ]
-  },
-  "VS-f528778d": {
-   "engine": "axe-core",
-   "ruleId": "image-redundant-alt",
-   "summary": "Alternative text of images should not be repeated as text (WCAG criterion undetermined)",
-   "wcag": null,
-   "severity": "Minor",
-   "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
-   "_weeks": [
-    "2026-W43"
-   ],
-   "weeksSeen": 1,
-   "lastPagesAffected": 1,
-   "lastAffectedPages": [
-    "https://ncses.nsf.gov/pubs/nsf22327"
+    "https://ncses.nsf.gov/pubs/nsf21300",
+    "https://ncses.nsf.gov/pubs/nsf21319",
+    "https://ncses.nsf.gov/pubs/nsf22328"
    ]
   },
   "VS-f054f4a4": {
    "engine": "Siteimprove Alfa",
    "ruleId": "sia-r53",
-   "summary": "Headings are structured hierarchically (WCAG criterion undetermined)",
+   "summary": "Headings are structured hierarchically (best practice, not a WCAG requirement)",
    "wcag": null,
    "severity": "Serious",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksSeen": 1,
-   "lastPagesAffected": 14,
+   "weeksSeen": 2,
+   "lastPagesAffected": 80,
    "lastAffectedPages": [
-    "https://ncses.nsf.gov/pubs/nsf25347",
-    "https://ncses.nsf.gov/pubs/nsb20257/table/SDISC-6",
-    "https://ncses.nsf.gov/resource",
-    "https://ncses.nsf.gov/pubs/nsf23300/downloads",
-    "https://ncses.nsf.gov/pubs/nsb20226/figure/KTI-29",
-    "https://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Higher+Education+R%26D",
-    "https://ncses.nsf.gov/pubs/nsf26325",
-    "https://ncses.nsf.gov/pubs/nsf23300/report/field-of-doctorate",
-    "https://ncses.nsf.gov/pubs/nsf23300/how-do-i",
-    "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-78",
-    "http://ncses.nsf.gov/pubs/nsf23300",
-    "https://ncses.nsf.gov/pubs/nsb20226/table/SAKTI-2",
-    "https://ncses.nsf.gov/pubs/nsf20301/report/education-related-debt",
-    "https://ncses.nsf.gov/pubs/nsf22327"
+    "https://ncses.nsf.gov/pubs/ncses26206",
+    "https://ncses.nsf.gov/pubs/nsb20261/international-comparisons-and-global-competitiveness",
+    "https://ncses.nsf.gov/pubs/nsf25304/section/21274",
+    "https://www.ncses.nsf.gov/pubs/nsf26313/surveypage/table/16477",
+    "https://ncses.nsf.gov/surveys/state-government-research-development",
+    "https://www.ncses.nsf.gov/search?aois=Research+and+Development+Funding+and+Performance&query=&topics=R%26D+Publications+%26+Articles",
+    "https://ncses.nsf.gov/pubs/nsb20262/figure/TRN-33",
+    "http://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=Postgraduation+Plans",
+    "https://ncses.nsf.gov/pubs/nsf24336/table/1-4",
+    "https://ncses.nsf.gov/archived?url=https%3A%2F%2Fwww.nsf.gov%2Fstatistics%2Fstates%2F",
+    "https://ncses.nsf.gov/pubs/nsb20261/persistence-and-attrition-in-stem-education-and-training",
+    "https://www.ncses.nsf.gov/search?aois=Research+and+Development+Funding+and+Performance&query=&topics=Federal+Government%2FAgency+R%26D",
+    "https://ncses.nsf.gov/pubs/nsf24336/table/5-1",
+    "http://ncses.nsf.gov/accessibility",
+    "http://ncses.nsf.gov/pubs/nsb20262/table/TRN-6",
+    "https://ncses.nsf.gov/pubs/nsf23327",
+    "https://ncses.nsf.gov/pubs/nsb20257/table/DISC-4",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Knowledge+and+Technology+Intensive+%28KTI%29+Industries",
+    "https://ncses.nsf.gov/pubs/ncses26205",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Clinical+Trials+and+Medical+Projects",
+    "https://ncses.nsf.gov/pubs/nsb20212/table/LBR-3",
+    "http://ncses.nsf.gov/pubs/ncses22202/section/11154",
+    "https://ncses.nsf.gov/pubs/nsf26303/section/26246",
+    "https://ncses.nsf.gov/pubs/nsb20262/figure/TRN-15",
+    "https://ncses.nsf.gov/pubs/nsb20262/table/STRN-44"
    ]
   },
   "VS-7118fead": {
    "engine": "Siteimprove Alfa",
    "ruleId": "sia-r61",
-   "summary": "Form field label is visible (WCAG criterion undetermined)",
+   "summary": "Page starts with a level 1 heading (best practice, not a WCAG requirement)",
    "wcag": null,
    "severity": "Serious",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksSeen": 1,
-   "lastPagesAffected": 14,
+   "weeksSeen": 2,
+   "lastPagesAffected": 80,
    "lastAffectedPages": [
-    "https://ncses.nsf.gov/pubs/nsf25347",
-    "https://ncses.nsf.gov/pubs/nsb20257/table/SDISC-6",
-    "https://ncses.nsf.gov/resource",
-    "https://ncses.nsf.gov/pubs/nsf23300/downloads",
-    "https://ncses.nsf.gov/pubs/nsb20226/figure/KTI-29",
-    "https://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Higher+Education+R%26D",
-    "https://ncses.nsf.gov/pubs/nsf26325",
-    "https://ncses.nsf.gov/pubs/nsf23300/report/field-of-doctorate",
-    "https://ncses.nsf.gov/pubs/nsf23300/how-do-i",
-    "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-78",
-    "http://ncses.nsf.gov/pubs/nsf23300",
-    "https://ncses.nsf.gov/pubs/nsb20226/table/SAKTI-2",
-    "https://ncses.nsf.gov/pubs/nsf20301/report/education-related-debt",
-    "https://ncses.nsf.gov/pubs/nsf22327"
+    "https://ncses.nsf.gov/pubs/ncses26206",
+    "https://ncses.nsf.gov/pubs/nsb20261/international-comparisons-and-global-competitiveness",
+    "https://ncses.nsf.gov/pubs/nsf25304/section/21274",
+    "https://www.ncses.nsf.gov/pubs/nsf26313/surveypage/table/16477",
+    "https://ncses.nsf.gov/surveys/state-government-research-development",
+    "https://www.ncses.nsf.gov/search?aois=Research+and+Development+Funding+and+Performance&query=&topics=R%26D+Publications+%26+Articles",
+    "https://ncses.nsf.gov/pubs/nsb20262/figure/TRN-33",
+    "http://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=Postgraduation+Plans",
+    "https://ncses.nsf.gov/pubs/nsf24336/table/1-4",
+    "https://ncses.nsf.gov/archived?url=https%3A%2F%2Fwww.nsf.gov%2Fstatistics%2Fstates%2F",
+    "https://ncses.nsf.gov/pubs/nsb20261/persistence-and-attrition-in-stem-education-and-training",
+    "https://www.ncses.nsf.gov/search?aois=Research+and+Development+Funding+and+Performance&query=&topics=Federal+Government%2FAgency+R%26D",
+    "https://ncses.nsf.gov/pubs/nsf24336/table/5-1",
+    "http://ncses.nsf.gov/accessibility",
+    "http://ncses.nsf.gov/pubs/nsb20262/table/TRN-6",
+    "https://ncses.nsf.gov/pubs/nsf23327",
+    "https://ncses.nsf.gov/pubs/nsb20257/table/DISC-4",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Knowledge+and+Technology+Intensive+%28KTI%29+Industries",
+    "https://ncses.nsf.gov/pubs/ncses26205",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Clinical+Trials+and+Medical+Projects",
+    "https://ncses.nsf.gov/pubs/nsb20212/table/LBR-3",
+    "http://ncses.nsf.gov/pubs/ncses22202/section/11154",
+    "https://ncses.nsf.gov/pubs/nsf26303/section/26246",
+    "https://ncses.nsf.gov/pubs/nsb20262/figure/TRN-15",
+    "https://ncses.nsf.gov/pubs/nsb20262/table/STRN-44"
+   ]
+  },
+  "VS-8806389c": {
+   "engine": "axe-core",
+   "ruleId": "landmark-unique",
+   "summary": "Landmarks should have a unique role or role/label/title (i.e. accessible name) c (best practice, not a WCAG requirement)",
+   "wcag": null,
+   "severity": "Moderate",
+   "firstSeen": "2026-W43",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W43",
+    "2026-W44"
+   ],
+   "weeksSeen": 2,
+   "lastPagesAffected": 76,
+   "lastAffectedPages": [
+    "https://ncses.nsf.gov/pubs/nsb20261/international-comparisons-and-global-competitiveness",
+    "https://ncses.nsf.gov/pubs/nsf26313/surveypage/table/16477",
+    "https://ncses.nsf.gov/pubs/nsf25304/section/21274",
+    "https://ncses.nsf.gov/pubs/nsf23351/surveypage/table/9706",
+    "https://www.ncses.nsf.gov/pubs/nsf26313/surveypage/table/16477",
+    "https://ncses.nsf.gov/surveys/state-government-research-development",
+    "https://ncses.nsf.gov/pubs/nsb20262/figure/TRN-33",
+    "https://ncses.nsf.gov/pubs/nsb20262/figure/TRN-31",
+    "https://ncses.nsf.gov/pubs/nsf24336/table/1-4",
+    "https://ncses.nsf.gov/pubs/nsb20261/persistence-and-attrition-in-stem-education-and-training",
+    "https://ncses.nsf.gov/pubs/nsb202333/figure/PBS-5",
+    "https://ncses.nsf.gov/pubs/nsf24336/table/5-1",
+    "http://ncses.nsf.gov/pubs/nsb20262/table/TRN-6",
+    "https://www.ncses.nsf.gov/data-collections/national-patterns/2022-2023",
+    "https://ncses.nsf.gov/pubs/nsf26320/surveypage/table/17520",
+    "https://ncses.nsf.gov/pubs/nsf21300",
+    "https://ncses.nsf.gov/pubs/nsb20212/table/LBR-3",
+    "https://www.ncses.nsf.gov/pubs/nsf25307/section/21136",
+    "https://ncses.nsf.gov/surveys/business-enterprise-research-development",
+    "https://ncses.nsf.gov/pubs/nsf26303/section/26246",
+    "https://ncses.nsf.gov/pubs/nsb20262/figure/TRN-15",
+    "http://ncses.nsf.gov/pubs/nsf25322/surveypage/table/13698",
+    "http://ncses.nsf.gov/pubs/nsf23300/report",
+    "https://ncses.nsf.gov/surveys/federal-facilities-research-development",
+    "https://ncses.nsf.gov/pubs/nsf26301"
+   ]
+  },
+  "VS-d25f622d": {
+   "engine": "axe-core",
+   "ruleId": "heading-order",
+   "summary": "Heading levels should only increase by one (best practice, not a WCAG requirement)",
+   "wcag": null,
+   "severity": "Serious",
+   "firstSeen": "2026-W43",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W43",
+    "2026-W44"
+   ],
+   "weeksSeen": 2,
+   "lastPagesAffected": 80,
+   "lastAffectedPages": [
+    "https://ncses.nsf.gov/pubs/ncses26206",
+    "https://ncses.nsf.gov/pubs/nsf25304/section/21274",
+    "https://ncses.nsf.gov/pubs/nsf23351/surveypage/table/9706",
+    "https://www.ncses.nsf.gov/search?aois=Research+and+Development+Funding+and+Performance&query=&topics=R%26D+Publications+%26+Articles",
+    "https://ncses.nsf.gov/pubs/nsb20262/figure/TRN-33",
+    "https://ncses.nsf.gov/pubs/nsb20262/figure/TRN-31",
+    "http://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=Postgraduation+Plans",
+    "https://ncses.nsf.gov/pubs/nsf24336/table/1-4",
+    "https://ncses.nsf.gov/archived?url=https%3A%2F%2Fwww.nsf.gov%2Fstatistics%2Fstates%2F",
+    "https://ncses.nsf.gov/pubs/nsb202333/figure/PBS-5",
+    "https://www.ncses.nsf.gov/search?aois=Research+and+Development+Funding+and+Performance&query=&topics=Federal+Government%2FAgency+R%26D",
+    "https://ncses.nsf.gov/pubs/nsf24336/table/5-1",
+    "https://ncses.nsf.gov/pubs/nsf23327",
+    "https://ncses.nsf.gov/pubs/nsf21300",
+    "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-22",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Knowledge+and+Technology+Intensive+%28KTI%29+Industries",
+    "https://ncses.nsf.gov/pubs/ncses26205",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Clinical+Trials+and+Medical+Projects",
+    "https://ncses.nsf.gov/pubs/nsb20212/table/LBR-3",
+    "https://www.ncses.nsf.gov/pubs/nsf25307/section/21136",
+    "http://ncses.nsf.gov/pubs/ncses22202/section/11154",
+    "http://ncses.nsf.gov/interest-areas/stem",
+    "https://ncses.nsf.gov/pubs/nsb20262/figure/TRN-15",
+    "https://ncses.nsf.gov/explore-data/microdata/science-engineering-research-facilities",
+    "http://ncses.nsf.gov/pubs/nsf25322/surveypage/table/13698"
+   ]
+  },
+  "VS-d5d82446": {
+   "engine": "axe-core",
+   "ruleId": "landmark-one-main",
+   "summary": "Document should have one main landmark (best practice, not a WCAG requirement)",
+   "wcag": null,
+   "severity": "Moderate",
+   "firstSeen": "2026-W43",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W43",
+    "2026-W44"
+   ],
+   "weeksSeen": 2,
+   "lastPagesAffected": 67,
+   "lastAffectedPages": [
+    "https://ncses.nsf.gov/pubs/ncses26206",
+    "https://ncses.nsf.gov/pubs/nsf25304/section/21274",
+    "https://www.ncses.nsf.gov/about",
+    "https://ncses.nsf.gov/surveys/state-government-research-development",
+    "https://www.ncses.nsf.gov/search?aois=Research+and+Development+Funding+and+Performance&query=&topics=R%26D+Publications+%26+Articles",
+    "http://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=Postgraduation+Plans",
+    "https://www.ncses.nsf.gov/search?aois=Research+and+Development+Funding+and+Performance&query=&topics=Federal+Government%2FAgency+R%26D",
+    "http://ncses.nsf.gov/accessibility",
+    "https://ncses.nsf.gov/pubs/nsf23327",
+    "https://www.ncses.nsf.gov/data-collections/national-patterns/2022-2023",
+    "https://ncses.nsf.gov/pubs/nsf21300",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Knowledge+and+Technology+Intensive+%28KTI%29+Industries",
+    "https://ncses.nsf.gov/pubs/ncses26205",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Clinical+Trials+and+Medical+Projects",
+    "https://www.ncses.nsf.gov/pubs/nsf25307/section/21136",
+    "http://ncses.nsf.gov/pubs/ncses22202/section/11154",
+    "http://ncses.nsf.gov/interest-areas/stem",
+    "https://ncses.nsf.gov/surveys/business-enterprise-research-development",
+    "https://ncses.nsf.gov/explore-data/microdata/science-engineering-research-facilities",
+    "https://ncses.nsf.gov/search?aois=Research+and+Development+Funding+and+Performance&query=&topics=State+Government%2FAgency+R%26D",
+    "https://ncses.nsf.gov/search?aois=Research+and+Development+Funding+and+Performance&query=&topics=Production+and+Value+Added",
+    "https://ncses.nsf.gov/explore-data/microdata",
+    "http://ncses.nsf.gov/pubs/nsf23300/report",
+    "https://ncses.nsf.gov/pubs/nsf24314",
+    "https://ncses.nsf.gov/pubs/nsf19310"
    ]
   },
   "VS-c18be945": {
    "engine": "Siteimprove Alfa",
    "ruleId": "sia-r57",
-   "summary": "Scrolling content can be accessed by keyboard (WCAG criterion undetermined)",
+   "summary": "Text is included in a landmark (best practice, not a WCAG requirement)",
    "wcag": null,
    "severity": "Moderate",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksSeen": 1,
-   "lastPagesAffected": 8,
+   "weeksSeen": 2,
+   "lastPagesAffected": 54,
    "lastAffectedPages": [
-    "https://ncses.nsf.gov/resource",
-    "https://ncses.nsf.gov/pubs/nsf23300/downloads",
-    "https://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Higher+Education+R%26D",
-    "https://ncses.nsf.gov/pubs/nsf26325",
-    "https://ncses.nsf.gov/pubs/nsf23300/report/field-of-doctorate",
-    "https://ncses.nsf.gov/pubs/nsf23300/how-do-i",
-    "https://ncses.nsf.gov/pubs/nsf20301/report/education-related-debt",
-    "https://ncses.nsf.gov/pubs/nsf22327"
+    "https://ncses.nsf.gov/pubs/ncses26206",
+    "https://ncses.nsf.gov/pubs/nsf25304/section/21274",
+    "https://www.ncses.nsf.gov/pubs/nsf26313/surveypage/table/16477",
+    "https://ncses.nsf.gov/surveys/state-government-research-development",
+    "https://www.ncses.nsf.gov/search?aois=Research+and+Development+Funding+and+Performance&query=&topics=R%26D+Publications+%26+Articles",
+    "http://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=Postgraduation+Plans",
+    "https://ncses.nsf.gov/pubs/nsf24336/table/1-4",
+    "https://ncses.nsf.gov/archived?url=https%3A%2F%2Fwww.nsf.gov%2Fstatistics%2Fstates%2F",
+    "https://www.ncses.nsf.gov/search?aois=Research+and+Development+Funding+and+Performance&query=&topics=Federal+Government%2FAgency+R%26D",
+    "https://ncses.nsf.gov/pubs/nsf24336/table/5-1",
+    "http://ncses.nsf.gov/accessibility",
+    "https://ncses.nsf.gov/pubs/nsf23327",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Knowledge+and+Technology+Intensive+%28KTI%29+Industries",
+    "https://ncses.nsf.gov/pubs/ncses26205",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Clinical+Trials+and+Medical+Projects",
+    "http://ncses.nsf.gov/pubs/ncses22202/section/11154",
+    "http://ncses.nsf.gov/pubs/nsf25322/surveypage/table/13698",
+    "https://ncses.nsf.gov/search?aois=Research+and+Development+Funding+and+Performance&query=&topics=State+Government%2FAgency+R%26D",
+    "https://ncses.nsf.gov/explore-data/microdata",
+    "http://ncses.nsf.gov/pubs/nsf23300/report",
+    "https://ncses.nsf.gov/pubs/nsf19310",
+    "http://ncses.nsf.gov/search?aois=STEM+Education&query=&topics=Family+Characteristics",
+    "https://ncses.nsf.gov/browse-library?survey=National+Survey+of+College+Graduates+%28NSCG%29",
+    "https://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=Occupation",
+    "https://ncses.nsf.gov/pubs/nsf26301"
+   ]
+  },
+  "VS-fa44f293": {
+   "engine": "axe-core",
+   "ruleId": "page-has-heading-one",
+   "summary": "Page should contain a level-one heading (best practice, not a WCAG requirement)",
+   "wcag": null,
+   "severity": "Moderate",
+   "firstSeen": "2026-W43",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W43",
+    "2026-W44"
+   ],
+   "weeksSeen": 2,
+   "lastPagesAffected": 27,
+   "lastAffectedPages": [
+    "https://www.ncses.nsf.gov/search?aois=Research+and+Development+Funding+and+Performance&query=&topics=R%26D+Publications+%26+Articles",
+    "https://ncses.nsf.gov/pubs/nsf21321",
+    "http://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=Postgraduation+Plans",
+    "https://www.ncses.nsf.gov/search?aois=Research+and+Development+Funding+and+Performance&query=&topics=Federal+Government%2FAgency+R%26D",
+    "http://ncses.nsf.gov/accessibility",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Knowledge+and+Technology+Intensive+%28KTI%29+Industries",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Clinical+Trials+and+Medical+Projects",
+    "https://ncses.nsf.gov/search?aois=Research+and+Development+Funding+and+Performance&query=&topics=State+Government%2FAgency+R%26D",
+    "https://ncses.nsf.gov/pubs/nsb20226/conclusion",
+    "https://ncses.nsf.gov/search?aois=Research+and+Development+Funding+and+Performance&query=&topics=Production+and+Value+Added",
+    "https://ncses.nsf.gov/explore-data/microdata",
+    "https://ncses.nsf.gov/pubs/nsb20201",
+    "http://ncses.nsf.gov/search?aois=STEM+Education&query=&topics=Family+Characteristics",
+    "https://ncses.nsf.gov/browse-library?survey=National+Survey+of+College+Graduates+%28NSCG%29",
+    "https://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=Occupation",
+    "https://ncses.nsf.gov/indicators/permissions",
+    "https://ncses.nsf.gov/pubs/nsb202333/executive-summary",
+    "https://ncses.nsf.gov/indicators",
+    "http://ncses.nsf.gov/search?aois=STEM+Education&query=&topics=Citizenship",
+    "https://ncses.nsf.gov/search?aois=Research+and+Development+Funding+and+Performance&query=&topics=Higher+Education+R%26D",
+    "https://ncses.nsf.gov/about/whats-new",
+    "https://ncses.nsf.gov/pubs/nsb202333/acknowledgments-and-citation",
+    "https://ncses.nsf.gov/indicators/help",
+    "https://ncses.nsf.gov/pubs/nsb20214/sidebar/coronavirus-publication-output-and-international-collaboration",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=R%26D+Publications+%26+Articles"
    ]
   },
   "VS-e05344b9": {
    "engine": "Siteimprove Alfa",
    "ruleId": "sia-r18",
-   "summary": "aria attribute is permitted for element role (WCAG criterion undetermined)",
+   "summary": "aria attribute is permitted for element role (best practice, not a WCAG requirement)",
    "wcag": null,
    "severity": "Moderate",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksSeen": 1,
-   "lastPagesAffected": 2,
+   "weeksSeen": 2,
+   "lastPagesAffected": 7,
    "lastAffectedPages": [
-    "https://ncses.nsf.gov/pubs/nsb20257/table/SDISC-6",
-    "https://ncses.nsf.gov/pubs/nsf20301/report/education-related-debt"
+    "https://ncses.nsf.gov/pubs/nsb20262/table/STRN-44",
+    "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25",
+    "https://ncses.nsf.gov/pubs/nsb20262/table/STRN-17",
+    "https://ncses.nsf.gov/pubs/nsb20257/table/SDISC-15",
+    "https://ncses.nsf.gov/pubs/nsb20262/table/STRN-38",
+    "https://ncses.nsf.gov/pubs/nsb20257/table/SDISC-34",
+    "https://ncses.nsf.gov/pubs/nsb20261/table/STAL-22"
    ]
   },
   "VS-2cd767ca": {
    "engine": "Siteimprove Alfa",
    "ruleId": "sia-r78",
-   "summary": "Table header has scope (WCAG criterion undetermined)",
+   "summary": "There is content between headings (best practice, not a WCAG requirement)",
    "wcag": null,
    "severity": "Moderate",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksSeen": 1,
-   "lastPagesAffected": 2,
+   "weeksSeen": 2,
+   "lastPagesAffected": 3,
    "lastAffectedPages": [
-    "https://ncses.nsf.gov/resource",
-    "http://ncses.nsf.gov/pubs/nsf23300"
+    "http://ncses.nsf.gov/interest-areas/innovation-global-competitiveness",
+    "https://ncses.nsf.gov/interest-areas/stem",
+    "https://ncses.nsf.gov/pubs/ncses26004"
    ]
   },
   "VS-4c341c77": {
    "engine": "Siteimprove Alfa",
    "ruleId": "sia-r85",
-   "summary": "Keyboard trap does not exist (WCAG criterion undetermined)",
+   "summary": "Paragraph text is not all italic (best practice, not a WCAG requirement)",
+   "wcag": null,
+   "severity": "Moderate",
+   "firstSeen": "2026-W43",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W43",
+    "2026-W44"
+   ],
+   "weeksSeen": 2,
+   "lastPagesAffected": 10,
+   "lastAffectedPages": [
+    "https://www.ncses.nsf.gov/search?aois=Research+and+Development+Funding+and+Performance&query=&topics=R%26D+Publications+%26+Articles",
+    "http://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=Postgraduation+Plans",
+    "https://www.ncses.nsf.gov/search?aois=Research+and+Development+Funding+and+Performance&query=&topics=Federal+Government%2FAgency+R%26D",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Knowledge+and+Technology+Intensive+%28KTI%29+Industries",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Clinical+Trials+and+Medical+Projects",
+    "https://ncses.nsf.gov/search?aois=Research+and+Development+Funding+and+Performance&query=&topics=State+Government%2FAgency+R%26D",
+    "http://ncses.nsf.gov/search?aois=STEM+Education&query=&topics=Family+Characteristics",
+    "https://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=Occupation",
+    "http://ncses.nsf.gov/search?aois=STEM+Education&query=&topics=Citizenship",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=R%26D+Publications+%26+Articles"
+   ]
+  },
+  "VS-3d033717": {
+   "engine": "Siteimprove Alfa",
+   "ruleId": "sia-r70",
+   "summary": "No obsolete or deprecated elements are used (best practice, not a WCAG requirement)",
    "wcag": null,
    "severity": "Moderate",
    "firstSeen": "2026-W43",
@@ -1086,8 +1621,297 @@
    "weeksSeen": 1,
    "lastPagesAffected": 1,
    "lastAffectedPages": [
-    "https://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Higher+Education+R%26D"
+    "https://ncses.nsf.gov/pubs/nsf25331/table/2"
+   ],
+   "_coverageLost": true
+  },
+  "VS-aa242c2d": {
+   "engine": "Siteimprove Alfa",
+   "ruleId": "sia-r87",
+   "summary": "First focusable element is link to main content (best practice, not a WCAG requirement)",
+   "wcag": null,
+   "severity": "Moderate",
+   "firstSeen": "2026-W43",
+   "lastSeen": "2026-W43",
+   "_weeks": [
+    "2026-W43"
+   ],
+   "weeksSeen": 1,
+   "lastPagesAffected": 1,
+   "lastAffectedPages": [
+    "https://ncses.nsf.gov/pubs/nsf26315"
+   ],
+   "_coverageLost": true
+  },
+  "VS-4fac2f41": {
+   "engine": "axe-core",
+   "ruleId": "aria-allowed-role",
+   "summary": "ARIA role should be appropriate for the element (best practice, not a WCAG requirement)",
+   "wcag": null,
+   "severity": "Minor",
+   "firstSeen": "2026-W43",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W43",
+    "2026-W44"
+   ],
+   "weeksSeen": 2,
+   "lastPagesAffected": 10,
+   "lastAffectedPages": [
+    "https://ncses.nsf.gov/pubs/nsb20262/table/STRN-44",
+    "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25",
+    "https://ncses.nsf.gov/pubs/nsb20261/table/STAL-11",
+    "https://ncses.nsf.gov/pubs/nsb20262/table/STRN-17",
+    "https://ncses.nsf.gov/pubs/nsb20257/table/SDISC-15",
+    "https://ncses.nsf.gov/pubs/nsb20257/table/SDISC-2",
+    "https://ncses.nsf.gov/pubs/nsb20257/table/SDISC-23",
+    "https://ncses.nsf.gov/pubs/nsb20262/table/STRN-38",
+    "https://ncses.nsf.gov/pubs/nsb20257/table/SDISC-34",
+    "https://ncses.nsf.gov/pubs/nsb20261/table/STAL-22"
    ]
+  },
+  "VS-f528778d": {
+   "engine": "axe-core",
+   "ruleId": "image-redundant-alt",
+   "summary": "Alternative text of images should not be repeated as text (best practice, not a WCAG requirement)",
+   "wcag": null,
+   "severity": "Minor",
+   "firstSeen": "2026-W43",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W43",
+    "2026-W44"
+   ],
+   "weeksSeen": 2,
+   "lastPagesAffected": 4,
+   "lastAffectedPages": [
+    "https://ncses.nsf.gov/pubs/nsf21300",
+    "https://ncses.nsf.gov/pubs/nsf21319",
+    "https://ncses.nsf.gov/pubs/nsf21321/table/1-2",
+    "https://ncses.nsf.gov/pubs/nsf22328"
+   ]
+  },
+  "VS-0066c67d": {
+   "engine": "axe-core",
+   "ruleId": "empty-heading",
+   "summary": "Headings should not be empty (best practice, not a WCAG requirement)",
+   "wcag": null,
+   "severity": "Minor",
+   "firstSeen": "2026-W43",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W43",
+    "2026-W44"
+   ],
+   "weeksSeen": 2,
+   "lastPagesAffected": 2,
+   "lastAffectedPages": [
+    "http://ncses.nsf.gov/interest-areas/stem",
+    "https://ncses.nsf.gov/interest-areas/stem"
+   ]
+  },
+  "VS-04a9d28c": {
+   "engine": "deprecated-html",
+   "ruleId": "presentational-attr",
+   "summary": "Presentational attribute (use CSS) (WCAG criterion undetermined)",
+   "wcag": null,
+   "severity": "Moderate",
+   "firstSeen": "2026-W43",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W43",
+    "2026-W44"
+   ],
+   "weeksSeen": 2,
+   "lastPagesAffected": 1,
+   "lastAffectedPages": [
+    "https://ncses.nsf.gov/pubs/nsb20262/figure/TRN-22"
+   ]
+  },
+  "VS-9429bb8d": {
+   "engine": "axe-core",
+   "ruleId": "aria-required-children",
+   "summary": "Certain ARIA roles must contain particular children (WCAG 1.3.1)",
+   "wcag": "1.3.1",
+   "severity": "Critical",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPagesAffected": 1,
+   "lastAffectedPages": [
+    "https://ncses.nsf.gov/indicators"
+   ],
+   "_coverageNew": true
+  },
+  "VS-e9fe47ac": {
+   "engine": "axe-core",
+   "ruleId": "link-name",
+   "summary": "Links must have discernible text (WCAG 2.4.4)",
+   "wcag": "2.4.4",
+   "severity": "Serious",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPagesAffected": 1,
+   "lastAffectedPages": [
+    "http://ncses.nsf.gov/resource/faqs"
+   ],
+   "_coverageNew": true
+  },
+  "VS-28ebd979": {
+   "engine": "Siteimprove Alfa",
+   "ruleId": "sia-r11",
+   "summary": "Link has accessible name (WCAG 2.4.4)",
+   "wcag": "2.4.4",
+   "severity": "Moderate",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPagesAffected": 1,
+   "lastAffectedPages": [
+    "http://ncses.nsf.gov/resource/faqs"
+   ],
+   "_coverageNew": true
+  },
+  "VS-e33eb23c": {
+   "engine": "axe-core",
+   "ruleId": "html-lang-valid",
+   "summary": "<html> element must have a valid value for the lang attribute (WCAG 3.1.1)",
+   "wcag": "3.1.1",
+   "severity": "Serious",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPagesAffected": 1,
+   "lastAffectedPages": [
+    "https://ncses.nsf.gov/archived?url=https%3A%2F%2Fwww.nsf.gov%2Fstatistics%2Fstates%2F"
+   ],
+   "_coverageNew": true
+  },
+  "VS-abc67480": {
+   "engine": "Siteimprove Alfa",
+   "ruleId": "sia-r5",
+   "summary": "lang attribute has valid BCP 47 language tag (WCAG 3.1.1)",
+   "wcag": "3.1.1",
+   "severity": "Moderate",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPagesAffected": 1,
+   "lastAffectedPages": [
+    "https://ncses.nsf.gov/archived?url=https%3A%2F%2Fwww.nsf.gov%2Fstatistics%2Fstates%2F"
+   ],
+   "_coverageNew": true
+  },
+  "VS-e7298c00": {
+   "engine": "axe-core",
+   "ruleId": "button-name",
+   "summary": "Buttons must have discernible text (WCAG 4.1.2)",
+   "wcag": "4.1.2",
+   "severity": "Critical",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPagesAffected": 4,
+   "lastAffectedPages": [
+    "http://ncses.nsf.gov/interest-areas/stem",
+    "http://ncses.nsf.gov/interest-areas/innovation-global-competitiveness",
+    "https://ncses.nsf.gov/interest-areas/research-development",
+    "https://ncses.nsf.gov/interest-areas/stem"
+   ],
+   "_coverageNew": true
+  },
+  "VS-0841abc2": {
+   "engine": "axe-core",
+   "ruleId": "aria-input-field-name",
+   "summary": "ARIA input fields must have an accessible name (WCAG 4.1.2)",
+   "wcag": "4.1.2",
+   "severity": "Serious",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPagesAffected": 2,
+   "lastAffectedPages": [
+    "https://ncses.nsf.gov/indicators",
+    "https://ncses.nsf.gov/pubs/nsf22328"
+   ],
+   "_coverageNew": true
+  },
+  "VS-29f9f921": {
+   "engine": "Siteimprove Alfa",
+   "ruleId": "sia-r12",
+   "summary": "Button has accessible name (WCAG 4.1.2)",
+   "wcag": "4.1.2",
+   "severity": "Moderate",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPagesAffected": 2,
+   "lastAffectedPages": [
+    "http://ncses.nsf.gov/interest-areas/innovation-global-competitiveness",
+    "https://ncses.nsf.gov/interest-areas/stem"
+   ],
+   "_coverageNew": true
+  },
+  "VS-e43903a1": {
+   "engine": "Siteimprove Alfa",
+   "ruleId": "sia-r75",
+   "summary": "Font size is not extremely small (best practice, not a WCAG requirement)",
+   "wcag": null,
+   "severity": "Moderate",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPagesAffected": 1,
+   "lastAffectedPages": [
+    "https://ncses.nsf.gov/pubs/nsb20212/table/LBR-3"
+   ],
+   "_coverageNew": true
+  },
+  "VS-d69fc059": {
+   "engine": "axe-core",
+   "ruleId": "empty-table-header",
+   "summary": "Table header text should not be empty (best practice, not a WCAG requirement)",
+   "wcag": null,
+   "severity": "Minor",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPagesAffected": 1,
+   "lastAffectedPages": [
+    "https://ncses.nsf.gov/pubs/nsb20261/table/STAL-22"
+   ],
+   "_coverageNew": true
   }
  }
 }

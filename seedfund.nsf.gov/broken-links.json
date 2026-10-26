@@ -1,31 +1,33 @@
 {
  "domain": "seedfund.nsf.gov",
- "updatedAt": "2026-10-25T08:43:16.574Z",
+ "updatedAt": "2026-10-26T18:51:39.751Z",
  "links": {
   "https://relavomedical.com/": {
    "status": 0,
-   "reason": "UND_ERR_CONNECT_TIMEOUT",
+   "reason": "EAI_AGAIN",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "https://seedfund.nsf.gov/news/relavo"
+    "https://seedfund.nsf.gov/news/RelavoandCurieDx"
    ]
   },
   "https://www.sam.gov/SAM/": {
    "status": 500,
    "reason": "HTTP 500",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "https://seedfund.nsf.gov/how-to-submit/unique-entity-id"
+    "https://seedfund.nsf.gov/apply/full-proposal"
    ]
   },
   "http://betahatch.com/": {
@@ -65,6 +67,312 @@
    "weeksBroken": 1,
    "foundOn": [
     "https://seedfund.nsf.gov/showcase"
+   ]
+  },
+  "https://standards.usa.gov/": {
+   "status": 0,
+   "reason": "ENOTFOUND",
+   "firstSeen": "2026-W43",
+   "lastSeen": "2026-W43",
+   "_weeks": [
+    "2026-W43"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/styleguide"
+   ]
+  },
+  "https://www.radiatorlabs.com/": {
+   "status": 0,
+   "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
+   "firstSeen": "2026-W43",
+   "lastSeen": "2026-W43",
+   "_weeks": [
+    "2026-W43"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/topics/internet-of-things"
+   ]
+  },
+  "https://seedfund.nsf.gov/centers/focus-area/": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W43",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W43",
+    "2026-W44"
+   ],
+   "weeksBroken": 2,
+   "foundOn": [
+    "https://seedfund.nsf.gov/centers/ceps/paper-coating-enables-worlds-first-water-filter-for-pennies",
+    "https://seedfund.nsf.gov/centers/ceps/high-carotenoid-orange-corn-promises-nutritional-enhancement",
+    "https://seedfund.nsf.gov/centers/ceps/retrofit-dehumidifiers-enhance-air-conditioner-efficiency"
+   ]
+  },
+  "http://www.pcka.com/": {
+   "status": 0,
+   "reason": "fetch failed",
+   "firstSeen": "2026-W43",
+   "lastSeen": "2026-W43",
+   "_weeks": [
+    "2026-W43"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/centers/ceps/ultra-cool-metal-roofing-material-is-poised-to-reduce-energy-needs",
+    "https://seedfund.nsf.gov/awardees/history/details?company=pc-krause-and-associates-inc"
+   ]
+  },
+  "https://datachat.ai/": {
+   "status": 0,
+   "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
+   "firstSeen": "2026-W43",
+   "lastSeen": "2026-W43",
+   "_weeks": [
+    "2026-W43"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/next"
+   ]
+  },
+  "http://www.sigray.com/": {
+   "status": 0,
+   "reason": "UND_ERR_CONNECT_TIMEOUT",
+   "firstSeen": "2026-W43",
+   "lastSeen": "2026-W43",
+   "_weeks": [
+    "2026-W43"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/next"
+   ]
+  },
+  "https://nsf.gov/staff/staff_bio.jsp?lan=spanchan&org=EF&from_org=EF": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W43",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W43",
+    "2026-W44"
+   ],
+   "weeksBroken": 2,
+   "foundOn": [
+    "https://seedfund.nsf.gov/SBIR-reauthorization"
+   ]
+  },
+  "https://www.nsf.gov/staff/": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W43",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W43",
+    "2026-W44"
+   ],
+   "weeksBroken": 2,
+   "foundOn": [
+    "https://seedfund.nsf.gov/SBIR-reauthorization"
+   ]
+  },
+  "https://pages.18f.gov/brand/color-palette/": {
+   "status": 0,
+   "reason": "ENOTFOUND",
+   "firstSeen": "2026-W43",
+   "lastSeen": "2026-W43",
+   "_weeks": [
+    "2026-W43"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/styleguide/colors"
+   ]
+  },
+  "https://github.com/18F/18f.gsa.gov/blob/master/_sass/_libs/wds/stylesheets/core/_variables.scss": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W43",
+   "lastSeen": "2026-W43",
+   "_weeks": [
+    "2026-W43"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/styleguide/colors"
+   ]
+  },
+  "https://iperf.asee.org/": {
+   "status": 0,
+   "reason": "ENOTFOUND",
+   "firstSeen": "2026-W43",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W43",
+    "2026-W44"
+   ],
+   "weeksBroken": 2,
+   "foundOn": [
+    "https://seedfund.nsf.gov/resources/awardees/supplement/commercial"
+   ]
+  },
+  "http://www.miradatechnologies.com/": {
+   "status": 0,
+   "reason": "ENOTFOUND",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/portfolio/details?company=mirada-technologies-inc"
+   ]
+  },
+  "http://www.radiationdetectionsolutions.com/": {
+   "status": 0,
+   "reason": "ENOTFOUND",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/awardees/history/details?company=radiation-detection-solutions-llc"
+   ]
+  },
+  "https://resuture.com/": {
+   "status": 500,
+   "reason": "HTTP 500",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/news/ReSuture"
+   ]
+  },
+  "https://time.com/collection/best-inventions-2023/6326422/wavelogix-rebel-concrete-strength-sensors/": {
+   "status": 406,
+   "reason": "HTTP 406",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/news/wavelogix"
+   ]
+  },
+  "http://www.medeciphersolutions.com/": {
+   "status": 0,
+   "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/awardees/history/details?company=medecipher-inc"
+   ]
+  },
+  "https://learnsecurity.amazon.com/en/index.html": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/requirements"
+   ]
+  },
+  "https://jaguarswire.usatoday.com/2023/08/11/jaguars-urinals-hydration-test/": {
+   "status": 402,
+   "reason": "HTTP 402",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/news/intake-health"
+   ]
+  },
+  "http://www.relavomedical.com/": {
+   "status": 0,
+   "reason": "UND_ERR_CONNECT_TIMEOUT",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/awardees/history/details?company=relavo-inc"
+   ]
+  },
+  "http://www.resuture.com/": {
+   "status": 500,
+   "reason": "HTTP 500",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/awardees/history/details?company=resuture-inc"
+   ]
+  },
+  "http://www.sonera.io/": {
+   "status": 0,
+   "reason": "ENOTFOUND",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/awardees/history/details?company=sonera-magnetics-inc"
+   ]
+  },
+  "http://www.clearflame.com/": {
+   "status": 0,
+   "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/awardees/history/details?company=clearflame-engines-inc"
+   ]
+  },
+  "https://seedfund.nsf.gov/resources/awardees/supplement/[/assets/files/awardees/ED-Supp-Template.docx](https://seedfund.nsf.gov/assets/files/awardees/ED-Supp-Template.docx)": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/resources/awardees/supplement/commercial"
    ]
   }
  }

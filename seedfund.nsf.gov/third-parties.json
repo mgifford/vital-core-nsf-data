@@ -1,75 +1,111 @@
 {
  "domain": "seedfund.nsf.gov",
- "updatedAt": "2026-10-25T08:43:16.574Z",
+ "updatedAt": "2026-10-26T18:51:39.939Z",
  "vendors": {
-  "googletagmanager.com": {
-   "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
-   "_weeks": [
-    "2026-W43"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": true
-  },
   "gstatic.com": {
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "isScriptVendor": false
   },
   "jquery.com": {
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksSeen": 1,
-   "isScriptVendor": true
-  },
-  "digitalgov.gov": {
-   "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
-   "_weeks": [
-    "2026-W43"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": true
-  },
-  "google-analytics.com": {
-   "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
-   "_weeks": [
-    "2026-W43"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": true
-  },
-  "cloudflare.com": {
-   "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
-   "_weeks": [
-    "2026-W43"
-   ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "isScriptVendor": true
   },
   "googleapis.com": {
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "isScriptVendor": false
+  },
+  "googletagmanager.com": {
+   "firstSeen": "2026-W43",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W43",
+    "2026-W44"
+   ],
+   "weeksSeen": 2,
+   "isScriptVendor": true
+  },
+  "digitalgov.gov": {
+   "firstSeen": "2026-W43",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W43",
+    "2026-W44"
+   ],
+   "weeksSeen": 2,
+   "isScriptVendor": true
+  },
+  "google-analytics.com": {
+   "firstSeen": "2026-W43",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W43",
+    "2026-W44"
+   ],
+   "weeksSeen": 2,
+   "isScriptVendor": true
+  },
+  "cloudflare.com": {
+   "firstSeen": "2026-W43",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W43",
+    "2026-W44"
+   ],
+   "weeksSeen": 2,
+   "isScriptVendor": true
   },
   "google.com": {
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
+   ],
+   "weeksSeen": 2,
+   "isScriptVendor": true
+  },
+  "doubleclick.net": {
+   "firstSeen": "2026-W43",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W43",
+    "2026-W44"
+   ],
+   "weeksSeen": 2,
+   "isScriptVendor": true
+  },
+  "youtube.com": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": true
+  },
+  "ytimg.com": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
    ],
    "weeksSeen": 1,
    "isScriptVendor": false

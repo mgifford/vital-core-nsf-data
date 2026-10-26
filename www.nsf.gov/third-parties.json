@@ -1,62 +1,98 @@
 {
  "domain": "www.nsf.gov",
- "updatedAt": "2026-10-25T08:43:16.336Z",
+ "updatedAt": "2026-10-26T18:51:38.056Z",
  "vendors": {
   "awswaf.com": {
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "isScriptVendor": true
   },
   "googletagmanager.com": {
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "isScriptVendor": true
   },
   "cloud.gov": {
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "isScriptVendor": true
   },
   "addtoany.com": {
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "isScriptVendor": true
   },
   "crazyegg.com": {
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "isScriptVendor": true
   },
   "digitalgov.gov": {
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "isScriptVendor": true
   },
   "amazonaws.com": {
+   "firstSeen": "2026-W43",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W43",
+    "2026-W44"
+   ],
+   "weeksSeen": 2,
+   "isScriptVendor": false
+  },
+  "jsdelivr.net": {
+   "firstSeen": "2026-W43",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W43",
+    "2026-W44"
+   ],
+   "weeksSeen": 2,
+   "isScriptVendor": true
+  },
+  "google-analytics.com": {
+   "firstSeen": "2026-W43",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W43",
+    "2026-W44"
+   ],
+   "weeksSeen": 2,
+   "isScriptVendor": false
+  },
+  "brightcovecdn.com": {
    "firstSeen": "2026-W43",
    "lastSeen": "2026-W43",
    "_weeks": [
@@ -65,7 +101,7 @@
    "weeksSeen": 1,
    "isScriptVendor": false
   },
-  "jsdelivr.net": {
+  "brightcove.net": {
    "firstSeen": "2026-W43",
    "lastSeen": "2026-W43",
    "_weeks": [
@@ -74,7 +110,61 @@
    "weeksSeen": 1,
    "isScriptVendor": true
   },
-  "google-analytics.com": {
+  "boltdns.net": {
+   "firstSeen": "2026-W43",
+   "lastSeen": "2026-W43",
+   "_weeks": [
+    "2026-W43"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
+  "brightcove.com": {
+   "firstSeen": "2026-W43",
+   "lastSeen": "2026-W43",
+   "_weeks": [
+    "2026-W43"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
+  "youtube.com": {
+   "firstSeen": "2026-W43",
+   "lastSeen": "2026-W43",
+   "_weeks": [
+    "2026-W43"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": true
+  },
+  "gstatic.com": {
+   "firstSeen": "2026-W43",
+   "lastSeen": "2026-W43",
+   "_weeks": [
+    "2026-W43"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
+  "google.com": {
+   "firstSeen": "2026-W43",
+   "lastSeen": "2026-W43",
+   "_weeks": [
+    "2026-W43"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": true
+  },
+  "doubleclick.net": {
+   "firstSeen": "2026-W43",
+   "lastSeen": "2026-W43",
+   "_weeks": [
+    "2026-W43"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": true
+  },
+  "googleapis.com": {
    "firstSeen": "2026-W43",
    "lastSeen": "2026-W43",
    "_weeks": [

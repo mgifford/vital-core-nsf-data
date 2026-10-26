@@ -1,44 +1,50 @@
 {
  "domain": "ncses.nsf.gov",
- "updatedAt": "2026-10-25T08:43:16.497Z",
+ "updatedAt": "2026-10-26T18:51:38.860Z",
  "links": {
   "http://ncses.nsf.gov/pubs/nsf23300/": {
    "status": 0,
    "reason": "ECONNRESET",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "http://ncses.nsf.gov/pubs/nsf23300"
+    "http://ncses.nsf.gov/pubs/nsf23300/report",
+    "http://ncses.nsf.gov/pubs/nsf23300/downloads"
    ]
   },
   "http://ncses.nsf.gov/surveys/earned-doctorates": {
    "status": 0,
    "reason": "ECONNRESET",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "http://ncses.nsf.gov/pubs/nsf23300"
+    "http://ncses.nsf.gov/pubs/nsf23300/report",
+    "http://ncses.nsf.gov/pubs/nsf23300/downloads"
    ]
   },
   "http://ncses.nsf.gov/pubs/nsf23300/report": {
    "status": 0,
    "reason": "ECONNRESET",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "http://ncses.nsf.gov/pubs/nsf23300"
+    "http://ncses.nsf.gov/pubs/nsf23300/report",
+    "http://ncses.nsf.gov/pubs/nsf23300/downloads"
    ]
   },
   "http://ncses.nsf.gov/pubs/nsf23300": {
@@ -71,13 +77,15 @@
    "status": 0,
    "reason": "ECONNRESET",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "http://ncses.nsf.gov/pubs/nsf23300"
+    "http://ncses.nsf.gov/pubs/nsf23300/report",
+    "http://ncses.nsf.gov/pubs/nsf23300/downloads"
    ]
   },
   "http://ncses.nsf.gov/pubs/nsf23300/additional-resources": {
@@ -97,13 +105,15 @@
    "status": 0,
    "reason": "ECONNRESET",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "http://ncses.nsf.gov/pubs/nsf23300"
+    "http://ncses.nsf.gov/pubs/nsf23300/report",
+    "http://ncses.nsf.gov/pubs/nsf23300/downloads"
    ]
   },
   "http://ncses.nsf.gov/pubs/nsf23300/how-do-i": {
@@ -201,15 +211,23 @@
    "status": 0,
    "reason": "ECONNRESET",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "http://ncses.nsf.gov/pubs/nsf23300",
-    "http://ncses.nsf.gov/pubs/nsf26315/report/data-source",
-    "http://ncses.nsf.gov/pubs/ncses22202/figure/3"
+    "http://ncses.nsf.gov/pubs/ncses22202/section/11154",
+    "http://ncses.nsf.gov/interest-areas/stem",
+    "http://ncses.nsf.gov/search?aois=STEM+Education&query=&topics=Family+Characteristics",
+    "http://ncses.nsf.gov/pubs/nsf23300/report",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=R%26D+Publications+%26+Articles",
+    "http://ncses.nsf.gov/pubs/nsf25320/figure/1",
+    "http://ncses.nsf.gov/resource/faqs",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Knowledge+and+Technology+Intensive+%28KTI%29+Industries",
+    "http://ncses.nsf.gov/pubs/nsf23300/downloads",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14440"
    ]
   },
   "http://ncses.nsf.gov/permissions": {
@@ -229,379 +247,621 @@
    "status": 0,
    "reason": "ECONNRESET",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "https://ncses.nsf.gov/pubs/nsf20301/report/education-related-debt",
-    "http://ncses.nsf.gov/pubs/nsf26315/report/data-source",
-    "http://ncses.nsf.gov/pubs/ncses22202/figure/3"
+    "http://ncses.nsf.gov/pubs/ncses22202/section/11154",
+    "http://ncses.nsf.gov/interest-areas/stem",
+    "http://ncses.nsf.gov/search?aois=STEM+Education&query=&topics=Family+Characteristics",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=R%26D+Publications+%26+Articles",
+    "http://ncses.nsf.gov/pubs/nsf25320/figure/1",
+    "http://ncses.nsf.gov/resource/faqs",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Knowledge+and+Technology+Intensive+%28KTI%29+Industries",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14440",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14488",
+    "http://ncses.nsf.gov/pubs/nsf25322/surveypage/table/13698"
    ]
   },
   "http://ncses.nsf.gov/about/quality-transparency": {
    "status": 0,
    "reason": "ECONNRESET",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "http://ncses.nsf.gov/pubs/nsf26315/report/data-source",
-    "http://ncses.nsf.gov/pubs/ncses22202/figure/3"
+    "http://ncses.nsf.gov/pubs/ncses22202/section/11154",
+    "http://ncses.nsf.gov/interest-areas/stem",
+    "http://ncses.nsf.gov/search?aois=STEM+Education&query=&topics=Family+Characteristics",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=R%26D+Publications+%26+Articles",
+    "http://ncses.nsf.gov/pubs/nsf25320/figure/1",
+    "http://ncses.nsf.gov/resource/faqs",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Knowledge+and+Technology+Intensive+%28KTI%29+Industries",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14440",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14488",
+    "http://ncses.nsf.gov/pubs/nsf25322/surveypage/table/13698"
    ]
   },
   "http://ncses.nsf.gov/about/data-governance": {
    "status": 0,
    "reason": "ECONNRESET",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "http://ncses.nsf.gov/pubs/nsf26315/report/data-source",
-    "http://ncses.nsf.gov/pubs/ncses22202/figure/3"
+    "http://ncses.nsf.gov/pubs/ncses22202/section/11154",
+    "http://ncses.nsf.gov/interest-areas/stem",
+    "http://ncses.nsf.gov/search?aois=STEM+Education&query=&topics=Family+Characteristics",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=R%26D+Publications+%26+Articles",
+    "http://ncses.nsf.gov/pubs/nsf25320/figure/1",
+    "http://ncses.nsf.gov/resource/faqs",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Knowledge+and+Technology+Intensive+%28KTI%29+Industries",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14440",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14488",
+    "http://ncses.nsf.gov/pubs/nsf25322/surveypage/table/13698"
    ]
   },
   "http://ncses.nsf.gov/about/research": {
    "status": 0,
    "reason": "ECONNRESET",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "http://ncses.nsf.gov/pubs/nsf26315/report/data-source",
-    "http://ncses.nsf.gov/pubs/ncses22202/figure/3"
+    "http://ncses.nsf.gov/pubs/ncses22202/section/11154",
+    "http://ncses.nsf.gov/interest-areas/stem",
+    "http://ncses.nsf.gov/search?aois=STEM+Education&query=&topics=Family+Characteristics",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=R%26D+Publications+%26+Articles",
+    "http://ncses.nsf.gov/pubs/nsf25320/figure/1",
+    "http://ncses.nsf.gov/resource/faqs",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Knowledge+and+Technology+Intensive+%28KTI%29+Industries",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14440",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14488",
+    "http://ncses.nsf.gov/pubs/nsf25322/surveypage/table/13698"
    ]
   },
   "http://ncses.nsf.gov/about/contact": {
    "status": 0,
    "reason": "ECONNRESET",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "http://ncses.nsf.gov/pubs/nsf26315/report/data-source",
-    "http://ncses.nsf.gov/pubs/ncses22202/figure/3"
+    "http://ncses.nsf.gov/pubs/ncses22202/section/11154",
+    "http://ncses.nsf.gov/interest-areas/stem",
+    "http://ncses.nsf.gov/search?aois=STEM+Education&query=&topics=Family+Characteristics",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=R%26D+Publications+%26+Articles",
+    "http://ncses.nsf.gov/pubs/nsf25320/figure/1",
+    "http://ncses.nsf.gov/resource/faqs",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Knowledge+and+Technology+Intensive+%28KTI%29+Industries",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14440",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14488",
+    "http://ncses.nsf.gov/pubs/nsf25322/surveypage/table/13698"
    ]
   },
   "http://ncses.nsf.gov/about/whats-new": {
    "status": 0,
    "reason": "ECONNRESET",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "http://ncses.nsf.gov/pubs/nsf26315/report/data-source",
-    "http://ncses.nsf.gov/pubs/ncses22202/figure/3"
+    "http://ncses.nsf.gov/pubs/ncses22202/section/11154",
+    "http://ncses.nsf.gov/interest-areas/stem",
+    "http://ncses.nsf.gov/search?aois=STEM+Education&query=&topics=Family+Characteristics",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=R%26D+Publications+%26+Articles",
+    "http://ncses.nsf.gov/pubs/nsf25320/figure/1",
+    "http://ncses.nsf.gov/resource/faqs",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Knowledge+and+Technology+Intensive+%28KTI%29+Industries",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14440",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14488",
+    "http://ncses.nsf.gov/pubs/nsf25322/surveypage/table/13698"
    ]
   },
   "http://ncses.nsf.gov/interest-areas/research-development": {
    "status": 0,
    "reason": "ECONNRESET",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "http://ncses.nsf.gov/pubs/nsf26315/report/data-source",
-    "http://ncses.nsf.gov/pubs/ncses22202/figure/3"
+    "http://ncses.nsf.gov/pubs/ncses22202/section/11154",
+    "http://ncses.nsf.gov/interest-areas/stem",
+    "http://ncses.nsf.gov/search?aois=STEM+Education&query=&topics=Family+Characteristics",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=R%26D+Publications+%26+Articles",
+    "http://ncses.nsf.gov/pubs/nsf25320/figure/1",
+    "http://ncses.nsf.gov/resource/faqs",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Knowledge+and+Technology+Intensive+%28KTI%29+Industries",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14440",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14488",
+    "http://ncses.nsf.gov/pubs/nsf25322/surveypage/table/13698"
    ]
   },
   "http://ncses.nsf.gov/interest-areas/innovation-global-competitiveness": {
    "status": 0,
    "reason": "ECONNRESET",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "http://ncses.nsf.gov/pubs/nsf26315/report/data-source",
-    "http://ncses.nsf.gov/pubs/ncses22202/figure/3"
+    "http://ncses.nsf.gov/pubs/ncses22202/section/11154",
+    "http://ncses.nsf.gov/interest-areas/stem",
+    "http://ncses.nsf.gov/search?aois=STEM+Education&query=&topics=Family+Characteristics",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=R%26D+Publications+%26+Articles",
+    "http://ncses.nsf.gov/pubs/nsf25320/figure/1",
+    "http://ncses.nsf.gov/resource/faqs",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Knowledge+and+Technology+Intensive+%28KTI%29+Industries",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14440",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14488",
+    "http://ncses.nsf.gov/pubs/nsf25322/surveypage/table/13698"
    ]
   },
   "http://ncses.nsf.gov/interest-areas": {
    "status": 0,
    "reason": "ECONNRESET",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "http://ncses.nsf.gov/pubs/nsf26315/report/data-source",
-    "http://ncses.nsf.gov/pubs/ncses22202/figure/3"
+    "http://ncses.nsf.gov/pubs/ncses22202/section/11154",
+    "http://ncses.nsf.gov/interest-areas/stem",
+    "http://ncses.nsf.gov/search?aois=STEM+Education&query=&topics=Family+Characteristics",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=R%26D+Publications+%26+Articles",
+    "http://ncses.nsf.gov/pubs/nsf25320/figure/1",
+    "http://ncses.nsf.gov/resource/faqs",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Knowledge+and+Technology+Intensive+%28KTI%29+Industries",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14440",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14488",
+    "http://ncses.nsf.gov/pubs/nsf25322/surveypage/table/13698"
    ]
   },
   "http://ncses.nsf.gov/interest-areas/science-engineering-workforce": {
    "status": 0,
    "reason": "ECONNRESET",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "http://ncses.nsf.gov/pubs/nsf26315/report/data-source",
-    "http://ncses.nsf.gov/pubs/ncses22202/figure/3"
+    "http://ncses.nsf.gov/pubs/ncses22202/section/11154",
+    "http://ncses.nsf.gov/interest-areas/stem",
+    "http://ncses.nsf.gov/search?aois=STEM+Education&query=&topics=Family+Characteristics",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=R%26D+Publications+%26+Articles",
+    "http://ncses.nsf.gov/pubs/nsf25320/figure/1",
+    "http://ncses.nsf.gov/resource/faqs",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Knowledge+and+Technology+Intensive+%28KTI%29+Industries",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14440",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14488",
+    "http://ncses.nsf.gov/pubs/nsf25322/surveypage/table/13698"
    ]
   },
   "http://ncses.nsf.gov/interest-areas/stem": {
    "status": 0,
    "reason": "ECONNRESET",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "http://ncses.nsf.gov/pubs/nsf26315/report/data-source",
-    "http://ncses.nsf.gov/pubs/ncses22202/figure/3"
+    "http://ncses.nsf.gov/search?aois=STEM+Education&query=&topics=Family+Characteristics",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=R%26D+Publications+%26+Articles",
+    "http://ncses.nsf.gov/pubs/nsf25320/figure/1",
+    "http://ncses.nsf.gov/resource/faqs",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Knowledge+and+Technology+Intensive+%28KTI%29+Industries",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14440",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14488",
+    "http://ncses.nsf.gov/pubs/nsf25322/surveypage/table/13698",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14453",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Clinical+Trials+and+Medical+Projects"
    ]
   },
   "http://ncses.nsf.gov/schedule-of-release-dates": {
    "status": 0,
    "reason": "ECONNRESET",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "http://ncses.nsf.gov/pubs/nsf26315/report/data-source",
-    "http://ncses.nsf.gov/pubs/ncses22202/figure/3"
+    "http://ncses.nsf.gov/search?aois=STEM+Education&query=&topics=Family+Characteristics",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=R%26D+Publications+%26+Articles",
+    "http://ncses.nsf.gov/pubs/nsf25320/figure/1",
+    "http://ncses.nsf.gov/resource/faqs",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Knowledge+and+Technology+Intensive+%28KTI%29+Industries",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14440",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14488",
+    "http://ncses.nsf.gov/pubs/nsf25322/surveypage/table/13698",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14453",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Clinical+Trials+and+Medical+Projects"
    ]
   },
   "http://ncses.nsf.gov/surveys": {
    "status": 0,
    "reason": "ECONNRESET",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "http://ncses.nsf.gov/pubs/nsf26315/report/data-source",
-    "http://ncses.nsf.gov/pubs/ncses22202/figure/3"
+    "http://ncses.nsf.gov/search?aois=STEM+Education&query=&topics=Family+Characteristics",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=R%26D+Publications+%26+Articles",
+    "http://ncses.nsf.gov/pubs/nsf25320/figure/1",
+    "http://ncses.nsf.gov/resource/faqs",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Knowledge+and+Technology+Intensive+%28KTI%29+Industries",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14440",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14488",
+    "http://ncses.nsf.gov/pubs/nsf25322/surveypage/table/13698",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14453",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Clinical+Trials+and+Medical+Projects"
    ]
   },
   "http://ncses.nsf.gov/surveys-analysis": {
    "status": 0,
    "reason": "ECONNRESET",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "http://ncses.nsf.gov/pubs/nsf26315/report/data-source",
-    "http://ncses.nsf.gov/pubs/ncses22202/figure/3"
+    "http://ncses.nsf.gov/search?aois=STEM+Education&query=&topics=Family+Characteristics",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=R%26D+Publications+%26+Articles",
+    "http://ncses.nsf.gov/pubs/nsf25320/figure/1",
+    "http://ncses.nsf.gov/resource/faqs",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Knowledge+and+Technology+Intensive+%28KTI%29+Industries",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14440",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14488",
+    "http://ncses.nsf.gov/pubs/nsf25322/surveypage/table/13698",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14453",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Clinical+Trials+and+Medical+Projects"
    ]
   },
   "http://ncses.nsf.gov/explore-data": {
    "status": 0,
    "reason": "ECONNRESET",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "http://ncses.nsf.gov/pubs/nsf26315/report/data-source",
-    "http://ncses.nsf.gov/pubs/ncses22202/figure/3"
+    "http://ncses.nsf.gov/search?aois=STEM+Education&query=&topics=Family+Characteristics",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=R%26D+Publications+%26+Articles",
+    "http://ncses.nsf.gov/pubs/nsf25320/figure/1",
+    "http://ncses.nsf.gov/resource/faqs",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Knowledge+and+Technology+Intensive+%28KTI%29+Industries",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14440",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14488",
+    "http://ncses.nsf.gov/pubs/nsf25322/surveypage/table/13698",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14453",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Clinical+Trials+and+Medical+Projects"
    ]
   },
   "http://ncses.nsf.gov/explore-data/microdata": {
    "status": 0,
    "reason": "ECONNRESET",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "http://ncses.nsf.gov/pubs/nsf26315/report/data-source",
-    "http://ncses.nsf.gov/pubs/ncses22202/figure/3"
+    "http://ncses.nsf.gov/search?aois=STEM+Education&query=&topics=Family+Characteristics",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=R%26D+Publications+%26+Articles",
+    "http://ncses.nsf.gov/pubs/nsf25320/figure/1",
+    "http://ncses.nsf.gov/resource/faqs",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Knowledge+and+Technology+Intensive+%28KTI%29+Industries",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14440",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14488",
+    "http://ncses.nsf.gov/pubs/nsf25322/surveypage/table/13698",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14453",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Clinical+Trials+and+Medical+Projects"
    ]
   },
   "http://ncses.nsf.gov/corrections": {
    "status": 0,
    "reason": "ECONNRESET",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "http://ncses.nsf.gov/pubs/nsf26315/report/data-source",
-    "http://ncses.nsf.gov/pubs/ncses22202/figure/3"
+    "http://ncses.nsf.gov/search?aois=STEM+Education&query=&topics=Family+Characteristics",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=R%26D+Publications+%26+Articles",
+    "http://ncses.nsf.gov/pubs/nsf25320/figure/1",
+    "http://ncses.nsf.gov/resource/faqs",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Knowledge+and+Technology+Intensive+%28KTI%29+Industries",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14440",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14488",
+    "http://ncses.nsf.gov/pubs/nsf25322/surveypage/table/13698",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14453",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Clinical+Trials+and+Medical+Projects"
    ]
   },
   "http://ncses.nsf.gov/search?query=&excludePubAssets=true&pageSize=40&sort=date": {
    "status": 0,
    "reason": "ECONNRESET",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "http://ncses.nsf.gov/pubs/nsf26315/report/data-source",
-    "http://ncses.nsf.gov/pubs/ncses22202/figure/3"
+    "http://ncses.nsf.gov/search?aois=STEM+Education&query=&topics=Family+Characteristics",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=R%26D+Publications+%26+Articles",
+    "http://ncses.nsf.gov/pubs/nsf25320/figure/1",
+    "http://ncses.nsf.gov/resource/faqs",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Knowledge+and+Technology+Intensive+%28KTI%29+Industries",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14440",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14488",
+    "http://ncses.nsf.gov/pubs/nsf25322/surveypage/table/13698",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14453",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Clinical+Trials+and+Medical+Projects"
    ]
   },
   "http://ncses.nsf.gov/initiatives": {
    "status": 0,
    "reason": "ECONNRESET",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "http://ncses.nsf.gov/pubs/nsf26315/report/data-source",
-    "http://ncses.nsf.gov/pubs/ncses22202/figure/3"
+    "http://ncses.nsf.gov/search?aois=STEM+Education&query=&topics=Family+Characteristics",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=R%26D+Publications+%26+Articles",
+    "http://ncses.nsf.gov/pubs/nsf25320/figure/1",
+    "http://ncses.nsf.gov/resource/faqs",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Knowledge+and+Technology+Intensive+%28KTI%29+Industries",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14440",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14488",
+    "http://ncses.nsf.gov/pubs/nsf25322/surveypage/table/13698",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14453",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Clinical+Trials+and+Medical+Projects"
    ]
   },
   "http://ncses.nsf.gov/licensing": {
    "status": 0,
    "reason": "ECONNRESET",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "http://ncses.nsf.gov/pubs/nsf26315/report/data-source",
-    "http://ncses.nsf.gov/pubs/ncses22202/figure/3"
+    "http://ncses.nsf.gov/search?aois=STEM+Education&query=&topics=Family+Characteristics",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=R%26D+Publications+%26+Articles",
+    "http://ncses.nsf.gov/pubs/nsf25320/figure/1",
+    "http://ncses.nsf.gov/resource/faqs",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Knowledge+and+Technology+Intensive+%28KTI%29+Industries",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14440",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14488",
+    "http://ncses.nsf.gov/pubs/nsf25322/surveypage/table/13698",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14453",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Clinical+Trials+and+Medical+Projects"
    ]
   },
   "http://ncses.nsf.gov/funding-opportunities": {
    "status": 0,
    "reason": "ECONNRESET",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "http://ncses.nsf.gov/pubs/nsf26315/report/data-source",
-    "http://ncses.nsf.gov/pubs/ncses22202/figure/3"
+    "http://ncses.nsf.gov/search?aois=STEM+Education&query=&topics=Family+Characteristics",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=R%26D+Publications+%26+Articles",
+    "http://ncses.nsf.gov/pubs/nsf25320/figure/1",
+    "http://ncses.nsf.gov/resource/faqs",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Knowledge+and+Technology+Intensive+%28KTI%29+Industries",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14440",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14488",
+    "http://ncses.nsf.gov/pubs/nsf25322/surveypage/table/13698",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14453",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Clinical+Trials+and+Medical+Projects"
    ]
   },
   "http://ncses.nsf.gov/initiatives/cybersecurity-workforce-data-initiative": {
    "status": 0,
    "reason": "ECONNRESET",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "http://ncses.nsf.gov/pubs/nsf26315/report/data-source",
-    "http://ncses.nsf.gov/pubs/ncses22202/figure/3"
+    "http://ncses.nsf.gov/search?aois=STEM+Education&query=&topics=Family+Characteristics",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=R%26D+Publications+%26+Articles",
+    "http://ncses.nsf.gov/pubs/nsf25320/figure/1",
+    "http://ncses.nsf.gov/resource/faqs",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Knowledge+and+Technology+Intensive+%28KTI%29+Industries",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14440",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14488",
+    "http://ncses.nsf.gov/pubs/nsf25322/surveypage/table/13698",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14453",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Clinical+Trials+and+Medical+Projects"
    ]
   },
   "http://ncses.nsf.gov/initiatives/standard-application-process": {
    "status": 0,
    "reason": "ECONNRESET",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "http://ncses.nsf.gov/pubs/nsf26315/report/data-source",
-    "http://ncses.nsf.gov/pubs/ncses22202/figure/3"
+    "http://ncses.nsf.gov/search?aois=STEM+Education&query=&topics=Family+Characteristics",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=R%26D+Publications+%26+Articles",
+    "http://ncses.nsf.gov/pubs/nsf25320/figure/1",
+    "http://ncses.nsf.gov/resource/faqs",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Knowledge+and+Technology+Intensive+%28KTI%29+Industries",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14440",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14488",
+    "http://ncses.nsf.gov/pubs/nsf25322/surveypage/table/13698",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14453",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Clinical+Trials+and+Medical+Projects"
    ]
   },
   "http://ncses.nsf.gov/resource": {
    "status": 0,
    "reason": "ECONNRESET",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "http://ncses.nsf.gov/pubs/nsf26315/report/data-source",
-    "http://ncses.nsf.gov/pubs/ncses22202/figure/3"
+    "http://ncses.nsf.gov/search?aois=STEM+Education&query=&topics=Family+Characteristics",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=R%26D+Publications+%26+Articles",
+    "http://ncses.nsf.gov/pubs/nsf25320/figure/1",
+    "http://ncses.nsf.gov/resource/faqs",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Knowledge+and+Technology+Intensive+%28KTI%29+Industries",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14440",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14488",
+    "http://ncses.nsf.gov/pubs/nsf25322/surveypage/table/13698",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14453",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Clinical+Trials+and+Medical+Projects"
    ]
   },
   "http://ncses.nsf.gov/resource/library": {
    "status": 0,
    "reason": "ECONNRESET",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "http://ncses.nsf.gov/pubs/nsf26315/report/data-source",
-    "http://ncses.nsf.gov/pubs/ncses22202/figure/3"
+    "http://ncses.nsf.gov/search?aois=STEM+Education&query=&topics=Family+Characteristics",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=R%26D+Publications+%26+Articles",
+    "http://ncses.nsf.gov/pubs/nsf25320/figure/1",
+    "http://ncses.nsf.gov/resource/faqs",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Knowledge+and+Technology+Intensive+%28KTI%29+Industries",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14440",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14488",
+    "http://ncses.nsf.gov/pubs/nsf25322/surveypage/table/13698",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14453",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Clinical+Trials+and+Medical+Projects"
    ]
   },
   "http://ncses.nsf.gov/initiatives/national-secure-data-service-demo": {
    "status": 0,
    "reason": "ECONNRESET",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "http://ncses.nsf.gov/pubs/nsf26315/report/data-source",
-    "http://ncses.nsf.gov/pubs/ncses22202/figure/3"
+    "http://ncses.nsf.gov/search?aois=STEM+Education&query=&topics=Family+Characteristics",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=R%26D+Publications+%26+Articles",
+    "http://ncses.nsf.gov/pubs/nsf25320/figure/1",
+    "http://ncses.nsf.gov/resource/faqs",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Knowledge+and+Technology+Intensive+%28KTI%29+Industries",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14440",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14488",
+    "http://ncses.nsf.gov/pubs/nsf25322/surveypage/table/13698",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14453",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Clinical+Trials+and+Medical+Projects"
    ]
   },
   "http://ncses.nsf.gov/resource/faqs": {
    "status": 0,
    "reason": "ECONNRESET",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "http://ncses.nsf.gov/pubs/nsf26315/report/data-source",
-    "http://ncses.nsf.gov/pubs/ncses22202/figure/3"
+    "http://ncses.nsf.gov/search?aois=STEM+Education&query=&topics=Family+Characteristics",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=R%26D+Publications+%26+Articles",
+    "http://ncses.nsf.gov/pubs/nsf25320/figure/1",
+    "http://ncses.nsf.gov/resource/faqs",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Knowledge+and+Technology+Intensive+%28KTI%29+Industries",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14440",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14488",
+    "http://ncses.nsf.gov/pubs/nsf25322/surveypage/table/13698",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14453",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Clinical+Trials+and+Medical+Projects"
    ]
   },
   "http://ncses.nsf.gov/pubs/nsf26315/": {
@@ -621,28 +881,46 @@
    "status": 0,
    "reason": "ECONNRESET",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "http://ncses.nsf.gov/pubs/nsf26315/report/data-source",
-    "http://ncses.nsf.gov/pubs/ncses22202/figure/3"
+    "http://ncses.nsf.gov/search?aois=STEM+Education&query=&topics=Family+Characteristics",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=R%26D+Publications+%26+Articles",
+    "http://ncses.nsf.gov/pubs/nsf25320/figure/1",
+    "http://ncses.nsf.gov/resource/faqs",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Knowledge+and+Technology+Intensive+%28KTI%29+Industries",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14440",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14488",
+    "http://ncses.nsf.gov/pubs/nsf25322/surveypage/table/13698",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14453",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Clinical+Trials+and+Medical+Projects"
    ]
   },
   "http://ncses.nsf.gov/resource/master-gov-lists-ffrdc": {
    "status": 0,
    "reason": "ECONNRESET",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "http://ncses.nsf.gov/pubs/nsf26315/report/data-source",
-    "http://ncses.nsf.gov/pubs/ncses22202/figure/3"
+    "http://ncses.nsf.gov/search?aois=STEM+Education&query=&topics=Family+Characteristics",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=R%26D+Publications+%26+Articles",
+    "http://ncses.nsf.gov/pubs/nsf25320/figure/1",
+    "http://ncses.nsf.gov/resource/faqs",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Knowledge+and+Technology+Intensive+%28KTI%29+Industries",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14440",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14488",
+    "http://ncses.nsf.gov/pubs/nsf25322/surveypage/table/13698",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14453",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Clinical+Trials+and+Medical+Projects"
    ]
   },
   "http://ncses.nsf.gov/pubs/nsf26315/report/about-this-report": {
@@ -682,6 +960,222 @@
    "weeksBroken": 1,
    "foundOn": [
     "http://ncses.nsf.gov/pubs/nsf26315/report/data-source"
+   ]
+  },
+  "http://ncses.nsf.gov/sed/": {
+   "status": 0,
+   "reason": "ECONNRESET",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsf25349/table/1-7",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14453",
+    "https://ncses.nsf.gov/pubs/nsf24336/table/1-4"
+   ]
+  },
+  "https://aishe.gov.in/aishe/gotoAisheReports": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20261/international-comparisons-and-global-competitiveness",
+    "https://ncses.nsf.gov/pubs/nsb20261/figure/TAL-32",
+    "https://ncses.nsf.gov/pubs/nsb20261/persistence-and-attrition-in-stem-education-and-training"
+   ]
+  },
+  "https://www.sbir.gov/sbirsearch/award/all": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20262/figure/TRN-31",
+    "https://ncses.nsf.gov/pubs/nsb20262/table/STRN-38",
+    "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25",
+    "https://ncses.nsf.gov/pubs/nsb20262/figure/TRN-15"
+   ]
+  },
+  "http://ncses.nsf.gov/search?aois=STEM+Education&query=&topics=Family+Characteristics": {
+   "status": 0,
+   "reason": "ECONNRESET",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "http://ncses.nsf.gov/search?aois=STEM+Education&query=&topics=Family+Characteristics"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsb20261/figure/TAL-17": {
+   "status": 0,
+   "reason": "ECONNRESET",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "http://ncses.nsf.gov/search?aois=STEM+Education&query=&topics=Family+Characteristics"
+   ]
+  },
+  "http://ncses.nsf.gov/surveys/earned-doctorates/2024": {
+   "status": 0,
+   "reason": "ECONNRESET",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "http://ncses.nsf.gov/search?aois=STEM+Education&query=&topics=Family+Characteristics",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14440",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14488",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14453"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14453": {
+   "status": 0,
+   "reason": "ECONNRESET",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "http://ncses.nsf.gov/search?aois=STEM+Education&query=&topics=Family+Characteristics",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14453"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsb20261/section/26737": {
+   "status": 0,
+   "reason": "ECONNRESET",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "http://ncses.nsf.gov/search?aois=STEM+Education&query=&topics=Family+Characteristics"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14511": {
+   "status": 0,
+   "reason": "ECONNRESET",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "http://ncses.nsf.gov/search?aois=STEM+Education&query=&topics=Family+Characteristics"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsf24336/surveypage/table/11713": {
+   "status": 0,
+   "reason": "ECONNRESET",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "http://ncses.nsf.gov/search?aois=STEM+Education&query=&topics=Family+Characteristics"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsf25322/surveypage/table/13698": {
+   "status": 0,
+   "reason": "ECONNRESET",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "http://ncses.nsf.gov/search?aois=STEM+Education&query=&topics=Family+Characteristics",
+    "http://ncses.nsf.gov/pubs/nsf25322/surveypage/table/13698"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsf24336/surveypage/table/11724": {
+   "status": 0,
+   "reason": "ECONNRESET",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "http://ncses.nsf.gov/search?aois=STEM+Education&query=&topics=Family+Characteristics"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsf24336/surveypage/table/11712": {
+   "status": 0,
+   "reason": "ECONNRESET",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "http://ncses.nsf.gov/search?aois=STEM+Education&query=&topics=Family+Characteristics"
+   ]
+  },
+  "http://ncses.nsf.gov/accessibility": {
+   "status": 0,
+   "reason": "ECONNRESET",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "http://ncses.nsf.gov/search?aois=STEM+Education&query=&topics=Family+Characteristics",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=R%26D+Publications+%26+Articles",
+    "http://ncses.nsf.gov/pubs/nsf25320/figure/1",
+    "http://ncses.nsf.gov/resource/faqs",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Knowledge+and+Technology+Intensive+%28KTI%29+Industries",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14440",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14488",
+    "http://ncses.nsf.gov/pubs/nsf25322/surveypage/table/13698",
+    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14453",
+    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Clinical+Trials+and+Medical+Projects"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsf24336/surveypage/table/11722": {
+   "status": 0,
+   "reason": "ECONNRESET",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "http://ncses.nsf.gov/search?aois=STEM+Education&query=&topics=Family+Characteristics"
    ]
   }
  }

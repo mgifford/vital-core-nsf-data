@@ -1,0 +1,153 @@
+{
+ "domain": "par.nsf.gov",
+ "updatedAt": "2026-10-26T18:51:38.217Z",
+ "findings": {
+  "VS-646b1e0b": {
+   "engine": "Siteimprove Alfa",
+   "ruleId": "sia-r66",
+   "summary": "Text has enhanced contrast (WCAG 1.4.6)",
+   "wcag": "1.4.6",
+   "severity": "Serious",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPagesAffected": 2,
+   "lastAffectedPages": [
+    "https://par.nsf.gov/contact",
+    "https://par.nsf.gov/"
+   ]
+  },
+  "VS-2208081b": {
+   "engine": "Siteimprove Alfa",
+   "ruleId": "sia-r73",
+   "summary": "Paragraph line height is at least 1.5 (WCAG 1.4.8)",
+   "wcag": "1.4.8",
+   "severity": "Serious",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPagesAffected": 2,
+   "lastAffectedPages": [
+    "https://par.nsf.gov/contact",
+    "https://par.nsf.gov/"
+   ]
+  },
+  "VS-cb53cc4d": {
+   "engine": "Siteimprove Alfa",
+   "ruleId": "sia-r111",
+   "summary": "Target size is at least 44×44 CSS pixels (Enhanced) (WCAG 2.5.5)",
+   "wcag": "2.5.5",
+   "severity": "Serious",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPagesAffected": 2,
+   "lastAffectedPages": [
+    "https://par.nsf.gov/contact",
+    "https://par.nsf.gov/"
+   ]
+  },
+  "VS-424cced9": {
+   "engine": "axe-core",
+   "ruleId": "landmark-contentinfo-is-top-level",
+   "summary": "Contentinfo landmark should not be contained in another landmark (best practice, not a WCAG requirement)",
+   "wcag": null,
+   "severity": "Serious",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPagesAffected": 4,
+   "lastAffectedPages": [
+    "https://par.nsf.gov/services",
+    "https://par.nsf.gov/faq",
+    "https://par.nsf.gov/contact",
+    "https://par.nsf.gov/"
+   ]
+  },
+  "VS-f18df681": {
+   "engine": "axe-core",
+   "ruleId": "region",
+   "summary": "All page content should be contained by landmarks (best practice, not a WCAG requirement)",
+   "wcag": null,
+   "severity": "Serious",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPagesAffected": 4,
+   "lastAffectedPages": [
+    "https://par.nsf.gov/services",
+    "https://par.nsf.gov/faq",
+    "https://par.nsf.gov/contact",
+    "https://par.nsf.gov/"
+   ]
+  },
+  "VS-fa44f293": {
+   "engine": "axe-core",
+   "ruleId": "page-has-heading-one",
+   "summary": "Page should contain a level-one heading (best practice, not a WCAG requirement)",
+   "wcag": null,
+   "severity": "Serious",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPagesAffected": 2,
+   "lastAffectedPages": [
+    "https://par.nsf.gov/services",
+    "https://par.nsf.gov/"
+   ]
+  },
+  "VS-c18be945": {
+   "engine": "Siteimprove Alfa",
+   "ruleId": "sia-r57",
+   "summary": "Text is included in a landmark (best practice, not a WCAG requirement)",
+   "wcag": null,
+   "severity": "Serious",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPagesAffected": 2,
+   "lastAffectedPages": [
+    "https://par.nsf.gov/contact",
+    "https://par.nsf.gov/"
+   ]
+  },
+  "VS-7fbb8b20": {
+   "engine": "Siteimprove Alfa",
+   "ruleId": "sia-r59",
+   "summary": "Page has at least one heading (best practice, not a WCAG requirement)",
+   "wcag": null,
+   "severity": "Moderate",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPagesAffected": 1,
+   "lastAffectedPages": [
+    "https://par.nsf.gov/"
+   ]
+  }
+ }
+}

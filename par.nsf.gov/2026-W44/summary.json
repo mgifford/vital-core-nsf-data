@@ -1,0 +1,1615 @@
+{
+ "domain": "par.nsf.gov",
+ "week": "2026-W44",
+ "generatedAt": "2026-10-26T18:51:38.183Z",
+ "pagesScanned": 4,
+ "pagesAudited": 4,
+ "coverage": {
+  "axe": 4,
+  "plain-language": 1,
+  "resources": 4,
+  "standards": 2,
+  "alfa": 2,
+  "deprecated-html": 1
+ },
+ "blocked": null,
+ "axe": {
+  "violationTotal": 10,
+  "pagesWithViolations": 4,
+  "pagesScanned": 4,
+  "medianViolations": 3,
+  "rules": {
+   "landmark-contentinfo-is-top-level": {
+    "count": 4,
+    "pages": 4,
+    "impact": "moderate",
+    "help": "Contentinfo landmark should not be contained in another landmark",
+    "helpUrl": "https://dequeuniversity.com/rules/axe/4.14/landmark-contentinfo-is-top-level?application=axeAPI",
+    "tags": [
+     "best-practice"
+    ],
+    "examplePages": [
+     "https://par.nsf.gov/services",
+     "https://par.nsf.gov/faq",
+     "https://par.nsf.gov/contact"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://par.nsf.gov/services",
+      "instances": 1
+     },
+     {
+      "url": "https://par.nsf.gov/faq",
+      "instances": 1
+     },
+     {
+      "url": "https://par.nsf.gov/contact",
+      "instances": 1
+     },
+     {
+      "url": "https://par.nsf.gov/",
+      "instances": 1
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://par.nsf.gov/services",
+      "target": "#footer-wrapper",
+      "html": "<footer class=\"row\" id=\"footer-wrapper\" role=\"contentinfo\">"
+     },
+     {
+      "url": "https://par.nsf.gov/faq",
+      "target": "#footer-wrapper",
+      "html": "<footer class=\"row\" id=\"footer-wrapper\" role=\"contentinfo\">"
+     },
+     {
+      "url": "https://par.nsf.gov/contact",
+      "target": "#footer-wrapper",
+      "html": "<footer class=\"row\" id=\"footer-wrapper\" role=\"contentinfo\">"
+     },
+     {
+      "url": "https://par.nsf.gov/",
+      "target": "#footer-wrapper",
+      "html": "<footer class=\"row\" id=\"footer-wrapper\" role=\"contentinfo\">"
+     }
+    ]
+   },
+   "page-has-heading-one": {
+    "count": 2,
+    "pages": 2,
+    "impact": "moderate",
+    "help": "Page should contain a level-one heading",
+    "helpUrl": "https://dequeuniversity.com/rules/axe/4.14/page-has-heading-one?application=axeAPI",
+    "tags": [
+     "best-practice"
+    ],
+    "examplePages": [
+     "https://par.nsf.gov/services",
+     "https://par.nsf.gov/"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://par.nsf.gov/services",
+      "instances": 1
+     },
+     {
+      "url": "https://par.nsf.gov/",
+      "instances": 1
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://par.nsf.gov/services",
+      "target": "html",
+      "html": "<html lang=\"en\">"
+     },
+     {
+      "url": "https://par.nsf.gov/",
+      "target": "html",
+      "html": "<html lang=\"en\">"
+     }
+    ]
+   },
+   "region": {
+    "count": 4,
+    "pages": 4,
+    "impact": "moderate",
+    "help": "All page content should be contained by landmarks",
+    "helpUrl": "https://dequeuniversity.com/rules/axe/4.14/region?application=axeAPI",
+    "tags": [
+     "best-practice"
+    ],
+    "examplePages": [
+     "https://par.nsf.gov/services",
+     "https://par.nsf.gov/faq",
+     "https://par.nsf.gov/contact"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://par.nsf.gov/services",
+      "instances": 1
+     },
+     {
+      "url": "https://par.nsf.gov/faq",
+      "instances": 1
+     },
+     {
+      "url": "https://par.nsf.gov/contact",
+      "instances": 1
+     },
+     {
+      "url": "https://par.nsf.gov/",
+      "instances": 1
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://par.nsf.gov/services",
+      "target": "#official-site",
+      "html": "<div id=\"official-site\">"
+     },
+     {
+      "url": "https://par.nsf.gov/faq",
+      "target": "#official-site",
+      "html": "<div id=\"official-site\">"
+     },
+     {
+      "url": "https://par.nsf.gov/contact",
+      "target": "#official-site",
+      "html": "<div id=\"official-site\">"
+     },
+     {
+      "url": "https://par.nsf.gov/",
+      "target": "#official-site",
+      "html": "<div id=\"official-site\">"
+     }
+    ]
+   }
+  }
+ },
+ "alfa": {
+  "failedTotal": 29,
+  "pagesWithFailures": 2,
+  "pagesScanned": 2,
+  "medianFailures": 15,
+  "rules": {
+   "sia-r66": {
+    "count": 10,
+    "pages": 2,
+    "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r66",
+    "examplePages": [
+     "https://par.nsf.gov/contact",
+     "https://par.nsf.gov/"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://par.nsf.gov/contact",
+      "instances": 6
+     },
+     {
+      "url": "https://par.nsf.gov/",
+      "instances": 4
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://par.nsf.gov/contact",
+      "target": "text: \"Here's how you know \"",
+      "html": null
+     },
+     {
+      "url": "https://par.nsf.gov/contact",
+      "target": "text: \"Home\"",
+      "html": null
+     },
+     {
+      "url": "https://par.nsf.gov/contact",
+      "target": "text: \"Contact\"",
+      "html": null
+     },
+     {
+      "url": "https://par.nsf.gov/",
+      "target": "text: \"Here's how you know \"",
+      "html": null
+     },
+     {
+      "url": "https://par.nsf.gov/",
+      "target": "text: \"Public Access\"",
+      "html": null
+     }
+    ]
+   },
+   "sia-r73": {
+    "count": 4,
+    "pages": 2,
+    "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r73",
+    "examplePages": [
+     "https://par.nsf.gov/contact",
+     "https://par.nsf.gov/"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://par.nsf.gov/contact",
+      "instances": 3
+     },
+     {
+      "url": "https://par.nsf.gov/",
+      "instances": 1
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://par.nsf.gov/contact",
+      "target": "<p>",
+      "html": null
+     },
+     {
+      "url": "https://par.nsf.gov/contact",
+      "target": "<p>",
+      "html": null
+     },
+     {
+      "url": "https://par.nsf.gov/contact",
+      "target": "<p>",
+      "html": null
+     },
+     {
+      "url": "https://par.nsf.gov/",
+      "target": "<p>",
+      "html": null
+     }
+    ]
+   },
+   "sia-r57": {
+    "count": 4,
+    "pages": 2,
+    "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r57",
+    "examplePages": [
+     "https://par.nsf.gov/contact",
+     "https://par.nsf.gov/"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://par.nsf.gov/contact",
+      "instances": 2
+     },
+     {
+      "url": "https://par.nsf.gov/",
+      "instances": 2
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://par.nsf.gov/contact",
+      "target": "text: \"An official website of the United States government \n\t\t\t\t\"",
+      "html": null
+     },
+     {
+      "url": "https://par.nsf.gov/contact",
+      "target": "text: \"Here's how you know \"",
+      "html": null
+     },
+     {
+      "url": "https://par.nsf.gov/",
+      "target": "text: \"An official website of the United States government \n\t\t\t\t\"",
+      "html": null
+     },
+     {
+      "url": "https://par.nsf.gov/",
+      "target": "text: \"Here's how you know \"",
+      "html": null
+     }
+    ]
+   },
+   "sia-r111": {
+    "count": 10,
+    "pages": 2,
+    "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r111",
+    "examplePages": [
+     "https://par.nsf.gov/contact",
+     "https://par.nsf.gov/"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://par.nsf.gov/contact",
+      "instances": 5
+     },
+     {
+      "url": "https://par.nsf.gov/",
+      "instances": 5
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://par.nsf.gov/contact",
+      "target": "<a href=\"https://par.nsf.gov/\" title=\"PAR Home\" id=\"nav-home\" class=\"nav-button inline-button\">",
+      "html": null
+     },
+     {
+      "url": "https://par.nsf.gov/contact",
+      "target": "<a href=\"https://par.nsf.gov/contact\" title=\"PAR Contact\" id=\"nav-contact\" class=\"nav-button inline-button\">",
+      "html": null
+     },
+     {
+      "url": "https://par.nsf.gov/contact",
+      "target": "<a href=\"https://par.nsf.gov/faq\" title=\"PAR FAQ\" id=\"nav-faqs\" class=\"nav-button inline-button\">",
+      "html": null
+     },
+     {
+      "url": "https://par.nsf.gov/",
+      "target": "<a href=\"https://par.nsf.gov/\" title=\"PAR Home\" id=\"nav-home\" class=\"nav-button inline-button\">",
+      "html": null
+     },
+     {
+      "url": "https://par.nsf.gov/",
+      "target": "<a href=\"https://par.nsf.gov/contact\" title=\"PAR Contact\" id=\"nav-contact\" class=\"nav-button inline-button\">",
+      "html": null
+     }
+    ]
+   },
+   "sia-r59": {
+    "count": 1,
+    "pages": 1,
+    "ruleUrl": "https://alfa.siteimprove.com/rules/sia-r59",
+    "examplePages": [
+     "https://par.nsf.gov/"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://par.nsf.gov/",
+      "instances": 1
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://par.nsf.gov/",
+      "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
+      "html": null
+     }
+    ]
+   }
+  }
+ },
+ "consensus": {
+  "uniqueIssues": 19,
+  "consensus": 0,
+  "axeOnly": 10,
+  "alfaOnly": 9,
+  "rawAxe": 10,
+  "rawAlfa": 9,
+  "byKey": {
+   "axe-core:landmark-contentinfo-is-top-level": {
+    "actRuleId": null,
+    "axeRules": [
+     "landmark-contentinfo-is-top-level"
+    ],
+    "alfaRules": [],
+    "pages": 4,
+    "engines": "axe"
+   },
+   "axe-core:page-has-heading-one": {
+    "actRuleId": null,
+    "axeRules": [
+     "page-has-heading-one"
+    ],
+    "alfaRules": [],
+    "pages": 2,
+    "engines": "axe"
+   },
+   "axe-core:region": {
+    "actRuleId": null,
+    "axeRules": [
+     "region"
+    ],
+    "alfaRules": [],
+    "pages": 4,
+    "engines": "axe"
+   },
+   "alfa:sia-r66": {
+    "actRuleId": null,
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r66"
+    ],
+    "pages": 2,
+    "engines": "alfa"
+   },
+   "alfa:sia-r73": {
+    "actRuleId": null,
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r73"
+    ],
+    "pages": 2,
+    "engines": "alfa"
+   },
+   "alfa:sia-r57": {
+    "actRuleId": null,
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r57"
+    ],
+    "pages": 2,
+    "engines": "alfa"
+   },
+   "alfa:sia-r111": {
+    "actRuleId": null,
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r111"
+    ],
+    "pages": 2,
+    "engines": "alfa"
+   },
+   "alfa:sia-r59": {
+    "actRuleId": null,
+    "axeRules": [],
+    "alfaRules": [
+     "sia-r59"
+    ],
+    "pages": 1,
+    "engines": "alfa"
+   }
+  }
+ },
+ "sustainability": null,
+ "deprecatedHtml": null,
+ "resources": null,
+ "standards": {
+  "pagesChecked": 2,
+  "checks": [
+   {
+    "id": "schema-gov",
+    "label": "schema.org GovernmentOrganization markup",
+    "pass": 0,
+    "total": 2,
+    "rate": 0
+   },
+   {
+    "id": "canonical",
+    "label": "Canonical URL declared",
+    "pass": 0,
+    "total": 2,
+    "rate": 0
+   },
+   {
+    "id": "hreflang",
+    "label": "hreflang alternates declared",
+    "pass": 0,
+    "total": 2,
+    "rate": 0
+   },
+   {
+    "id": "charset",
+    "label": "Character encoding declared",
+    "pass": 0,
+    "total": 2,
+    "rate": 0
+   },
+   {
+    "id": "open-graph",
+    "label": "Open Graph tags (0/6)",
+    "pass": 0,
+    "total": 2,
+    "rate": 0
+   },
+   {
+    "id": "twitter-card",
+    "label": "Twitter card metadata",
+    "pass": 0,
+    "total": 2,
+    "rate": 0
+   },
+   {
+    "id": "open-social",
+    "label": "Open social presence (Mastodon/Bluesky) linked",
+    "pass": 0,
+    "total": 2,
+    "rate": 0
+   },
+   {
+    "id": "title",
+    "label": "Page has a <title>",
+    "pass": 2,
+    "total": 2,
+    "rate": 100
+   },
+   {
+    "id": "description",
+    "label": "Meta description present",
+    "pass": 2,
+    "total": 2,
+    "rate": 100
+   },
+   {
+    "id": "lang",
+    "label": "Document language (lang) set",
+    "pass": 2,
+    "total": 2,
+    "rate": 100
+   },
+   {
+    "id": "viewport",
+    "label": "Responsive viewport (zoom not disabled)",
+    "pass": 2,
+    "total": 2,
+    "rate": 100
+   }
+  ],
+  "social": []
+ },
+ "resilience": {
+  "pagesChecked": 2,
+  "checks": [
+   {
+    "id": "pwa-manifest",
+    "label": "Web app manifest declared",
+    "pass": 0,
+    "total": 2,
+    "rate": 0,
+    "why": "A web app manifest is required for installability and controls how the app appears when launched.",
+    "evidenceExamples": []
+   },
+   {
+    "id": "pwa-service-worker",
+    "label": "Service worker registered",
+    "pass": 0,
+    "total": 2,
+    "rate": 0,
+    "why": "A service worker is what makes offline access, caching, and background sync possible.",
+    "evidenceExamples": []
+   },
+   {
+    "id": "pwa-theme-color",
+    "label": "Theme color declared",
+    "pass": 0,
+    "total": 2,
+    "rate": 0,
+    "why": "Theme color controls the browser chrome/status-bar color when the site is installed or bookmarked.",
+    "evidenceExamples": []
+   },
+   {
+    "id": "pwa-apple-touch-icon",
+    "label": "Apple touch icon (iOS/bookmark icon)",
+    "pass": 0,
+    "total": 2,
+    "rate": 0,
+    "why": "iOS uses this icon for home-screen bookmarks and \"Add to Home Screen\" — without it the icon falls back to a screenshot.",
+    "evidenceExamples": []
+   },
+   {
+    "id": "manifest-parsed",
+    "label": "Manifest fetched and parsed successfully",
+    "pass": 0,
+    "total": 2,
+    "rate": 0,
+    "why": "A manifest that fails to parse cannot drive installability or launch behavior even if the link is present.",
+    "evidenceExamples": [
+     {
+      "evidence": "No manifest declared",
+      "url": "https://par.nsf.gov/services"
+     },
+     {
+      "evidence": "No manifest declared",
+      "url": "https://par.nsf.gov/"
+     }
+    ]
+   },
+   {
+    "id": "manifest-maskable-icon",
+    "label": "Manifest declares a maskable icon",
+    "pass": 0,
+    "total": 2,
+    "rate": 0,
+    "why": "A maskable icon lets the OS safely crop/mask the app icon on different device shapes without clipping content.",
+    "evidenceExamples": [
+     {
+      "evidence": "No manifest declared",
+      "url": "https://par.nsf.gov/services"
+     },
+     {
+      "evidence": "No manifest declared",
+      "url": "https://par.nsf.gov/"
+     }
+    ]
+   },
+   {
+    "id": "sw-active",
+    "label": "Service worker is active (not just registered)",
+    "pass": 0,
+    "total": 2,
+    "rate": 0,
+    "why": "An active service worker (not just registered) is what actually intercepts requests and serves cached content.",
+    "evidenceExamples": []
+   },
+   {
+    "id": "sw-controlling",
+    "label": "Service worker controls this page load",
+    "pass": 0,
+    "total": 2,
+    "rate": 0,
+    "why": "A controlling service worker means THIS page load is being served/intercepted, not just a future one.",
+    "evidenceExamples": []
+   },
+   {
+    "id": "installable",
+    "label": "Meets basic installability criteria",
+    "pass": 0,
+    "total": 2,
+    "rate": 0,
+    "why": "Determines whether the browser can realistically offer \"Add to Home Screen\" / install, based on manifest + service worker + HTTPS together.",
+    "evidenceExamples": [
+     {
+      "evidence": "no readable web app manifest; no service worker registered",
+      "url": "https://par.nsf.gov/services"
+     },
+     {
+      "evidence": "no readable web app manifest; no service worker registered",
+      "url": "https://par.nsf.gov/"
+     }
+    ]
+   },
+   {
+    "id": "pwa-https",
+    "label": "HTTPS (required for service workers)",
+    "pass": 2,
+    "total": 2,
+    "rate": 100,
+    "why": "HTTPS is required for service workers and most install prompts.",
+    "evidenceExamples": []
+   }
+  ],
+  "offline": null
+ },
+ "security": null,
+ "publicInterest": {
+  "engine": "public-interest",
+  "checkedAt": "2026-10-26T08:11:21.012Z",
+  "a11yStatement": {
+   "result": "pass",
+   "url": "https://www.nsf.gov/policies/access.jsp",
+   "confidence": "medium",
+   "checkedAt": "2026-10-26T08:11:17.085Z"
+  },
+  "carbonTxt": {
+   "result": "fail",
+   "url": null,
+   "valid": false,
+   "fields": {},
+   "checkedAt": "2026-10-26T08:11:17.087Z"
+  },
+  "greenWebFoundation": {
+   "result": "fail",
+   "green": false,
+   "hostedBy": null,
+   "url": "https://api.thegreenwebfoundation.org/greencheck/par.nsf.gov",
+   "checkedAt": "2026-10-26T08:11:17.087Z"
+  },
+  "sitemaps": {
+   "xml": {
+    "found": false,
+    "url": null
+   },
+   "human": {
+    "found": true,
+    "url": "https://par.nsf.gov/sitemap"
+   },
+   "checkedAt": "2026-10-26T08:11:17.088Z"
+  }
+ },
+ "plainLanguage": {
+  "pagesChecked": 1,
+  "pagesScored": 1,
+  "medianWordsPerPage": 307,
+  "medianReadingEase": 20.6,
+  "medianGrade": 15.8,
+  "topUnexplainedAcronyms": [
+   {
+    "acronym": "PAR",
+    "pages": 1,
+    "examplePages": [
+     "https://par.nsf.gov/services"
+    ]
+   },
+   {
+    "acronym": "ID",
+    "pages": 1,
+    "examplePages": [
+     "https://par.nsf.gov/services"
+    ]
+   },
+   {
+    "acronym": "CC",
+    "pages": 1,
+    "examplePages": [
+     "https://par.nsf.gov/services"
+    ]
+   },
+   {
+    "acronym": "RDF",
+    "pages": 1,
+    "examplePages": [
+     "https://par.nsf.gov/services"
+    ]
+   },
+   {
+    "acronym": "ISSN",
+    "pages": 1,
+    "examplePages": [
+     "https://par.nsf.gov/services"
+    ]
+   }
+  ],
+  "topMisspellings": [
+   {
+    "word": "AudiovisualBookBook",
+    "pages": 1,
+    "examplePages": [
+     "https://par.nsf.gov/services"
+    ]
+   },
+   {
+    "word": "ChapterConference",
+    "pages": 1,
+    "examplePages": [
+     "https://par.nsf.gov/services"
+    ]
+   },
+   {
+    "word": "PaperConference",
+    "pages": 1,
+    "examplePages": [
+     "https://par.nsf.gov/services"
+    ]
+   },
+   {
+    "word": "ProceedingData",
+    "pages": 1,
+    "examplePages": [
+     "https://par.nsf.gov/services"
+    ]
+   },
+   {
+    "word": "PaperDatasetDissertationEducational",
+    "pages": 1,
+    "examplePages": [
+     "https://par.nsf.gov/services"
+    ]
+   },
+   {
+    "word": "CurriculumJournal",
+    "pages": 1,
+    "examplePages": [
+     "https://par.nsf.gov/services"
+    ]
+   },
+   {
+    "word": "ArticleModelPosted",
+    "pages": 1,
+    "examplePages": [
+     "https://par.nsf.gov/services"
+    ]
+   },
+   {
+    "word": "ContentServiceSoftwareSoundWorkshop",
+    "pages": 1,
+    "examplePages": [
+     "https://par.nsf.gov/services"
+    ]
+   },
+   {
+    "word": "Crossref",
+    "pages": 1,
+    "examplePages": [
+     "https://par.nsf.gov/services"
+    ]
+   },
+   {
+    "word": "https",
+    "pages": 1,
+    "examplePages": [
+     "https://par.nsf.gov/services"
+    ]
+   },
+   {
+    "word": "www",
+    "pages": 1,
+    "examplePages": [
+     "https://par.nsf.gov/services"
+    ]
+   },
+   {
+    "word": "crossref",
+    "pages": 1,
+    "examplePages": [
+     "https://par.nsf.gov/services"
+    ]
+   },
+   {
+    "word": "Funder",
+    "pages": 1,
+    "examplePages": [
+     "https://par.nsf.gov/services"
+    ]
+   },
+   {
+    "word": "FundRef",
+    "pages": 1,
+    "examplePages": [
+     "https://par.nsf.gov/services"
+    ]
+   },
+   {
+    "word": "funder",
+    "pages": 1,
+    "examplePages": [
+     "https://par.nsf.gov/services"
+    ]
+   },
+   {
+    "word": "Centres",
+    "pages": 1,
+    "examplePages": [
+     "https://par.nsf.gov/services"
+    ]
+   },
+   {
+    "word": "issn",
+    "pages": 1,
+    "examplePages": [
+     "https://par.nsf.gov/services"
+    ]
+   }
+  ]
+ },
+ "lighthouse": null,
+ "linkCheck": {
+  "brokenCount": 1,
+  "broken": [
+   {
+    "url": "https://par.nsf.gov/services",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://par.nsf.gov/services",
+     "https://par.nsf.gov/faq"
+    ]
+   }
+  ]
+ },
+ "errorPages": [],
+ "tech": null,
+ "images": {
+  "pagesScanned": 4,
+  "totalImages": 24,
+  "uniqueImages": 5,
+  "missingAlt": 0,
+  "decorative": 0,
+  "withAlt": 24,
+  "altVerdicts": {
+   "GOOD": 5
+  }
+ },
+ "techFindings": null,
+ "thirdParty": null,
+ "componentClusters": {
+  "design_system": "none",
+  "design_system_label": "none",
+  "design_system_theme": null,
+  "template_page_threshold": 10,
+  "total_clusters": 15,
+  "clusters": [
+   {
+    "id": "cc-14ee8b957c21",
+    "engine_key": "axe-core",
+    "rule_id": "landmark-contentinfo-is-top-level",
+    "severity": "Serious",
+    "rule_pages_affected": 4,
+    "pages_affected": 4,
+    "instances": 4,
+    "selector_path": "#footer-wrapper",
+    "snippet_shape": "footer:role",
+    "representative_selector": "#footer-wrapper",
+    "representative_snippet": "<footer class=\"row\" id=\"footer-wrapper\" role=\"contentinfo\">",
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "unknown",
+    "distinct_components_for_rule": 1,
+    "action_score": 14.4,
+    "estimated_fix_impact": {
+     "findings": 4,
+     "pages": 4,
+     "statement": "Fix one place, resolve ~4 finding(s) on 4 page(s)."
+    },
+    "affected_pages": [
+     "https://par.nsf.gov/services",
+     "https://par.nsf.gov/faq",
+     "https://par.nsf.gov/contact",
+     "https://par.nsf.gov/"
+    ]
+   },
+   {
+    "id": "cc-6437f01d99df",
+    "engine_key": "axe-core",
+    "rule_id": "region",
+    "severity": "Serious",
+    "rule_pages_affected": 4,
+    "pages_affected": 4,
+    "instances": 4,
+    "selector_path": "#official-site",
+    "snippet_shape": "div:",
+    "representative_selector": "#official-site",
+    "representative_snippet": "<div id=\"official-site\">",
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "unknown",
+    "distinct_components_for_rule": 1,
+    "action_score": 14.4,
+    "estimated_fix_impact": {
+     "findings": 4,
+     "pages": 4,
+     "statement": "Fix one place, resolve ~4 finding(s) on 4 page(s)."
+    },
+    "affected_pages": [
+     "https://par.nsf.gov/services",
+     "https://par.nsf.gov/faq",
+     "https://par.nsf.gov/contact",
+     "https://par.nsf.gov/"
+    ]
+   },
+   {
+    "id": "cc-8cbe4219c5ad",
+    "engine_key": "axe-core",
+    "rule_id": "page-has-heading-one",
+    "severity": "Serious",
+    "rule_pages_affected": 2,
+    "pages_affected": 2,
+    "instances": 2,
+    "selector_path": "html",
+    "snippet_shape": "html:",
+    "representative_selector": "html",
+    "representative_snippet": "<html lang=\"en\">",
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 1,
+    "action_score": 7.2,
+    "estimated_fix_impact": {
+     "findings": 2,
+     "pages": 2,
+     "statement": "Fix one place, resolve ~2 finding(s) on 2 page(s)."
+    },
+    "affected_pages": [
+     "https://par.nsf.gov/services",
+     "https://par.nsf.gov/"
+    ]
+   },
+   {
+    "id": "cc-93d23f8c11f6",
+    "engine_key": "alfa",
+    "rule_id": "sia-r73",
+    "severity": "Serious",
+    "rule_pages_affected": 2,
+    "pages_affected": 2,
+    "instances": 4,
+    "selector_path": "<p>",
+    "snippet_shape": "",
+    "representative_selector": "<p>",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 1,
+    "action_score": 6,
+    "estimated_fix_impact": {
+     "findings": 4,
+     "pages": 2,
+     "statement": "Fix one place, resolve ~4 finding(s) on 2 page(s)."
+    },
+    "affected_pages": [
+     "https://par.nsf.gov/contact",
+     "https://par.nsf.gov/"
+    ]
+   },
+   {
+    "id": "cc-b994e4a3d102",
+    "engine_key": "alfa",
+    "rule_id": "sia-r57",
+    "severity": "Serious",
+    "rule_pages_affected": 2,
+    "pages_affected": 2,
+    "instances": 2,
+    "selector_path": "text: \"an official website of the united states government \"",
+    "snippet_shape": "",
+    "representative_selector": "text: \"An official website of the United States government \n\t\t\t\t\"",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 2,
+    "action_score": 3,
+    "estimated_fix_impact": {
+     "findings": 2,
+     "pages": 2,
+     "statement": "Fix one place, resolve ~2 finding(s) on 2 page(s)."
+    },
+    "affected_pages": [
+     "https://par.nsf.gov/contact",
+     "https://par.nsf.gov/"
+    ]
+   },
+   {
+    "id": "cc-bb6412ec37f6",
+    "engine_key": "alfa",
+    "rule_id": "sia-r57",
+    "severity": "Serious",
+    "rule_pages_affected": 2,
+    "pages_affected": 2,
+    "instances": 2,
+    "selector_path": "text: \"here's how you know \"",
+    "snippet_shape": "",
+    "representative_selector": "text: \"Here's how you know \"",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 2,
+    "action_score": 3,
+    "estimated_fix_impact": {
+     "findings": 2,
+     "pages": 2,
+     "statement": "Fix one place, resolve ~2 finding(s) on 2 page(s)."
+    },
+    "affected_pages": [
+     "https://par.nsf.gov/contact",
+     "https://par.nsf.gov/"
+    ]
+   },
+   {
+    "id": "cc-5511d143d09f",
+    "engine_key": "alfa",
+    "rule_id": "sia-r111",
+    "severity": "Serious",
+    "rule_pages_affected": 2,
+    "pages_affected": 2,
+    "instances": 2,
+    "selector_path": "<a href=\"https://par.nsf.gov/\" title=\"par home\" id=\"nav-home\" class=\"nav-button inline-button\">",
+    "snippet_shape": "",
+    "representative_selector": "<a href=\"https://par.nsf.gov/\" title=\"PAR Home\" id=\"nav-home\" class=\"nav-button inline-button\">",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 3,
+    "action_score": 2,
+    "estimated_fix_impact": {
+     "findings": 2,
+     "pages": 2,
+     "statement": "Fix one place, resolve ~2 finding(s) on 2 page(s)."
+    },
+    "affected_pages": [
+     "https://par.nsf.gov/contact",
+     "https://par.nsf.gov/"
+    ]
+   },
+   {
+    "id": "cc-de497fce12c2",
+    "engine_key": "alfa",
+    "rule_id": "sia-r111",
+    "severity": "Serious",
+    "rule_pages_affected": 2,
+    "pages_affected": 2,
+    "instances": 2,
+    "selector_path": "<a href=\"https://par.nsf.gov/contact\" title=\"par contact\" id=\"nav-contact\" class=\"nav-button inline-button\">",
+    "snippet_shape": "",
+    "representative_selector": "<a href=\"https://par.nsf.gov/contact\" title=\"PAR Contact\" id=\"nav-contact\" class=\"nav-button inline-button\">",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 3,
+    "action_score": 2,
+    "estimated_fix_impact": {
+     "findings": 2,
+     "pages": 2,
+     "statement": "Fix one place, resolve ~2 finding(s) on 2 page(s)."
+    },
+    "affected_pages": [
+     "https://par.nsf.gov/contact",
+     "https://par.nsf.gov/"
+    ]
+   },
+   {
+    "id": "cc-41f79223fc7b",
+    "engine_key": "alfa",
+    "rule_id": "sia-r111",
+    "severity": "Serious",
+    "rule_pages_affected": 2,
+    "pages_affected": 2,
+    "instances": 2,
+    "selector_path": "<a href=\"https://par.nsf.gov/faq\" title=\"par faq\" id=\"nav-faqs\" class=\"nav-button inline-button\">",
+    "snippet_shape": "",
+    "representative_selector": "<a href=\"https://par.nsf.gov/faq\" title=\"PAR FAQ\" id=\"nav-faqs\" class=\"nav-button inline-button\">",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 3,
+    "action_score": 2,
+    "estimated_fix_impact": {
+     "findings": 2,
+     "pages": 2,
+     "statement": "Fix one place, resolve ~2 finding(s) on 2 page(s)."
+    },
+    "affected_pages": [
+     "https://par.nsf.gov/contact",
+     "https://par.nsf.gov/"
+    ]
+   },
+   {
+    "id": "cc-194e6e5b541b",
+    "engine_key": "alfa",
+    "rule_id": "sia-r59",
+    "severity": "Moderate",
+    "rule_pages_affected": 1,
+    "pages_affected": 1,
+    "instances": 1,
+    "selector_path": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicid\":null,\"sys",
+    "snippet_shape": "",
+    "representative_selector": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 1,
+    "action_score": 2,
+    "estimated_fix_impact": {
+     "findings": 1,
+     "pages": 1,
+     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+    },
+    "affected_pages": [
+     "https://par.nsf.gov/"
+    ]
+   },
+   {
+    "id": "cc-ec6af0417877",
+    "engine_key": "alfa",
+    "rule_id": "sia-r66",
+    "severity": "Serious",
+    "rule_pages_affected": 2,
+    "pages_affected": 2,
+    "instances": 2,
+    "selector_path": "text: \"here's how you know \"",
+    "snippet_shape": "",
+    "representative_selector": "text: \"Here's how you know \"",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 5,
+    "action_score": 1.2,
+    "estimated_fix_impact": {
+     "findings": 2,
+     "pages": 2,
+     "statement": "Fix one place, resolve ~2 finding(s) on 2 page(s)."
+    },
+    "affected_pages": [
+     "https://par.nsf.gov/contact",
+     "https://par.nsf.gov/"
+    ]
+   },
+   {
+    "id": "cc-b2cc7c496c79",
+    "engine_key": "alfa",
+    "rule_id": "sia-r66",
+    "severity": "Serious",
+    "rule_pages_affected": 2,
+    "pages_affected": 1,
+    "instances": 1,
+    "selector_path": "text: \"home\"",
+    "snippet_shape": "",
+    "representative_selector": "text: \"Home\"",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 5,
+    "action_score": 0.6,
+    "estimated_fix_impact": {
+     "findings": 1,
+     "pages": 1,
+     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+    },
+    "affected_pages": [
+     "https://par.nsf.gov/contact"
+    ]
+   },
+   {
+    "id": "cc-d53b13b2004f",
+    "engine_key": "alfa",
+    "rule_id": "sia-r66",
+    "severity": "Serious",
+    "rule_pages_affected": 2,
+    "pages_affected": 1,
+    "instances": 1,
+    "selector_path": "text: \"contact\"",
+    "snippet_shape": "",
+    "representative_selector": "text: \"Contact\"",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 5,
+    "action_score": 0.6,
+    "estimated_fix_impact": {
+     "findings": 1,
+     "pages": 1,
+     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+    },
+    "affected_pages": [
+     "https://par.nsf.gov/contact"
+    ]
+   },
+   {
+    "id": "cc-e7e6f5c9b879",
+    "engine_key": "alfa",
+    "rule_id": "sia-r66",
+    "severity": "Serious",
+    "rule_pages_affected": 2,
+    "pages_affected": 1,
+    "instances": 1,
+    "selector_path": "text: \"public access\"",
+    "snippet_shape": "",
+    "representative_selector": "text: \"Public Access\"",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 5,
+    "action_score": 0.6,
+    "estimated_fix_impact": {
+     "findings": 1,
+     "pages": 1,
+     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+    },
+    "affected_pages": [
+     "https://par.nsf.gov/"
+    ]
+   },
+   {
+    "id": "cc-6aceb54d3791",
+    "engine_key": "alfa",
+    "rule_id": "sia-r66",
+    "severity": "Serious",
+    "rule_pages_affected": 2,
+    "pages_affected": 1,
+    "instances": 1,
+    "selector_path": "text: \"frequently asked questions\"",
+    "snippet_shape": "",
+    "representative_selector": "text: \"Frequently Asked Questions\"",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 5,
+    "action_score": 0.6,
+    "estimated_fix_impact": {
+     "findings": 1,
+     "pages": 1,
+     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+    },
+    "affected_pages": [
+     "https://par.nsf.gov/"
+    ]
+   }
+  ],
+  "top_actions": [
+   {
+    "id": "cc-14ee8b957c21",
+    "engine_key": "axe-core",
+    "rule_id": "landmark-contentinfo-is-top-level",
+    "severity": "Serious",
+    "rule_pages_affected": 4,
+    "pages_affected": 4,
+    "instances": 4,
+    "selector_path": "#footer-wrapper",
+    "snippet_shape": "footer:role",
+    "representative_selector": "#footer-wrapper",
+    "representative_snippet": "<footer class=\"row\" id=\"footer-wrapper\" role=\"contentinfo\">",
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "unknown",
+    "distinct_components_for_rule": 1,
+    "action_score": 14.4,
+    "estimated_fix_impact": {
+     "findings": 4,
+     "pages": 4,
+     "statement": "Fix one place, resolve ~4 finding(s) on 4 page(s)."
+    },
+    "affected_pages": [
+     "https://par.nsf.gov/services",
+     "https://par.nsf.gov/faq",
+     "https://par.nsf.gov/contact",
+     "https://par.nsf.gov/"
+    ]
+   },
+   {
+    "id": "cc-6437f01d99df",
+    "engine_key": "axe-core",
+    "rule_id": "region",
+    "severity": "Serious",
+    "rule_pages_affected": 4,
+    "pages_affected": 4,
+    "instances": 4,
+    "selector_path": "#official-site",
+    "snippet_shape": "div:",
+    "representative_selector": "#official-site",
+    "representative_snippet": "<div id=\"official-site\">",
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "unknown",
+    "distinct_components_for_rule": 1,
+    "action_score": 14.4,
+    "estimated_fix_impact": {
+     "findings": 4,
+     "pages": 4,
+     "statement": "Fix one place, resolve ~4 finding(s) on 4 page(s)."
+    },
+    "affected_pages": [
+     "https://par.nsf.gov/services",
+     "https://par.nsf.gov/faq",
+     "https://par.nsf.gov/contact",
+     "https://par.nsf.gov/"
+    ]
+   },
+   {
+    "id": "cc-8cbe4219c5ad",
+    "engine_key": "axe-core",
+    "rule_id": "page-has-heading-one",
+    "severity": "Serious",
+    "rule_pages_affected": 2,
+    "pages_affected": 2,
+    "instances": 2,
+    "selector_path": "html",
+    "snippet_shape": "html:",
+    "representative_selector": "html",
+    "representative_snippet": "<html lang=\"en\">",
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 1,
+    "action_score": 7.2,
+    "estimated_fix_impact": {
+     "findings": 2,
+     "pages": 2,
+     "statement": "Fix one place, resolve ~2 finding(s) on 2 page(s)."
+    },
+    "affected_pages": [
+     "https://par.nsf.gov/services",
+     "https://par.nsf.gov/"
+    ]
+   },
+   {
+    "id": "cc-93d23f8c11f6",
+    "engine_key": "alfa",
+    "rule_id": "sia-r73",
+    "severity": "Serious",
+    "rule_pages_affected": 2,
+    "pages_affected": 2,
+    "instances": 4,
+    "selector_path": "<p>",
+    "snippet_shape": "",
+    "representative_selector": "<p>",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 1,
+    "action_score": 6,
+    "estimated_fix_impact": {
+     "findings": 4,
+     "pages": 2,
+     "statement": "Fix one place, resolve ~4 finding(s) on 2 page(s)."
+    },
+    "affected_pages": [
+     "https://par.nsf.gov/contact",
+     "https://par.nsf.gov/"
+    ]
+   },
+   {
+    "id": "cc-b994e4a3d102",
+    "engine_key": "alfa",
+    "rule_id": "sia-r57",
+    "severity": "Serious",
+    "rule_pages_affected": 2,
+    "pages_affected": 2,
+    "instances": 2,
+    "selector_path": "text: \"an official website of the united states government \"",
+    "snippet_shape": "",
+    "representative_selector": "text: \"An official website of the United States government \n\t\t\t\t\"",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 2,
+    "action_score": 3,
+    "estimated_fix_impact": {
+     "findings": 2,
+     "pages": 2,
+     "statement": "Fix one place, resolve ~2 finding(s) on 2 page(s)."
+    },
+    "affected_pages": [
+     "https://par.nsf.gov/contact",
+     "https://par.nsf.gov/"
+    ]
+   },
+   {
+    "id": "cc-bb6412ec37f6",
+    "engine_key": "alfa",
+    "rule_id": "sia-r57",
+    "severity": "Serious",
+    "rule_pages_affected": 2,
+    "pages_affected": 2,
+    "instances": 2,
+    "selector_path": "text: \"here's how you know \"",
+    "snippet_shape": "",
+    "representative_selector": "text: \"Here's how you know \"",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 2,
+    "action_score": 3,
+    "estimated_fix_impact": {
+     "findings": 2,
+     "pages": 2,
+     "statement": "Fix one place, resolve ~2 finding(s) on 2 page(s)."
+    },
+    "affected_pages": [
+     "https://par.nsf.gov/contact",
+     "https://par.nsf.gov/"
+    ]
+   },
+   {
+    "id": "cc-5511d143d09f",
+    "engine_key": "alfa",
+    "rule_id": "sia-r111",
+    "severity": "Serious",
+    "rule_pages_affected": 2,
+    "pages_affected": 2,
+    "instances": 2,
+    "selector_path": "<a href=\"https://par.nsf.gov/\" title=\"par home\" id=\"nav-home\" class=\"nav-button inline-button\">",
+    "snippet_shape": "",
+    "representative_selector": "<a href=\"https://par.nsf.gov/\" title=\"PAR Home\" id=\"nav-home\" class=\"nav-button inline-button\">",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 3,
+    "action_score": 2,
+    "estimated_fix_impact": {
+     "findings": 2,
+     "pages": 2,
+     "statement": "Fix one place, resolve ~2 finding(s) on 2 page(s)."
+    },
+    "affected_pages": [
+     "https://par.nsf.gov/contact",
+     "https://par.nsf.gov/"
+    ]
+   },
+   {
+    "id": "cc-de497fce12c2",
+    "engine_key": "alfa",
+    "rule_id": "sia-r111",
+    "severity": "Serious",
+    "rule_pages_affected": 2,
+    "pages_affected": 2,
+    "instances": 2,
+    "selector_path": "<a href=\"https://par.nsf.gov/contact\" title=\"par contact\" id=\"nav-contact\" class=\"nav-button inline-button\">",
+    "snippet_shape": "",
+    "representative_selector": "<a href=\"https://par.nsf.gov/contact\" title=\"PAR Contact\" id=\"nav-contact\" class=\"nav-button inline-button\">",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 3,
+    "action_score": 2,
+    "estimated_fix_impact": {
+     "findings": 2,
+     "pages": 2,
+     "statement": "Fix one place, resolve ~2 finding(s) on 2 page(s)."
+    },
+    "affected_pages": [
+     "https://par.nsf.gov/contact",
+     "https://par.nsf.gov/"
+    ]
+   },
+   {
+    "id": "cc-41f79223fc7b",
+    "engine_key": "alfa",
+    "rule_id": "sia-r111",
+    "severity": "Serious",
+    "rule_pages_affected": 2,
+    "pages_affected": 2,
+    "instances": 2,
+    "selector_path": "<a href=\"https://par.nsf.gov/faq\" title=\"par faq\" id=\"nav-faqs\" class=\"nav-button inline-button\">",
+    "snippet_shape": "",
+    "representative_selector": "<a href=\"https://par.nsf.gov/faq\" title=\"PAR FAQ\" id=\"nav-faqs\" class=\"nav-button inline-button\">",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 3,
+    "action_score": 2,
+    "estimated_fix_impact": {
+     "findings": 2,
+     "pages": 2,
+     "statement": "Fix one place, resolve ~2 finding(s) on 2 page(s)."
+    },
+    "affected_pages": [
+     "https://par.nsf.gov/contact",
+     "https://par.nsf.gov/"
+    ]
+   },
+   {
+    "id": "cc-194e6e5b541b",
+    "engine_key": "alfa",
+    "rule_id": "sia-r59",
+    "severity": "Moderate",
+    "rule_pages_affected": 1,
+    "pages_affected": 1,
+    "instances": 1,
+    "selector_path": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicid\":null,\"sys",
+    "snippet_shape": "",
+    "representative_selector": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
+    "representative_snippet": null,
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 1,
+    "action_score": 2,
+    "estimated_fix_impact": {
+     "findings": 1,
+     "pages": 1,
+     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+    },
+    "affected_pages": [
+     "https://par.nsf.gov/"
+    ]
+   }
+  ],
+  "design_component_usage": [],
+  "page_component_usage": [],
+  "drift_page_count": 0,
+  "drift_pages": [],
+  "drift_clusters": []
+ },
+ "pagesAttempted": 4,
+ "pagesSucceeded": 4
+}
