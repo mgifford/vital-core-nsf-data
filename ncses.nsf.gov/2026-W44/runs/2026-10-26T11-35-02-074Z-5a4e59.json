@@ -1,0 +1,101 @@
+{
+ "runId": "2026-10-26T11-35-02-074Z-5a4e59",
+ "week": "2026-W44",
+ "domain": "ncses.nsf.gov",
+ "startedAt": "2026-10-26T11:35:05.585Z",
+ "scanned": [
+  "1e93fd7286b7d61b",
+  "b91659e738f609da",
+  "0c634f9f60daa1ad",
+  "d0c45f8cd239f065",
+  "cd723c335a8e14a6",
+  "6b780ee8b0b5d1c0",
+  "4e8fe089fcf44d21",
+  "85d2356c57919605",
+  "3f2979273ba437cc",
+  "5d4fc54dfa318e0f",
+  "f325b7c08d7652ed",
+  "5aee710fa29d608b",
+  "8426c0170a652d48",
+  "f122d019749b8d68",
+  "84543ea94faee26a",
+  "cc2926e7bdd51791",
+  "a52a1ba0a17b6d51",
+  "18b66b717a263f2a",
+  "8370f536df7d44a9",
+  "8917d9a69e298685",
+  "b4566e02101f1ad6",
+  "ad7b4cb611e2e5e5",
+  "77271c28cccbddd6"
+ ],
+ "errors": [
+  {
+   "pageId": "5733615efbecdd5a",
+   "url": "http://ncses.nsf.gov/search?aois=STEM+Education&query=&topics=Family+Characteristics",
+   "error": "Error: page.goto: net::ERR_CONNECTION_RESET at http://ncses.nsf.gov/search?aois=STEM+Education&query=&topics=Family+Characteristics\nCall log:\n  - navigating to \"http://ncses.nsf.gov/search?aois=STEM+Education&query=&topics=Family+Characteristics\", waiting until \"load\"\n"
+  },
+  {
+   "pageId": "4c07d9c623fe7f9e",
+   "url": "http://ncses.nsf.gov/pubs/nsf23300/report",
+   "error": "Error: page.goto: net::ERR_CONNECTION_RESET at http://ncses.nsf.gov/pubs/nsf23300/report\nCall log:\n  - navigating to \"http://ncses.nsf.gov/pubs/nsf23300/report\", waiting until \"load\"\n"
+  }
+ ],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 2609,
+  "checked": 500,
+  "brokenCount": 1,
+  "broken": [
+   {
+    "url": "https://www.sbir.gov/sbirsearch/award/all",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20262/figure/TRN-31"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 23,
+  "plain-language": 14,
+  "resources": 23,
+  "images": 23,
+  "standards": 7,
+  "third-party": 9,
+  "link-check": 23,
+  "alfa": 11,
+  "public-interest": 3,
+  "sustainability": 4,
+  "security": 4,
+  "lighthouse": 2,
+  "deprecated-html": 1,
+  "tech": 1
+ },
+ "tally": {
+  "ok": 23,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 2
+ },
+ "finishedAt": "2026-10-26T11:41:41.290Z"
+}
