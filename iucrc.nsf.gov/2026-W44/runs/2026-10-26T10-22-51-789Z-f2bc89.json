@@ -1,0 +1,157 @@
+{
+ "runId": "2026-10-26T10-22-51-789Z-f2bc89",
+ "week": "2026-W44",
+ "domain": "iucrc.nsf.gov",
+ "startedAt": "2026-10-26T10:22:53.426Z",
+ "scanned": [
+  "5b0feb90a723e240",
+  "3e94b76db756a7e4",
+  "3e51345c637ceb65",
+  "bdf32fd9a1ccfa86",
+  "e927e765c3c31cde",
+  "420e3a390cda9835",
+  "ce39adf7089f18e6",
+  "12d33aa143cda61d",
+  "e0ea06998adb4334",
+  "800c5b013a22b8d3",
+  "9de9dab646bde450",
+  "91607c5617604add",
+  "af76da9b0cea54d6",
+  "4ee7f78f50c84454",
+  "e7565176cdb66f56",
+  "47fb30f3fb860e81",
+  "a455022bd5c803f5",
+  "af7132aeafa60245",
+  "3d60f0b7dd49562d",
+  "7ced58e1fe57f5b5",
+  "49e1576645851fcb",
+  "aff84d2f5d0bb447",
+  "72a6d2305f31edf9",
+  "ba7a25a80f4487a4",
+  "662f6d4953cd1c8a"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 239,
+  "checked": 239,
+  "brokenCount": 9,
+  "broken": [
+   {
+    "url": "https://www.goodyear.co/",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-tire-research"
+    ]
+   },
+   {
+    "url": "https://info.bwc.ohio.gov/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-disruptive-musculoskeletal-innovations"
+    ]
+   },
+   {
+    "url": "https://www.usaa.com/",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-innovation-in-risk-catastrophes-and-decisions-circad",
+     "https://iucrc.nsf.gov/centers/center-for-interdisciplinary-research-on-convective-storms"
+    ]
+   },
+   {
+    "url": "https://usdairy.com/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-advanced-research-in-drying"
+    ]
+   },
+   {
+    "url": "https://www.reckitt.com/",
+    "status": 0,
+    "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-advanced-research-in-drying"
+    ]
+   },
+   {
+    "url": "https://energysafety.ca.gov/wp-content/uploads/2025/06//recommendations-to-energy-safety-2025-adopted-1.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/achievements/firebench"
+    ]
+   },
+   {
+    "url": "https://iucrc.nsf.gov/centers/center-for-soil-technologies-soiltech",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/focus-area/energy-and-environment"
+    ]
+   },
+   {
+    "url": "http://www.ststnett.no/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-cybersecurity-analytics-and-automation"
+    ]
+   },
+   {
+    "url": "http://sibs.uncc.edu/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/sustainably-integrated-buildings-and-sites"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 24,
+  "alfa": 12,
+  "plain-language": 11,
+  "resources": 24,
+  "images": 24,
+  "third-party": 6,
+  "link-check": 24,
+  "standards": 10,
+  "security": 4,
+  "public-interest": 3,
+  "deprecated-html": 2,
+  "sustainability": 2,
+  "lighthouse": 2,
+  "tech": 1
+ },
+ "tally": {
+  "ok": 24,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-26T10:25:47.059Z"
+}
