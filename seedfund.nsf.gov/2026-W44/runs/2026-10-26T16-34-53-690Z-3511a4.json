@@ -1,0 +1,116 @@
+{
+ "runId": "2026-10-26T16-34-53-690Z-3511a4",
+ "week": "2026-W44",
+ "domain": "seedfund.nsf.gov",
+ "startedAt": "2026-10-26T16:34:55.810Z",
+ "scanned": [
+  "7a9b1e43512a054b",
+  "3cace90051a2a2ff",
+  "25a5c3437b9cc05b",
+  "42d1af039f008e68",
+  "7844c86b5b15678c",
+  "e42fcf8e6d09a2ca",
+  "433af29e40536a77",
+  "681b17369d62e9b6",
+  "643390949593142f",
+  "d2dca28925ade8f2",
+  "32ff4b7c976cb09f",
+  "1bbc5dc9b2a6635d",
+  "d4ad11c3d6bc5e88",
+  "67e076d9c435efff",
+  "4c4a9702c91b02b3",
+  "6295d510f882666d",
+  "9afdc7467a3dee25",
+  "78a6862b7cd929af",
+  "27d81d744853bc63",
+  "9dafd823b1ca9984",
+  "fefa7a233c8d3343",
+  "9bec865992d9fcd4",
+  "e7c272ccfec9dbe0",
+  "90ca17e8df6c5e9a",
+  "67246c7f8b574831"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 242,
+  "checked": 242,
+  "brokenCount": 4,
+  "broken": [
+   {
+    "url": "http://www.clearflame.com/",
+    "status": 0,
+    "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
+    "foundOn": [
+     "https://seedfund.nsf.gov/awardees/history/details?company=clearflame-engines-inc"
+    ]
+   },
+   {
+    "url": "https://seedfund.nsf.gov/resources/awardees/supplement/[/assets/files/awardees/ED-Supp-Template.docx](https://seedfund.nsf.gov/assets/files/awardees/ED-Supp-Template.docx)",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://seedfund.nsf.gov/resources/awardees/supplement/commercial"
+    ]
+   },
+   {
+    "url": "https://iperf.asee.org/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://seedfund.nsf.gov/resources/awardees/supplement/commercial"
+    ]
+   },
+   {
+    "url": "https://relavomedical.com/",
+    "status": 0,
+    "reason": "EAI_AGAIN",
+    "foundOn": [
+     "https://seedfund.nsf.gov/news/RelavoandCurieDx"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 25,
+  "alfa": 11,
+  "plain-language": 13,
+  "resources": 25,
+  "images": 25,
+  "third-party": 10,
+  "link-check": 25,
+  "standards": 10,
+  "security": 2,
+  "sustainability": 3,
+  "public-interest": 2,
+  "deprecated-html": 2,
+  "lighthouse": 1,
+  "tech": 1
+ },
+ "tally": {
+  "ok": 25,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-26T16:37:45.561Z"
+}
