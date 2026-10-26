@@ -1,0 +1,87 @@
+{
+ "runId": "2026-10-26T08-48-27-397Z-2140cd",
+ "week": "2026-W44",
+ "domain": "ncses.nsf.gov",
+ "startedAt": "2026-10-26T08:48:27.803Z",
+ "scanned": [
+  "665759a1296b81fc",
+  "f0558401cfbea624",
+  "e9fd84c4573a5506",
+  "a475a53083162c13",
+  "80fbba4710c11c65",
+  "1c8aea28559f3ecc",
+  "8bee6edffce6a037",
+  "e4a6d4d0041ac979",
+  "49c885f261daa2da",
+  "fbb70d18fdd38fa8",
+  "6b863a6dfdda84f3",
+  "206d27896aa2fe57",
+  "a913d76b63a7adb0",
+  "39a95451f389753a",
+  "01fb8f318d2958eb",
+  "bd9c220676d23994",
+  "82c489aa7815c341",
+  "9c20c7544da140f7",
+  "5d045cbf9fdaef33",
+  "0e384d8385f36c11",
+  "6afd0b6b8e721443",
+  "14b7aaa5f4cf69ec",
+  "c2564d76f9568a69",
+  "5a956234996b6c42"
+ ],
+ "errors": [
+  {
+   "pageId": "c9080d1b530dd48e",
+   "url": "http://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=State+Government%2FAgency+R%26D",
+   "error": "Error: page.goto: net::ERR_CONNECTION_RESET at http://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=State+Government%2FAgency+R%26D\nCall log:\n  - navigating to \"http://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=State+Government%2FAgency+R%26"
+  }
+ ],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 2470,
+  "checked": 500,
+  "brokenCount": 0,
+  "broken": []
+ },
+ "enginesRun": {
+  "axe": 24,
+  "resources": 24,
+  "images": 24,
+  "standards": 10,
+  "lighthouse": 2,
+  "link-check": 24,
+  "alfa": 14,
+  "security": 4,
+  "plain-language": 13,
+  "third-party": 2,
+  "sustainability": 4,
+  "public-interest": 1,
+  "tech": 1
+ },
+ "tally": {
+  "ok": 24,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 1
+ },
+ "finishedAt": "2026-10-26T08:53:58.345Z"
+}
