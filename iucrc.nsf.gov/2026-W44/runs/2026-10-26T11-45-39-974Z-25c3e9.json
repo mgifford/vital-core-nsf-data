@@ -1,0 +1,164 @@
+{
+ "runId": "2026-10-26T11-45-39-974Z-25c3e9",
+ "week": "2026-W44",
+ "domain": "iucrc.nsf.gov",
+ "startedAt": "2026-10-26T11:45:40.414Z",
+ "scanned": [
+  "eb561d57f7f42fe6",
+  "7b8d424dc4fcb7b3",
+  "c785d7f65011bc19",
+  "38468354b72e05af",
+  "133b1c33eaf2c712",
+  "2cfa44ab869bef19",
+  "a4bfd6ea1b2f0cb7",
+  "2510038527ab736a",
+  "7b8c9b28a86f12e2",
+  "530f658744e31525",
+  "164e830557062c08",
+  "8567f6dd7035b14f",
+  "4e68ab7eb740f12e",
+  "de364a3e0dd075e5",
+  "7697a5f0d56621a1",
+  "d271b2cdf5b82275",
+  "e0923ae76e0412ad",
+  "ae811fdf5d484bfb",
+  "2a4bf47cd1d4243b",
+  "b05a23dd9f789690",
+  "c3b54239ed1d3919",
+  "fcf1fe3418cefe2b",
+  "7dc30bd0fb5e9239",
+  "c24ed09982133b78",
+  "7b58fe8616bcde64"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 293,
+  "checked": 293,
+  "brokenCount": 10,
+  "broken": [
+   {
+    "url": "https://gmg.sites.caltech.edu/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/geomechanics-and-mitigation-of-geohazard"
+    ]
+   },
+   {
+    "url": "https://www.avangrid.com/aboutus/avangridnetworks",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-weather-innovation-smart-energy-and-resilience-wiser"
+    ]
+   },
+   {
+    "url": "http://www.nystar.state.ny.us/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-weather-innovation-smart-energy-and-resilience-wiser"
+    ]
+   },
+   {
+    "url": "https://iucrc.nsf.gov/centers/center-for-research-in-systems-and-storage-crss",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers"
+    ]
+   },
+   {
+    "url": "https://iucrc.nsf.gov/centers/center-for-electric-connected-and-autonomous-technologies-for-mobility-ecat",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers"
+    ]
+   },
+   {
+    "url": "https://iucrc.nsf.gov/centers/center-for-soil-technologies-soiltech",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers"
+    ]
+   },
+   {
+    "url": "https://nsf.gov/pubs/2020/nsf20570/nsf20570.htm?org=NSF",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/universities/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubs/2020/nsf20080/nsf20080.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/universities/solicitation"
+    ]
+   },
+   {
+    "url": "https://iucrc.nsf.gov/centers/intel.com",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-on-pervasive-personalized-intelligence-ppi"
+    ]
+   },
+   {
+    "url": "https://iucrc.nsf.gov/centers/nec.com",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-on-pervasive-personalized-intelligence-ppi"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 23,
+  "alfa": 16,
+  "plain-language": 8,
+  "resources": 23,
+  "images": 23,
+  "third-party": 4,
+  "link-check": 23,
+  "deprecated-html": 5,
+  "standards": 8,
+  "public-interest": 1,
+  "lighthouse": 1,
+  "security": 3,
+  "tech": 2,
+  "sustainability": 2
+ },
+ "tally": {
+  "ok": 23,
+  "blocked": 2,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-26T11:48:54.807Z"
+}
