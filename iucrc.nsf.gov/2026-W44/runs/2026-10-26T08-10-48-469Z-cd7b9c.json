@@ -1,0 +1,148 @@
+{
+ "runId": "2026-10-26T08-10-48-469Z-cd7b9c",
+ "week": "2026-W44",
+ "domain": "iucrc.nsf.gov",
+ "startedAt": "2026-10-26T08:10:49.071Z",
+ "scanned": [
+  "af0a446423d7aaa7",
+  "7391fce832cf4516",
+  "27180125c3161a59",
+  "bae1d3973065408b",
+  "9a7ea8a56b872626",
+  "743b68bcbe8ee18b",
+  "e1078eb25568e7df",
+  "b7edaba4fd0950e5",
+  "60b512933bde72e6",
+  "6482386a4c1660a4",
+  "c3a5f1571abf2b19",
+  "d1e2a88f1b0090b9",
+  "c61b70e2988bb6f8",
+  "820fade24a2a2e4a",
+  "4dde3ff038aa5b63",
+  "b2f05717ce6432c1",
+  "338c30990bfa1fdc",
+  "53afd17962d23421",
+  "25e1eab0b5fe277b",
+  "d7b1500ed1920743",
+  "6f9247dd70d23d63",
+  "33ddf92e53c69627",
+  "aec13f12aba374a4",
+  "38a755bc087a46e3",
+  "1c7bd59cf1ba69af"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 202,
+  "checked": 202,
+  "brokenCount": 8,
+  "broken": [
+   {
+    "url": "https://iucrc.nsf.gov/centers/center-for-research-in-systems-and-storage-crss",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/focus-area/information-communication-and-computing"
+    ]
+   },
+   {
+    "url": "https://iucrc.nsf.gov/centers/center-for-electric-connected-and-autonomous-technologies-for-mobility-ecat",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/focus-area/information-communication-and-computing"
+    ]
+   },
+   {
+    "url": "https://chapulfarms.com/chapul-farms",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-insect-biomanufacturing-and-innovation-cibi"
+    ]
+   },
+   {
+    "url": "http://www.research.gov/research-portal/appmanager/base/desktop?_nfpb=true&_pageLabel=programIncome",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://iucrc.nsf.gov/universities/solicitation/cost-sharing-program-income-archive"
+    ]
+   },
+   {
+    "url": "https://iucrc.nsf.gov/universities/solicitation/annual-costs",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/universities/solicitation/cost-sharing-program-income-archive"
+    ]
+   },
+   {
+    "url": "https://www.wright.edu/center-for-surveillance-research",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-surveillance-research"
+    ]
+   },
+   {
+    "url": "https://iucrc.nsf.gov/centers/center-for-soil-technologies-soiltech",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/focus-area/energy-and-environment/page/3"
+    ]
+   },
+   {
+    "url": "https://mds-rely.org/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-materials-data-science-for-reliability-and-degradation-mds-rely"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 23,
+  "plain-language": 12,
+  "resources": 23,
+  "images": 23,
+  "standards": 12,
+  "link-check": 23,
+  "sustainability": 5,
+  "alfa": 12,
+  "third-party": 9,
+  "deprecated-html": 3,
+  "tech": 1,
+  "security": 4,
+  "public-interest": 3,
+  "lighthouse": 1
+ },
+ "tally": {
+  "ok": 23,
+  "blocked": 2,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-26T08:13:28.510Z"
+}
