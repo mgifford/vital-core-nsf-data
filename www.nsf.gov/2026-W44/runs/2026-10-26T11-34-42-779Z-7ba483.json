@@ -1,0 +1,228 @@
+{
+ "runId": "2026-10-26T11-34-42-779Z-7ba483",
+ "week": "2026-W44",
+ "domain": "www.nsf.gov",
+ "startedAt": "2026-10-26T11:34:43.206Z",
+ "scanned": [
+  "d82146e029d67bfd",
+  "0e8a87995fcafa66",
+  "70b5afa06237a820",
+  "9f26dd569e709865",
+  "9dc46c8173c10b91",
+  "ab09cd948c5d8b3a",
+  "5bfa980fbda080bc",
+  "cc0452ccb2c18abb",
+  "9711b846d307c7e7",
+  "0b2f6260c677aba6",
+  "095a2a7a96b0f0bc",
+  "003d9e877a7dadde",
+  "7660fa85d912414a",
+  "8e864e8a9dfb553a",
+  "c5f029f30e3189be",
+  "2bf05c8dd7c7ea5d",
+  "fee4801f9f815ef8",
+  "b4c799264184c31a",
+  "9c8da73b0c259975",
+  "314676e3a9a7479c",
+  "a3b9cbb1729f0521",
+  "a72706cd28ee1f8d",
+  "1a7b682c022877f6",
+  "09bef264592b7309",
+  "436e40d2aed9cc4b"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 227,
+  "checked": 227,
+  "brokenCount": 18,
+  "broken": [
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJIsfu6trzIqGNkCnI0i34_6d7gPRspkQSk",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/national-stem-teacher-corps-webinars-information"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJIsduGsrD8pHyv-bcET3j-XU16VMgDCQPE",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/national-stem-teacher-corps-webinars-information"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJItdO2oqjwuE7G8pk1eGidsCRjQoCKMnv0",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/national-stem-teacher-corps-webinars-information"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJIsce-qrjgtEj84TPUkBnVMeegJuIWlzTo",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/national-stem-teacher-corps-webinars-information"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJItf-ugqz8oHmWXqJFMv8CVgG88XJuGVOk",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/national-stem-teacher-corps-webinars-information"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJItdOyrrzkjGelp4DgURVaJQeQD3guxDis",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/national-stem-teacher-corps-webinars-information"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_Xi7DlWR-TAqEdrDwpMJduw",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/brite-nsf-boosting-research-ideas-transformative-equitable/505880/nsf22-559"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_8tYZQm3fTcOiY7wEj9a4zA",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/brite-nsf-boosting-research-ideas-transformative-equitable/505880/nsf22-559"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_bpwok5QSS2OIMDiATKPx8g",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/cybertraining-nsf-23-520-program-webinar/2024-10-07"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_D_59Ap3vQFW2PijlQtmxKw",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/epscor-live-0/2024-07-17"
+    ]
+   },
+   {
+    "url": "https://iosblog.nsfbio.com/virtual-office-hours/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/events/ios-virtual-office-hour-division-grants-agreements-visits/2024-06-20"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJIsdeiqrj4qHxA3q8n-1VrOPm2UgEYdS68",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/information-intelligent-systems-iis-office-hours-11/2024-03-21"
+    ]
+   },
+   {
+    "url": "https://iosblog.nsfbio.com/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/events/ios-virtual-office-hour-division-grants-agreements-visits/2024-06-20"
+    ]
+   },
+   {
+    "url": "https://new.nsf.gov/news/expedition-service-ocean-observatories-initiative",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/news/enabling-key-oceanographic-science-21st-century-nsf"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_hav7eIgmSEizV4PFftNX8A",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/nsf-policy-webinar-nsf-funding-opportunities-organizational/2023-09-28"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_Gccx65NbTciCkOI1v5cfHw",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/astronomy-astrophysics-advisory-committee-meeting-september/2025-09-26"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/events/astronomy-astrophysics-advisory-committee-meeting-september",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/astronomy-astrophysics-advisory-committee-meeting-september/2025-09-26"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/events/formal-methods-field-fmitf-program-webinar",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/fmitf-formal-methods-field/505518/nsf20-613"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 23,
+  "resources": 23,
+  "images": 23,
+  "standards": 11,
+  "security": 3,
+  "link-check": 23,
+  "plain-language": 15,
+  "third-party": 6,
+  "lighthouse": 4,
+  "sustainability": 3,
+  "public-interest": 4,
+  "tech": 3,
+  "alfa": 7,
+  "deprecated-html": 1
+ },
+ "tally": {
+  "ok": 23,
+  "blocked": 2,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-26T11:39:04.483Z"
+}
