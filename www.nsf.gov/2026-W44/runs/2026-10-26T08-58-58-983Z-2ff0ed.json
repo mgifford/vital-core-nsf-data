@@ -1,0 +1,299 @@
+{
+ "runId": "2026-10-26T08-58-58-983Z-2ff0ed",
+ "week": "2026-W44",
+ "domain": "www.nsf.gov",
+ "startedAt": "2026-10-26T08:58:59.437Z",
+ "scanned": [
+  "fee8ad75251082fc",
+  "51ec22560fa0a995",
+  "b2496a30357aae69",
+  "135fd6278e025da1",
+  "a8013a1a0886dc4b",
+  "e2378e72ff76bab4",
+  "fda31ff59ac11561",
+  "c8f00f51f398c0f5",
+  "25726cb36136efff",
+  "66603581aadf6629",
+  "ac32daae4a88834c",
+  "2429e054b3ce29bb",
+  "10c9bc5c1a119050",
+  "99507cebcb4c4933",
+  "aa66d74b8ae83d21",
+  "42ec86f308a0db49",
+  "f5635ef8169a46bb",
+  "6287274cbe8024bf",
+  "5f9c2d2c9c529f31",
+  "e662336c3f06561c",
+  "56a8dffe04001f36",
+  "2077265b29d8fa58",
+  "19e50cd3522ac4a8",
+  "515b20e5f4ed3c97",
+  "1e2f87fda88becf2"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 325,
+  "checked": 325,
+  "brokenCount": 27,
+  "broken": [
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJIsdu2hqDItGq1VIdkRCQxBGFqnI5CfET4",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/dmr-open-hour-data-management-plans-qa/2024-07-19"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_p_VYgAJ9Spu6QVH10U935A",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/mps-webinar-national-science-foundation-research-traineeship/2021-08-11"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubs/2021/nsf21536/nsf21536.htm",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/mps-webinar-national-science-foundation-research-traineeship/2021-08-11"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_EsBeSQGKRIOBug0HvhuVGA",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/nsf-sbirsttr-office-hours-researchgov-technical-guidance"
+    ]
+   },
+   {
+    "url": "http://www.otted.hawaii.edu/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/academic-technology-transfer-commercialization-university"
+    ]
+   },
+   {
+    "url": "http://www.techtransfer.umich.edu/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/academic-technology-transfer-commercialization-university"
+    ]
+   },
+   {
+    "url": "https://stc.unm.edu/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/academic-technology-transfer-commercialization-university"
+    ]
+   },
+   {
+    "url": "http://www.rit.edu/research/ipmo/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/academic-technology-transfer-commercialization-university"
+    ]
+   },
+   {
+    "url": "http://www.research.buffalo.edu/stor/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/academic-technology-transfer-commercialization-university"
+    ]
+   },
+   {
+    "url": "http://otd.ou.edu/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/academic-technology-transfer-commercialization-university"
+    ]
+   },
+   {
+    "url": "http://oregonstate.edu/research/occd/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/academic-technology-transfer-commercialization-university"
+    ]
+   },
+   {
+    "url": "http://utrf.tennessee.edu/techtransfer/index.shtml",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/academic-technology-transfer-commercialization-university"
+    ]
+   },
+   {
+    "url": "http://www.research.psu.edu/patents",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/academic-technology-transfer-commercialization-university"
+    ]
+   },
+   {
+    "url": "https://research.unt.edu/research-services/research-commercial-agreements",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/academic-technology-transfer-commercialization-university"
+    ]
+   },
+   {
+    "url": "http://vpr.utsa.edu/commercialization/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/academic-technology-transfer-commercialization-university"
+    ]
+   },
+   {
+    "url": "http://vpr.rutgers.edu/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.nsf.gov/academic-technology-transfer-commercialization-university"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_cpB0w1CjQbKNjSduPanyxA",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/stem-ed-advisory-panel-meeting"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_854SLoyjT6SkAw8Y30pBDQ",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/iis-office-hours-open-question-answer-ask-anything-iis"
+    ]
+   },
+   {
+    "url": "https://nsfevents.webex.com/nsfevents/lsr.php?RCID=f23389c3a591b47ea3933059ae8633e5",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/neuronex-next-generation-networks-neuroscience/505281/updates/94665"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_0Rp6f3F_T5iqMs8AwP2Uzg",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/eng-distinguished-lecture-visible-light-mid-infrared/2024-04-02"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_djLHVmEWSOOfPX5c8vfLjA",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/informative-webinar-expandqise-prospective-pis-copis-virtual/2024-02-02"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_DZG9VyO4QI2uorJNh-swmw",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/informative-webinar-expandqise-prospective-pis-copis-virtual/2024-02-02"
+    ]
+   },
+   {
+    "url": "https://www.whitehouse.gov/briefing-room/presidential-actions/2022/09/12/executive-order-on-advancing-biotechnology-and-biomanufacturing-innovation-for-a-sustainable-safe-and-secure-american-bioeconomy/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/virtual-office-hours-catalyzing-across-sectors-advance/2024-01-08"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubs/2024/nsf24523/nsf24523.htm",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/informative-webinar-expandqise-prospective-pis-copis-virtual/2024-02-02"
+    ]
+   },
+   {
+    "url": "http://www.casa-bio.net/",
+    "status": 526,
+    "reason": "HTTP 526",
+    "foundOn": [
+     "https://www.nsf.gov/events/virtual-office-hours-catalyzing-across-sectors-advance/2024-01-08"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_xLmrYjP7RRyCkX2yGuzymg",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/virtual-office-hours-catalyzing-across-sectors-advance/2024-01-08"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_WuUXU4c5SkGWKBlabbhPbQ",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/virtual-office-hours-catalyzing-across-sectors-advance/2024-01-08"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 25,
+  "alfa": 12,
+  "plain-language": 14,
+  "resources": 25,
+  "images": 25,
+  "standards": 14,
+  "link-check": 25,
+  "deprecated-html": 2,
+  "third-party": 7,
+  "tech": 2,
+  "sustainability": 3,
+  "lighthouse": 3,
+  "public-interest": 4
+ },
+ "tally": {
+  "ok": 25,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-26T09:03:30.558Z"
+}
