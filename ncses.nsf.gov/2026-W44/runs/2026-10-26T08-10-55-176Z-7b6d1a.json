@@ -1,0 +1,97 @@
+{
+ "runId": "2026-10-26T08-10-55-176Z-7b6d1a",
+ "week": "2026-W44",
+ "domain": "ncses.nsf.gov",
+ "startedAt": "2026-10-26T08:10:56.634Z",
+ "scanned": [
+  "b33ffbb8af7f5189",
+  "57bde40233004857",
+  "f15f2f2a5063a599",
+  "d923a41e3a91d7c7",
+  "08b8b023aeeb8a0a",
+  "bd567d8d9d815670",
+  "ff719c907a7d23b1",
+  "f2a5df94d788aeed",
+  "0b37d06dd103c225",
+  "0c16a819a59c8acd",
+  "5258e3fd7c085317",
+  "dcd2cd0922aab44f",
+  "e01cf5b2b1a61b0c",
+  "8d1790084c5fd72b",
+  "29a8fa9baf737be8",
+  "6013a3aa6b4e9120",
+  "3a9d6ab3638eba93",
+  "89f2fd57fc81c3fc",
+  "85cfebf2c4b7aea3",
+  "7b47ac636fe78ac9",
+  "91a6c350603dc786",
+  "f78a6a3888d88c7c",
+  "cd7538770f79b8ef",
+  "2e54b368ede7dad0"
+ ],
+ "errors": [
+  {
+   "pageId": "c9080d1b530dd48e",
+   "url": "http://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=State+Government%2FAgency+R%26D",
+   "error": "Error: page.goto: net::ERR_CONNECTION_RESET at http://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=State+Government%2FAgency+R%26D\nCall log:\n  - navigating to \"http://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=State+Government%2FAgency+R%26"
+  }
+ ],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 3160,
+  "checked": 500,
+  "brokenCount": 1,
+  "broken": [
+   {
+    "url": "http://ncses.nsf.gov/sed/",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsf25349/table/1-7"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 24,
+  "resources": 24,
+  "images": 24,
+  "standards": 12,
+  "link-check": 24,
+  "sustainability": 3,
+  "alfa": 10,
+  "plain-language": 15,
+  "deprecated-html": 2,
+  "public-interest": 1,
+  "third-party": 3,
+  "tech": 1,
+  "lighthouse": 1,
+  "security": 2
+ },
+ "tally": {
+  "ok": 24,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 1
+ },
+ "finishedAt": "2026-10-26T08:15:20.415Z"
+}
