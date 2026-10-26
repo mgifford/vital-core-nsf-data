@@ -1,0 +1,99 @@
+{
+ "runId": "2026-10-26T15-23-50-470Z-433330",
+ "week": "2026-W44",
+ "domain": "seedfund.nsf.gov",
+ "startedAt": "2026-10-26T15:23:50.863Z",
+ "scanned": [
+  "0ba08cd8e71ff7cc",
+  "0218616db13d5f39",
+  "493e0f3f7cfed5e0",
+  "b8fb3500f941aa46",
+  "87c111439afdc037",
+  "c797a8b006ce16e0",
+  "f442b34259b8f219",
+  "dc04a80f9874869c",
+  "a6381a1d1a2d500f",
+  "d4af8f951c080196",
+  "0f3c3db1de858f5e",
+  "e5224464a2ad175c",
+  "9056b37f9f2abcdf",
+  "c528677d930d877c",
+  "394d6c7eee001a16",
+  "5a53392653c4b50a",
+  "d8568e2a2cc8fa47",
+  "5514dd988f3838c3",
+  "d7965a2c46b1782e",
+  "d87bfba6dec26ccf",
+  "65538b78715222d9",
+  "0f41da707ccd6c6b",
+  "fa557eee9016c27a",
+  "b6c73e686662ac5d",
+  "b7c980f411081953"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 136,
+  "checked": 136,
+  "brokenCount": 2,
+  "broken": [
+   {
+    "url": "http://www.sonera.io/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://seedfund.nsf.gov/awardees/history/details?company=sonera-magnetics-inc"
+    ]
+   },
+   {
+    "url": "https://seedfund.nsf.gov/centers/focus-area/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://seedfund.nsf.gov/centers/ceps/retrofit-dehumidifiers-enhance-air-conditioner-efficiency"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 25,
+  "alfa": 14,
+  "plain-language": 13,
+  "deprecated-html": 1,
+  "resources": 25,
+  "images": 25,
+  "public-interest": 3,
+  "third-party": 9,
+  "link-check": 25,
+  "standards": 10,
+  "security": 3,
+  "sustainability": 3,
+  "lighthouse": 3
+ },
+ "tally": {
+  "ok": 25,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-26T15:26:39.911Z"
+}
