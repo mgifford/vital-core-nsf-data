@@ -1,0 +1,307 @@
+{
+ "runId": "2026-10-26T10-22-46-947Z-0405e1",
+ "week": "2026-W44",
+ "domain": "www.nsf.gov",
+ "startedAt": "2026-10-26T10:22:47.476Z",
+ "scanned": [
+  "0bc18e3c49b05916",
+  "7da0db6b98525dfd",
+  "3bd157dc85cf02c3",
+  "d6f86213fc0f423a",
+  "fb063808b678fc5d",
+  "4d50918c9b04d366",
+  "a0c4e1f5a715e78b",
+  "4f5f1e59f66bef1d",
+  "ddf414dc183dc972",
+  "669727259eedb03f",
+  "8dbb53aa625d041a",
+  "a735ed5f0ed22977",
+  "b202c999e96924f8",
+  "9273cd0f875ed253",
+  "c31835ffd17c1c45",
+  "852fc8c369f2291c",
+  "405e9b8c9888e2a0",
+  "1f907c6fe43e114a",
+  "b87ee4fe6d2675d4",
+  "8ac4568c08ee97a9",
+  "bad40b6af639da41",
+  "ae64890608559c1a",
+  "00b87b27ebe816c9",
+  "eb6d213db88c0649"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 355,
+  "checked": 355,
+  "brokenCount": 28,
+  "broken": [
+   {
+    "url": "http://www/public.itrs.net",
+    "status": 0,
+    "reason": "EAI_AGAIN",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nse-nanoscale-science-engineering/7169/nsf04-43/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.fastlane.nsf.gov/a1/newstan.htm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nse-nanoscale-science-engineering/7169/nsf04-43/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/nano",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nse-nanoscale-science-engineering/7169/nsf04-43/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/goali",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nse-nanoscale-science-engineering/7169/nsf04-43/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubsys/ods/getpub.cfm?iin127",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nse-nanoscale-science-engineering/7169/nsf04-43/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubsys/ods/getpub.cfm?nsb9772",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nse-nanoscale-science-engineering/7169/nsf04-43/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/home/grants/grants_gac.htm",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nse-nanoscale-science-engineering/7169/nsf04-43/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/home/cns/start.htm",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nse-nanoscale-science-engineering/7169/nsf04-43/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/cgi-bin/getpub?gpm",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nse-nanoscale-science-engineering/7169/nsf04-43/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/home/ebulletin",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nse-nanoscale-science-engineering/7169/nsf04-43/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/cgi-bin/getpub?gp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nse-nanoscale-science-engineering/7169/nsf04-43/solicitation"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_R3ELDU1HQxCnz0_-UEbLpA",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/bringing-mathematical-statistical-foundations-advance/2025-02-27"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_ttChdLcOSyS8gWf35b6TYg",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/nsf-epscor-research-fellows-office-hour-sessions-register/2023-02-02"
+    ]
+   },
+   {
+    "url": "https://nsf.gov/bfa/dias/policy/postshutdown.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-revisions-cyber-physical-systems-smart-connected-communities/nsf19-040"
+    ]
+   },
+   {
+    "url": "https://mcbblog.nsfbio.com/office-hours/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/events/mcb-virtual-office-hour-graduate-research-fellowships"
+    ]
+   },
+   {
+    "url": "https://mcbblog.nsfbio.com/category/blog/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/events/mcb-virtual-office-hour-graduate-research-fellowships"
+    ]
+   },
+   {
+    "url": "http://www.fastlane.nsf.gov/a1/newstan.htm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/smp-science-masters-program/503428/nsf09-607/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=aag",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/smp-science-masters-program/503428/nsf09-607/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/26/joint-statement-endorsing-principles-for-6g-secure-open-and-resilient-by-design/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/vines-verticals-enabling-intelligent-network-systems/506396/nsf25-539"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/news/nsf-builds-scientific-capacity-more-20-minority-serving",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/science-matters/nsf-supports-researchers-through-covid-19-pandemic"
+    ]
+   },
+   {
+    "url": "https://beta.nsf.gov/now-leaving-ab25b591ea87082e3e22764ebc?external_url=https%3A%2F%2Fcarnegieclassifications.iu.edu%2F&back_url=https%3A%2F%2Fbeta.nsf.gov%2Fevents%2Fengineering-research-initiation-program-webinar",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/engineering-research-initiation-program-qa"
+    ]
+   },
+   {
+    "url": "https://www.atetv.org/",
+    "status": 0,
+    "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/ate-advanced-technological-education/nsf24-584/solicitation"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_rm3gA0_CRFecEhAYFatF0A",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/us-national-science-foundation-advisory-committee-technology"
+    ]
+   },
+   {
+    "url": "http://www.evalu-ate.org/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/ate-advanced-technological-education/nsf24-584/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf18045",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/ctgc-cultural-transformation-geoscience-community/506003/nsf23-539/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.whitehouse.gov/wp-content/uploads/2022/01/2021-CoSTEM-Progress-Report-OSTP.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/ctgc-cultural-transformation-geoscience-community/506003/nsf23-539/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nap.edu/read/26042/chapter/1",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/ctgc-cultural-transformation-geoscience-community/506003/nsf23-539/solicitation"
+    ]
+   },
+   {
+    "url": "https://evalu-ate.org/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/ate-advanced-technological-education/nsf24-584/solicitation"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 24,
+  "plain-language": 15,
+  "resources": 24,
+  "images": 24,
+  "security": 4,
+  "link-check": 24,
+  "standards": 13,
+  "alfa": 12,
+  "public-interest": 3,
+  "sustainability": 1,
+  "tech": 2,
+  "third-party": 4,
+  "lighthouse": 3,
+  "deprecated-html": 1
+ },
+ "tally": {
+  "ok": 24,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 1,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-26T10:27:11.389Z"
+}
