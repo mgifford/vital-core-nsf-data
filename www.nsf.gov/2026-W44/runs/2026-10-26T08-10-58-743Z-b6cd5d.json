@@ -1,0 +1,181 @@
+{
+ "runId": "2026-10-26T08-10-58-743Z-b6cd5d",
+ "week": "2026-W44",
+ "domain": "www.nsf.gov",
+ "startedAt": "2026-10-26T08:11:00.213Z",
+ "scanned": [
+  "b63fc1facb01c072",
+  "c63dd86af0e8a16e",
+  "94f2f7d1ec30e6b8",
+  "9725c84e8bddc725",
+  "25055fc4a1873c43",
+  "ce870778014ee5fc",
+  "662f47c33bd7eac7",
+  "d5035131f894a5f7",
+  "540f0e75f024397f",
+  "7bac8c24b77fd232",
+  "364a24b1167555c3",
+  "049efe5d5bb2e945",
+  "906ad72a48f94e6f",
+  "dd5ff823a87bc356",
+  "5b5cad31c84960cb",
+  "5f6ff3466ab385f4",
+  "e461a3a506c8ab28",
+  "7ba06c96a721b8aa",
+  "1d094f5bc856e4b2",
+  "db2f5b0334a16ae2",
+  "787ae67b6ba4a8fc",
+  "e95c6253f58c62d6",
+  "62183589e5afbf3c",
+  "d717b940d2bbb3f2",
+  "5732fc11ded4f6a5"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 430,
+  "checked": 430,
+  "brokenCount": 12,
+  "broken": [
+   {
+    "url": "https://www.fastlane.nsf.gov/a1/newstan.htm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/earthcube/504780/nsf20-520/solicitation",
+     "https://www.nsf.gov/funding/opportunities/bdd-us-japan-big-data-disaster-research/505035/nsf14-575/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/geo/acgeo/geovision/nsf_acgeo_dynamic-earth-2015-20.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/earthcube/504780/nsf20-520/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf18045",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/earthcube/504780/nsf20-520/solicitation"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_cuY3u8A4QHycNvx5YSB4xA",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/office-hours-preparing-your-nsf-sbirsttr-phase-i-proposal"
+    ]
+   },
+   {
+    "url": "https://nifa.usda.gov/afri-fase-epscor-program",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://www.nsf.gov/funding/initiatives/epscor/eicc"
+    ]
+   },
+   {
+    "url": "https://future.usap.gov/arv/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/events/antarctic-sciences-section-virtual-office-hours/2022-11-17"
+    ]
+   },
+   {
+    "url": "http://www.nsf.gov/pubs/2009/nsf09516/nsf09516.htm",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/goali-grant-opportunities-academic-liaison-industry-pd/501016/pd07-1504"
+    ]
+   },
+   {
+    "url": "https://www.jst.go.jp/kisoken/presto/en/research_area/ongoing/1112068.html",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-national-science-foundation-nsf-japan-science-technology/nsf17-077"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubs/2014/nsf14043/nsf14043.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/bdd-us-japan-big-data-disaster-research/505035/nsf14-575/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/policies/SOR_PA_NSF-50_Principal_Investigator_Proposal_File.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/bdd-us-japan-big-data-disaster-research/505035/nsf14-575/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=aag",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/bdd-us-japan-big-data-disaster-research/505035/nsf14-575/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.jst.go.jp/sicp/announce_usjoint_bdd.html",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/bdd-us-japan-big-data-disaster-research/505035/nsf14-575/solicitation"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 23,
+  "plain-language": 13,
+  "resources": 23,
+  "images": 23,
+  "link-check": 23,
+  "standards": 10,
+  "public-interest": 3,
+  "tech": 2,
+  "alfa": 11,
+  "third-party": 6,
+  "deprecated-html": 2,
+  "sustainability": 2,
+  "security": 1,
+  "lighthouse": 1
+ },
+ "tally": {
+  "ok": 23,
+  "blocked": 2,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-26T08:15:12.311Z"
+}
