@@ -1,0 +1,244 @@
+{
+ "runId": "2026-10-26T15-23-54-092Z-5c86d4",
+ "week": "2026-W44",
+ "domain": "www.nsf.gov",
+ "startedAt": "2026-10-26T15:23:55.353Z",
+ "scanned": [
+  "b1ea8cdcf2a055d3",
+  "b8a03f509f123410",
+  "55e0c06b989f1e6e",
+  "901f2fe1ddc85a37",
+  "2f1e69629949ecc8",
+  "8a2808e6ea8b9914",
+  "a93121b134a4ff7c",
+  "1bdb632f53e22f1c",
+  "768f7b23b531ce23",
+  "a2e2b6cd101a339d",
+  "7db98ba03af89b4a",
+  "198dc074218958a6",
+  "60c0d0066bccba77",
+  "7f3824f08d6ebab0",
+  "501d59986aeea784",
+  "e89bce51cc871c41",
+  "013f290101bc7606",
+  "d93d1faa2dc99698",
+  "2be9c2afa0f52307",
+  "b3e866704d768c7b",
+  "4bf74f3c50740418",
+  "64dd39489cf298d3",
+  "edeb116bcd67c886",
+  "74b5645fe65a322d",
+  "f16e795301385fd6"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 275,
+  "checked": 275,
+  "brokenCount": 20,
+  "broken": [
+   {
+    "url": "https://digitalpromise-org.zoom.us/webinar/register/WN_ihqOBagmR2KoqHTaQb1Hzg",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/aisl-advancing-informal-stem-learning/504793/updates/109630"
+    ]
+   },
+   {
+    "url": "https://digitalpromise-org.zoom.us/webinar/register/WN_aBKBi7CrQN2j62LqObmR3Q",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/aisl-advancing-informal-stem-learning/504793/updates/109630"
+    ]
+   },
+   {
+    "url": "https://digitalpromise-org.zoom.us/webinar/register/WN_nXNFMqocRhquQS8tu9BSuQ",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/aisl-advancing-informal-stem-learning/504793/updates/109630"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/epublish/informalscience.org",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/aisl-advancing-informal-stem-learning/504793/updates/109630"
+    ]
+   },
+   {
+    "url": "https://ejscorecard.geoplatform.gov/scorecard/national-science-foundation/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/policies/pappg/24-1/ch-11-other-post-award-requirements"
+    ]
+   },
+   {
+    "url": "https://www.whitehouse.gov/environmentaljustice/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/policies/pappg/24-1/ch-11-other-post-award-requirements"
+    ]
+   },
+   {
+    "url": "http://www.phe.gov/s3/dualuse/Pages/default.aspx",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/policies/pappg/24-1/ch-11-other-post-award-requirements"
+    ]
+   },
+   {
+    "url": "https://www.phe.gov/s3/dualuse/Documents/P3CO.pdf",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/policies/pappg/24-1/ch-11-other-post-award-requirements"
+    ]
+   },
+   {
+    "url": "https://www.phe.gov/s3/dualuse/Pages/GainOfFunction.aspx",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/policies/pappg/24-1/ch-11-other-post-award-requirements"
+    ]
+   },
+   {
+    "url": "https://www.whitehouse.gov/wp-content/uploads/2023/01/01-2023-Framework-for-Federal-Scientific-Integrity-Policy-and-Practice.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/policies/pappg/24-1/ch-11-other-post-award-requirements"
+    ]
+   },
+   {
+    "url": "http://www.gsa.gov/portal/content/103191",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/policies/pappg/24-1/ch-11-other-post-award-requirements"
+    ]
+   },
+   {
+    "url": "https://www.whitehouse.gov/ostp/news-updates/2022/01/11/white-house-office-of-science-technology-policy-releases-scientific-integrity-task-force-report/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/policies/pappg/24-1/ch-11-other-post-award-requirements"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/news/special_reports/announcements/092221.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/news/nsfs-convergence-accelerator-invests-30-million-tackle"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_TE-4nNlVT4OpcR3SrLHWbA",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/fairness-artificial-intelligence-collaboration-amazon-fai"
+    ]
+   },
+   {
+    "url": "https://bpb-us-w2.wpmucdn.com/sites.gatech.edu/dist/a/2878/files/2022/10/OSSI-Final-Report.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/ods/nsf23149"
+    ]
+   },
+   {
+    "url": "https://mcbblog.nsfbio.com/office-hours/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/events/mcb-virtual-office-hour-building-synthetic-microbial"
+    ]
+   },
+   {
+    "url": "https://mcbblog.nsfbio.com/category/blog/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/events/mcb-virtual-office-hour-building-synthetic-microbial"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_Ji9wXRm9RfSmZLKTJOqhiQ",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/mcb-virtual-office-hour-building-synthetic-microbial"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_WPgGuVurSCGK6meIAykecA",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/webinar-introduction-epiic-funding-opportunity"
+    ]
+   },
+   {
+    "url": "https://cascadiaoffshore.org/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.nsf.gov/funding/information/dcl-request-input-future-ocean-observing-priorities"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 25,
+  "plain-language": 16,
+  "resources": 25,
+  "images": 25,
+  "third-party": 2,
+  "link-check": 25,
+  "alfa": 15,
+  "deprecated-html": 3,
+  "sustainability": 3,
+  "standards": 13,
+  "tech": 4,
+  "lighthouse": 4,
+  "security": 1,
+  "public-interest": 1
+ },
+ "tally": {
+  "ok": 25,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-26T15:28:39.873Z"
+}
