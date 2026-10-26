@@ -1,0 +1,147 @@
+{
+ "runId": "2026-10-26T15-30-15-510Z-474b67",
+ "week": "2026-W44",
+ "domain": "iucrc.nsf.gov",
+ "startedAt": "2026-10-26T15:30:17.134Z",
+ "scanned": [
+  "168cc649b810bb38",
+  "681e71c352c6327d",
+  "a8c2bba5974cfa78",
+  "4b97ce9ca0a4913d",
+  "87f6fde6afaa0750",
+  "92aabf4e9fbe1ad5",
+  "d02babcf0e4bc563",
+  "e794c9b4c2c550cf",
+  "dca116d9b112fb37",
+  "fd3793de8ca957a1",
+  "4b178a1251662af9",
+  "8da37a7b0875a26e",
+  "7e141d1ef84cf0dc",
+  "9f78441fbe6658f8",
+  "4625dea4fd069df6",
+  "5bebca62896e5dd1",
+  "1eccc4e47ef6db61",
+  "b316c4fe06fe4692",
+  "77bf8a894b2b50e6",
+  "ad034b126e9a66e5",
+  "9212677a4fa1fea1",
+  "0f3dbacf5c96e38e",
+  "697b6110d5b4a36c",
+  "002fef63abed1048",
+  "5b392bf77440b769"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 253,
+  "checked": 253,
+  "brokenCount": 8,
+  "broken": [
+   {
+    "url": "https://www.analog.com/en/index.html",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/integrated-power-management-circuits-and-systems---power-one-ic"
+    ]
+   },
+   {
+    "url": "http://compositescici.statler.wvu.edu/",
+    "status": 0,
+    "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-the-integration-of-composites-into-infrastructure"
+    ]
+   },
+   {
+    "url": "https://www.quinaultindiannation.com/163/Quinault-Division-of-Natural-Resources-Q",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-advanced-forestry-systems"
+    ]
+   },
+   {
+    "url": "https://www.spi-ind.com/Operations/Seneca",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-advanced-forestry-systems"
+    ]
+   },
+   {
+    "url": "https://www.vaneck.com/de/en/our-firm/forest-project/",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-advanced-forestry-systems"
+    ]
+   },
+   {
+    "url": "https://internationalforestcogov.com/",
+    "status": 0,
+    "reason": "EAI_AGAIN",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-advanced-forestry-systems"
+    ]
+   },
+   {
+    "url": "https://www.hpe.com/us/en/home.html",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-advanced-electronics-through-machine-learning"
+    ]
+   },
+   {
+    "url": "https://www.si2technologies.com/",
+    "status": 0,
+    "reason": "ERR_SSL_TLSV1_ALERT_INTERNAL_ERROR",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-advanced-electronics-through-machine-learning"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 22,
+  "resources": 22,
+  "images": 22,
+  "link-check": 22,
+  "alfa": 12,
+  "plain-language": 14,
+  "standards": 6,
+  "lighthouse": 4,
+  "public-interest": 2,
+  "deprecated-html": 2,
+  "third-party": 4,
+  "tech": 3,
+  "security": 4
+ },
+ "tally": {
+  "ok": 22,
+  "blocked": 3,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-26T15:33:28.290Z"
+}
