@@ -1,0 +1,234 @@
+{
+ "runId": "2026-10-26T16-30-38-523Z-517283",
+ "week": "2026-W44",
+ "domain": "www.nsf.gov",
+ "startedAt": "2026-10-26T16:30:39.853Z",
+ "scanned": [
+  "1a3edc7448b1401f",
+  "c7c2ba3770bd80e3",
+  "4a22fac40bca79e6",
+  "6cec3541e894c1f1",
+  "5fed2da74dd19bee",
+  "43a147a2022292d0",
+  "f6f409ddc071dba5",
+  "b46cd4f6f6624a4f",
+  "1f23bdc6129aa595",
+  "90d4a90f7a48f491",
+  "a71b1860eab27eda",
+  "017faa73f73205f0",
+  "88687146f95d613f",
+  "4e9b0cdba719af88",
+  "0111ff46efdba388",
+  "564b36ec74b64193",
+  "0519226f747dade4",
+  "8f7af305c0870b06",
+  "a89475a1a6f3dc4e",
+  "8b6ab7cde6f51c1b",
+  "7ee5b8253a51f362",
+  "f67e2e5703c6d606",
+  "8c5e5b51e52cd280",
+  "3c5ee6c8e6cc89d4"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 339,
+  "checked": 339,
+  "brokenCount": 16,
+  "broken": [
+   {
+    "url": "https://www.fastlane.nsf.gov/a1/newstan.htm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/rii-track-2-fec-epscor-research-infrastructure-improvement-program-track-2/505148/nsf15-517/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=form1230p",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/rii-track-2-fec-epscor-research-infrastructure-improvement-program-track-2/505148/nsf15-517/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubs/2014/nsf14043/nsf14043.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/rii-track-2-fec-epscor-research-infrastructure-improvement-program-track-2/505148/nsf15-517/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=aag",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/rii-track-2-fec-epscor-research-infrastructure-improvement-program-track-2/505148/nsf15-517/solicitation",
+     "https://www.nsf.gov/funding/opportunities/dcl-increasing-college-opportunity-through-improved-mathematics/nsf15-026"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/policies/SOR_PA_NSF-50_Principal_Investigator_Proposal_File.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/rii-track-2-fec-epscor-research-infrastructure-improvement-program-track-2/505148/nsf15-517/solicitation"
+    ]
+   },
+   {
+    "url": "http://blogs.nature.com/news/2011/01/fox_rangefinder_sense_expands.html",
+    "status": 410,
+    "reason": "HTTP 410",
+    "foundOn": [
+     "https://www.nsf.gov/science-matters/nsf-supporting-marine-mammal-science-around-world"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_D1xo4ajMQIa9GdoHCDW8NA",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/cc-campus-cyberinfrastructure"
+    ]
+   },
+   {
+    "url": "https://iosblog.nsfbio.com/virtual-office-hours/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/events/ios-virtual-office-hours-postdoctoral-research-fellowships"
+    ]
+   },
+   {
+    "url": "https://iosblog.nsfbio.com/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/events/ios-virtual-office-hours-postdoctoral-research-fellowships"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubs/2023/nsf23547/nsf23547.htm",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/ios-virtual-office-hours-postdoctoral-research-fellowships"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_xNFV_w9-SzS12eD3lsh5MQ",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/john-stankovic-towards-ambient-intelligence-smart-healthcare/2021-09-30"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_oM5bp9HGRyKDAE8ssxp2dA",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/techaccess-ai-ready-america-webinar-series/2026-06-11"
+    ]
+   },
+   {
+    "url": "https://www.surveymonkey.com/r/QSDLYPR",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/geo/opp/updates/nominations-office-polar-programs-advisory-committee"
+    ]
+   },
+   {
+    "url": "http://www.whitehouse.gov/sites/default/files/microsites/ostp/stem_stratplan_2013.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-increasing-college-opportunity-through-improved-mathematics/nsf15-026"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/geo/opp/advisory.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/geo/opp/updates/nominations-office-polar-programs-advisory-committee"
+    ]
+   },
+   {
+    "url": "https://www.gsa.gov/reference/gsa-privacy-program/privacy-act-statement-for-design-research",
+    "status": 0,
+    "reason": "timeout",
+    "foundOn": [
+     "https://www.nsf.gov/od/oia/ceose/dr-peter-hauser",
+     "https://www.nsf.gov/funding/opportunities/rii-track-2-fec-epscor-research-infrastructure-improvement-program-track-2/505148/nsf15-517/solicitation",
+     "https://www.nsf.gov/reports/performance/annual-report-1958",
+     "https://www.nsf.gov/funding/opportunities/antarctic-research-requiring-us-antarctic-program-support/nsf25-525",
+     "https://www.nsf.gov/events/national-science-board-committee-science-engineering-policy-24",
+     "https://www.nsf.gov/funding/opportunities/dcl-research-experiences-undergraduates-supplemental-funding/nsf20-075",
+     "https://www.nsf.gov/funding/opportunities/ascent-addressing-systems-challenges-through-engineering-teams/505853/updates",
+     "https://www.nsf.gov/science-matters/nsf-supporting-marine-mammal-science-around-world",
+     "https://www.nsf.gov/funding/opportunities/cc-campus-cyberinfrastructure",
+     "https://www.nsf.gov/honorary-awards/pecase/recipients/edo-waks",
+     "https://www.nsf.gov/events/ios-virtual-office-hours-postdoctoral-research-fellowships",
+     "https://www.nsf.gov/news/breaking-ground-earthquake-research-nsf-announces-two-awards",
+     "https://www.nsf.gov/funding/opportunities/s-stem-net-scholarships-stem-network/505889/updates",
+     "https://www.nsf.gov/events/john-stankovic-towards-ambient-intelligence-smart-healthcare/2021-09-30",
+     "https://www.nsf.gov/news/pool-yellowstone-thumping-thermometer",
+     "https://www.nsf.gov/events/nsf-career-program-informational-webinars/2026-05-19",
+     "http://www.nsf.gov/focus-areas/people-society",
+     "https://www.nsf.gov/funding/opportunities/designer-cells-designing-synthetic-cells-cellular-components",
+     "https://www.nsf.gov/events/techaccess-ai-ready-america-webinar-series/2026-06-11",
+     "https://www.nsf.gov/funding/opportunities/efma-emerging-frontiers-multidisciplinary-activities",
+     "https://www.nsf.gov/funding/opportunities/nsf-nri-graduate-student-postdoctoral-fellow-supplements-nsf/501009/pd09-016",
+     "https://www.nsf.gov/geo/opp/updates/nominations-office-polar-programs-advisory-committee",
+     "https://www.nsf.gov/funding/opportunities/dcl-increasing-college-opportunity-through-improved-mathematics/nsf15-026"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 23,
+  "alfa": 15,
+  "plain-language": 12,
+  "resources": 23,
+  "images": 23,
+  "standards": 10,
+  "public-interest": 4,
+  "lighthouse": 5,
+  "link-check": 23,
+  "deprecated-html": 1,
+  "third-party": 3,
+  "sustainability": 3,
+  "security": 1,
+  "tech": 1
+ },
+ "tally": {
+  "ok": 23,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 1,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-26T16:35:26.234Z"
+}
