@@ -1,0 +1,116 @@
+{
+ "runId": "2026-10-26T11-34-47-545Z-fbc3d1",
+ "week": "2026-W44",
+ "domain": "seedfund.nsf.gov",
+ "startedAt": "2026-10-26T11:34:47.950Z",
+ "scanned": [
+  "6d3d143b0a0ff0b2",
+  "130dcdfb780fd5ed",
+  "c5e31398973f5d96",
+  "9d321b54d5b118a9",
+  "c1419cb562831e48",
+  "6c322aa1d605a784",
+  "2dd3e5a7b0953896",
+  "abccef75edb4e961",
+  "64b07a0a35b63885",
+  "02804a2fc4dd8a1b",
+  "c854b1fbb18d110b",
+  "68a455ae8d911b2a",
+  "e17b3906a348bf2b",
+  "64b8f53d5d20fb29",
+  "d336323d798981da",
+  "8c49761f3b3ac731",
+  "2ffa233754de9868",
+  "ac22314c49c57eca",
+  "31e74e5f6f0b64c4",
+  "2d22c3c63e40eab4",
+  "87b70df7dbea2f30",
+  "0e9983bce1edcb34",
+  "952128556fce4cf5",
+  "4578607d256c0df6",
+  "f100e75205f75c8e"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 108,
+  "checked": 108,
+  "brokenCount": 4,
+  "broken": [
+   {
+    "url": "https://nsf.gov/staff/staff_bio.jsp?lan=spanchan&org=EF&from_org=EF",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://seedfund.nsf.gov/SBIR-reauthorization"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/staff/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://seedfund.nsf.gov/SBIR-reauthorization"
+    ]
+   },
+   {
+    "url": "https://jaguarswire.usatoday.com/2023/08/11/jaguars-urinals-hydration-test/",
+    "status": 402,
+    "reason": "HTTP 402",
+    "foundOn": [
+     "https://seedfund.nsf.gov/news/intake-health"
+    ]
+   },
+   {
+    "url": "http://www.relavomedical.com/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://seedfund.nsf.gov/awardees/history/details?company=relavo-inc"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 25,
+  "alfa": 13,
+  "plain-language": 12,
+  "resources": 25,
+  "images": 25,
+  "third-party": 5,
+  "link-check": 25,
+  "standards": 11,
+  "deprecated-html": 2,
+  "security": 4,
+  "lighthouse": 2,
+  "public-interest": 4,
+  "tech": 4,
+  "sustainability": 3
+ },
+ "tally": {
+  "ok": 25,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-26T11:37:51.597Z"
+}
