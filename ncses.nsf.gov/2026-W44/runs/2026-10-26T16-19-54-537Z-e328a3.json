@@ -1,0 +1,2802 @@
+{
+ "runId": "2026-10-26T16-19-54-537Z-e328a3",
+ "week": "2026-W44",
+ "domain": "ncses.nsf.gov",
+ "startedAt": "2026-10-26T16:19:54.932Z",
+ "scanned": [
+  "e1195ee868c12827",
+  "5f4044a198c7b76b",
+  "efe3c9f5824bc143",
+  "65c2f79a86b58df5",
+  "3b04b28ce1e231e2",
+  "0306d3f9349e5ca5",
+  "299d84c01b786ae4",
+  "576fbd4a9b57a8a1",
+  "ea1869258599ad51",
+  "0f9b31fb5ba9263f",
+  "eb9add7eadbe00c0",
+  "3a0442134cda1362",
+  "4c30e48ad0e61164",
+  "7bf9c3ed7c664d78",
+  "0e35d2941baa71fe",
+  "8275c3e50c0f9124"
+ ],
+ "errors": [
+  {
+   "pageId": "a1bfca264280f4d4",
+   "url": "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-40",
+   "error": "Error: page.goto: net::ERR_CONNECTION_RESET at http://ncses.nsf.gov/pubs/nsb20262/table/STRN-40\nCall log:\n  - navigating to \"http://ncses.nsf.gov/pubs/nsb20262/table/STRN-40\", waiting until \"load\"\n"
+  },
+  {
+   "pageId": "ad94a4102495a2b7",
+   "url": "http://ncses.nsf.gov/pubs/nsf25354/surveypage/table/14917",
+   "error": "Error: page.goto: net::ERR_CONNECTION_RESET at http://ncses.nsf.gov/pubs/nsf25354/surveypage/table/14917\nCall log:\n  - navigating to \"http://ncses.nsf.gov/pubs/nsf25354/surveypage/table/14917\", waiting until \"load\"\n"
+  },
+  {
+   "pageId": "1092fe0b67a9acc4",
+   "url": "http://ncses.nsf.gov/indicators/about",
+   "error": "Error: page.goto: net::ERR_CONNECTION_RESET at http://ncses.nsf.gov/indicators/about\nCall log:\n  - navigating to \"http://ncses.nsf.gov/indicators/about\", waiting until \"load\"\n"
+  },
+  {
+   "pageId": "7e6fda9233c30786",
+   "url": "http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-B",
+   "error": "Error: page.goto: net::ERR_CONNECTION_RESET at http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-B\nCall log:\n  - navigating to \"http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-B\", waiting until \"load\"\n"
+  },
+  {
+   "pageId": "24b2145b32990200",
+   "url": "http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-8",
+   "error": "Error: page.goto: net::ERR_CONNECTION_RESET at http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-8\nCall log:\n  - navigating to \"http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-8\", waiting until \"load\"\n"
+  },
+  {
+   "pageId": "99e698d60ff2be45",
+   "url": "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-30",
+   "error": "Error: page.goto: net::ERR_CONNECTION_RESET at http://ncses.nsf.gov/pubs/nsb20262/table/STRN-30\nCall log:\n  - navigating to \"http://ncses.nsf.gov/pubs/nsb20262/table/STRN-30\", waiting until \"load\"\n"
+  },
+  {
+   "pageId": "d6879778d7ac5b59",
+   "url": "http://ncses.nsf.gov/pubs/nsf25331",
+   "error": "Error: page.goto: net::ERR_CONNECTION_RESET at http://ncses.nsf.gov/pubs/nsf25331\nCall log:\n  - navigating to \"http://ncses.nsf.gov/pubs/nsf25331\", waiting until \"load\"\n"
+  },
+  {
+   "pageId": "ee6d0ec8e479b339",
+   "url": "http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-18",
+   "error": "Error: page.goto: net::ERR_CONNECTION_RESET at http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-18\nCall log:\n  - navigating to \"http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-18\", waiting until \"load\"\n"
+  },
+  {
+   "pageId": "1991be3346f5292e",
+   "url": "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-8",
+   "error": "Error: page.goto: net::ERR_CONNECTION_RESET at http://ncses.nsf.gov/pubs/nsb20262/table/STRN-8\nCall log:\n  - navigating to \"http://ncses.nsf.gov/pubs/nsb20262/table/STRN-8\", waiting until \"load\"\n"
+  }
+ ],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 2859,
+  "checked": 500,
+  "brokenCount": 335,
+  "broken": [
+   {
+    "url": "http://ncses.nsf.gov/indicators",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/indicators/reports",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsbsep20261",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/indicators/data",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/indicators/topical-search",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/indicators/help",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/introduction",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/indicators/about",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/executive-summary",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/innovation",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/knowledge-and-technology-transfer",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/production-patterns-of-knowledge-and-technology-intensive-industries",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/business-dynamics-and-investment",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/conclusion",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/glossary",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/global-trade-by-kti-industries",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/references",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/notes",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/technical-appendix",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/acknowledgments-and-citation",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/supplemental-tables",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/downloads",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/contact-us",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/supplemental-tables/tables/nsb20262-tabstrn-003.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/supplemental-tables/nsb20262-supplemental-tables-tables.zip",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/supplemental-tables/tables/nsb20262-tabstrn-001.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/supplemental-tables/tables/nsb20262-tabstrn-002.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/supplemental-tables/tables/nsb20262-tabstrn-004.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/supplemental-tables/tables/nsb20262-tabstrn-005.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/supplemental-tables/tables/nsb20262-tabstrn-006.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/supplemental-tables/tables/nsb20262-tabstrn-007.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/supplemental-tables/tables/nsb20262-tabstrn-009.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/supplemental-tables/tables/nsb20262-tabstrn-011.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/supplemental-tables/tables/nsb20262-tabstrn-008.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/supplemental-tables/tables/nsb20262-tabstrn-010.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/supplemental-tables/tables/nsb20262-tabstrn-015.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/supplemental-tables/tables/nsb20262-tabstrn-013.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/supplemental-tables/tables/nsb20262-tabstrn-012.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/supplemental-tables/tables/nsb20262-tabstrn-014.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/supplemental-tables/tables/nsb20262-tabstrn-017.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/supplemental-tables/tables/nsb20262-tabstrn-018.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/supplemental-tables/tables/nsb20262-tabstrn-016.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/supplemental-tables/tables/nsb20262-tabstrn-019.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/supplemental-tables/tables/nsb20262-tabstrn-021.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/supplemental-tables/tables/nsb20262-tabstrn-023.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/supplemental-tables/tables/nsb20262-tabstrn-020.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/supplemental-tables/tables/nsb20262-tabstrn-022.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/supplemental-tables/tables/nsb20262-tabstrn-027.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/supplemental-tables/tables/nsb20262-tabstrn-026.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/supplemental-tables/tables/nsb20262-tabstrn-025.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/supplemental-tables/tables/nsb20262-tabstrn-024.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/supplemental-tables/tables/nsb20262-tabstrn-030.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/supplemental-tables/tables/nsb20262-tabstrn-031.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/supplemental-tables/tables/nsb20262-tabstrn-029.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/supplemental-tables/tables/nsb20262-tabstrn-028.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/supplemental-tables/tables/nsb20262-tabstrn-034.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/supplemental-tables/tables/nsb20262-tabstrn-035.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/supplemental-tables/tables/nsb20262-tabstrn-032.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/supplemental-tables/tables/nsb20262-tabstrn-033.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/supplemental-tables/tables/nsb20262-tabstrn-039.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/supplemental-tables/tables/nsb20262-tabstrn-037.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/supplemental-tables/tables/nsb20262-tabstrn-036.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/supplemental-tables/tables/nsb20262-tabstrn-038.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/supplemental-tables/tables/nsb20262-tabstrn-042.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/supplemental-tables/tables/nsb20262-tabstrn-043.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/supplemental-tables/tables/nsb20262-tabstrn-040.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/supplemental-tables/tables/nsb20262-tabstrn-041.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/supplemental-tables/tables/nsb20262-tabstrn-044.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/supplemental-tables/tables/nsb20262-tabstrn-045.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/browse-library?archived=true&dataCollection=Science%20and%20Engineering%20Indicators",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/nsb20262.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/nsb20262-report.zip",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/nsb20262-report-tables-pdfs.zip",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/nsb20262-report-tables-excels.zip",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/nsb20262-report-figures-pdfs.zip",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/nsb20262-report-tables.zip",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/nsb20262-report-figures.zip",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/nsb20262-report-figures-pngs.zip",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/nsb20262-report-figures-excels.zip",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/nsb20262-supplemental-materials.zip",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/supplemental-tables/nsb20262-supplemental-tables.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/supplemental-tables/nsb20262-supplemental-tables-figures-tables-excels.zip",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/technical-appendix/nsb20262-technical-appendix.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/technical-appendix/nsb20262-technical-appendix-figures-tables-excels.zip",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/supplemental-tables/nsb20262-supplemental-tables-figures-tables.zip",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/technical-appendix/nsb20262-technical-appendix-figures-tables.zip",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/technical-appendix/nsb20262-technical-appendix-figures-pngs.zip",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/nsb20262-tables-excels.zip",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/nsb20262-tables.zip",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/nsb20262-tables-pdfs.zip",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/introduction/tables/nsb20262-tabtrn-001.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/tables/nsb20262-tabtrn-002.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/introduction/tables/nsb20262-tabtrn-001.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/tables/nsb20262-tabtrn-003.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/tables/nsb20262-tabtrn-003.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/tables/nsb20262-tabtrn-002.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/tables/nsb20262-tabtrn-004.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/tables/nsb20262-tabtrn-004.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/business-dynamics-and-investment/tables/nsb20262-tabtrn-005.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "https://www.science-metrix.com/patent-and-trademark-indicators-for-the-science-and-engineering-indicators-2026-technical-documentation/",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25",
+     "https://ncses.nsf.gov/pubs/nsb20262/figure/TRN-15"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/business-dynamics-and-investment/tables/nsb20262-tabtrn-005.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/technical-appendix/tables/nsb20262-tabsatrn-001.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/production-patterns-of-knowledge-and-technology-intensive-industries/tables/nsb20262-tabtrn-006.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/production-patterns-of-knowledge-and-technology-intensive-industries/tables/nsb20262-tabtrn-006.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/nsb20262-figures-pdfs.zip",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/nsb20262-figures.zip",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/technical-appendix/tables/nsb20262-tabsatrn-003.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/technical-appendix/tables/nsb20262-tabsatrn-002.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/technical-appendix/figures/nsb20262-figsatrn-001.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/technical-appendix/figures/nsb20262-figsatrn-001.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/nsb20262-figures-excels.zip",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/nsb20262-figures-pngs.zip",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/technical-appendix/figures/nsb20262-figsatrn-001.png",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/introduction/figures/nsb20262-figtrn-001.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/introduction/figures/nsb20262-figtrn-001.png",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/introduction/figures/nsb20262-figtrn-001.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/introduction/figures/nsb20262-figtrn-002.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/introduction/figures/nsb20262-figtrn-003.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/introduction/figures/nsb20262-figtrn-002.png",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/introduction/figures/nsb20262-figtrn-002.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/introduction/figures/nsb20262-figtrn-003.png",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-004.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/introduction/figures/nsb20262-figtrn-003.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-004.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-004.png",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-005.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-005.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-005.png",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-006.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-007.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-006.png",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-006.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-008.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-007.png",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-008.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-007.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-009.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-009.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-009.png",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-008.png",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-010.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-010.png",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-011.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-010.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-011.png",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-011.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-012.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-012.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-013.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-013.png",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-012.png",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-013.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-014.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-014.png",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-014.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-015.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-016.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-016.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-015.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-017.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-016.png",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-017.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-015.png",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-018.png",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-018.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-018.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-017.png",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-019.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-020.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-019.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-019.png",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-020.png",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-020.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-021.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-021.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-021.png",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-022.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-022.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-022.png",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/innovation/figures/nsb20262-figtrn-023.png",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/innovation/figures/nsb20262-figtrn-023.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/innovation/figures/nsb20262-figtrn-024.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/innovation/figures/nsb20262-figtrn-023.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/business-dynamics-and-investment/figures/nsb20262-figtrn-025.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/innovation/figures/nsb20262-figtrn-024.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/innovation/figures/nsb20262-figtrn-024.png",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/business-dynamics-and-investment/figures/nsb20262-figtrn-025.png",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/business-dynamics-and-investment/figures/nsb20262-figtrn-026.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/business-dynamics-and-investment/figures/nsb20262-figtrn-026.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/business-dynamics-and-investment/figures/nsb20262-figtrn-025.xlsx",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/business-dynamics-and-investment/figures/nsb20262-figtrn-027.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/business-dynamics-and-investment/figures/nsb20262-figtrn-027.png",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/business-dynamics-and-investment/figures/nsb20262-figtrn-026.png",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/business-dynamics-and-investment/figures/nsb20262-figtrn-027.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/business-dynamics-and-investment/figures/nsb20262-figtrn-028.png",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/business-dynamics-and-investment/figures/nsb20262-figtrn-028.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/business-dynamics-and-investment/figures/nsb20262-figtrn-028.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/business-dynamics-and-investment/figures/nsb20262-figtrn-029.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/business-dynamics-and-investment/figures/nsb20262-figtrn-030.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/business-dynamics-and-investment/figures/nsb20262-figtrn-029.png",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/business-dynamics-and-investment/figures/nsb20262-figtrn-030.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/business-dynamics-and-investment/figures/nsb20262-figtrn-029.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/production-patterns-of-knowledge-and-technology-intensive-industries/figures/nsb20262-figtrn-031.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/production-patterns-of-knowledge-and-technology-intensive-industries/figures/nsb20262-figtrn-031.png",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/business-dynamics-and-investment/figures/nsb20262-figtrn-030.png",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/production-patterns-of-knowledge-and-technology-intensive-industries/figures/nsb20262-figtrn-031.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/production-patterns-of-knowledge-and-technology-intensive-industries/figures/nsb20262-figtrn-033.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/production-patterns-of-knowledge-and-technology-intensive-industries/figures/nsb20262-figtrn-032.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/production-patterns-of-knowledge-and-technology-intensive-industries/figures/nsb20262-figtrn-032.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/production-patterns-of-knowledge-and-technology-intensive-industries/figures/nsb20262-figtrn-032.png",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/production-patterns-of-knowledge-and-technology-intensive-industries/figures/nsb20262-figtrn-034.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/production-patterns-of-knowledge-and-technology-intensive-industries/figures/nsb20262-figtrn-034.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/production-patterns-of-knowledge-and-technology-intensive-industries/figures/nsb20262-figtrn-033.png",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/production-patterns-of-knowledge-and-technology-intensive-industries/figures/nsb20262-figtrn-033.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/production-patterns-of-knowledge-and-technology-intensive-industries/figures/nsb20262-figtrn-034.png",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/production-patterns-of-knowledge-and-technology-intensive-industries/figures/nsb20262-figtrn-035.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/production-patterns-of-knowledge-and-technology-intensive-industries/figures/nsb20262-figtrn-035.png",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/production-patterns-of-knowledge-and-technology-intensive-industries/figures/nsb20262-figtrn-035.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/global-trade-by-kti-industries/figures/nsb20262-figtrn-037.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/production-patterns-of-knowledge-and-technology-intensive-industries/figures/nsb20262-figtrn-036.png",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/production-patterns-of-knowledge-and-technology-intensive-industries/figures/nsb20262-figtrn-036.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/production-patterns-of-knowledge-and-technology-intensive-industries/figures/nsb20262-figtrn-036.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/global-trade-by-kti-industries/figures/nsb20262-figtrn-037.png",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/global-trade-by-kti-industries/figures/nsb20262-figtrn-038.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/global-trade-by-kti-industries/figures/nsb20262-figtrn-038.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/global-trade-by-kti-industries/figures/nsb20262-figtrn-037.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/global-trade-by-kti-industries/figures/nsb20262-figtrn-038.png",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/global-trade-by-kti-industries/figures/nsb20262-figtrn-039.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/global-trade-by-kti-industries/figures/nsb20262-figtrn-039.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/global-trade-by-kti-industries/figures/nsb20262-figtrn-039.png",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/innovation/figures/nsb20262-figtrn-a.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/innovation/figures/nsb20262-figtrn-a.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/innovation/figures/nsb20262-figtrn-a.png",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/innovation/figures/nsb20262-figtrn-b.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/innovation/figures/nsb20262-figtrn-b.png",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/innovation/figures/nsb20262-figtrn-b.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/innovation/figures/nsb20262-figtrn-c.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/innovation/figures/nsb20262-figtrn-c.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/innovation/figures/nsb20262-figtrn-c.png",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/assets/nsb20262-data-sources.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/figure/SATRN-1",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-1",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-2",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-4",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-3",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-7",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-6",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-5",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-8",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-9",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-10",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-11",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-12",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-13",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-14",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-15",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-18",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-16",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-17",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-21",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-22",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-19",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-20",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-23",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-24",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-25",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-27",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "https://www.sbir.gov/sbirsearch/award/all",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25",
+     "https://ncses.nsf.gov/pubs/nsb20262/figure/TRN-15"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-29",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-28",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-26",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-30",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-31",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-33",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-32",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-34",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-35",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-36",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-38",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-37",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-A",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-C",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-B",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-39",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/table/SATRN-2",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-1",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/table/SATRN-3",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/table/SATRN-1",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-5",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-2",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-4",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-3",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-8",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-7",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-6",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-9",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-10",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-14",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-13",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-11",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-16",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-17",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-15",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-18",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-20",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-22",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-19",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-23",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-26",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-24",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-21",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-29",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-30",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-27",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-28",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-31",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-32",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-34",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-33",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-36",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-35",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-41",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-38",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-40",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-37",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-43",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-44",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-45",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-42",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/table/TRN-3",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/table/TRN-5",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/table/TRN-2",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/table/TRN-4",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/table/TRN-6",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-25"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 16,
+  "plain-language": 9,
+  "resources": 16,
+  "images": 16,
+  "link-check": 16,
+  "alfa": 8,
+  "standards": 9,
+  "deprecated-html": 2,
+  "third-party": 6,
+  "tech": 2,
+  "public-interest": 1,
+  "sustainability": 2,
+  "lighthouse": 1
+ },
+ "tally": {
+  "ok": 16,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 9
+ },
+ "finishedAt": "2026-10-26T16:23:59.506Z"
+}
