@@ -1,0 +1,157 @@
+{
+ "runId": "2026-10-27T08-54-24-581Z-a62a6f",
+ "week": "2026-W44",
+ "domain": "iucrc.nsf.gov",
+ "startedAt": "2026-10-27T08:54:26.085Z",
+ "scanned": [
+  "b59c09ecf5355ffb",
+  "15da606d5e971918",
+  "176258857eaa3b63",
+  "5c20e8c690445650",
+  "a0d39f043cb71f24",
+  "5f203d98fb8735bf",
+  "74d6ca561adf3a93",
+  "b8cc7a0997ef8184",
+  "aa3335b6ac950ef7",
+  "675bd0f705d85ad8",
+  "51be754c54945aeb",
+  "203d82ff99d62ae4",
+  "ec1d56132b4ae10e",
+  "72f70afcec7651cc",
+  "d1a71ad17c2cbde1",
+  "c907094144528796",
+  "1e875ad20189815f",
+  "08f8222fbe092ac3",
+  "1a16a9d61a9470fd",
+  "f4dde08c846d9326",
+  "9a03c2a541822b26",
+  "b36c2ef821ca30d5",
+  "7bd6a306f40142ef",
+  "7bf418d9c009a882",
+  "9fea7791b8d00689"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 218,
+  "checked": 218,
+  "brokenCount": 9,
+  "broken": [
+   {
+    "url": "https://faradaycopper.com/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-to-advance-the-science-of-exploration-to-reclamation-in-mining-caserm",
+     "https://iucrc.nsf.gov/centers/center-for-advanced-subsurface-earth-resource-models"
+    ]
+   },
+   {
+    "url": "https://liononemetals.com/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-to-advance-the-science-of-exploration-to-reclamation-in-mining-caserm",
+     "https://iucrc.nsf.gov/centers/center-for-advanced-subsurface-earth-resource-models"
+    ]
+   },
+   {
+    "url": "http://www.janssen.com/",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/advanced-mammalian-biomanufacturing-innovation-center"
+    ]
+   },
+   {
+    "url": "https://ac.ccdc.army.mil/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/atomically-thin-multifunctional-coatings"
+    ]
+   },
+   {
+    "url": "http://fiwin.ece.gatech.edu/Index.htm",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/fiber-wireless-integration-and-networking-for-heterogeneous-mobile-data-communications"
+    ]
+   },
+   {
+    "url": "https://asap.mntl.illinois.edu/",
+    "status": 0,
+    "reason": "CERT_HAS_EXPIRED",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-advanced-semiconductor-chips-with-accelerated-performance"
+    ]
+   },
+   {
+    "url": "https://www.amd.com/en.html",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-advanced-semiconductor-chips-with-accelerated-performance"
+    ]
+   },
+   {
+    "url": "http://www.samsungsem.com/global/index.do",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-dielectrics-and-piezoelectrics"
+    ]
+   },
+   {
+    "url": "http://www.sabic.com/en/products/specialties",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-dielectrics-and-piezoelectrics"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 24,
+  "plain-language": 11,
+  "resources": 24,
+  "images": 24,
+  "link-check": 24,
+  "security": 3,
+  "standards": 12,
+  "public-interest": 1,
+  "tech": 2,
+  "alfa": 11,
+  "deprecated-html": 3,
+  "third-party": 6,
+  "sustainability": 1
+ },
+ "tally": {
+  "ok": 24,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-27T08:57:08.788Z"
+}
