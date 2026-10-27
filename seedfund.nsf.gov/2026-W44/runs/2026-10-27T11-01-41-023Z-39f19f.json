@@ -1,0 +1,99 @@
+{
+ "runId": "2026-10-27T11-01-41-023Z-39f19f",
+ "week": "2026-W44",
+ "domain": "seedfund.nsf.gov",
+ "startedAt": "2026-10-27T11:01:41.982Z",
+ "scanned": [
+  "022123bcb57a6f73",
+  "26a2b515744048ae",
+  "700dc9523cbbbd49",
+  "271b2bb58e12f739",
+  "2c80490d5e4209f1",
+  "db0d5584b8c5cb73",
+  "0ccff209f0497445",
+  "3ef7006354d0a407",
+  "49948783cd1ecbac",
+  "8506645de2728d39",
+  "9067f8882604e136",
+  "5d94aab4044b78c4",
+  "7feefe090d5760f1",
+  "97c83261c135c5ce",
+  "29926e3920ba2674",
+  "5bfffc9c76da6bd3",
+  "b37a6967aaa58324",
+  "08e2bbf7fd1a178b",
+  "9c0a9748121d427f",
+  "619364149094f1f1",
+  "70b9a1d8c1c5c216",
+  "ed8fb2b86f20365e",
+  "ad2004479c7c1f09",
+  "4c128719231d481b",
+  "e8c89951f83a943d"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 120,
+  "checked": 120,
+  "brokenCount": 2,
+  "broken": [
+   {
+    "url": "http://www.pathex.co/",
+    "status": 0,
+    "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
+    "foundOn": [
+     "https://seedfund.nsf.gov/portfolio/details?company=path-ex"
+    ]
+   },
+   {
+    "url": "http://www.lygos.com/",
+    "status": 402,
+    "reason": "HTTP 402",
+    "foundOn": [
+     "https://seedfund.nsf.gov/portfolio/details?company=lygos-inc"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 25,
+  "deprecated-html": 3,
+  "resources": 25,
+  "images": 25,
+  "link-check": 25,
+  "alfa": 13,
+  "plain-language": 11,
+  "standards": 15,
+  "public-interest": 3,
+  "sustainability": 4,
+  "tech": 4,
+  "third-party": 10,
+  "security": 3
+ },
+ "tally": {
+  "ok": 25,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-27T11:04:13.359Z"
+}
