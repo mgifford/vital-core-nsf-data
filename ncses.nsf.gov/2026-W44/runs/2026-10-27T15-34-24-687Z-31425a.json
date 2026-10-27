@@ -1,0 +1,108 @@
+{
+ "runId": "2026-10-27T15-34-24-687Z-31425a",
+ "week": "2026-W44",
+ "domain": "ncses.nsf.gov",
+ "startedAt": "2026-10-27T15:34:25.098Z",
+ "scanned": [
+  "90dd8c0dbcd4b6ad",
+  "36987efb8680facb",
+  "bcf84c5f8c321917",
+  "c3368fdabff7ff48",
+  "c9670f207da8e6b2",
+  "3153ea4dc162815d",
+  "91dab5d1b0d18837",
+  "f3c608161843159d",
+  "bf3ab7cf238982f8",
+  "10777bf21c6b05e2",
+  "7ff731a2f54d18d7",
+  "96b00bb62e9f47ef",
+  "a5c03bdb70848257",
+  "be4f0f8f946c63df",
+  "cb9012c8efe1dffa",
+  "0e7e9eb990e5f889",
+  "3df1d030490a1189",
+  "504f58d9ff49df4a",
+  "529cb91c013ce778",
+  "11366d9e6dff4b44",
+  "0917201965dd4c86",
+  "bab5815f07e71e6d",
+  "e23d617a9e4e51b3",
+  "d566fc2f48837658",
+  "317bf91fca984eb3"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 3167,
+  "checked": 500,
+  "brokenCount": 3,
+  "broken": [
+   {
+    "url": "http://ncses.nsf.gov/indicators/",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsf25354/surveypage/table/14917"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/statistics/stw/skilled-technical-workforce.cfm",
+    "status": 0,
+    "reason": "timeout",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20198/technical-appendix"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/statistics/2015/nsf15314/",
+    "status": 0,
+    "reason": "timeout",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsf23303"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 24,
+  "plain-language": 12,
+  "resources": 24,
+  "images": 24,
+  "standards": 12,
+  "link-check": 24,
+  "alfa": 9,
+  "security": 3,
+  "lighthouse": 3,
+  "third-party": 5,
+  "deprecated-html": 3,
+  "tech": 4,
+  "sustainability": 2,
+  "public-interest": 2
+ },
+ "tally": {
+  "ok": 24,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-27T15:39:13.571Z"
+}
