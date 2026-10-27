@@ -1,0 +1,244 @@
+{
+ "runId": "2026-10-27T11-01-36-099Z-9d072a",
+ "week": "2026-W44",
+ "domain": "www.nsf.gov",
+ "startedAt": "2026-10-27T11:01:36.509Z",
+ "scanned": [
+  "f1968388de8bedaa",
+  "8c1d545ff719d48f",
+  "41ae8dc82701d633",
+  "d4c48168b1f95667",
+  "49698d2251f735cc",
+  "37c2f1aeba073ebd",
+  "d11140c2d4d95bd3",
+  "f11f435638bc4870",
+  "02af608d3d176ad3",
+  "ce12aa0b6580749e",
+  "652cffedac5be035",
+  "36b86b785bee8dd4",
+  "d3b391bc76978603",
+  "fb6526040c40a0ff",
+  "621674781791e191",
+  "6bb6651b530e1707",
+  "e8f85c3da242809f",
+  "8b963a119f6625ae",
+  "9a921914e3463dc5",
+  "c4bff9e5499d4d80",
+  "f998bf42042cfde2",
+  "68fd3cd32e9003a6",
+  "3936d244c787bb1b",
+  "26cc4579688cbcba",
+  "da486011db455217"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 386,
+  "checked": 386,
+  "brokenCount": 20,
+  "broken": [
+   {
+    "url": "https://www.nsf.gov/pubs/2022/nsf22637/nsf22637.htm",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/mid-scale-research-infrastructure-1-program-webinar"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_d0Kqh6HxTo-n_IcQfXm71w",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/boosting-research-ideas-transformative-equitable-advances-1/2022-03-17"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/div/index.jsp?div=OISE",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/gk-12-nsf-graduate-teaching-fellows-k-12-education/5472/nsf06-556/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.fastlane.nsf.gov/a1/newstan.htm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/gk-12-nsf-graduate-teaching-fellows-k-12-education/5472/nsf06-556/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=gpm",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/gk-12-nsf-graduate-teaching-fellows-k-12-education/5472/nsf06-556/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsb9772",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/gk-12-nsf-graduate-teaching-fellows-k-12-education/5472/nsf06-556/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=iin127",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/gk-12-nsf-graduate-teaching-fellows-k-12-education/5472/nsf06-556/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/cgi-bin/getpub?gp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/gk-12-nsf-graduate-teaching-fellows-k-12-education/5472/nsf06-556/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/home/ebulletin",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/gk-12-nsf-graduate-teaching-fellows-k-12-education/5472/nsf06-556/solicitation"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_srTYdHJtTMKI9q-GIbAy4g",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/nsf-vines-informational-webinar-japan-us-collaborations"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/funding/opportunities/translation-accelerators",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsf-ttp-national-science-foundation-translation-practice/nsf25-540/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/funding/opportunities/technology-translation-test-beds",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsf-ttp-national-science-foundation-translation-practice/nsf25-540/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/funding/opportunities/ttp-translation-to-practice",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsf-ttp-national-science-foundation-translation-practice/nsf25-540/solicitation"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_EuDnGD9CQ26FsTrebZiTwg",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/meet-2024-nsf-trailblazers/2024-11-12"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/funding/opportunities/translation-to-practice",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsf-ttp-national-science-foundation-translation-practice/nsf25-540/solicitation"
+    ]
+   },
+   {
+    "url": "https://uscode.house.gov/view.xhtml?req=(title:42%20section:19237%20edition:prelim)%20OR%20(granuleid:USC-prelim-title42-section19037)&f=treesort&edition=prelim&num=0&jumpTo=true",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/rsi-isao-research-security-integrity-information-sharing-analysis/506033/nsf23-613/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.whitehouse.gov/wp-content/uploads/2022/01/010422-NSPM-33-Implementation-Guidance.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/rsi-isao-research-security-integrity-information-sharing-analysis/506033/nsf23-613/solicitation"
+    ]
+   },
+   {
+    "url": "http://oerl.sri.com/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/gk-12-nsf-graduate-teaching-fellows-k-12-education/5472/nsf06-556/solicitation"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJIsfuiopjIoEqo5aBXDJqGaKue0aIdfXts",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/biological-oceanography-office-hours-august/2022-08-02"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJItd-upqz8rGOA8vFQ7b5yPbY5gcpOviDA",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/chemistry-division-office-hour-history-black-scientists-nsfs-0"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 25,
+  "plain-language": 12,
+  "deprecated-html": 2,
+  "resources": 25,
+  "images": 25,
+  "standards": 15,
+  "link-check": 25,
+  "alfa": 8,
+  "third-party": 2,
+  "lighthouse": 3,
+  "tech": 4,
+  "sustainability": 3,
+  "security": 2,
+  "public-interest": 1
+ },
+ "tally": {
+  "ok": 25,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-27T11:05:42.580Z"
+}
