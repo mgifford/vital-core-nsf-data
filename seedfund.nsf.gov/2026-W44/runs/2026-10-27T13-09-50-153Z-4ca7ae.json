@@ -1,0 +1,131 @@
+{
+ "runId": "2026-10-27T13-09-50-153Z-4ca7ae",
+ "week": "2026-W44",
+ "domain": "seedfund.nsf.gov",
+ "startedAt": "2026-10-27T13:09:51.743Z",
+ "scanned": [
+  "904865126051210f",
+  "a0de8d51953ced36",
+  "4da9e18ca7cbb86f",
+  "a1d34819a4b941a8",
+  "beac04a9955452c9",
+  "e3c843b08f603ab3",
+  "de294d8d2469e78c",
+  "cb26a904f998d61e",
+  "920810fb6562193c",
+  "f38245d2d54f9dc4",
+  "9fff5ed99de1935d",
+  "ee69d67c0e9e3cd1",
+  "dda9d6672c0cd349",
+  "3d4d07fb275ed1cc",
+  "ebb963981d434a9e",
+  "886326010b5db4fa",
+  "2f4cb01e4040a13f",
+  "9b0100ab674a0d8c",
+  "b6b7d0a366ccaafb",
+  "06eb0ba2067ac460",
+  "62d770e15dc4c5f6",
+  "c7366ec28bb63a96",
+  "71131090169ac22f",
+  "116a14b098e5ba62",
+  "073dc5aa9febde11"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 407,
+  "checked": 407,
+  "brokenCount": 6,
+  "broken": [
+   {
+    "url": "https://seedfund.nsf.gov/what-we-deliver/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://seedfund.nsf.gov/styleguide/layouts"
+    ]
+   },
+   {
+    "url": "https://seedfund.nsf.gov/styleguide/project-cards/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://seedfund.nsf.gov/styleguide/layouts"
+    ]
+   },
+   {
+    "url": "https://seedfund.nsf.gov/styleguide/blog-components/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://seedfund.nsf.gov/styleguide/layouts"
+    ]
+   },
+   {
+    "url": "https://standards.usa.gov/components/typography/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://seedfund.nsf.gov/styleguide/layouts"
+    ]
+   },
+   {
+    "url": "https://seedfund.nsf.gov/centers/focus-area/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://seedfund.nsf.gov/centers/ceps/liquid-metal-based-thermal-interface-materials-keep-microelectronics-cool"
+    ]
+   },
+   {
+    "url": "http://www.solaridipm.com/",
+    "status": 0,
+    "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
+    "foundOn": [
+     "https://seedfund.nsf.gov/awardees/history/details?company=solarid-ar-llc"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 25,
+  "plain-language": 14,
+  "resources": 25,
+  "images": 25,
+  "third-party": 5,
+  "link-check": 25,
+  "alfa": 12,
+  "standards": 6,
+  "deprecated-html": 2,
+  "public-interest": 3,
+  "lighthouse": 4,
+  "security": 3,
+  "sustainability": 3
+ },
+ "tally": {
+  "ok": 25,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-27T13:13:07.028Z"
+}
