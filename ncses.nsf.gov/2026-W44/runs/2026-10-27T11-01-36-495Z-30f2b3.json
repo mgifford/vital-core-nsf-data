@@ -1,0 +1,457 @@
+{
+ "runId": "2026-10-27T11-01-36-495Z-30f2b3",
+ "week": "2026-W44",
+ "domain": "ncses.nsf.gov",
+ "startedAt": "2026-10-27T11:01:36.840Z",
+ "scanned": [
+  "3b133fd4727f7522",
+  "4eb0311012fa6f48",
+  "eaaad448cf8df750",
+  "d5a0766a9b17554e",
+  "28a0787673e29caf",
+  "50b007f5cddae229",
+  "747550873582e610",
+  "5325acf1ab6c0897",
+  "6b7bd9af42db1c6f",
+  "58236e90efbd831b",
+  "595e7e34e5bf94c4",
+  "74a8f337e6b052b3",
+  "3ee5e4c886c8bcf0",
+  "4dc369fc1a039a5e",
+  "533f3f3aa627cc96",
+  "bbd9838357ed27b0",
+  "92601331326a3939",
+  "ebb1c2cf4ca43265",
+  "9306281a381c5ea5",
+  "63df0da6fc8d0fb4",
+  "0bb5ff99bf68f05a",
+  "f3d2af7491491735",
+  "b5b193030364a9d5",
+  "a05f64ae54b587f4"
+ ],
+ "errors": [
+  {
+   "pageId": "aa81dfafad40ae4b",
+   "url": "http://ncses.nsf.gov/pubs/nsf25300/figure/1",
+   "error": "Error: page.goto: net::ERR_CONNECTION_RESET at http://ncses.nsf.gov/pubs/nsf25300/figure/1\nCall log:\n  - navigating to \"http://ncses.nsf.gov/pubs/nsf25300/figure/1\", waiting until \"load\"\n"
+  }
+ ],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 3288,
+  "checked": 500,
+  "brokenCount": 45,
+  "broken": [
+   {
+    "url": "http://ncses.nsf.gov/about/data-governance",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25352/section/25463"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/about",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25352/section/25463",
+     "http://ncses.nsf.gov/pubs/nsf23300/data-tables"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/about/quality-transparency",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25352/section/25463"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25352/section/25463",
+     "https://ncses.nsf.gov/pubs/nsf20301/report/acknowledgments-and-citation"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/interest-areas",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25352/section/25463"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/about/research",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25352/section/25463"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/about/contact",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25352/section/25463"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/about/whats-new",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25352/section/25463"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/interest-areas/research-development",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25352/section/25463"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/interest-areas/stem",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25352/section/25463"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/interest-areas/science-engineering-workforce",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25352/section/25463"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/interest-areas/innovation-global-competitiveness",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25352/section/25463"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/schedule-of-release-dates",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25352/section/25463"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/surveys-analysis",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25352/section/25463"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/surveys",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25352/section/25463"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/search?query=&excludePubAssets=true&pageSize=40&sort=date",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25352/section/25463"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/explore-data/microdata",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25352/section/25463"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/explore-data",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25352/section/25463"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/licensing",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25352/section/25463"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/corrections",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25352/section/25463"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/initiatives/cybersecurity-workforce-data-initiative",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25352/section/25463"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/initiatives/national-secure-data-service-demo",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25352/section/25463"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/funding-opportunities",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25352/section/25463"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/initiatives",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25352/section/25463"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/resource",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25352/section/25463"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/resource/library",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25352/section/25463"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/initiatives/standard-application-process",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25352/section/25463"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/resource/master-gov-lists-ffrdc",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25352/section/25463"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/resource/faqs",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25352/section/25463"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/resource/glossary",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25352/section/25463"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25352/assets/new-pilot-data-on-the-prevalence-of-work-related-credentials-among-stem-workers-from-the-national-training-education-and-workforce-survey/tables/nsf25352-tab001.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25352/section/25463"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25352/section/25463",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25352/section/25463"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25352/assets/new-pilot-data-on-the-prevalence-of-work-related-credentials-among-stem-workers-from-the-national-training-education-and-workforce-survey/tables/nsf25352-tab001.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25352/section/25463"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25352/assets/new-pilot-data-on-the-prevalence-of-work-related-credentials-among-stem-workers-from-the-national-training-education-and-workforce-survey/tables/nsf25352-tab002.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25352/section/25463"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25352/assets/new-pilot-data-on-the-prevalence-of-work-related-credentials-among-stem-workers-from-the-national-training-education-and-workforce-survey/tables/nsf25352-tab002.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25352/section/25463"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/surveys/national-training-education-workforce/2022",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25352/section/25463"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/accessibility",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25352/section/25463"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25352/assets/nsf25352.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25352/section/25463"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25352/assets/nsf25352.zip",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25352/section/25463"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25352/assets/nsf25352-data-sources.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25352/section/25463"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25352/assets/nsf25352-tables.zip",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25352/section/25463"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25352/assets/nsf25352-tables-pdfs.zip",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25352/section/25463"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25352/assets/nsf25352-tables-excels.zip",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25352/section/25463"
+    ]
+   },
+   {
+    "url": "http://www.nsf.gov/statistics/infbrief/nsf13334/",
+    "status": 0,
+    "reason": "timeout",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16061",
+     "https://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099",
+     "https://ncses.nsf.gov/pubs/nsf25317",
+     "https://ncses.nsf.gov/surveys/graduate-students-postdoctorates-s-e/2022"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/statistics/nsf12300/",
+    "status": 0,
+    "reason": "timeout",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16061",
+     "https://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16099",
+     "https://ncses.nsf.gov/pubs/nsf25317",
+     "https://ncses.nsf.gov/surveys/graduate-students-postdoctorates-s-e/2022"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 24,
+  "resources": 24,
+  "images": 24,
+  "public-interest": 4,
+  "link-check": 24,
+  "plain-language": 5,
+  "standards": 11,
+  "alfa": 14,
+  "tech": 2,
+  "sustainability": 5,
+  "third-party": 3,
+  "deprecated-html": 2,
+  "lighthouse": 3,
+  "security": 2
+ },
+ "tally": {
+  "ok": 24,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 1
+ },
+ "finishedAt": "2026-10-27T11:06:17.871Z"
+}
