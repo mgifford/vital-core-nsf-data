@@ -1,0 +1,186 @@
+{
+ "runId": "2026-10-27T13-22-25-848Z-9295fd",
+ "week": "2026-W44",
+ "domain": "www.nsf.gov",
+ "startedAt": "2026-10-27T13:22:26.276Z",
+ "scanned": [
+  "2fc2566c2d567be0",
+  "5bbf4ce6d67120fb",
+  "844e22ed24633661",
+  "0739be10c59fb157",
+  "600b4affe486fc17",
+  "322e60582d586748",
+  "90ac1702eaf81fe2",
+  "e5a1ee4e85913cb4",
+  "52ab596766c897b5",
+  "12da215dbb8d96f9",
+  "aef3afb925a2b4a1",
+  "1fbecdf9852aa038",
+  "2dfd35220363781d",
+  "b40a7d4fd5e82e70",
+  "0e1b9aed89637728",
+  "10a7346ad0ef6460",
+  "faf3cc21182b553e",
+  "98f3fef3fa652987",
+  "1ecd3c4f527b9cef",
+  "b0f0456a0b07b167",
+  "53faffb310a8e08e",
+  "deb7a60a6a902e15",
+  "9bc31e18d04acb3b",
+  "c5d5f9c601510b82"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 292,
+  "checked": 292,
+  "brokenCount": 13,
+  "broken": [
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_Hqiba10kQMiOnveTAMCULw",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/nsf-directorate-technology-innovation-partnerships-tip/2024-09-18"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/od/oia/programs/epscor/Eligibility_Tables/FY2021_Eligibility.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/epscor-research-infrastructure-improvement-program-focused/nsf21-518"
+    ]
+   },
+   {
+    "url": "https://debblog.nsfbio.com/2021/03/08/explore-our-blog/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/events/deb-virtual-office-hour-things-i-wish-i-learned-earlier"
+    ]
+   },
+   {
+    "url": "https://debblog.nsfbio.com/office-hours/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/events/deb-virtual-office-hour-things-i-wish-i-learned-earlier"
+    ]
+   },
+   {
+    "url": "https://debblog.nsfbio.com/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/events/deb-virtual-office-hour-things-i-wish-i-learned-earlier"
+    ]
+   },
+   {
+    "url": "https://mcbblog.nsfbio.com/office-hours/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/events/new-mcb-solicitation-core-programs"
+    ]
+   },
+   {
+    "url": "https://mcbblog.nsfbio.com/category/blog/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/events/new-mcb-solicitation-core-programs"
+    ]
+   },
+   {
+    "url": "https://mcbblog.nsfbio.com/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/events/new-mcb-solicitation-core-programs"
+    ]
+   },
+   {
+    "url": "https://www.phe.gov/s3/dualuse/Documents/durc-policy.pdf",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/events/new-mcb-solicitation-core-programs"
+    ]
+   },
+   {
+    "url": "https://mcbblog.nsfbio.com/2022/08/01/when-should-i-submit-my-proposal/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/events/new-mcb-solicitation-core-programs"
+    ]
+   },
+   {
+    "url": "https://www.phe.gov/s3/dualuse/Documents/P3CO.pdf",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/events/new-mcb-solicitation-core-programs"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/od/broadeningparticipation/bp_portfolio_dynamic.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/fmitf-formal-methods-field/505518/nsf24-509/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=sf22068",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/fmitf-formal-methods-field/505518/nsf24-509/solicitation"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 24,
+  "plain-language": 10,
+  "resources": 24,
+  "images": 24,
+  "standards": 8,
+  "lighthouse": 2,
+  "link-check": 24,
+  "alfa": 14,
+  "third-party": 5,
+  "sustainability": 1,
+  "public-interest": 2,
+  "deprecated-html": 2,
+  "security": 2
+ },
+ "tally": {
+  "ok": 24,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 1,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-27T13:26:13.879Z"
+}
