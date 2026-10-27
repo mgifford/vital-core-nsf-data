@@ -1,0 +1,92 @@
+{
+ "runId": "2026-10-27T09-57-22-815Z-39d909",
+ "week": "2026-W44",
+ "domain": "seedfund.nsf.gov",
+ "startedAt": "2026-10-27T09:57:23.328Z",
+ "scanned": [
+  "cd4df4539e635f99",
+  "5dedacf10bc3aa78",
+  "7c69050215535518",
+  "911c4aee34b0aa5a",
+  "4881131e150a9df9",
+  "e3ce894b10e82bd7",
+  "0c1d9808473cdd88",
+  "2885181a4600863e",
+  "112c6f34fdb86470",
+  "92fca9a0d5a8a364",
+  "e1fb7e88c81bda76",
+  "c53ed30e525b6058",
+  "ea6d6faa90ddd545",
+  "e6851a8b4124e5bb",
+  "536dbb3d9d936691",
+  "803a495916e4868b",
+  "58c9b55629d2930d",
+  "4113f7573436d249",
+  "67fbe2ad8d110098",
+  "f2c83eb2ef6faef1",
+  "851ce5dfaff59911",
+  "ebdc43fdc3ee247a",
+  "ad9d4bbb6aff097a",
+  "5b9835460684d33e",
+  "572949f2e393a1e7"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 215,
+  "checked": 215,
+  "brokenCount": 1,
+  "broken": [
+   {
+    "url": "http://www.chirpmicro.com/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://seedfund.nsf.gov/portfolio/details?company=chirp-microsystems"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 25,
+  "alfa": 16,
+  "resources": 25,
+  "images": 25,
+  "standards": 11,
+  "third-party": 9,
+  "link-check": 25,
+  "plain-language": 12,
+  "tech": 3,
+  "sustainability": 2,
+  "deprecated-html": 2,
+  "security": 3,
+  "lighthouse": 3,
+  "public-interest": 1
+ },
+ "tally": {
+  "ok": 25,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-27T10:00:30.656Z"
+}
