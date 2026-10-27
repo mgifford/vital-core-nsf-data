@@ -1,0 +1,162 @@
+{
+ "runId": "2026-10-27T14-50-52-812Z-06e2e1",
+ "week": "2026-W44",
+ "domain": "www.nsf.gov",
+ "startedAt": "2026-10-27T14:50:54.637Z",
+ "scanned": [
+  "2f91d5a3b4c0e5a3",
+  "f752cf845ff1479b",
+  "31f07524e1a96c88",
+  "2d37c0f44dad1829",
+  "343dde4c1beb831e",
+  "c86e77666cb76d09",
+  "cd9daa95596f3391",
+  "f1889ab2f85451a9",
+  "f6c38411d5d85934",
+  "6943ddfe7f12d0b4",
+  "222e88e44fa2d81a",
+  "15c9e216d3c66c47",
+  "415eb495f87d03ee",
+  "96522a4bd55b11eb",
+  "4d9d1aa86c00f810",
+  "f69c51faaccb2004",
+  "da3c38d43a5941eb",
+  "88d1aaa98d89a35e",
+  "4876600236e975c8",
+  "f62c2e8c1c374b3c",
+  "0b4423796f9b3fba",
+  "c1390b980b1553a9",
+  "86f090f33f829103"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 229,
+  "checked": 229,
+  "brokenCount": 10,
+  "broken": [
+   {
+    "url": "https://www.nsf.gov/bio/pubs/awards/bread10.htm?_pims_id=503285",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-bread-ideas-challenge/nsf13-035"
+    ]
+   },
+   {
+    "url": "http://www.arnet.gov/far/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-competition-management-operation-national-center-atmospheric/nsf06-020"
+    ]
+   },
+   {
+    "url": "http://www.ncar.ucar.edu/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-competition-management-operation-national-center-atmospheric/nsf06-020"
+    ]
+   },
+   {
+    "url": "http://www.nar.ucar.edu/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-competition-management-operation-national-center-atmospheric/nsf06-020"
+    ]
+   },
+   {
+    "url": "http://www.ncar.ucar.edu/stratplan/2006/index.html",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-competition-management-operation-national-center-atmospheric/nsf06-020"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/div/index.jsp?div=ATM",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-competition-management-operation-national-center-atmospheric/nsf06-020"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_54Yk4NhVQUGvCTbPbOvFyw",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/webinar-collaboratory-advance-mathematics-education-learning/2026-01-06"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_Tvew8g9tTwin9SaBl8_6xQ",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/ityc-office-hours-june-2023/2023-06-08"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_rigrDVCzQA27Fkdpw-ZDwQ",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/ityc-office-hours-june-2023/2023-06-08"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_rTzGy_zQTBKfWkHFPF36Vg",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/ityc-office-hours-june-2023/2023-06-08"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 23,
+  "plain-language": 10,
+  "resources": 23,
+  "images": 23,
+  "standards": 11,
+  "link-check": 23,
+  "alfa": 10,
+  "tech": 1,
+  "third-party": 7,
+  "public-interest": 3,
+  "deprecated-html": 2,
+  "security": 3,
+  "lighthouse": 3,
+  "sustainability": 1
+ },
+ "tally": {
+  "ok": 23,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 2,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-27T14:54:52.818Z"
+}
