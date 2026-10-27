@@ -1,0 +1,108 @@
+{
+ "runId": "2026-10-27T09-57-27-152Z-612099",
+ "week": "2026-W44",
+ "domain": "iucrc.nsf.gov",
+ "startedAt": "2026-10-27T09:57:27.778Z",
+ "scanned": [
+  "715b37bb5a97e96d",
+  "bf2665a589266a3b",
+  "e09249c1fb565a55",
+  "89a60b496be41404",
+  "d88ed4f900b785a7",
+  "52199e0571675d7a",
+  "6b7d52150e8574dd",
+  "3681aec2dae9fcce",
+  "93c5c45605765a61",
+  "6bf8a9f2bfcd421f",
+  "564d4a83757398b7",
+  "1969de495e88916a",
+  "f0aaac923ca168e3",
+  "ed854310377f66f4",
+  "30441429fed56555",
+  "970e2491656bd049",
+  "0da3104d764bd171",
+  "6dfaa349496a376a"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 153,
+  "checked": 153,
+  "brokenCount": 4,
+  "broken": [
+   {
+    "url": "https://www.keurigdrpepper.com/",
+    "status": 502,
+    "reason": "HTTP 502",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-bioplastics-and-biocomposites"
+    ]
+   },
+   {
+    "url": "https://www.lanl.gov/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-advanced-non-ferrous-structural-alloy"
+    ]
+   },
+   {
+    "url": "https://www.lockheedmartin.com/",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/multi-functional-integrated-system-technology"
+    ]
+   },
+   {
+    "url": "http://www.inrf.uci.edu/cadmim/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-advanced-design-and-man-of-integrated-microfluidics"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 17,
+  "alfa": 7,
+  "resources": 17,
+  "images": 17,
+  "link-check": 17,
+  "plain-language": 11,
+  "standards": 7,
+  "security": 3,
+  "lighthouse": 3,
+  "third-party": 5,
+  "sustainability": 1,
+  "deprecated-html": 1,
+  "public-interest": 1
+ },
+ "tally": {
+  "ok": 17,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-27T09:59:44.126Z"
+}
