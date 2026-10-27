@@ -1,6 +1,6 @@
 {
  "domain": "seedfund.nsf.gov",
- "updatedAt": "2026-10-26T18:51:39.744Z",
+ "updatedAt": "2026-10-27T18:14:34.968Z",
  "resources": {
   "https://www.youtube.com/embed/mKWCoHlInZg?enablejsapi=1&origin=https%3A%2F%2Fseedfund.nsf.gov": {
    "type": "embedded-media",
@@ -401,14 +401,15 @@
   "https://www.youtube.com/embed/Pdm0hix7OiI?modestbranding=1&showinfo=0&fs=1&enablejsapi=1&origin=https%3A%2F%2Fseedfund.nsf.gov": {
    "type": "embedded-media",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "lastPages": 1,
    "lastExamplePages": [
-    "https://seedfund.nsf.gov/showcase"
+    "https://seedfund.nsf.gov/topics/digital-health"
    ]
   },
   "https://www.youtube.com/embed/XzgzRg9PwRc?modestbranding=1&showinfo=0&fs=1&enablejsapi=1&origin=https%3A%2F%2Fseedfund.nsf.gov": {
@@ -480,14 +481,15 @@
   "https://www.youtube.com/embed/vi-TZY-uU_4?enablejsapi=1&origin=https%3A%2F%2Fseedfund.nsf.gov": {
    "type": "embedded-media",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "lastPages": 1,
    "lastExamplePages": [
-    "https://seedfund.nsf.gov/topics/chemical-technologies"
+    "https://seedfund.nsf.gov/topics/agricultural-technologies"
    ]
   },
   "https://www.youtube.com/embed/XDEgLYwdKP4?enablejsapi=1&origin=https%3A%2F%2Fseedfund.nsf.gov": {
@@ -673,6 +675,45 @@
     "https://seedfund.nsf.gov/apply/full-proposal"
    ]
   },
+  "https://nsf-gov-resources.nsf.gov/files/COI-Confidentiality-Panelists-NSF_Form_1230P.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://seedfund.nsf.gov/resources/awardees/phase-1/merit-review"
+   ]
+  },
+  "https://seedfund.nsf.gov/assets/files/awardees/PhaseICommercialReviewerForm.doc": {
+   "type": "document",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://seedfund.nsf.gov/resources/awardees/phase-1/merit-review"
+   ]
+  },
+  "https://seedfund.nsf.gov/assets/files/awardees/PhaseIICommercialReviewerForm.doc": {
+   "type": "document",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://seedfund.nsf.gov/resources/awardees/phase-1/merit-review"
+   ]
+  },
   "https://www.youtube.com/embed/4W5xvWZKA2U?modestbranding=1&showinfo=0&fs=1&enablejsapi=1&origin=https%3A%2F%2Fseedfund.nsf.gov": {
    "type": "embedded-media",
    "firstSeen": "2026-W44",
@@ -725,6 +766,32 @@
    "lastExamplePages": [
     "https://seedfund.nsf.gov/resources/awardees/supplement/commercial",
     "https://seedfund.nsf.gov/resources/awardees/supplement/educational"
+   ]
+  },
+  "https://www.google.com/maps/d/embed?mid=1CNoogQ8CLrzDJviRC-Pi_avfGTeYWaTm": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://seedfund.nsf.gov/awardees/phase-2"
+   ]
+  },
+  "https://www.congress.gov/114/plaws/publ329/PLAW-114publ329.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://seedfund.nsf.gov/solicitation-project-description"
    ]
   }
  }

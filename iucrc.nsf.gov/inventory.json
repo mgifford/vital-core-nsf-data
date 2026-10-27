@@ -1,6 +1,6 @@
 {
  "domain": "iucrc.nsf.gov",
- "updatedAt": "2026-10-26T18:51:39.268Z",
+ "updatedAt": "2026-10-27T18:14:34.683Z",
  "pages": {
   "https://iucrc.nsf.gov/search": {
    "pageId": "00f75ff96e970346",
@@ -1476,6 +1476,375 @@
    "status": 200,
    "axeViolations": 13,
    "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://iucrc.nsf.gov/centers/center-for-dielectrics-and-piezoelectrics": {
+   "pageId": "08f8222fbe092ac3",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-27T08:55:56.601Z",
+   "status": 200,
+   "axeViolations": 13,
+   "alfaFailures": 126,
+   "hasIssues": true
+  },
+  "https://iucrc.nsf.gov/centers/center-for-advanced-design-and-man-of-integrated-microfluidics": {
+   "pageId": "0da3104d764bd171",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-27T09:59:17.425Z",
+   "status": 200,
+   "axeViolations": 13,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://iucrc.nsf.gov/centers/robots-and-sensors-for-the-human-well-being": {
+   "pageId": "15da606d5e971918",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-27T08:54:39.387Z",
+   "status": 200,
+   "axeViolations": 13,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://iucrc.nsf.gov/centers/atomically-thin-multifunctional-coatings": {
+   "pageId": "176258857eaa3b63",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-27T08:54:44.061Z",
+   "status": 200,
+   "axeViolations": 13,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://iucrc.nsf.gov/centers/science-center-for-marine-fisheries": {
+   "pageId": "1969de495e88916a",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-27T09:58:35.699Z",
+   "status": 200,
+   "axeViolations": 13,
+   "alfaFailures": 114,
+   "hasIssues": true
+  },
+  "https://iucrc.nsf.gov/centers/achievements": {
+   "pageId": "1a16a9d61a9470fd",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-27T08:56:02.082Z",
+   "status": 200,
+   "axeViolations": 5,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://iucrc.nsf.gov/document": {
+   "pageId": "1e875ad20189815f",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-27T08:55:51.512Z",
+   "status": 200,
+   "axeViolations": 15,
+   "alfaFailures": 40,
+   "hasIssues": true
+  },
+  "https://iucrc.nsf.gov/centers/center-for-science-technology-and-advanced-research-in-space-c-stars": {
+   "pageId": "203d82ff99d62ae4",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-27T08:55:28.786Z",
+   "status": 200,
+   "axeViolations": 11,
+   "alfaFailures": 58,
+   "hasIssues": true
+  },
+  "https://iucrc.nsf.gov/centers/novel-high-voltage-temperature-materials-and-structures": {
+   "pageId": "30441429fed56555",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-27T09:59:08.728Z",
+   "status": 200,
+   "axeViolations": 13,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://iucrc.nsf.gov/centers/center-for-freeform-optics": {
+   "pageId": "3681aec2dae9fcce",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-27T09:58:16.869Z",
+   "status": 200,
+   "axeViolations": 13,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://iucrc.nsf.gov/centers/advanced-mammalian-biomanufacturing-innovation-center": {
+   "pageId": "51be754c54945aeb",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-27T08:55:24.506Z",
+   "status": 200,
+   "axeViolations": 13,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://iucrc.nsf.gov/centers/achievements/solar-paper-powers-internet-of-things-devices": {
+   "pageId": "52199e0571675d7a",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-27T09:58:08.273Z",
+   "status": 200,
+   "axeViolations": 4,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://iucrc.nsf.gov/centers/achievements/iucrc-compendium-2016": {
+   "pageId": "564d4a83757398b7",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-27T09:58:31.373Z",
+   "status": 200,
+   "axeViolations": 4,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://iucrc.nsf.gov/centers/next-generation-photovoltaics": {
+   "pageId": "5c20e8c690445650",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-27T08:54:49.337Z",
+   "status": 200,
+   "axeViolations": 12,
+   "alfaFailures": 97,
+   "hasIssues": true
+  },
+  "https://iucrc.nsf.gov/centers/achievements/ai-helps-shift-touch-id-to-touchless": {
+   "pageId": "5f203d98fb8735bf",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-27T08:55:00.812Z",
+   "status": 200,
+   "axeViolations": 3,
+   "alfaFailures": 32,
+   "hasIssues": true
+  },
+  "https://iucrc.nsf.gov/centers/center-for-advanced-knowledge-enablement": {
+   "pageId": "675bd0f705d85ad8",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-27T08:55:19.390Z",
+   "status": 200,
+   "axeViolations": 13,
+   "alfaFailures": 84,
+   "hasIssues": true
+  },
+  "https://iucrc.nsf.gov/centers/achievements/a-closed-loop-process-for-li-ion-battery-recycling": {
+   "pageId": "6b7d52150e8574dd",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-27T09:58:12.743Z",
+   "status": 200,
+   "axeViolations": 4,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://iucrc.nsf.gov/centers/multi-functional-integrated-system-technology": {
+   "pageId": "6bf8a9f2bfcd421f",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-27T09:58:26.555Z",
+   "status": 200,
+   "axeViolations": 13,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://iucrc.nsf.gov/centers/achievements/microfluidics-based-bioanalytical-solutions": {
+   "pageId": "6dfaa349496a376a",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-27T09:59:21.708Z",
+   "status": 200,
+   "axeViolations": 4,
+   "alfaFailures": 34,
+   "hasIssues": true
+  },
+  "https://iucrc.nsf.gov/centers/center-for-bioplastics-and-biocomposites": {
+   "pageId": "715b37bb5a97e96d",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-27T09:57:31.855Z",
+   "status": 200,
+   "axeViolations": 13,
+   "alfaFailures": 137,
+   "hasIssues": true
+  },
+  "https://iucrc.nsf.gov/centers/fiber-wireless-integration-and-networking-for-heterogeneous-mobile-data-communications": {
+   "pageId": "72f70afcec7651cc",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-27T08:55:38.562Z",
+   "status": 200,
+   "axeViolations": 12,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://iucrc.nsf.gov/2019/01/15/second-post": {
+   "pageId": "74d6ca561adf3a93",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-27T08:55:05.895Z",
+   "status": 200,
+   "axeViolations": 4,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://iucrc.nsf.gov/centers/center-for-advanced-subsurface-earth-resource-models": {
+   "pageId": "7bd6a306f40142ef",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-27T08:56:21.054Z",
+   "status": 200,
+   "axeViolations": 13,
+   "alfaFailures": 139,
+   "hasIssues": true
+  },
+  "https://iucrc.nsf.gov/centers/center-for-advanced-semiconductor-chips-with-accelerated-performance": {
+   "pageId": "7bf418d9c009a882",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-27T08:56:26.705Z",
+   "status": 200,
+   "axeViolations": 13,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://iucrc.nsf.gov/centers/center-for-advanced-non-ferrous-structural-alloy": {
+   "pageId": "89a60b496be41404",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-27T09:57:48.905Z",
+   "status": 200,
+   "axeViolations": 13,
+   "alfaFailures": 86,
+   "hasIssues": true
+  },
+  "https://iucrc.nsf.gov/centers/building-reliable-advances-and-innovations-in-neurotechnology": {
+   "pageId": "93c5c45605765a61",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-27T09:58:21.111Z",
+   "status": 200,
+   "axeViolations": 13,
+   "alfaFailures": 132,
+   "hasIssues": true
+  },
+  "https://iucrc.nsf.gov/centers/center-for-digital-twins-in-manufacturing": {
+   "pageId": "970e2491656bd049",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-27T09:59:13.189Z",
+   "status": 200,
+   "axeViolations": 13,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://iucrc.nsf.gov/centers/center-for-industrial-metal-forming-cimf": {
+   "pageId": "9a03c2a541822b26",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-27T08:56:11.586Z",
+   "status": 200,
+   "axeViolations": 13,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://iucrc.nsf.gov/centers/achievements/cold-sintering-creates-new-avenues": {
+   "pageId": "9fea7791b8d00689",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-27T08:56:31.077Z",
+   "status": 200,
+   "axeViolations": 4,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://iucrc.nsf.gov/centers/center-for-energy-harvesting-materials-and-system": {
+   "pageId": "a0d39f043cb71f24",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-27T08:54:55.355Z",
+   "status": 200,
+   "axeViolations": 13,
+   "alfaFailures": 90,
+   "hasIssues": true
+  },
+  "https://iucrc.nsf.gov/centers/achievements/two-dimensional-materials": {
+   "pageId": "b36c2ef821ca30d5",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-27T08:56:15.922Z",
+   "status": 200,
+   "axeViolations": 4,
+   "alfaFailures": 34,
+   "hasIssues": true
+  },
+  "https://iucrc.nsf.gov/centers/center-to-advance-the-science-of-exploration-to-reclamation-in-mining-caserm": {
+   "pageId": "b59c09ecf5355ffb",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-27T08:54:34.971Z",
+   "status": 200,
+   "axeViolations": 13,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://iucrc.nsf.gov/centers/center-for-quantum-technologies": {
+   "pageId": "b8cc7a0997ef8184",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-27T08:55:10.128Z",
+   "status": 200,
+   "axeViolations": 13,
+   "alfaFailures": 100,
+   "hasIssues": true
+  },
+  "https://iucrc.nsf.gov/centers/center-for-high-frequency-electronics-and-circuits-for-communication-systems-checcs": {
+   "pageId": "bf2665a589266a3b",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-27T09:57:37.692Z",
+   "status": 200,
+   "axeViolations": 13,
+   "alfaFailures": 87,
+   "hasIssues": true
+  },
+  "https://iucrc.nsf.gov/centers/achievements/page/7": {
+   "pageId": "c907094144528796",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-27T08:55:47.234Z",
+   "status": 200,
+   "axeViolations": 5,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://iucrc.nsf.gov/centers/center-for-particulate-and-surfactant-systems": {
+   "pageId": "d1a71ad17c2cbde1",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-27T08:55:42.721Z",
+   "status": 200,
+   "axeViolations": 12,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://iucrc.nsf.gov/centers/achievements/medicine-producing-cells": {
+   "pageId": "d88ed4f900b785a7",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-27T09:57:54.480Z",
+   "status": 200,
+   "axeViolations": 3,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://iucrc.nsf.gov/centers/smart-vehicle-concepts": {
+   "pageId": "e09249c1fb565a55",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-27T09:57:43.014Z",
+   "status": 200,
+   "axeViolations": 12,
+   "alfaFailures": 77,
+   "hasIssues": true
+  },
+  "https://iucrc.nsf.gov/centers/center-for-visual-structural-expertise-for-resilience-viser": {
+   "pageId": "ec1d56132b4ae10e",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-27T08:55:34.000Z",
+   "status": 200,
+   "axeViolations": 11,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://iucrc.nsf.gov/centers/wind-hazard-and-infrastructure-performance-old": {
+   "pageId": "ed854310377f66f4",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-27T09:58:53.453Z",
+   "status": 200,
+   "axeViolations": 12,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://iucrc.nsf.gov/centers/assistive-technologies-to-enhance-human-performance": {
+   "pageId": "f4dde08c846d9326",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-27T08:56:06.283Z",
+   "status": 200,
+   "axeViolations": 12,
+   "alfaFailures": 68,
    "hasIssues": true
   }
  },

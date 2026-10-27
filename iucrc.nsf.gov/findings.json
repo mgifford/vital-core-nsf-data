@@ -1,6 +1,6 @@
 {
  "domain": "iucrc.nsf.gov",
- "updatedAt": "2026-10-26T18:51:39.382Z",
+ "updatedAt": "2026-10-27T18:14:34.744Z",
  "findings": {
   "VS-179ad9b3": {
    "engine": "Siteimprove Alfa",
@@ -24,40 +24,40 @@
    "ruleId": "list",
    "summary": "<ul> and <ol> must only directly contain <li>, <script> or <template> elements (WCAG 1.3.1)",
    "wcag": "1.3.1",
-   "severity": "Serious",
+   "severity": "Critical",
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
    "_weeks": [
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 86,
+   "lastPagesAffected": 114,
    "lastAffectedPages": [
     "https://iucrc.nsf.gov/",
     "https://iucrc.nsf.gov/centers/center-for-composite-and-hybrid-materials-interfacing-chmi",
+    "https://iucrc.nsf.gov/centers/center-for-dielectrics-and-piezoelectrics",
     "https://iucrc.nsf.gov/centers/center-for-pharmaceutical-development",
+    "https://iucrc.nsf.gov/centers/center-for-advanced-design-and-man-of-integrated-microfluidics",
     "https://iucrc.nsf.gov/centers/center-for-data-driven-drug-development-and-treatment-assessment-data",
     "https://iucrc.nsf.gov/centers/center-for-research-in-storage-systems",
     "https://iucrc.nsf.gov/centers/center-for-integrated-material-science-and-engineering-of-pharmaceutical-products-cimsepp",
     "https://iucrc.nsf.gov/universities/solicitation/iucrc-interagency-agreement-requests",
+    "https://iucrc.nsf.gov/centers/robots-and-sensors-for-the-human-well-being",
     "https://iucrc.nsf.gov/universities/solicitation/annual-report-instructions",
     "https://iucrc.nsf.gov/centers/center-for-unmanned-aircraft-system",
+    "https://iucrc.nsf.gov/centers/atomically-thin-multifunctional-coatings",
+    "https://iucrc.nsf.gov/centers/science-center-for-marine-fisheries",
     "https://iucrc.nsf.gov/centers/center-for-accurate-georeferencing-of-the-environment",
+    "https://iucrc.nsf.gov/centers/center-for-science-technology-and-advanced-research-in-space-c-stars",
+    "https://iucrc.nsf.gov/centers/novel-high-voltage-temperature-materials-and-structures",
+    "https://iucrc.nsf.gov/centers/center-for-freeform-optics",
     "https://iucrc.nsf.gov/centers/building-energy-smart-technologies-center-best",
     "https://iucrc.nsf.gov/centers/center-for-science-management-applications-regulation-and-training-cyber-smart",
     "https://iucrc.nsf.gov/centers/grid-connected-advanced-power-electronic-systems",
     "https://iucrc.nsf.gov/centers/center-for-identification-technology-research",
     "https://iucrc.nsf.gov/centers/alternative-sustainable-and-intelligent-computing",
     "https://iucrc.nsf.gov/centers/center-for-innovations-in-structural-integrity-assurance-cisia",
-    "https://iucrc.nsf.gov/centers/center-for-tire-research",
-    "https://iucrc.nsf.gov/centers/center-for-advanced-research-in-drying",
-    "https://iucrc.nsf.gov/centers/center-for-cybersecurity-analytics-and-automation",
-    "https://iucrc.nsf.gov/centers/sustainably-integrated-buildings-and-sites",
-    "https://iucrc.nsf.gov/centers/center-for-the-integration-of-composites-into-infrastructure",
-    "https://iucrc.nsf.gov/centers/center-for-surveillance-research",
-    "https://iucrc.nsf.gov/centers/center-for-weather-innovation-smart-energy-and-resilience-wiser",
-    "https://iucrc.nsf.gov/centers/laser-and-plasma-for-advanced-manufacturing",
-    "https://iucrc.nsf.gov/centers/center-for-advanced-research-in-forensic-science"
+    "https://iucrc.nsf.gov/centers/center-for-tire-research"
    ]
   },
   "VS-6175596b": {
@@ -104,13 +104,16 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 50,
+   "lastPagesAffected": 64,
    "lastAffectedPages": [
     "https://iucrc.nsf.gov/",
     "https://iucrc.nsf.gov/centers/center-for-composite-and-hybrid-materials-interfacing-chmi",
+    "https://iucrc.nsf.gov/centers/center-for-dielectrics-and-piezoelectrics",
     "https://iucrc.nsf.gov/centers/center-for-pharmaceutical-development",
     "https://iucrc.nsf.gov/centers/center-for-unmanned-aircraft-system",
+    "https://iucrc.nsf.gov/centers/science-center-for-marine-fisheries",
     "https://iucrc.nsf.gov/centers/center-for-accurate-georeferencing-of-the-environment",
+    "https://iucrc.nsf.gov/centers/center-for-science-technology-and-advanced-research-in-space-c-stars",
     "https://iucrc.nsf.gov/centers/center-for-environmental-sustainability-through-insect-farming",
     "https://iucrc.nsf.gov/centers/building-energy-smart-technologies-center-best",
     "https://iucrc.nsf.gov/centers/alternative-sustainable-and-intelligent-computing",
@@ -121,16 +124,13 @@
     "https://iucrc.nsf.gov/centers/laser-and-plasma-for-advanced-manufacturing",
     "https://iucrc.nsf.gov/centers/center-for-advanced-research-in-forensic-science",
     "https://iucrc.nsf.gov/centers/center-for-advanced-electronics-through-machine-learning",
+    "https://iucrc.nsf.gov/centers/next-generation-photovoltaics",
     "https://iucrc.nsf.gov/centers/center-for-infrastructure-security-in-the-era-of-ai-iseai",
+    "https://iucrc.nsf.gov/centers/center-for-advanced-knowledge-enablement",
     "https://iucrc.nsf.gov/centers/integrated-power-management-circuits-and-systems---power-one-ic",
     "https://iucrc.nsf.gov/centers/center-for-embedded-systems",
     "https://iucrc.nsf.gov/centers/center-for-materials-data-science-for-reliability-and-degradation-mds-rely",
-    "https://iucrc.nsf.gov/centers/center-on-intelligent-storage",
-    "https://iucrc.nsf.gov/centers/center-for-child-injury-prevention-studies",
-    "https://iucrc.nsf.gov/centers/center-on-pervasive-personalized-intelligence-ppi",
-    "https://iucrc.nsf.gov/centers/center-to-stream-healthcare-in-place-c2ship",
-    "https://iucrc.nsf.gov/centers/center-for-bioanalytic-metrology",
-    "https://iucrc.nsf.gov/centers/wood-based-composites"
+    "https://iucrc.nsf.gov/centers/center-for-bioplastics-and-biocomposites"
    ]
   },
   "VS-e5294462": {
@@ -222,15 +222,18 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 62,
+   "lastPagesAffected": 79,
    "lastAffectedPages": [
     "https://iucrc.nsf.gov/",
     "https://iucrc.nsf.gov/centers/center-for-composite-and-hybrid-materials-interfacing-chmi",
+    "https://iucrc.nsf.gov/centers/center-for-dielectrics-and-piezoelectrics",
     "https://iucrc.nsf.gov/centers/center-for-pharmaceutical-development",
     "https://iucrc.nsf.gov/centers/achievements/novel-palladium-graphene-catalysts",
     "https://iucrc.nsf.gov/universities/solicitation/iucrc-interagency-agreement-requests",
     "https://iucrc.nsf.gov/centers/center-for-unmanned-aircraft-system",
+    "https://iucrc.nsf.gov/centers/science-center-for-marine-fisheries",
     "https://iucrc.nsf.gov/centers/center-for-accurate-georeferencing-of-the-environment",
+    "https://iucrc.nsf.gov/centers/center-for-science-technology-and-advanced-research-in-space-c-stars",
     "https://iucrc.nsf.gov/centers/achievements/establishing-a-reference-cell-culture-platform",
     "https://iucrc.nsf.gov/centers/achievements/new-ai-tool",
     "https://iucrc.nsf.gov/centers/building-energy-smart-technologies-center-best",
@@ -243,12 +246,9 @@
     "https://iucrc.nsf.gov/centers/laser-and-plasma-for-advanced-manufacturing",
     "https://iucrc.nsf.gov/centers/center-for-advanced-research-in-forensic-science",
     "https://iucrc.nsf.gov/centers/center-for-advanced-electronics-through-machine-learning",
-    "https://iucrc.nsf.gov/centers/achievements/uncovering-the-life-cycle-of-the-ocean-quahog",
-    "https://iucrc.nsf.gov/centers/achievements/red-mud",
-    "https://iucrc.nsf.gov/centers/center-for-infrastructure-security-in-the-era-of-ai-iseai",
-    "https://iucrc.nsf.gov/centers/achievements/compact-spectrometer-designs",
-    "https://iucrc.nsf.gov/centers/integrated-power-management-circuits-and-systems---power-one-ic",
-    "https://iucrc.nsf.gov/centers/center-for-embedded-systems"
+    "https://iucrc.nsf.gov/centers/next-generation-photovoltaics",
+    "https://iucrc.nsf.gov/centers/achievements/ai-helps-shift-touch-id-to-touchless",
+    "https://iucrc.nsf.gov/centers/achievements/uncovering-the-life-cycle-of-the-ocean-quahog"
    ]
   },
   "VS-c80d5faa": {
@@ -297,9 +297,10 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 11,
+   "lastPagesAffected": 13,
    "lastAffectedPages": [
     "https://iucrc.nsf.gov/",
+    "https://iucrc.nsf.gov/centers/achievements",
     "https://iucrc.nsf.gov/centers/achievements/page/6",
     "https://iucrc.nsf.gov/government",
     "https://iucrc.nsf.gov/universities",
@@ -308,6 +309,7 @@
     "https://iucrc.nsf.gov/centers/achievements/page/4",
     "https://iucrc.nsf.gov/universities/solicitation",
     "https://iucrc.nsf.gov/centers/achievements/page/3",
+    "https://iucrc.nsf.gov/centers/achievements/page/7",
     "https://iucrc.nsf.gov/centers/achievements/page/5",
     "https://iucrc.nsf.gov/industry"
    ]
@@ -358,15 +360,19 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 87,
+   "lastPagesAffected": 105,
    "lastAffectedPages": [
     "https://iucrc.nsf.gov/",
     "https://iucrc.nsf.gov/centers/center-for-composite-and-hybrid-materials-interfacing-chmi",
+    "https://iucrc.nsf.gov/centers/center-for-dielectrics-and-piezoelectrics",
     "https://iucrc.nsf.gov/centers/center-for-pharmaceutical-development",
     "https://iucrc.nsf.gov/centers/achievements/novel-palladium-graphene-catalysts",
     "https://iucrc.nsf.gov/universities/solicitation/iucrc-interagency-agreement-requests",
     "https://iucrc.nsf.gov/centers/center-for-unmanned-aircraft-system",
+    "https://iucrc.nsf.gov/centers/science-center-for-marine-fisheries",
     "https://iucrc.nsf.gov/centers/center-for-accurate-georeferencing-of-the-environment",
+    "https://iucrc.nsf.gov/document",
+    "https://iucrc.nsf.gov/centers/center-for-science-technology-and-advanced-research-in-space-c-stars",
     "https://iucrc.nsf.gov/centers/focus-area/advanced-materials",
     "https://iucrc.nsf.gov/centers/achievements/establishing-a-reference-cell-culture-platform",
     "https://iucrc.nsf.gov/centers/center-for-environmental-sustainability-through-insect-farming",
@@ -380,11 +386,7 @@
     "https://iucrc.nsf.gov/centers/center-for-cybersecurity-analytics-and-automation",
     "https://iucrc.nsf.gov/centers/center-for-the-integration-of-composites-into-infrastructure",
     "https://iucrc.nsf.gov/centers/center-for-weather-innovation-smart-energy-and-resilience-wiser",
-    "https://iucrc.nsf.gov/universities/solicitation/sample-first-iab-meeting-agenda",
-    "https://iucrc.nsf.gov/centers/achievements/new-big-data-method",
-    "https://iucrc.nsf.gov/2019/01/13/an-extra",
-    "https://iucrc.nsf.gov/centers/laser-and-plasma-for-advanced-manufacturing",
-    "https://iucrc.nsf.gov/centers/center-for-advanced-research-in-forensic-science"
+    "https://iucrc.nsf.gov/universities/solicitation/sample-first-iab-meeting-agenda"
    ]
   },
   "VS-2208081b": {
@@ -399,15 +401,19 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 86,
+   "lastPagesAffected": 104,
    "lastAffectedPages": [
     "https://iucrc.nsf.gov/",
     "https://iucrc.nsf.gov/centers/center-for-composite-and-hybrid-materials-interfacing-chmi",
+    "https://iucrc.nsf.gov/centers/center-for-dielectrics-and-piezoelectrics",
     "https://iucrc.nsf.gov/centers/center-for-pharmaceutical-development",
     "https://iucrc.nsf.gov/centers/achievements/novel-palladium-graphene-catalysts",
     "https://iucrc.nsf.gov/universities/solicitation/iucrc-interagency-agreement-requests",
     "https://iucrc.nsf.gov/centers/center-for-unmanned-aircraft-system",
+    "https://iucrc.nsf.gov/centers/science-center-for-marine-fisheries",
     "https://iucrc.nsf.gov/centers/center-for-accurate-georeferencing-of-the-environment",
+    "https://iucrc.nsf.gov/document",
+    "https://iucrc.nsf.gov/centers/center-for-science-technology-and-advanced-research-in-space-c-stars",
     "https://iucrc.nsf.gov/centers/focus-area/advanced-materials",
     "https://iucrc.nsf.gov/centers/achievements/establishing-a-reference-cell-culture-platform",
     "https://iucrc.nsf.gov/centers/center-for-environmental-sustainability-through-insect-farming",
@@ -421,11 +427,7 @@
     "https://iucrc.nsf.gov/centers/center-for-cybersecurity-analytics-and-automation",
     "https://iucrc.nsf.gov/centers/center-for-the-integration-of-composites-into-infrastructure",
     "https://iucrc.nsf.gov/centers/center-for-weather-innovation-smart-energy-and-resilience-wiser",
-    "https://iucrc.nsf.gov/universities/solicitation/sample-first-iab-meeting-agenda",
-    "https://iucrc.nsf.gov/centers/achievements/new-big-data-method",
-    "https://iucrc.nsf.gov/2019/01/13/an-extra",
-    "https://iucrc.nsf.gov/centers/laser-and-plasma-for-advanced-manufacturing",
-    "https://iucrc.nsf.gov/centers/center-for-advanced-research-in-forensic-science"
+    "https://iucrc.nsf.gov/universities/solicitation/sample-first-iab-meeting-agenda"
    ]
   },
   "VS-cb53cc4d": {
@@ -440,15 +442,19 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 87,
+   "lastPagesAffected": 105,
    "lastAffectedPages": [
     "https://iucrc.nsf.gov/",
     "https://iucrc.nsf.gov/centers/center-for-composite-and-hybrid-materials-interfacing-chmi",
+    "https://iucrc.nsf.gov/centers/center-for-dielectrics-and-piezoelectrics",
     "https://iucrc.nsf.gov/centers/center-for-pharmaceutical-development",
     "https://iucrc.nsf.gov/centers/achievements/novel-palladium-graphene-catalysts",
     "https://iucrc.nsf.gov/universities/solicitation/iucrc-interagency-agreement-requests",
     "https://iucrc.nsf.gov/centers/center-for-unmanned-aircraft-system",
+    "https://iucrc.nsf.gov/centers/science-center-for-marine-fisheries",
     "https://iucrc.nsf.gov/centers/center-for-accurate-georeferencing-of-the-environment",
+    "https://iucrc.nsf.gov/document",
+    "https://iucrc.nsf.gov/centers/center-for-science-technology-and-advanced-research-in-space-c-stars",
     "https://iucrc.nsf.gov/centers/focus-area/advanced-materials",
     "https://iucrc.nsf.gov/centers/achievements/establishing-a-reference-cell-culture-platform",
     "https://iucrc.nsf.gov/centers/center-for-environmental-sustainability-through-insect-farming",
@@ -462,11 +468,7 @@
     "https://iucrc.nsf.gov/centers/center-for-cybersecurity-analytics-and-automation",
     "https://iucrc.nsf.gov/centers/center-for-the-integration-of-composites-into-infrastructure",
     "https://iucrc.nsf.gov/centers/center-for-weather-innovation-smart-energy-and-resilience-wiser",
-    "https://iucrc.nsf.gov/universities/solicitation/sample-first-iab-meeting-agenda",
-    "https://iucrc.nsf.gov/centers/achievements/new-big-data-method",
-    "https://iucrc.nsf.gov/2019/01/13/an-extra",
-    "https://iucrc.nsf.gov/centers/laser-and-plasma-for-advanced-manufacturing",
-    "https://iucrc.nsf.gov/centers/center-for-advanced-research-in-forensic-science"
+    "https://iucrc.nsf.gov/universities/solicitation/sample-first-iab-meeting-agenda"
    ]
   },
   "VS-30db094d": {
@@ -481,33 +483,33 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 162,
+   "lastPagesAffected": 203,
    "lastAffectedPages": [
     "https://iucrc.nsf.gov/search",
     "https://iucrc.nsf.gov/centers/achievements/membrane-based-technologies",
     "https://iucrc.nsf.gov/centers/center-calendar",
     "https://iucrc.nsf.gov/",
     "https://iucrc.nsf.gov/centers/center-for-composite-and-hybrid-materials-interfacing-chmi",
+    "https://iucrc.nsf.gov/centers/center-for-dielectrics-and-piezoelectrics",
     "https://iucrc.nsf.gov/centers/center-for-pharmaceutical-development",
+    "https://iucrc.nsf.gov/centers/center-for-advanced-design-and-man-of-integrated-microfluidics",
     "https://iucrc.nsf.gov/centers/center-for-data-driven-drug-development-and-treatment-assessment-data",
     "https://iucrc.nsf.gov/centers/achievements/novel-palladium-graphene-catalysts",
     "https://iucrc.nsf.gov/universities/solicitation/SRO-membership-certification",
     "https://iucrc.nsf.gov/centers/center-for-research-in-storage-systems",
     "https://iucrc.nsf.gov/centers/center-for-integrated-material-science-and-engineering-of-pharmaceutical-products-cimsepp",
     "https://iucrc.nsf.gov/universities/solicitation/iucrc-interagency-agreement-requests",
+    "https://iucrc.nsf.gov/centers/robots-and-sensors-for-the-human-well-being",
     "https://iucrc.nsf.gov/universities/solicitation/annual-report-instructions",
     "https://iucrc.nsf.gov/centers/center-for-unmanned-aircraft-system",
     "https://iucrc.nsf.gov/blog/page/2",
+    "https://iucrc.nsf.gov/centers/atomically-thin-multifunctional-coatings",
+    "https://iucrc.nsf.gov/centers/science-center-for-marine-fisheries",
+    "https://iucrc.nsf.gov/centers/achievements",
     "https://iucrc.nsf.gov/document-with-sidenav",
     "https://iucrc.nsf.gov/centers/center-for-accurate-georeferencing-of-the-environment",
-    "https://iucrc.nsf.gov/centers/achievements/a-new-generation-of-bio-based-adhesives",
-    "https://iucrc.nsf.gov/centers/center-for-electrified-and-automated-trucking-ceat",
-    "https://iucrc.nsf.gov/centers/focus-area/biotechnology",
-    "https://iucrc.nsf.gov/centers/focus-area/advanced-materials",
-    "https://iucrc.nsf.gov/centers/achievements/establishing-a-reference-cell-culture-platform",
-    "https://iucrc.nsf.gov/centers/center-for-environmental-sustainability-through-insect-farming",
-    "https://iucrc.nsf.gov/centers/achievements/page/6",
-    "https://iucrc.nsf.gov/centers/focus-area/energy-and-environment/page/3"
+    "https://iucrc.nsf.gov/document",
+    "https://iucrc.nsf.gov/centers/achievements/a-new-generation-of-bio-based-adhesives"
    ]
   },
   "VS-054101da": {
@@ -522,33 +524,33 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 162,
+   "lastPagesAffected": 203,
    "lastAffectedPages": [
     "https://iucrc.nsf.gov/search",
     "https://iucrc.nsf.gov/centers/achievements/membrane-based-technologies",
     "https://iucrc.nsf.gov/centers/center-calendar",
     "https://iucrc.nsf.gov/",
     "https://iucrc.nsf.gov/centers/center-for-composite-and-hybrid-materials-interfacing-chmi",
+    "https://iucrc.nsf.gov/centers/center-for-dielectrics-and-piezoelectrics",
     "https://iucrc.nsf.gov/centers/center-for-pharmaceutical-development",
+    "https://iucrc.nsf.gov/centers/center-for-advanced-design-and-man-of-integrated-microfluidics",
     "https://iucrc.nsf.gov/centers/center-for-data-driven-drug-development-and-treatment-assessment-data",
     "https://iucrc.nsf.gov/centers/achievements/novel-palladium-graphene-catalysts",
     "https://iucrc.nsf.gov/universities/solicitation/SRO-membership-certification",
     "https://iucrc.nsf.gov/centers/center-for-research-in-storage-systems",
     "https://iucrc.nsf.gov/centers/center-for-integrated-material-science-and-engineering-of-pharmaceutical-products-cimsepp",
     "https://iucrc.nsf.gov/universities/solicitation/iucrc-interagency-agreement-requests",
+    "https://iucrc.nsf.gov/centers/robots-and-sensors-for-the-human-well-being",
     "https://iucrc.nsf.gov/universities/solicitation/annual-report-instructions",
     "https://iucrc.nsf.gov/centers/center-for-unmanned-aircraft-system",
     "https://iucrc.nsf.gov/blog/page/2",
+    "https://iucrc.nsf.gov/centers/atomically-thin-multifunctional-coatings",
+    "https://iucrc.nsf.gov/centers/science-center-for-marine-fisheries",
+    "https://iucrc.nsf.gov/centers/achievements",
     "https://iucrc.nsf.gov/document-with-sidenav",
     "https://iucrc.nsf.gov/centers/center-for-accurate-georeferencing-of-the-environment",
-    "https://iucrc.nsf.gov/centers/achievements/a-new-generation-of-bio-based-adhesives",
-    "https://iucrc.nsf.gov/centers/center-for-electrified-and-automated-trucking-ceat",
-    "https://iucrc.nsf.gov/centers/focus-area/biotechnology",
-    "https://iucrc.nsf.gov/centers/focus-area/advanced-materials",
-    "https://iucrc.nsf.gov/centers/achievements/establishing-a-reference-cell-culture-platform",
-    "https://iucrc.nsf.gov/centers/center-for-environmental-sustainability-through-insect-farming",
-    "https://iucrc.nsf.gov/centers/achievements/page/6",
-    "https://iucrc.nsf.gov/centers/focus-area/energy-and-environment/page/3"
+    "https://iucrc.nsf.gov/document",
+    "https://iucrc.nsf.gov/centers/achievements/a-new-generation-of-bio-based-adhesives"
    ]
   },
   "VS-8806389c": {
@@ -563,33 +565,33 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 162,
+   "lastPagesAffected": 203,
    "lastAffectedPages": [
     "https://iucrc.nsf.gov/search",
     "https://iucrc.nsf.gov/centers/achievements/membrane-based-technologies",
     "https://iucrc.nsf.gov/centers/center-calendar",
     "https://iucrc.nsf.gov/",
     "https://iucrc.nsf.gov/centers/center-for-composite-and-hybrid-materials-interfacing-chmi",
+    "https://iucrc.nsf.gov/centers/center-for-dielectrics-and-piezoelectrics",
     "https://iucrc.nsf.gov/centers/center-for-pharmaceutical-development",
+    "https://iucrc.nsf.gov/centers/center-for-advanced-design-and-man-of-integrated-microfluidics",
     "https://iucrc.nsf.gov/centers/center-for-data-driven-drug-development-and-treatment-assessment-data",
     "https://iucrc.nsf.gov/centers/achievements/novel-palladium-graphene-catalysts",
     "https://iucrc.nsf.gov/universities/solicitation/SRO-membership-certification",
     "https://iucrc.nsf.gov/centers/center-for-research-in-storage-systems",
     "https://iucrc.nsf.gov/centers/center-for-integrated-material-science-and-engineering-of-pharmaceutical-products-cimsepp",
     "https://iucrc.nsf.gov/universities/solicitation/iucrc-interagency-agreement-requests",
+    "https://iucrc.nsf.gov/centers/robots-and-sensors-for-the-human-well-being",
     "https://iucrc.nsf.gov/universities/solicitation/annual-report-instructions",
     "https://iucrc.nsf.gov/centers/center-for-unmanned-aircraft-system",
     "https://iucrc.nsf.gov/blog/page/2",
+    "https://iucrc.nsf.gov/centers/atomically-thin-multifunctional-coatings",
+    "https://iucrc.nsf.gov/centers/science-center-for-marine-fisheries",
+    "https://iucrc.nsf.gov/centers/achievements",
     "https://iucrc.nsf.gov/document-with-sidenav",
     "https://iucrc.nsf.gov/centers/center-for-accurate-georeferencing-of-the-environment",
-    "https://iucrc.nsf.gov/centers/achievements/a-new-generation-of-bio-based-adhesives",
-    "https://iucrc.nsf.gov/centers/center-for-electrified-and-automated-trucking-ceat",
-    "https://iucrc.nsf.gov/centers/focus-area/biotechnology",
-    "https://iucrc.nsf.gov/centers/focus-area/advanced-materials",
-    "https://iucrc.nsf.gov/centers/achievements/establishing-a-reference-cell-culture-platform",
-    "https://iucrc.nsf.gov/centers/center-for-environmental-sustainability-through-insect-farming",
-    "https://iucrc.nsf.gov/centers/achievements/page/6",
-    "https://iucrc.nsf.gov/centers/focus-area/energy-and-environment/page/3"
+    "https://iucrc.nsf.gov/document",
+    "https://iucrc.nsf.gov/centers/achievements/a-new-generation-of-bio-based-adhesives"
    ]
   },
   "VS-d25f622d": {
@@ -604,33 +606,33 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 147,
+   "lastPagesAffected": 185,
    "lastAffectedPages": [
     "https://iucrc.nsf.gov/search",
     "https://iucrc.nsf.gov/centers/achievements/membrane-based-technologies",
     "https://iucrc.nsf.gov/centers/center-calendar",
     "https://iucrc.nsf.gov/",
     "https://iucrc.nsf.gov/centers/center-for-composite-and-hybrid-materials-interfacing-chmi",
+    "https://iucrc.nsf.gov/centers/center-for-dielectrics-and-piezoelectrics",
     "https://iucrc.nsf.gov/centers/center-for-pharmaceutical-development",
+    "https://iucrc.nsf.gov/centers/center-for-advanced-design-and-man-of-integrated-microfluidics",
     "https://iucrc.nsf.gov/centers/center-for-data-driven-drug-development-and-treatment-assessment-data",
     "https://iucrc.nsf.gov/centers/achievements/novel-palladium-graphene-catalysts",
     "https://iucrc.nsf.gov/universities/solicitation/SRO-membership-certification",
     "https://iucrc.nsf.gov/centers/center-for-research-in-storage-systems",
     "https://iucrc.nsf.gov/centers/center-for-integrated-material-science-and-engineering-of-pharmaceutical-products-cimsepp",
     "https://iucrc.nsf.gov/universities/solicitation/iucrc-interagency-agreement-requests",
+    "https://iucrc.nsf.gov/centers/robots-and-sensors-for-the-human-well-being",
     "https://iucrc.nsf.gov/universities/solicitation/annual-report-instructions",
     "https://iucrc.nsf.gov/centers/center-for-unmanned-aircraft-system",
+    "https://iucrc.nsf.gov/centers/atomically-thin-multifunctional-coatings",
+    "https://iucrc.nsf.gov/centers/science-center-for-marine-fisheries",
+    "https://iucrc.nsf.gov/centers/achievements",
     "https://iucrc.nsf.gov/centers/center-for-accurate-georeferencing-of-the-environment",
     "https://iucrc.nsf.gov/centers/achievements/a-new-generation-of-bio-based-adhesives",
+    "https://iucrc.nsf.gov/centers/center-for-science-technology-and-advanced-research-in-space-c-stars",
     "https://iucrc.nsf.gov/centers/center-for-electrified-and-automated-trucking-ceat",
-    "https://iucrc.nsf.gov/centers/focus-area/biotechnology",
-    "https://iucrc.nsf.gov/centers/focus-area/advanced-materials",
-    "https://iucrc.nsf.gov/centers/center-for-environmental-sustainability-through-insect-farming",
-    "https://iucrc.nsf.gov/centers/achievements/page/6",
-    "https://iucrc.nsf.gov/centers/focus-area/energy-and-environment/page/3",
-    "https://iucrc.nsf.gov/centers/achievements/new-ai-tool",
-    "https://iucrc.nsf.gov/centers/building-energy-smart-technologies-center-best",
-    "https://iucrc.nsf.gov/universities/solicitation/center-requirements"
+    "https://iucrc.nsf.gov/centers/focus-area/biotechnology"
    ]
   },
   "VS-d5d82446": {
@@ -645,33 +647,33 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 105,
+   "lastPagesAffected": 135,
    "lastAffectedPages": [
     "https://iucrc.nsf.gov/search",
     "https://iucrc.nsf.gov/centers/center-for-composite-and-hybrid-materials-interfacing-chmi",
+    "https://iucrc.nsf.gov/centers/center-for-dielectrics-and-piezoelectrics",
     "https://iucrc.nsf.gov/centers/center-for-pharmaceutical-development",
+    "https://iucrc.nsf.gov/centers/center-for-advanced-design-and-man-of-integrated-microfluidics",
     "https://iucrc.nsf.gov/centers/center-for-data-driven-drug-development-and-treatment-assessment-data",
     "https://iucrc.nsf.gov/centers/center-for-research-in-storage-systems",
     "https://iucrc.nsf.gov/centers/center-for-integrated-material-science-and-engineering-of-pharmaceutical-products-cimsepp",
+    "https://iucrc.nsf.gov/centers/robots-and-sensors-for-the-human-well-being",
     "https://iucrc.nsf.gov/centers/center-for-unmanned-aircraft-system",
+    "https://iucrc.nsf.gov/centers/atomically-thin-multifunctional-coatings",
+    "https://iucrc.nsf.gov/centers/science-center-for-marine-fisheries",
     "https://iucrc.nsf.gov/document-with-sidenav",
     "https://iucrc.nsf.gov/centers/center-for-accurate-georeferencing-of-the-environment",
+    "https://iucrc.nsf.gov/document",
+    "https://iucrc.nsf.gov/centers/center-for-science-technology-and-advanced-research-in-space-c-stars",
     "https://iucrc.nsf.gov/centers/center-for-electrified-and-automated-trucking-ceat",
     "https://iucrc.nsf.gov/centers/focus-area/biotechnology",
     "https://iucrc.nsf.gov/centers/focus-area/advanced-materials",
     "https://iucrc.nsf.gov/centers/center-for-environmental-sustainability-through-insect-farming",
+    "https://iucrc.nsf.gov/centers/novel-high-voltage-temperature-materials-and-structures",
     "https://iucrc.nsf.gov/centers/focus-area/energy-and-environment/page/3",
+    "https://iucrc.nsf.gov/centers/center-for-freeform-optics",
     "https://iucrc.nsf.gov/centers/building-energy-smart-technologies-center-best",
-    "https://iucrc.nsf.gov/centers/center-for-science-management-applications-regulation-and-training-cyber-smart",
-    "https://iucrc.nsf.gov/centers/grid-connected-advanced-power-electronic-systems",
-    "https://iucrc.nsf.gov/centers/center-for-identification-technology-research",
-    "https://iucrc.nsf.gov/centers/alternative-sustainable-and-intelligent-computing",
-    "https://iucrc.nsf.gov/centers/center-for-innovations-in-structural-integrity-assurance-cisia",
-    "https://iucrc.nsf.gov/centers/center-for-tire-research",
-    "https://iucrc.nsf.gov/centers/center-for-advanced-research-in-drying",
-    "https://iucrc.nsf.gov/centers/center-for-cybersecurity-analytics-and-automation",
-    "https://iucrc.nsf.gov/centers/focus-area/advanced-electronics",
-    "https://iucrc.nsf.gov/centers/sustainably-integrated-buildings-and-sites"
+    "https://iucrc.nsf.gov/centers/center-for-science-management-applications-regulation-and-training-cyber-smart"
    ]
   },
   "VS-f18df681": {
@@ -686,33 +688,33 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 104,
+   "lastPagesAffected": 134,
    "lastAffectedPages": [
     "https://iucrc.nsf.gov/search",
     "https://iucrc.nsf.gov/centers/center-for-composite-and-hybrid-materials-interfacing-chmi",
+    "https://iucrc.nsf.gov/centers/center-for-dielectrics-and-piezoelectrics",
     "https://iucrc.nsf.gov/centers/center-for-pharmaceutical-development",
+    "https://iucrc.nsf.gov/centers/center-for-advanced-design-and-man-of-integrated-microfluidics",
     "https://iucrc.nsf.gov/centers/center-for-data-driven-drug-development-and-treatment-assessment-data",
     "https://iucrc.nsf.gov/centers/center-for-research-in-storage-systems",
     "https://iucrc.nsf.gov/centers/center-for-integrated-material-science-and-engineering-of-pharmaceutical-products-cimsepp",
+    "https://iucrc.nsf.gov/centers/robots-and-sensors-for-the-human-well-being",
     "https://iucrc.nsf.gov/centers/center-for-unmanned-aircraft-system",
+    "https://iucrc.nsf.gov/centers/atomically-thin-multifunctional-coatings",
+    "https://iucrc.nsf.gov/centers/science-center-for-marine-fisheries",
     "https://iucrc.nsf.gov/document-with-sidenav",
     "https://iucrc.nsf.gov/centers/center-for-accurate-georeferencing-of-the-environment",
+    "https://iucrc.nsf.gov/document",
+    "https://iucrc.nsf.gov/centers/center-for-science-technology-and-advanced-research-in-space-c-stars",
     "https://iucrc.nsf.gov/centers/center-for-electrified-and-automated-trucking-ceat",
     "https://iucrc.nsf.gov/centers/focus-area/biotechnology",
     "https://iucrc.nsf.gov/centers/focus-area/advanced-materials",
     "https://iucrc.nsf.gov/centers/center-for-environmental-sustainability-through-insect-farming",
+    "https://iucrc.nsf.gov/centers/novel-high-voltage-temperature-materials-and-structures",
     "https://iucrc.nsf.gov/centers/focus-area/energy-and-environment/page/3",
+    "https://iucrc.nsf.gov/centers/center-for-freeform-optics",
     "https://iucrc.nsf.gov/centers/building-energy-smart-technologies-center-best",
-    "https://iucrc.nsf.gov/centers/center-for-science-management-applications-regulation-and-training-cyber-smart",
-    "https://iucrc.nsf.gov/centers/grid-connected-advanced-power-electronic-systems",
-    "https://iucrc.nsf.gov/centers/center-for-identification-technology-research",
-    "https://iucrc.nsf.gov/centers/alternative-sustainable-and-intelligent-computing",
-    "https://iucrc.nsf.gov/centers/center-for-innovations-in-structural-integrity-assurance-cisia",
-    "https://iucrc.nsf.gov/centers/center-for-tire-research",
-    "https://iucrc.nsf.gov/centers/center-for-advanced-research-in-drying",
-    "https://iucrc.nsf.gov/centers/center-for-cybersecurity-analytics-and-automation",
-    "https://iucrc.nsf.gov/centers/focus-area/advanced-electronics",
-    "https://iucrc.nsf.gov/centers/sustainably-integrated-buildings-and-sites"
+    "https://iucrc.nsf.gov/centers/center-for-science-management-applications-regulation-and-training-cyber-smart"
    ]
   },
   "VS-c18be945": {
@@ -727,15 +729,19 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 86,
+   "lastPagesAffected": 104,
    "lastAffectedPages": [
     "https://iucrc.nsf.gov/",
     "https://iucrc.nsf.gov/centers/center-for-composite-and-hybrid-materials-interfacing-chmi",
+    "https://iucrc.nsf.gov/centers/center-for-dielectrics-and-piezoelectrics",
     "https://iucrc.nsf.gov/centers/center-for-pharmaceutical-development",
     "https://iucrc.nsf.gov/centers/achievements/novel-palladium-graphene-catalysts",
     "https://iucrc.nsf.gov/universities/solicitation/iucrc-interagency-agreement-requests",
     "https://iucrc.nsf.gov/centers/center-for-unmanned-aircraft-system",
+    "https://iucrc.nsf.gov/centers/science-center-for-marine-fisheries",
     "https://iucrc.nsf.gov/centers/center-for-accurate-georeferencing-of-the-environment",
+    "https://iucrc.nsf.gov/document",
+    "https://iucrc.nsf.gov/centers/center-for-science-technology-and-advanced-research-in-space-c-stars",
     "https://iucrc.nsf.gov/centers/focus-area/advanced-materials",
     "https://iucrc.nsf.gov/centers/achievements/establishing-a-reference-cell-culture-platform",
     "https://iucrc.nsf.gov/centers/center-for-environmental-sustainability-through-insect-farming",
@@ -749,11 +755,7 @@
     "https://iucrc.nsf.gov/centers/center-for-cybersecurity-analytics-and-automation",
     "https://iucrc.nsf.gov/centers/center-for-the-integration-of-composites-into-infrastructure",
     "https://iucrc.nsf.gov/centers/center-for-weather-innovation-smart-energy-and-resilience-wiser",
-    "https://iucrc.nsf.gov/universities/solicitation/sample-first-iab-meeting-agenda",
-    "https://iucrc.nsf.gov/centers/achievements/new-big-data-method",
-    "https://iucrc.nsf.gov/2019/01/13/an-extra",
-    "https://iucrc.nsf.gov/centers/laser-and-plasma-for-advanced-manufacturing",
-    "https://iucrc.nsf.gov/centers/center-for-advanced-research-in-forensic-science"
+    "https://iucrc.nsf.gov/universities/solicitation/sample-first-iab-meeting-agenda"
    ]
   },
   "VS-f054f4a4": {
@@ -768,15 +770,18 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 78,
+   "lastPagesAffected": 94,
    "lastAffectedPages": [
     "https://iucrc.nsf.gov/",
     "https://iucrc.nsf.gov/centers/center-for-composite-and-hybrid-materials-interfacing-chmi",
+    "https://iucrc.nsf.gov/centers/center-for-dielectrics-and-piezoelectrics",
     "https://iucrc.nsf.gov/centers/center-for-pharmaceutical-development",
     "https://iucrc.nsf.gov/centers/achievements/novel-palladium-graphene-catalysts",
     "https://iucrc.nsf.gov/universities/solicitation/iucrc-interagency-agreement-requests",
     "https://iucrc.nsf.gov/centers/center-for-unmanned-aircraft-system",
+    "https://iucrc.nsf.gov/centers/science-center-for-marine-fisheries",
     "https://iucrc.nsf.gov/centers/center-for-accurate-georeferencing-of-the-environment",
+    "https://iucrc.nsf.gov/centers/center-for-science-technology-and-advanced-research-in-space-c-stars",
     "https://iucrc.nsf.gov/centers/focus-area/advanced-materials",
     "https://iucrc.nsf.gov/centers/center-for-environmental-sustainability-through-insect-farming",
     "https://iucrc.nsf.gov/centers/focus-area/energy-and-environment/page/3",
@@ -791,10 +796,7 @@
     "https://iucrc.nsf.gov/centers/center-for-weather-innovation-smart-energy-and-resilience-wiser",
     "https://iucrc.nsf.gov/universities/solicitation/sample-first-iab-meeting-agenda",
     "https://iucrc.nsf.gov/2019/01/13/an-extra",
-    "https://iucrc.nsf.gov/centers/laser-and-plasma-for-advanced-manufacturing",
-    "https://iucrc.nsf.gov/centers/center-for-advanced-research-in-forensic-science",
-    "https://iucrc.nsf.gov/centers/center-for-advanced-electronics-through-machine-learning",
-    "https://iucrc.nsf.gov/centers/achievements/page/2"
+    "https://iucrc.nsf.gov/centers/laser-and-plasma-for-advanced-manufacturing"
    ]
   },
   "VS-3d033717": {
@@ -809,12 +811,15 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 48,
+   "lastPagesAffected": 62,
    "lastAffectedPages": [
     "https://iucrc.nsf.gov/centers/center-for-composite-and-hybrid-materials-interfacing-chmi",
+    "https://iucrc.nsf.gov/centers/center-for-dielectrics-and-piezoelectrics",
     "https://iucrc.nsf.gov/centers/center-for-pharmaceutical-development",
     "https://iucrc.nsf.gov/centers/center-for-unmanned-aircraft-system",
+    "https://iucrc.nsf.gov/centers/science-center-for-marine-fisheries",
     "https://iucrc.nsf.gov/centers/center-for-accurate-georeferencing-of-the-environment",
+    "https://iucrc.nsf.gov/centers/center-for-science-technology-and-advanced-research-in-space-c-stars",
     "https://iucrc.nsf.gov/centers/center-for-environmental-sustainability-through-insect-farming",
     "https://iucrc.nsf.gov/centers/building-energy-smart-technologies-center-best",
     "https://iucrc.nsf.gov/centers/alternative-sustainable-and-intelligent-computing",
@@ -825,17 +830,14 @@
     "https://iucrc.nsf.gov/centers/laser-and-plasma-for-advanced-manufacturing",
     "https://iucrc.nsf.gov/centers/center-for-advanced-research-in-forensic-science",
     "https://iucrc.nsf.gov/centers/center-for-advanced-electronics-through-machine-learning",
+    "https://iucrc.nsf.gov/centers/next-generation-photovoltaics",
     "https://iucrc.nsf.gov/centers/center-for-infrastructure-security-in-the-era-of-ai-iseai",
+    "https://iucrc.nsf.gov/centers/center-for-advanced-knowledge-enablement",
     "https://iucrc.nsf.gov/centers/integrated-power-management-circuits-and-systems---power-one-ic",
     "https://iucrc.nsf.gov/centers/center-for-embedded-systems",
     "https://iucrc.nsf.gov/centers/center-for-materials-data-science-for-reliability-and-degradation-mds-rely",
-    "https://iucrc.nsf.gov/centers/center-on-intelligent-storage",
-    "https://iucrc.nsf.gov/centers/center-for-child-injury-prevention-studies",
-    "https://iucrc.nsf.gov/centers/center-on-pervasive-personalized-intelligence-ppi",
-    "https://iucrc.nsf.gov/centers/center-to-stream-healthcare-in-place-c2ship",
-    "https://iucrc.nsf.gov/centers/center-for-bioanalytic-metrology",
-    "https://iucrc.nsf.gov/centers/wood-based-composites",
-    "https://iucrc.nsf.gov/centers/center-for-arthropod-management-technologies"
+    "https://iucrc.nsf.gov/centers/center-for-bioplastics-and-biocomposites",
+    "https://iucrc.nsf.gov/centers/center-on-intelligent-storage"
    ]
   },
   "VS-2cd767ca": {
