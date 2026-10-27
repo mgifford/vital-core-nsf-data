@@ -1,0 +1,166 @@
+{
+ "runId": "2026-10-27T08-54-22-927Z-8ab5fd",
+ "week": "2026-W44",
+ "domain": "ncses.nsf.gov",
+ "startedAt": "2026-10-27T08:54:24.571Z",
+ "scanned": [
+  "a578670257f4f2aa",
+  "94ad6f580f2236d5",
+  "4a564713e8a2be34",
+  "cd999e4bed1a5e0f",
+  "4cd7950a14bfff81",
+  "24fc8e895acb9480",
+  "4cbe080031aebbcf",
+  "33f0d6a472265363",
+  "041f33604e6e4398",
+  "13a1a7c44e39617f",
+  "f6c370ced452f237",
+  "5e157ad1130d2fa4",
+  "0ba6ab7eb3e81324",
+  "d745ea600692defc",
+  "d46a04e7d801a67b"
+ ],
+ "errors": [
+  {
+   "pageId": "a1bfca264280f4d4",
+   "url": "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-40",
+   "error": "Error: page.goto: net::ERR_CONNECTION_RESET at http://ncses.nsf.gov/pubs/nsb20262/table/STRN-40\nCall log:\n  - navigating to \"http://ncses.nsf.gov/pubs/nsb20262/table/STRN-40\", waiting until \"load\"\n"
+  },
+  {
+   "pageId": "ad94a4102495a2b7",
+   "url": "http://ncses.nsf.gov/pubs/nsf25354/surveypage/table/14917",
+   "error": "Error: page.goto: net::ERR_CONNECTION_RESET at http://ncses.nsf.gov/pubs/nsf25354/surveypage/table/14917\nCall log:\n  - navigating to \"http://ncses.nsf.gov/pubs/nsf25354/surveypage/table/14917\", waiting until \"load\"\n"
+  },
+  {
+   "pageId": "1092fe0b67a9acc4",
+   "url": "http://ncses.nsf.gov/indicators/about",
+   "error": "Error: page.goto: net::ERR_CONNECTION_RESET at http://ncses.nsf.gov/indicators/about\nCall log:\n  - navigating to \"http://ncses.nsf.gov/indicators/about\", waiting until \"load\"\n"
+  },
+  {
+   "pageId": "aa81dfafad40ae4b",
+   "url": "http://ncses.nsf.gov/pubs/nsf25300/figure/1",
+   "error": "Error: page.goto: net::ERR_CONNECTION_RESET at http://ncses.nsf.gov/pubs/nsf25300/figure/1\nCall log:\n  - navigating to \"http://ncses.nsf.gov/pubs/nsf25300/figure/1\", waiting until \"load\"\n"
+  },
+  {
+   "pageId": "7e6fda9233c30786",
+   "url": "http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-B",
+   "error": "Error: page.goto: net::ERR_CONNECTION_RESET at http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-B\nCall log:\n  - navigating to \"http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-B\", waiting until \"load\"\n"
+  },
+  {
+   "pageId": "24b2145b32990200",
+   "url": "http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-8",
+   "error": "Error: page.goto: net::ERR_CONNECTION_RESET at http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-8\nCall log:\n  - navigating to \"http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-8\", waiting until \"load\"\n"
+  },
+  {
+   "pageId": "99e698d60ff2be45",
+   "url": "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-30",
+   "error": "Error: page.goto: net::ERR_CONNECTION_RESET at http://ncses.nsf.gov/pubs/nsb20262/table/STRN-30\nCall log:\n  - navigating to \"http://ncses.nsf.gov/pubs/nsb20262/table/STRN-30\", waiting until \"load\"\n"
+  },
+  {
+   "pageId": "d6879778d7ac5b59",
+   "url": "http://ncses.nsf.gov/pubs/nsf25331",
+   "error": "Error: page.goto: net::ERR_CONNECTION_RESET at http://ncses.nsf.gov/pubs/nsf25331\nCall log:\n  - navigating to \"http://ncses.nsf.gov/pubs/nsf25331\", waiting until \"load\"\n"
+  },
+  {
+   "pageId": "ee6d0ec8e479b339",
+   "url": "http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-18",
+   "error": "Error: page.goto: net::ERR_CONNECTION_RESET at http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-18\nCall log:\n  - navigating to \"http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-18\", waiting until \"load\"\n"
+  },
+  {
+   "pageId": "1991be3346f5292e",
+   "url": "http://ncses.nsf.gov/pubs/nsb20262/table/STRN-8",
+   "error": "Error: page.goto: net::ERR_CONNECTION_RESET at http://ncses.nsf.gov/pubs/nsb20262/table/STRN-8\nCall log:\n  - navigating to \"http://ncses.nsf.gov/pubs/nsb20262/table/STRN-8\", waiting until \"load\"\n"
+  }
+ ],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 2406,
+  "checked": 500,
+  "brokenCount": 5,
+  "broken": [
+   {
+    "url": "https://aishe.gov.in/aishe/gotoAisheReports",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20261/figure/TAL-40"
+    ]
+   },
+   {
+    "url": "https://www.census.gov/",
+    "status": 0,
+    "reason": "timeout",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20261/figure/TAL-40",
+     "http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-33",
+     "https://ncses.nsf.gov/pubs/nsb20226/table/SKTI-10"
+    ]
+   },
+   {
+    "url": "https://www.census.gov/programs-surveys/acs",
+    "status": 0,
+    "reason": "timeout",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20261/figure/TAL-40",
+     "https://ncses.nsf.gov/pubs/nsb20226/table/SKTI-10"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/sed/",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsf25349/table/A-2"
+    ]
+   },
+   {
+    "url": "https://www.census.gov/programs-surveys/popest.html",
+    "status": 0,
+    "reason": "timeout",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20261/figure/TAL-40"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 15,
+  "alfa": 3,
+  "resources": 15,
+  "images": 15,
+  "standards": 7,
+  "link-check": 15,
+  "plain-language": 9,
+  "deprecated-html": 2,
+  "lighthouse": 2,
+  "sustainability": 1,
+  "third-party": 4,
+  "tech": 1
+ },
+ "tally": {
+  "ok": 15,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 10
+ },
+ "finishedAt": "2026-10-27T08:58:21.325Z"
+}
