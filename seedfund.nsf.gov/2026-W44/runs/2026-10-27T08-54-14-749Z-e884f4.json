@@ -1,0 +1,138 @@
+{
+ "runId": "2026-10-27T08-54-14-749Z-e884f4",
+ "week": "2026-W44",
+ "domain": "seedfund.nsf.gov",
+ "startedAt": "2026-10-27T08:54:16.388Z",
+ "scanned": [
+  "314b179376e848a0",
+  "11b83b3337b2d25f",
+  "7528cf7d8cc8b7e8",
+  "66515e808046f31e",
+  "1607311a112f2a56",
+  "efaaba7d0f6d8b20",
+  "07007eab55cec96c",
+  "a6a00abbd620d326",
+  "67e2540ac044cf59",
+  "7d41e5964221228f",
+  "f8c530d930b090f2",
+  "7e36fb33605bbf19",
+  "4181fbe1a22333ef",
+  "0e5c2bb698f4c07b",
+  "f65bca72521c3597",
+  "3128c11cfbe395ff",
+  "1150daab79422c4c",
+  "027db09e2ae2c3b7",
+  "6c919db6f50a490a",
+  "0cccd5db5c699d90",
+  "5958592dcd59a2ea",
+  "aa0f27016c91c5d4",
+  "5755d7f7c7a9a5bd",
+  "9fcba7ab94423924",
+  "cc49e366bc904967"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 128,
+  "checked": 128,
+  "brokenCount": 7,
+  "broken": [
+   {
+    "url": "http://www.pathex.co/",
+    "status": 0,
+    "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
+    "foundOn": [
+     "https://seedfund.nsf.gov/awardees/history/details?company=path-ex"
+    ]
+   },
+   {
+    "url": "http://www.solchroma.com/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://seedfund.nsf.gov/portfolio/details?company=solchroma-technologies-inc"
+    ]
+   },
+   {
+    "url": "https://airloomenergy.com/",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://seedfund.nsf.gov/news/airloom-energy"
+    ]
+   },
+   {
+    "url": "https://18f.gsa.gov/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://seedfund.nsf.gov/styleguide/images"
+    ]
+   },
+   {
+    "url": "https://guides.18f.gov/accessibility/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://seedfund.nsf.gov/styleguide/images"
+    ]
+   },
+   {
+    "url": "https://seedfund.nsf.gov/styleguide/blog",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://seedfund.nsf.gov/styleguide/images"
+    ]
+   },
+   {
+    "url": "https://solaridipm.com/",
+    "status": 0,
+    "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
+    "foundOn": [
+     "https://seedfund.nsf.gov/news/solarid-ar"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 25,
+  "alfa": 14,
+  "plain-language": 11,
+  "resources": 25,
+  "images": 25,
+  "standards": 14,
+  "link-check": 25,
+  "third-party": 8,
+  "public-interest": 2,
+  "lighthouse": 3,
+  "tech": 1,
+  "security": 3
+ },
+ "tally": {
+  "ok": 25,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-27T08:57:22.620Z"
+}
