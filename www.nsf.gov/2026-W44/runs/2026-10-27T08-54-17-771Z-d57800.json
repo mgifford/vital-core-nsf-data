@@ -1,0 +1,234 @@
+{
+ "runId": "2026-10-27T08-54-17-771Z-d57800",
+ "week": "2026-W44",
+ "domain": "www.nsf.gov",
+ "startedAt": "2026-10-27T08:54:18.171Z",
+ "scanned": [
+  "d0d4bd28aa8dda62",
+  "18e89608877a2d3a",
+  "f08195e5bda9ef1e",
+  "77cdbdc876f91aa8",
+  "88302e61d592cda4",
+  "5affca283d7fd6a8",
+  "982a4cf6a7927aed",
+  "1010f1c9b0234240",
+  "39e3b50613a899f3",
+  "de0c1fba15c1a17c",
+  "9abdf3fd2e51252d",
+  "ce403925d4b8a02b",
+  "3df2bbbd3389a01d",
+  "0d5fa989ae398193",
+  "389725d366517319",
+  "f29b3de460a6ea54",
+  "21bbfbb46d8a56ac",
+  "5190fe2ad66db34f",
+  "e1e04f34e08b00b7",
+  "613c43fbc8c62b5a",
+  "01dfc065fe9eb647",
+  "cd2aa3d7a2e6e61f",
+  "6970bf52bbb5095d",
+  "e81bf6abce4123f5"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 386,
+  "checked": 386,
+  "brokenCount": 19,
+  "broken": [
+   {
+    "url": "https://www.fastlane.nsf.gov/a1/newstan.htm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/peet-partnerships-enhancing-expertise-taxonomy/5451/nsf07-519/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/sbe/int/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/peet-partnerships-enhancing-expertise-taxonomy/5451/nsf07-519/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=aag",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/peet-partnerships-enhancing-expertise-taxonomy/5451/nsf07-519/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/cise/bpc",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/future-core-computer-information-science-engineering-future-computing/nsf23-561/solicitation"
+    ]
+   },
+   {
+    "url": "https://photolibrary.usap.gov/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/od/opp/ail/amundson-scott-south-pole-station"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/nsf/ere",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/news/research-discovery-pearl-hope-imperiled-oyster-reefs"
+    ]
+   },
+   {
+    "url": "http://neuroscienceblueprint.nih.gov/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/crcns-collaborative-research-computational-neuroscience"
+    ]
+   },
+   {
+    "url": "http://crcns2016.anr.fr/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/crcns-collaborative-research-computational-neuroscience"
+    ]
+   },
+   {
+    "url": "http://crcns2017.brown.edu/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/crcns-collaborative-research-computational-neuroscience"
+    ]
+   },
+   {
+    "url": "http://www.nsf.gov/cise/news/crcns-us-israel-report.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/crcns-collaborative-research-computational-neuroscience"
+    ]
+   },
+   {
+    "url": "http://www.nsf.gov/cise/iis/crcns-us-germany-report.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/crcns-collaborative-research-computational-neuroscience"
+    ]
+   },
+   {
+    "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf0960",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/crcns-collaborative-research-computational-neuroscience"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubs/2021/nsf21011/nsf21011.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/srs-rns-sustainable-regional-systems-research-networks/505707/updates/94729"
+    ]
+   },
+   {
+    "url": "https://pamspublic.science.energy.gov/WebPAMSExternal/Interface/Awards/AwardSearchExternal.aspx",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/crcns-collaborative-research-computational-neuroscience"
+    ]
+   },
+   {
+    "url": "http://ilab.usc.edu/crcns08/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/crcns-collaborative-research-computational-neuroscience"
+    ]
+   },
+   {
+    "url": "https://bluejeans.com/647487561",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-stimulating-research-effective-strategies-undergraduate-stem/nsf15-078"
+    ]
+   },
+   {
+    "url": "https://bluejeans.com/458616321",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-stimulating-research-effective-strategies-undergraduate-stem/nsf15-078"
+    ]
+   },
+   {
+    "url": "https://bluejeans.com/820621887",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-stimulating-research-effective-strategies-undergraduate-stem/nsf15-078"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf13127",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-stimulating-research-effective-strategies-undergraduate-stem/nsf15-078"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 24,
+  "plain-language": 18,
+  "resources": 24,
+  "images": 24,
+  "third-party": 4,
+  "link-check": 24,
+  "standards": 6,
+  "lighthouse": 4,
+  "alfa": 10,
+  "deprecated-html": 5,
+  "security": 2,
+  "sustainability": 1,
+  "public-interest": 2
+ },
+ "tally": {
+  "ok": 24,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 1,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-27T08:58:11.409Z"
+}
