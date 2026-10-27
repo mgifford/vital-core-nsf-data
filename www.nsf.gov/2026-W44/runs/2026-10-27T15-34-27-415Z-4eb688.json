@@ -1,0 +1,179 @@
+{
+ "runId": "2026-10-27T15-34-27-415Z-4eb688",
+ "week": "2026-W44",
+ "domain": "www.nsf.gov",
+ "startedAt": "2026-10-27T15:34:27.946Z",
+ "scanned": [
+  "618e51a768266b22",
+  "6f0be567d29c5935",
+  "a2caaf9c3a8a9ec3",
+  "b926049c603cc982",
+  "cc96cfda0fb7cbeb",
+  "bb53fcc3590cc396",
+  "0818e993a6cab5e9",
+  "fc7470d29eb94b68",
+  "6a7f0188eb1b33b8",
+  "b9c137a90374e0fd",
+  "0f3ad40715f0dd44",
+  "c9f5cf729c1f15f0",
+  "6bad1bace3b7ec43",
+  "f45194e5c7c90c51",
+  "aadcf401d953cfc4",
+  "098beb35e1f53008",
+  "fe5726f398dde85e",
+  "20f84cbd004af76a",
+  "441dc751032ea986",
+  "ef71fe68c580a6a4",
+  "e130f037c7d608d7",
+  "af929d15b192975a",
+  "b34af0395457a765"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 218,
+  "checked": 218,
+  "brokenCount": 12,
+  "broken": [
+   {
+    "url": "https://www.fastlane.nsf.gov/a1/newstan.htm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/iucrc-industry-university-cooperative-research-centers-program/5501/nsf13-594/solicitation",
+     "https://www.nsf.gov/funding/opportunities/cdse-eng-computational-data-enabled-science-engineering-engineering/504770/105381/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubs/2014/nsf14043/nsf14043.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/iucrc-industry-university-cooperative-research-centers-program/5501/nsf13-594/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=aag",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/iucrc-industry-university-cooperative-research-centers-program/5501/nsf13-594/solicitation",
+     "https://www.nsf.gov/funding/opportunities/cdse-eng-computational-data-enabled-science-engineering-engineering/504770/105381/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/policies/SOR_PA_NSF-50_Principal_Investigator_Proposal_File.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/iucrc-industry-university-cooperative-research-centers-program/5501/nsf13-594/solicitation",
+     "https://www.nsf.gov/funding/opportunities/cdse-eng-computational-data-enabled-science-engineering-engineering/504770/105381/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/mps/cds-e/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/cdse-eng-computational-data-enabled-science-engineering-engineering/504770/105381/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/eng/eec/VeteranEducation.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-research-experiences-undergraduates-reu-supplemental-funding/nsf14-055"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJItc-irpz8vHPCHpKyKDchhLD58jHoPimw",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/future-research-directions-cise-community-cise-rv-program/2024-05-03"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/eng/iip/sbir/phase_II.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-projects-awarded-phase-i-under-solicitation-small-business/nsf14-103"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/staff/staff_list.jsp?orgId=115&subDiv=y&org=IIP&from_org=IIP",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-projects-awarded-phase-i-under-solicitation-small-business/nsf14-103"
+    ]
+   },
+   {
+    "url": "http://sbir.gov/sites/default/files/sbir_pd_with_1-8-14_amendments_2-24-14.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-projects-awarded-phase-i-under-solicitation-small-business/nsf14-103"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_1EK9rndeTnyBKkkL2bClhg",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/ms-cc-community-based-approach-bridging-digital-divide-ana/2023-03-08"
+    ]
+   },
+   {
+    "url": "http://www07.grants.gov/applicants/app_help_reso.jsp",
+    "status": 0,
+    "reason": "EAI_AGAIN",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/cdse-eng-computational-data-enabled-science-engineering-engineering/504770/105381/solicitation"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 23,
+  "plain-language": 15,
+  "resources": 23,
+  "images": 23,
+  "link-check": 23,
+  "alfa": 10,
+  "standards": 8,
+  "public-interest": 2,
+  "security": 3,
+  "third-party": 6,
+  "lighthouse": 1,
+  "deprecated-html": 1
+ },
+ "tally": {
+  "ok": 23,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 2,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-27T15:38:03.451Z"
+}
