@@ -1,0 +1,162 @@
+{
+ "runId": "2026-10-28T09-34-41-978Z-9634aa",
+ "week": "2026-W44",
+ "domain": "www.nsf.gov",
+ "startedAt": "2026-10-28T09:34:42.367Z",
+ "scanned": [
+  "e2c6ee077d23888f",
+  "ae82bcb521f4e502",
+  "b68b5288b5f9a28f",
+  "3e5e80a8a87f1dfe",
+  "91822bb4018234ed",
+  "0563cb540d1a154a",
+  "f11c6f9ddcc6151b",
+  "4707e44b0d1eb927",
+  "7bb071700bd12046",
+  "62df29fc66e53568",
+  "26c4392dffa488bf",
+  "e818d1cae0238681",
+  "bd935d7bdcd36caf",
+  "f8c8831ff4aaf9ea",
+  "3a2a7caf1ccd0806",
+  "ac07b95e697677e6",
+  "55ba8d8b6b80b98a",
+  "2ddb4e0cc3ac0839",
+  "3813b5818ef90b7b",
+  "30902b03755c295a",
+  "b0b213c9bc46a9d9",
+  "9eb2cbaa54051efa",
+  "e5c530f99a74a4c6",
+  "67033fd4a5fc3839",
+  "2ef4939de5947584"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 351,
+  "checked": 351,
+  "brokenCount": 10,
+  "broken": [
+   {
+    "url": "https://www.nsf.gov/geo/ear/resubmission_policy.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-removal-deadlines-program-solicitations-within-surface-earth/nsf15-020"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_ivbJoq0MT92OxHc5uAJUUw",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/build-broaden-30-webinar"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_awyzfxMkR_6yADqYehd3rA",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/research-experiences-teachers-sites-biological-sciences/2023-06-12"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJItd--pqzMuHMxNoZu6TdJ92B_kJt18smY",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/engineering-education-webinar-research-initiation/2025-06-03"
+    ]
+   },
+   {
+    "url": "https://ioc.unesco.org/news/indigenous-knowledge-pacific-islands-and-un-ocean-decade",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/science-matters/pacific-islands-front-line-battle-against-climate-change"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_gzI_WsL7SLq09ZixVJgAkw",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/alan-t-waterman-awardee-lecture-asegun-henry-phd"
+    ]
+   },
+   {
+    "url": "http://www.nsf.gov/pubs/2014/nsf14011/nsf14011.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/coastal-sees-coastal-sees/504816/nsf14-502"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJIsdu2hqDItGq1VIdkRCQxBGFqnI5CfET4",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/dmr-open-hour-tmrp-cmmt-solicitation-qa/2023-08-25"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_svmWdM_AQyKcoWLUgm0eVw",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/leaps-mps-webinar-0"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJIsce6srjoiHhMVLDIkY5ItlC0Q2KYINCU",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/antarctic-science-infrastructure-logistics-office-hours/2023-07-26"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 24,
+  "alfa": 12,
+  "resources": 24,
+  "images": 24,
+  "standards": 12,
+  "link-check": 24,
+  "plain-language": 9,
+  "third-party": 9,
+  "security": 1,
+  "public-interest": 2,
+  "deprecated-html": 1,
+  "sustainability": 1
+ },
+ "tally": {
+  "ok": 24,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-28T09:37:58.794Z"
+}
