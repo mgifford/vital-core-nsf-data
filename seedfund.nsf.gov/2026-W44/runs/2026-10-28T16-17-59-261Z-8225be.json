@@ -1,0 +1,148 @@
+{
+ "runId": "2026-10-28T16-17-59-261Z-8225be",
+ "week": "2026-W44",
+ "domain": "seedfund.nsf.gov",
+ "startedAt": "2026-10-28T16:18:01.065Z",
+ "scanned": [
+  "9fd1a6f09a760a47",
+  "28a46482487342d1",
+  "d7585ece83967439",
+  "7a0fe8f0ad4f88b2",
+  "ea1a95a2e088ea14",
+  "f29a939c16f72e84",
+  "b31955a78a209788",
+  "aa89dc023b0fd300",
+  "df4c49e4e02409fc",
+  "1ee5548d2fb80d39",
+  "8f52a7811ae87f7d",
+  "70d26b05e060c2d0",
+  "ec2fb566eba39618",
+  "723d8ae82d6ceeeb",
+  "c8f8f0723a73ed82",
+  "d0077a87ce7e97e3",
+  "6ba528a737a9212a",
+  "2e9278f523a0ee05",
+  "c5d920eb19ec2f54",
+  "eb809796cb9882bc",
+  "e769ba2b4b7931f6",
+  "2f762a437ea2a394",
+  "49ce622d68e72c0c",
+  "fe39ae1dc8177203",
+  "fb2959213a9787a7"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 873,
+  "checked": 500,
+  "brokenCount": 8,
+  "broken": [
+   {
+    "url": "https://www.knoxnews.com/story/money/business/2025/01/12/40-under-40-sam-rosolina-microbial-insights/75673324007/",
+    "status": 402,
+    "reason": "HTTP 402",
+    "foundOn": [
+     "https://seedfund.nsf.gov/showcase/news"
+    ]
+   },
+   {
+    "url": "https://relavomedical.com/",
+    "status": 0,
+    "reason": "EAI_AGAIN",
+    "foundOn": [
+     "https://seedfund.nsf.gov/showcase/news"
+    ]
+   },
+   {
+    "url": "https://www.skiptek.com/",
+    "status": 0,
+    "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
+    "foundOn": [
+     "https://seedfund.nsf.gov/showcase/news"
+    ]
+   },
+   {
+    "url": "https://resuture.com/",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://seedfund.nsf.gov/showcase/news"
+    ]
+   },
+   {
+    "url": "https://www.nrel.gov/news/press/2024/more-awards-given-out-than-ever-before-at-2024-industry-growth-forum.html",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://seedfund.nsf.gov/showcase/news"
+    ]
+   },
+   {
+    "url": "https://medeciphersolutions.com/",
+    "status": 0,
+    "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
+    "foundOn": [
+     "https://seedfund.nsf.gov/showcase/news"
+    ]
+   },
+   {
+    "url": "https://www.usmd.edu/newsroom/news/2397",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://seedfund.nsf.gov/showcase/news"
+    ]
+   },
+   {
+    "url": "https://www.sdbj.com/manufacturing/making-market-headway-with-microplastics-solution/",
+    "status": 0,
+    "reason": "timeout",
+    "foundOn": [
+     "https://seedfund.nsf.gov/showcase/news"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 24,
+  "alfa": 11,
+  "plain-language": 15,
+  "resources": 24,
+  "images": 24,
+  "link-check": 24,
+  "standards": 12,
+  "lighthouse": 4,
+  "third-party": 7,
+  "sustainability": 2,
+  "tech": 4,
+  "deprecated-html": 4,
+  "security": 1,
+  "public-interest": 1
+ },
+ "tally": {
+  "ok": 24,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-28T16:22:15.282Z"
+}
