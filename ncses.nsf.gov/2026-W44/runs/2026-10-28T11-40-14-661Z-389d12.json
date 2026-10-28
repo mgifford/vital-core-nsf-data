@@ -1,0 +1,1736 @@
+{
+ "runId": "2026-10-28T11-40-14-661Z-389d12",
+ "week": "2026-W44",
+ "domain": "ncses.nsf.gov",
+ "startedAt": "2026-10-28T11:40:15.029Z",
+ "scanned": [
+  "0db505b8cfbc5705",
+  "29eb057f2b6c3654",
+  "6d432a9c69bf0e6d",
+  "fd223c3faca07538",
+  "a0783a3e943cb43f",
+  "fe7482d87697e658",
+  "6518a05db98f5272",
+  "28bd0cbb967ec2a0",
+  "6f46d5723eb44fd9",
+  "7995ecdabdb4138b",
+  "b6c2564671d8e99f",
+  "03f66ff34a957e51",
+  "918ad2e2a5aa0079",
+  "e9c941354cd9dafb",
+  "e414ac87c81e9a64",
+  "1869eb507b7a0251",
+  "760f78962c0b0ccc",
+  "244d1b4f5895f521",
+  "62a101e5786e0df3",
+  "39857a9fe5086a90",
+  "cf6172fa9532258f",
+  "53f6c1e24b6f6782",
+  "122befffa53546e8",
+  "c012bf8f856d4eee"
+ ],
+ "errors": [
+  {
+   "pageId": "fe683a57d76286a5",
+   "url": "https://www.ncses.nsf.gov/search?aois=Research+and+Development+Funding+and+Performance&query=&topics=R%26D+Capital+Expenditures",
+   "error": "Error: elementHandle.evaluateHandle: Execution context was destroyed, most likely because of a navigation"
+  }
+ ],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 2373,
+  "checked": 500,
+  "brokenCount": 172,
+  "broken": [
+   {
+    "url": "http://ncses.nsf.gov/indicators/",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.ncses.nsf.gov/pubs/nsf25354/surveypage/table/14960"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/about",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads",
+     "http://ncses.nsf.gov/pubs/nsf26324/figure/2",
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2023",
+     "http://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=Type+of+R%26D+%28basic%2C+applied%2C+experimental+development%29",
+     "http://ncses.nsf.gov/pubs/nsf26315/section/27569"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/about/data-governance",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads",
+     "http://ncses.nsf.gov/pubs/nsf26324/figure/2",
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2023",
+     "http://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=Type+of+R%26D+%28basic%2C+applied%2C+experimental+development%29",
+     "http://ncses.nsf.gov/pubs/nsf26315/section/27569"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads",
+     "http://ncses.nsf.gov/pubs/nsf26324/figure/2",
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2023",
+     "http://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=Type+of+R%26D+%28basic%2C+applied%2C+experimental+development%29",
+     "http://ncses.nsf.gov/pubs/nsf26315/section/27569"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/about/quality-transparency",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads",
+     "http://ncses.nsf.gov/pubs/nsf26324/figure/2",
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2023",
+     "http://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=Type+of+R%26D+%28basic%2C+applied%2C+experimental+development%29",
+     "http://ncses.nsf.gov/pubs/nsf26315/section/27569"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/about/research",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads",
+     "http://ncses.nsf.gov/pubs/nsf26324/figure/2",
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2023",
+     "http://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=Type+of+R%26D+%28basic%2C+applied%2C+experimental+development%29",
+     "http://ncses.nsf.gov/pubs/nsf26315/section/27569"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/about/whats-new",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads",
+     "http://ncses.nsf.gov/pubs/nsf26324/figure/2",
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2023",
+     "http://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=Type+of+R%26D+%28basic%2C+applied%2C+experimental+development%29",
+     "http://ncses.nsf.gov/pubs/nsf26315/section/27569"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/about/contact",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads",
+     "http://ncses.nsf.gov/pubs/nsf26324/figure/2",
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2023",
+     "http://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=Type+of+R%26D+%28basic%2C+applied%2C+experimental+development%29",
+     "http://ncses.nsf.gov/pubs/nsf26315/section/27569"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/interest-areas/innovation-global-competitiveness",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads",
+     "http://ncses.nsf.gov/pubs/nsf26324/figure/2",
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2023",
+     "http://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=Type+of+R%26D+%28basic%2C+applied%2C+experimental+development%29",
+     "http://ncses.nsf.gov/pubs/nsf26315/section/27569"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/interest-areas",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads",
+     "http://ncses.nsf.gov/pubs/nsf26324/figure/2",
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2023",
+     "http://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=Type+of+R%26D+%28basic%2C+applied%2C+experimental+development%29",
+     "http://ncses.nsf.gov/pubs/nsf26315/section/27569"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/geo/opp/opp_advisory/briefings/may2010/gpg_rapid_eager.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/about/funding-opportunities"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/interest-areas/science-engineering-workforce",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads",
+     "http://ncses.nsf.gov/pubs/nsf26324/figure/2",
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2023",
+     "http://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=Type+of+R%26D+%28basic%2C+applied%2C+experimental+development%29",
+     "http://ncses.nsf.gov/pubs/nsf26315/section/27569"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/interest-areas/research-development",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads",
+     "http://ncses.nsf.gov/pubs/nsf26324/figure/2",
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2023",
+     "http://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=Type+of+R%26D+%28basic%2C+applied%2C+experimental+development%29",
+     "http://ncses.nsf.gov/pubs/nsf26315/section/27569"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/surveys-analysis",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads",
+     "http://ncses.nsf.gov/pubs/nsf26324/figure/2",
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2023",
+     "http://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=Type+of+R%26D+%28basic%2C+applied%2C+experimental+development%29",
+     "http://ncses.nsf.gov/pubs/nsf26315/section/27569"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/interest-areas/stem",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads",
+     "http://ncses.nsf.gov/pubs/nsf26324/figure/2",
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2023",
+     "http://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=Type+of+R%26D+%28basic%2C+applied%2C+experimental+development%29",
+     "http://ncses.nsf.gov/pubs/nsf26315/section/27569"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/corrections",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads",
+     "http://ncses.nsf.gov/pubs/nsf26324/figure/2",
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2023",
+     "http://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=Type+of+R%26D+%28basic%2C+applied%2C+experimental+development%29",
+     "http://ncses.nsf.gov/pubs/nsf26315/section/27569"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/search?query=&excludePubAssets=true&pageSize=40&sort=date",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads",
+     "http://ncses.nsf.gov/pubs/nsf26324/figure/2",
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2023",
+     "http://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=Type+of+R%26D+%28basic%2C+applied%2C+experimental+development%29",
+     "http://ncses.nsf.gov/pubs/nsf26315/section/27569"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/schedule-of-release-dates",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads",
+     "http://ncses.nsf.gov/pubs/nsf26324/figure/2",
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2023",
+     "http://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=Type+of+R%26D+%28basic%2C+applied%2C+experimental+development%29",
+     "http://ncses.nsf.gov/pubs/nsf26315/section/27569"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/surveys",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads",
+     "http://ncses.nsf.gov/pubs/nsf26324/figure/2",
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2023",
+     "http://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=Type+of+R%26D+%28basic%2C+applied%2C+experimental+development%29",
+     "http://ncses.nsf.gov/pubs/nsf26315/section/27569"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/explore-data/microdata",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads",
+     "http://ncses.nsf.gov/pubs/nsf26324/figure/2",
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2023",
+     "http://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=Type+of+R%26D+%28basic%2C+applied%2C+experimental+development%29",
+     "http://ncses.nsf.gov/pubs/nsf26315/section/27569"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/funding-opportunities",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads",
+     "http://ncses.nsf.gov/pubs/nsf26324/figure/2",
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2023",
+     "http://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=Type+of+R%26D+%28basic%2C+applied%2C+experimental+development%29",
+     "http://ncses.nsf.gov/pubs/nsf26315/section/27569"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/licensing",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads",
+     "http://ncses.nsf.gov/pubs/nsf26324/figure/2",
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2023",
+     "http://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=Type+of+R%26D+%28basic%2C+applied%2C+experimental+development%29",
+     "http://ncses.nsf.gov/pubs/nsf26315/section/27569"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/explore-data",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads",
+     "http://ncses.nsf.gov/pubs/nsf26324/figure/2",
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2023",
+     "http://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=Type+of+R%26D+%28basic%2C+applied%2C+experimental+development%29",
+     "http://ncses.nsf.gov/pubs/nsf26315/section/27569"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/initiatives",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads",
+     "http://ncses.nsf.gov/pubs/nsf26324/figure/2",
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2023",
+     "http://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=Type+of+R%26D+%28basic%2C+applied%2C+experimental+development%29",
+     "http://ncses.nsf.gov/pubs/nsf26315/section/27569"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/initiatives/standard-application-process",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads",
+     "http://ncses.nsf.gov/pubs/nsf26324/figure/2",
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2023",
+     "http://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=Type+of+R%26D+%28basic%2C+applied%2C+experimental+development%29",
+     "http://ncses.nsf.gov/pubs/nsf26315/section/27569"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/initiatives/national-secure-data-service-demo",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads",
+     "http://ncses.nsf.gov/pubs/nsf26324/figure/2",
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2023",
+     "http://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=Type+of+R%26D+%28basic%2C+applied%2C+experimental+development%29",
+     "http://ncses.nsf.gov/pubs/nsf26315/section/27569"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/initiatives/cybersecurity-workforce-data-initiative",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads",
+     "http://ncses.nsf.gov/pubs/nsf26324/figure/2",
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2023",
+     "http://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=Type+of+R%26D+%28basic%2C+applied%2C+experimental+development%29",
+     "http://ncses.nsf.gov/pubs/nsf26315/section/27569"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/resource",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads",
+     "http://ncses.nsf.gov/pubs/nsf26324/figure/2",
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2023",
+     "http://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=Type+of+R%26D+%28basic%2C+applied%2C+experimental+development%29",
+     "http://ncses.nsf.gov/pubs/nsf26315/section/27569"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/resource/master-gov-lists-ffrdc",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads",
+     "http://ncses.nsf.gov/pubs/nsf26324/figure/2",
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2023",
+     "http://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=Type+of+R%26D+%28basic%2C+applied%2C+experimental+development%29",
+     "http://ncses.nsf.gov/pubs/nsf26315/section/27569"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/resource/library",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads",
+     "http://ncses.nsf.gov/pubs/nsf26324/figure/2",
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2023",
+     "http://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=Type+of+R%26D+%28basic%2C+applied%2C+experimental+development%29",
+     "http://ncses.nsf.gov/pubs/nsf26315/section/27569"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/resource/glossary",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads",
+     "http://ncses.nsf.gov/pubs/nsf26324/figure/2",
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2023",
+     "http://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=Type+of+R%26D+%28basic%2C+applied%2C+experimental+development%29",
+     "http://ncses.nsf.gov/pubs/nsf26315/section/27569"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/report",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/additional-resources",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/resource/faqs",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads",
+     "http://ncses.nsf.gov/pubs/nsf26324/figure/2",
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2023",
+     "http://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=Type+of+R%26D+%28basic%2C+applied%2C+experimental+development%29",
+     "http://ncses.nsf.gov/pubs/nsf26315/section/27569"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/faq",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/report/executive-summary",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/downloads",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/report/about-this-report",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/report/glossary",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/report/field-of-doctorate",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/report/u-s-doctorate-awards",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/report/postgraduation-trends",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/report/notes",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/report/data-source",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/report/contact-authors",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/report/acknowledgments-and-citation",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/contact-us",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/prior-releases",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/accessibility",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads",
+     "http://ncses.nsf.gov/pubs/nsf26324/figure/2",
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2023",
+     "http://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=Type+of+R%26D+%28basic%2C+applied%2C+experimental+development%29",
+     "http://ncses.nsf.gov/pubs/nsf26315/section/27569"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/report/nsf25300-report.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/report/nsf25300-report-figures-tables-pdfs.zip",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/report/nsf25300-report-figures-tables-excels.zip",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/additional-resources/nsf25300-additional-resources.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/report/nsf25300-report-figures-pngs.zip",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/report/nsf25300-report-figures-tables.zip",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/nsf25300-tables.zip",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/nsf25300-tables-pdfs.zip",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/nsf25300-tables-excels.zip",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/report/tables/nsf25300-tab001.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/report/tables/nsf25300-tab001.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/report/tables/nsf25300-taba.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/report/tables/nsf25300-taba.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/report/tables/nsf25300-tabb.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/report/tables/nsf25300-tabb.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/report/tables/nsf25300-tabc.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/report/tables/nsf25300-tabc.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/nsf25300-figures.zip",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/nsf25300-figures-pdfs.zip",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/nsf25300-figures-excels.zip",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/nsf25300-figures-pngs.zip",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/report/figures/nsf25300-fig001.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/report/figures/nsf25300-fig001.png",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/report/figures/nsf25300-fig001.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/report/figures/nsf25300-fig002.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/report/figures/nsf25300-fig002.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/report/figures/nsf25300-fig003.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/report/figures/nsf25300-fig002.png",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/report/figures/nsf25300-fig004.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/report/figures/nsf25300-fig003.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/report/figures/nsf25300-fig004.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/report/figures/nsf25300-fig003.png",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/report/figures/nsf25300-fig005.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/report/figures/nsf25300-fig004.png",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/report/figures/nsf25300-fig005.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/report/figures/nsf25300-fig005.png",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/report/figures/nsf25300-fig007.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/report/figures/nsf25300-fig006.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/report/figures/nsf25300-fig006.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/report/figures/nsf25300-fig006.png",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/report/figures/nsf25300-fig007.png",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/report/figures/nsf25300-fig007.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/report/figures/nsf25300-fig008.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/report/figures/nsf25300-fig008.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/report/figures/nsf25300-fig009.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/report/figures/nsf25300-fig008.png",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/report/figures/nsf25300-fig009.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/report/figures/nsf25300-fig009.png",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/report/figures/nsf25300-fig010.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/report/figures/nsf25300-fig010.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/report/figures/nsf25300-fig010.png",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/report/figures/nsf25300-fig011.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/report/figures/nsf25300-fig012.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/report/figures/nsf25300-fig011.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/report/figures/nsf25300-fig011.png",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/report/figures/nsf25300-fig012.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/report/figures/nsf25300-fig013.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/report/figures/nsf25300-fig013.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/report/figures/nsf25300-fig013.png",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/report/figures/nsf25300-fig012.png",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/report/figures/nsf25300-fig014.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/report/figures/nsf25300-fig014.png",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/report/figures/nsf25300-fig015.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/report/figures/nsf25300-fig014.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/report/figures/nsf25300-fig015.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/report/figures/nsf25300-fig016.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/report/figures/nsf25300-fig016.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/report/figures/nsf25300-fig015.png",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/report/figures/nsf25300-fig016.png",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/report/figures/nsf25300-figa.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/report/figures/nsf25300-figa.png",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/report/figures/nsf25300-figa.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/surveys/annual-business-survey/2023",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021",
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2023"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf25300/assets/nsf25300-data-sources.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsf25300/report",
+     "http://ncses.nsf.gov/pubs/nsf25300/downloads"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/surveys/annual-business-survey/2024",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021",
+     "http://ncses.nsf.gov/pubs/nsf26324/figure/2",
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2023"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/surveys/annual-business-survey/2021",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021",
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2023"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/surveys/annual-business-survey/2022",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021",
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2023"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf71386/assets/nsf71386.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf23313/assets/nsf23313.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf23305/assets/nsf23305.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/379/assets/0/file/ncses_abs.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf23305",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf23310/figure/1",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf23305/figure/1",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf23310",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf23310/assets/nsf23310.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/379/assets/0/file/ncses_innovation_one_pager.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf23313/assets/technical-tables/nsf23313-technical-tables-tables.zip",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf23313/assets/technical-tables/nsf23313-technical-tables-tables-excels.zip",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf23313/assets/technical-tables/nsf23313-technical-tables-tables-pdfs.zip",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf23313/assets/technical-tables/tables/nsf23313-taba-001.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf23313/assets/technical-tables/tables/nsf23313-taba-002.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf23313/assets/technical-tables/tables/nsf23313-taba-001.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/379/assets/0/files/srvyabs-2021-abs-1.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf23313/assets/technical-tables/tables/nsf23313-taba-003.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf23313/assets/technical-tables/tables/nsf23313-taba-002.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf23313/assets/technical-tables/tables/nsf23313-taba-003.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf23313/assets/data-tables/tables/nsf23313-tab002.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/archived?url=https://www.nsf.gov/statistics/questionnaires.cfm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021",
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2023"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf23313/assets/data-tables/tables/nsf23313-tab004.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf23313/assets/data-tables/tables/nsf23313-tab002.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf23313/assets/data-tables/tables/nsf23313-tab012.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf23313/assets/data-tables/tables/nsf23313-tab015.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf23313/assets/data-tables/tables/nsf23313-tab012.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf23313/assets/data-tables/tables/nsf23313-tab004.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf23313/assets/data-tables/tables/nsf23313-tab020.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf23313/assets/data-tables/tables/nsf23313-tab020.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf23313/assets/data-tables/nsf23313-data-tables-tables.zip",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf23313/assets/data-tables/tables/nsf23313-tab015.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf23313/assets/data-tables/nsf23313-data-tables-tables-pdfs.zip",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf23313/assets/data-tables/tables/nsf23313-tab001.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf23313/assets/data-tables/nsf23313-data-tables-tables-excels.zip",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf23313/assets/data-tables/tables/nsf23313-tab001.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf23313/assets/data-tables/tables/nsf23313-tab003.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf23313/assets/data-tables/tables/nsf23313-tab005.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf23313/assets/data-tables/tables/nsf23313-tab005.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf23313/assets/data-tables/tables/nsf23313-tab003.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf23313/assets/data-tables/tables/nsf23313-tab006.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf23313/assets/data-tables/tables/nsf23313-tab007.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf23313/assets/data-tables/tables/nsf23313-tab007.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf23313/assets/data-tables/tables/nsf23313-tab006.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsf23313/assets/data-tables/tables/nsf23313-tab008.xlsx",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/surveys/annual-business-survey/2021"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 25,
+  "resources": 24,
+  "images": 24,
+  "link-check": 24,
+  "alfa": 11,
+  "plain-language": 13,
+  "third-party": 5,
+  "tech": 5,
+  "standards": 7,
+  "sustainability": 4,
+  "public-interest": 2,
+  "deprecated-html": 1,
+  "security": 1
+ },
+ "tally": {
+  "ok": 24,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 1
+ },
+ "finishedAt": "2026-10-28T11:43:38.095Z"
+}
