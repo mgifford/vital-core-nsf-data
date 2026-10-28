@@ -1,0 +1,163 @@
+{
+ "runId": "2026-10-28T15-21-10-082Z-504f66",
+ "week": "2026-W44",
+ "domain": "www.nsf.gov",
+ "startedAt": "2026-10-28T15:21:10.540Z",
+ "scanned": [
+  "68d670a928e2dc86",
+  "bf00ec15b8ea7d1b",
+  "25c2967b6743817e",
+  "cca19d6d88e721e8",
+  "d6c08565d08015ee",
+  "9bdf35b5f648384a",
+  "f907e28e7975696f",
+  "145d1532b9813d34",
+  "a12dc878310e8527",
+  "8f2350746498a70b",
+  "50045172b4bdd109",
+  "2e90bdce65d29dfd",
+  "4fd0f601e6801448",
+  "0cc22a0590e87768",
+  "af1862fa8879b06d",
+  "f77757c2cda467c3",
+  "7856d169c9751894",
+  "91e7e812ecd13bb5",
+  "6d471736c5b19cc9",
+  "2b0bd52b8be05f58",
+  "733ae9ee5342c6be",
+  "3b037fd473888475",
+  "1fbaca58143365e9",
+  "4f58476264b779a1"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 304,
+  "checked": 304,
+  "brokenCount": 10,
+  "broken": [
+   {
+    "url": "https://www.nsf.gov/news/sea-otters-keep-remaining-california-kelp-forests-alive",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/science-matters/mysteries-seven-seas-revealed-through-nsf-funding"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/news/spillover-effect-marine-reserves",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/science-matters/mysteries-seven-seas-revealed-through-nsf-funding"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/news/high-resolution-ocean-model-looks-sea-turtles-lost-years",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/science-matters/mysteries-seven-seas-revealed-through-nsf-funding"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/news/record-high-arctic-freshwater-affecting-marine-environment",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/science-matters/mysteries-seven-seas-revealed-through-nsf-funding"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/news/coral-recovery-during-prolonged-heatwave-offers-new-hope",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/science-matters/mysteries-seven-seas-revealed-through-nsf-funding"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/news/deep-sea-volcanoes-windows-subsurface",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/science-matters/mysteries-seven-seas-revealed-through-nsf-funding"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/news/sea-ice-kept-oxygen-reaching-deep-ocean-during-last-ice-age",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/science-matters/mysteries-seven-seas-revealed-through-nsf-funding"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_6j_z12RsRxS75H-Y6mR3Ug",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/future-work-human-technology-frontier-office-hours-2/2023-02-10"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_3xciXk-XS9SfMKbFjYCEQg",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/alfred-v-aho-abstractions-algorithms-computer-science"
+    ]
+   },
+   {
+    "url": "https://www.census.gov/data/tables/time-series/demo/popest/2010s-state-total.html",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/about/about-nsf-by-the-numbers/codebook"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 23,
+  "resources": 23,
+  "images": 23,
+  "standards": 12,
+  "link-check": 23,
+  "alfa": 6,
+  "plain-language": 12,
+  "deprecated-html": 1,
+  "third-party": 6,
+  "security": 3,
+  "sustainability": 2,
+  "lighthouse": 3,
+  "public-interest": 1,
+  "tech": 1
+ },
+ "tally": {
+  "ok": 23,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 1,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-28T15:25:15.471Z"
+}
