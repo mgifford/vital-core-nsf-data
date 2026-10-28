@@ -1,0 +1,138 @@
+{
+ "runId": "2026-10-28T11-40-29-280Z-af8b6d",
+ "week": "2026-W44",
+ "domain": "www.nsf.gov",
+ "startedAt": "2026-10-28T11:40:30.535Z",
+ "scanned": [
+  "0c1f5ae872721908",
+  "f1e74ec1d6aee295",
+  "7e31ebd5a48afa01",
+  "764ce272d1690ead",
+  "d15c95567678d6c3",
+  "a753bd2f1a6bd2ac",
+  "a908750315ce3e1b",
+  "2e928dcb13688057",
+  "2988b1d46d5b8c6a",
+  "7aed05a837550aac",
+  "c1cddf7d8a1558e1",
+  "5f1e5bb5c6332b8f",
+  "4fccc06fa3fb84c8",
+  "7bd010df513fd70d",
+  "40dbc08c92205371",
+  "e587d6cdc6fb3d41",
+  "c89c28878812cbdc",
+  "7b63fe57d154ca64",
+  "fb19d6b3166de16b",
+  "9f08538124482b58",
+  "b2d0f9badad62c0d",
+  "30c292c2888d36c2",
+  "4880ff960210a6ee",
+  "f9b07ca6fd7b36e9"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 388,
+  "checked": 388,
+  "brokenCount": 7,
+  "broken": [
+   {
+    "url": "https://epscor.nebraska.edu/nsfepscorconf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/initiatives/epscor/epscor-news-highlights"
+    ]
+   },
+   {
+    "url": "https://nsfepscor2019.org/",
+    "status": 525,
+    "reason": "HTTP 525",
+    "foundOn": [
+     "https://www.nsf.gov/funding/initiatives/epscor/epscor-news-highlights"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJIsc-uqrzovHuRXlZ0UpKAXJfcdY7dTNuk",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/connecting-historically-black-colleges-universities-proposed/2022-02-24"
+    ]
+   },
+   {
+    "url": "https://www.uchicago.edu/education-and-research/center/center_for_robust_decision_making_on_climate_and_energy_policy/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/science-matters/nsf-powered-dashboards-you-should-bookmark"
+    ]
+   },
+   {
+    "url": "https://arilab.unit.oist.jp/",
+    "status": 0,
+    "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
+    "foundOn": [
+     "https://www.nsf.gov/science-matters/nsf-powered-dashboards-you-should-bookmark"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_cSO1ybkkQtGUwIufBo--Tg",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/geo-virtual-office-hours"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_t7Zy4mhzTAq4f5vtmvNNyg",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/webinar-introduction-usprd-ideas-lab"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 22,
+  "alfa": 11,
+  "plain-language": 12,
+  "resources": 22,
+  "images": 22,
+  "standards": 12,
+  "link-check": 22,
+  "security": 5,
+  "tech": 2,
+  "third-party": 8,
+  "sustainability": 2,
+  "deprecated-html": 2,
+  "public-interest": 1
+ },
+ "tally": {
+  "ok": 22,
+  "blocked": 2,
+  "timeout": 0,
+  "robots_skipped": 1,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-28T11:43:59.564Z"
+}
