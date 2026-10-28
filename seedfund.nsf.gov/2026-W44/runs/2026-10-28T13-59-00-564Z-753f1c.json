@@ -1,0 +1,107 @@
+{
+ "runId": "2026-10-28T13-59-00-564Z-753f1c",
+ "week": "2026-W44",
+ "domain": "seedfund.nsf.gov",
+ "startedAt": "2026-10-28T13:59:02.483Z",
+ "scanned": [
+  "10d1ce1721aa70e1",
+  "5e884b45304bfcdd",
+  "53c1e1482f9828fe",
+  "1b4da811167b2576",
+  "55b7e8739faf432f",
+  "664adb3d438b7a0e",
+  "ed04fc067af1605d",
+  "5dccfc784d702576",
+  "76a90838e26a9a8f",
+  "c29326a6d13e0f78",
+  "04795542be6b21c7",
+  "b2c46cb896dc3584",
+  "524799183cc806c2",
+  "5aac9d8608bc9587",
+  "0a2c0874e772c142",
+  "96a4596b2f607df6",
+  "31c06ca6a3ada566",
+  "263b5f0f7a1eda3f",
+  "4d8c4d60cbe7d5a8",
+  "4f0fb657b2b306d5",
+  "989bb62d6df4e31a",
+  "3dd8654234d88c37",
+  "4f8a872da1262309",
+  "a9637a65eb3818dc",
+  "2994d919bafa55d8"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 111,
+  "checked": 111,
+  "brokenCount": 3,
+  "broken": [
+   {
+    "url": "https://seedfund.nsf.gov/centers/focus-area/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://seedfund.nsf.gov/centers/ceps/a-fast-cost-effective-path-to-decarbonization-of-heavy-duty-vehicles"
+    ]
+   },
+   {
+    "url": "http://www.clearflame.com/",
+    "status": 0,
+    "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
+    "foundOn": [
+     "https://seedfund.nsf.gov/centers/ceps/a-fast-cost-effective-path-to-decarbonization-of-heavy-duty-vehicles"
+    ]
+   },
+   {
+    "url": "http://www.lavo.ai/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://seedfund.nsf.gov/awardees/phase-2/details?company=lavo-life-sciences-inc"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 25,
+  "alfa": 9,
+  "resources": 25,
+  "images": 25,
+  "link-check": 25,
+  "plain-language": 10,
+  "lighthouse": 2,
+  "standards": 14,
+  "tech": 3,
+  "security": 4,
+  "public-interest": 2,
+  "third-party": 5,
+  "deprecated-html": 2
+ },
+ "tally": {
+  "ok": 25,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-28T14:01:49.682Z"
+}
