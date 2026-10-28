@@ -1,0 +1,259 @@
+{
+ "runId": "2026-10-28T10-43-48-104Z-f3528a",
+ "week": "2026-W44",
+ "domain": "www.nsf.gov",
+ "startedAt": "2026-10-28T10:43:49.372Z",
+ "scanned": [
+  "54f31a9a44470168",
+  "69ea9cc90eb9d054",
+  "a296b8544c5cc92d",
+  "593dad182c8ba57e",
+  "6e256eb04a4f6062",
+  "331a1aa721666788",
+  "42a4bed146249bfa",
+  "e7dba98ca596f34a",
+  "a1cc7f97c58c4f56",
+  "55c46c22121e41ac",
+  "20f65411345634f7",
+  "f7d1d4343196bce5",
+  "a1639d20b7743e7b",
+  "8eefd0d7bde683f3",
+  "2f988659af5ea213",
+  "5f448a7ad9abf13d",
+  "ec7d45510758f6dc",
+  "ee4c5e735e8fea2e",
+  "b427d122d89cfaba",
+  "f822f9258fd5e20e",
+  "16316d90ebc6bc8a",
+  "062324685775cdd4",
+  "ac20840a7125130a"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 254,
+  "checked": 254,
+  "brokenCount": 22,
+  "broken": [
+   {
+    "url": "https://www.fastlane.nsf.gov/a1/newstan.htm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nnci-national-nanotechnology-coordinated-infrastructure/505149/nsf15-519/solicitation",
+     "https://www.nsf.gov/funding/opportunities/icn-wen-nsfintel-partnership-information-centric-networking-wireless/505310/nsf16-586/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.whitehouse.gov/sites/default/files/microsites/ostp/PCAST/pcast_fifth_nni_review_oct2014_final.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nnci-national-nanotechnology-coordinated-infrastructure/505149/nsf15-519/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf14043",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nnci-national-nanotechnology-coordinated-infrastructure/505149/nsf15-519/solicitation",
+     "https://www.nsf.gov/funding/opportunities/icn-wen-nsfintel-partnership-information-centric-networking-wireless/505310/nsf16-586/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/policies/SOR_PA_NSF-50_Principal_Investigator_Proposal_File.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nnci-national-nanotechnology-coordinated-infrastructure/505149/nsf15-519/solicitation",
+     "https://www.nsf.gov/funding/opportunities/icn-wen-nsfintel-partnership-information-centric-networking-wireless/505310/nsf16-586/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/centers/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/eng/iip/iucrc/sample_agreement_form.jsp"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/centers/achievements/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/eng/iip/iucrc/sample_agreement_form.jsp"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/centers/center-calendar/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/eng/iip/iucrc/sample_agreement_form.jsp"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/government/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/eng/iip/iucrc/sample_agreement_form.jsp"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/universities/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/eng/iip/iucrc/sample_agreement_form.jsp"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/industry/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/eng/iip/iucrc/sample_agreement_form.jsp"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/strategic-engagements/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/eng/iip/iucrc/sample_agreement_form.jsp"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/universities/solicitation/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/eng/iip/iucrc/sample_agreement_form.jsp"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/sites/default/files/membership_agreement.doc",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/eng/iip/iucrc/sample_agreement_form.jsp"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/sites/default/files/membership_agreement_addendum.doc",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/eng/iip/iucrc/sample_agreement_form.jsp"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/bio/mcb/Accelerating_MCB_Synthesis.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/scmcs-synthesis-center-molecular-cellular-sciences/506079/updates/94853"
+    ]
+   },
+   {
+    "url": "https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/pose-distinguished-lecture-series-dr-laurie-williams/2023-12-08"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_gfUhFjF8TFurb6eLpEehtQ",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/pose-distinguished-lecture-series-dr-laurie-williams/2023-12-08"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubs/2016/nsf16586/www.geni.net",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/icn-wen-nsfintel-partnership-information-centric-networking-wireless/505310/nsf16-586/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.ngmn.org/fileadmin/ngmn/content/downloads/Technical/2015/NGMN_5G_White_Paper_V1_0.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/icn-wen-nsfintel-partnership-information-centric-networking-wireless/505310/nsf16-586/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/od/broadeningparticipation/bp.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/icn-wen-nsfintel-partnership-information-centric-networking-wireless/505310/nsf16-586/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=aag",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/icn-wen-nsfintel-partnership-information-centric-networking-wireless/505310/nsf16-586/solicitation"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_MU37OAOKT8exiFB_pDApNw",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/nsf-vines-informational-webinar-india-us-collaborations"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 23,
+  "alfa": 16,
+  "resources": 23,
+  "images": 23,
+  "lighthouse": 3,
+  "link-check": 23,
+  "sustainability": 3,
+  "plain-language": 14,
+  "deprecated-html": 2,
+  "standards": 5,
+  "third-party": 8,
+  "tech": 2
+ },
+ "tally": {
+  "ok": 23,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 2,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-28T10:47:46.892Z"
+}
