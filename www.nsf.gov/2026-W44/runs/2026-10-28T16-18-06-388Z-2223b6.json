@@ -1,0 +1,171 @@
+{
+ "runId": "2026-10-28T16-18-06-388Z-2223b6",
+ "week": "2026-W44",
+ "domain": "www.nsf.gov",
+ "startedAt": "2026-10-28T16:18:06.906Z",
+ "scanned": [
+  "a187834e6af6b895",
+  "a53a411efff24f3b",
+  "d1440f553cf832ee",
+  "5e40b7af9b09f275",
+  "8c606e10ace9b7fd",
+  "a9f10769fcd77c36",
+  "d5fb21c2a20acc6f",
+  "8b6f1cc43b308fc3",
+  "eb5b6fb3802fabd5",
+  "61052a179d1c3d6b",
+  "4dc25c70a2481a7a",
+  "6cdc479895ffc489",
+  "82a226f7005f9d84",
+  "e7eee2687aaaec7b",
+  "024842de54e848ce",
+  "6b10e21e5a43e542",
+  "38fd761e0f5e1471",
+  "9c944dbd8187aa59",
+  "8f40abcd6e782728",
+  "b253fd5dffc3bb0b",
+  "42c87a779c4fb746",
+  "f3875c53a8af2f33",
+  "c12fe2f1bec168f4",
+  "53f9f53faa4e0a33"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 430,
+  "checked": 430,
+  "brokenCount": 11,
+  "broken": [
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf22128",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/p4climate-paleo-perspectives-present-projected-climate/506087/nsf22-612"
+    ]
+   },
+   {
+    "url": "https://www.whitehouse.gov/briefing-room/presidential-actions/2024/05/17/national-security-memorandum-on-united-states-policy-on-the-antarctic-region/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/news/week-nsf-director-panchanathan-52"
+    ]
+   },
+   {
+    "url": "https://sites.utexas.edu/nsf-civic/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/science-matters/pilot-programs-help-workers-students-cross-transit-deserts"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/sbe/funding/opportunities/science-technology-studies-sts",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/sbe/sbe-high-programs"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/news/engineering-elimination-end-life-plastic-waste",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/science-matters/nsf-grantees-solving-problems-created-single-use-plastics"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJItc-irpz8vHPCHpKyKDchhLD58jHoPimw",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/future-research-directions-cise-community-cise-rv-program"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_JVffSGT2RN-9PUdoSv8AGw",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/industry-university-cooperative-research-center-office-hour"
+    ]
+   },
+   {
+    "url": "https://www.cio.gov/policies-and-priorities/Executive-Order-13960-AI-Use-Case-Inventories-Reference/",
+    "status": 0,
+    "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
+    "foundOn": [
+     "https://www.nsf.gov/policies/ai"
+    ]
+   },
+   {
+    "url": "https://www.whitehouse.gov/wp-content/uploads/2022/12/Roadmap-Information-Integrity-RD-2022.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsf-satc-us-national-science-foundation-security-privacy-trust/nsf24-504"
+    ]
+   },
+   {
+    "url": "https://www.whitehouse.gov/wp-content/uploads/2023/03/National-Strategy-to-Advance-Privacy-Preserving-Data-Sharing-and-Analytics.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsf-satc-us-national-science-foundation-security-privacy-trust/nsf24-504"
+    ]
+   },
+   {
+    "url": "https://www.whitehouse.gov/wp-content/uploads/2023/07/NCWES-2023.07.31.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsf-satc-us-national-science-foundation-security-privacy-trust/nsf24-504"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 23,
+  "plain-language": 10,
+  "resources": 23,
+  "images": 23,
+  "standards": 15,
+  "link-check": 23,
+  "deprecated-html": 2,
+  "third-party": 7,
+  "alfa": 11,
+  "lighthouse": 4,
+  "sustainability": 1,
+  "public-interest": 5,
+  "security": 3,
+  "tech": 1
+ },
+ "tally": {
+  "ok": 23,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 1,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-28T16:22:29.712Z"
+}
