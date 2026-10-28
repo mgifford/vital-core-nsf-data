@@ -1,6 +1,6 @@
 {
  "domain": "seedfund.nsf.gov",
- "updatedAt": "2026-10-27T18:14:34.969Z",
+ "updatedAt": "2026-10-28T18:29:28.209Z",
  "links": {
   "https://relavomedical.com/": {
    "status": 0,
@@ -13,7 +13,8 @@
    ],
    "weeksBroken": 2,
    "foundOn": [
-    "https://seedfund.nsf.gov/news/RelavoandCurieDx"
+    "https://seedfund.nsf.gov/news/RelavoandCurieDx",
+    "https://seedfund.nsf.gov/showcase/news"
    ]
   },
   "https://www.sam.gov/SAM/": {
@@ -109,7 +110,9 @@
     "https://seedfund.nsf.gov/centers/ceps/paper-coating-enables-worlds-first-water-filter-for-pennies",
     "https://seedfund.nsf.gov/centers/ceps/high-carotenoid-orange-corn-promises-nutritional-enhancement",
     "https://seedfund.nsf.gov/centers/ceps/retrofit-dehumidifiers-enhance-air-conditioner-efficiency",
-    "https://seedfund.nsf.gov/centers/ceps/liquid-metal-based-thermal-interface-materials-keep-microelectronics-cool"
+    "https://seedfund.nsf.gov/centers/ceps/liquid-metal-based-thermal-interface-materials-keep-microelectronics-cool",
+    "https://seedfund.nsf.gov/centers/ceps/a-fast-cost-effective-path-to-decarbonization-of-heavy-duty-vehicles",
+    "https://seedfund.nsf.gov/centers/ceps/biopreservation-material-could-end-the-wait-for-organ-transplants"
    ]
   },
   "http://www.pcka.com/": {
@@ -256,7 +259,8 @@
    ],
    "weeksBroken": 1,
    "foundOn": [
-    "https://seedfund.nsf.gov/news/ReSuture"
+    "https://seedfund.nsf.gov/news/ReSuture",
+    "https://seedfund.nsf.gov/showcase/news"
    ]
   },
   "https://time.com/collection/best-inventions-2023/6326422/wavelogix-rebel-concrete-strength-sensors/": {
@@ -360,7 +364,8 @@
    ],
    "weeksBroken": 1,
    "foundOn": [
-    "https://seedfund.nsf.gov/awardees/history/details?company=clearflame-engines-inc"
+    "https://seedfund.nsf.gov/awardees/history/details?company=clearflame-engines-inc",
+    "https://seedfund.nsf.gov/centers/ceps/a-fast-cost-effective-path-to-decarbonization-of-heavy-duty-vehicles"
    ]
   },
   "https://seedfund.nsf.gov/resources/awardees/supplement/[/assets/files/awardees/ED-Supp-Template.docx](https://seedfund.nsf.gov/assets/files/awardees/ED-Supp-Template.docx)": {
@@ -557,6 +562,110 @@
    "weeksBroken": 1,
    "foundOn": [
     "https://seedfund.nsf.gov/awardees/history/details?company=solarid-ar-llc"
+   ]
+  },
+  "http://www.lavo.ai/": {
+   "status": 0,
+   "reason": "UND_ERR_CONNECT_TIMEOUT",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/awardees/phase-2/details?company=lavo-life-sciences-inc"
+   ]
+  },
+  "http://www.artaic.com/": {
+   "status": 0,
+   "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/portfolio/details?company=artaic-llc"
+   ]
+  },
+  "https://www.knoxnews.com/story/money/business/2025/01/12/40-under-40-sam-rosolina-microbial-insights/75673324007/": {
+   "status": 402,
+   "reason": "HTTP 402",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/showcase/news"
+   ]
+  },
+  "https://www.skiptek.com/": {
+   "status": 0,
+   "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/showcase/news"
+   ]
+  },
+  "https://www.nrel.gov/news/press/2024/more-awards-given-out-than-ever-before-at-2024-industry-growth-forum.html": {
+   "status": 0,
+   "reason": "ENOTFOUND",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/showcase/news"
+   ]
+  },
+  "https://medeciphersolutions.com/": {
+   "status": 0,
+   "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/showcase/news"
+   ]
+  },
+  "https://www.usmd.edu/newsroom/news/2397": {
+   "status": 0,
+   "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/showcase/news"
+   ]
+  },
+  "https://www.sdbj.com/manufacturing/making-market-headway-with-microplastics-solution/": {
+   "status": 0,
+   "reason": "timeout",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/showcase/news"
    ]
   }
  }
