@@ -1,0 +1,254 @@
+{
+ "runId": "2026-10-28T09-34-14-686Z-e3d06a",
+ "week": "2026-W44",
+ "domain": "ncses.nsf.gov",
+ "startedAt": "2026-10-28T09:34:15.044Z",
+ "scanned": [
+  "c7e749fffb0508a9",
+  "42bc10e2f9c05c31",
+  "cec5de25aa727387",
+  "8cb3640cc1b9b670",
+  "55bdce996bb51bad",
+  "fbd9fce8fd09492b",
+  "6152495ebda6877a",
+  "5c19035245bd9793",
+  "66135e0bf6afb33c",
+  "71c7db11ae7ca735",
+  "3d5ad65d3feabc8a",
+  "de9d28d414ae38f2",
+  "28cd36504c10d03c",
+  "4e081ec273231fea",
+  "9987e15461d84f40",
+  "e0d3b2d103c419df",
+  "c6e93d323f4322d1",
+  "d06cd078d5091e77",
+  "2a0611788bcaedc9",
+  "abb6ae5ceefea21f",
+  "13eac5dc13d55335",
+  "8d20fca56fd4ffe1",
+  "a4ab99e4fa7bb8dd",
+  "076e64413e022755",
+  "26e2eda3c3712bdf"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 2788,
+  "checked": 500,
+  "brokenCount": 17,
+  "broken": [
+   {
+    "url": "http://ncses.nsf.gov/indicators/",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsf25354/surveypage/table/14890",
+     "https://ncses.nsf.gov/pubs/nsf25354/surveypage/table/14926",
+     "https://ncses.nsf.gov/pubs/nsf25354/surveypage/table/14977"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/indicators/reports",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/sidebar/comparing-innovation-across-countries",
+     "http://ncses.nsf.gov/pubs/nsb20262/section/28138",
+     "http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsbsep20261",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/sidebar/comparing-innovation-across-countries",
+     "http://ncses.nsf.gov/pubs/nsb20262/section/28138",
+     "http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/indicators",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/sidebar/comparing-innovation-across-countries",
+     "http://ncses.nsf.gov/pubs/nsb20262/section/28138",
+     "http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/indicators/data",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/sidebar/comparing-innovation-across-countries",
+     "http://ncses.nsf.gov/pubs/nsb20262/section/28138",
+     "http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/indicators/about",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/sidebar/comparing-innovation-across-countries",
+     "http://ncses.nsf.gov/pubs/nsb20262/section/28138",
+     "http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/indicators/topical-search",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/sidebar/comparing-innovation-across-countries",
+     "http://ncses.nsf.gov/pubs/nsb20262/section/28138",
+     "http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/indicators/help",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/sidebar/comparing-innovation-across-countries",
+     "http://ncses.nsf.gov/pubs/nsb20262/section/28138",
+     "http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/executive-summary",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/sidebar/comparing-innovation-across-countries",
+     "http://ncses.nsf.gov/pubs/nsb20262/section/28138",
+     "http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/introduction",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/sidebar/comparing-innovation-across-countries",
+     "http://ncses.nsf.gov/pubs/nsb20262/section/28138",
+     "http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/knowledge-and-technology-transfer",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/sidebar/comparing-innovation-across-countries",
+     "http://ncses.nsf.gov/pubs/nsb20262/section/28138",
+     "http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/innovation",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/sidebar/comparing-innovation-across-countries",
+     "http://ncses.nsf.gov/pubs/nsb20262/section/28138",
+     "http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/conclusion",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/sidebar/comparing-innovation-across-countries",
+     "http://ncses.nsf.gov/pubs/nsb20262/section/28138",
+     "http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/global-trade-by-kti-industries",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/sidebar/comparing-innovation-across-countries",
+     "http://ncses.nsf.gov/pubs/nsb20262/section/28138",
+     "http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/production-patterns-of-knowledge-and-technology-intensive-industries",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/sidebar/comparing-innovation-across-countries",
+     "http://ncses.nsf.gov/pubs/nsb20262/section/28138",
+     "http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/business-dynamics-and-investment",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/sidebar/comparing-innovation-across-countries",
+     "http://ncses.nsf.gov/pubs/nsb20262/section/28138",
+     "http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-25"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/pubs/nsb20262/glossary",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "http://ncses.nsf.gov/pubs/nsb20262/sidebar/comparing-innovation-across-countries",
+     "http://ncses.nsf.gov/pubs/nsb20262/section/28138",
+     "http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-25"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 25,
+  "alfa": 11,
+  "plain-language": 15,
+  "resources": 25,
+  "images": 25,
+  "third-party": 7,
+  "link-check": 25,
+  "standards": 13,
+  "security": 1,
+  "lighthouse": 4,
+  "sustainability": 3,
+  "deprecated-html": 2,
+  "public-interest": 2,
+  "tech": 2
+ },
+ "tally": {
+  "ok": 25,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-28T09:40:01.015Z"
+}
