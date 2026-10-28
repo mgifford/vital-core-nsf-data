@@ -1,0 +1,161 @@
+{
+ "runId": "2026-10-28T13-58-58-103Z-b2a325",
+ "week": "2026-W44",
+ "domain": "www.nsf.gov",
+ "startedAt": "2026-10-28T13:58:59.254Z",
+ "scanned": [
+  "d3aebd73778ed607",
+  "6b6accfcf4d08bb1",
+  "a7472fdceeb2eff8",
+  "679b5830af1052b3",
+  "fc749508fc8a27b0",
+  "33b6fe1c0221a803",
+  "ab541cf4f9c697f7",
+  "2dec1275c5d76465",
+  "4e015b7bc2622d70",
+  "142c90bc125e7699",
+  "d186b100e3800534",
+  "a72de88d0ad50b41",
+  "ceead9569ca6b872",
+  "2d4ad7ad12b36a1a",
+  "49fd7fbcd71e9845",
+  "35f477582653c5c3",
+  "f052ef1df787add7",
+  "4467443626ea23cb",
+  "f298cdaaf6a86abe",
+  "6d874271637bc394",
+  "55a52d12a37096c9",
+  "c339b9ae63425e9a",
+  "ce5a7058fcd0dfea"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 496,
+  "checked": 496,
+  "brokenCount": 10,
+  "broken": [
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN__XC1w8V6RdCEK_6TlCJ5OA",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/ear-centers-solid-earth-geohazards-nsf-21-628-webinar/2021-11-05"
+    ]
+   },
+   {
+    "url": "http://www.nsf.gov/eng/iip/sbir/supplemental_requests.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-small-business-innovation-research-small-business-technology/nsf06-008"
+    ]
+   },
+   {
+    "url": "http://www.tekes.fi/NSFfellows",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-nsf-graduate-research-fellows-nordic-research-opportunity/nsf12-006"
+    ]
+   },
+   {
+    "url": "http://www.forskningsradet.no/servlet/Satellite?c=Informasjonstekst&cid=1224066993924&p=1224066982949&pagename=internasjonale-stipend/Hovedsidemal",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-nsf-graduate-research-fellows-nordic-research-opportunity/nsf12-006"
+    ]
+   },
+   {
+    "url": "http://www.vr.se/4.37eca2ee12a87a82021800045.html",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-nsf-graduate-research-fellows-nordic-research-opportunity/nsf12-006"
+    ]
+   },
+   {
+    "url": "http://www.aka.fi/NSFFellow",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-nsf-graduate-research-fellows-nordic-research-opportunity/nsf12-006"
+    ]
+   },
+   {
+    "url": "https://c/Program%20Files/Teamware/Office/T/M/V4/elina.juntunen@aka.fi",
+    "status": 0,
+    "reason": "EAI_AGAIN",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-nsf-graduate-research-fellows-nordic-research-opportunity/nsf12-006"
+    ]
+   },
+   {
+    "url": "http://www.dg.dk/en/centers-of-excellence-2/list-of-centers/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-nsf-graduate-research-fellows-nordic-research-opportunity/nsf12-006"
+    ]
+   },
+   {
+    "url": "https://projectreporter.nih.gov/Reporter_Viewsh.cfm?sl=14E8C00D468AC0D67598B8961CAA4A01A2FFCEB861BF",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/eeid-ecology-evolution-infectious-diseases/5269/nsf24-592"
+    ]
+   },
+   {
+    "url": "https://cris.nifa.usda.gov/cgi-bin/starfinder/0?path=fastlink1.txt&id=anon&pass=&search=(GC=A1222)&format=WEBTITLESGIY",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/eeid-ecology-evolution-infectious-diseases/5269/nsf24-592"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 23,
+  "plain-language": 11,
+  "resources": 23,
+  "images": 23,
+  "security": 2,
+  "link-check": 23,
+  "alfa": 9,
+  "deprecated-html": 3,
+  "standards": 13,
+  "lighthouse": 3,
+  "tech": 1,
+  "third-party": 5,
+  "sustainability": 1
+ },
+ "tally": {
+  "ok": 23,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 2,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-28T14:03:09.479Z"
+}
