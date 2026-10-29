@@ -1,0 +1,161 @@
+{
+ "runId": "2026-10-29T09-50-54-370Z-a4dc15",
+ "week": "2026-W44",
+ "domain": "www.nsf.gov",
+ "startedAt": "2026-10-29T09:50:56.376Z",
+ "scanned": [
+  "8c5c3a9b5073b1f8",
+  "b155500cd59e1e16",
+  "94a1d4d9ff2764c8",
+  "71c26739ad7bfdab",
+  "88998a3743dd6fa2",
+  "ca7ae556fcf95466",
+  "18f1be108e826fb6",
+  "08b37500fa752559",
+  "befc0965e89c101a",
+  "4ebe31295c4b24c5",
+  "d1cdf3ca507d6961",
+  "0e2bb693b9abf30d",
+  "712471006a3f49d7",
+  "4a043f055772e664",
+  "e830fd94e89aac54",
+  "0b3ee3fea841d55d",
+  "2eb0bb167c2f04c9",
+  "375c3796e7e87014",
+  "dff511de123d802c",
+  "25e2210901304955",
+  "b8ea83c7e288003a",
+  "e411ebe1acb5dac3"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 301,
+  "checked": 301,
+  "brokenCount": 10,
+  "broken": [
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf22128",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/p4climate-paleo-perspectives-present-projected-climate/506087"
+    ]
+   },
+   {
+    "url": "https://www.ligo.caltech.edu/video/ligo20160211v2",
+    "status": 0,
+    "reason": "UNABLE_TO_GET_ISSUER_CERT_LOCALLY",
+    "foundOn": [
+     "https://www.nsf.gov/science-matters/black-hole-collision-theory-evidence"
+    ]
+   },
+   {
+    "url": "https://www.ligo.caltech.edu/news/ligo20200420",
+    "status": 0,
+    "reason": "UNABLE_TO_GET_ISSUER_CERT_LOCALLY",
+    "foundOn": [
+     "https://www.nsf.gov/science-matters/black-hole-collision-theory-evidence"
+    ]
+   },
+   {
+    "url": "https://www.ligo.caltech.edu/news/ligo20200701",
+    "status": 0,
+    "reason": "UNABLE_TO_GET_ISSUER_CERT_LOCALLY",
+    "foundOn": [
+     "https://www.nsf.gov/science-matters/black-hole-collision-theory-evidence"
+    ]
+   },
+   {
+    "url": "http://www.fastlane.nsf.gov/a1/newstan.htm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/prfb-postdoctoral-research-fellowships-biology/503622/nsf15-501/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.fbo.gov/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-nsf-fhwa-coordination-cyber-physical-systems-highway/nsf13-034"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/policies/SOR_PA_NSF-50_Principal_Investigator_Proposal_File.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/prfb-postdoctoral-research-fellowships-biology/503622/nsf15-501/solicitation"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_Wg5pfchmQhyHQZQm-5MXBw",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/webinar-new-funding-opportunity-microelectronics-educations"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/node/92612",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/author-tools"
+    ]
+   },
+   {
+    "url": "https://beta.nsf.gov/now-leaving-5937de32a53be0042f732060f0?external_url=https%3A%2F%2Fteams.microsoft.com%2Fl%2Fchannel%2F19%253a0df1442485e345f498b107c8af9ac94e%2540thread.skype%2FContent%20migration%3FgroupId%3Df304864b-cb7d-4cef-a96b-9e9d374d5368%26tenantId%3D4939bd94-3563-4244-904d-6e68ffc9b8cf&back_url=https%3A%2F%2Fbeta.nsf.gov%2Fauthor-tools",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/author-tools"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 22,
+  "alfa": 16,
+  "resources": 22,
+  "images": 22,
+  "link-check": 22,
+  "plain-language": 12,
+  "standards": 9,
+  "third-party": 9,
+  "deprecated-html": 5,
+  "tech": 1,
+  "public-interest": 5,
+  "sustainability": 2,
+  "security": 3,
+  "lighthouse": 1
+ },
+ "tally": {
+  "ok": 22,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 3,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-29T09:54:34.181Z"
+}
