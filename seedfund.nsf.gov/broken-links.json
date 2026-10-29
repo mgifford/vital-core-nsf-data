@@ -1,6 +1,6 @@
 {
  "domain": "seedfund.nsf.gov",
- "updatedAt": "2026-10-28T18:29:28.209Z",
+ "updatedAt": "2026-10-29T18:39:01.386Z",
  "links": {
   "https://relavomedical.com/": {
    "status": 0,
@@ -666,6 +666,58 @@
    "weeksBroken": 1,
    "foundOn": [
     "https://seedfund.nsf.gov/showcase/news"
+   ]
+  },
+  "http://www.betahatch.com/": {
+   "status": 500,
+   "reason": "HTTP 500",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/awardees/history/details?company=beta-hatch-inc"
+   ]
+  },
+  "http://www.novomebio.com/": {
+   "status": 0,
+   "reason": "ENOTFOUND",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/portfolio/details?company=novome-biotechnologies-inc"
+   ]
+  },
+  "http://www.humonixbio.com/": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/portfolio/details?company=glauconix-inc"
+   ]
+  },
+  "https://clearflame.com/": {
+   "status": 0,
+   "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/portfolio"
    ]
   }
  }

@@ -1,6 +1,6 @@
 {
  "domain": "seedfund.nsf.gov",
- "updatedAt": "2026-10-28T18:29:28.209Z",
+ "updatedAt": "2026-10-29T18:39:01.385Z",
  "resources": {
   "https://www.youtube.com/embed/mKWCoHlInZg?enablejsapi=1&origin=https%3A%2F%2Fseedfund.nsf.gov": {
    "type": "embedded-media",
@@ -253,14 +253,15 @@
   "https://www.youtube.com/embed/RcPFQJorwpc?modestbranding=1&showinfo=0&fs=1&enablejsapi=1&origin=https%3A%2F%2Fseedfund.nsf.gov": {
    "type": "embedded-media",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W44",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W44"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "lastPages": 1,
    "lastExamplePages": [
-    "https://seedfund.nsf.gov/showcase"
+    "https://seedfund.nsf.gov/portfolio"
    ]
   },
   "https://www.youtube.com/embed/rnUx5iRdHWk?modestbranding=1&showinfo=0&fs=1&enablejsapi=1&origin=https%3A%2F%2Fseedfund.nsf.gov": {
@@ -632,6 +633,45 @@
    "lastPages": 1,
    "lastExamplePages": [
     "https://seedfund.nsf.gov/topics/photonics"
+   ]
+  },
+  "https://seedfund.nsf.gov/assets/files/applicants/combined-topics.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://seedfund.nsf.gov/portfolio"
+   ]
+  },
+  "https://www.youtube.com/embed/wuXqAjPGldE?modestbranding=1&showinfo=0&fs=1&enablejsapi=1&origin=https%3A%2F%2Fseedfund.nsf.gov": {
+   "type": "embedded-media",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://seedfund.nsf.gov/portfolio"
+   ]
+  },
+  "https://www.youtube.com/embed/mKWCoHlInZg?modestbranding=1&showinfo=0&fs=1&enablejsapi=1&origin=https%3A%2F%2Fseedfund.nsf.gov": {
+   "type": "embedded-media",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://seedfund.nsf.gov/portfolio"
    ]
   },
   "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1300.pdf": {

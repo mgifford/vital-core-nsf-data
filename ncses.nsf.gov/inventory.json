@@ -1,6 +1,6 @@
 {
  "domain": "ncses.nsf.gov",
- "updatedAt": "2026-10-28T18:29:26.591Z",
+ "updatedAt": "2026-10-29T18:38:59.445Z",
  "pages": {
   "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-45": {
    "pageId": "00abbacd9d4d5dcc",
@@ -5337,6 +5337,600 @@
    "status": 200,
    "axeViolations": 23,
    "alfaFailures": 169,
+   "hasIssues": true
+  },
+  "https://www.ncses.nsf.gov/pubs/nsbsep20261/table/S18": {
+   "pageId": "030bcede01ab1a8a",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:49:35.540Z",
+   "status": 200,
+   "axeViolations": 26,
+   "alfaFailures": 71,
+   "hasIssues": true
+  },
+  "https://www.ncses.nsf.gov/pubs/nsbsep20261": {
+   "pageId": "0455b679bbb5d3df",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:04:35.459Z",
+   "status": 200,
+   "axeViolations": 5,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.ncses.nsf.gov/pubs/nsbsep20261/figure/26": {
+   "pageId": "04799f37732e8350",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:48:59.110Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": 163,
+   "hasIssues": true
+  },
+  "https://www.ncses.nsf.gov/indicators/reports": {
+   "pageId": "09577545a28bfd66",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:05:35.411Z",
+   "status": 200,
+   "axeViolations": 4,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/pubs/nsf24322": {
+   "pageId": "098302b64cc77c46",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T09:51:13.032Z",
+   "status": 200,
+   "axeViolations": 152,
+   "alfaFailures": 557,
+   "hasIssues": true
+  },
+  "https://www.ncses.nsf.gov/pubs/nsb20257/table/DISC-9": {
+   "pageId": "0dbd47aacec4f534",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:04:06.723Z",
+   "status": 200,
+   "axeViolations": 20,
+   "alfaFailures": 161,
+   "hasIssues": true
+  },
+  "https://www.ncses.nsf.gov/pubs/nsb20257/table/SDISC-67": {
+   "pageId": "1cc1ea539e79e872",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:02:31.706Z",
+   "status": 200,
+   "axeViolations": 83,
+   "alfaFailures": 288,
+   "hasIssues": true
+  },
+  "https://www.ncses.nsf.gov/pubs/nsbsep20261/contact-us": {
+   "pageId": "220edb0f53b37c04",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:48:41.555Z",
+   "status": 200,
+   "axeViolations": 5,
+   "alfaFailures": 67,
+   "hasIssues": true
+  },
+  "https://www.ncses.nsf.gov/pubs/nsb20257/table/SDISC-50": {
+   "pageId": "260e4fa8fa3afebb",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:03:59.227Z",
+   "status": 200,
+   "axeViolations": 86,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.ncses.nsf.gov/pubs/nsb20257/figure/DISC-1": {
+   "pageId": "3b792f4fa74a4322",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:01:44.856Z",
+   "status": 200,
+   "axeViolations": 33,
+   "alfaFailures": 256,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/pubs/nsb20262/table/STRN-35": {
+   "pageId": "42b3945d02b85e94",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T09:54:49.658Z",
+   "status": 200,
+   "axeViolations": 53,
+   "alfaFailures": 126,
+   "hasIssues": true
+  },
+  "https://www.ncses.nsf.gov/pubs/nsb20257/table/SDISC-68": {
+   "pageId": "46eddef670b89892",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:01:30.123Z",
+   "status": 200,
+   "axeViolations": 83,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.ncses.nsf.gov/pubs/nsb20204/figure-link/8-25": {
+   "pageId": "489991cc7512906c",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T14:11:02.138Z",
+   "status": 200,
+   "axeViolations": 51,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "http://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=Sex": {
+   "pageId": "48c4913f522c4da8",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T09:56:21.216Z",
+   "status": 200,
+   "axeViolations": 42,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.ncses.nsf.gov/pubs/nsb20204/data": {
+   "pageId": "4a3eab611a8d93df",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:48:04.926Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.ncses.nsf.gov/pubs/nsbsep20261/table/S15": {
+   "pageId": "4e1545b4d3ae75cd",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:48:37.243Z",
+   "status": 200,
+   "axeViolations": 26,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/pubs/nsb20257/figure/DISC-C": {
+   "pageId": "4f4a149bdf57e92c",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T09:53:08.796Z",
+   "status": 200,
+   "axeViolations": 33,
+   "alfaFailures": 104,
+   "hasIssues": true
+  },
+  "https://www.ncses.nsf.gov/pubs/nsb20243/data": {
+   "pageId": "500a3b67cada05e5",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:48:19.929Z",
+   "status": 200,
+   "axeViolations": 20,
+   "alfaFailures": 76,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/indicators/states/state/south-carolina": {
+   "pageId": "53222d11e0169b6e",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T09:55:42.975Z",
+   "status": 200,
+   "axeViolations": 0,
+   "alfaFailures": 51,
+   "hasIssues": true
+  },
+  "http://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=Institutions": {
+   "pageId": "5561405919ac689d",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T09:56:40.672Z",
+   "status": 200,
+   "axeViolations": 42,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.ncses.nsf.gov/pubs/nsb20201/data": {
+   "pageId": "564cc84b2307e356",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:47:30.330Z",
+   "status": 200,
+   "axeViolations": 24,
+   "alfaFailures": 208,
+   "hasIssues": true
+  },
+  "https://www.ncses.nsf.gov/pubs/nsb20257/figure/DISC-5": {
+   "pageId": "5a313b119b22b81f",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:50:27.537Z",
+   "status": 200,
+   "axeViolations": 27,
+   "alfaFailures": 156,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/surveys/federal-funds-research-development/2024-2025": {
+   "pageId": "5e9bac04aaf1e6ae",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T09:54:33.897Z",
+   "status": 200,
+   "axeViolations": 24,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.ncses.nsf.gov/pubs/nsb20257/references": {
+   "pageId": "5f4974c1cd923ebe",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:04:24.043Z",
+   "status": 200,
+   "axeViolations": 5,
+   "alfaFailures": 69,
+   "hasIssues": true
+  },
+  "https://www.ncses.nsf.gov/pubs/nsb20241": {
+   "pageId": "677a6eea5bcba94c",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:50:02.240Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": 48,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/pubs/nsb20212/participation-of-demographic-groups-in-stem": {
+   "pageId": "68fe1e81c53b6813",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T09:53:52.687Z",
+   "status": 200,
+   "axeViolations": 53,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.ncses.nsf.gov/pubs/nsbsep20261/table/S7": {
+   "pageId": "75fc346027531735",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:48:49.306Z",
+   "status": 200,
+   "axeViolations": 25,
+   "alfaFailures": 78,
+   "hasIssues": true
+  },
+  "https://www.ncses.nsf.gov/pubs/nsbsep20261/table/S2": {
+   "pageId": "76b2970e43cd7307",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:48:09.417Z",
+   "status": 200,
+   "axeViolations": 26,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.ncses.nsf.gov/pubs/nsb20257/table/SDISC-48": {
+   "pageId": "78379b1be4427fa5",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:03:53.696Z",
+   "status": 200,
+   "axeViolations": 83,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/pubs/nsf24307/figure/2": {
+   "pageId": "7e25b0c2b94a2182",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T09:51:03.451Z",
+   "status": 200,
+   "axeViolations": 141,
+   "alfaFailures": 979,
+   "hasIssues": true
+  },
+  "https://www.ncses.nsf.gov/pubs/nsb20257/federal-support-for-u-s-r-d": {
+   "pageId": "81ee0e437789231f",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:05:41.670Z",
+   "status": 200,
+   "axeViolations": 17,
+   "alfaFailures": 186,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/randdef": {
+   "pageId": "87e4962441f44d8a",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T09:56:26.235Z",
+   "status": 200,
+   "axeViolations": 35,
+   "alfaFailures": 1064,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/pubs/nsb20261/figure/TAL-30": {
+   "pageId": "888813540a2d86e1",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T09:53:45.267Z",
+   "status": 200,
+   "axeViolations": 58,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.ncses.nsf.gov/pubs/nsb20257/figure/DISC-10": {
+   "pageId": "8e6a83adaa192414",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:05:54.033Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/pubs/nsf21325": {
+   "pageId": "8f2eaea130a81e17",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T09:53:28.319Z",
+   "status": 200,
+   "axeViolations": 39,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.ncses.nsf.gov/pubs/nsbsep20261/figure/3": {
+   "pageId": "98d2a9401824c6c9",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:49:14.445Z",
+   "status": 200,
+   "axeViolations": 45,
+   "alfaFailures": 213,
+   "hasIssues": true
+  },
+  "https://www.ncses.nsf.gov/pubs/nsb20257/figure/DISC-27": {
+   "pageId": "9d91f93e5b8c8946",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T09:51:40.382Z",
+   "status": 200,
+   "axeViolations": 29,
+   "alfaFailures": 145,
+   "hasIssues": true
+  },
+  "https://www.ncses.nsf.gov/pubs/nsb20257/table/SDISC-1": {
+   "pageId": "a060d262e733c2f2",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:02:03.683Z",
+   "status": 200,
+   "axeViolations": 87,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.ncses.nsf.gov/pubs/nsb20257/table/SDISC-56": {
+   "pageId": "a1937f49fb454873",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:02:08.957Z",
+   "status": 200,
+   "axeViolations": 83,
+   "alfaFailures": 293,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/pubs/nsb20257/table/SDISC-31": {
+   "pageId": "a26d7c6584cc5a12",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T09:52:38.777Z",
+   "status": 200,
+   "axeViolations": 86,
+   "alfaFailures": 281,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/surveys/federal-funds-research-development/2021": {
+   "pageId": "a4894b6520714904",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T09:52:19.356Z",
+   "status": 200,
+   "axeViolations": 24,
+   "alfaFailures": 90,
+   "hasIssues": true
+  },
+  "https://www.ncses.nsf.gov/pubs/nsbsep20261/figure/37": {
+   "pageId": "a5537fca4cdfb60f",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:48:14.629Z",
+   "status": 200,
+   "axeViolations": 35,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/pubs/nsb20257/figure/DISC-15": {
+   "pageId": "a6986a7d03b5a34d",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T09:55:26.363Z",
+   "status": 200,
+   "axeViolations": 24,
+   "alfaFailures": 94,
+   "hasIssues": true
+  },
+  "https://www.ncses.nsf.gov/pubs/nsbsep20261/table/S3": {
+   "pageId": "a920ccfb32ffd3b2",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:48:28.272Z",
+   "status": 200,
+   "axeViolations": 26,
+   "alfaFailures": 114,
+   "hasIssues": true
+  },
+  "http://ncses.nsf.gov/pubs/nsf25353": {
+   "pageId": "ac3b2b9e3c82a8df",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T09:56:46.000Z",
+   "status": 200,
+   "axeViolations": 25,
+   "alfaFailures": 287,
+   "hasIssues": true
+  },
+  "https://www.ncses.nsf.gov/pubs/nsb20221/u-s-and-global-research-and-development": {
+   "pageId": "ac46f1622ebfdcd5",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:50:14.424Z",
+   "status": 200,
+   "axeViolations": 41,
+   "alfaFailures": 199,
+   "hasIssues": true
+  },
+  "https://www.ncses.nsf.gov/pubs/nsb20257/corrections": {
+   "pageId": "b62498ebcef69ff5",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:05:28.026Z",
+   "status": 200,
+   "axeViolations": 5,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.ncses.nsf.gov/pubs/nsb20257/figure/DISC-14": {
+   "pageId": "b712c8868bee3a91",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:01:36.495Z",
+   "status": 200,
+   "axeViolations": 20,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/pubs/nsf25300/report/contact-authors": {
+   "pageId": "ba3ce812da3f619b",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T09:56:36.613Z",
+   "status": 200,
+   "axeViolations": 11,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/pubs/nsf23331": {
+   "pageId": "bd299aecd9c02927",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T09:52:30.890Z",
+   "status": 200,
+   "axeViolations": 24,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.ncses.nsf.gov/pubs/nsb20257/table/SDISC-70": {
+   "pageId": "be9720e4ebf4d866",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:03:33.009Z",
+   "status": 200,
+   "axeViolations": 83,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.ncses.nsf.gov/indicators/data": {
+   "pageId": "c0d27991346e3837",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:04:19.421Z",
+   "status": 200,
+   "axeViolations": 4,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.ncses.nsf.gov/pubs/nsb20257/figure/DISC-28": {
+   "pageId": "c170e76e5694cd09",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:02:56.154Z",
+   "status": 200,
+   "axeViolations": 26,
+   "alfaFailures": 127,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/pubs/nsf25305": {
+   "pageId": "c65e0d1c3c9af67e",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T09:54:14.299Z",
+   "status": 200,
+   "axeViolations": 104,
+   "alfaFailures": 815,
+   "hasIssues": true
+  },
+  "https://www.ncses.nsf.gov/pubs/nsbsep20261/table/S6": {
+   "pageId": "cc715c3105cd9f93",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:50:07.769Z",
+   "status": 200,
+   "axeViolations": 26,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/pubs/nsb20261/table/TAL-3": {
+   "pageId": "cd24e04abea7adb5",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T09:55:03.163Z",
+   "status": 200,
+   "axeViolations": 54,
+   "alfaFailures": 426,
+   "hasIssues": true
+  },
+  "https://www.ncses.nsf.gov/pubs/nsb20257/table/DISC-5": {
+   "pageId": "cf447955cc260136",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:05:16.461Z",
+   "status": 200,
+   "axeViolations": 17,
+   "alfaFailures": 119,
+   "hasIssues": true
+  },
+  "https://www.ncses.nsf.gov/pubs/nsbsep20261/figure/8": {
+   "pageId": "d521581d4de4746c",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:49:56.630Z",
+   "status": 200,
+   "axeViolations": 45,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.ncses.nsf.gov/pubs/nsb20257/table/SDISC-78": {
+   "pageId": "dceb9ac896dd151f",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:04:52.990Z",
+   "status": 200,
+   "axeViolations": 83,
+   "alfaFailures": 282,
+   "hasIssues": true
+  },
+  "https://www.ncses.nsf.gov/pubs/nsb20257/table/SDISC-21": {
+   "pageId": "e19f210917f0d6d8",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:01:04.522Z",
+   "status": 200,
+   "axeViolations": 86,
+   "alfaFailures": 281,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-56": {
+   "pageId": "e659833bb8556bbd",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T09:55:58.936Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.ncses.nsf.gov/pubs/nsb20257/table/SDISC-24": {
+   "pageId": "e8c99c103e21ddbf",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:04:41.407Z",
+   "status": 200,
+   "axeViolations": 83,
+   "alfaFailures": 63,
+   "hasIssues": true
+  },
+  "https://www.ncses.nsf.gov/pubs/nsb20257/global-r-d-and-international-comparisons-2": {
+   "pageId": "e929bd85295bd91e",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:03:38.824Z",
+   "status": 200,
+   "axeViolations": 28,
+   "alfaFailures": 231,
+   "hasIssues": true
+  },
+  "https://www.ncses.nsf.gov/pubs/nsf26320/surveypage/table/17482": {
+   "pageId": "ee461cf1b6784ba9",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T09:55:49.944Z",
+   "status": 200,
+   "axeViolations": 27,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.ncses.nsf.gov/pubs/nsbsep20261/table/S11": {
+   "pageId": "eea2874f3ac5f0a9",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:47:49.471Z",
+   "status": 200,
+   "axeViolations": 25,
+   "alfaFailures": 87,
+   "hasIssues": true
+  },
+  "https://www.ncses.nsf.gov/pubs/nsbsep20261/figure/17": {
+   "pageId": "f5ad69a9d89e8a4a",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:47:59.495Z",
+   "status": 200,
+   "axeViolations": 34,
+   "alfaFailures": null,
    "hasIssues": true
   }
  },
