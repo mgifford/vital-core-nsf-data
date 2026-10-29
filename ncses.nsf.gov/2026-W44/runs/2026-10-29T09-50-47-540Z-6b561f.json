@@ -1,0 +1,101 @@
+{
+ "runId": "2026-10-29T09-50-47-540Z-6b561f",
+ "week": "2026-W44",
+ "domain": "ncses.nsf.gov",
+ "startedAt": "2026-10-29T09:50:48.590Z",
+ "scanned": [
+  "7e25b0c2b94a2182",
+  "098302b64cc77c46",
+  "9d91f93e5b8c8946",
+  "a4894b6520714904",
+  "bd299aecd9c02927",
+  "a26d7c6584cc5a12",
+  "4f4a149bdf57e92c",
+  "8f2eaea130a81e17",
+  "888813540a2d86e1",
+  "68fe1e81c53b6813",
+  "c65e0d1c3c9af67e",
+  "5e9bac04aaf1e6ae",
+  "42b3945d02b85e94",
+  "cd24e04abea7adb5",
+  "a6986a7d03b5a34d",
+  "53222d11e0169b6e",
+  "ee461cf1b6784ba9",
+  "e659833bb8556bbd",
+  "48c4913f522c4da8",
+  "87e4962441f44d8a",
+  "ba3ce812da3f619b",
+  "5561405919ac689d",
+  "ac3b2b9e3c82a8df"
+ ],
+ "errors": [
+  {
+   "pageId": "660e2d7a68d91f07",
+   "url": "http://ncses.nsf.gov/pubs/nsf25321/surveypage/table/13117",
+   "error": "Error: page.goto: net::ERR_CONNECTION_RESET at http://ncses.nsf.gov/pubs/nsf25321/surveypage/table/13117\nCall log:\n  - navigating to \"http://ncses.nsf.gov/pubs/nsf25321/surveypage/table/13117\", waiting until \"load\"\n"
+  },
+  {
+   "pageId": "ab871b1c74bc7cd3",
+   "url": "http://ncses.nsf.gov/pubs/nsf25323/surveypage/table/12931",
+   "error": "Error: page.goto: net::ERR_CONNECTION_RESET at http://ncses.nsf.gov/pubs/nsf25323/surveypage/table/12931\nCall log:\n  - navigating to \"http://ncses.nsf.gov/pubs/nsf25323/surveypage/table/12931\", waiting until \"load\"\n"
+  }
+ ],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 3464,
+  "checked": 500,
+  "brokenCount": 1,
+  "broken": [
+   {
+    "url": "https://www.whitehouse.gov/wp-content/uploads/2023/03/ap_6_research_fy2024.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsf24322"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 23,
+  "alfa": 13,
+  "plain-language": 11,
+  "resources": 23,
+  "images": 23,
+  "link-check": 23,
+  "standards": 6,
+  "lighthouse": 7,
+  "security": 3,
+  "sustainability": 1,
+  "third-party": 1,
+  "tech": 1,
+  "deprecated-html": 2,
+  "public-interest": 2
+ },
+ "tally": {
+  "ok": 23,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 2
+ },
+ "finishedAt": "2026-10-29T09:57:30.213Z"
+}
