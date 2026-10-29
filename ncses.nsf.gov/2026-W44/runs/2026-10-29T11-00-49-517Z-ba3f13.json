@@ -1,0 +1,92 @@
+{
+ "runId": "2026-10-29T11-00-49-517Z-ba3f13",
+ "week": "2026-W44",
+ "domain": "ncses.nsf.gov",
+ "startedAt": "2026-10-29T11:00:49.947Z",
+ "scanned": [
+  "e19f210917f0d6d8",
+  "46eddef670b89892",
+  "b712c8868bee3a91",
+  "3b792f4fa74a4322",
+  "a060d262e733c2f2",
+  "a1937f49fb454873",
+  "1cc1ea539e79e872",
+  "c170e76e5694cd09",
+  "be9720e4ebf4d866",
+  "e929bd85295bd91e",
+  "78379b1be4427fa5",
+  "260e4fa8fa3afebb",
+  "0dbd47aacec4f534",
+  "c0d27991346e3837",
+  "5f4974c1cd923ebe",
+  "0455b679bbb5d3df",
+  "e8c99c103e21ddbf",
+  "dceb9ac896dd151f",
+  "cf447955cc260136",
+  "b62498ebcef69ff5",
+  "09577545a28bfd66",
+  "81ee0e437789231f",
+  "8e6a83adaa192414"
+ ],
+ "errors": [
+  {
+   "pageId": "660e2d7a68d91f07",
+   "url": "http://ncses.nsf.gov/pubs/nsf25321/surveypage/table/13117",
+   "error": "Error: page.goto: net::ERR_CONNECTION_RESET at http://ncses.nsf.gov/pubs/nsf25321/surveypage/table/13117\nCall log:\n  - navigating to \"http://ncses.nsf.gov/pubs/nsf25321/surveypage/table/13117\", waiting until \"load\"\n"
+  },
+  {
+   "pageId": "228509b7f23f1c83",
+   "url": "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16161",
+   "error": "Error: page.goto: net::ERR_CONNECTION_RESET at http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16161\nCall log:\n  - navigating to \"http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16161\", waiting until \"load\"\n"
+  }
+ ],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 1082,
+  "checked": 500,
+  "brokenCount": 0,
+  "broken": []
+ },
+ "enginesRun": {
+  "axe": 23,
+  "alfa": 12,
+  "resources": 23,
+  "images": 23,
+  "third-party": 4,
+  "link-check": 23,
+  "sustainability": 2,
+  "plain-language": 10,
+  "standards": 7,
+  "security": 2,
+  "deprecated-html": 2,
+  "public-interest": 5,
+  "lighthouse": 1,
+  "tech": 1
+ },
+ "tally": {
+  "ok": 23,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 2
+ },
+ "finishedAt": "2026-10-29T11:06:43.727Z"
+}
