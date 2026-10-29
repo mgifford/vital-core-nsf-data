@@ -1,0 +1,116 @@
+{
+ "runId": "2026-10-29T09-50-45-627Z-1e8548",
+ "week": "2026-W44",
+ "domain": "seedfund.nsf.gov",
+ "startedAt": "2026-10-29T09:50:46.033Z",
+ "scanned": [
+  "0f6bad653899e38e",
+  "1be71dc3e7056cd2",
+  "bbbfc2dec227eb46",
+  "db698cb69c75dac5",
+  "9856765a45a5af9c",
+  "2909c75b350c9846",
+  "1bffe255555ae077",
+  "3a0a4f4f33c10b14",
+  "cda64558d4365291",
+  "7c427ca2d544b9dd",
+  "98d2fb63665bd5c1",
+  "f74bd8eb7818cb1b",
+  "54b0fc19ceb010fd",
+  "17af758c745993cc",
+  "d9e1339e15d70b19",
+  "692da0ea4e3a1553",
+  "334715affbd17b51",
+  "0570e75d120fd437",
+  "64f7a0f73e048f2e",
+  "3273c19d244314f9",
+  "549d86e96b7272d2",
+  "fb72f932cd37ae86",
+  "b1366414c5a68ca3",
+  "78cc344d1a2d6c74",
+  "0cea7a4566d34eab"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 130,
+  "checked": 130,
+  "brokenCount": 4,
+  "broken": [
+   {
+    "url": "http://www.betahatch.com/",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://seedfund.nsf.gov/awardees/history/details?company=beta-hatch-inc"
+    ]
+   },
+   {
+    "url": "http://www.novomebio.com/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://seedfund.nsf.gov/portfolio/details?company=novome-biotechnologies-inc"
+    ]
+   },
+   {
+    "url": "http://www.humonixbio.com/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://seedfund.nsf.gov/portfolio/details?company=glauconix-inc"
+    ]
+   },
+   {
+    "url": "https://clearflame.com/",
+    "status": 0,
+    "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
+    "foundOn": [
+     "https://seedfund.nsf.gov/portfolio"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "sustainability": 2,
+  "axe": 25,
+  "alfa": 10,
+  "plain-language": 11,
+  "resources": 25,
+  "images": 25,
+  "standards": 14,
+  "third-party": 8,
+  "link-check": 25,
+  "security": 2,
+  "deprecated-html": 3,
+  "lighthouse": 4,
+  "tech": 5,
+  "public-interest": 3
+ },
+ "tally": {
+  "ok": 25,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-29T09:53:57.411Z"
+}
