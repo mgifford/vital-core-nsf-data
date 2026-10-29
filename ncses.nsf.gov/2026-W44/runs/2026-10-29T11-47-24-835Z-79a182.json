@@ -1,0 +1,238 @@
+{
+ "runId": "2026-10-29T11-47-24-835Z-79a182",
+ "week": "2026-W44",
+ "domain": "ncses.nsf.gov",
+ "startedAt": "2026-10-29T11:47:25.139Z",
+ "scanned": [
+  "564cc84b2307e356",
+  "eea2874f3ac5f0a9",
+  "f5ad69a9d89e8a4a",
+  "4a3eab611a8d93df",
+  "76b2970e43cd7307",
+  "a5537fca4cdfb60f",
+  "500a3b67cada05e5",
+  "a920ccfb32ffd3b2",
+  "4e1545b4d3ae75cd",
+  "220edb0f53b37c04",
+  "75fc346027531735",
+  "04799f37732e8350",
+  "98d2a9401824c6c9",
+  "030bcede01ab1a8a",
+  "d521581d4de4746c",
+  "677a6eea5bcba94c",
+  "cc715c3105cd9f93",
+  "ac46f1622ebfdcd5",
+  "5a313b119b22b81f"
+ ],
+ "errors": [
+  {
+   "pageId": "660e2d7a68d91f07",
+   "url": "http://ncses.nsf.gov/pubs/nsf25321/surveypage/table/13117",
+   "error": "Error: page.goto: net::ERR_CONNECTION_RESET at http://ncses.nsf.gov/pubs/nsf25321/surveypage/table/13117\nCall log:\n  - navigating to \"http://ncses.nsf.gov/pubs/nsf25321/surveypage/table/13117\", waiting until \"load\"\n"
+  },
+  {
+   "pageId": "228509b7f23f1c83",
+   "url": "http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16161",
+   "error": "Error: page.goto: net::ERR_CONNECTION_RESET at http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16161\nCall log:\n  - navigating to \"http://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16161\", waiting until \"load\"\n"
+  }
+ ],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 1839,
+  "checked": 500,
+  "brokenCount": 17,
+  "broken": [
+   {
+    "url": "https://www.ncses.nsf.gov/pubs/nsb20201/nsb20201figure-link/3",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.ncses.nsf.gov/pubs/nsb20201/data"
+    ]
+   },
+   {
+    "url": "https://ec.europa.eu/eurostat/web/education-and-training/data/database",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.ncses.nsf.gov/pubs/nsb20201/data"
+    ]
+   },
+   {
+    "url": "https://www.ncses.nsf.gov/pubs/nsb20201/nsb20201figure-link/4",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.ncses.nsf.gov/pubs/nsb20201/data"
+    ]
+   },
+   {
+    "url": "https://www.ncses.nsf.gov/pubs/nsb20201/nsb20201figure-link/6",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.ncses.nsf.gov/pubs/nsb20201/data"
+    ]
+   },
+   {
+    "url": "https://www.ncses.nsf.gov/pubs/nsb20201/nsb20201figure-link/7",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.ncses.nsf.gov/pubs/nsb20201/data"
+    ]
+   },
+   {
+    "url": "https://ncses.nsf.gov/data-collections/us-workforce/2013",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.ncses.nsf.gov/pubs/nsb20201/data"
+    ]
+   },
+   {
+    "url": "https://www.ncses.nsf.gov/pubs/nsb20201/nsb20201figure-link/8",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.ncses.nsf.gov/pubs/nsb20201/data"
+    ]
+   },
+   {
+    "url": "https://www.ncses.nsf.gov/pubs/nsb20201/nsb20201figure-link/11",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.ncses.nsf.gov/pubs/nsb20201/data"
+    ]
+   },
+   {
+    "url": "http://www.stats.gov.cn/english/statisticaldata/AnnualData/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.ncses.nsf.gov/pubs/nsb20201/data"
+    ]
+   },
+   {
+    "url": "https://www.ncses.nsf.gov/pubs/nsb20201/nsb20201figure-link/12",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.ncses.nsf.gov/pubs/nsb20201/data"
+    ]
+   },
+   {
+    "url": "https://www.ncses.nsf.gov/pubs/nsb20201/nsb20201figure-link/13",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.ncses.nsf.gov/pubs/nsb20201/data"
+    ]
+   },
+   {
+    "url": "https://www.ncses.nsf.gov/pubs/nsb20201/nsb20201figure-link/14",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.ncses.nsf.gov/pubs/nsb20201/data"
+    ]
+   },
+   {
+    "url": "https://www.ncses.nsf.gov/pubs/nsb20201/nsb20201figure-link/15",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.ncses.nsf.gov/pubs/nsb20201/data"
+    ]
+   },
+   {
+    "url": "https://www.ncses.nsf.gov/pubs/nsb20201/nsb20201figure-link/29",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.ncses.nsf.gov/pubs/nsb20201/data"
+    ]
+   },
+   {
+    "url": "https://www.src.isr.umich.edu/",
+    "status": 0,
+    "reason": "ERR_SSL_SSL/TLS_ALERT_HANDSHAKE_FAILURE",
+    "foundOn": [
+     "https://www.ncses.nsf.gov/pubs/nsb20201/data"
+    ]
+   },
+   {
+    "url": "https://aishe.gov.in/aishe/gotoAisheReports",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.ncses.nsf.gov/pubs/nsbsep20261/table/S11",
+     "https://www.ncses.nsf.gov/pubs/nsbsep20261/figure/17",
+     "https://www.ncses.nsf.gov/pubs/nsbsep20261/table/S2",
+     "https://www.ncses.nsf.gov/pubs/nsbsep20261/figure/37",
+     "https://www.ncses.nsf.gov/pubs/nsb20243/data",
+     "https://www.ncses.nsf.gov/pubs/nsbsep20261/table/S3",
+     "https://www.ncses.nsf.gov/pubs/nsbsep20261/table/S15",
+     "https://www.ncses.nsf.gov/pubs/nsbsep20261/contact-us",
+     "https://www.ncses.nsf.gov/pubs/nsbsep20261/table/S7",
+     "https://www.ncses.nsf.gov/pubs/nsbsep20261/figure/26",
+     "https://www.ncses.nsf.gov/pubs/nsbsep20261/figure/3",
+     "https://www.ncses.nsf.gov/pubs/nsbsep20261/table/S18",
+     "https://www.ncses.nsf.gov/pubs/nsbsep20261/figure/8",
+     "https://www.ncses.nsf.gov/pubs/nsbsep20261/table/S6"
+    ]
+   },
+   {
+    "url": "https://ihsmarkit.com/products/global-industry-forecasts-analysis.html",
+    "status": 0,
+    "reason": "timeout",
+    "foundOn": [
+     "https://www.ncses.nsf.gov/pubs/nsb20201/data"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 19,
+  "alfa": 12,
+  "resources": 19,
+  "images": 19,
+  "standards": 9,
+  "third-party": 8,
+  "lighthouse": 2,
+  "link-check": 19,
+  "plain-language": 4,
+  "tech": 2,
+  "deprecated-html": 2,
+  "sustainability": 2,
+  "security": 1,
+  "public-interest": 1
+ },
+ "tally": {
+  "ok": 19,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 2
+ },
+ "finishedAt": "2026-10-29T11:51:39.824Z"
+}
