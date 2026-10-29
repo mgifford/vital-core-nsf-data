@@ -1,0 +1,52 @@
+{
+ "runId": "2026-10-29T14-10-47-639Z-046ad8",
+ "week": "2026-W44",
+ "domain": "ncses.nsf.gov",
+ "startedAt": "2026-10-29T14:10:47.999Z",
+ "scanned": [
+  "8ff8cc03b4419cb4",
+  "489991cc7512906c"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 138,
+  "checked": 138,
+  "brokenCount": 0,
+  "broken": []
+ },
+ "enginesRun": {
+  "axe": 1,
+  "plain-language": 1,
+  "resources": 1,
+  "images": 1,
+  "public-interest": 1,
+  "link-check": 1
+ },
+ "tally": {
+  "ok": 1,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-29T14:11:15.619Z"
+}
