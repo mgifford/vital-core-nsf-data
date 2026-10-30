@@ -1,7 +1,7 @@
 {
  "domain": "ncses.nsf.gov",
  "week": "2026-W44",
- "generatedAt": "2026-10-29T18:38:59.152Z",
+ "generatedAt": "2026-10-30T12:43:01.179Z",
  "pagesScanned": 500,
  "pagesAudited": 497,
  "coverage": {
@@ -140257,9 +140257,9 @@
    },
    {
     "id": "gov-tld",
-    "label": "Sponsored government TLD (.gov/.mil/.edu)",
+    "label": "Government domain",
     "pass": true,
-    "detail": "gov"
+    "detail": "gov (United States)"
    },
    {
     "id": "security-txt",
@@ -140279,26 +140279,26 @@
  },
  "publicInterest": {
   "engine": "public-interest",
-  "checkedAt": "2026-10-27T14:57:49.860Z",
+  "checkedAt": "2026-10-29T14:11:05.028Z",
   "a11yStatement": {
    "result": "pass",
    "url": "https://ncses.nsf.gov/accessibility",
    "confidence": "high",
-   "checkedAt": "2026-10-27T14:57:48.511Z"
+   "checkedAt": "2026-10-29T14:11:04.183Z"
   },
   "carbonTxt": {
    "result": "fail",
    "url": null,
    "valid": false,
    "fields": {},
-   "checkedAt": "2026-10-27T14:57:48.513Z"
+   "checkedAt": "2026-10-29T14:11:04.184Z"
   },
   "greenWebFoundation": {
    "result": "fail",
    "green": false,
    "hostedBy": null,
    "url": "https://api.thegreenwebfoundation.org/greencheck/ncses.nsf.gov",
-   "checkedAt": "2026-10-27T14:57:48.513Z"
+   "checkedAt": "2026-10-29T14:11:04.185Z"
   },
   "sitemaps": {
    "xml": {
@@ -140309,7 +140309,7 @@
     "found": false,
     "url": null
    },
-   "checkedAt": "2026-10-27T14:57:48.514Z"
+   "checkedAt": "2026-10-29T14:11:04.186Z"
   }
  },
  "plainLanguage": {
@@ -140484,6 +140484,9 @@
      "https://www.ncses.nsf.gov/pubs/nsb20204/data"
     ]
    }
+  ],
+  "spellingLocales": [
+   "en-US"
   ],
   "topMisspellings": [
    {
@@ -143148,408 +143151,160 @@
      "axe:aria-required-children": 1,
      "axe:aria-allowed-attr": 2
     }
+   },
+   "engines": {
+    "axe": {
+     "pages": 50,
+     "tech": {
+      "Crazy Egg": 41,
+      "Google Analytics": 50,
+      "HSTS": 50,
+      "Bootstrap": 26
+     }
+    },
+    "alfa": {
+     "pages": 27,
+     "tech": {
+      "Crazy Egg": 22,
+      "Google Analytics": 27,
+      "HSTS": 27,
+      "Bootstrap": 13
+     }
+    }
    }
   },
   "associations": [
    {
     "tech": "Bootstrap",
     "finding": "alfa:sia-r2",
-    "lift": 1.92,
+    "ratio": null,
+    "lift": 2.08,
     "pairPages": 13,
-    "techPages": 26,
-    "findingPages": 13
+    "techPages": 13,
+    "findingPages": 13,
+    "withoutPages": 14,
+    "withoutFindingPages": 0
    },
    {
     "tech": "Bootstrap",
     "finding": "axe:definition-list",
+    "ratio": null,
     "lift": 1.92,
     "pairPages": 8,
     "techPages": 26,
-    "findingPages": 8
+    "findingPages": 8,
+    "withoutPages": 24,
+    "withoutFindingPages": 0
    },
    {
     "tech": "Bootstrap",
     "finding": "axe:dlitem",
+    "ratio": null,
     "lift": 1.92,
     "pairPages": 8,
     "techPages": 26,
-    "findingPages": 8
+    "findingPages": 8,
+    "withoutPages": 24,
+    "withoutFindingPages": 0
+   },
+   {
+    "tech": "Crazy Egg",
+    "finding": "axe:page-has-heading-one",
+    "ratio": null,
+    "lift": 1.22,
+    "pairPages": 7,
+    "techPages": 41,
+    "findingPages": 7,
+    "withoutPages": 9,
+    "withoutFindingPages": 0
    },
    {
     "tech": "Bootstrap",
     "finding": "axe:role-img-alt",
+    "ratio": 24,
     "lift": 1.85,
     "pairPages": 26,
     "techPages": 26,
-    "findingPages": 27
-   },
-   {
-    "tech": "Bootstrap",
-    "finding": "axe:list",
-    "lift": 1.67,
-    "pairPages": 26,
-    "techPages": 26,
-    "findingPages": 30
+    "findingPages": 27,
+    "withoutPages": 24,
+    "withoutFindingPages": 1
    },
    {
     "tech": "Bootstrap",
     "finding": "alfa:sia-r57",
-    "lift": 1.67,
+    "ratio": 7,
+    "lift": 1.8,
     "pairPages": 13,
+    "techPages": 13,
+    "findingPages": 15,
+    "withoutPages": 14,
+    "withoutFindingPages": 2
+   },
+   {
+    "tech": "Bootstrap",
+    "finding": "axe:list",
+    "ratio": 6,
+    "lift": 1.67,
+    "pairPages": 26,
     "techPages": 26,
-    "findingPages": 15
+    "findingPages": 30,
+    "withoutPages": 24,
+    "withoutFindingPages": 4
    },
    {
     "tech": "Bootstrap",
     "finding": "axe:page-has-heading-one",
+    "ratio": 5.54,
     "lift": 1.65,
     "pairPages": 6,
     "techPages": 26,
-    "findingPages": 7
+    "findingPages": 7,
+    "withoutPages": 24,
+    "withoutFindingPages": 1
    },
    {
     "tech": "Bootstrap",
     "finding": "axe:landmark-one-main",
+    "ratio": 4.15,
     "lift": 1.57,
     "pairPages": 18,
     "techPages": 26,
-    "findingPages": 22
-   },
-   {
-    "tech": "Bootstrap",
-    "finding": "axe:heading-order",
-    "lift": 1.3,
-    "pairPages": 19,
-    "techPages": 26,
-    "findingPages": 28
-   },
-   {
-    "tech": "Crazy Egg",
-    "finding": "axe:page-has-heading-one",
-    "lift": 1.22,
-    "pairPages": 7,
-    "techPages": 41,
-    "findingPages": 7
-   },
-   {
-    "tech": "Bootstrap",
-    "finding": "alfa:sia-r80",
-    "lift": 1.11,
-    "pairPages": 11,
-    "techPages": 26,
-    "findingPages": 19
-   },
-   {
-    "tech": "Bootstrap",
-    "finding": "alfa:sia-r74",
-    "lift": 1.11,
-    "pairPages": 11,
-    "techPages": 26,
-    "findingPages": 19
+    "findingPages": 22,
+    "withoutPages": 24,
+    "withoutFindingPages": 4
    },
    {
     "tech": "Crazy Egg",
     "finding": "axe:link-in-text-block",
+    "ratio": 2.2,
     "lift": 1.11,
     "pairPages": 10,
     "techPages": 41,
-    "findingPages": 11
+    "findingPages": 11,
+    "withoutPages": 9,
+    "withoutFindingPages": 1
    },
    {
     "tech": "Bootstrap",
-    "finding": "axe:label-content-name-mismatch",
-    "lift": 1.09,
-    "pairPages": 26,
+    "finding": "axe:heading-order",
+    "ratio": 1.95,
+    "lift": 1.3,
+    "pairPages": 19,
     "techPages": 26,
-    "findingPages": 46
+    "findingPages": 28,
+    "withoutPages": 24,
+    "withoutFindingPages": 9
    },
    {
     "tech": "Crazy Egg",
     "finding": "axe:aria-allowed-attr",
+    "ratio": 1.87,
     "lift": 1.09,
     "pairPages": 17,
     "techPages": 41,
-    "findingPages": 19
-   },
-   {
-    "tech": "Crazy Egg",
-    "finding": "alfa:sia-r57",
-    "lift": 1.06,
-    "pairPages": 13,
-    "techPages": 41,
-    "findingPages": 15
-   },
-   {
-    "tech": "Crazy Egg",
-    "finding": "axe:landmark-one-main",
-    "lift": 1.05,
-    "pairPages": 19,
-    "techPages": 41,
-    "findingPages": 22
-   },
-   {
-    "tech": "Bootstrap",
-    "finding": "axe:link-in-text-block",
-    "lift": 1.05,
-    "pairPages": 6,
-    "techPages": 26,
-    "findingPages": 11
-   },
-   {
-    "tech": "Crazy Egg",
-    "finding": "alfa:sia-r2",
-    "lift": 1.03,
-    "pairPages": 11,
-    "techPages": 41,
-    "findingPages": 13
-   },
-   {
-    "tech": "Crazy Egg",
-    "finding": "axe:list",
-    "lift": 1.02,
-    "pairPages": 25,
-    "techPages": 41,
-    "findingPages": 30
-   },
-   {
-    "tech": "Crazy Egg",
-    "finding": "alfa:sia-r113",
-    "lift": 1.02,
-    "pairPages": 5,
-    "techPages": 41,
-    "findingPages": 6
-   },
-   {
-    "tech": "Google Analytics",
-    "finding": "axe:aria-required-attr",
-    "lift": 1,
-    "pairPages": 50,
-    "techPages": 50,
-    "findingPages": 50
-   },
-   {
-    "tech": "Google Analytics",
-    "finding": "axe:region",
-    "lift": 1,
-    "pairPages": 50,
-    "techPages": 50,
-    "findingPages": 50
-   },
-   {
-    "tech": "HSTS",
-    "finding": "axe:aria-required-attr",
-    "lift": 1,
-    "pairPages": 50,
-    "techPages": 50,
-    "findingPages": 50
-   },
-   {
-    "tech": "HSTS",
-    "finding": "axe:region",
-    "lift": 1,
-    "pairPages": 50,
-    "techPages": 50,
-    "findingPages": 50
-   },
-   {
-    "tech": "Google Analytics",
-    "finding": "axe:label-content-name-mismatch",
-    "lift": 1,
-    "pairPages": 46,
-    "techPages": 50,
-    "findingPages": 46
-   },
-   {
-    "tech": "HSTS",
-    "finding": "axe:label-content-name-mismatch",
-    "lift": 1,
-    "pairPages": 46,
-    "techPages": 50,
-    "findingPages": 46
-   },
-   {
-    "tech": "Crazy Egg",
-    "finding": "axe:aria-required-attr",
-    "lift": 1,
-    "pairPages": 41,
-    "techPages": 41,
-    "findingPages": 50
-   },
-   {
-    "tech": "Crazy Egg",
-    "finding": "axe:region",
-    "lift": 1,
-    "pairPages": 41,
-    "techPages": 41,
-    "findingPages": 50
-   },
-   {
-    "tech": "Google Analytics",
-    "finding": "axe:list",
-    "lift": 1,
-    "pairPages": 30,
-    "techPages": 50,
-    "findingPages": 30
-   },
-   {
-    "tech": "HSTS",
-    "finding": "axe:list",
-    "lift": 1,
-    "pairPages": 30,
-    "techPages": 50,
-    "findingPages": 30
-   },
-   {
-    "tech": "Google Analytics",
-    "finding": "axe:heading-order",
-    "lift": 1,
-    "pairPages": 28,
-    "techPages": 50,
-    "findingPages": 28
-   },
-   {
-    "tech": "HSTS",
-    "finding": "axe:heading-order",
-    "lift": 1,
-    "pairPages": 28,
-    "techPages": 50,
-    "findingPages": 28
-   },
-   {
-    "tech": "Google Analytics",
-    "finding": "axe:role-img-alt",
-    "lift": 1,
-    "pairPages": 27,
-    "techPages": 50,
-    "findingPages": 27
-   },
-   {
-    "tech": "Google Analytics",
-    "finding": "alfa:sia-r66",
-    "lift": 1,
-    "pairPages": 27,
-    "techPages": 50,
-    "findingPages": 27
-   },
-   {
-    "tech": "Google Analytics",
-    "finding": "alfa:sia-r53",
-    "lift": 1,
-    "pairPages": 27,
-    "techPages": 50,
-    "findingPages": 27
-   },
-   {
-    "tech": "Google Analytics",
-    "finding": "alfa:sia-r73",
-    "lift": 1,
-    "pairPages": 27,
-    "techPages": 50,
-    "findingPages": 27
-   },
-   {
-    "tech": "Google Analytics",
-    "finding": "alfa:sia-r61",
-    "lift": 1,
-    "pairPages": 27,
-    "techPages": 50,
-    "findingPages": 27
-   },
-   {
-    "tech": "Google Analytics",
-    "finding": "alfa:sia-r16",
-    "lift": 1,
-    "pairPages": 27,
-    "techPages": 50,
-    "findingPages": 27
-   },
-   {
-    "tech": "Google Analytics",
-    "finding": "alfa:sia-r111",
-    "lift": 1,
-    "pairPages": 27,
-    "techPages": 50,
-    "findingPages": 27
-   },
-   {
-    "tech": "Google Analytics",
-    "finding": "axe:td-headers-attr",
-    "lift": 1,
-    "pairPages": 27,
-    "techPages": 50,
-    "findingPages": 27
-   },
-   {
-    "tech": "HSTS",
-    "finding": "axe:role-img-alt",
-    "lift": 1,
-    "pairPages": 27,
-    "techPages": 50,
-    "findingPages": 27
-   },
-   {
-    "tech": "HSTS",
-    "finding": "alfa:sia-r66",
-    "lift": 1,
-    "pairPages": 27,
-    "techPages": 50,
-    "findingPages": 27
-   },
-   {
-    "tech": "HSTS",
-    "finding": "alfa:sia-r53",
-    "lift": 1,
-    "pairPages": 27,
-    "techPages": 50,
-    "findingPages": 27
-   },
-   {
-    "tech": "HSTS",
-    "finding": "alfa:sia-r73",
-    "lift": 1,
-    "pairPages": 27,
-    "techPages": 50,
-    "findingPages": 27
-   },
-   {
-    "tech": "HSTS",
-    "finding": "alfa:sia-r61",
-    "lift": 1,
-    "pairPages": 27,
-    "techPages": 50,
-    "findingPages": 27
-   },
-   {
-    "tech": "HSTS",
-    "finding": "alfa:sia-r16",
-    "lift": 1,
-    "pairPages": 27,
-    "techPages": 50,
-    "findingPages": 27
-   },
-   {
-    "tech": "HSTS",
-    "finding": "alfa:sia-r111",
-    "lift": 1,
-    "pairPages": 27,
-    "techPages": 50,
-    "findingPages": 27
-   },
-   {
-    "tech": "HSTS",
-    "finding": "axe:td-headers-attr",
-    "lift": 1,
-    "pairPages": 27,
-    "techPages": 50,
-    "findingPages": 27
-   },
-   {
-    "tech": "Google Analytics",
-    "finding": "axe:landmark-unique",
-    "lift": 1,
-    "pairPages": 26,
-    "techPages": 50,
-    "findingPages": 26
+    "findingPages": 19,
+    "withoutPages": 9,
+    "withoutFindingPages": 2
    }
   ]
  },
@@ -216949,5 +216704,25 @@
   "drift_clusters": []
  },
  "pagesAttempted": 548,
- "pagesSucceeded": 497
+ "pagesSucceeded": 497,
+ "access": {
+  "level": "ok",
+  "audited": 497,
+  "attempted": 500,
+  "firewall": {
+   "pages": 0,
+   "challenges": 0,
+   "refusals": 0,
+   "statuses": {},
+   "by": []
+  },
+  "robots": {
+   "rootBlocked": false,
+   "skipped": 0
+  },
+  "connection": null,
+  "errorStatuses": {
+   "404": 3
+  }
+ }
 }

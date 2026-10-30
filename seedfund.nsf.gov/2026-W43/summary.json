@@ -1,7 +1,7 @@
 {
  "domain": "seedfund.nsf.gov",
  "week": "2026-W43",
- "generatedAt": "2026-10-26T18:51:39.467Z",
+ "generatedAt": "2026-10-30T12:43:02.122Z",
  "pagesScanned": 175,
  "pagesAudited": 175,
  "coverage": {
@@ -7169,9 +7169,9 @@
    },
    {
     "id": "gov-tld",
-    "label": "Sponsored government TLD (.gov/.mil/.edu)",
+    "label": "Government domain",
     "pass": true,
-    "detail": "gov"
+    "detail": "gov (United States)"
    },
    {
     "id": "security-txt",
@@ -7191,26 +7191,26 @@
  },
  "publicInterest": {
   "engine": "public-interest",
-  "checkedAt": "2026-10-25T09:49:09.228Z",
+  "checkedAt": "2026-10-25T11:51:59.827Z",
   "a11yStatement": {
    "result": "pass",
    "url": "https://www.nsf.gov/policies/accessibility",
    "confidence": "medium",
-   "checkedAt": "2026-10-25T09:49:08.163Z"
+   "checkedAt": "2026-10-25T11:51:58.723Z"
   },
   "carbonTxt": {
    "result": "fail",
    "url": null,
    "valid": false,
    "fields": {},
-   "checkedAt": "2026-10-25T09:49:08.164Z"
+   "checkedAt": "2026-10-25T11:51:58.723Z"
   },
   "greenWebFoundation": {
    "result": "fail",
    "green": false,
    "hostedBy": null,
    "url": "https://api.thegreenwebfoundation.org/greencheck/seedfund.nsf.gov",
-   "checkedAt": "2026-10-25T09:49:08.164Z"
+   "checkedAt": "2026-10-25T11:51:58.724Z"
   },
   "sitemaps": {
    "xml": {
@@ -7221,7 +7221,7 @@
     "found": false,
     "url": null
    },
-   "checkedAt": "2026-10-25T09:49:08.165Z"
+   "checkedAt": "2026-10-25T11:51:58.725Z"
   }
  },
  "plainLanguage": {
@@ -7396,6 +7396,9 @@
      "https://seedfund.nsf.gov/portfolio/details?company=birdbrain-technologies"
     ]
    }
+  ],
+  "spellingLocales": [
+   "en-US"
   ],
   "topMisspellings": [
    {
@@ -9000,410 +9003,45 @@
      "axe:page-has-heading-one": 5,
      "alfa:sia-r61": 2
     }
+   },
+   "engines": {
+    "axe": {
+     "pages": 13,
+     "tech": {
+      "Google Analytics": 13,
+      "Amazon CloudFront": 13,
+      "cdnjs": 13,
+      "Cloudflare": 13,
+      "jQuery CDN": 13,
+      "jQuery": 13,
+      "List.js": 13,
+      "Modernizr": 13,
+      "Amazon Web Services": 13,
+      "HSTS": 13,
+      "Google Tag Manager": 13,
+      "USWDS": 13
+     }
+    },
+    "alfa": {
+     "pages": 7,
+     "tech": {
+      "Google Analytics": 7,
+      "Amazon CloudFront": 7,
+      "cdnjs": 7,
+      "Cloudflare": 7,
+      "jQuery CDN": 7,
+      "jQuery": 7,
+      "List.js": 7,
+      "Modernizr": 7,
+      "Amazon Web Services": 7,
+      "HSTS": 7,
+      "Google Tag Manager": 7,
+      "USWDS": 7
+     }
+    }
    }
   },
-  "associations": [
-   {
-    "tech": "Google Analytics",
-    "finding": "axe:landmark-banner-is-top-level",
-    "lift": 1,
-    "pairPages": 13,
-    "techPages": 13,
-    "findingPages": 13
-   },
-   {
-    "tech": "Google Analytics",
-    "finding": "axe:landmark-no-duplicate-banner",
-    "lift": 1,
-    "pairPages": 13,
-    "techPages": 13,
-    "findingPages": 13
-   },
-   {
-    "tech": "Google Analytics",
-    "finding": "axe:landmark-unique",
-    "lift": 1,
-    "pairPages": 13,
-    "techPages": 13,
-    "findingPages": 13
-   },
-   {
-    "tech": "Google Analytics",
-    "finding": "axe:link-in-text-block",
-    "lift": 1,
-    "pairPages": 13,
-    "techPages": 13,
-    "findingPages": 13
-   },
-   {
-    "tech": "Amazon CloudFront",
-    "finding": "axe:landmark-banner-is-top-level",
-    "lift": 1,
-    "pairPages": 13,
-    "techPages": 13,
-    "findingPages": 13
-   },
-   {
-    "tech": "Amazon CloudFront",
-    "finding": "axe:landmark-no-duplicate-banner",
-    "lift": 1,
-    "pairPages": 13,
-    "techPages": 13,
-    "findingPages": 13
-   },
-   {
-    "tech": "Amazon CloudFront",
-    "finding": "axe:landmark-unique",
-    "lift": 1,
-    "pairPages": 13,
-    "techPages": 13,
-    "findingPages": 13
-   },
-   {
-    "tech": "Amazon CloudFront",
-    "finding": "axe:link-in-text-block",
-    "lift": 1,
-    "pairPages": 13,
-    "techPages": 13,
-    "findingPages": 13
-   },
-   {
-    "tech": "cdnjs",
-    "finding": "axe:landmark-banner-is-top-level",
-    "lift": 1,
-    "pairPages": 13,
-    "techPages": 13,
-    "findingPages": 13
-   },
-   {
-    "tech": "cdnjs",
-    "finding": "axe:landmark-no-duplicate-banner",
-    "lift": 1,
-    "pairPages": 13,
-    "techPages": 13,
-    "findingPages": 13
-   },
-   {
-    "tech": "cdnjs",
-    "finding": "axe:landmark-unique",
-    "lift": 1,
-    "pairPages": 13,
-    "techPages": 13,
-    "findingPages": 13
-   },
-   {
-    "tech": "cdnjs",
-    "finding": "axe:link-in-text-block",
-    "lift": 1,
-    "pairPages": 13,
-    "techPages": 13,
-    "findingPages": 13
-   },
-   {
-    "tech": "Cloudflare",
-    "finding": "axe:landmark-banner-is-top-level",
-    "lift": 1,
-    "pairPages": 13,
-    "techPages": 13,
-    "findingPages": 13
-   },
-   {
-    "tech": "Cloudflare",
-    "finding": "axe:landmark-no-duplicate-banner",
-    "lift": 1,
-    "pairPages": 13,
-    "techPages": 13,
-    "findingPages": 13
-   },
-   {
-    "tech": "Cloudflare",
-    "finding": "axe:landmark-unique",
-    "lift": 1,
-    "pairPages": 13,
-    "techPages": 13,
-    "findingPages": 13
-   },
-   {
-    "tech": "Cloudflare",
-    "finding": "axe:link-in-text-block",
-    "lift": 1,
-    "pairPages": 13,
-    "techPages": 13,
-    "findingPages": 13
-   },
-   {
-    "tech": "jQuery CDN",
-    "finding": "axe:landmark-banner-is-top-level",
-    "lift": 1,
-    "pairPages": 13,
-    "techPages": 13,
-    "findingPages": 13
-   },
-   {
-    "tech": "jQuery CDN",
-    "finding": "axe:landmark-no-duplicate-banner",
-    "lift": 1,
-    "pairPages": 13,
-    "techPages": 13,
-    "findingPages": 13
-   },
-   {
-    "tech": "jQuery CDN",
-    "finding": "axe:landmark-unique",
-    "lift": 1,
-    "pairPages": 13,
-    "techPages": 13,
-    "findingPages": 13
-   },
-   {
-    "tech": "jQuery CDN",
-    "finding": "axe:link-in-text-block",
-    "lift": 1,
-    "pairPages": 13,
-    "techPages": 13,
-    "findingPages": 13
-   },
-   {
-    "tech": "jQuery",
-    "finding": "axe:landmark-banner-is-top-level",
-    "lift": 1,
-    "pairPages": 13,
-    "techPages": 13,
-    "findingPages": 13
-   },
-   {
-    "tech": "jQuery",
-    "finding": "axe:landmark-no-duplicate-banner",
-    "lift": 1,
-    "pairPages": 13,
-    "techPages": 13,
-    "findingPages": 13
-   },
-   {
-    "tech": "jQuery",
-    "finding": "axe:landmark-unique",
-    "lift": 1,
-    "pairPages": 13,
-    "techPages": 13,
-    "findingPages": 13
-   },
-   {
-    "tech": "jQuery",
-    "finding": "axe:link-in-text-block",
-    "lift": 1,
-    "pairPages": 13,
-    "techPages": 13,
-    "findingPages": 13
-   },
-   {
-    "tech": "List.js",
-    "finding": "axe:landmark-banner-is-top-level",
-    "lift": 1,
-    "pairPages": 13,
-    "techPages": 13,
-    "findingPages": 13
-   },
-   {
-    "tech": "List.js",
-    "finding": "axe:landmark-no-duplicate-banner",
-    "lift": 1,
-    "pairPages": 13,
-    "techPages": 13,
-    "findingPages": 13
-   },
-   {
-    "tech": "List.js",
-    "finding": "axe:landmark-unique",
-    "lift": 1,
-    "pairPages": 13,
-    "techPages": 13,
-    "findingPages": 13
-   },
-   {
-    "tech": "List.js",
-    "finding": "axe:link-in-text-block",
-    "lift": 1,
-    "pairPages": 13,
-    "techPages": 13,
-    "findingPages": 13
-   },
-   {
-    "tech": "Modernizr",
-    "finding": "axe:landmark-banner-is-top-level",
-    "lift": 1,
-    "pairPages": 13,
-    "techPages": 13,
-    "findingPages": 13
-   },
-   {
-    "tech": "Modernizr",
-    "finding": "axe:landmark-no-duplicate-banner",
-    "lift": 1,
-    "pairPages": 13,
-    "techPages": 13,
-    "findingPages": 13
-   },
-   {
-    "tech": "Modernizr",
-    "finding": "axe:landmark-unique",
-    "lift": 1,
-    "pairPages": 13,
-    "techPages": 13,
-    "findingPages": 13
-   },
-   {
-    "tech": "Modernizr",
-    "finding": "axe:link-in-text-block",
-    "lift": 1,
-    "pairPages": 13,
-    "techPages": 13,
-    "findingPages": 13
-   },
-   {
-    "tech": "Amazon Web Services",
-    "finding": "axe:landmark-banner-is-top-level",
-    "lift": 1,
-    "pairPages": 13,
-    "techPages": 13,
-    "findingPages": 13
-   },
-   {
-    "tech": "Amazon Web Services",
-    "finding": "axe:landmark-no-duplicate-banner",
-    "lift": 1,
-    "pairPages": 13,
-    "techPages": 13,
-    "findingPages": 13
-   },
-   {
-    "tech": "Amazon Web Services",
-    "finding": "axe:landmark-unique",
-    "lift": 1,
-    "pairPages": 13,
-    "techPages": 13,
-    "findingPages": 13
-   },
-   {
-    "tech": "Amazon Web Services",
-    "finding": "axe:link-in-text-block",
-    "lift": 1,
-    "pairPages": 13,
-    "techPages": 13,
-    "findingPages": 13
-   },
-   {
-    "tech": "HSTS",
-    "finding": "axe:landmark-banner-is-top-level",
-    "lift": 1,
-    "pairPages": 13,
-    "techPages": 13,
-    "findingPages": 13
-   },
-   {
-    "tech": "HSTS",
-    "finding": "axe:landmark-no-duplicate-banner",
-    "lift": 1,
-    "pairPages": 13,
-    "techPages": 13,
-    "findingPages": 13
-   },
-   {
-    "tech": "HSTS",
-    "finding": "axe:landmark-unique",
-    "lift": 1,
-    "pairPages": 13,
-    "techPages": 13,
-    "findingPages": 13
-   },
-   {
-    "tech": "HSTS",
-    "finding": "axe:link-in-text-block",
-    "lift": 1,
-    "pairPages": 13,
-    "techPages": 13,
-    "findingPages": 13
-   },
-   {
-    "tech": "Google Tag Manager",
-    "finding": "axe:landmark-banner-is-top-level",
-    "lift": 1,
-    "pairPages": 13,
-    "techPages": 13,
-    "findingPages": 13
-   },
-   {
-    "tech": "Google Tag Manager",
-    "finding": "axe:landmark-no-duplicate-banner",
-    "lift": 1,
-    "pairPages": 13,
-    "techPages": 13,
-    "findingPages": 13
-   },
-   {
-    "tech": "Google Tag Manager",
-    "finding": "axe:landmark-unique",
-    "lift": 1,
-    "pairPages": 13,
-    "techPages": 13,
-    "findingPages": 13
-   },
-   {
-    "tech": "Google Tag Manager",
-    "finding": "axe:link-in-text-block",
-    "lift": 1,
-    "pairPages": 13,
-    "techPages": 13,
-    "findingPages": 13
-   },
-   {
-    "tech": "USWDS",
-    "finding": "axe:landmark-banner-is-top-level",
-    "lift": 1,
-    "pairPages": 13,
-    "techPages": 13,
-    "findingPages": 13
-   },
-   {
-    "tech": "USWDS",
-    "finding": "axe:landmark-no-duplicate-banner",
-    "lift": 1,
-    "pairPages": 13,
-    "techPages": 13,
-    "findingPages": 13
-   },
-   {
-    "tech": "USWDS",
-    "finding": "axe:landmark-unique",
-    "lift": 1,
-    "pairPages": 13,
-    "techPages": 13,
-    "findingPages": 13
-   },
-   {
-    "tech": "USWDS",
-    "finding": "axe:link-in-text-block",
-    "lift": 1,
-    "pairPages": 13,
-    "techPages": 13,
-    "findingPages": 13
-   },
-   {
-    "tech": "Google Analytics",
-    "finding": "axe:heading-order",
-    "lift": 1,
-    "pairPages": 8,
-    "techPages": 13,
-    "findingPages": 8
-   },
-   {
-    "tech": "Amazon CloudFront",
-    "finding": "axe:heading-order",
-    "lift": 1,
-    "pairPages": 8,
-    "techPages": 13,
-    "findingPages": 8
-   }
-  ]
+  "associations": []
  },
  "thirdParty": {
   "pagesScanned": 45,
@@ -16886,5 +16524,23 @@
   "drift_clusters": []
  },
  "pagesAttempted": 175,
- "pagesSucceeded": 175
+ "pagesSucceeded": 175,
+ "access": {
+  "level": "ok",
+  "audited": 175,
+  "attempted": 175,
+  "firewall": {
+   "pages": 0,
+   "challenges": 0,
+   "refusals": 0,
+   "statuses": {},
+   "by": []
+  },
+  "robots": {
+   "rootBlocked": false,
+   "skipped": 0
+  },
+  "connection": null,
+  "errorStatuses": {}
+ }
 }

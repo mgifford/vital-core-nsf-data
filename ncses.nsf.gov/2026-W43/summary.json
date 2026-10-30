@@ -1,7 +1,7 @@
 {
  "domain": "ncses.nsf.gov",
  "week": "2026-W43",
- "generatedAt": "2026-10-26T18:51:38.302Z",
+ "generatedAt": "2026-10-30T12:43:00.945Z",
  "pagesScanned": 177,
  "pagesAudited": 177,
  "coverage": {
@@ -63286,9 +63286,9 @@
    },
    {
     "id": "gov-tld",
-    "label": "Sponsored government TLD (.gov/.mil/.edu)",
+    "label": "Government domain",
     "pass": true,
-    "detail": "gov"
+    "detail": "gov (United States)"
    },
    {
     "id": "security-txt",
@@ -63308,26 +63308,26 @@
  },
  "publicInterest": {
   "engine": "public-interest",
-  "checkedAt": "2026-10-25T08:35:01.969Z",
+  "checkedAt": "2026-10-25T11:51:01.773Z",
   "a11yStatement": {
    "result": "pass",
    "url": "https://ncses.nsf.gov/accessibility",
    "confidence": "high",
-   "checkedAt": "2026-10-25T08:35:00.609Z"
+   "checkedAt": "2026-10-25T11:51:00.761Z"
   },
   "carbonTxt": {
    "result": "fail",
    "url": null,
    "valid": false,
    "fields": {},
-   "checkedAt": "2026-10-25T08:35:00.610Z"
+   "checkedAt": "2026-10-25T11:51:00.763Z"
   },
   "greenWebFoundation": {
    "result": "fail",
    "green": false,
    "hostedBy": null,
    "url": "https://api.thegreenwebfoundation.org/greencheck/ncses.nsf.gov",
-   "checkedAt": "2026-10-25T08:35:00.611Z"
+   "checkedAt": "2026-10-25T11:51:00.763Z"
   },
   "sitemaps": {
    "xml": {
@@ -63338,7 +63338,7 @@
     "found": false,
     "url": null
    },
-   "checkedAt": "2026-10-25T08:35:00.612Z"
+   "checkedAt": "2026-10-25T11:51:00.764Z"
   }
  },
  "plainLanguage": {
@@ -63513,6 +63513,9 @@
      "https://www.ncses.nsf.gov/pubs/nsf25307/table/3"
     ]
    }
+  ],
+  "spellingLocales": [
+   "en-US"
   ],
   "topMisspellings": [
    {
@@ -65630,408 +65633,111 @@
      "alfa:sia-r73": 1,
      "alfa:sia-r111": 1
     }
+   },
+   "engines": {
+    "axe": {
+     "pages": 15,
+     "tech": {
+      "Google Analytics": 15,
+      "HSTS": 14,
+      "Bootstrap": 9,
+      "Crazy Egg": 9,
+      "Amazon CloudFront": 1,
+      "Amazon S3": 1,
+      "Amazon Web Services": 1
+     }
+    },
+    "alfa": {
+     "pages": 8,
+     "tech": {
+      "Google Analytics": 8,
+      "HSTS": 7,
+      "Bootstrap": 5,
+      "Crazy Egg": 4,
+      "Amazon CloudFront": 1,
+      "Amazon S3": 1,
+      "Amazon Web Services": 1
+     }
+    }
    }
   },
   "associations": [
    {
     "tech": "Bootstrap",
     "finding": "axe:landmark-one-main",
+    "ratio": null,
     "lift": 1.67,
     "pairPages": 7,
     "techPages": 9,
-    "findingPages": 7
-   },
-   {
-    "tech": "Bootstrap",
-    "finding": "alfa:sia-r57",
-    "lift": 1.67,
-    "pairPages": 5,
-    "techPages": 9,
-    "findingPages": 5
-   },
-   {
-    "tech": "Bootstrap",
-    "finding": "alfa:sia-r2",
-    "lift": 1.39,
-    "pairPages": 5,
-    "techPages": 9,
-    "findingPages": 6
-   },
-   {
-    "tech": "Bootstrap",
-    "finding": "alfa:sia-r14",
-    "lift": 1.39,
-    "pairPages": 5,
-    "techPages": 9,
-    "findingPages": 6
+    "findingPages": 7,
+    "withoutPages": 6,
+    "withoutFindingPages": 0
    },
    {
     "tech": "Bootstrap",
     "finding": "axe:list",
+    "ratio": 3,
     "lift": 1.36,
     "pairPages": 9,
     "techPages": 9,
-    "findingPages": 11
+    "findingPages": 11,
+    "withoutPages": 6,
+    "withoutFindingPages": 2
    },
    {
     "tech": "Bootstrap",
     "finding": "axe:role-img-alt",
+    "ratio": 3,
     "lift": 1.36,
     "pairPages": 9,
     "techPages": 9,
-    "findingPages": 11
+    "findingPages": 11,
+    "withoutPages": 6,
+    "withoutFindingPages": 2
    },
    {
     "tech": "Bootstrap",
     "finding": "axe:label-content-name-mismatch",
+    "ratio": 2,
     "lift": 1.25,
     "pairPages": 9,
     "techPages": 9,
-    "findingPages": 12
+    "findingPages": 12,
+    "withoutPages": 6,
+    "withoutFindingPages": 3
    },
    {
     "tech": "Crazy Egg",
     "finding": "axe:list",
+    "ratio": 1.78,
     "lift": 1.21,
     "pairPages": 8,
     "techPages": 9,
-    "findingPages": 11
+    "findingPages": 11,
+    "withoutPages": 6,
+    "withoutFindingPages": 3
    },
    {
     "tech": "Crazy Egg",
     "finding": "axe:role-img-alt",
+    "ratio": 1.78,
     "lift": 1.21,
     "pairPages": 8,
     "techPages": 9,
-    "findingPages": 11
-   },
-   {
-    "tech": "Bootstrap",
-    "finding": "alfa:sia-r53",
-    "lift": 1.19,
-    "pairPages": 5,
-    "techPages": 9,
-    "findingPages": 7
-   },
-   {
-    "tech": "Bootstrap",
-    "finding": "alfa:sia-r61",
-    "lift": 1.19,
-    "pairPages": 5,
-    "techPages": 9,
-    "findingPages": 7
-   },
-   {
-    "tech": "Bootstrap",
-    "finding": "alfa:sia-r16",
-    "lift": 1.19,
-    "pairPages": 5,
-    "techPages": 9,
-    "findingPages": 7
-   },
-   {
-    "tech": "Bootstrap",
-    "finding": "alfa:sia-r111",
-    "lift": 1.19,
-    "pairPages": 5,
-    "techPages": 9,
-    "findingPages": 7
+    "findingPages": 11,
+    "withoutPages": 6,
+    "withoutFindingPages": 3
    },
    {
     "tech": "Bootstrap",
     "finding": "axe:heading-order",
+    "ratio": 1.56,
     "lift": 1.17,
     "pairPages": 7,
     "techPages": 9,
-    "findingPages": 10
-   },
-   {
-    "tech": "HSTS",
-    "finding": "axe:aria-required-attr",
-    "lift": 1.07,
-    "pairPages": 14,
-    "techPages": 14,
-    "findingPages": 14
-   },
-   {
-    "tech": "HSTS",
-    "finding": "axe:region",
-    "lift": 1.07,
-    "pairPages": 14,
-    "techPages": 14,
-    "findingPages": 14
-   },
-   {
-    "tech": "HSTS",
-    "finding": "axe:label-content-name-mismatch",
-    "lift": 1.07,
-    "pairPages": 12,
-    "techPages": 14,
-    "findingPages": 12
-   },
-   {
-    "tech": "HSTS",
-    "finding": "axe:list",
-    "lift": 1.07,
-    "pairPages": 11,
-    "techPages": 14,
-    "findingPages": 11
-   },
-   {
-    "tech": "HSTS",
-    "finding": "axe:role-img-alt",
-    "lift": 1.07,
-    "pairPages": 11,
-    "techPages": 14,
-    "findingPages": 11
-   },
-   {
-    "tech": "HSTS",
-    "finding": "axe:heading-order",
-    "lift": 1.07,
-    "pairPages": 10,
-    "techPages": 14,
-    "findingPages": 10
-   },
-   {
-    "tech": "Bootstrap",
-    "finding": "axe:aria-required-attr",
-    "lift": 1.07,
-    "pairPages": 9,
-    "techPages": 9,
-    "findingPages": 14
-   },
-   {
-    "tech": "Bootstrap",
-    "finding": "axe:region",
-    "lift": 1.07,
-    "pairPages": 9,
-    "techPages": 9,
-    "findingPages": 14
-   },
-   {
-    "tech": "Crazy Egg",
-    "finding": "axe:aria-required-attr",
-    "lift": 1.07,
-    "pairPages": 9,
-    "techPages": 9,
-    "findingPages": 14
-   },
-   {
-    "tech": "Crazy Egg",
-    "finding": "axe:region",
-    "lift": 1.07,
-    "pairPages": 9,
-    "techPages": 9,
-    "findingPages": 14
-   },
-   {
-    "tech": "HSTS",
-    "finding": "axe:landmark-one-main",
-    "lift": 1.07,
-    "pairPages": 7,
-    "techPages": 14,
-    "findingPages": 7
-   },
-   {
-    "tech": "HSTS",
-    "finding": "alfa:sia-r53",
-    "lift": 1.07,
-    "pairPages": 7,
-    "techPages": 14,
-    "findingPages": 7
-   },
-   {
-    "tech": "HSTS",
-    "finding": "alfa:sia-r61",
-    "lift": 1.07,
-    "pairPages": 7,
-    "techPages": 14,
-    "findingPages": 7
-   },
-   {
-    "tech": "HSTS",
-    "finding": "alfa:sia-r16",
-    "lift": 1.07,
-    "pairPages": 7,
-    "techPages": 14,
-    "findingPages": 7
-   },
-   {
-    "tech": "HSTS",
-    "finding": "axe:scrollable-region-focusable",
-    "lift": 1.07,
-    "pairPages": 6,
-    "techPages": 14,
-    "findingPages": 6
-   },
-   {
-    "tech": "HSTS",
-    "finding": "axe:td-headers-attr",
-    "lift": 1.07,
-    "pairPages": 6,
-    "techPages": 14,
-    "findingPages": 6
-   },
-   {
-    "tech": "HSTS",
-    "finding": "alfa:sia-r2",
-    "lift": 1.07,
-    "pairPages": 6,
-    "techPages": 14,
-    "findingPages": 6
-   },
-   {
-    "tech": "HSTS",
-    "finding": "alfa:sia-r14",
-    "lift": 1.07,
-    "pairPages": 6,
-    "techPages": 14,
-    "findingPages": 6
-   },
-   {
-    "tech": "HSTS",
-    "finding": "axe:aria-dialog-name",
-    "lift": 1.07,
-    "pairPages": 5,
-    "techPages": 14,
-    "findingPages": 5
-   },
-   {
-    "tech": "HSTS",
-    "finding": "alfa:sia-r80",
-    "lift": 1.07,
-    "pairPages": 5,
-    "techPages": 14,
-    "findingPages": 5
-   },
-   {
-    "tech": "HSTS",
-    "finding": "alfa:sia-r74",
-    "lift": 1.07,
-    "pairPages": 5,
-    "techPages": 14,
-    "findingPages": 5
-   },
-   {
-    "tech": "HSTS",
-    "finding": "alfa:sia-r57",
-    "lift": 1.07,
-    "pairPages": 5,
-    "techPages": 14,
-    "findingPages": 5
-   },
-   {
-    "tech": "HSTS",
-    "finding": "axe:landmark-unique",
-    "lift": 1.07,
-    "pairPages": 5,
-    "techPages": 14,
-    "findingPages": 5
-   },
-   {
-    "tech": "Bootstrap",
-    "finding": "alfa:sia-r66",
-    "lift": 1.04,
-    "pairPages": 5,
-    "techPages": 9,
-    "findingPages": 8
-   },
-   {
-    "tech": "Bootstrap",
-    "finding": "alfa:sia-r73",
-    "lift": 1.04,
-    "pairPages": 5,
-    "techPages": 9,
-    "findingPages": 8
-   },
-   {
-    "tech": "Google Analytics",
-    "finding": "axe:aria-required-attr",
-    "lift": 1,
-    "pairPages": 14,
-    "techPages": 15,
-    "findingPages": 14
-   },
-   {
-    "tech": "Google Analytics",
-    "finding": "axe:region",
-    "lift": 1,
-    "pairPages": 14,
-    "techPages": 15,
-    "findingPages": 14
-   },
-   {
-    "tech": "Google Analytics",
-    "finding": "axe:label-content-name-mismatch",
-    "lift": 1,
-    "pairPages": 12,
-    "techPages": 15,
-    "findingPages": 12
-   },
-   {
-    "tech": "Google Analytics",
-    "finding": "axe:list",
-    "lift": 1,
-    "pairPages": 11,
-    "techPages": 15,
-    "findingPages": 11
-   },
-   {
-    "tech": "Google Analytics",
-    "finding": "axe:role-img-alt",
-    "lift": 1,
-    "pairPages": 11,
-    "techPages": 15,
-    "findingPages": 11
-   },
-   {
-    "tech": "Google Analytics",
-    "finding": "axe:heading-order",
-    "lift": 1,
-    "pairPages": 10,
-    "techPages": 15,
-    "findingPages": 10
-   },
-   {
-    "tech": "Google Analytics",
-    "finding": "alfa:sia-r66",
-    "lift": 1,
-    "pairPages": 8,
-    "techPages": 15,
-    "findingPages": 8
-   },
-   {
-    "tech": "Google Analytics",
-    "finding": "alfa:sia-r73",
-    "lift": 1,
-    "pairPages": 8,
-    "techPages": 15,
-    "findingPages": 8
-   },
-   {
-    "tech": "Google Analytics",
-    "finding": "axe:landmark-one-main",
-    "lift": 1,
-    "pairPages": 7,
-    "techPages": 15,
-    "findingPages": 7
-   },
-   {
-    "tech": "Google Analytics",
-    "finding": "alfa:sia-r53",
-    "lift": 1,
-    "pairPages": 7,
-    "techPages": 15,
-    "findingPages": 7
-   },
-   {
-    "tech": "Google Analytics",
-    "finding": "alfa:sia-r61",
-    "lift": 1,
-    "pairPages": 7,
-    "techPages": 15,
-    "findingPages": 7
+    "findingPages": 10,
+    "withoutPages": 6,
+    "withoutFindingPages": 3
    }
   ]
  },
@@ -98085,5 +97791,23 @@
   "drift_clusters": []
  },
  "pagesAttempted": 178,
- "pagesSucceeded": 177
+ "pagesSucceeded": 177,
+ "access": {
+  "level": "ok",
+  "audited": 177,
+  "attempted": 177,
+  "firewall": {
+   "pages": 0,
+   "challenges": 0,
+   "refusals": 0,
+   "statuses": {},
+   "by": []
+  },
+  "robots": {
+   "rootBlocked": false,
+   "skipped": 0
+  },
+  "connection": null,
+  "errorStatuses": {}
+ }
 }

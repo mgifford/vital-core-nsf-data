@@ -1,7 +1,7 @@
 {
  "domain": "par.nsf.gov",
  "week": "2026-W44",
- "generatedAt": "2026-10-26T18:51:38.183Z",
+ "generatedAt": "2026-10-30T12:43:00.863Z",
  "pagesScanned": 4,
  "pagesAudited": 4,
  "coverage": {
@@ -739,6 +739,9 @@
      "https://par.nsf.gov/services"
     ]
    }
+  ],
+  "spellingLocales": [
+   "en-US"
   ],
   "topMisspellings": [
    {
@@ -1611,5 +1614,23 @@
   "drift_clusters": []
  },
  "pagesAttempted": 4,
- "pagesSucceeded": 4
+ "pagesSucceeded": 4,
+ "access": {
+  "level": "ok",
+  "audited": 4,
+  "attempted": 4,
+  "firewall": {
+   "pages": 0,
+   "challenges": 0,
+   "refusals": 0,
+   "statuses": {},
+   "by": []
+  },
+  "robots": {
+   "rootBlocked": false,
+   "skipped": 0
+  },
+  "connection": null,
+  "errorStatuses": {}
+ }
 }
