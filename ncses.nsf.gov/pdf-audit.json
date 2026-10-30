@@ -1,0 +1,262 @@
+{
+ "domain": "ncses.nsf.gov",
+ "updatedAt": "2026-10-30T12:44:22.607Z",
+ "checker": {
+  "name": "pdf-crawler",
+  "url": "https://github.com/mgifford/pdf-crawler",
+  "ref": "9f079bac419b9d2b62cc325c5589df012a99e251",
+  "checks": "original"
+ },
+ "pdfs": {
+  "http://ncses.nsf.gov/1139/assets/0/file/ncses_sed.pdf": {
+   "checkedAt": "2026-10-30T12:43:43.155Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/1139/assets/0/files/earned-doctorates-2023.pdf": {
+   "checkedAt": "2026-10-30T12:43:44.804Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/1139/assets/0/files/earned-doctorates-2024.pdf": {
+   "checkedAt": "2026-10-30T12:43:46.453Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/1139/assets/0/files/earned-doctorates-2025.pdf": {
+   "checkedAt": "2026-10-30T12:43:48.094Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/1219/assets/0/file/ncses_abs.pdf": {
+   "checkedAt": "2026-10-30T12:43:49.733Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/1219/assets/0/files/srvyabs-2023.pdf": {
+   "checkedAt": "2026-10-30T12:43:51.374Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/1219/assets/0/files/srvyabs-2025.pdf": {
+   "checkedAt": "2026-10-30T12:43:53.022Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/1219/assets/0/files/srvyabs-2026.pdf": {
+   "checkedAt": "2026-10-30T12:43:54.673Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/1341/assets/0/file/ncses_nscg.pdf": {
+   "checkedAt": "2026-10-30T12:43:56.312Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/1341/assets/0/files/nscg-2023-new-respondents.pdf": {
+   "checkedAt": "2026-10-30T12:43:57.951Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/1341/assets/0/files/nscg-2023-non-respondents.pdf": {
+   "checkedAt": "2026-10-30T12:43:59.599Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/1341/assets/0/files/nscg-2023-returning-respondents.pdf": {
+   "checkedAt": "2026-10-30T12:44:01.248Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/1341/assets/0/files/nscg-2025-new-respondents.pdf": {
+   "checkedAt": "2026-10-30T12:44:02.889Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/1341/assets/0/files/nscg-2025-non-respondents.pdf": {
+   "checkedAt": "2026-10-30T12:44:04.530Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/1341/assets/0/files/nscg-2025-returning-respondents.pdf": {
+   "checkedAt": "2026-10-30T12:44:06.171Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/1379/assets/0/file/ncses_sdr.pdf": {
+   "checkedAt": "2026-10-30T12:44:07.820Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/1379/assets/0/files/srvydoctoratework-2023.pdf": {
+   "checkedAt": "2026-10-30T12:44:09.469Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/1879/assets/0/file/ncses_abs.pdf": {
+   "checkedAt": "2026-10-30T12:44:11.109Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/1879/assets/0/files/srvyabs-2025.pdf": {
+   "checkedAt": "2026-10-30T12:44:12.748Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/1879/assets/0/files/srvyabs-2026.pdf": {
+   "checkedAt": "2026-10-30T12:44:14.389Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/379/assets/0/file/ncses_abs.pdf": {
+   "checkedAt": "2026-10-30T12:44:16.029Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/379/assets/0/file/ncses_innovation_one_pager.pdf": {
+   "checkedAt": "2026-10-30T12:44:17.670Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/379/assets/0/files/srvyabs-2021-abs-1.pdf": {
+   "checkedAt": "2026-10-30T12:44:19.319Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/660/assets/0/file/ncses_uscompetitiveness_onepager.pdf": {
+   "checkedAt": "2026-10-30T12:44:20.968Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/800/assets/0/file/ncses_gss.pdf": {
+   "checkedAt": "2026-10-30T12:44:22.607Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  }
+ }
+}

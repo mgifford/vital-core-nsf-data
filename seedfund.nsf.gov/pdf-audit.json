@@ -1,0 +1,274 @@
+{
+ "domain": "seedfund.nsf.gov",
+ "updatedAt": "2026-10-30T12:48:48.683Z",
+ "checker": {
+  "name": "pdf-crawler",
+  "url": "https://github.com/mgifford/pdf-crawler",
+  "ref": "9f079bac419b9d2b62cc325c5589df012a99e251",
+  "checks": "original"
+ },
+ "pdfs": {
+  "https://nsf-gov-resources.nsf.gov/files/COI-Confidentiality-Panelists-NSF_Form_1230P.pdf": {
+   "checkedAt": "2026-10-30T12:48:48.680Z",
+   "week": "2026-W44",
+   "httpStatus": 200,
+   "md5": "8993f778630d618d6a1424aad89adae7",
+   "bytes": 232709,
+   "etag": "W/\"8993f778630d618d6a1424aad89adae7\"",
+   "lastModified": "Tue, 13 Jan 2026 18:32:07 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": true,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": false,
+    "published": "2026-01-13",
+    "title": "NSF Form 1230P, Conflict of Interests and Confidentiality Statement for NSF Panelists",
+    "pages": 5,
+    "words": 2114,
+    "images": 5,
+    "category": "Form",
+    "checks": {
+     "tagged": "pass",
+     "title": "pass",
+     "language": "pass",
+     "bookmarks": "pass",
+     "taggedContent": "pass",
+     "figuresAlt": "pass",
+     "headings": "pass",
+     "lists": "pass",
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": "pass",
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": []
+  },
+  "https://seedfund.nsf.gov/assets/files/applicants/combined-topics.pdf": {
+   "checkedAt": "2026-10-30T12:48:48.681Z",
+   "week": "2026-W44",
+   "httpStatus": 200,
+   "md5": "e9cc42b644bcc777cbc429664876be86",
+   "bytes": 541616,
+   "etag": "\"e9cc42b644bcc777cbc429664876be86\"",
+   "lastModified": "Tue, 03 Mar 2026 18:47:00 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": false,
+    "published": "2026-03-03",
+    "title": "SOLICITATION TOPICS & SUBTOPICS",
+    "pages": 34,
+    "words": 7018,
+    "images": 1,
+    "category": null,
+    "checks": {
+     "tagged": "pass",
+     "title": "pass",
+     "language": "pass",
+     "bookmarks": "pass",
+     "taggedContent": "fail",
+     "figuresAlt": "pass",
+     "headings": "pass",
+     "lists": "pass",
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": "pass",
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "tagged-content-fail, "
+   ]
+  },
+  "https://nsf-gov-resources.nsf.gov/2023-11/NSF-Policy-on-Brand-Standards.pdf": {
+   "checkedAt": "2026-10-30T12:48:48.681Z",
+   "week": "2026-W44",
+   "httpStatus": 200,
+   "md5": "6f7c2fd6fd0b93228c749bbbf87d64e7",
+   "bytes": 265037,
+   "etag": "W/\"6f7c2fd6fd0b93228c749bbbf87d64e7\"",
+   "lastModified": "Mon, 20 Nov 2023 17:07:14 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": true,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": false,
+    "published": "2023-11-20",
+    "title": "NSF Brand Policy",
+    "pages": 12,
+    "words": 5105,
+    "images": 13,
+    "category": "Policy",
+    "checks": {
+     "tagged": "pass",
+     "title": "pass",
+     "language": "pass",
+     "bookmarks": "pass",
+     "taggedContent": "pass",
+     "figuresAlt": "pass",
+     "headings": "pass",
+     "lists": "pass",
+     "tables": "pass",
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": "pass",
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": []
+  },
+  "https://seedfund.nsf.gov/assets/files/press/overview.pdf": {
+   "checkedAt": "2026-10-30T12:48:48.682Z",
+   "week": "2026-W44",
+   "httpStatus": 200,
+   "md5": "1ccc0fd3b3d81e433f7c548429e1d69d",
+   "bytes": 2763546,
+   "etag": "\"1ccc0fd3b3d81e433f7c548429e1d69d\"",
+   "lastModified": "Mon, 10 Mar 2025 18:11:34 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": true,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": false,
+    "published": "2025-03-10",
+    "title": "SBIR STTR Seed Money One Pager",
+    "pages": 2,
+    "words": 469,
+    "images": 8,
+    "category": "Press",
+    "checks": {
+     "tagged": "pass",
+     "title": "pass",
+     "language": "pass",
+     "bookmarks": "pass",
+     "taggedContent": "pass",
+     "figuresAlt": "pass",
+     "headings": null,
+     "lists": null,
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": "pass",
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "headings-none, lists-warn, "
+   ]
+  },
+  "https://seedfund.nsf.gov/assets/files/awardees/NSF_Interim_Report_Fillable.pdf": {
+   "checkedAt": "2026-10-30T12:48:48.682Z",
+   "week": "2026-W44",
+   "httpStatus": 200,
+   "md5": "debb85b4d1e3fc7a92a2fb15c4127340",
+   "bytes": 980547,
+   "etag": "\"debb85b4d1e3fc7a92a2fb15c4127340\"",
+   "lastModified": "Thu, 18 May 2023 19:25:39 GMT",
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "Analysis exceeded 120s per-file limit"
+   ]
+  },
+  "https://seedfund.nsf.gov/assets/files/awardees/NSF_SBIR_Ambassador_Toolkit.pdf": {
+   "checkedAt": "2026-10-30T12:48:48.683Z",
+   "week": "2026-W44",
+   "httpStatus": 200,
+   "md5": "ae71e08e77ec4ceff2035942adad27fa",
+   "bytes": 171407,
+   "etag": "\"ae71e08e77ec4ceff2035942adad27fa\"",
+   "lastModified": "Wed, 12 Apr 2023 18:04:57 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": false,
+    "published": "2023-04-10",
+    "title": null,
+    "pages": 1,
+    "words": 337,
+    "images": 2,
+    "category": null,
+    "checks": {
+     "tagged": "pass",
+     "title": "fail",
+     "language": "pass",
+     "bookmarks": "pass",
+     "taggedContent": "pass",
+     "figuresAlt": "fail",
+     "headings": null,
+     "lists": "pass",
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": null,
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "title, figures missing alt text (count=2), headings-none, "
+   ]
+  },
+  "https://seedfund.nsf.gov/assets/files/awardees/Phase_II_Reporting_Pre-2019.pdf": {
+   "checkedAt": "2026-10-30T12:48:48.683Z",
+   "week": "2026-W44",
+   "httpStatus": 200,
+   "md5": "b57653becd1c10049d320604a37d9721",
+   "bytes": 193735,
+   "etag": "\"b57653becd1c10049d320604a37d9721\"",
+   "lastModified": "Mon, 04 May 2026 17:04:54 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": true,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": false,
+    "published": "2026-04-20",
+    "title": "Phase II Reporting - 2019 or earlier",
+    "pages": 5,
+    "words": 1169,
+    "images": 0,
+    "category": null,
+    "checks": {
+     "tagged": "pass",
+     "title": "pass",
+     "language": "pass",
+     "bookmarks": "pass",
+     "taggedContent": "pass",
+     "figuresAlt": "pass",
+     "headings": "pass",
+     "lists": "pass",
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": "pass",
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "tables-warn, "
+   ]
+  }
+ }
+}

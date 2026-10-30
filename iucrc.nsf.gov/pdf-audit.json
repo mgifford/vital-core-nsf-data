@@ -1,0 +1,189 @@
+{
+ "domain": "iucrc.nsf.gov",
+ "updatedAt": "2026-10-30T12:46:35.234Z",
+ "checker": {
+  "name": "pdf-crawler",
+  "url": "https://github.com/mgifford/pdf-crawler",
+  "ref": "9f079bac419b9d2b62cc325c5589df012a99e251",
+  "checks": "original"
+ },
+ "pdfs": {
+  "http://www.nsf.gov/pubs/policydocs/gc1/dec14.pdf": {
+   "checkedAt": "2026-10-30T12:44:22.719Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://iucrc.nsf.gov/sites/default/files/2020-04/annual-costs.pdf": {
+   "checkedAt": "2026-10-30T12:44:27.032Z",
+   "week": "2026-W44",
+   "httpStatus": 404,
+   "etag": "\"457130ace2c010cf88da9374954c3fbe\"",
+   "lastModified": "Thu, 07 May 2026 17:16:24 GMT",
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "HTTP 404"
+   ]
+  },
+  "https://iucrc.nsf.gov/sites/default/files/2020-03/NSF-book-2016-Final.pdf": {
+   "checkedAt": "2026-10-30T12:46:35.230Z",
+   "week": "2026-W44",
+   "httpStatus": 200,
+   "md5": "72d3eda8b8d7455929720466ee3ca723",
+   "bytes": 18292651,
+   "etag": "\"38df89f762d2b15528bf8b49b5405def-3\"",
+   "lastModified": "Mon, 19 Oct 2026 16:23:27 GMT",
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "Analysis exceeded 120s per-file limit"
+   ]
+  },
+  "https://iucrc.nsf.gov/sites/default/files/2020-07/SF1449.pdf": {
+   "checkedAt": "2026-10-30T12:46:35.232Z",
+   "week": "2026-W44",
+   "httpStatus": 200,
+   "md5": "c73089c3a54da04ae8db46aa304a361f",
+   "bytes": 1152147,
+   "etag": "\"c73089c3a54da04ae8db46aa304a361f\"",
+   "lastModified": "Thu, 06 Oct 2022 17:51:14 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": false,
+    "published": "2016-11-17",
+    "title": "Printing C:\\FORMFLOW\\FORMS\\SF\\S1449_3.FRP",
+    "pages": 2,
+    "words": 527,
+    "images": 1,
+    "category": null,
+    "checks": {
+     "tagged": "pass",
+     "title": "fail",
+     "language": "fail",
+     "bookmarks": "pass",
+     "taggedContent": "pass",
+     "figuresAlt": "pass",
+     "headings": null,
+     "lists": null,
+     "tables": null,
+     "forms": "fail",
+     "taggedForms": "fail",
+     "taggedAnnotations": null,
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "title, lang, forms-fail, forms-tagging-fail, headings-none, "
+   ]
+  },
+  "https://iucrc.nsf.gov/sites/default/files/2022_11_14_IUCRC%20Webinar_external.pdf": {
+   "checkedAt": "2026-10-30T12:46:35.233Z",
+   "week": "2026-W44",
+   "httpStatus": 200,
+   "md5": "8fb3de7d09c55a6074bea6b64e0dedf5",
+   "bytes": 2928537,
+   "etag": "\"8fb3de7d09c55a6074bea6b64e0dedf5\"",
+   "lastModified": "Thu, 08 Dec 2022 21:02:36 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": false,
+    "published": "2022-12-08",
+    "title": "National Science Foundation Solicitation 20-570",
+    "pages": 32,
+    "words": 2112,
+    "images": 206,
+    "category": null,
+    "checks": {
+     "tagged": "pass",
+     "title": "pass",
+     "language": "pass",
+     "bookmarks": "pass",
+     "taggedContent": "pass",
+     "figuresAlt": "fail",
+     "headings": "pass",
+     "lists": null,
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": "fail",
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "figures missing alt text (count=7), lists-warn, annotations-tagging-fail, "
+   ]
+  },
+  "https://iucrc.nsf.gov/sites/default/files/NSF%20Trading%20Partner%20Readiness%20Intake%20Form.pdf": {
+   "checkedAt": "2026-10-30T12:46:35.233Z",
+   "week": "2026-W44",
+   "httpStatus": 200,
+   "md5": "0ee7de0cd04a1cfa46fbce87ddeb4762",
+   "bytes": 421845,
+   "etag": "\"0ee7de0cd04a1cfa46fbce87ddeb4762\"",
+   "lastModified": "Fri, 27 Jan 2023 19:42:03 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": false,
+    "published": "2023-01-25",
+    "title": "NSF Trading Partner Rediness Intake Form",
+    "pages": 1,
+    "words": 289,
+    "images": 3,
+    "category": null,
+    "checks": {
+     "tagged": "pass",
+     "title": "pass",
+     "language": "pass",
+     "bookmarks": "pass",
+     "taggedContent": "pass",
+     "figuresAlt": "pass",
+     "headings": null,
+     "lists": null,
+     "tables": null,
+     "forms": "pass",
+     "taggedForms": "fail",
+     "taggedAnnotations": "pass",
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "forms-tagging-fail, headings-none, "
+   ]
+  },
+  "https://www.nsf.gov/about/history/legislation.pdf": {
+   "checkedAt": "2026-10-30T12:46:35.234Z",
+   "week": "2026-W44",
+   "httpStatus": 200,
+   "md5": "2667e9acf4e17fda8ae14b5cdd6057bd",
+   "bytes": 236055,
+   "etag": "\"1793352610-gzip\"",
+   "lastModified": "Fri, 30 Oct 2026 09:30:10 GMT",
+   "finalUrl": "https://www.nsf.gov/about/history",
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "Not a PDF file: no %PDF- header"
+   ]
+  }
+ }
+}
