@@ -1,6 +1,6 @@
 {
  "domain": "ncses.nsf.gov",
- "updatedAt": "2026-10-30T12:44:22.607Z",
+ "updatedAt": "2026-10-30T13:42:17.101Z",
  "checker": {
   "name": "pdf-crawler",
   "url": "https://github.com/mgifford/pdf-crawler",
@@ -250,6 +250,256 @@
   },
   "http://ncses.nsf.gov/800/assets/0/file/ncses_gss.pdf": {
    "checkedAt": "2026-10-30T12:44:22.607Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/800/assets/0/files/srvygradstudentspostdocs2022.pdf": {
+   "checkedAt": "2026-10-30T13:41:38.279Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/800/assets/0/files/srvygradstudentspostdocs2023.pdf": {
+   "checkedAt": "2026-10-30T13:41:39.898Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/ncses24006/assets/ncses24006.pdf": {
+   "checkedAt": "2026-10-30T13:41:41.519Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/ncses24011/assets/ncses24011.pdf": {
+   "checkedAt": "2026-10-30T13:41:43.137Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/ncses24206/assets/ncses24206.pdf": {
+   "checkedAt": "2026-10-30T13:41:44.753Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/ncses25001/assets/ncses25001.pdf": {
+   "checkedAt": "2026-10-30T13:41:46.370Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/ncses25006/assets/ncses25006.pdf": {
+   "checkedAt": "2026-10-30T13:41:47.987Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/ncses25009/assets/ncses25009.pdf": {
+   "checkedAt": "2026-10-30T13:41:49.604Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/ncses25222/assets/ncses25222.pdf": {
+   "checkedAt": "2026-10-30T13:41:51.219Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/ncses26007/assets/ncses26007.pdf": {
+   "checkedAt": "2026-10-30T13:41:52.837Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsb20262/assets/business-dynamics-and-investment/figures/nsb20262-figtrn-025.pdf": {
+   "checkedAt": "2026-10-30T13:41:54.453Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsb20262/assets/business-dynamics-and-investment/figures/nsb20262-figtrn-026.pdf": {
+   "checkedAt": "2026-10-30T13:41:56.071Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsb20262/assets/business-dynamics-and-investment/figures/nsb20262-figtrn-027.pdf": {
+   "checkedAt": "2026-10-30T13:41:57.688Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsb20262/assets/business-dynamics-and-investment/figures/nsb20262-figtrn-028.pdf": {
+   "checkedAt": "2026-10-30T13:41:59.305Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsb20262/assets/business-dynamics-and-investment/figures/nsb20262-figtrn-029.pdf": {
+   "checkedAt": "2026-10-30T13:42:00.920Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsb20262/assets/business-dynamics-and-investment/figures/nsb20262-figtrn-030.pdf": {
+   "checkedAt": "2026-10-30T13:42:02.548Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsb20262/assets/business-dynamics-and-investment/tables/nsb20262-tabtrn-005.pdf": {
+   "checkedAt": "2026-10-30T13:42:04.166Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsb20262/assets/global-trade-by-kti-industries/figures/nsb20262-figtrn-037.pdf": {
+   "checkedAt": "2026-10-30T13:42:05.782Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsb20262/assets/global-trade-by-kti-industries/figures/nsb20262-figtrn-038.pdf": {
+   "checkedAt": "2026-10-30T13:42:07.399Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsb20262/assets/global-trade-by-kti-industries/figures/nsb20262-figtrn-039.pdf": {
+   "checkedAt": "2026-10-30T13:42:09.016Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsb20262/assets/innovation/figures/nsb20262-figtrn-023.pdf": {
+   "checkedAt": "2026-10-30T13:42:10.633Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsb20262/assets/innovation/figures/nsb20262-figtrn-024.pdf": {
+   "checkedAt": "2026-10-30T13:42:12.249Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsb20262/assets/innovation/figures/nsb20262-figtrn-a.pdf": {
+   "checkedAt": "2026-10-30T13:42:13.866Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsb20262/assets/innovation/figures/nsb20262-figtrn-b.pdf": {
+   "checkedAt": "2026-10-30T13:42:15.485Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsb20262/assets/innovation/figures/nsb20262-figtrn-c.pdf": {
+   "checkedAt": "2026-10-30T13:42:17.101Z",
    "week": "2026-W44",
    "httpStatus": null,
    "status": "error",
