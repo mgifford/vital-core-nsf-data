@@ -1,6 +1,6 @@
 {
  "domain": "ncses.nsf.gov",
- "updatedAt": "2026-10-30T13:42:17.101Z",
+ "updatedAt": "2026-10-31T01:49:08.607Z",
  "checker": {
   "name": "pdf-crawler",
   "url": "https://github.com/mgifford/pdf-crawler",
@@ -500,6 +500,256 @@
   },
   "http://ncses.nsf.gov/pubs/nsb20262/assets/innovation/figures/nsb20262-figtrn-c.pdf": {
    "checkedAt": "2026-10-30T13:42:17.101Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsb20262/assets/innovation/sidebars/nsb20262-comparing-innovation-across-countries.pdf": {
+   "checkedAt": "2026-10-31T01:48:32.334Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsb20262/assets/innovation/sidebars/nsb20262-global-contributions-and-collaborations-in-open-source-software.pdf": {
+   "checkedAt": "2026-10-31T01:48:33.845Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsb20262/assets/introduction/figures/nsb20262-figtrn-001.pdf": {
+   "checkedAt": "2026-10-31T01:48:35.356Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsb20262/assets/introduction/figures/nsb20262-figtrn-002.pdf": {
+   "checkedAt": "2026-10-31T01:48:36.868Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsb20262/assets/introduction/figures/nsb20262-figtrn-003.pdf": {
+   "checkedAt": "2026-10-31T01:48:38.378Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsb20262/assets/introduction/sidebars/nsb20262-measuring-short-and-long-term-impacts-of-s-e-activity.pdf": {
+   "checkedAt": "2026-10-31T01:48:39.891Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsb20262/assets/introduction/tables/nsb20262-tabtrn-001.pdf": {
+   "checkedAt": "2026-10-31T01:48:41.401Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-004.pdf": {
+   "checkedAt": "2026-10-31T01:48:42.911Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-005.pdf": {
+   "checkedAt": "2026-10-31T01:48:44.424Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-006.pdf": {
+   "checkedAt": "2026-10-31T01:48:45.935Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-007.pdf": {
+   "checkedAt": "2026-10-31T01:48:47.445Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-008.pdf": {
+   "checkedAt": "2026-10-31T01:48:48.955Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-009.pdf": {
+   "checkedAt": "2026-10-31T01:48:50.472Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-010.pdf": {
+   "checkedAt": "2026-10-31T01:48:51.984Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-011.pdf": {
+   "checkedAt": "2026-10-31T01:48:53.495Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-012.pdf": {
+   "checkedAt": "2026-10-31T01:48:55.006Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-013.pdf": {
+   "checkedAt": "2026-10-31T01:48:56.517Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-014.pdf": {
+   "checkedAt": "2026-10-31T01:48:58.028Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-015.pdf": {
+   "checkedAt": "2026-10-31T01:48:59.539Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-016.pdf": {
+   "checkedAt": "2026-10-31T01:49:01.050Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-017.pdf": {
+   "checkedAt": "2026-10-31T01:49:02.561Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-018.pdf": {
+   "checkedAt": "2026-10-31T01:49:04.073Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-019.pdf": {
+   "checkedAt": "2026-10-31T01:49:05.584Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-020.pdf": {
+   "checkedAt": "2026-10-31T01:49:07.095Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/figures/nsb20262-figtrn-021.pdf": {
+   "checkedAt": "2026-10-31T01:49:08.606Z",
    "week": "2026-W44",
    "httpStatus": null,
    "status": "error",
