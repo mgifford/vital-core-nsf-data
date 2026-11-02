@@ -1,0 +1,221 @@
+{
+ "runId": "2026-11-02T18-42-38-308Z-a711e4",
+ "week": "2026-W45",
+ "domain": "www.nsf.gov",
+ "canonical": {
+  "origin": "https://www.nsf.gov",
+  "configured": "https://www.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-02T18:42:38.763Z",
+ "scanned": [
+  "29bf08851af92343",
+  "49e54efdc38054b3",
+  "90a19cbdb6b7dd0d",
+  "268e0ff9a6b34ea6",
+  "99483fe0c47489f6",
+  "3042dbd72bdca1f1",
+  "c557db053d515893",
+  "ccfaf081bb7a979b",
+  "9c9a294f0426121a",
+  "abe372d4501dbcab",
+  "d32bc30c4f4cb879",
+  "b49c1882526cd723",
+  "ddf0db0ed71882a3",
+  "e50e52314dc97daf",
+  "d734a3f108ac7650",
+  "0c76768adda2369e",
+  "6ede0928941c5ce2",
+  "c0a22c32a981313d",
+  "6ddfb77eccf64660",
+  "f682fe0a3f5105ed",
+  "7200c61456ebe610",
+  "341b2cd5ae970cec",
+  "1705d0bb44240903",
+  "965a10570c869251"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 325,
+  "checked": 325,
+  "brokenCount": 16,
+  "broken": [
+   {
+    "url": "https://www.fastlane.nsf.gov/a1/newstan.htm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/crifmu-chemistry-research-instrumentation-facilities-departmental/13579/nsf09-546/solicitation",
+     "https://www.nsf.gov/funding/opportunities/dusel-deep-underground-science-engineering-laboratory/500072/nsf06-614/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=aag",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/crifmu-chemistry-research-instrumentation-facilities-departmental/13579/nsf09-546/solicitation"
+    ]
+   },
+   {
+    "url": "https://ascendelements.com/",
+    "status": 503,
+    "reason": "HTTP 503",
+    "foundOn": [
+     "https://www.nsf.gov/science-matters/battery-recycling-breakthrough"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_NO3GeKkiQlqVwjqzzttumg",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/hsi-etse-upcoming-webinars-office-hours/2024-08-20"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_VlY1R9iBTOCtdA_Gt7huaA",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/hsi-etse-upcoming-webinars-office-hours/2024-08-20"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_UEH_-DWETTWPTDfoY3iD4g",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/hsi-etse-upcoming-webinars-office-hours/2024-08-20"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_r2vYauHnR-C3w3un0qCw4g",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/hsi-etse-upcoming-webinars-office-hours/2024-08-20"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJItf-qvqT8qHWOJuL7vmnwghmDOTfRcSVY",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/hsi-etse-upcoming-webinars-office-hours/2024-08-20"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJIscumqrjkjE_2asneZ2Ho6sJO5XezH46U",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/hsi-etse-upcoming-webinars-office-hours/2024-08-20"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJIsf--sqDsrGQCqaMagYEN_jkbRlwjdifU",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/hsi-etse-upcoming-webinars-office-hours/2024-08-20"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/epublish/GRANTED",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/granted-office-hours-0/2024-07-03"
+    ]
+   },
+   {
+    "url": "https://debblog.nsfbio.com/2021/03/08/explore-our-blog/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/events/deb-virtual-office-hours-how-write-great-budget"
+    ]
+   },
+   {
+    "url": "https://debblog.nsfbio.com/office-hours/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/events/deb-virtual-office-hours-how-write-great-budget"
+    ]
+   },
+   {
+    "url": "https://debblog.nsfbio.com/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/events/deb-virtual-office-hours-how-write-great-budget"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/bfa/docs/mrefcguidelines1206.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dusel-deep-underground-science-engineering-laboratory/500072/nsf06-614/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=gpm",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dusel-deep-underground-science-engineering-laboratory/500072/nsf06-614/solicitation"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 23,
+  "alfa": 15,
+  "plain-language": 11,
+  "resources": 23,
+  "images": 23,
+  "standards": 12,
+  "security": 1,
+  "link-check": 23,
+  "deprecated-html": 3,
+  "sustainability": 3,
+  "third-party": 6,
+  "public-interest": 1,
+  "lighthouse": 1
+ },
+ "tally": {
+  "ok": 23,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 1,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 1,
+  "error": 0
+ },
+ "finishedAt": "2026-11-02T18:45:57.765Z"
+}
