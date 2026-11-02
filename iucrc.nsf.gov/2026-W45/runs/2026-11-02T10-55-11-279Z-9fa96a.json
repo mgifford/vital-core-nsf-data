@@ -1,0 +1,182 @@
+{
+ "runId": "2026-11-02T10-55-11-279Z-9fa96a",
+ "week": "2026-W45",
+ "domain": "iucrc.nsf.gov",
+ "canonical": {
+  "origin": "https://iucrc.nsf.gov",
+  "configured": "https://iucrc.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-02T10:55:11.798Z",
+ "scanned": [
+  "5b392bf77440b769",
+  "9a643f971dbcdee9",
+  "258566a29450b3b6",
+  "b78d21630edb2acc",
+  "7bd6a306f40142ef",
+  "681e71c352c6327d",
+  "77bf8a894b2b50e6",
+  "52199e0571675d7a",
+  "ae811fdf5d484bfb",
+  "72f70afcec7651cc",
+  "e660082b7b357ab8",
+  "47fb30f3fb860e81",
+  "7bf7cc327b0ac966",
+  "73c4d8fa77c40f86",
+  "b36c2ef821ca30d5",
+  "4ee7f78f50c84454",
+  "8a2ac1988ac01f59",
+  "af7132aeafa60245",
+  "aa2bb65a27d91da0",
+  "fd727701f775e846",
+  "789090050aa8462a",
+  "4625dea4fd069df6",
+  "a2a6e3792e818890",
+  "6dfaa349496a376a",
+  "1969de495e88916a"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 248,
+  "checked": 248,
+  "brokenCount": 11,
+  "broken": [
+   {
+    "url": "https://www.hpe.com/us/en/home.html",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-advanced-electronics-through-machine-learning"
+    ]
+   },
+   {
+    "url": "https://www.si2technologies.com/",
+    "status": 0,
+    "reason": "ERR_SSL_TLSV1_ALERT_INTERNAL_ERROR",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-advanced-electronics-through-machine-learning"
+    ]
+   },
+   {
+    "url": "https://www.amd.com/en.html",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-intelligent-distributed-embedded-applications-and-systems-ideas"
+    ]
+   },
+   {
+    "url": "https://www.analog.com/en/index.html",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/integrated-power-management-circuits-and-systems---power-one-ic"
+    ]
+   },
+   {
+    "url": "https://faradaycopper.com/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-advanced-subsurface-earth-resource-models"
+    ]
+   },
+   {
+    "url": "http://fiwin.ece.gatech.edu/Index.htm",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/fiber-wireless-integration-and-networking-for-heterogeneous-mobile-data-communications"
+    ]
+   },
+   {
+    "url": "https://liononemetals.com/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-advanced-subsurface-earth-resource-models"
+    ]
+   },
+   {
+    "url": "http://www.ststnett.no/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-cybersecurity-analytics-and-automation"
+    ]
+   },
+   {
+    "url": "https://www.usace.army.mil/",
+    "status": 0,
+    "reason": "ENETUNREACH",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-hardware-and-embedded-system-security-and-trust"
+    ]
+   },
+   {
+    "url": "https://getcruise.com/",
+    "status": 0,
+    "reason": "CERT_HAS_EXPIRED",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/efficient-vehicles-and-sustainable-transportation-systems"
+    ]
+   },
+   {
+    "url": "http://www.analog.com/",
+    "status": 0,
+    "reason": "timeout",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-hardware-and-embedded-system-security-and-trust"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 24,
+  "alfa": 12,
+  "deprecated-html": 6,
+  "resources": 24,
+  "images": 24,
+  "standards": 12,
+  "third-party": 8,
+  "link-check": 24,
+  "plain-language": 9,
+  "tech": 5,
+  "public-interest": 1,
+  "security": 2,
+  "sustainability": 1,
+  "lighthouse": 3
+ },
+ "tally": {
+  "ok": 24,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-02T10:58:31.804Z"
+}
