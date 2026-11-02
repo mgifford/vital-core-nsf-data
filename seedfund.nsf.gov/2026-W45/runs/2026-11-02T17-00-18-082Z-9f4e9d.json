@@ -1,0 +1,110 @@
+{
+ "runId": "2026-11-02T17-00-18-082Z-9f4e9d",
+ "week": "2026-W45",
+ "domain": "seedfund.nsf.gov",
+ "canonical": {
+  "origin": "https://seedfund.nsf.gov",
+  "configured": "https://seedfund.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-02T17:00:19.619Z",
+ "scanned": [
+  "38e6ae7f22679539",
+  "bafd489bab489e9b",
+  "6340a2caa89f1e14",
+  "fb3fcb87ee13c49d",
+  "a4f1401416e2c30f",
+  "04b127cf409bf8bd",
+  "c52b399526a09066",
+  "bf5c73d39211f6f5",
+  "3be97c14b3a5aa10",
+  "a920748aa0c2d46b",
+  "063e1e987b0964f7",
+  "c9b9de2e44e151fc",
+  "aa56cae58b85177d",
+  "9706c28972290217",
+  "b216c8b75fc2f0a8",
+  "a5d180f03ac2c81f",
+  "282c40803e9a7c71",
+  "9d81a72d8de0b672",
+  "955b8eee1fd41982",
+  "bff78eb263f5e7b3",
+  "de22a0f8534659df",
+  "9ec4b0cde72a0440",
+  "5971b5ab0df7dac9",
+  "b3adc0513b872fc0",
+  "9bec1425ec540dd9"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 88,
+  "checked": 88,
+  "brokenCount": 2,
+  "broken": [
+   {
+    "url": "http://www.ascendelements.com/",
+    "status": 503,
+    "reason": "HTTP 503",
+    "foundOn": [
+     "https://seedfund.nsf.gov/awardees/history/details?company=battery-resourcers-llc"
+    ]
+   },
+   {
+    "url": "https://seedfund.nsf.gov/centers/focus-area/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://seedfund.nsf.gov/centers/ceps/additively-manufactured-pure-copper-revolutionizes-thermal-management"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 24,
+  "resources": 24,
+  "images": 24,
+  "standards": 11,
+  "third-party": 7,
+  "lighthouse": 3,
+  "link-check": 24,
+  "alfa": 9,
+  "plain-language": 15,
+  "deprecated-html": 2,
+  "sustainability": 3,
+  "security": 2,
+  "tech": 3,
+  "public-interest": 1
+ },
+ "tally": {
+  "ok": 24,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-02T17:03:02.468Z"
+}
