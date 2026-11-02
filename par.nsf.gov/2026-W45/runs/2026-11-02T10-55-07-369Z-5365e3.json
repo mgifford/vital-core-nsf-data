@@ -1,0 +1,111 @@
+{
+ "runId": "2026-11-02T10-55-07-369Z-5365e3",
+ "week": "2026-W45",
+ "domain": "par.nsf.gov",
+ "canonical": {
+  "origin": "https://par.nsf.gov",
+  "configured": "https://par.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-02T10:55:07.875Z",
+ "scanned": [
+  "5e519069901e876c",
+  "da7b13ee31d434d9",
+  "ede606c6e2d93f43",
+  "399fb195bc15a6e7"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 22,
+  "checked": 22,
+  "brokenCount": 4,
+  "broken": [
+   {
+    "url": "https://par.nsf.gov/faq",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://par.nsf.gov/faq",
+     "https://par.nsf.gov/contact",
+     "https://par.nsf.gov/",
+     "https://par.nsf.gov/services"
+    ]
+   },
+   {
+    "url": "https://par.nsf.gov/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://par.nsf.gov/faq",
+     "https://par.nsf.gov/contact",
+     "https://par.nsf.gov/",
+     "https://par.nsf.gov/services"
+    ]
+   },
+   {
+    "url": "https://par.nsf.gov/contact",
+    "status": 0,
+    "reason": "timeout",
+    "foundOn": [
+     "https://par.nsf.gov/faq",
+     "https://par.nsf.gov/contact",
+     "https://par.nsf.gov/",
+     "https://par.nsf.gov/services"
+    ]
+   },
+   {
+    "url": "https://par.nsf.gov/services",
+    "status": 0,
+    "reason": "timeout",
+    "foundOn": [
+     "https://par.nsf.gov/faq",
+     "https://par.nsf.gov/services"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 4,
+  "alfa": 3,
+  "resources": 4,
+  "images": 4,
+  "standards": 2,
+  "link-check": 4,
+  "plain-language": 2,
+  "security": 1,
+  "tech": 1,
+  "third-party": 1
+ },
+ "tally": {
+  "ok": 4,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-02T10:56:24.707Z"
+}
