@@ -1,0 +1,93 @@
+{
+ "runId": "2026-11-02T12-44-09-579Z-a95e6c",
+ "week": "2026-W45",
+ "domain": "seedfund.nsf.gov",
+ "canonical": {
+  "origin": "https://seedfund.nsf.gov",
+  "configured": "https://seedfund.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-02T12:44:10.089Z",
+ "scanned": [
+  "0a9411bd141aa126",
+  "0663d2966281671c",
+  "ef7d394e0db5b95d",
+  "354a564a7adf5af1",
+  "19657cb423dfc417",
+  "9d0e2211ee74309b",
+  "29d8c2e32bcc4b3f",
+  "59a4e51340ef5240",
+  "37d7ea5d47e16752",
+  "cc7b1a55a31588d2",
+  "990ab5ebb1732367",
+  "0a110007bc797016",
+  "34e59341be98cdc6",
+  "6b60d09b059fcfae",
+  "7b59e180f5846bbc",
+  "877797ee29a981b0",
+  "ca75aa3e97820b8f",
+  "78382071c706666a",
+  "6b0476c0d0dc86ec",
+  "b633e5c946171ade",
+  "d1533973442bd890",
+  "73d8d4244c1bd9da",
+  "6734a69e9a62c097",
+  "2cafb63925b14e72",
+  "08debcfeb45bbe81"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 117,
+  "checked": 117,
+  "brokenCount": 0,
+  "broken": []
+ },
+ "enginesRun": {
+  "axe": 24,
+  "alfa": 15,
+  "resources": 24,
+  "images": 24,
+  "standards": 9,
+  "link-check": 24,
+  "plain-language": 12,
+  "lighthouse": 6,
+  "tech": 1,
+  "third-party": 8,
+  "security": 2,
+  "public-interest": 2,
+  "sustainability": 2,
+  "deprecated-html": 1
+ },
+ "tally": {
+  "ok": 24,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 1,
+  "error": 0
+ },
+ "finishedAt": "2026-11-02T12:48:00.173Z"
+}
