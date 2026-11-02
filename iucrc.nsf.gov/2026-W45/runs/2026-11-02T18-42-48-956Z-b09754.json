@@ -1,0 +1,117 @@
+{
+ "runId": "2026-11-02T18-42-48-956Z-b09754",
+ "week": "2026-W45",
+ "domain": "iucrc.nsf.gov",
+ "canonical": {
+  "origin": "https://iucrc.nsf.gov",
+  "configured": "https://iucrc.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-02T18:42:49.592Z",
+ "scanned": [
+  "3373e1abfc8cbbca",
+  "b8e2e3a7905ec935",
+  "c2e9b029eab7892c",
+  "1bb13e7e8794ec0e",
+  "5d0497bbe2e14c4a",
+  "308e0488f8896ccc",
+  "f0aaac923ca168e3",
+  "7b8d424dc4fcb7b3",
+  "6fcb309ae5c223d9",
+  "e0923ae76e0412ad",
+  "d7b1500ed1920743",
+  "e0ea06998adb4334",
+  "2510038527ab736a",
+  "5bebca62896e5dd1",
+  "cf7b4444741bbb04",
+  "fa5a83013d5c48df",
+  "a61512c1f52d06c4",
+  "a4bfd6ea1b2f0cb7",
+  "ba33937b4efe3f34",
+  "74d6ca561adf3a93",
+  "132bd42e74987681",
+  "bae1d3973065408b",
+  "05bfc5d7f5d7a8fe",
+  "aec13f12aba374a4",
+  "7210766fb55603f2"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 187,
+  "checked": 187,
+  "brokenCount": 3,
+  "broken": [
+   {
+    "url": "https://www.cimsepp.org/",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-integrated-material-science-and-engineering-of-pharmaceutical-products-cimsepp"
+    ]
+   },
+   {
+    "url": "https://iucrc.nsf.gov/centers/center-for-research-in-systems-and-storage-crss",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/focus-area/information-communication-and-computing"
+    ]
+   },
+   {
+    "url": "https://iucrc.nsf.gov/centers/center-for-electric-connected-and-autonomous-technologies-for-mobility-ecat",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/focus-area/information-communication-and-computing"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 17,
+  "resources": 17,
+  "images": 17,
+  "link-check": 17,
+  "sustainability": 5,
+  "alfa": 8,
+  "standards": 8,
+  "tech": 2,
+  "third-party": 4,
+  "security": 1,
+  "plain-language": 5,
+  "public-interest": 1,
+  "deprecated-html": 1
+ },
+ "tally": {
+  "ok": 17,
+  "blocked": 8,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-02T18:44:53.556Z"
+}
