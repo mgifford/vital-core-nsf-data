@@ -1,6 +1,6 @@
 {
  "domain": "ncses.nsf.gov",
- "updatedAt": "2026-11-01T01:28:42.842Z",
+ "updatedAt": "2026-11-02T01:50:22.581Z",
  "checker": {
   "name": "pdf-crawler",
   "url": "https://github.com/mgifford/pdf-crawler",
@@ -1001,6 +1001,256 @@
   "http://ncses.nsf.gov/pubs/nsf23300/assets/data-tables/tables/nsf23300-tab001-007.pdf": {
    "checkedAt": "2026-11-01T01:28:42.841Z",
    "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsf23300/assets/data-tables/tables/nsf23300-tab001-008.pdf": {
+   "checkedAt": "2026-11-02T01:49:46.311Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsf23300/assets/data-tables/tables/nsf23300-tab001-009.pdf": {
+   "checkedAt": "2026-11-02T01:49:47.823Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsf23300/assets/data-tables/tables/nsf23300-tab001-010.pdf": {
+   "checkedAt": "2026-11-02T01:49:49.334Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsf23300/assets/data-tables/tables/nsf23300-tab001-011.pdf": {
+   "checkedAt": "2026-11-02T01:49:50.845Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsf23300/assets/data-tables/tables/nsf23300-tab001-012.pdf": {
+   "checkedAt": "2026-11-02T01:49:52.356Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsf23300/assets/data-tables/tables/nsf23300-tab001-013.pdf": {
+   "checkedAt": "2026-11-02T01:49:53.868Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsf23300/assets/data-tables/tables/nsf23300-tab001-014.pdf": {
+   "checkedAt": "2026-11-02T01:49:55.380Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsf23300/assets/data-tables/tables/nsf23300-tab002-001.pdf": {
+   "checkedAt": "2026-11-02T01:49:56.892Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsf23300/assets/data-tables/tables/nsf23300-tab002-002.pdf": {
+   "checkedAt": "2026-11-02T01:49:58.405Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsf23300/assets/data-tables/tables/nsf23300-tab002-003.pdf": {
+   "checkedAt": "2026-11-02T01:49:59.916Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsf23300/assets/data-tables/tables/nsf23300-tab002-004.pdf": {
+   "checkedAt": "2026-11-02T01:50:01.427Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsf23300/assets/data-tables/tables/nsf23300-tab002-005.pdf": {
+   "checkedAt": "2026-11-02T01:50:02.938Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsf23300/assets/data-tables/tables/nsf23300-tab002-006.pdf": {
+   "checkedAt": "2026-11-02T01:50:04.448Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsf23300/assets/data-tables/tables/nsf23300-tab002-007.pdf": {
+   "checkedAt": "2026-11-02T01:50:05.959Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsf23300/assets/data-tables/tables/nsf23300-tab002-008.pdf": {
+   "checkedAt": "2026-11-02T01:50:07.471Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsf23300/assets/data-tables/tables/nsf23300-tab003-001.pdf": {
+   "checkedAt": "2026-11-02T01:50:08.983Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsf23300/assets/data-tables/tables/nsf23300-tab003-002.pdf": {
+   "checkedAt": "2026-11-02T01:50:10.494Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsf23300/assets/data-tables/tables/nsf23300-tab003-003.pdf": {
+   "checkedAt": "2026-11-02T01:50:12.005Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsf23300/assets/data-tables/tables/nsf23300-tab003-004.pdf": {
+   "checkedAt": "2026-11-02T01:50:13.516Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsf23300/assets/data-tables/tables/nsf23300-tab003-005.pdf": {
+   "checkedAt": "2026-11-02T01:50:15.028Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsf23300/assets/data-tables/tables/nsf23300-tab003-006.pdf": {
+   "checkedAt": "2026-11-02T01:50:16.539Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsf23300/assets/data-tables/tables/nsf23300-tab003-007.pdf": {
+   "checkedAt": "2026-11-02T01:50:18.051Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsf23300/assets/data-tables/tables/nsf23300-tab004-001.pdf": {
+   "checkedAt": "2026-11-02T01:50:19.561Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsf23300/assets/data-tables/tables/nsf23300-tab004-002.pdf": {
+   "checkedAt": "2026-11-02T01:50:21.071Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "connection reset"
+   ]
+  },
+  "http://ncses.nsf.gov/pubs/nsf23300/assets/data-tables/tables/nsf23300-tab004-003.pdf": {
+   "checkedAt": "2026-11-02T01:50:22.580Z",
+   "week": "2026-W45",
    "httpStatus": null,
    "status": "error",
    "attempts": 1,

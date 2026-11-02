@@ -1,6 +1,6 @@
 {
  "domain": "seedfund.nsf.gov",
- "updatedAt": "2026-10-30T12:48:48.683Z",
+ "updatedAt": "2026-11-02T01:50:29.176Z",
  "checker": {
   "name": "pdf-crawler",
   "url": "https://github.com/mgifford/pdf-crawler",
@@ -173,17 +173,17 @@
    ]
   },
   "https://seedfund.nsf.gov/assets/files/awardees/NSF_Interim_Report_Fillable.pdf": {
-   "checkedAt": "2026-10-30T12:48:48.682Z",
-   "week": "2026-W44",
-   "httpStatus": 200,
+   "checkedAt": "2026-11-02T01:50:29.175Z",
+   "week": "2026-W45",
+   "httpStatus": 304,
    "md5": "debb85b4d1e3fc7a92a2fb15c4127340",
    "bytes": 980547,
    "etag": "\"debb85b4d1e3fc7a92a2fb15c4127340\"",
    "lastModified": "Thu, 18 May 2023 19:25:39 GMT",
    "status": "error",
-   "attempts": 1,
+   "attempts": 2,
    "errors": [
-    "Analysis exceeded 120s per-file limit"
+    "unchanged, but never analysed"
    ]
   },
   "https://seedfund.nsf.gov/assets/files/awardees/NSF_SBIR_Ambassador_Toolkit.pdf": {
