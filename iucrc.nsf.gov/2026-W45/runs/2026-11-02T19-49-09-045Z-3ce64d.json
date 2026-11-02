@@ -1,0 +1,158 @@
+{
+ "runId": "2026-11-02T19-49-09-045Z-3ce64d",
+ "week": "2026-W45",
+ "domain": "iucrc.nsf.gov",
+ "canonical": {
+  "origin": "https://iucrc.nsf.gov",
+  "configured": "https://iucrc.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-02T19:49:10.688Z",
+ "scanned": [
+  "aa3335b6ac950ef7",
+  "3ce256bbb85ff714",
+  "7e141d1ef84cf0dc",
+  "d88ed4f900b785a7",
+  "102f751138d824f0",
+  "ad034b126e9a66e5",
+  "8567f6dd7035b14f",
+  "7ced58e1fe57f5b5",
+  "e1078eb25568e7df",
+  "697b6110d5b4a36c",
+  "bf2665a589266a3b",
+  "381a2a3c45b50df8",
+  "e794c9b4c2c550cf",
+  "d02babcf0e4bc563",
+  "5c20e8c690445650",
+  "420e3a390cda9835",
+  "9a7ea8a56b872626",
+  "970e2491656bd049",
+  "1de555a04b0a8378",
+  "c61b70e2988bb6f8",
+  "fd3793de8ca957a1",
+  "91607c5617604add",
+  "d0c61de1d01302cf",
+  "7b8c9b28a86f12e2",
+  "783090f53a4af8fc"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 232,
+  "checked": 232,
+  "brokenCount": 8,
+  "broken": [
+   {
+    "url": "http://www.clarkson.edu/citer",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-identification-technology-research"
+    ]
+   },
+   {
+    "url": "https://devel.private.id/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-identification-technology-research"
+    ]
+   },
+   {
+    "url": "https://chapulfarms.com/chapul-farms",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-insect-biomanufacturing-and-innovation-cibi"
+    ]
+   },
+   {
+    "url": "https://usdairy.com/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-advanced-research-in-drying"
+    ]
+   },
+   {
+    "url": "https://www.usdairy.com/about-us/dmi",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/membrane-engineering-science-and-technology-center"
+    ]
+   },
+   {
+    "url": "https://www.sigmaaldrich.com/US/en?srsltid=AfmBOorxuVrt2gplXvKgtqsNaKj2qbU-M0pvX3CwheKIseugrfy6IVon",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/membrane-engineering-science-and-technology-center"
+    ]
+   },
+   {
+    "url": "https://www.usbr.gov/",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/membrane-engineering-science-and-technology-center"
+    ]
+   },
+   {
+    "url": "https://www.amgen.com/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/membrane-engineering-science-and-technology-center"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 22,
+  "resources": 22,
+  "images": 22,
+  "standards": 8,
+  "link-check": 22,
+  "sustainability": 2,
+  "plain-language": 14,
+  "alfa": 13,
+  "public-interest": 3,
+  "tech": 3,
+  "third-party": 2,
+  "lighthouse": 2,
+  "deprecated-html": 2,
+  "security": 1
+ },
+ "tally": {
+  "ok": 22,
+  "blocked": 3,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-02T19:51:53.806Z"
+}
