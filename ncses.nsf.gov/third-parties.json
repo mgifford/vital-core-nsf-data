@@ -1,46 +1,86 @@
 {
  "domain": "ncses.nsf.gov",
- "updatedAt": "2026-10-26T18:51:38.861Z",
+ "updatedAt": "2026-11-02T21:55:47.688Z",
  "vendors": {
   "googletagmanager.com": {
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
     "2026-W43",
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 2,
+   "weeksSeen": 3,
    "isScriptVendor": true
   },
   "digitalgov.gov": {
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
     "2026-W43",
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 2,
+   "weeksSeen": 3,
    "isScriptVendor": true
   },
   "google-analytics.com": {
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
     "2026-W43",
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 2,
+   "weeksSeen": 3,
    "isScriptVendor": true
   },
   "crazyegg.com": {
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
     "2026-W43",
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 2,
+   "weeksSeen": 3,
    "isScriptVendor": true
+  },
+  "brightcovecdn.com": {
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
+  "brightcove.net": {
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
+  "boltdns.net": {
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
+  "brightcove.com": {
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
   }
  }
 }

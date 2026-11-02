@@ -1,6 +1,6 @@
 {
  "domain": "www.nsf.gov",
- "updatedAt": "2026-10-29T18:38:58.106Z",
+ "updatedAt": "2026-11-02T21:55:46.326Z",
  "pages": {
   "https://www.nsf.gov/honorary-awards/pecase/recipients/guosong-hong": {
    "pageId": "079c9936c170cced",
@@ -2191,11 +2191,11 @@
   },
   "https://www.nsf.gov/funding/opportunities/stemediprf-science-technology-engineering-mathematics-education/505980/nsf23-544": {
    "pageId": "70b5afa06237a820",
-   "lastWeek": "2026-W44",
-   "lastScannedAt": "2026-10-26T11:35:08.878Z",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T10:57:39.640Z",
    "status": 200,
    "axeViolations": 2,
-   "alfaFailures": null,
+   "alfaFailures": 88,
    "hasIssues": true
   },
   "https://www.nsf.gov/reports/statistics/doctorate-recipients-us-universities-2018": {
@@ -5752,12 +5752,1264 @@
    "axeViolations": 1,
    "alfaFailures": 60,
    "hasIssues": true
+  },
+  "https://www.nsf.gov/funding/opportunities/sttr-small-business-technology-transfer-program-fy-2011/5527/nsf10-590": {
+   "pageId": "0897a6ca1c5b09e7",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T13:55:07.971Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": 78,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/funding/opportunities/sbe-doctoral-dissertation-research-improvement-grants/13453/nsf11-547/solicitation": {
+   "pageId": "08ded39a2894d0b9",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T17:01:46.176Z",
+   "status": 200,
+   "axeViolations": 102,
+   "alfaFailures": 734,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/honorary-awards/pecase/recipients/martin-l-culpepper": {
+   "pageId": "0a8578348ddb9c95",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T17:00:20.464Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/events/granted-office-hours-0/2024-07-03": {
+   "pageId": "0c76768adda2369e",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T18:44:37.838Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 70,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/funding/opportunities/epscor-research-infrastructure-improvement-epscor-research/nsf23-535": {
+   "pageId": "0f983bfca59fbe74",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T12:47:17.527Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/news/nsf-invests-new-approaches-drive-future-biotechnology": {
+   "pageId": "0fb49d82998be8fc",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T12:45:22.085Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/news/week-nsf-director-panchanathan-66": {
+   "pageId": "1153ff182a95ff7d",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T13:52:23.800Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": 65,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/yoichiro-nambu": {
+   "pageId": "133f3f981caa51c6",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T12:47:02.911Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/events/bio-voh-safe-harassment-free-fieldwork-sahf-plans-other": {
+   "pageId": "13fe257c48002d98",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T19:52:30.284Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/events/national-science-board-committee-oversight-co-teleconference-25": {
+   "pageId": "151fa66347b65d23",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T13:54:38.153Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 66,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/events/federal-interagency-conference-social-science-big-data/2020-10-01": {
+   "pageId": "1569a4d840d46199",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T13:53:37.154Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 114,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/funding/opportunities/crifmu-chemistry-research-instrumentation-facilities-departmental/13579/nsf07-552": {
+   "pageId": "1705d0bb44240903",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T18:45:21.341Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/events/national-science-board-meeting-135/2024-07-24": {
+   "pageId": "1935c03e325ee8f7",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T10:57:29.182Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 102,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/funding/initiatives/nsf-x-labs/updates": {
+   "pageId": "1bfc0c53abc09361",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T19:52:08.556Z",
+   "status": 200,
+   "axeViolations": 3,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/funding/opportunities/er2-ethical-responsible-research/505693/nsf24-604": {
+   "pageId": "1d5c84f8abf6dae8",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T10:56:16.369Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/funding/opportunities/nanoscale-interactions/505696/pd20-1179": {
+   "pageId": "2467ca2532bab668",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T10:55:20.509Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/funding/opportunities/csedi-cooperative-studies-earths-deep-interior/11702/nsf22-547": {
+   "pageId": "256788a6027c83a4",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T17:01:28.963Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/honorary-awards/pecase/recipients/amy-l-prieto": {
+   "pageId": "268e0ff9a6b34ea6",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T18:43:02.029Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": 54,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/events/national-science-board-committee-strategy-cs-teleconference-35": {
+   "pageId": "270b3eebb28ff236",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T10:57:16.653Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/funding/opportunities/ecrcore-edu-core-research/nsf21-588/solicitation": {
+   "pageId": "273b11d228d0ec23",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T17:00:44.645Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/funding/opportunities/dcl-dmref-proposals-division-mathematical-sciences-fiscal-year/nsf13-026": {
+   "pageId": "27f133317a0198fc",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T17:01:02.121Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": 79,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/about/budget/fy2012/toc": {
+   "pageId": "27fe416737a63080",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T12:45:28.977Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": 86,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/funding/initiatives/nrt/updates/nsf-congratulates-recipients-prestigious-national-medal": {
+   "pageId": "287bd0e713dd9886",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T13:54:44.478Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": 57,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/funding/opportunities/theory-institute-atomic-molecular-optical-physics/505069/nsf14-570": {
+   "pageId": "29bf08851af92343",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T18:42:43.769Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": 74,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/funding/opportunities/eapsi-east-asia-pacific-summer-institutes-us-graduate-students/5284/nsf06-602": {
+   "pageId": "2afccc5588eee335",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T12:45:59.509Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/funding/opportunities/nsf-convergence-accelerator-pilot-phase-ii/505777/nsf20-555": {
+   "pageId": "2cca0e3b57beb850",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T10:57:10.172Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/od/oise/about": {
+   "pageId": "2ec430407da93ef1",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T17:01:33.243Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": 72,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/funding/opportunities/oce-prf-ocean-sciences-postdoctoral-research-fellowships/505838/updates/94752": {
+   "pageId": "2f1ea611b868f347",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T19:49:27.553Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/funding/opportunities/ltreb-long-term-research-environmental-biology/nsf16-500": {
+   "pageId": "3042d3f309580155",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T13:54:31.551Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/od/opp/updates/opp-antarctic-infrastructure-logistics-section-welcomes-mr": {
+   "pageId": "3042dbd72bdca1f1",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T18:43:13.557Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": 54,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/funding/opportunities/hbcu-historically-black-colleges-universities-undergraduate/nsf16-538": {
+   "pageId": "30d9ca48cd15a2eb",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T19:49:47.592Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/news/nsf-announces-6-new-epscor-track-1-awards-expand-geography": {
+   "pageId": "30ec0659ee19a121",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T19:50:37.848Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": 69,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/funding/opportunities/icob-international-collaborations-organismal-biology-between-us/504768/nsf12-577/solicitation": {
+   "pageId": "3304a23eba59ecf5",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T13:54:23.828Z",
+   "status": 200,
+   "axeViolations": 5,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/funding/opportunities/dcl-data-resources-brain-initiative/nsf16-115": {
+   "pageId": "33ce277e53e73094",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T10:55:42.614Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": 85,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/funding/opportunities/dcl-capacity-building-catalyze-collaborations-address-climate/nsf24-013": {
+   "pageId": "362489486ba10004",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T17:02:19.143Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": 86,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/od/oia/ceose/dr-vernon-morris": {
+   "pageId": "3979e975453e9f83",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T12:46:33.124Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/funding/opportunities/capacity-biological-collections": {
+   "pageId": "3eafed5499de2c1a",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T17:02:29.526Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/events/nsf-invites-public-participation-discussion-evolving-role": {
+   "pageId": "3f6ef9b03f8b30db",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T19:50:46.354Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/events/nsf-office-polar-programs-nsf-opp-updates-office-hour": {
+   "pageId": "4109696788b8b2df",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T13:52:38.885Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 93,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/news/physicists-research-how-aerosol-particulates-wind": {
+   "pageId": "413b72c32bff0148",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T10:56:43.190Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": 69,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/funding/opportunities/dcl-technology-enhancement-commercial-partnerships-tecp": {
+   "pageId": "42caa4b1bac609b5",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T10:56:50.649Z",
+   "status": 200,
+   "axeViolations": 3,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/events/smart-connected-communities-webinar-nsf-25-527/2025-01-24": {
+   "pageId": "435fcc065b4a19b1",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T19:48:57.299Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 63,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/bio/updates/new-nsf-supported-center-will-accelerate-data-driven": {
+   "pageId": "485537ca97895377",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T17:02:09.231Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/funding/opportunities/aiming-artificial-intelligence-formal-methods-mathematical/506242/nsf24-554": {
+   "pageId": "49e54efdc38054b3",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T18:42:50.482Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/reports/audit/fresh-pond-school-institute": {
+   "pageId": "4b8a4b83bc6224ec",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T17:02:34.818Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/events/nsf-research-traineeship-program-nrt-office-hour": {
+   "pageId": "4c116cf9d8fb20ed",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T17:00:50.061Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 61,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/events/deb-virtual-office-hour-career-solicitation/2023-05-08": {
+   "pageId": "4c4889ff190eb220",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T12:45:44.693Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/funding/opportunities/irnc-international-research-education-network-connections/503382/nsf20-535": {
+   "pageId": "51cabdce90edeb1f",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T13:54:01.438Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/events/information-intelligent-systems-iis-office-hours-0": {
+   "pageId": "53a09b12b0966020",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T12:44:35.570Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/funding/opportunities/biological-oceanography/11696/pd98-1650": {
+   "pageId": "5babd5ff71dd6860",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T10:58:12.394Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": 90,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/reports/statistics/health-related-applications-account-one-quarter-2018-us": {
+   "pageId": "5c0d8c400ca0e985",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T17:01:53.513Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": 56,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/reports/statistics/survey-state-government-research-development-fys-2014-2015/nsf17-308": {
+   "pageId": "6401cc0e45102932",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T10:58:39.281Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/news/new-ai-model-could-revolutionize-us-manufacturing": {
+   "pageId": "64a3a2d5346dd5aa",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T17:00:56.367Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/honorary-awards/pecase/recipients/ravi-vakil": {
+   "pageId": "6650304696c55511",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T12:46:05.777Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": 54,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/od/opp/updates/launch-update-usap-sexual-assault-harassment-climate-survey": {
+   "pageId": "669ead1d54d06282",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T13:53:11.943Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/funding/opportunities/climate-change-education-partnership-alliance-office/504847/nsf13-513": {
+   "pageId": "67c0a4c685ce69b3",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T13:53:06.369Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/funding/opportunities/lrac-leadership-class-computing-resource-allocations/503224/nsf14-518": {
+   "pageId": "68592f0549767bc6",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T10:58:21.576Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": 73,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/about/budget/fy2007/cover_caption": {
+   "pageId": "6a084e9e3a15625e",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T10:58:04.740Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/funding/opportunities/mrsec-materials-research-science-engineering-centers": {
+   "pageId": "6a6e9ae22b7d4b0c",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T19:50:29.420Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/focus-areas/brain": {
+   "pageId": "6ddfb77eccf64660",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T18:44:55.066Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 75,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/reports/topical/quantum-information-science-workshop-proceedings": {
+   "pageId": "6ede0928941c5ce2",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T18:44:44.363Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/funding/opportunities/ires-international-research-experiences-students/505656/nsf20-598": {
+   "pageId": "701b71afe48361ce",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T10:57:57.570Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": 97,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/events/subawards-assessment-approval-monitoring": {
+   "pageId": "70b260adcebfcc1a",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T10:55:54.963Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 62,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/science-matters/virtual-summer-road-trip-visit-nsfs-cutting-edge-science": {
+   "pageId": "70e33e0aa7edf8cc",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T10:55:26.124Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": 80,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/funding/opportunities/dusel-deep-underground-science-engineering-laboratory/500072/nsf06-614/solicitation": {
+   "pageId": "7200c61456ebe610",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T18:45:09.718Z",
+   "status": 200,
+   "axeViolations": 11,
+   "alfaFailures": 216,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/events/ios-virtual-office-hour-writing-one-pager/2024-04-18": {
+   "pageId": "760da2ecacd1a715",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T13:54:53.747Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/news/researchers-grow-precise-arrays-nanoleds": {
+   "pageId": "7ca848b2803d4b62",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T13:53:31.779Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/events/nsfnoaa-catastropheclimate-modeling-iucrc-session-academics": {
+   "pageId": "7dbdb97c03099bfc",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T10:56:30.993Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/funding/opportunities/mams-mechanics-advanced-materials-systems": {
+   "pageId": "7e3f8e79f4a87191",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T12:45:36.655Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": 79,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/events/space-stem-task-force-pathways-federal-space-workforce/2023-03-29": {
+   "pageId": "7eaff45150baa8c7",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T10:56:37.687Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/events/mid-scale-research-infrastructure-1-program-informational/2022-11-17": {
+   "pageId": "7f0b0b782fc85d26",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T19:51:47.056Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/events/ires-program-virtual-office-hours/2024-09-09": {
+   "pageId": "81536cb3f6c4a66f",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T17:02:42.450Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 67,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/events/nairr-pilot-data-dcl-webinar": {
+   "pageId": "821dff8ca3b34017",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T17:02:24.145Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/funding/opportunities/pdasp-privacy-preserving-data-sharing-practice/506327/updates/109295": {
+   "pageId": "8281b8a5d44e31fe",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T12:44:26.392Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": 70,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/funding/opportunities/wsc-water-sustainability-climate/503452/nsf13-535": {
+   "pageId": "84ec8e39e3b6f83b",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T19:51:27.380Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/funding/opportunities/sbir-small-business-innovation-research-program-phase-i/503361/nsf09-609": {
+   "pageId": "871f22b583921eb2",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T19:52:01.588Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": 72,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/funding/opportunities/ecdi-nsfvmware-partnership-edge-computing-data-infrastructure/505509/nsf18-540/solicitation": {
+   "pageId": "89e27fcfb9ff936b",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T12:46:38.743Z",
+   "status": 200,
+   "axeViolations": 7,
+   "alfaFailures": 316,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/reports/statistics/doctorate-recipients-us-universities-2017": {
+   "pageId": "8a2e07770f0c821b",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T13:55:20.720Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": 57,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program/nsf23-605": {
+   "pageId": "8c92c9cd06049e54",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T13:54:18.327Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/gregory-breit": {
+   "pageId": "90a19cbdb6b7dd0d",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T18:42:55.926Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": 53,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/science-matters/shrimps-go-big-go-hollywood": {
+   "pageId": "915b8b3ad0736f11",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T17:01:23.540Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/news?cntn_id=102969": {
+   "pageId": "94daf6ae13d1584c",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T12:45:15.193Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": 60,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/od/opp/updates/penhale-serves-acting-head-polar-environment-safety-health": {
+   "pageId": "95ecc07fbf23a080",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T12:45:09.673Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/funding/opportunities/postdoctoral-fellowships-polar-regions-research/5650/updates/94635": {
+   "pageId": "965a10570c869251",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T18:45:26.663Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/funding/opportunities/nswp-research-support-national-space-weather-program/5575/nsf05-508": {
+   "pageId": "96cad4ec5984d8ee",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T13:52:32.035Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/funding/opportunities/evaluative-research-evaluation-capacity-building-erec/5709/nsf05-529": {
+   "pageId": "98079a18406ed08b",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T19:49:04.702Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": 82,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/reports/foia/nsf-2022-chief-foia-officer-report": {
+   "pageId": "98962d3370cbea14",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T12:44:48.209Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": 58,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/events/national-science-board-subcommittee-technology-innovation-5": {
+   "pageId": "99483fe0c47489f6",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T18:43:08.197Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/news/keep-evolving-prey-rattlesnakes-tap-genetically-diverse": {
+   "pageId": "9c9a294f0426121a",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T18:43:36.246Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": 66,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/funding/opportunities/dcl-pilot-projects-integrate-existing-data-data-focused/nsf21-045": {
+   "pageId": "9d809ae7280fa9d2",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T12:47:08.423Z",
+   "status": 200,
+   "axeViolations": 3,
+   "alfaFailures": 110,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/funding/opportunities/harnessing-data-revolution-institutes-data-intensive/505828/nsf21-519": {
+   "pageId": "a0c6902fbf3f2b51",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T10:58:28.606Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/funding/opportunities/cc-campus-cyberinfrastructure/nsf16-567": {
+   "pageId": "a2c2b6508737f180",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T12:46:50.364Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": 79,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/funding/opportunities/engineering-eng-civil-mechanical-manufacturing-innovation": {
+   "pageId": "a6529643e2a1d87f",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T19:52:35.819Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/funding/opportunities/frp-fundamental-research-program-industryuniversity-cooperative/503434/nsf10-507": {
+   "pageId": "a7fe491c76116a22",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T19:51:54.237Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/policies/document/small-business-innovation-research-sbir-phase-ii-grant": {
+   "pageId": "abe372d4501dbcab",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T18:43:57.568Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": 56,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/reports/statistics/federal-rd-funding-budget-function-fiscal-years-2018-20": {
+   "pageId": "b1ce49311517f12a",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T12:44:41.887Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/news/prehistoric-forest-grows-brunei": {
+   "pageId": "b2088578bbb924fe",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T10:57:48.715Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": 68,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/reports/performance/semiannual-report-congress-september-2001": {
+   "pageId": "b49c1882526cd723",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T18:44:09.503Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": 56,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/news/discovery-pushes-back-earliest-record-wildfire-10-million": {
+   "pageId": "b7f75bd89ac6732a",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T12:44:17.798Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": 72,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/events/nsf-convergence-accelerator-regional-expansion-event-0": {
+   "pageId": "b9edb066e30ea990",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T10:56:22.870Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 66,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/events/science-sciencedci-office-hours-0/2024-11-13": {
+   "pageId": "ba95379549859c23",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T19:51:06.362Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 72,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/tip/updates/nsf-convergence-accelerator-announces-first": {
+   "pageId": "bcafd3dc51e91254",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T17:00:25.847Z",
+   "status": 200,
+   "axeViolations": 3,
+   "alfaFailures": 62,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/news/nsf-invests-ai-ready-test-beds-accelerate-us-leadership": {
+   "pageId": "bffaec6b8871c0b6",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T19:50:22.089Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": 68,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/funding/opportunities/information-intelligent-systems-core-programs/13707/nsf06-572": {
+   "pageId": "c0a22c32a981313d",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T18:44:49.750Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/science-matters/no-soils-no-life": {
+   "pageId": "c17d6d8f640dde1b",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T13:54:59.125Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": 87,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/events/july-virtual-office-hours-division-integrative-organismal": {
+   "pageId": "c2d424d840ced9c5",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T19:52:41.510Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/funding/opportunities/dcl-research-experiences-undergraduates-reu-research-experiences/nsf20-016": {
+   "pageId": "c557db053d515893",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T18:43:20.351Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": 92,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/events/ios-virtual-office-hour": {
+   "pageId": "c8add2ce7380d3b0",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T19:51:37.770Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 68,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/events/united-states-antarctic-program-data-center-webinar": {
+   "pageId": "c9dc35c37856be1c",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T17:02:38.637Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/funding/opportunities/dcl-supporting-knowledge-mobilization-prek-12-informal-stem/nsf23-078": {
+   "pageId": "cb3b5cbc4deae8ed",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T13:55:14.235Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/events/2023-nsf-career-program-informational-webinar/2023-05-15": {
+   "pageId": "cb777a8624612abf",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T13:53:55.095Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 63,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/policies/document/general-programmatic-terms-conditions-grant-proposal-guide": {
+   "pageId": "ccfaf081bb7a979b",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T18:43:28.522Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/events/ati-pi-meeting/2025-10-06": {
+   "pageId": "ce2aafe32e86a9c2",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T13:55:26.783Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/funding/information/faq-global-centers-program-nsf-24-556": {
+   "pageId": "d204f67143df9224",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T17:01:40.583Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/funding/opportunities/stemagi-science-technology-engineering-mathematics-advanced-global/5327/nsf10-517": {
+   "pageId": "d301c98dadabae6c",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T17:00:34.075Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/funding/opportunities/crifmu-chemistry-research-instrumentation-facilities-departmental/13579/nsf09-546/solicitation": {
+   "pageId": "d32bc30c4f4cb879",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T18:44:03.841Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/news/astronomers-discover-closest-black-hole-earth": {
+   "pageId": "d35b4fb219ec4c19",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T19:52:14.076Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/funding/opportunities/synthesis-arctic-system-science/13462/nsf05-525": {
+   "pageId": "d7216c8b13d041b6",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T13:53:24.666Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/funding/initiatives/regional-innovation-engines/updates/nsf-establishes-10-inaugural-regional-innovation-engines": {
+   "pageId": "d734a3f108ac7650",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T18:44:31.384Z",
+   "status": 200,
+   "axeViolations": 3,
+   "alfaFailures": 63,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/news/nsf-doe-vera-c-rubin-observatory-will-detect-millions": {
+   "pageId": "d7e52c2d136c23e2",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T10:57:23.632Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/reports/topical/national-plant-genome-initiative-five-year-plan-2003-2008": {
+   "pageId": "d951e683174a8568",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T13:53:18.303Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": 56,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/science-matters/10-nsf-funded-discoveries-help-us-understand-our-oceans": {
+   "pageId": "d9cdd5899c57783c",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T12:45:50.389Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": 72,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/funding/opportunities/particle-astrophysics-cosmology-theory/505444/106690": {
+   "pageId": "d9fb46453e9d0965",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T19:50:16.169Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/eng/updates/ipa-program-director-job-opportunities-nsf-directorate": {
+   "pageId": "dcdbce0897653c29",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T12:44:54.825Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/policies/pappg/24-1/ch-4-non-award-decisions-transactions": {
+   "pageId": "dd1a23412efc4119",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T12:46:12.241Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/events/ac-geo-special-sessions-impacts-research-current-economic": {
+   "pageId": "ddca3fad19589d1f",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T13:52:17.328Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 67,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/science-matters/battery-recycling-breakthrough": {
+   "pageId": "ddf0db0ed71882a3",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T18:44:16.099Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": 83,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/events/may-virtual-office-hour-division-integrative-organismal-0/2022-05-19": {
+   "pageId": "df5960daf67a7986",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T19:50:59.373Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 67,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/reports/nsb/merit/national-science-foundation-merit-review-fy-2004": {
+   "pageId": "e50c8111ff994a01",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T13:52:47.222Z",
+   "status": 200,
+   "axeViolations": 3,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/events/hsi-etse-upcoming-webinars-office-hours/2024-08-20": {
+   "pageId": "e50e52314dc97daf",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T18:44:24.773Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 63,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/events/deb-virtual-office-hours-pappg-cracking-code": {
+   "pageId": "ea3a9c57b3630deb",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T19:52:21.364Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 82,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/funding/opportunities/msp-math-science-partnership/5528/nsf02-061": {
+   "pageId": "eda73abb6e52f926",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T19:50:51.914Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": 75,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/events/nsf-dms-jmm-2024": {
+   "pageId": "eeab32fbd696305f",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T12:46:57.231Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/events/nsf-integrated-data-systems-services-nsf-idss-program": {
+   "pageId": "f5418f1428f583d6",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T19:49:53.481Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 61,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/events/deb-virtual-office-hours-how-write-great-budget": {
+   "pageId": "f682fe0a3f5105ed",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T18:45:03.097Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 88,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/funding/opportunities/bigdata-critical-techniques-technologies-methodologies-advancing/504767/nsf15-544": {
+   "pageId": "f7cd78b22f12e517",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T17:00:39.395Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/reports/statistics/measuring-rd-workers-using-ncses-statistics": {
+   "pageId": "f7f5e6473a57481b",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T10:55:35.029Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": 56,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/funding/opportunities/forecast-focus-recruiting-emerging-climate-adaptation-scientists/506211/nsf24-558/solicitation": {
+   "pageId": "fbfba282bcc28bf3",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T12:45:00.467Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": 333,
+   "hasIssues": true
+  },
+  "https://www.nsf.gov/honorary-awards/pecase/recipients/miguel-velez-reyes": {
+   "pageId": "fdae40231b444682",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-02T17:02:14.517Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": 54,
+   "hasIssues": true
   }
  },
  "fixed": {},
- "cleanCount": 5,
+ "cleanCount": 10,
  "countedWeeks": [
   "2026-W43",
-  "2026-W44"
+  "2026-W44",
+  "2026-W45"
  ]
 }

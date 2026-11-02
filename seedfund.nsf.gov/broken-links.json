@@ -1,6 +1,6 @@
 {
  "domain": "seedfund.nsf.gov",
- "updatedAt": "2026-10-29T18:39:01.386Z",
+ "updatedAt": "2026-11-02T21:55:48.347Z",
  "links": {
   "https://relavomedical.com/": {
    "status": 0,
@@ -100,19 +100,18 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
     "2026-W43",
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
-    "https://seedfund.nsf.gov/centers/ceps/paper-coating-enables-worlds-first-water-filter-for-pennies",
-    "https://seedfund.nsf.gov/centers/ceps/high-carotenoid-orange-corn-promises-nutritional-enhancement",
-    "https://seedfund.nsf.gov/centers/ceps/retrofit-dehumidifiers-enhance-air-conditioner-efficiency",
-    "https://seedfund.nsf.gov/centers/ceps/liquid-metal-based-thermal-interface-materials-keep-microelectronics-cool",
-    "https://seedfund.nsf.gov/centers/ceps/a-fast-cost-effective-path-to-decarbonization-of-heavy-duty-vehicles",
-    "https://seedfund.nsf.gov/centers/ceps/biopreservation-material-could-end-the-wait-for-organ-transplants"
+    "https://seedfund.nsf.gov/centers/ceps/novel-additives-promise-strong-lightweight-composites-for-commercial-transportation",
+    "https://seedfund.nsf.gov/centers/ceps/providing-complete-hydrothermal-destruction-of-pfas",
+    "https://seedfund.nsf.gov/centers/ceps/additively-manufactured-pure-copper-revolutionizes-thermal-management",
+    "https://seedfund.nsf.gov/centers/ceps/novel-aerogel-based-insulation-may-transform-building-efficiency"
    ]
   },
   "http://www.pcka.com/": {
@@ -358,14 +357,14 @@
    "status": 0,
    "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "https://seedfund.nsf.gov/awardees/history/details?company=clearflame-engines-inc",
-    "https://seedfund.nsf.gov/centers/ceps/a-fast-cost-effective-path-to-decarbonization-of-heavy-duty-vehicles"
+    "https://seedfund.nsf.gov/portfolio/details?company=clearflame-engines-inc"
    ]
   },
   "https://seedfund.nsf.gov/resources/awardees/supplement/[/assets/files/awardees/ED-Supp-Template.docx](https://seedfund.nsf.gov/assets/files/awardees/ED-Supp-Template.docx)": {
@@ -718,6 +717,84 @@
    "weeksBroken": 1,
    "foundOn": [
     "https://seedfund.nsf.gov/portfolio"
+   ]
+  },
+  "http://www.imagenenergy.com/": {
+   "status": 0,
+   "reason": "ENOTFOUND",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/portfolio/details?company=imagen-energy-llc"
+   ]
+  },
+  "https://www.mcknightsseniorliving.com/home/news/tech-daily-news/more-risk-management-data-on-seniors-and-falls-enabled-by-new-partnership/": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/news/safelyyou"
+   ]
+  },
+  "http://www.thermocaplabs.com/": {
+   "status": 0,
+   "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/awardees/phase-2/details?company=thermocap-laboratories-inc"
+   ]
+  },
+  "https://ascendelements.com/": {
+   "status": 503,
+   "reason": "HTTP 503",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/news/ascend-elements"
+   ]
+  },
+  "http://www.yesse.tech/": {
+   "status": 503,
+   "reason": "HTTP 503",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/portfolio/details?company=yesse-technologies-inc"
+   ]
+  },
+  "http://www.ascendelements.com/": {
+   "status": 503,
+   "reason": "HTTP 503",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/awardees/history/details?company=battery-resourcers-llc"
    ]
   }
  }

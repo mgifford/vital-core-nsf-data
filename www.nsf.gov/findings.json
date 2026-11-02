@@ -1,6 +1,6 @@
 {
  "domain": "www.nsf.gov",
- "updatedAt": "2026-10-29T18:38:58.431Z",
+ "updatedAt": "2026-11-02T21:55:46.565Z",
  "findings": {
   "VS-179ad9b3": {
    "engine": "Siteimprove Alfa",
@@ -9,34 +9,21 @@
    "wcag": "2.5.8",
    "severity": "Moderate",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
     "2026-W43",
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 2,
-   "lastPagesAffected": 20,
+   "weeksSeen": 3,
+   "lastPagesAffected": 6,
    "lastAffectedPages": [
-    "https://www.nsf.gov/news/charging-cars-home-evening-not-way-go-study-finds",
-    "https://www.nsf.gov/funding/opportunities/dcl-nsf-fhwa-coordination-cyber-physical-systems-highway/nsf13-034",
-    "https://www.nsf.gov/events/virtual-office-hours-catalyzing-across-sectors-advance/2024-01-08",
-    "https://www.nsf.gov/od/oia/ceose/dr-peter-hauser",
-    "https://www.nsf.gov/events/webinar-introduction-epiic-funding-opportunity",
-    "https://www.nsf.gov/nsb/updates/nominations-serve-nsfs-national-science-board-are-now-open",
-    "https://www.nsf.gov/honorary-awards/pecase/recipients/john-w-sutherland",
-    "https://www.nsf.gov/events/nsf-directorate-technology-innovation-partnerships-tip/2024-09-18",
-    "https://www.nsf.gov/geo/opp/updates/nominations-office-polar-programs-advisory-committee",
-    "https://www.nsf.gov/events/nsf-vines-informational-webinar-india-us-collaborations",
-    "https://www.nsf.gov/academic-technology-transfer-commercialization-university",
-    "https://www.nsf.gov/funding/opportunities/leadership-class-system-acquisition-creating-petascale/13649/updates/94606",
-    "https://www.nsf.gov/funding/opportunities/gc-global-centers/updates",
-    "https://www.nsf.gov/events/cybertraining-nsf-23-520-program-webinar/2024-10-07",
-    "https://www.nsf.gov/funding/opportunities/erasynbio-nsf-participation-era-net-synthetic-biology",
-    "https://www.nsf.gov/funding/opportunities/hbcu-historically-black-colleges-universities-undergraduate/updates",
-    "https://www.nsf.gov/funding/opportunities/sse-ssi-s2i2-software-infrastructure-sustained-innovation/503489/nsf16-532",
-    "https://www.nsf.gov/events/biological-oceanography-office-hours-august/2022-08-02",
-    "https://www.nsf.gov/news/human-caused-climate-factors-exacerbate-extreme-fire-risks",
-    "https://www.nsf.gov/funding/opportunities/dcl-projects-awarded-phase-i-under-solicitation-small-business/nsf14-103"
+    "https://www.nsf.gov/funding/opportunities/dcl-capacity-building-catalyze-collaborations-address-climate/nsf24-013",
+    "https://www.nsf.gov/funding/opportunities/stemediprf-science-technology-engineering-mathematics-education/505980/nsf23-544",
+    "https://www.nsf.gov/news/discovery-pushes-back-earliest-record-wildfire-10-million",
+    "https://www.nsf.gov/funding/opportunities/dcl-research-experiences-undergraduates-reu-research-experiences/nsf20-016",
+    "https://www.nsf.gov/science-matters/battery-recycling-breakthrough",
+    "https://www.nsf.gov/events/deb-virtual-office-hours-pappg-cracking-code"
    ]
   },
   "VS-a0bdbdf6": {
@@ -46,29 +33,22 @@
    "wcag": "1.3.1",
    "severity": "Serious",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
     "2026-W43",
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 2,
-   "lastPagesAffected": 15,
+   "weeksSeen": 3,
+   "lastPagesAffected": 7,
    "lastAffectedPages": [
-    "https://www.nsf.gov/funding/opportunities/nse-nanoscale-science-engineering/7169/nsf04-43/solicitation",
-    "https://www.nsf.gov/funding/opportunities/future-core-computer-information-science-engineering-future-computing/nsf23-561/solicitation",
-    "https://www.nsf.gov/funding/opportunities/nnci-national-nanotechnology-coordinated-infrastructure/505149/nsf15-519/solicitation",
-    "https://www.nsf.gov/funding/opportunities/vec-nsfintel-partnership-visual-experiential-computing/505085/nsf15-518/solicitation",
-    "https://www.nsf.gov/funding/opportunities/iucrc-industry-university-cooperative-research-centers-program/5501/nsf13-594/solicitation",
-    "https://www.nsf.gov/funding/opportunities/smp-science-masters-program/503428/nsf09-607/solicitation",
-    "https://www.nsf.gov/funding/opportunities/rsi-isao-research-security-integrity-information-sharing-analysis/506033/nsf23-613/solicitation",
-    "https://www.nsf.gov/funding/opportunities/earthcube/504780/nsf20-520/solicitation",
-    "https://www.nsf.gov/funding/opportunities/csdco-continental-scientific-drilling-coordination-office-division/504840/nsf13-514/solicitation",
-    "https://www.nsf.gov/funding/opportunities/rii-track-2-fec-epscor-research-infrastructure-improvement-program-track-2/505148/nsf15-517/solicitation",
-    "https://www.nsf.gov/funding/opportunities/prfb-postdoctoral-research-fellowships-biology/503622/nsf15-501/solicitation",
-    "https://www.nsf.gov/funding/opportunities/gk-12-nsf-graduate-teaching-fellows-k-12-education/5472/nsf06-556/solicitation",
-    "https://www.nsf.gov/funding/opportunities/peet-partnerships-enhancing-expertise-taxonomy/5451/nsf07-519/solicitation",
-    "https://www.nsf.gov/funding/opportunities/bdd-us-japan-big-data-disaster-research/505035/nsf14-575/solicitation",
-    "https://www.nsf.gov/funding/opportunities/icn-wen-nsfintel-partnership-information-centric-networking-wireless/505310/nsf16-586/solicitation"
+    "https://www.nsf.gov/funding/opportunities/sbe-doctoral-dissertation-research-improvement-grants/13453/nsf11-547/solicitation",
+    "https://www.nsf.gov/funding/opportunities/icob-international-collaborations-organismal-biology-between-us/504768/nsf12-577/solicitation",
+    "https://www.nsf.gov/funding/opportunities/dusel-deep-underground-science-engineering-laboratory/500072/nsf06-614/solicitation",
+    "https://www.nsf.gov/events/mid-scale-research-infrastructure-1-program-informational/2022-11-17",
+    "https://www.nsf.gov/funding/opportunities/ecdi-nsfvmware-partnership-edge-computing-data-infrastructure/505509/nsf18-540/solicitation",
+    "https://www.nsf.gov/funding/opportunities/dcl-pilot-projects-integrate-existing-data-data-focused/nsf21-045",
+    "https://www.nsf.gov/funding/opportunities/crifmu-chemistry-research-instrumentation-facilities-departmental/13579/nsf09-546/solicitation"
    ]
   },
   "VS-6175596b": {
@@ -78,19 +58,20 @@
    "wcag": "1.3.1",
    "severity": "Serious",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
     "2026-W43",
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 2,
+   "weeksSeen": 3,
    "lastPagesAffected": 5,
    "lastAffectedPages": [
-    "https://www.nsf.gov/funding/opportunities/smp-science-masters-program/503428/nsf09-607/solicitation",
-    "https://www.nsf.gov/funding/opportunities/csdco-continental-scientific-drilling-coordination-office-division/504840/nsf13-514/solicitation",
-    "https://www.nsf.gov/funding/opportunities/cdse-eng-computational-data-enabled-science-engineering-engineering/504770/105381/solicitation",
-    "https://www.nsf.gov/funding/opportunities/peet-partnerships-enhancing-expertise-taxonomy/5451/nsf07-519/solicitation",
-    "https://www.nsf.gov/funding/opportunities/bdd-us-japan-big-data-disaster-research/505035/nsf14-575/solicitation"
+    "https://www.nsf.gov/funding/opportunities/sbe-doctoral-dissertation-research-improvement-grants/13453/nsf11-547/solicitation",
+    "https://www.nsf.gov/funding/opportunities/icob-international-collaborations-organismal-biology-between-us/504768/nsf12-577/solicitation",
+    "https://www.nsf.gov/funding/opportunities/dcl-technology-enhancement-commercial-partnerships-tecp",
+    "https://www.nsf.gov/funding/opportunities/dusel-deep-underground-science-engineering-laboratory/500072/nsf06-614/solicitation",
+    "https://www.nsf.gov/funding/opportunities/crifmu-chemistry-research-instrumentation-facilities-departmental/13579/nsf09-546/solicitation"
    ]
   },
   "VS-d6097011": {
@@ -100,16 +81,17 @@
    "wcag": "1.3.1",
    "severity": "Moderate",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
     "2026-W43",
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 2,
+   "weeksSeen": 3,
    "lastPagesAffected": 2,
    "lastAffectedPages": [
-    "https://www.nsf.gov/funding/opportunities/smp-science-masters-program/503428/nsf09-607/solicitation",
-    "https://www.nsf.gov/funding/opportunities/rii-track-2-fec-epscor-research-infrastructure-improvement-program-track-2/505148/nsf15-517/solicitation"
+    "https://www.nsf.gov/funding/opportunities/sbe-doctoral-dissertation-research-improvement-grants/13453/nsf11-547/solicitation",
+    "https://www.nsf.gov/funding/opportunities/dusel-deep-underground-science-engineering-laboratory/500072/nsf06-614/solicitation"
    ]
   },
   "VS-e9fe47ac": {
@@ -133,7 +115,8 @@
     "https://www.nsf.gov/events/webinar-introduction-usprd-ideas-lab",
     "https://www.nsf.gov/funding/opportunities/math-dt-mathematical-foundations-digital-twins/506266/updates",
     "https://www.nsf.gov/funding/opportunities/ascent-addressing-systems-challenges-through-engineering-teams/505853/updates"
-   ]
+   ],
+   "_coverageLost": true
   },
   "VS-646b1e0b": {
    "engine": "Siteimprove Alfa",
@@ -142,39 +125,40 @@
    "wcag": "1.4.6",
    "severity": "Moderate",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
     "2026-W43",
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 2,
-   "lastPagesAffected": 230,
+   "weeksSeen": 3,
+   "lastPagesAffected": 70,
    "lastAffectedPages": [
-    "https://www.nsf.gov/funding/opportunities/cci-i-centers-chemical-innovation-phase-i/9186/nsf04-612",
-    "https://www.nsf.gov/news/pool-yellowstone-thumping-thermometer",
-    "https://www.nsf.gov/news/breaking-ground-earthquake-research-nsf-announces-two-awards",
-    "https://www.nsf.gov/events/boosting-research-ideas-transformative-equitable-advances-1/2022-03-17",
-    "https://www.nsf.gov/mps/updates/nsf-awards-17m-sustainable-chemistry-research-us-french",
-    "https://www.nsf.gov/funding/opportunities/sdci-software-development-cyberinfrastructure/5174/nsf07-503",
-    "https://www.nsf.gov/events/future-research-directions-cise-community-cise-rv-program/2024-05-03",
-    "https://www.nsf.gov/news/charging-cars-home-evening-not-way-go-study-finds",
-    "https://www.nsf.gov/author-tools",
-    "https://www.nsf.gov/reports/nsb/board/loss-biological-diversity-global-crisis-requiring",
-    "https://www.nsf.gov/funding/opportunities/ls-law-science/pd21-128y",
-    "https://www.nsf.gov/events/nsf-engines-roadshow-4-ar-ia-il-ky-mi-mn-oh-tn-wi",
-    "https://www.nsf.gov/policies/document/sees-fellows-award-management-guidelines",
-    "https://www.nsf.gov/policies/document/general-programmatic-terms-conditions-ptcs-campus",
-    "https://www.nsf.gov/events/national-science-board-nsb-nsf-commission-merit-review-mrx-25/2024-03-11",
-    "https://www.nsf.gov/funding/opportunities/dcl-research-assistantships-high-school-students-rahss/nsf06-027",
-    "https://www.nsf.gov/events/national-science-board-committee-strategy-cs-teleconference-35/2024-07-25",
-    "https://www.nsf.gov/funding/opportunities/dcl-nsf-fhwa-coordination-cyber-physical-systems-highway/nsf13-034",
-    "https://www.nsf.gov/events/virtual-office-hours-catalyzing-across-sectors-advance/2024-01-08",
-    "https://www.nsf.gov/od/oia/ceose/dr-peter-hauser",
-    "https://www.nsf.gov/funding/opportunities/dcl-national-science-foundation-nsf-japan-science-technology/nsf17-077",
-    "https://www.nsf.gov/funding/opportunities/cc-campus-cyberinfrastructure",
-    "https://www.nsf.gov/events/engineering-research-initiation-program-qa",
-    "https://www.nsf.gov/funding/opportunities/dcl-opportunity-request-instrumentation-funding-midscale-level/nsf14-116",
-    "https://www.nsf.gov/events/deb-virtual-office-hour-things-i-wish-i-learned-earlier"
+    "https://www.nsf.gov/funding/opportunities/sttr-small-business-technology-transfer-program-fy-2011/5527/nsf10-590",
+    "https://www.nsf.gov/funding/opportunities/sbe-doctoral-dissertation-research-improvement-grants/13453/nsf11-547/solicitation",
+    "https://www.nsf.gov/events/granted-office-hours-0/2024-07-03",
+    "https://www.nsf.gov/news/week-nsf-director-panchanathan-66",
+    "https://www.nsf.gov/events/national-science-board-committee-oversight-co-teleconference-25",
+    "https://www.nsf.gov/events/federal-interagency-conference-social-science-big-data/2020-10-01",
+    "https://www.nsf.gov/events/national-science-board-meeting-135/2024-07-24",
+    "https://www.nsf.gov/honorary-awards/pecase/recipients/amy-l-prieto",
+    "https://www.nsf.gov/funding/opportunities/dcl-dmref-proposals-division-mathematical-sciences-fiscal-year/nsf13-026",
+    "https://www.nsf.gov/about/budget/fy2012/toc",
+    "https://www.nsf.gov/funding/initiatives/nrt/updates/nsf-congratulates-recipients-prestigious-national-medal",
+    "https://www.nsf.gov/funding/opportunities/theory-institute-atomic-molecular-optical-physics/505069/nsf14-570",
+    "https://www.nsf.gov/od/oise/about",
+    "https://www.nsf.gov/od/opp/updates/opp-antarctic-infrastructure-logistics-section-welcomes-mr",
+    "https://www.nsf.gov/news/nsf-announces-6-new-epscor-track-1-awards-expand-geography",
+    "https://www.nsf.gov/funding/opportunities/dcl-data-resources-brain-initiative/nsf16-115",
+    "https://www.nsf.gov/funding/opportunities/dcl-capacity-building-catalyze-collaborations-address-climate/nsf24-013",
+    "https://www.nsf.gov/events/nsf-office-polar-programs-nsf-opp-updates-office-hour",
+    "https://www.nsf.gov/news/physicists-research-how-aerosol-particulates-wind",
+    "https://www.nsf.gov/events/smart-connected-communities-webinar-nsf-25-527/2025-01-24",
+    "https://www.nsf.gov/events/nsf-research-traineeship-program-nrt-office-hour",
+    "https://www.nsf.gov/funding/opportunities/biological-oceanography/11696/pd98-1650",
+    "https://www.nsf.gov/reports/statistics/health-related-applications-account-one-quarter-2018-us",
+    "https://www.nsf.gov/honorary-awards/pecase/recipients/ravi-vakil",
+    "https://www.nsf.gov/funding/opportunities/lrac-leadership-class-computing-resource-allocations/503224/nsf14-518"
    ]
   },
   "VS-2208081b": {
@@ -184,39 +168,40 @@
    "wcag": "1.4.8",
    "severity": "Moderate",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
     "2026-W43",
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 2,
-   "lastPagesAffected": 230,
+   "weeksSeen": 3,
+   "lastPagesAffected": 70,
    "lastAffectedPages": [
-    "https://www.nsf.gov/funding/opportunities/cci-i-centers-chemical-innovation-phase-i/9186/nsf04-612",
-    "https://www.nsf.gov/news/pool-yellowstone-thumping-thermometer",
-    "https://www.nsf.gov/news/breaking-ground-earthquake-research-nsf-announces-two-awards",
-    "https://www.nsf.gov/events/boosting-research-ideas-transformative-equitable-advances-1/2022-03-17",
-    "https://www.nsf.gov/mps/updates/nsf-awards-17m-sustainable-chemistry-research-us-french",
-    "https://www.nsf.gov/funding/opportunities/sdci-software-development-cyberinfrastructure/5174/nsf07-503",
-    "https://www.nsf.gov/events/future-research-directions-cise-community-cise-rv-program/2024-05-03",
-    "https://www.nsf.gov/news/charging-cars-home-evening-not-way-go-study-finds",
-    "https://www.nsf.gov/author-tools",
-    "https://www.nsf.gov/reports/nsb/board/loss-biological-diversity-global-crisis-requiring",
-    "https://www.nsf.gov/funding/opportunities/ls-law-science/pd21-128y",
-    "https://www.nsf.gov/events/nsf-engines-roadshow-4-ar-ia-il-ky-mi-mn-oh-tn-wi",
-    "https://www.nsf.gov/policies/document/sees-fellows-award-management-guidelines",
-    "https://www.nsf.gov/policies/document/general-programmatic-terms-conditions-ptcs-campus",
-    "https://www.nsf.gov/events/national-science-board-nsb-nsf-commission-merit-review-mrx-25/2024-03-11",
-    "https://www.nsf.gov/funding/opportunities/dcl-research-assistantships-high-school-students-rahss/nsf06-027",
-    "https://www.nsf.gov/events/national-science-board-committee-strategy-cs-teleconference-35/2024-07-25",
-    "https://www.nsf.gov/funding/opportunities/dcl-nsf-fhwa-coordination-cyber-physical-systems-highway/nsf13-034",
-    "https://www.nsf.gov/events/virtual-office-hours-catalyzing-across-sectors-advance/2024-01-08",
-    "https://www.nsf.gov/od/oia/ceose/dr-peter-hauser",
-    "https://www.nsf.gov/funding/opportunities/dcl-national-science-foundation-nsf-japan-science-technology/nsf17-077",
-    "https://www.nsf.gov/funding/opportunities/cc-campus-cyberinfrastructure",
-    "https://www.nsf.gov/events/engineering-research-initiation-program-qa",
-    "https://www.nsf.gov/funding/opportunities/dcl-opportunity-request-instrumentation-funding-midscale-level/nsf14-116",
-    "https://www.nsf.gov/events/deb-virtual-office-hour-things-i-wish-i-learned-earlier"
+    "https://www.nsf.gov/funding/opportunities/sttr-small-business-technology-transfer-program-fy-2011/5527/nsf10-590",
+    "https://www.nsf.gov/funding/opportunities/sbe-doctoral-dissertation-research-improvement-grants/13453/nsf11-547/solicitation",
+    "https://www.nsf.gov/events/granted-office-hours-0/2024-07-03",
+    "https://www.nsf.gov/news/week-nsf-director-panchanathan-66",
+    "https://www.nsf.gov/events/national-science-board-committee-oversight-co-teleconference-25",
+    "https://www.nsf.gov/events/federal-interagency-conference-social-science-big-data/2020-10-01",
+    "https://www.nsf.gov/events/national-science-board-meeting-135/2024-07-24",
+    "https://www.nsf.gov/honorary-awards/pecase/recipients/amy-l-prieto",
+    "https://www.nsf.gov/funding/opportunities/dcl-dmref-proposals-division-mathematical-sciences-fiscal-year/nsf13-026",
+    "https://www.nsf.gov/about/budget/fy2012/toc",
+    "https://www.nsf.gov/funding/initiatives/nrt/updates/nsf-congratulates-recipients-prestigious-national-medal",
+    "https://www.nsf.gov/funding/opportunities/theory-institute-atomic-molecular-optical-physics/505069/nsf14-570",
+    "https://www.nsf.gov/od/oise/about",
+    "https://www.nsf.gov/od/opp/updates/opp-antarctic-infrastructure-logistics-section-welcomes-mr",
+    "https://www.nsf.gov/news/nsf-announces-6-new-epscor-track-1-awards-expand-geography",
+    "https://www.nsf.gov/funding/opportunities/dcl-data-resources-brain-initiative/nsf16-115",
+    "https://www.nsf.gov/funding/opportunities/dcl-capacity-building-catalyze-collaborations-address-climate/nsf24-013",
+    "https://www.nsf.gov/events/nsf-office-polar-programs-nsf-opp-updates-office-hour",
+    "https://www.nsf.gov/news/physicists-research-how-aerosol-particulates-wind",
+    "https://www.nsf.gov/events/smart-connected-communities-webinar-nsf-25-527/2025-01-24",
+    "https://www.nsf.gov/events/nsf-research-traineeship-program-nrt-office-hour",
+    "https://www.nsf.gov/funding/opportunities/biological-oceanography/11696/pd98-1650",
+    "https://www.nsf.gov/reports/statistics/health-related-applications-account-one-quarter-2018-us",
+    "https://www.nsf.gov/honorary-awards/pecase/recipients/ravi-vakil",
+    "https://www.nsf.gov/funding/opportunities/lrac-leadership-class-computing-resource-allocations/503224/nsf14-518"
    ]
   },
   "VS-cb53cc4d": {
@@ -226,39 +211,40 @@
    "wcag": "2.5.5",
    "severity": "Moderate",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
     "2026-W43",
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 2,
-   "lastPagesAffected": 230,
+   "weeksSeen": 3,
+   "lastPagesAffected": 70,
    "lastAffectedPages": [
-    "https://www.nsf.gov/funding/opportunities/cci-i-centers-chemical-innovation-phase-i/9186/nsf04-612",
-    "https://www.nsf.gov/news/pool-yellowstone-thumping-thermometer",
-    "https://www.nsf.gov/news/breaking-ground-earthquake-research-nsf-announces-two-awards",
-    "https://www.nsf.gov/events/boosting-research-ideas-transformative-equitable-advances-1/2022-03-17",
-    "https://www.nsf.gov/mps/updates/nsf-awards-17m-sustainable-chemistry-research-us-french",
-    "https://www.nsf.gov/funding/opportunities/sdci-software-development-cyberinfrastructure/5174/nsf07-503",
-    "https://www.nsf.gov/events/future-research-directions-cise-community-cise-rv-program/2024-05-03",
-    "https://www.nsf.gov/news/charging-cars-home-evening-not-way-go-study-finds",
-    "https://www.nsf.gov/author-tools",
-    "https://www.nsf.gov/reports/nsb/board/loss-biological-diversity-global-crisis-requiring",
-    "https://www.nsf.gov/funding/opportunities/ls-law-science/pd21-128y",
-    "https://www.nsf.gov/events/nsf-engines-roadshow-4-ar-ia-il-ky-mi-mn-oh-tn-wi",
-    "https://www.nsf.gov/policies/document/sees-fellows-award-management-guidelines",
-    "https://www.nsf.gov/policies/document/general-programmatic-terms-conditions-ptcs-campus",
-    "https://www.nsf.gov/events/national-science-board-nsb-nsf-commission-merit-review-mrx-25/2024-03-11",
-    "https://www.nsf.gov/funding/opportunities/dcl-research-assistantships-high-school-students-rahss/nsf06-027",
-    "https://www.nsf.gov/events/national-science-board-committee-strategy-cs-teleconference-35/2024-07-25",
-    "https://www.nsf.gov/funding/opportunities/dcl-nsf-fhwa-coordination-cyber-physical-systems-highway/nsf13-034",
-    "https://www.nsf.gov/events/virtual-office-hours-catalyzing-across-sectors-advance/2024-01-08",
-    "https://www.nsf.gov/od/oia/ceose/dr-peter-hauser",
-    "https://www.nsf.gov/funding/opportunities/dcl-national-science-foundation-nsf-japan-science-technology/nsf17-077",
-    "https://www.nsf.gov/funding/opportunities/cc-campus-cyberinfrastructure",
-    "https://www.nsf.gov/events/engineering-research-initiation-program-qa",
-    "https://www.nsf.gov/funding/opportunities/dcl-opportunity-request-instrumentation-funding-midscale-level/nsf14-116",
-    "https://www.nsf.gov/events/deb-virtual-office-hour-things-i-wish-i-learned-earlier"
+    "https://www.nsf.gov/funding/opportunities/sttr-small-business-technology-transfer-program-fy-2011/5527/nsf10-590",
+    "https://www.nsf.gov/funding/opportunities/sbe-doctoral-dissertation-research-improvement-grants/13453/nsf11-547/solicitation",
+    "https://www.nsf.gov/events/granted-office-hours-0/2024-07-03",
+    "https://www.nsf.gov/news/week-nsf-director-panchanathan-66",
+    "https://www.nsf.gov/events/national-science-board-committee-oversight-co-teleconference-25",
+    "https://www.nsf.gov/events/federal-interagency-conference-social-science-big-data/2020-10-01",
+    "https://www.nsf.gov/events/national-science-board-meeting-135/2024-07-24",
+    "https://www.nsf.gov/honorary-awards/pecase/recipients/amy-l-prieto",
+    "https://www.nsf.gov/funding/opportunities/dcl-dmref-proposals-division-mathematical-sciences-fiscal-year/nsf13-026",
+    "https://www.nsf.gov/about/budget/fy2012/toc",
+    "https://www.nsf.gov/funding/initiatives/nrt/updates/nsf-congratulates-recipients-prestigious-national-medal",
+    "https://www.nsf.gov/funding/opportunities/theory-institute-atomic-molecular-optical-physics/505069/nsf14-570",
+    "https://www.nsf.gov/od/oise/about",
+    "https://www.nsf.gov/od/opp/updates/opp-antarctic-infrastructure-logistics-section-welcomes-mr",
+    "https://www.nsf.gov/news/nsf-announces-6-new-epscor-track-1-awards-expand-geography",
+    "https://www.nsf.gov/funding/opportunities/dcl-data-resources-brain-initiative/nsf16-115",
+    "https://www.nsf.gov/funding/opportunities/dcl-capacity-building-catalyze-collaborations-address-climate/nsf24-013",
+    "https://www.nsf.gov/events/nsf-office-polar-programs-nsf-opp-updates-office-hour",
+    "https://www.nsf.gov/news/physicists-research-how-aerosol-particulates-wind",
+    "https://www.nsf.gov/events/smart-connected-communities-webinar-nsf-25-527/2025-01-24",
+    "https://www.nsf.gov/events/nsf-research-traineeship-program-nrt-office-hour",
+    "https://www.nsf.gov/funding/opportunities/biological-oceanography/11696/pd98-1650",
+    "https://www.nsf.gov/reports/statistics/health-related-applications-account-one-quarter-2018-us",
+    "https://www.nsf.gov/honorary-awards/pecase/recipients/ravi-vakil",
+    "https://www.nsf.gov/funding/opportunities/lrac-leadership-class-computing-resource-allocations/503224/nsf14-518"
    ]
   },
   "VS-f18df681": {
@@ -268,39 +254,40 @@
    "wcag": null,
    "severity": "Serious",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
     "2026-W43",
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 2,
-   "lastPagesAffected": 471,
+   "weeksSeen": 3,
+   "lastPagesAffected": 140,
    "lastAffectedPages": [
-    "https://www.nsf.gov/news/enabling-key-oceanographic-science-21st-century-nsf",
-    "https://www.nsf.gov/funding/opportunities/cci-i-centers-chemical-innovation-phase-i/9186/nsf04-612",
-    "https://www.nsf.gov/news/pool-yellowstone-thumping-thermometer",
-    "https://www.nsf.gov/funding/opportunities/fmitf-formal-methods-field/505518/nsf24-509",
-    "https://www.nsf.gov/news/breaking-ground-earthquake-research-nsf-announces-two-awards",
-    "https://www.nsf.gov/funding/opportunities/dcl-stimulating-research-effective-strategies-undergraduate-stem/nsf15-078",
-    "https://www.nsf.gov/policies/document/large-facilities-manual-january-4-2013/nsf13-038",
-    "https://www.nsf.gov/events/boosting-research-ideas-transformative-equitable-advances-1/2022-03-17",
-    "https://www.nsf.gov/funding/opportunities/pgrp-plant-genome-research-program/5338/nsf24-547/solicitation",
-    "http://www.nsf.gov/focus-areas/people-society",
-    "https://www.nsf.gov/about/budget/fy2010/appropriations",
-    "https://www.nsf.gov/mps/updates/nsf-awards-17m-sustainable-chemistry-research-us-french",
-    "https://www.nsf.gov/funding/opportunities/sdci-software-development-cyberinfrastructure/5174/nsf07-503",
-    "https://www.nsf.gov/events/future-research-directions-cise-community-cise-rv-program/2024-05-03",
-    "https://www.nsf.gov/honorary-awards/pecase/recipients/shwetak-patel",
-    "https://www.nsf.gov/science-matters/mobile-video-game-submerges-users-ocean-depths",
-    "https://www.nsf.gov/events/epscor-live-0/2024-07-17",
-    "https://www.nsf.gov/news/charging-cars-home-evening-not-way-go-study-finds",
-    "https://www.nsf.gov/funding/opportunities/dcl-removal-deadlines-combustion-fire-systems-program-division/nsf17-117",
-    "https://www.nsf.gov/policies/document/handbook-atmospheric-geospace-sciences-postdoctoral-research",
-    "https://www.nsf.gov/reports/indicators/higher-education-science-engineering-0",
-    "https://www.nsf.gov/author-tools",
-    "https://www.nsf.gov/reports/nsb/board/loss-biological-diversity-global-crisis-requiring",
-    "https://www.nsf.gov/funding/opportunities/nse-nanoscale-science-engineering/7169/nsf04-43/solicitation",
-    "https://www.nsf.gov/funding/opportunities/ls-law-science/pd21-128y"
+    "https://www.nsf.gov/funding/opportunities/sttr-small-business-technology-transfer-program-fy-2011/5527/nsf10-590",
+    "https://www.nsf.gov/funding/opportunities/sbe-doctoral-dissertation-research-improvement-grants/13453/nsf11-547/solicitation",
+    "https://www.nsf.gov/honorary-awards/pecase/recipients/martin-l-culpepper",
+    "https://www.nsf.gov/events/granted-office-hours-0/2024-07-03",
+    "https://www.nsf.gov/funding/opportunities/epscor-research-infrastructure-improvement-epscor-research/nsf23-535",
+    "https://www.nsf.gov/news/nsf-invests-new-approaches-drive-future-biotechnology",
+    "https://www.nsf.gov/news/week-nsf-director-panchanathan-66",
+    "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/yoichiro-nambu",
+    "https://www.nsf.gov/events/bio-voh-safe-harassment-free-fieldwork-sahf-plans-other",
+    "https://www.nsf.gov/events/national-science-board-committee-oversight-co-teleconference-25",
+    "https://www.nsf.gov/events/federal-interagency-conference-social-science-big-data/2020-10-01",
+    "https://www.nsf.gov/funding/opportunities/crifmu-chemistry-research-instrumentation-facilities-departmental/13579/nsf07-552",
+    "https://www.nsf.gov/events/national-science-board-meeting-135/2024-07-24",
+    "https://www.nsf.gov/funding/initiatives/nsf-x-labs/updates",
+    "https://www.nsf.gov/funding/opportunities/er2-ethical-responsible-research/505693/nsf24-604",
+    "https://www.nsf.gov/funding/opportunities/nanoscale-interactions/505696/pd20-1179",
+    "https://www.nsf.gov/funding/opportunities/csedi-cooperative-studies-earths-deep-interior/11702/nsf22-547",
+    "https://www.nsf.gov/honorary-awards/pecase/recipients/amy-l-prieto",
+    "https://www.nsf.gov/events/national-science-board-committee-strategy-cs-teleconference-35",
+    "https://www.nsf.gov/funding/opportunities/ecrcore-edu-core-research/nsf21-588/solicitation",
+    "https://www.nsf.gov/funding/opportunities/dcl-dmref-proposals-division-mathematical-sciences-fiscal-year/nsf13-026",
+    "https://www.nsf.gov/about/budget/fy2012/toc",
+    "https://www.nsf.gov/funding/initiatives/nrt/updates/nsf-congratulates-recipients-prestigious-national-medal",
+    "https://www.nsf.gov/funding/opportunities/theory-institute-atomic-molecular-optical-physics/505069/nsf14-570",
+    "https://www.nsf.gov/funding/opportunities/eapsi-east-asia-pacific-summer-institutes-us-graduate-students/5284/nsf06-602"
    ]
   },
   "VS-c18be945": {
@@ -310,39 +297,40 @@
    "wcag": null,
    "severity": "Moderate",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
     "2026-W43",
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 2,
-   "lastPagesAffected": 230,
+   "weeksSeen": 3,
+   "lastPagesAffected": 70,
    "lastAffectedPages": [
-    "https://www.nsf.gov/funding/opportunities/cci-i-centers-chemical-innovation-phase-i/9186/nsf04-612",
-    "https://www.nsf.gov/news/pool-yellowstone-thumping-thermometer",
-    "https://www.nsf.gov/news/breaking-ground-earthquake-research-nsf-announces-two-awards",
-    "https://www.nsf.gov/events/boosting-research-ideas-transformative-equitable-advances-1/2022-03-17",
-    "https://www.nsf.gov/mps/updates/nsf-awards-17m-sustainable-chemistry-research-us-french",
-    "https://www.nsf.gov/funding/opportunities/sdci-software-development-cyberinfrastructure/5174/nsf07-503",
-    "https://www.nsf.gov/events/future-research-directions-cise-community-cise-rv-program/2024-05-03",
-    "https://www.nsf.gov/news/charging-cars-home-evening-not-way-go-study-finds",
-    "https://www.nsf.gov/author-tools",
-    "https://www.nsf.gov/reports/nsb/board/loss-biological-diversity-global-crisis-requiring",
-    "https://www.nsf.gov/funding/opportunities/ls-law-science/pd21-128y",
-    "https://www.nsf.gov/events/nsf-engines-roadshow-4-ar-ia-il-ky-mi-mn-oh-tn-wi",
-    "https://www.nsf.gov/policies/document/sees-fellows-award-management-guidelines",
-    "https://www.nsf.gov/policies/document/general-programmatic-terms-conditions-ptcs-campus",
-    "https://www.nsf.gov/events/national-science-board-nsb-nsf-commission-merit-review-mrx-25/2024-03-11",
-    "https://www.nsf.gov/funding/opportunities/dcl-research-assistantships-high-school-students-rahss/nsf06-027",
-    "https://www.nsf.gov/events/national-science-board-committee-strategy-cs-teleconference-35/2024-07-25",
-    "https://www.nsf.gov/funding/opportunities/dcl-nsf-fhwa-coordination-cyber-physical-systems-highway/nsf13-034",
-    "https://www.nsf.gov/events/virtual-office-hours-catalyzing-across-sectors-advance/2024-01-08",
-    "https://www.nsf.gov/od/oia/ceose/dr-peter-hauser",
-    "https://www.nsf.gov/funding/opportunities/dcl-national-science-foundation-nsf-japan-science-technology/nsf17-077",
-    "https://www.nsf.gov/funding/opportunities/cc-campus-cyberinfrastructure",
-    "https://www.nsf.gov/events/engineering-research-initiation-program-qa",
-    "https://www.nsf.gov/funding/opportunities/dcl-opportunity-request-instrumentation-funding-midscale-level/nsf14-116",
-    "https://www.nsf.gov/events/deb-virtual-office-hour-things-i-wish-i-learned-earlier"
+    "https://www.nsf.gov/funding/opportunities/sttr-small-business-technology-transfer-program-fy-2011/5527/nsf10-590",
+    "https://www.nsf.gov/funding/opportunities/sbe-doctoral-dissertation-research-improvement-grants/13453/nsf11-547/solicitation",
+    "https://www.nsf.gov/events/granted-office-hours-0/2024-07-03",
+    "https://www.nsf.gov/news/week-nsf-director-panchanathan-66",
+    "https://www.nsf.gov/events/national-science-board-committee-oversight-co-teleconference-25",
+    "https://www.nsf.gov/events/federal-interagency-conference-social-science-big-data/2020-10-01",
+    "https://www.nsf.gov/events/national-science-board-meeting-135/2024-07-24",
+    "https://www.nsf.gov/honorary-awards/pecase/recipients/amy-l-prieto",
+    "https://www.nsf.gov/funding/opportunities/dcl-dmref-proposals-division-mathematical-sciences-fiscal-year/nsf13-026",
+    "https://www.nsf.gov/about/budget/fy2012/toc",
+    "https://www.nsf.gov/funding/initiatives/nrt/updates/nsf-congratulates-recipients-prestigious-national-medal",
+    "https://www.nsf.gov/funding/opportunities/theory-institute-atomic-molecular-optical-physics/505069/nsf14-570",
+    "https://www.nsf.gov/od/oise/about",
+    "https://www.nsf.gov/od/opp/updates/opp-antarctic-infrastructure-logistics-section-welcomes-mr",
+    "https://www.nsf.gov/news/nsf-announces-6-new-epscor-track-1-awards-expand-geography",
+    "https://www.nsf.gov/funding/opportunities/dcl-data-resources-brain-initiative/nsf16-115",
+    "https://www.nsf.gov/funding/opportunities/dcl-capacity-building-catalyze-collaborations-address-climate/nsf24-013",
+    "https://www.nsf.gov/events/nsf-office-polar-programs-nsf-opp-updates-office-hour",
+    "https://www.nsf.gov/news/physicists-research-how-aerosol-particulates-wind",
+    "https://www.nsf.gov/events/smart-connected-communities-webinar-nsf-25-527/2025-01-24",
+    "https://www.nsf.gov/events/nsf-research-traineeship-program-nrt-office-hour",
+    "https://www.nsf.gov/funding/opportunities/biological-oceanography/11696/pd98-1650",
+    "https://www.nsf.gov/reports/statistics/health-related-applications-account-one-quarter-2018-us",
+    "https://www.nsf.gov/honorary-awards/pecase/recipients/ravi-vakil",
+    "https://www.nsf.gov/funding/opportunities/lrac-leadership-class-computing-resource-allocations/503224/nsf14-518"
    ]
   },
   "VS-7118fead": {
@@ -352,39 +340,31 @@
    "wcag": null,
    "severity": "Moderate",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
     "2026-W43",
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 2,
-   "lastPagesAffected": 51,
+   "weeksSeen": 3,
+   "lastPagesAffected": 16,
    "lastAffectedPages": [
-    "https://www.nsf.gov/news/pool-yellowstone-thumping-thermometer",
-    "https://www.nsf.gov/news/breaking-ground-earthquake-research-nsf-announces-two-awards",
-    "https://www.nsf.gov/news/charging-cars-home-evening-not-way-go-study-finds",
-    "https://www.nsf.gov/funding/opportunities/dcl-research-assistantships-high-school-students-rahss/nsf06-027",
-    "https://www.nsf.gov/funding/opportunities/dcl-nsf-fhwa-coordination-cyber-physical-systems-highway/nsf13-034",
-    "https://www.nsf.gov/funding/opportunities/dcl-national-science-foundation-nsf-japan-science-technology/nsf17-077",
-    "https://www.nsf.gov/funding/opportunities/dcl-opportunity-request-instrumentation-funding-midscale-level/nsf14-116",
-    "https://www.nsf.gov/funding/opportunities/sse-ssi-s2i2-software-infrastructure-sustained-innovation/503489/updates/94670",
-    "https://www.nsf.gov/funding/opportunities/dcl-increasing-college-opportunity-through-improved-mathematics/nsf15-026",
-    "https://www.nsf.gov/funding/opportunities/dcl-research-experiences-undergraduates-supplemental-funding/nsf20-075",
-    "https://www.nsf.gov/news/nsf-recognizes-3-scientists-alan-t-waterman-award",
-    "https://www.nsf.gov/funding/opportunities/dcl-revisions-cyber-physical-systems-smart-connected-communities/nsf19-040",
-    "https://www.nsf.gov/funding/opportunities/nsf-finders-foundry-national-science-foundation-fostering-interdisciplinary/nsf26-507/solicitation",
-    "https://www.nsf.gov/funding/opportunities/dcl-submission-iucrc-proposals-response-nsf-13-594-areas-related/nsf14-048",
-    "https://www.nsf.gov/ods/nsf23149",
-    "https://www.nsf.gov/funding/opportunities/neuronex-next-generation-networks-neuroscience/505281/updates/94665",
-    "https://www.nsf.gov/news/rising-temperatures-overcook-bumblebees-brunch",
-    "http://www.nsf.gov/policies/document/proposal-award-policies-procedures-guide-december-2014/nsf15-001",
-    "https://www.nsf.gov/funding/opportunities/smp-science-masters-program/503428/nsf09-607/solicitation",
-    "https://www.nsf.gov/news/researchers-discover-how-tuberculosis-bacteria-mutate-form",
-    "https://www.nsf.gov/news/autonomous-lab-discovers-best-class-quantum-dot-hours",
-    "https://www.nsf.gov/funding/opportunities/dcl-nsf-geo-sbe-directorates-noaa-call-iucrc-industry-university/nsf23-106",
-    "https://www.nsf.gov/news/nsfs-convergence-accelerator-invests-30-million-tackle",
-    "https://www.nsf.gov/news/world-ocean-losing-its-memory-under-global-warming",
-    "https://www.nsf.gov/news/nsf-director-panchanathan-remarks-chips-science-act-silicon"
+    "https://www.nsf.gov/funding/opportunities/sbe-doctoral-dissertation-research-improvement-grants/13453/nsf11-547/solicitation",
+    "https://www.nsf.gov/news/week-nsf-director-panchanathan-66",
+    "https://www.nsf.gov/funding/opportunities/dcl-dmref-proposals-division-mathematical-sciences-fiscal-year/nsf13-026",
+    "https://www.nsf.gov/news/nsf-announces-6-new-epscor-track-1-awards-expand-geography",
+    "https://www.nsf.gov/funding/opportunities/dcl-data-resources-brain-initiative/nsf16-115",
+    "https://www.nsf.gov/funding/opportunities/dcl-capacity-building-catalyze-collaborations-address-climate/nsf24-013",
+    "https://www.nsf.gov/news/physicists-research-how-aerosol-particulates-wind",
+    "https://www.nsf.gov/funding/opportunities/dusel-deep-underground-science-engineering-laboratory/500072/nsf06-614/solicitation",
+    "https://www.nsf.gov/funding/opportunities/pdasp-privacy-preserving-data-sharing-practice/506327/updates/109295",
+    "https://www.nsf.gov/funding/opportunities/ecdi-nsfvmware-partnership-edge-computing-data-infrastructure/505509/nsf18-540/solicitation",
+    "https://www.nsf.gov/news/keep-evolving-prey-rattlesnakes-tap-genetically-diverse",
+    "https://www.nsf.gov/funding/opportunities/dcl-pilot-projects-integrate-existing-data-data-focused/nsf21-045",
+    "https://www.nsf.gov/news/prehistoric-forest-grows-brunei",
+    "https://www.nsf.gov/news/discovery-pushes-back-earliest-record-wildfire-10-million",
+    "https://www.nsf.gov/funding/opportunities/dcl-research-experiences-undergraduates-reu-research-experiences/nsf20-016",
+    "https://www.nsf.gov/funding/opportunities/forecast-focus-recruiting-emerging-climate-adaptation-scientists/506211/nsf24-558/solicitation"
    ]
   },
   "VS-d25f622d": {
@@ -394,39 +374,29 @@
    "wcag": null,
    "severity": "Moderate",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
     "2026-W43",
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 2,
-   "lastPagesAffected": 60,
+   "weeksSeen": 3,
+   "lastPagesAffected": 14,
    "lastAffectedPages": [
-    "https://www.nsf.gov/honorary-awards/pecase/recipients/shwetak-patel",
-    "https://www.nsf.gov/science-matters/mobile-video-game-submerges-users-ocean-depths",
-    "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/mary-ellen-avery",
-    "https://www.nsf.gov/honorary-awards/pecase/recipients/katherine-louise-bouman",
-    "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/paul-ching-wu-chu",
-    "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/gene-e-likens",
-    "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/harold-s-johnston",
-    "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/francis-birch",
-    "https://www.nsf.gov/tip/updates/nsf-eda-announce-official-coordination-regional",
-    "https://www.nsf.gov/about/budget/fy2006/appropriations",
-    "https://www.nsf.gov/science-matters/pacific-islands-front-line-battle-against-climate-change",
-    "https://www.nsf.gov/science-matters/nsf-powered-dashboards-you-should-bookmark",
-    "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/erwin-chargaff",
-    "https://www.nsf.gov/honorary-awards/pecase/recipients/pei-cao",
-    "https://www.nsf.gov/tip/vital-prize-challenge",
-    "https://www.nsf.gov/science-matters/nsf-grantees-solving-problems-created-single-use-plastics",
-    "https://www.nsf.gov/funding/initiatives/i-corps/updates/new-nsf-effort-expands-i-corpstm-teams-training-program",
-    "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/wendell-l-roelofs",
-    "https://www.nsf.gov/about/budget/fy2004/appropriations",
-    "https://www.nsf.gov/eng/iip/iucrc/sample_agreement_form.jsp",
-    "https://www.nsf.gov/honorary-awards/pecase/recipients/john-w-sutherland",
-    "https://www.nsf.gov/science-matters/black-hole-collision-theory-evidence",
-    "https://www.nsf.gov/about/about-nsf-by-the-numbers/codebook",
-    "https://www.nsf.gov/science-matters/protecting-messaging-app-users-while-safeguarding-privacy",
-    "https://www.nsf.gov/honorary-awards/pecase/recipients/shelly-gable"
+    "https://www.nsf.gov/honorary-awards/pecase/recipients/martin-l-culpepper",
+    "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/yoichiro-nambu",
+    "https://www.nsf.gov/honorary-awards/pecase/recipients/amy-l-prieto",
+    "https://www.nsf.gov/honorary-awards/pecase/recipients/ravi-vakil",
+    "https://www.nsf.gov/science-matters/virtual-summer-road-trip-visit-nsfs-cutting-edge-science",
+    "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/gregory-breit",
+    "https://www.nsf.gov/science-matters/shrimps-go-big-go-hollywood",
+    "https://www.nsf.gov/tip/updates/nsf-convergence-accelerator-announces-first",
+    "https://www.nsf.gov/science-matters/no-soils-no-life",
+    "https://www.nsf.gov/funding/initiatives/regional-innovation-engines/updates/nsf-establishes-10-inaugural-regional-innovation-engines",
+    "https://www.nsf.gov/science-matters/10-nsf-funded-discoveries-help-us-understand-our-oceans",
+    "https://www.nsf.gov/science-matters/battery-recycling-breakthrough",
+    "https://www.nsf.gov/reports/nsb/merit/national-science-foundation-merit-review-fy-2004",
+    "https://www.nsf.gov/honorary-awards/pecase/recipients/miguel-velez-reyes"
    ]
   },
   "VS-f054f4a4": {
@@ -436,39 +406,25 @@
    "wcag": null,
    "severity": "Moderate",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
     "2026-W43",
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 2,
-   "lastPagesAffected": 26,
+   "weeksSeen": 3,
+   "lastPagesAffected": 10,
    "lastAffectedPages": [
-    "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/gene-e-likens",
-    "https://www.nsf.gov/science-matters/nsf-powered-dashboards-you-should-bookmark",
-    "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/erwin-chargaff",
-    "https://www.nsf.gov/funding/initiatives/i-corps/updates/new-nsf-effort-expands-i-corpstm-teams-training-program",
-    "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/wendell-l-roelofs",
-    "https://www.nsf.gov/about/budget/fy2004/appropriations",
-    "https://www.nsf.gov/eng/iip/iucrc/sample_agreement_form.jsp",
-    "https://www.nsf.gov/honorary-awards/pecase/recipients/john-w-sutherland",
-    "https://www.nsf.gov/science-matters/black-hole-collision-theory-evidence",
-    "https://www.nsf.gov/honorary-awards/pecase/recipients/shelly-gable",
-    "https://www.nsf.gov/science-matters/pilot-programs-help-workers-students-cross-transit-deserts",
-    "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/mario-r-capecchi",
-    "https://www.nsf.gov/nsb/updates/dramatic-changes-science-engineering-landscape-call-new-us",
-    "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/george-ledyard-stebbins",
-    "https://www.nsf.gov/about/budget/fy2017/appropriations",
-    "https://www.nsf.gov/science-matters/nsf-supports-researchers-through-covid-19-pandemic",
-    "https://www.nsf.gov/honorary-awards/pecase/recipients/carlos-rinaldi",
-    "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/john-g-trump",
-    "https://www.nsf.gov/science-matters/nsf-supporting-marine-mammal-science-around-world",
-    "https://www.nsf.gov/honorary-awards/pecase/recipients/demetra-c-evangelou",
-    "https://www.nsf.gov/honorary-awards/pecase/recipients/ya-wang",
-    "https://www.nsf.gov/honorary-awards/pecase/recipients/amir-ahmadi",
-    "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/john-d-roberts",
-    "https://www.nsf.gov/science-matters",
-    "https://www.nsf.gov/honorary-awards/pecase/recipients/gavin-r-price"
+    "https://www.nsf.gov/honorary-awards/pecase/recipients/amy-l-prieto",
+    "https://www.nsf.gov/honorary-awards/pecase/recipients/ravi-vakil",
+    "https://www.nsf.gov/science-matters/virtual-summer-road-trip-visit-nsfs-cutting-edge-science",
+    "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/gregory-breit",
+    "https://www.nsf.gov/tip/updates/nsf-convergence-accelerator-announces-first",
+    "https://www.nsf.gov/science-matters/no-soils-no-life",
+    "https://www.nsf.gov/funding/initiatives/regional-innovation-engines/updates/nsf-establishes-10-inaugural-regional-innovation-engines",
+    "https://www.nsf.gov/science-matters/10-nsf-funded-discoveries-help-us-understand-our-oceans",
+    "https://www.nsf.gov/science-matters/battery-recycling-breakthrough",
+    "https://www.nsf.gov/honorary-awards/pecase/recipients/miguel-velez-reyes"
    ]
   },
   "VS-2cd767ca": {
@@ -478,34 +434,21 @@
    "wcag": null,
    "severity": "Moderate",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
     "2026-W43",
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 2,
-   "lastPagesAffected": 20,
+   "weeksSeen": 3,
+   "lastPagesAffected": 6,
    "lastAffectedPages": [
-    "https://www.nsf.gov/funding/opportunities/ls-law-science/pd21-128y",
-    "https://www.nsf.gov/funding/opportunities/cc-campus-cyberinfrastructure",
-    "https://www.nsf.gov/funding/opportunities/small-business-innovation-research-program-phase-i/505233/nsf16-554",
-    "https://www.nsf.gov/funding/pgm_summ.jsp?from=fund&pims_id=5517",
-    "https://www.nsf.gov/funding/opportunities/mps-astro-mps-astronomical-sciences-research-programs/nsf16-574",
-    "https://www.nsf.gov/funding/opportunities/pfe-rief-pfe-research-initiation-engineering-formation/nsf11-507",
-    "https://www.nsf.gov/funding/opportunities/reu-research-experiences-undergraduates/nsf19-582",
-    "https://www.nsf.gov/funding/opportunities/ascent-addressing-systems-challenges-through-engineering-teams/505853/nsf25-503",
-    "https://www.nsf.gov/funding/opportunities/crcd-fy-20022003-combined-research-curriculum-development/5534/nsf01-139",
-    "https://www.nsf.gov/funding/opportunities/p4climate-paleo-perspectives-present-projected-climate/506087/nsf22-612",
-    "https://www.nsf.gov/funding/opportunities/small-business-innovation-research-program-phase-i/505233/nsf16-599",
-    "https://www.nsf.gov/funding/opportunities/iucrc-industry-university-cooperative-research-centers-program/505789",
-    "https://www.nsf.gov/funding/opportunities/vines-verticals-enabling-intelligent-network-systems/506396/nsf25-539",
-    "https://www.nsf.gov/funding/opportunities/egfp-nsf-epscor-graduate-fellowship-program",
-    "https://www.nsf.gov/funding/opportunities/screms-scientific-computing-research-environments-mathematical/5304/nsf01-16",
-    "https://www.nsf.gov/funding/opportunities/iuse-cue-improving-undergraduate-stem-education-computing/505630/nsf24-553",
-    "https://www.nsf.gov/funding/opportunities/nsdl-national-stem-education-distributed-learning/5487/nsf02-054",
-    "https://www.nsf.gov/funding/opportunities/tcup-tribal-colleges-universities-program/nsf21-595",
-    "https://www.nsf.gov/funding/opportunities/cici-cybersecurity-innovation-cyberinfrastructure/nsf19-514",
-    "https://www.nsf.gov/funding/opportunities/cps-cyberphysical-systems/503286/nsf17-529"
+    "https://www.nsf.gov/funding/opportunities/biological-oceanography/11696/pd98-1650",
+    "https://www.nsf.gov/funding/opportunities/ires-international-research-experiences-students/505656/nsf20-598",
+    "https://www.nsf.gov/funding/opportunities/stemediprf-science-technology-engineering-mathematics-education/505980/nsf23-544",
+    "https://www.nsf.gov/funding/opportunities/cc-campus-cyberinfrastructure/nsf16-567",
+    "https://www.nsf.gov/funding/initiatives/regional-innovation-engines/updates/nsf-establishes-10-inaugural-regional-innovation-engines",
+    "https://www.nsf.gov/funding/opportunities/msp-math-science-partnership/5528/nsf02-061"
    ]
   },
   "VS-d69fc059": {
@@ -527,7 +470,8 @@
     "https://www.nsf.gov/about/budget/fy2006/appropriations",
     "https://www.nsf.gov/eng/iip/iucrc/sample_agreement_form.jsp",
     "https://www.nsf.gov/about/budget/fy2021/appropriations"
-   ]
+   ],
+   "_coverageLost": true
   },
   "VS-9074b4dd": {
    "engine": "axe-core",
@@ -536,17 +480,16 @@
    "wcag": "1.1.1",
    "severity": "Critical",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
-   "lastPagesAffected": 2,
+   "weeksSeen": 2,
+   "lastPagesAffected": 1,
    "lastAffectedPages": [
-    "https://www.nsf.gov/funding/opportunities/vec-nsfintel-partnership-visual-experiential-computing/505085/nsf15-518/solicitation",
-    "https://www.nsf.gov/funding/opportunities/icn-wen-nsfintel-partnership-information-centric-networking-wireless/505310/nsf16-586/solicitation"
-   ],
-   "_coverageNew": true
+    "https://www.nsf.gov/funding/opportunities/ecdi-nsfvmware-partnership-edge-computing-data-infrastructure/505509/nsf18-540/solicitation"
+   ]
   },
   "VS-3f067795": {
    "engine": "Siteimprove Alfa",
@@ -564,7 +507,8 @@
    "lastAffectedPages": [
     "https://www.nsf.gov/eng/iip/iucrc/sample_agreement_form.jsp"
    ],
-   "_coverageNew": true
+   "_coverageNew": true,
+   "_coverageLost": true
   },
   "VS-efd91fdd": {
    "engine": "Siteimprove Alfa",
@@ -582,7 +526,8 @@
    "lastAffectedPages": [
     "https://www.nsf.gov/eng/iip/iucrc/sample_agreement_form.jsp"
    ],
-   "_coverageNew": true
+   "_coverageNew": true,
+   "_coverageLost": true
   },
   "VS-28ebd979": {
    "engine": "Siteimprove Alfa",
@@ -602,7 +547,8 @@
     "https://www.nsf.gov/funding/opportunities/s-stem-net-scholarships-stem-network/505889/updates",
     "https://www.nsf.gov/events/webinar-introduction-usprd-ideas-lab"
    ],
-   "_coverageNew": true
+   "_coverageNew": true,
+   "_coverageLost": true
   },
   "VS-be8d563e": {
    "engine": "axe-core",
@@ -611,16 +557,17 @@
    "wcag": "1.4.3",
    "severity": "Serious",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
-   "lastPagesAffected": 1,
+   "weeksSeen": 2,
+   "lastPagesAffected": 2,
    "lastAffectedPages": [
-    "https://www.nsf.gov/funding/opportunities/bdd-us-japan-big-data-disaster-research/505035/nsf14-575/solicitation"
-   ],
-   "_coverageNew": true
+    "https://www.nsf.gov/funding/opportunities/sbe-doctoral-dissertation-research-improvement-grants/13453/nsf11-547/solicitation",
+    "https://www.nsf.gov/funding/opportunities/ecdi-nsfvmware-partnership-edge-computing-data-infrastructure/505509/nsf18-540/solicitation"
+   ]
   },
   "VS-8806389c": {
    "engine": "axe-core",
@@ -640,7 +587,8 @@
     "https://www.nsf.gov/news/nsf-recognizes-3-scientists-alan-t-waterman-award",
     "https://www.nsf.gov/eng/iip/iucrc/sample_agreement_form.jsp"
    ],
-   "_coverageNew": true
+   "_coverageNew": true,
+   "_coverageLost": true
   },
   "VS-30db094d": {
    "engine": "axe-core",
@@ -658,7 +606,8 @@
    "lastAffectedPages": [
     "https://www.nsf.gov/eng/iip/iucrc/sample_agreement_form.jsp"
    ],
-   "_coverageNew": true
+   "_coverageNew": true,
+   "_coverageLost": true
   },
   "VS-054101da": {
    "engine": "axe-core",
@@ -676,7 +625,8 @@
    "lastAffectedPages": [
     "https://www.nsf.gov/eng/iip/iucrc/sample_agreement_form.jsp"
    ],
-   "_coverageNew": true
+   "_coverageNew": true,
+   "_coverageLost": true
   },
   "VS-0ba8ce9d": {
    "engine": "axe-core",
@@ -694,7 +644,8 @@
    "lastAffectedPages": [
     "https://www.nsf.gov/eng/iip/iucrc/sample_agreement_form.jsp"
    ],
-   "_coverageNew": true
+   "_coverageNew": true,
+   "_coverageLost": true
   },
   "VS-0066c67d": {
    "engine": "axe-core",
@@ -703,17 +654,16 @@
    "wcag": null,
    "severity": "Minor",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
-   "lastPagesAffected": 2,
+   "weeksSeen": 2,
+   "lastPagesAffected": 1,
    "lastAffectedPages": [
-    "https://www.nsf.gov/od/directors",
-    "https://www.nsf.gov/about/about-nsf-by-the-numbers/codebook"
-   ],
-   "_coverageNew": true
+    "https://www.nsf.gov/funding/opportunities/dusel-deep-underground-science-engineering-laboratory/500072/nsf06-614/solicitation"
+   ]
   },
   "VS-04a9d28c": {
    "engine": "deprecated-html",
@@ -722,14 +672,50 @@
    "wcag": null,
    "severity": "Moderate",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
+   ],
+   "weeksSeen": 2,
+   "lastPagesAffected": 1,
+   "lastAffectedPages": [
+    "https://www.nsf.gov/funding/opportunities/crifmu-chemistry-research-instrumentation-facilities-departmental/13579/nsf09-546/solicitation"
+   ]
+  },
+  "VS-a24eaa8c": {
+   "engine": "Siteimprove Alfa",
+   "ruleId": "sia-r2",
+   "summary": "Image has accessible name (WCAG 1.1.1)",
+   "wcag": "1.1.1",
+   "severity": "Moderate",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
    ],
    "weeksSeen": 1,
    "lastPagesAffected": 1,
    "lastAffectedPages": [
-    "https://www.nsf.gov/funding/opportunities/rii-track-2-fec-epscor-research-infrastructure-improvement-program-track-2/505148/nsf15-517/solicitation"
+    "https://www.nsf.gov/funding/opportunities/ecdi-nsfvmware-partnership-edge-computing-data-infrastructure/505509/nsf18-540/solicitation"
+   ],
+   "_coverageNew": true
+  },
+  "VS-3c632d31": {
+   "engine": "Siteimprove Alfa",
+   "ruleId": "sia-r64",
+   "summary": "Heading has an accessible name (WCAG 1.3.1)",
+   "wcag": "1.3.1",
+   "severity": "Moderate",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksSeen": 1,
+   "lastPagesAffected": 1,
+   "lastAffectedPages": [
+    "https://www.nsf.gov/funding/opportunities/dusel-deep-underground-science-engineering-laboratory/500072/nsf06-614/solicitation"
    ],
    "_coverageNew": true
   }
