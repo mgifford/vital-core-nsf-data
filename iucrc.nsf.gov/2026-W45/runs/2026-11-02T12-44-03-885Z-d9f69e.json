@@ -1,0 +1,150 @@
+{
+ "runId": "2026-11-02T12-44-03-885Z-d9f69e",
+ "week": "2026-W45",
+ "domain": "iucrc.nsf.gov",
+ "canonical": {
+  "origin": "https://iucrc.nsf.gov",
+  "configured": "https://iucrc.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-02T12:44:04.795Z",
+ "scanned": [
+  "a455022bd5c803f5",
+  "5b0feb90a723e240",
+  "9abd8d598ecf78ab",
+  "6482386a4c1660a4",
+  "d797819d7f930736",
+  "ce39adf7089f18e6",
+  "1290634836381462",
+  "7697a5f0d56621a1",
+  "e927e765c3c31cde",
+  "002fef63abed1048",
+  "c24ed09982133b78",
+  "c3a5f1571abf2b19",
+  "6fb1400e2198563c",
+  "3e94b76db756a7e4",
+  "b8cc7a0997ef8184",
+  "51cd74f046078b10",
+  "4dde3ff038aa5b63",
+  "60b512933bde72e6",
+  "164e830557062c08",
+  "497a931523aca590",
+  "7b58fe8616bcde64",
+  "ba7a25a80f4487a4",
+  "ecbf06e1359c4235",
+  "a8c2bba5974cfa78",
+  "b7edaba4fd0950e5"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 192,
+  "checked": 192,
+  "brokenCount": 7,
+  "broken": [
+   {
+    "url": "https://iucrc.nsf.gov/sites/default/files/2020-04/annual-costs.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/universities/solicitation/annual-costs-archive"
+    ]
+   },
+   {
+    "url": "https://www.usaa.com/",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-innovation-in-risk-catastrophes-and-decisions-circad"
+    ]
+   },
+   {
+    "url": "http://www.netcentric.cse.unt.edu/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/net-centric-and-cloud-software-and-system"
+    ]
+   },
+   {
+    "url": "https://www.goodyear.co/",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-tire-research"
+    ]
+   },
+   {
+    "url": "https://www.wright.edu/center-for-surveillance-research",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-surveillance-research"
+    ]
+   },
+   {
+    "url": "https://iucrc.nsf.gov/centers/center-on-pervasive-personalized-intelligence-ppi/intel.com",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-on-pervasive-personalized-intelligence-ppi"
+    ]
+   },
+   {
+    "url": "https://iucrc.nsf.gov/centers/center-on-pervasive-personalized-intelligence-ppi/nec.com",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-on-pervasive-personalized-intelligence-ppi"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 24,
+  "deprecated-html": 2,
+  "resources": 24,
+  "images": 24,
+  "public-interest": 3,
+  "link-check": 24,
+  "plain-language": 13,
+  "standards": 14,
+  "alfa": 9,
+  "third-party": 5,
+  "sustainability": 2,
+  "tech": 1,
+  "security": 2,
+  "lighthouse": 2
+ },
+ "tally": {
+  "ok": 24,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-02T12:46:33.774Z"
+}
