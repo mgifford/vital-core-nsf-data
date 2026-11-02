@@ -1,0 +1,181 @@
+{
+ "runId": "2026-11-02T10-55-09-076Z-b7152d",
+ "week": "2026-W45",
+ "domain": "www.nsf.gov",
+ "canonical": {
+  "origin": "https://www.nsf.gov",
+  "configured": "https://www.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-02T10:55:09.646Z",
+ "scanned": [
+  "2467ca2532bab668",
+  "70e33e0aa7edf8cc",
+  "f7f5e6473a57481b",
+  "33ce277e53e73094",
+  "fa48ec21139a3182",
+  "70b260adcebfcc1a",
+  "1d5c84f8abf6dae8",
+  "b9edb066e30ea990",
+  "7dbdb97c03099bfc",
+  "7eaff45150baa8c7",
+  "413b72c32bff0148",
+  "42caa4b1bac609b5",
+  "2cca0e3b57beb850",
+  "270b3eebb28ff236",
+  "d7e52c2d136c23e2",
+  "1935c03e325ee8f7",
+  "70b5afa06237a820",
+  "b2088578bbb924fe",
+  "701b71afe48361ce",
+  "6a084e9e3a15625e",
+  "5babd5ff71dd6860",
+  "68592f0549767bc6",
+  "a0c6902fbf3f2b51",
+  "984310a6fba297a8",
+  "6401cc0e45102932"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 311,
+  "checked": 311,
+  "brokenCount": 11,
+  "broken": [
+   {
+    "url": "https://www.nsf.gov/news/earth-was-stressed-dinosaur-extinction",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/science-matters/virtual-summer-road-trip-visit-nsfs-cutting-edge-science"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/news/antarctica-yields-two-unknown-dinosaur-species",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/science-matters/virtual-summer-road-trip-visit-nsfs-cutting-edge-science"
+    ]
+   },
+   {
+    "url": "http://www.braininitiative.nih.gov/funding/fundedAwards.htm",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-data-resources-brain-initiative/nsf16-115"
+    ]
+   },
+   {
+    "url": "https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fnsf-gov-resources.nsf.gov%2Ffiles%2FNSF%2520Convergence%2520Accelerator%2520Anchor%2520Opportunity.pdf%3FVersionId%3DCzEgx5c_AMoOeYzmF6bNKpAMy6HF2vmv%26utm_source%3Doutlook%26utm_medium%3Demail%26utm_campaign%3Dregion%2B2%2Binvitation&data=05%7C02%7Ckevin.karp%40aptiveresources.com%7Cf0d56366fe604eda031108dc8968e223%7Cae5354d96fa5483194393fbd1fe66920%7C0%7C0%7C638536330962482333%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=O2aAFwLoEW5%2BkjvR2%2Ffp8CmD9BmzLmH6fkIGrRiYUPA%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://www.nsf.gov/events/nsf-convergence-accelerator-regional-expansion-event-0"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJIsc-2vpzIsGFhz4DUxzwrYbb1dEkOHMRI",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/nsfnoaa-catastropheclimate-modeling-iucrc-session-academics"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJIsdeCsrT4vEy1l8HKkIM_gciD-ey9rliA",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/space-stem-task-force-pathways-federal-space-workforce/2023-03-29"
+    ]
+   },
+   {
+    "url": "https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpeerj.com%2Farticles%2F12949%2F&data=05%7C01%7Ckrs150%40psu.edu%7Cc6586310eede4fc5e00a08da27aaaf49%7C7cf48d453ddb4389a9c1c115526eb52e%7C0%7C0%7C637865911280175250%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=90NDlQqbwzv%2BlqP5mSNPDKbzhMP7%2B%2BQHoOY1aQQTDI4%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://www.nsf.gov/news/prehistoric-forest-grows-brunei"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf20119",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/ires-international-research-experiences-students/505656/nsf20-598"
+    ]
+   },
+   {
+    "url": "http://www.nsf.gov/geo/oce/programs/PD%20Announcement.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/biological-oceanography/11696/pd98-1650"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf21010",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/biological-oceanography/11696/pd98-1650"
+    ]
+   },
+   {
+    "url": "http://monsoon.harvard.edu/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.nsf.gov/about/budget/fy2007/cover_caption"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 23,
+  "plain-language": 14,
+  "resources": 23,
+  "images": 23,
+  "standards": 11,
+  "link-check": 23,
+  "sustainability": 3,
+  "alfa": 12,
+  "security": 3,
+  "third-party": 7,
+  "lighthouse": 2,
+  "deprecated-html": 1,
+  "public-interest": 3
+ },
+ "tally": {
+  "ok": 23,
+  "blocked": 2,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 3,
+  "error": 0
+ },
+ "finishedAt": "2026-11-02T10:59:28.049Z"
+}
