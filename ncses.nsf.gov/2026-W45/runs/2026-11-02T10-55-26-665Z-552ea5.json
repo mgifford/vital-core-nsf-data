@@ -1,0 +1,100 @@
+{
+ "runId": "2026-11-02T10-55-26-665Z-552ea5",
+ "week": "2026-W45",
+ "domain": "ncses.nsf.gov",
+ "canonical": {
+  "origin": "https://ncses.nsf.gov",
+  "configured": "https://ncses.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-02T10:55:27.469Z",
+ "scanned": [
+  "e692b7f03143a9ff",
+  "29d79ced565c99c1",
+  "94c9384c3a5444e8",
+  "4855b77d212a4821",
+  "2f4727439b9079ad",
+  "1f663576567ef5cc",
+  "1c54583342dec6cb",
+  "3678196ff18f67f2",
+  "d3603a30be36eb3c",
+  "f3dafc25b0a61480",
+  "4099027e51fa1899",
+  "8025a17a75046587",
+  "11235f0bb2ddeb66",
+  "1ef443a1024146e6",
+  "b4ab19bdef7ebc2e",
+  "3ac8e30324418f1b",
+  "b03c98a2c68cc1ff",
+  "0a3c1198bdebef4f",
+  "9c5228ab7a39d593",
+  "c4b48983925d5ee5",
+  "4e870677a5640072",
+  "b295520d7742ff6d",
+  "6074ebfa925d7ee0"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 3066,
+  "checked": 500,
+  "brokenCount": 1,
+  "broken": [
+   {
+    "url": "https://aishe.gov.in/aishe/gotoAisheReports",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsbsep20261",
+     "https://ncses.nsf.gov/pubs/nsb20261"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 22,
+  "plain-language": 14,
+  "resources": 22,
+  "images": 22,
+  "standards": 8,
+  "link-check": 22,
+  "alfa": 16,
+  "third-party": 7,
+  "public-interest": 3,
+  "security": 3,
+  "sustainability": 1,
+  "lighthouse": 1,
+  "deprecated-html": 1
+ },
+ "tally": {
+  "ok": 22,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 12,
+  "error": 0
+ },
+ "finishedAt": "2026-11-02T11:01:22.028Z"
+}
