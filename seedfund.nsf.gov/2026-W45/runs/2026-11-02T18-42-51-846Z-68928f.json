@@ -1,0 +1,102 @@
+{
+ "runId": "2026-11-02T18-42-51-846Z-68928f",
+ "week": "2026-W45",
+ "domain": "seedfund.nsf.gov",
+ "canonical": {
+  "origin": "https://seedfund.nsf.gov",
+  "configured": "https://seedfund.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-02T18:42:52.335Z",
+ "scanned": [
+  "0f7693675bd86d29",
+  "5b6a65e1543f81e5",
+  "fab52196044986a4",
+  "dab049b16e1bb25d",
+  "c0ff1bd324f2b0c4",
+  "219eda1769df659a",
+  "671ce7cf701f4a6a",
+  "3f5289da028c7ff4",
+  "c9a25468775509eb",
+  "68aaa414f02345c8",
+  "8431cb946476abdd",
+  "00d0a444547af20a",
+  "f93662d62bbb2bca",
+  "265d00846d7d35c7",
+  "56eabf61a28eb4b5",
+  "1981e5a42f234a0b",
+  "9dc5120cf29879a9",
+  "b1af18d8dd15dab2",
+  "7516be285ca2c8ea",
+  "2267f2e5f74baec8",
+  "199abbcd911fa9e9",
+  "ef773894e970bea6",
+  "6ab3b12950cae072",
+  "dc6c2469b98531e5",
+  "6623687836a12c79"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 118,
+  "checked": 118,
+  "brokenCount": 1,
+  "broken": [
+   {
+    "url": "https://seedfund.nsf.gov/centers/focus-area/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://seedfund.nsf.gov/centers/ceps/novel-aerogel-based-insulation-may-transform-building-efficiency"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "sustainability": 3,
+  "axe": 25,
+  "alfa": 17,
+  "plain-language": 8,
+  "resources": 25,
+  "images": 25,
+  "standards": 11,
+  "third-party": 3,
+  "link-check": 25,
+  "security": 2,
+  "lighthouse": 4,
+  "public-interest": 2,
+  "tech": 5,
+  "deprecated-html": 2
+ },
+ "tally": {
+  "ok": 25,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-02T18:45:57.466Z"
+}
