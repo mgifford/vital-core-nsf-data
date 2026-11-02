@@ -1,0 +1,202 @@
+{
+ "runId": "2026-11-02T19-48-51-593Z-2da188",
+ "week": "2026-W45",
+ "domain": "www.nsf.gov",
+ "canonical": {
+  "origin": "https://www.nsf.gov",
+  "configured": "https://www.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-02T19:48:52.151Z",
+ "scanned": [
+  "435fcc065b4a19b1",
+  "98079a18406ed08b",
+  "2f1ea611b868f347",
+  "30d9ca48cd15a2eb",
+  "f5418f1428f583d6",
+  "d9fb46453e9d0965",
+  "bffaec6b8871c0b6",
+  "6a6e9ae22b7d4b0c",
+  "30ec0659ee19a121",
+  "3f6ef9b03f8b30db",
+  "eda73abb6e52f926",
+  "df5960daf67a7986",
+  "ba95379549859c23",
+  "84ec8e39e3b6f83b",
+  "4f36a4d720ce80fa",
+  "c8add2ce7380d3b0",
+  "7f0b0b782fc85d26",
+  "a7fe491c76116a22",
+  "871f22b583921eb2",
+  "1bfc0c53abc09361",
+  "d35b4fb219ec4c19",
+  "ea3a9c57b3630deb",
+  "13fe257c48002d98",
+  "a6529643e2a1d87f",
+  "c2d424d840ced9c5"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 249,
+  "checked": 249,
+  "brokenCount": 13,
+  "broken": [
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJItdu6rrj8sH1khM-vCnr175ELE6MrEKDk",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/oce-prf-ocean-sciences-postdoctoral-research-fellowships/505838/updates/94752"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJIsdOCgqzojHJ5G5Gl8mtRz9v-7mSu1tBQ",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/oce-prf-ocean-sciences-postdoctoral-research-fellowships/505838/updates/94752"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJIsfuGqpzsoGZVzb_eE_B5pWsGjvBDtZWA",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/oce-prf-ocean-sciences-postdoctoral-research-fellowships/505838/updates/94752"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJIsfuquqD8sG5A6H_yipCRrGyP3q2pzdPE",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/oce-prf-ocean-sciences-postdoctoral-research-fellowships/505838/updates/94752"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_sbmbd-I8TYGYnjlNyzX22g",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/nsf-integrated-data-systems-services-nsf-idss-program"
+    ]
+   },
+   {
+    "url": "https://iosblog.nsfbio.com/virtual-office-hours/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/events/may-virtual-office-hour-division-integrative-organismal-0/2022-05-19",
+     "https://www.nsf.gov/events/ios-virtual-office-hour",
+     "https://www.nsf.gov/events/july-virtual-office-hours-division-integrative-organismal"
+    ]
+   },
+   {
+    "url": "https://iosblog.nsfbio.com/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/events/may-virtual-office-hour-division-integrative-organismal-0/2022-05-19",
+     "https://www.nsf.gov/events/ios-virtual-office-hour",
+     "https://www.nsf.gov/events/july-virtual-office-hours-division-integrative-organismal"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_jwm5iJFgQu6qEWPf1s6qSQ",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/mid-scale-research-infrastructure-1-program-informational/2022-11-17"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubs/2021/nsf21584/nsf21584.htm",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/ios-virtual-office-hour"
+    ]
+   },
+   {
+    "url": "https://debblog.nsfbio.com/2021/03/08/explore-our-blog/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/events/deb-virtual-office-hours-pappg-cracking-code"
+    ]
+   },
+   {
+    "url": "https://debblog.nsfbio.com/office-hours/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/events/deb-virtual-office-hours-pappg-cracking-code"
+    ]
+   },
+   {
+    "url": "https://debblog.nsfbio.com/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/events/deb-virtual-office-hours-pappg-cracking-code"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJIscuysqjMsGecTekqRM6xvKB-oLSp8rdc",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/july-virtual-office-hours-division-integrative-organismal"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 24,
+  "alfa": 11,
+  "plain-language": 9,
+  "resources": 24,
+  "images": 24,
+  "standards": 14,
+  "link-check": 24,
+  "lighthouse": 5,
+  "deprecated-html": 2,
+  "security": 3,
+  "third-party": 4,
+  "sustainability": 2,
+  "tech": 3,
+  "public-interest": 3
+ },
+ "tally": {
+  "ok": 24,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 3,
+  "error": 0
+ },
+ "finishedAt": "2026-11-02T19:53:14.536Z"
+}
