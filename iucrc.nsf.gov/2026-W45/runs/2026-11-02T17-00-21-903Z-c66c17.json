@@ -1,0 +1,245 @@
+{
+ "runId": "2026-11-02T17-00-21-903Z-c66c17",
+ "week": "2026-W45",
+ "domain": "iucrc.nsf.gov",
+ "canonical": {
+  "origin": "https://iucrc.nsf.gov",
+  "configured": "https://iucrc.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-02T17:00:22.447Z",
+ "scanned": [
+  "f46db172fb9bdf9b",
+  "7bf418d9c009a882",
+  "f4dde08c846d9326",
+  "93c5c45605765a61",
+  "0f3dbacf5c96e38e",
+  "7908ce9ecebc45bd",
+  "bc62be6ded3adc18",
+  "ec5a166cec524733",
+  "1e875ad20189815f",
+  "553af46288df4349",
+  "e7565176cdb66f56",
+  "133b1c33eaf2c712",
+  "2a4bf47cd1d4243b",
+  "6445828a57a60e5f",
+  "fa11ba5205f573c7",
+  "800c5b013a22b8d3",
+  "dd2ba41ebe1c0a4d",
+  "675bd0f705d85ad8",
+  "b59c09ecf5355ffb",
+  "a0b3be3ffab860ff",
+  "168c1a3ae2f575fd",
+  "acbd368e2b7ea93a",
+  "5fa8a82255c752a0",
+  "715b37bb5a97e96d",
+  "07a649197d8cebed"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 271,
+  "checked": 271,
+  "brokenCount": 19,
+  "broken": [
+   {
+    "url": "https://www.amd.com/en.html",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-advanced-semiconductor-chips-with-accelerated-performance"
+    ]
+   },
+   {
+    "url": "https://asap.mntl.illinois.edu/",
+    "status": 0,
+    "reason": "CERT_HAS_EXPIRED",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-advanced-semiconductor-chips-with-accelerated-performance"
+    ]
+   },
+   {
+    "url": "https://iucrc.nsf.gov/centers/center-for-soil-technologies-soiltech",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/focus-area/energy-and-environment"
+    ]
+   },
+   {
+    "url": "https://www.eaton.com/",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-infrastructure-trustworthiness-in-energy-systems-cites"
+    ]
+   },
+   {
+    "url": "http://chmpr.umbc.edu/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-hybrid-multicore-productivity-research"
+    ]
+   },
+   {
+    "url": "https://faradaycopper.com/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-to-advance-the-science-of-exploration-to-reclamation-in-mining-caserm"
+    ]
+   },
+   {
+    "url": "https://www.heavy.ai/",
+    "status": 0,
+    "reason": "ERR_SSL_TLSV1_ALERT_INTERNAL_ERROR",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-spatiotemporal-thinking-computing-and-applications"
+    ]
+   },
+   {
+    "url": "https://www.noaasis.noaa.gov/POLAR/JPSS/jpss.html",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-spatiotemporal-thinking-computing-and-applications"
+    ]
+   },
+   {
+    "url": "https://liononemetals.com/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-to-advance-the-science-of-exploration-to-reclamation-in-mining-caserm"
+    ]
+   },
+   {
+    "url": "https://www.avangrid.com/",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/wind-energy-science-technology-and-research"
+    ]
+   },
+   {
+    "url": "https://www.ge.com/renewableenergy/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/wind-energy-science-technology-and-research"
+    ]
+   },
+   {
+    "url": "http://nsfcbl.ai/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-big-data-learning"
+    ]
+   },
+   {
+    "url": "https://iucrc.nsf.gov/centers/center-for-big-data-learning/adobe.com",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-big-data-learning"
+    ]
+   },
+   {
+    "url": "https://iucrc.nsf.gov/centers/center-for-big-data-learning/deadsetbit.com",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-big-data-learning"
+    ]
+   },
+   {
+    "url": "https://iucrc.nsf.gov/centers/center-for-big-data-learning/etri.re.kr",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-big-data-learning"
+    ]
+   },
+   {
+    "url": "https://iucrc.nsf.gov/centers/center-for-big-data-learning/atombeamtech.com",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-big-data-learning"
+    ]
+   },
+   {
+    "url": "https://iucrc.nsf.gov/centers/center-for-big-data-learning/l3harris.com",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-big-data-learning"
+    ]
+   },
+   {
+    "url": "https://iucrc.nsf.gov/centers/center-for-big-data-learning/qualcomm.com",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-big-data-learning"
+    ]
+   },
+   {
+    "url": "https://www.keurigdrpepper.com/",
+    "status": 502,
+    "reason": "HTTP 502",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-bioplastics-and-biocomposites"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 24,
+  "resources": 24,
+  "images": 24,
+  "link-check": 24,
+  "sustainability": 5,
+  "plain-language": 8,
+  "alfa": 14,
+  "standards": 12,
+  "third-party": 5,
+  "deprecated-html": 4,
+  "public-interest": 5,
+  "tech": 3,
+  "lighthouse": 2
+ },
+ "tally": {
+  "ok": 24,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-02T17:04:00.268Z"
+}
