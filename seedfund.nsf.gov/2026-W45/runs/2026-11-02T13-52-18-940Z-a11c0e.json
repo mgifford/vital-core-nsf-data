@@ -1,0 +1,111 @@
+{
+ "runId": "2026-11-02T13-52-18-940Z-a11c0e",
+ "week": "2026-W45",
+ "domain": "seedfund.nsf.gov",
+ "canonical": {
+  "origin": "https://seedfund.nsf.gov",
+  "configured": "https://seedfund.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-02T13:52:20.277Z",
+ "scanned": [
+  "f303cc3a5e0de81c",
+  "d783f5866544d6d7",
+  "0b808d1a46fe247f",
+  "a33a425d828fa975",
+  "84e00aac85878c65",
+  "fe59dd8f734e3ff5",
+  "3214b5e4b71ee062",
+  "abe8b3d7bac7001b",
+  "9276149eae3b9d1b",
+  "1cc1c3856b0d4c2f",
+  "129d79d29683cdb9",
+  "4e0e235de2587255",
+  "18b36c4984a1a422",
+  "bd77249cf3036faf",
+  "d22cad134578871d",
+  "26905d461a71efd5",
+  "601c2ab033b45fc9",
+  "87074f32d897e73c",
+  "ab8c7ad5de164bef",
+  "0eba893ab3226161",
+  "b0cc1f62b5b036c9",
+  "c35236906e8343f4",
+  "00f72b1d536577e1",
+  "ceac8d77e6e8de1d",
+  "8b852ea585dbd309"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 94,
+  "checked": 94,
+  "brokenCount": 2,
+  "broken": [
+   {
+    "url": "http://www.yesse.tech/",
+    "status": 503,
+    "reason": "HTTP 503",
+    "foundOn": [
+     "https://seedfund.nsf.gov/portfolio/details?company=yesse-technologies-inc"
+    ]
+   },
+   {
+    "url": "https://seedfund.nsf.gov/centers/focus-area/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://seedfund.nsf.gov/centers/ceps/novel-additives-promise-strong-lightweight-composites-for-commercial-transportation",
+     "https://seedfund.nsf.gov/centers/ceps/providing-complete-hydrothermal-destruction-of-pfas"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 25,
+  "resources": 25,
+  "images": 25,
+  "third-party": 11,
+  "link-check": 25,
+  "deprecated-html": 2,
+  "standards": 11,
+  "public-interest": 5,
+  "plain-language": 12,
+  "tech": 3,
+  "alfa": 12,
+  "lighthouse": 5,
+  "security": 2,
+  "sustainability": 1
+ },
+ "tally": {
+  "ok": 25,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-02T13:55:28.202Z"
+}
