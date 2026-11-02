@@ -1,0 +1,101 @@
+{
+ "runId": "2026-11-02T13-52-14-511Z-48176d",
+ "week": "2026-W45",
+ "domain": "ncses.nsf.gov",
+ "canonical": {
+  "origin": "https://ncses.nsf.gov",
+  "configured": "https://ncses.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-02T13:52:15.172Z",
+ "scanned": [
+  "f4380b33e0599127",
+  "c05ed114426ae244",
+  "f88faadf1e3876ba",
+  "54c8731afe13ad4c",
+  "99d85b9e2143fed3",
+  "7a8f60d93d0818c6",
+  "7bcc9db91317c10f",
+  "f75b880bb5be1a5d",
+  "593969cfbc0543a0",
+  "41f0151b32d9c17e",
+  "7b47ac636fe78ac9",
+  "1bb1ba184eb91031",
+  "6a5c01e6988b63fd",
+  "a41624d19e5914bb",
+  "f32b7e3dfa15e4ab",
+  "e47dca59a4640a56",
+  "a3189c7f307cba43",
+  "2cbc0d40a00c6a3a",
+  "d9da2b40678203c4",
+  "1803c4b46851760d"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 2098,
+  "checked": 500,
+  "brokenCount": 1,
+  "broken": [
+   {
+    "url": "https://www.sbir.gov/sbirsearch/award/all",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20224/table/SINV-89",
+     "https://ncses.nsf.gov/pubs/nsb20224/table/SINV-45",
+     "https://ncses.nsf.gov/pubs/nsb20224/table/SINV-85",
+     "https://ncses.nsf.gov/pubs/nsb20224/table/SINV-78",
+     "https://ncses.nsf.gov/pubs/nsb20204/supplemental-tables"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 20,
+  "alfa": 11,
+  "plain-language": 7,
+  "resources": 20,
+  "images": 20,
+  "standards": 8,
+  "security": 2,
+  "tech": 2,
+  "link-check": 20,
+  "third-party": 4,
+  "deprecated-html": 6,
+  "lighthouse": 1,
+  "public-interest": 2,
+  "sustainability": 1
+ },
+ "tally": {
+  "ok": 20,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 11,
+  "error": 0
+ },
+ "finishedAt": "2026-11-02T13:57:00.215Z"
+}
