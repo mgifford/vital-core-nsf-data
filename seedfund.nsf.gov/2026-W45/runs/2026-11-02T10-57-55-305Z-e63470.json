@@ -1,0 +1,134 @@
+{
+ "runId": "2026-11-02T10-57-55-305Z-e63470",
+ "week": "2026-W45",
+ "domain": "seedfund.nsf.gov",
+ "canonical": {
+  "origin": "https://seedfund.nsf.gov",
+  "configured": "https://seedfund.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-02T10:57:55.776Z",
+ "scanned": [
+  "e2359064a252fffb",
+  "b992ddbd5c1c69ba",
+  "303913559ec96458",
+  "7c54706f036f593f",
+  "8594a4f73c489c80",
+  "8ac9e7cea631e79c",
+  "5bd9b2569358330f",
+  "f55a4c22c365d0d2",
+  "3745bf46fb15a18c",
+  "5c9b8c0fe8c546bb",
+  "faccc7feef70751f",
+  "4983068ed276951f",
+  "1b4cbbc886dc0b5e",
+  "662c3b334215bdcc",
+  "ebef8e6e1dd90d5f",
+  "8d28c20147368847",
+  "cabad81bfd5ada95",
+  "ca397f3f7c4e27ae",
+  "98bebd056c6a278e",
+  "9c3826b7c38ae2a7",
+  "e45de4f26a0a387c",
+  "e4c89cbd5b84c3cd",
+  "60760dcb854f706b",
+  "e1db6ca5ee0dbc9f",
+  "e7036eac858a0df0"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 99,
+  "checked": 99,
+  "brokenCount": 5,
+  "broken": [
+   {
+    "url": "http://www.imagenenergy.com/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://seedfund.nsf.gov/portfolio/details?company=imagen-energy-llc"
+    ]
+   },
+   {
+    "url": "https://www.mcknightsseniorliving.com/home/news/tech-daily-news/more-risk-management-data-on-seniors-and-falls-enabled-by-new-partnership/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://seedfund.nsf.gov/news/safelyyou"
+    ]
+   },
+   {
+    "url": "http://www.thermocaplabs.com/",
+    "status": 0,
+    "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
+    "foundOn": [
+     "https://seedfund.nsf.gov/awardees/phase-2/details?company=thermocap-laboratories-inc"
+    ]
+   },
+   {
+    "url": "http://www.clearflame.com/",
+    "status": 0,
+    "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
+    "foundOn": [
+     "https://seedfund.nsf.gov/portfolio/details?company=clearflame-engines-inc"
+    ]
+   },
+   {
+    "url": "https://ascendelements.com/",
+    "status": 503,
+    "reason": "HTTP 503",
+    "foundOn": [
+     "https://seedfund.nsf.gov/news/ascend-elements"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 24,
+  "alfa": 16,
+  "plain-language": 10,
+  "resources": 24,
+  "images": 24,
+  "link-check": 24,
+  "sustainability": 3,
+  "standards": 10,
+  "deprecated-html": 4,
+  "lighthouse": 3,
+  "tech": 2,
+  "third-party": 5,
+  "public-interest": 2,
+  "security": 3
+ },
+ "tally": {
+  "ok": 24,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-02T11:00:50.224Z"
+}
