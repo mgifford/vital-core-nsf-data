@@ -1,0 +1,274 @@
+{
+ "runId": "2026-11-02T17-00-15-413Z-9dda82",
+ "week": "2026-W45",
+ "domain": "www.nsf.gov",
+ "canonical": {
+  "origin": "https://www.nsf.gov",
+  "configured": "https://www.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-02T17:00:15.835Z",
+ "scanned": [
+  "0a8578348ddb9c95",
+  "bcafd3dc51e91254",
+  "d301c98dadabae6c",
+  "f7cd78b22f12e517",
+  "273b11d228d0ec23",
+  "4c116cf9d8fb20ed",
+  "64a3a2d5346dd5aa",
+  "27f133317a0198fc",
+  "915b8b3ad0736f11",
+  "256788a6027c83a4",
+  "2ec430407da93ef1",
+  "d204f67143df9224",
+  "08ded39a2894d0b9",
+  "5c0d8c400ca0e985",
+  "485537ca97895377",
+  "fdae40231b444682",
+  "362489486ba10004",
+  "821dff8ca3b34017",
+  "3eafed5499de2c1a",
+  "4b8a4b83bc6224ec",
+  "c9dc35c37856be1c",
+  "81536cb3f6c4a66f"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 297,
+  "checked": 297,
+  "brokenCount": 23,
+  "broken": [
+   {
+    "url": "https://www.nsf.gov/edu/Videos/2024NRTInformationalWebinar.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/nsf-research-traineeship-program-nrt-office-hour"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/sbe/bcs/anthro/suppdiss.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sbe-doctoral-dissertation-research-improvement-grants/13453/nsf11-547/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/sbe/bcs/arch/suppdiss.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sbe-doctoral-dissertation-research-improvement-grants/13453/nsf11-547/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/sbe/bcs/grs/suppdiss.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sbe-doctoral-dissertation-research-improvement-grants/13453/nsf11-547/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/sbe/bcs/DEL/DELsuppdiss.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sbe-doctoral-dissertation-research-improvement-grants/13453/nsf11-547/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/sbe/bcs/ling/suppdiss.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sbe-doctoral-dissertation-research-improvement-grants/13453/nsf11-547/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/sbe/bcs/phys/suppdiss.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sbe-doctoral-dissertation-research-improvement-grants/13453/nsf11-547/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/sbe/ses/econ/ddrip1.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sbe-doctoral-dissertation-research-improvement-grants/13453/nsf11-547/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/sbe/ses/law/lawguide1.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sbe-doctoral-dissertation-research-improvement-grants/13453/nsf11-547/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/sbe/ses/drms/ddrip1.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sbe-doctoral-dissertation-research-improvement-grants/13453/nsf11-547/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/sbe/ses/polisci/ddrip1.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sbe-doctoral-dissertation-research-improvement-grants/13453/nsf11-547/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/sbe/ses/mms/diss1.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sbe-doctoral-dissertation-research-improvement-grants/13453/nsf11-547/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/sbe/ses/ssociety/ssdiss1.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sbe-doctoral-dissertation-research-improvement-grants/13453/nsf11-547/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/sbe/ses/soc/socckl1.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sbe-doctoral-dissertation-research-improvement-grants/13453/nsf11-547/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/sbe/ddig_srs.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sbe-doctoral-dissertation-research-improvement-grants/13453/nsf11-547/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/sbe/scisip/ddrig.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sbe-doctoral-dissertation-research-improvement-grants/13453/nsf11-547/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.fastlane.nsf.gov/a1/newstan.htm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sbe-doctoral-dissertation-research-improvement-grants/13453/nsf11-547/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/sbe/ddrig_contacts.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sbe-doctoral-dissertation-research-improvement-grants/13453/nsf11-547/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=aag",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sbe-doctoral-dissertation-research-improvement-grants/13453/nsf11-547/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/policies/SOR_PA_NSF-50_Principal_Investigator_Proposal_File.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sbe-doctoral-dissertation-research-improvement-grants/13453/nsf11-547/solicitation"
+    ]
+   },
+   {
+    "url": "https://gcc02.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.nature.ooo%2F&data=05%7C02%7Cooyebade%40associates.nsf.gov%7C1175e6a31db84f35cb7108df08575a46%7C4939bd9435634244904d6e68ffc9b8cf%7C0%7C0%7C639238843562280648%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=LvMTeXbg7ntOf%2BV5PHq3aZucZPrksm8CsmE%2Fnw%2Bgaxk%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://www.nsf.gov/bio/updates/new-nsf-supported-center-will-accelerate-data-driven"
+    ]
+   },
+   {
+    "url": "https://www.niehs.nih.gov/research/programs/climatechange/index.cfm",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-capacity-building-catalyze-collaborations-address-climate/nsf24-013"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/edu/CREST.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-capacity-building-catalyze-collaborations-address-climate/nsf24-013"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 22,
+  "plain-language": 13,
+  "deprecated-html": 2,
+  "resources": 22,
+  "images": 22,
+  "standards": 8,
+  "link-check": 22,
+  "alfa": 9,
+  "third-party": 6,
+  "sustainability": 2,
+  "public-interest": 2,
+  "lighthouse": 2,
+  "security": 3
+ },
+ "tally": {
+  "ok": 22,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 3,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 1,
+  "error": 0
+ },
+ "finishedAt": "2026-11-02T17:03:11.946Z"
+}
