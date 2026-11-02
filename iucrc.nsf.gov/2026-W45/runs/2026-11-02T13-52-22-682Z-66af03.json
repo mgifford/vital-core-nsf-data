@@ -1,0 +1,141 @@
+{
+ "runId": "2026-11-02T13-52-22-682Z-66af03",
+ "week": "2026-W45",
+ "domain": "iucrc.nsf.gov",
+ "canonical": {
+  "origin": "https://iucrc.nsf.gov",
+  "configured": "https://iucrc.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-02T13:52:23.514Z",
+ "scanned": [
+  "3f548323a950c140",
+  "a565d36ae70a47eb",
+  "1d474bbbcc2f3e78",
+  "d1a71ad17c2cbde1",
+  "9212677a4fa1fea1",
+  "4b178a1251662af9",
+  "af76da9b0cea54d6",
+  "cb34e906e333e380",
+  "2cfa44ab869bef19",
+  "3e51345c637ceb65",
+  "33ddf92e53c69627",
+  "609ac19d67117aa5",
+  "3d60f0b7dd49562d",
+  "7f03914e5c868060",
+  "a0d39f043cb71f24",
+  "00f75ff96e970346",
+  "25e1eab0b5fe277b",
+  "4e68ab7eb740f12e",
+  "e63795ce73b9b21f",
+  "743b68bcbe8ee18b",
+  "4f01deb779cf6e3d",
+  "bee365b4398b4981",
+  "72a6d2305f31edf9",
+  "c4c0f4f61b09a8b5",
+  "27180125c3161a59"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 244,
+  "checked": 244,
+  "brokenCount": 6,
+  "broken": [
+   {
+    "url": "https://energysafety.ca.gov/wp-content/uploads/2025/06//recommendations-to-energy-safety-2025-adopted-1.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/achievements/firebench"
+    ]
+   },
+   {
+    "url": "https://www.avangrid.com/aboutus/avangridnetworks",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-weather-innovation-smart-energy-and-resilience-wiser"
+    ]
+   },
+   {
+    "url": "https://iucrc.nsf.gov/centers/center-for-research-in-systems-and-storage-crss",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers?foc=&prifoc=0&sta=&uni="
+    ]
+   },
+   {
+    "url": "https://iucrc.nsf.gov/centers/center-for-electric-connected-and-autonomous-technologies-for-mobility-ecat",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers?foc=&prifoc=0&sta=&uni="
+    ]
+   },
+   {
+    "url": "http://www.nystar.state.ny.us/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-weather-innovation-smart-energy-and-resilience-wiser"
+    ]
+   },
+   {
+    "url": "https://iucrc.nsf.gov/centers/center-for-soil-technologies-soiltech",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers?foc=&prifoc=0&sta=&uni="
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 22,
+  "alfa": 14,
+  "resources": 22,
+  "images": 22,
+  "standards": 11,
+  "tech": 2,
+  "third-party": 6,
+  "link-check": 22,
+  "sustainability": 6,
+  "plain-language": 10,
+  "public-interest": 1,
+  "lighthouse": 3,
+  "security": 2
+ },
+ "tally": {
+  "ok": 22,
+  "blocked": 3,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 1,
+  "error": 0
+ },
+ "finishedAt": "2026-11-02T13:55:26.120Z"
+}
