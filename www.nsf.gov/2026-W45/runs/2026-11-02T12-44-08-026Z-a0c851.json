@@ -1,0 +1,340 @@
+{
+ "runId": "2026-11-02T12-44-08-026Z-a0c851",
+ "week": "2026-W45",
+ "domain": "www.nsf.gov",
+ "canonical": {
+  "origin": "https://www.nsf.gov",
+  "configured": "https://www.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-02T12:44:08.646Z",
+ "scanned": [
+  "b7f75bd89ac6732a",
+  "8281b8a5d44e31fe",
+  "53a09b12b0966020",
+  "b1ce49311517f12a",
+  "98962d3370cbea14",
+  "dcdbce0897653c29",
+  "fbfba282bcc28bf3",
+  "95ecc07fbf23a080",
+  "94daf6ae13d1584c",
+  "0fb49d82998be8fc",
+  "27fe416737a63080",
+  "7e3f8e79f4a87191",
+  "4c4889ff190eb220",
+  "d9cdd5899c57783c",
+  "2afccc5588eee335",
+  "6650304696c55511",
+  "dd1a23412efc4119",
+  "3979e975453e9f83",
+  "89e27fcfb9ff936b",
+  "a2c2b6508737f180",
+  "eeab32fbd696305f",
+  "133f3f981caa51c6",
+  "9d809ae7280fa9d2",
+  "0f983bfca59fbe74"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 405,
+  "checked": 405,
+  "brokenCount": 31,
+  "broken": [
+   {
+    "url": "https://www.geosociety.org/GSA/News/pr/2022/22-34.aspx",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/news/discovery-pushes-back-earliest-record-wildfire-10-million"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_854SLoyjT6SkAw8Y30pBDQ",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/information-intelligent-systems-iis-office-hours-0"
+    ]
+   },
+   {
+    "url": "https://uscode.house.gov/view.xhtml?req=(title:42%20section:1861%20edition:prelim)",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/mams-mechanics-advanced-materials-systems"
+    ]
+   },
+   {
+    "url": "https://debblog.nsfbio.com/2021/03/08/explore-our-blog/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/events/deb-virtual-office-hour-career-solicitation/2023-05-08"
+    ]
+   },
+   {
+    "url": "https://debblog.nsfbio.com/office-hours/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/events/deb-virtual-office-hour-career-solicitation/2023-05-08"
+    ]
+   },
+   {
+    "url": "https://debblog.nsfbio.com/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/events/deb-virtual-office-hour-career-solicitation/2023-05-08"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_rcG95iI9QOOed-VfarsHFQ",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/deb-virtual-office-hour-career-solicitation/2023-05-08"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/news/sushi-parasites-have-increased-283-fold-past-40-years",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/science-matters/10-nsf-funded-discoveries-help-us-understand-our-oceans"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/news/microplastics-million-times-more-abundant-ocean-previously",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/science-matters/10-nsf-funded-discoveries-help-us-understand-our-oceans"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/bio/deb/DEB%20VOH%20CAREER%202023.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/deb-virtual-office-hour-career-solicitation/2023-05-08"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/news/pfas-chemicals-move-mom-fetus-higher-rate-women-gestational",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/science-matters/10-nsf-funded-discoveries-help-us-understand-our-oceans"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/news/research-expedition-faces-extreme-conditions-fast-changing",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/science-matters/10-nsf-funded-discoveries-help-us-understand-our-oceans"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/news/hidden-source-carbon-found-arctic-coast",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/science-matters/10-nsf-funded-discoveries-help-us-understand-our-oceans"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/news/freshwater-runoff-rivers-brings-more-carbon-nutrients-arctic",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/science-matters/10-nsf-funded-discoveries-help-us-understand-our-oceans"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/news/scientists-determine-early-earth-was-water-world-studying",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/science-matters/10-nsf-funded-discoveries-help-us-understand-our-oceans"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/news/corals-murky-waters-less-affected-temperature-stress",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/science-matters/10-nsf-funded-discoveries-help-us-understand-our-oceans"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/news/depleted-seamounts-near-hawaii-recovering-after-decades",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/science-matters/10-nsf-funded-discoveries-help-us-understand-our-oceans"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/news/diet-diversity-hawkfish-species-coexist-coral-reefs-thanks",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/science-matters/10-nsf-funded-discoveries-help-us-understand-our-oceans"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/news/study-uncovers-magnetic-memory-european-glass-eels",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/science-matters/10-nsf-funded-discoveries-help-us-understand-our-oceans"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/news/research-reveals-harmful-algal-blooms-daily-cycles",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/science-matters/10-nsf-funded-discoveries-help-us-understand-our-oceans"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/news/blue-sharks-use-ocean-eddies-fast-tracks-food",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/science-matters/10-nsf-funded-discoveries-help-us-understand-our-oceans"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/news/algae-killing-viruses-spur-nutrient-recycling-oceans",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/science-matters/10-nsf-funded-discoveries-help-us-understand-our-oceans"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/news/deep-sea-sediments-lead-new-understanding-solar-system",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/science-matters/10-nsf-funded-discoveries-help-us-understand-our-oceans"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/news/sinking-seamounts-make-muffle-earthquakes",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/science-matters/10-nsf-funded-discoveries-help-us-understand-our-oceans"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf18077",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/ecdi-nsfvmware-partnership-edge-computing-data-infrastructure/505509/nsf18-540/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.fastlane.nsf.gov/a1/newstan.htm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/ecdi-nsfvmware-partnership-edge-computing-data-infrastructure/505509/nsf18-540/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/policies/SOR_PA_NSF-50_Principal_Investigator_Proposal_File.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/ecdi-nsfvmware-partnership-edge-computing-data-infrastructure/505509/nsf18-540/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf18045&org=NSF",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/ecdi-nsfvmware-partnership-edge-computing-data-infrastructure/505509/nsf18-540/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/cise/oac/vision/blueprint-2019/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-pilot-projects-integrate-existing-data-data-focused/nsf21-045"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/mps/che/workshops/data_chemistry_workshop_report_03262018.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-pilot-projects-integrate-existing-data-data-focused/nsf21-045"
+    ]
+   },
+   {
+    "url": "http://www.openfogconsortium.org/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/ecdi-nsfvmware-partnership-edge-computing-data-infrastructure/505509/nsf18-540/solicitation"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 24,
+  "alfa": 12,
+  "resources": 24,
+  "images": 24,
+  "standards": 12,
+  "tech": 3,
+  "link-check": 24,
+  "plain-language": 17,
+  "public-interest": 2,
+  "third-party": 5,
+  "security": 2,
+  "deprecated-html": 3,
+  "lighthouse": 1
+ },
+ "tally": {
+  "ok": 24,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 1,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 1,
+  "error": 0
+ },
+ "finishedAt": "2026-11-02T12:47:54.397Z"
+}
