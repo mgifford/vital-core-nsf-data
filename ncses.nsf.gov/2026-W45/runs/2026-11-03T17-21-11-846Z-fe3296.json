@@ -1,0 +1,97 @@
+{
+ "runId": "2026-11-03T17-21-11-846Z-fe3296",
+ "week": "2026-W45",
+ "domain": "ncses.nsf.gov",
+ "canonical": {
+  "origin": "https://ncses.nsf.gov",
+  "configured": "https://ncses.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-03T17:21:12.224Z",
+ "scanned": [
+  "7aa0a133d091a205",
+  "bc27a760cbc27c60",
+  "f908f3402a893b46",
+  "9d5f7fc59eb4295c",
+  "77007d1289c4e0d5",
+  "7e5a8e3ac9262c74",
+  "02b50959ff55bfbe",
+  "9a82ab3d203e313a",
+  "f2871cbf2ad417aa",
+  "54ac5328ba3fe286",
+  "88ed1c17741bd723",
+  "ef8e2dfe262bc89e",
+  "a8270a09c8fdb1e1"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 714,
+  "checked": 500,
+  "brokenCount": 2,
+  "broken": [
+   {
+    "url": "http://ncses.nsf.gov/indicators/",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://ncses.nsf.gov/surveys/business-enterprise-research-development/2024"
+    ]
+   },
+   {
+    "url": "https://ncses.nsf.gov/surveys/business-enterprise-research-development/20243",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/surveys/business-enterprise-research-development/2024"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "sustainability": 2,
+  "axe": 13,
+  "alfa": 6,
+  "plain-language": 4,
+  "resources": 13,
+  "images": 13,
+  "lighthouse": 1,
+  "link-check": 13,
+  "public-interest": 3,
+  "deprecated-html": 1,
+  "standards": 5,
+  "third-party": 5,
+  "security": 1
+ },
+ "tally": {
+  "ok": 13,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 14,
+  "error": 0
+ },
+ "finishedAt": "2026-11-03T17:24:16.103Z"
+}
