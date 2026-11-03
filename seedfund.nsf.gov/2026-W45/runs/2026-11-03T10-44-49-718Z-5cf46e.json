@@ -1,0 +1,131 @@
+{
+ "runId": "2026-11-03T10-44-49-718Z-5cf46e",
+ "week": "2026-W45",
+ "domain": "seedfund.nsf.gov",
+ "canonical": {
+  "origin": "https://seedfund.nsf.gov",
+  "configured": "https://seedfund.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-03T10:44:50.434Z",
+ "scanned": [
+  "888343c2d51bfd4a",
+  "9fa6fc53fdb5309f",
+  "eeef8b1e442c45c6",
+  "54a783a890197422",
+  "7f9ee60bf533b3e5",
+  "1e1d872ee9f27751",
+  "2d5d1b1df320c0d2",
+  "bae0c6016841dde9",
+  "4612ab71a0d5063f",
+  "c5b4764853216100",
+  "9c5d33415d141a88",
+  "bdc67e209119b721",
+  "46858f1543f746f1",
+  "af235495972fb810",
+  "78a9f5c3fd314828",
+  "f68d82b602bce4eb",
+  "8f06028bd28f93c8",
+  "af2362e52d7abc32",
+  "f524d8429d1552ce",
+  "cca775230f0e0bf5",
+  "d8bc3b82aab89a9a",
+  "d5cbe8e2575c0b80",
+  "aeae620a80c6d78a",
+  "befd0440b67ce1af"
+ ],
+ "errors": [
+  {
+   "pageId": "aad1d9cec52b0989",
+   "url": "https://seedfund.nsf.gov/fastlane/form-prep-2",
+   "error": "TimeoutError: page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://seedfund.nsf.gov/fastlane/form-prep-2\", waiting until \"load\"\n"
+  }
+ ],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 106,
+  "checked": 106,
+  "brokenCount": 4,
+  "broken": [
+   {
+    "url": "http://www.luxvue.com/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://seedfund.nsf.gov/portfolio/details?company=luxvue-technology"
+    ]
+   },
+   {
+    "url": "https://seedfund.nsf.gov/resources/awardees/supplement/overview/[/assets/files/awardees/ED-Supp-Template.docx](https://seedfund.nsf.gov/assets/files/awardees/ED-Supp-Template.docx)",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://seedfund.nsf.gov/resources/awardees/supplement/overview"
+    ]
+   },
+   {
+    "url": "https://iperf.asee.org/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://seedfund.nsf.gov/resources/awardees/supplement/overview"
+    ]
+   },
+   {
+    "url": "http://www.biooscientific.com/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://seedfund.nsf.gov/portfolio/details?company=bioo-scientific-corporation"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 23,
+  "resources": 23,
+  "images": 23,
+  "link-check": 23,
+  "alfa": 10,
+  "plain-language": 9,
+  "standards": 14,
+  "public-interest": 4,
+  "third-party": 6,
+  "deprecated-html": 1,
+  "lighthouse": 1,
+  "security": 3,
+  "sustainability": 4,
+  "tech": 3
+ },
+ "tally": {
+  "ok": 23,
+  "blocked": 1,
+  "timeout": 1,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-03T10:47:51.642Z"
+}
