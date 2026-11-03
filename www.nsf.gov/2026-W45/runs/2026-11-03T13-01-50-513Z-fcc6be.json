@@ -1,0 +1,149 @@
+{
+ "runId": "2026-11-03T13-01-50-513Z-fcc6be",
+ "week": "2026-W45",
+ "domain": "www.nsf.gov",
+ "canonical": {
+  "origin": "https://www.nsf.gov",
+  "configured": "https://www.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-03T13:01:54.404Z",
+ "scanned": [
+  "569807822133f5a5",
+  "8193f64f3e68711f",
+  "e73dfa0d84d89577",
+  "a11924938dce592d",
+  "1e66213791a9b1cc",
+  "231e8c445d6318e2",
+  "6ba7be2a225f33cd",
+  "821e853b17e78416",
+  "a9fad57d9ee6707b",
+  "1eb7449a9d7f9af3",
+  "bcd9f89efcff99d2",
+  "6da7c3564d50a705",
+  "0401f4c32d20d3f9",
+  "aa790e2b9ef4205f",
+  "490bb97bbf920458",
+  "18543c73bbf137e6",
+  "85df68514c38be60",
+  "ec1f1260223ff2ba",
+  "eb40bde878f74680",
+  "d9b5d0de6e460f05",
+  "9f6e363b8a8f4351",
+  "18a3b872d0fc61b0",
+  "b3d6a2123c4ca2f3",
+  "bf659bf0f718893a"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 239,
+  "checked": 239,
+  "brokenCount": 7,
+  "broken": [
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJIsce6trDwpGwgkUfZny_IzTc0VcKuvm0g",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/committee-equal-opportunities-science-engineering-advisory"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_KV4lI3dCQsyp-2D2K1a4mQ",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/dms-virtual-office-hours-4"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_ONeGyjGXQjWVzNKevIN3DQ",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/artificial-intelligence-meets-fundamental-physics/2023-01-19"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/nsf/ere",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/news/hotspots-shed-light-flash-drought-causes"
+    ]
+   },
+   {
+    "url": "https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/news/nsf-partners-kick-nairr-pilot-program"
+    ]
+   },
+   {
+    "url": "http://www.nsf.gov/pubs/2014/nsf14030/nsf14030.jsp?WT.mc_id=USNSF_25&WT.mc_ev=click",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/xps-exploiting-parallelism-scalability/504842/nsf16-507"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_854SLoyjT6SkAw8Y30pBDQ",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/iis-office-hours-proposal-review-process/2022-09-15"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 24,
+  "alfa": 15,
+  "resources": 24,
+  "images": 24,
+  "standards": 15,
+  "link-check": 24,
+  "deprecated-html": 1,
+  "plain-language": 6,
+  "public-interest": 3,
+  "third-party": 6,
+  "lighthouse": 5,
+  "tech": 1,
+  "sustainability": 7,
+  "security": 4
+ },
+ "tally": {
+  "ok": 24,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 1,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-03T13:06:16.733Z"
+}
