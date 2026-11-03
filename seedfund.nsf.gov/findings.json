@@ -1,6 +1,6 @@
 {
  "domain": "seedfund.nsf.gov",
- "updatedAt": "2026-11-02T21:55:48.346Z",
+ "updatedAt": "2026-11-03T19:48:17.925Z",
  "findings": {
   "VS-3c632d31": {
    "engine": "Siteimprove Alfa",
@@ -35,33 +35,33 @@
     "2026-W45"
    ],
    "weeksSeen": 3,
-   "lastPagesAffected": 146,
+   "lastPagesAffected": 288,
    "lastAffectedPages": [
+    "https://seedfund.nsf.gov/portfolio/details?company=habitaware-inc",
     "https://seedfund.nsf.gov/awardees/phase-2/details?company=infusense-llc",
     "https://seedfund.nsf.gov/awardees/phase-2/details?company=aalmv-inc",
+    "https://seedfund.nsf.gov/news/Symbrosia",
     "https://seedfund.nsf.gov/awardees/phase-2/details?company=h-bar-instruments-llc",
+    "https://seedfund.nsf.gov/awardees/phase-1/details?company=quantum-copper-inc",
+    "https://seedfund.nsf.gov/awardees/phase-2/details?company=zs-systems-llc",
+    "https://seedfund.nsf.gov/portfolio/details?company=swarm-technologies-llc",
+    "https://seedfund.nsf.gov/topics/space",
     "https://seedfund.nsf.gov/centers/ceps/additively-manufactured-pure-copper-revolutionizes-thermal-management",
+    "https://seedfund.nsf.gov/awardees/phase-2/details?company=genassist-inc",
     "https://seedfund.nsf.gov/apply/project-pitch-information",
+    "https://seedfund.nsf.gov/awardees/phase-2/details?company=academic-web-pages-inc",
     "https://seedfund.nsf.gov/awardees/phase-2/details?company=sentire-medical-systems-inc",
     "https://seedfund.nsf.gov/topics/semiconductors",
     "https://seedfund.nsf.gov/resources/review/virtual-panelist",
     "https://seedfund.nsf.gov/news/aclarity",
     "https://seedfund.nsf.gov/awardees/history/details?company=symbrosia-inc",
     "https://seedfund.nsf.gov/awardees/phase-2/details?company=nutramaize-llc",
+    "https://seedfund.nsf.gov/news/noble-gas-systems",
+    "https://seedfund.nsf.gov/awardees/phase-2/details?company=materialize-bio-inc",
+    "https://seedfund.nsf.gov/awardees/history/details?company=zpolymers-llc",
     "https://seedfund.nsf.gov/portfolio/details?company=synvitrobio-inc",
     "https://seedfund.nsf.gov/awardees/phase-2/details?company=ravel-holdings-inc",
-    "https://seedfund.nsf.gov/portfolio/details?company=elektrofi-inc",
-    "https://seedfund.nsf.gov/topics/human-computer-interaction",
-    "https://seedfund.nsf.gov/awardees/history/details?company=amphix-bio-inc",
-    "https://seedfund.nsf.gov/how-to-submit/proposal-submission",
-    "https://seedfund.nsf.gov/news/squishy-robotics",
-    "https://seedfund.nsf.gov/portfolio/details?company=atom-computing-inc",
-    "https://seedfund.nsf.gov/awardees/phase-2/details?company=circularity-fuels-inc",
-    "https://seedfund.nsf.gov/portfolio/details?company=sonavex-inc",
-    "https://seedfund.nsf.gov/resources/awardees/phishing",
-    "https://seedfund.nsf.gov/awardees/phase-2/details?company=recon-rf-inc",
-    "https://seedfund.nsf.gov/news/south-8-technologies",
-    "https://seedfund.nsf.gov/awardees/phase-2/details?company=one-spot-learning-inc"
+    "https://seedfund.nsf.gov/awardees/phase-2/details?company=cpr-therapeutics-inc"
    ]
   },
   "VS-efd91fdd": {
@@ -134,12 +134,15 @@
     "2026-W45"
    ],
    "weeksSeen": 3,
-   "lastPagesAffected": 4,
+   "lastPagesAffected": 7,
    "lastAffectedPages": [
     "https://seedfund.nsf.gov/centers/ceps/additively-manufactured-pure-copper-revolutionizes-thermal-management",
     "https://seedfund.nsf.gov/centers/ceps/novel-aerogel-based-insulation-may-transform-building-efficiency",
+    "https://seedfund.nsf.gov/centers/ceps/legume-based-innovation-promises-new-stealth-health-snacks",
     "https://seedfund.nsf.gov/centers/ceps/novel-additives-promise-strong-lightweight-composites-for-commercial-transportation",
-    "https://seedfund.nsf.gov/centers/ceps/providing-complete-hydrothermal-destruction-of-pfas"
+    "https://seedfund.nsf.gov/centers/ceps/chlorine-resistant-membranes-promise-a-new-era-for-reverse-osmosis",
+    "https://seedfund.nsf.gov/centers/ceps/providing-complete-hydrothermal-destruction-of-pfas",
+    "https://seedfund.nsf.gov/showcase/featured-companies"
    ]
   },
   "VS-28ebd979": {
@@ -156,10 +159,11 @@
     "2026-W45"
    ],
    "weeksSeen": 3,
-   "lastPagesAffected": 3,
+   "lastPagesAffected": 4,
    "lastAffectedPages": [
     "https://seedfund.nsf.gov/centers/ceps/novel-aerogel-based-insulation-may-transform-building-efficiency",
     "https://seedfund.nsf.gov/centers/ceps/novel-additives-promise-strong-lightweight-composites-for-commercial-transportation",
+    "https://seedfund.nsf.gov/centers/ceps/chlorine-resistant-membranes-promise-a-new-era-for-reverse-osmosis",
     "https://seedfund.nsf.gov/centers/ceps/providing-complete-hydrothermal-destruction-of-pfas"
    ]
   },
@@ -207,19 +211,17 @@
    "wcag": "1.4.3",
    "severity": "Serious",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
     "2026-W43",
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 2,
-   "lastPagesAffected": 3,
+   "weeksSeen": 3,
+   "lastPagesAffected": 1,
    "lastAffectedPages": [
-    "https://seedfund.nsf.gov/apply/full-proposal",
-    "https://seedfund.nsf.gov/solicitation",
-    "https://seedfund.nsf.gov/"
-   ],
-   "_coverageLost": true
+    "https://seedfund.nsf.gov/mobile"
+   ]
   },
   "VS-f7e99f4b": {
    "engine": "Siteimprove Alfa",
@@ -228,19 +230,17 @@
    "wcag": "1.4.3",
    "severity": "Moderate",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
     "2026-W43",
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 2,
-   "lastPagesAffected": 3,
+   "weeksSeen": 3,
+   "lastPagesAffected": 1,
    "lastAffectedPages": [
-    "https://seedfund.nsf.gov/apply/full-proposal",
-    "https://seedfund.nsf.gov/solicitation",
-    "https://seedfund.nsf.gov/"
-   ],
-   "_coverageLost": true
+    "https://seedfund.nsf.gov/mobile"
+   ]
   },
   "VS-646b1e0b": {
    "engine": "Siteimprove Alfa",
@@ -256,12 +256,14 @@
     "2026-W45"
    ],
    "weeksSeen": 3,
-   "lastPagesAffected": 4,
+   "lastPagesAffected": 6,
    "lastAffectedPages": [
     "https://seedfund.nsf.gov/resources/review/virtual-panelist",
     "https://seedfund.nsf.gov/how-to-submit/proposal-submission",
+    "https://seedfund.nsf.gov/resources/awardees/supplement/overview",
     "https://seedfund.nsf.gov/resources/awardees/phishing",
-    "https://seedfund.nsf.gov/resources/awardees/supplement/institutional"
+    "https://seedfund.nsf.gov/resources/awardees/supplement/institutional",
+    "https://seedfund.nsf.gov/mobile"
    ]
   },
   "VS-fbf54eba": {
@@ -316,33 +318,33 @@
     "2026-W45"
    ],
    "weeksSeen": 3,
-   "lastPagesAffected": 82,
+   "lastPagesAffected": 153,
    "lastAffectedPages": [
     "https://seedfund.nsf.gov/awardees/phase-2/details?company=aalmv-inc",
     "https://seedfund.nsf.gov/awardees/phase-2/details?company=h-bar-instruments-llc",
+    "https://seedfund.nsf.gov/portfolio/details?company=swarm-technologies-llc",
+    "https://seedfund.nsf.gov/awardees/phase-2/details?company=genassist-inc",
     "https://seedfund.nsf.gov/awardees/phase-2/details?company=sentire-medical-systems-inc",
     "https://seedfund.nsf.gov/topics/semiconductors",
     "https://seedfund.nsf.gov/resources/review/virtual-panelist",
     "https://seedfund.nsf.gov/news/aclarity",
     "https://seedfund.nsf.gov/awardees/phase-2/details?company=nutramaize-llc",
+    "https://seedfund.nsf.gov/news/noble-gas-systems",
+    "https://seedfund.nsf.gov/awardees/history/details?company=zpolymers-llc",
     "https://seedfund.nsf.gov/awardees/phase-2/details?company=ravel-holdings-inc",
     "https://seedfund.nsf.gov/portfolio/details?company=elektrofi-inc",
+    "https://seedfund.nsf.gov/awardees/phase-2/details?company=vayuh-inc",
     "https://seedfund.nsf.gov/how-to-submit/proposal-submission",
     "https://seedfund.nsf.gov/portfolio/details?company=atom-computing-inc",
     "https://seedfund.nsf.gov/portfolio/details?company=sonavex-inc",
+    "https://seedfund.nsf.gov/resources/awardees/supplement/overview",
     "https://seedfund.nsf.gov/resources/awardees/phishing",
+    "https://seedfund.nsf.gov/awardees/phase-2/details?company=beyond-the-dome-inc",
     "https://seedfund.nsf.gov/awardees/phase-2/details?company=one-spot-learning-inc",
+    "https://seedfund.nsf.gov/awardees/history/details?company=kismet-technologies-llc",
     "https://seedfund.nsf.gov/news/Harvest",
-    "https://seedfund.nsf.gov/awardees/phase-2/details?company=helix-earth-technologies-inc",
-    "https://seedfund.nsf.gov/awardees/history/details?company=volta-energy-inc",
-    "https://seedfund.nsf.gov/portfolio/details?company=imagen-energy-llc",
-    "https://seedfund.nsf.gov/resources/awardees/supplement/institutional",
-    "https://seedfund.nsf.gov/awardees/history/details?company=geniphys-llc",
-    "https://seedfund.nsf.gov/awardees/phase-2/details?company=thermocap-laboratories-inc",
-    "https://seedfund.nsf.gov/awardees/phase-2/details?company=sway-innovation-co",
-    "https://seedfund.nsf.gov/awardees/phase-2/details?company=icorium-engineering-company",
-    "https://seedfund.nsf.gov/centers/ceps/novel-aerogel-based-insulation-may-transform-building-efficiency",
-    "https://seedfund.nsf.gov/awardees/phase-2/details?company=mellicell-inc"
+    "https://seedfund.nsf.gov/awardees/phase-2/details?company=form-finding-studio-llc",
+    "https://seedfund.nsf.gov/awardees/phase-2/details?company=lambda-function-inc"
    ]
   },
   "VS-30db094d": {
@@ -359,33 +361,33 @@
     "2026-W45"
    ],
    "weeksSeen": 3,
-   "lastPagesAffected": 146,
+   "lastPagesAffected": 288,
    "lastAffectedPages": [
+    "https://seedfund.nsf.gov/portfolio/details?company=habitaware-inc",
     "https://seedfund.nsf.gov/awardees/phase-2/details?company=infusense-llc",
     "https://seedfund.nsf.gov/awardees/phase-2/details?company=aalmv-inc",
+    "https://seedfund.nsf.gov/news/Symbrosia",
     "https://seedfund.nsf.gov/awardees/phase-2/details?company=h-bar-instruments-llc",
+    "https://seedfund.nsf.gov/awardees/phase-1/details?company=quantum-copper-inc",
+    "https://seedfund.nsf.gov/awardees/phase-2/details?company=zs-systems-llc",
+    "https://seedfund.nsf.gov/portfolio/details?company=swarm-technologies-llc",
+    "https://seedfund.nsf.gov/topics/space",
     "https://seedfund.nsf.gov/centers/ceps/additively-manufactured-pure-copper-revolutionizes-thermal-management",
+    "https://seedfund.nsf.gov/awardees/phase-2/details?company=genassist-inc",
     "https://seedfund.nsf.gov/apply/project-pitch-information",
+    "https://seedfund.nsf.gov/awardees/phase-2/details?company=academic-web-pages-inc",
     "https://seedfund.nsf.gov/awardees/phase-2/details?company=sentire-medical-systems-inc",
     "https://seedfund.nsf.gov/topics/semiconductors",
     "https://seedfund.nsf.gov/resources/review/virtual-panelist",
     "https://seedfund.nsf.gov/news/aclarity",
     "https://seedfund.nsf.gov/awardees/history/details?company=symbrosia-inc",
     "https://seedfund.nsf.gov/awardees/phase-2/details?company=nutramaize-llc",
+    "https://seedfund.nsf.gov/news/noble-gas-systems",
+    "https://seedfund.nsf.gov/awardees/phase-2/details?company=materialize-bio-inc",
+    "https://seedfund.nsf.gov/awardees/history/details?company=zpolymers-llc",
     "https://seedfund.nsf.gov/portfolio/details?company=synvitrobio-inc",
     "https://seedfund.nsf.gov/awardees/phase-2/details?company=ravel-holdings-inc",
-    "https://seedfund.nsf.gov/portfolio/details?company=elektrofi-inc",
-    "https://seedfund.nsf.gov/topics/human-computer-interaction",
-    "https://seedfund.nsf.gov/awardees/history/details?company=amphix-bio-inc",
-    "https://seedfund.nsf.gov/how-to-submit/proposal-submission",
-    "https://seedfund.nsf.gov/news/squishy-robotics",
-    "https://seedfund.nsf.gov/portfolio/details?company=atom-computing-inc",
-    "https://seedfund.nsf.gov/awardees/phase-2/details?company=circularity-fuels-inc",
-    "https://seedfund.nsf.gov/portfolio/details?company=sonavex-inc",
-    "https://seedfund.nsf.gov/resources/awardees/phishing",
-    "https://seedfund.nsf.gov/awardees/phase-2/details?company=recon-rf-inc",
-    "https://seedfund.nsf.gov/news/south-8-technologies",
-    "https://seedfund.nsf.gov/awardees/phase-2/details?company=one-spot-learning-inc"
+    "https://seedfund.nsf.gov/awardees/phase-2/details?company=cpr-therapeutics-inc"
    ]
   },
   "VS-054101da": {
@@ -402,33 +404,33 @@
     "2026-W45"
    ],
    "weeksSeen": 3,
-   "lastPagesAffected": 146,
+   "lastPagesAffected": 288,
    "lastAffectedPages": [
+    "https://seedfund.nsf.gov/portfolio/details?company=habitaware-inc",
     "https://seedfund.nsf.gov/awardees/phase-2/details?company=infusense-llc",
     "https://seedfund.nsf.gov/awardees/phase-2/details?company=aalmv-inc",
+    "https://seedfund.nsf.gov/news/Symbrosia",
     "https://seedfund.nsf.gov/awardees/phase-2/details?company=h-bar-instruments-llc",
+    "https://seedfund.nsf.gov/awardees/phase-1/details?company=quantum-copper-inc",
+    "https://seedfund.nsf.gov/awardees/phase-2/details?company=zs-systems-llc",
+    "https://seedfund.nsf.gov/portfolio/details?company=swarm-technologies-llc",
+    "https://seedfund.nsf.gov/topics/space",
     "https://seedfund.nsf.gov/centers/ceps/additively-manufactured-pure-copper-revolutionizes-thermal-management",
+    "https://seedfund.nsf.gov/awardees/phase-2/details?company=genassist-inc",
     "https://seedfund.nsf.gov/apply/project-pitch-information",
+    "https://seedfund.nsf.gov/awardees/phase-2/details?company=academic-web-pages-inc",
     "https://seedfund.nsf.gov/awardees/phase-2/details?company=sentire-medical-systems-inc",
     "https://seedfund.nsf.gov/topics/semiconductors",
     "https://seedfund.nsf.gov/resources/review/virtual-panelist",
     "https://seedfund.nsf.gov/news/aclarity",
     "https://seedfund.nsf.gov/awardees/history/details?company=symbrosia-inc",
     "https://seedfund.nsf.gov/awardees/phase-2/details?company=nutramaize-llc",
+    "https://seedfund.nsf.gov/news/noble-gas-systems",
+    "https://seedfund.nsf.gov/awardees/phase-2/details?company=materialize-bio-inc",
+    "https://seedfund.nsf.gov/awardees/history/details?company=zpolymers-llc",
     "https://seedfund.nsf.gov/portfolio/details?company=synvitrobio-inc",
     "https://seedfund.nsf.gov/awardees/phase-2/details?company=ravel-holdings-inc",
-    "https://seedfund.nsf.gov/portfolio/details?company=elektrofi-inc",
-    "https://seedfund.nsf.gov/topics/human-computer-interaction",
-    "https://seedfund.nsf.gov/awardees/history/details?company=amphix-bio-inc",
-    "https://seedfund.nsf.gov/how-to-submit/proposal-submission",
-    "https://seedfund.nsf.gov/news/squishy-robotics",
-    "https://seedfund.nsf.gov/portfolio/details?company=atom-computing-inc",
-    "https://seedfund.nsf.gov/awardees/phase-2/details?company=circularity-fuels-inc",
-    "https://seedfund.nsf.gov/portfolio/details?company=sonavex-inc",
-    "https://seedfund.nsf.gov/resources/awardees/phishing",
-    "https://seedfund.nsf.gov/awardees/phase-2/details?company=recon-rf-inc",
-    "https://seedfund.nsf.gov/news/south-8-technologies",
-    "https://seedfund.nsf.gov/awardees/phase-2/details?company=one-spot-learning-inc"
+    "https://seedfund.nsf.gov/awardees/phase-2/details?company=cpr-therapeutics-inc"
    ]
   },
   "VS-8806389c": {
@@ -445,33 +447,33 @@
     "2026-W45"
    ],
    "weeksSeen": 3,
-   "lastPagesAffected": 146,
+   "lastPagesAffected": 288,
    "lastAffectedPages": [
+    "https://seedfund.nsf.gov/portfolio/details?company=habitaware-inc",
     "https://seedfund.nsf.gov/awardees/phase-2/details?company=infusense-llc",
     "https://seedfund.nsf.gov/awardees/phase-2/details?company=aalmv-inc",
+    "https://seedfund.nsf.gov/news/Symbrosia",
     "https://seedfund.nsf.gov/awardees/phase-2/details?company=h-bar-instruments-llc",
+    "https://seedfund.nsf.gov/awardees/phase-1/details?company=quantum-copper-inc",
+    "https://seedfund.nsf.gov/awardees/phase-2/details?company=zs-systems-llc",
+    "https://seedfund.nsf.gov/portfolio/details?company=swarm-technologies-llc",
+    "https://seedfund.nsf.gov/topics/space",
     "https://seedfund.nsf.gov/centers/ceps/additively-manufactured-pure-copper-revolutionizes-thermal-management",
+    "https://seedfund.nsf.gov/awardees/phase-2/details?company=genassist-inc",
     "https://seedfund.nsf.gov/apply/project-pitch-information",
+    "https://seedfund.nsf.gov/awardees/phase-2/details?company=academic-web-pages-inc",
     "https://seedfund.nsf.gov/awardees/phase-2/details?company=sentire-medical-systems-inc",
     "https://seedfund.nsf.gov/topics/semiconductors",
     "https://seedfund.nsf.gov/resources/review/virtual-panelist",
     "https://seedfund.nsf.gov/news/aclarity",
     "https://seedfund.nsf.gov/awardees/history/details?company=symbrosia-inc",
     "https://seedfund.nsf.gov/awardees/phase-2/details?company=nutramaize-llc",
+    "https://seedfund.nsf.gov/news/noble-gas-systems",
+    "https://seedfund.nsf.gov/awardees/phase-2/details?company=materialize-bio-inc",
+    "https://seedfund.nsf.gov/awardees/history/details?company=zpolymers-llc",
     "https://seedfund.nsf.gov/portfolio/details?company=synvitrobio-inc",
     "https://seedfund.nsf.gov/awardees/phase-2/details?company=ravel-holdings-inc",
-    "https://seedfund.nsf.gov/portfolio/details?company=elektrofi-inc",
-    "https://seedfund.nsf.gov/topics/human-computer-interaction",
-    "https://seedfund.nsf.gov/awardees/history/details?company=amphix-bio-inc",
-    "https://seedfund.nsf.gov/how-to-submit/proposal-submission",
-    "https://seedfund.nsf.gov/news/squishy-robotics",
-    "https://seedfund.nsf.gov/portfolio/details?company=atom-computing-inc",
-    "https://seedfund.nsf.gov/awardees/phase-2/details?company=circularity-fuels-inc",
-    "https://seedfund.nsf.gov/portfolio/details?company=sonavex-inc",
-    "https://seedfund.nsf.gov/resources/awardees/phishing",
-    "https://seedfund.nsf.gov/awardees/phase-2/details?company=recon-rf-inc",
-    "https://seedfund.nsf.gov/news/south-8-technologies",
-    "https://seedfund.nsf.gov/awardees/phase-2/details?company=one-spot-learning-inc"
+    "https://seedfund.nsf.gov/awardees/phase-2/details?company=cpr-therapeutics-inc"
    ]
   },
   "VS-d25f622d": {
@@ -488,33 +490,33 @@
     "2026-W45"
    ],
    "weeksSeen": 3,
-   "lastPagesAffected": 112,
+   "lastPagesAffected": 227,
    "lastAffectedPages": [
+    "https://seedfund.nsf.gov/portfolio/details?company=habitaware-inc",
     "https://seedfund.nsf.gov/awardees/phase-2/details?company=infusense-llc",
     "https://seedfund.nsf.gov/awardees/phase-2/details?company=aalmv-inc",
     "https://seedfund.nsf.gov/awardees/phase-2/details?company=h-bar-instruments-llc",
+    "https://seedfund.nsf.gov/awardees/phase-1/details?company=quantum-copper-inc",
+    "https://seedfund.nsf.gov/awardees/phase-2/details?company=zs-systems-llc",
+    "https://seedfund.nsf.gov/portfolio/details?company=swarm-technologies-llc",
+    "https://seedfund.nsf.gov/awardees/phase-2/details?company=genassist-inc",
     "https://seedfund.nsf.gov/apply/project-pitch-information",
+    "https://seedfund.nsf.gov/awardees/phase-2/details?company=academic-web-pages-inc",
     "https://seedfund.nsf.gov/awardees/phase-2/details?company=sentire-medical-systems-inc",
     "https://seedfund.nsf.gov/awardees/history/details?company=symbrosia-inc",
     "https://seedfund.nsf.gov/awardees/phase-2/details?company=nutramaize-llc",
+    "https://seedfund.nsf.gov/awardees/phase-2/details?company=materialize-bio-inc",
+    "https://seedfund.nsf.gov/awardees/history/details?company=zpolymers-llc",
     "https://seedfund.nsf.gov/portfolio/details?company=synvitrobio-inc",
     "https://seedfund.nsf.gov/awardees/phase-2/details?company=ravel-holdings-inc",
+    "https://seedfund.nsf.gov/awardees/phase-2/details?company=cpr-therapeutics-inc",
+    "https://seedfund.nsf.gov/awardees/phase-2/details?company=hyfi-llc",
     "https://seedfund.nsf.gov/portfolio/details?company=elektrofi-inc",
+    "https://seedfund.nsf.gov/awardees/phase-2/details?company=vayuh-inc",
     "https://seedfund.nsf.gov/awardees/history/details?company=amphix-bio-inc",
     "https://seedfund.nsf.gov/portfolio/details?company=atom-computing-inc",
-    "https://seedfund.nsf.gov/awardees/phase-2/details?company=circularity-fuels-inc",
-    "https://seedfund.nsf.gov/portfolio/details?company=sonavex-inc",
-    "https://seedfund.nsf.gov/awardees/phase-2/details?company=recon-rf-inc",
-    "https://seedfund.nsf.gov/awardees/phase-2/details?company=one-spot-learning-inc",
-    "https://seedfund.nsf.gov/awardees/phase-2/details?company=rattan-life-science-inc",
-    "https://seedfund.nsf.gov/awardees/phase-2/details?company=helix-earth-technologies-inc",
-    "https://seedfund.nsf.gov/awardees/phase-2/details?company=victory-over-carbon-inc",
-    "https://seedfund.nsf.gov/awardees/history/details?company=volta-energy-inc",
-    "https://seedfund.nsf.gov/portfolio/details?company=imagen-energy-llc",
-    "https://seedfund.nsf.gov/portfolio/details?company=yesse-technologies-inc",
-    "https://seedfund.nsf.gov/awardees/history/details?company=geniphys-llc",
-    "https://seedfund.nsf.gov/awardees/phase-2/details?company=thermocap-laboratories-inc",
-    "https://seedfund.nsf.gov/awardees/phase-2/details?company=sway-innovation-co"
+    "https://seedfund.nsf.gov/portfolio/details?company=shark-wheel-inc",
+    "https://seedfund.nsf.gov/awardees/phase-2/details?company=circularity-fuels-inc"
    ]
   },
   "VS-fa44f293": {
@@ -531,33 +533,33 @@
     "2026-W45"
    ],
    "weeksSeen": 3,
-   "lastPagesAffected": 28,
+   "lastPagesAffected": 51,
    "lastAffectedPages": [
+    "https://seedfund.nsf.gov/news/Symbrosia",
     "https://seedfund.nsf.gov/centers/ceps/additively-manufactured-pure-copper-revolutionizes-thermal-management",
     "https://seedfund.nsf.gov/news/aclarity",
+    "https://seedfund.nsf.gov/news/noble-gas-systems",
     "https://seedfund.nsf.gov/news/squishy-robotics",
     "https://seedfund.nsf.gov/news/south-8-technologies",
     "https://seedfund.nsf.gov/news/Harvest",
+    "https://seedfund.nsf.gov/news/KismetTechnologies",
+    "https://seedfund.nsf.gov/news/attune-medical",
     "https://seedfund.nsf.gov/news/kytopen",
     "https://seedfund.nsf.gov/news/prenosis",
     "https://seedfund.nsf.gov/centers/ceps/novel-aerogel-based-insulation-may-transform-building-efficiency",
+    "https://seedfund.nsf.gov/centers/ceps/legume-based-innovation-promises-new-stealth-health-snacks",
     "https://seedfund.nsf.gov/news/DroneAmplified",
     "https://seedfund.nsf.gov/news/FilamentGames",
+    "https://seedfund.nsf.gov/news/tcarta",
+    "https://seedfund.nsf.gov/news/beta-hatch",
+    "https://seedfund.nsf.gov/news/MicrobialInsights",
     "https://seedfund.nsf.gov/news/mindprint-learning",
     "https://seedfund.nsf.gov/centers/ceps/novel-additives-promise-strong-lightweight-composites-for-commercial-transportation",
     "https://seedfund.nsf.gov/news/ascend-elements",
-    "https://seedfund.nsf.gov/showcase/cep/page/6",
-    "https://seedfund.nsf.gov/news/Cerillo",
-    "https://seedfund.nsf.gov/news/brimstone-energy",
-    "https://seedfund.nsf.gov/news/SilvusTechnologies",
-    "https://seedfund.nsf.gov/news/safelyyou",
-    "https://seedfund.nsf.gov/awardees/history/details",
-    "https://seedfund.nsf.gov/news/AstroForge",
-    "https://seedfund.nsf.gov/news/visolis",
-    "https://seedfund.nsf.gov/news/IAMBIC",
-    "https://seedfund.nsf.gov/centers/ceps/providing-complete-hydrothermal-destruction-of-pfas",
-    "https://seedfund.nsf.gov/news/heirloom-carbon",
-    "https://seedfund.nsf.gov/news/Sonavex"
+    "https://seedfund.nsf.gov/news/carenostics",
+    "https://seedfund.nsf.gov/news/grapevine-health",
+    "https://seedfund.nsf.gov/news/GreenSight",
+    "https://seedfund.nsf.gov/news/Oculogenex"
    ]
   },
   "VS-2cd767ca": {
@@ -574,33 +576,33 @@
     "2026-W45"
    ],
    "weeksSeen": 3,
-   "lastPagesAffected": 60,
+   "lastPagesAffected": 118,
    "lastAffectedPages": [
     "https://seedfund.nsf.gov/awardees/phase-2/details?company=aalmv-inc",
     "https://seedfund.nsf.gov/awardees/phase-2/details?company=h-bar-instruments-llc",
+    "https://seedfund.nsf.gov/portfolio/details?company=swarm-technologies-llc",
+    "https://seedfund.nsf.gov/awardees/phase-2/details?company=genassist-inc",
     "https://seedfund.nsf.gov/awardees/phase-2/details?company=sentire-medical-systems-inc",
     "https://seedfund.nsf.gov/awardees/phase-2/details?company=nutramaize-llc",
+    "https://seedfund.nsf.gov/awardees/history/details?company=zpolymers-llc",
     "https://seedfund.nsf.gov/awardees/phase-2/details?company=ravel-holdings-inc",
     "https://seedfund.nsf.gov/portfolio/details?company=elektrofi-inc",
+    "https://seedfund.nsf.gov/awardees/phase-2/details?company=vayuh-inc",
     "https://seedfund.nsf.gov/portfolio/details?company=atom-computing-inc",
     "https://seedfund.nsf.gov/portfolio/details?company=sonavex-inc",
+    "https://seedfund.nsf.gov/resources/awardees/supplement/overview",
+    "https://seedfund.nsf.gov/awardees/phase-2/details?company=beyond-the-dome-inc",
     "https://seedfund.nsf.gov/awardees/phase-2/details?company=one-spot-learning-inc",
+    "https://seedfund.nsf.gov/awardees/history/details?company=kismet-technologies-llc",
+    "https://seedfund.nsf.gov/awardees/phase-2/details?company=form-finding-studio-llc",
+    "https://seedfund.nsf.gov/awardees/phase-2/details?company=lambda-function-inc",
     "https://seedfund.nsf.gov/awardees/phase-2/details?company=helix-earth-technologies-inc",
+    "https://seedfund.nsf.gov/portfolio/details?company=omnivis-llc",
     "https://seedfund.nsf.gov/awardees/history/details?company=volta-energy-inc",
+    "https://seedfund.nsf.gov/awardees/phase-1/details?company=cambrya-inc",
     "https://seedfund.nsf.gov/portfolio/details?company=imagen-energy-llc",
-    "https://seedfund.nsf.gov/awardees/history/details?company=geniphys-llc",
-    "https://seedfund.nsf.gov/awardees/phase-2/details?company=thermocap-laboratories-inc",
-    "https://seedfund.nsf.gov/awardees/phase-2/details?company=sway-innovation-co",
-    "https://seedfund.nsf.gov/awardees/phase-2/details?company=icorium-engineering-company",
-    "https://seedfund.nsf.gov/awardees/phase-2/details?company=mellicell-inc",
-    "https://seedfund.nsf.gov/awardees/history/details?company=virolock-technologies-limited-liability-company",
-    "https://seedfund.nsf.gov/portfolio/details?company=alligant-scientific-llc",
-    "https://seedfund.nsf.gov/awardees/history/details?company=fireline-science-llc",
-    "https://seedfund.nsf.gov/awardees/phase-2/details?company=optic-fringe-corp",
-    "https://seedfund.nsf.gov/awardees/history/details?company=grain-weevil-corporation",
-    "https://seedfund.nsf.gov/awardees/phase-2/details?company=completionai-llc",
-    "https://seedfund.nsf.gov/awardees/history/details?company=nuukbio-inc",
-    "https://seedfund.nsf.gov/portfolio/details?company=dimensional-energy-inc"
+    "https://seedfund.nsf.gov/awardees/phase-2/details?company=arinna-inc",
+    "https://seedfund.nsf.gov/awardees/history/details?company=geniphys-llc"
    ]
   },
   "VS-ff3ceb19": {
@@ -617,33 +619,33 @@
     "2026-W45"
    ],
    "weeksSeen": 3,
-   "lastPagesAffected": 25,
+   "lastPagesAffected": 47,
    "lastAffectedPages": [
+    "https://seedfund.nsf.gov/news/Symbrosia",
     "https://seedfund.nsf.gov/centers/ceps/additively-manufactured-pure-copper-revolutionizes-thermal-management",
     "https://seedfund.nsf.gov/news/aclarity",
+    "https://seedfund.nsf.gov/news/noble-gas-systems",
     "https://seedfund.nsf.gov/news/squishy-robotics",
     "https://seedfund.nsf.gov/news/south-8-technologies",
     "https://seedfund.nsf.gov/news/Harvest",
+    "https://seedfund.nsf.gov/news/KismetTechnologies",
+    "https://seedfund.nsf.gov/news/attune-medical",
     "https://seedfund.nsf.gov/news/kytopen",
     "https://seedfund.nsf.gov/news/prenosis",
     "https://seedfund.nsf.gov/centers/ceps/novel-aerogel-based-insulation-may-transform-building-efficiency",
+    "https://seedfund.nsf.gov/centers/ceps/legume-based-innovation-promises-new-stealth-health-snacks",
     "https://seedfund.nsf.gov/news/DroneAmplified",
     "https://seedfund.nsf.gov/news/FilamentGames",
+    "https://seedfund.nsf.gov/news/tcarta",
+    "https://seedfund.nsf.gov/news/beta-hatch",
+    "https://seedfund.nsf.gov/news/MicrobialInsights",
     "https://seedfund.nsf.gov/news/mindprint-learning",
     "https://seedfund.nsf.gov/centers/ceps/novel-additives-promise-strong-lightweight-composites-for-commercial-transportation",
     "https://seedfund.nsf.gov/news/ascend-elements",
-    "https://seedfund.nsf.gov/news/Cerillo",
-    "https://seedfund.nsf.gov/news/brimstone-energy",
-    "https://seedfund.nsf.gov/news/SilvusTechnologies",
-    "https://seedfund.nsf.gov/news/safelyyou",
-    "https://seedfund.nsf.gov/news/AstroForge",
-    "https://seedfund.nsf.gov/news/visolis",
-    "https://seedfund.nsf.gov/news/IAMBIC",
-    "https://seedfund.nsf.gov/centers/ceps/providing-complete-hydrothermal-destruction-of-pfas",
-    "https://seedfund.nsf.gov/news/heirloom-carbon",
-    "https://seedfund.nsf.gov/news/Sonavex",
-    "https://seedfund.nsf.gov/news/TagoreTechnology",
-    "https://seedfund.nsf.gov/news/psyonic"
+    "https://seedfund.nsf.gov/news/carenostics",
+    "https://seedfund.nsf.gov/news/grapevine-health",
+    "https://seedfund.nsf.gov/news/GreenSight",
+    "https://seedfund.nsf.gov/news/Oculogenex"
    ]
   },
   "VS-cd69be3a": {
@@ -660,33 +662,33 @@
     "2026-W45"
    ],
    "weeksSeen": 3,
-   "lastPagesAffected": 25,
+   "lastPagesAffected": 47,
    "lastAffectedPages": [
+    "https://seedfund.nsf.gov/news/Symbrosia",
     "https://seedfund.nsf.gov/centers/ceps/additively-manufactured-pure-copper-revolutionizes-thermal-management",
     "https://seedfund.nsf.gov/news/aclarity",
+    "https://seedfund.nsf.gov/news/noble-gas-systems",
     "https://seedfund.nsf.gov/news/squishy-robotics",
     "https://seedfund.nsf.gov/news/south-8-technologies",
     "https://seedfund.nsf.gov/news/Harvest",
+    "https://seedfund.nsf.gov/news/KismetTechnologies",
+    "https://seedfund.nsf.gov/news/attune-medical",
     "https://seedfund.nsf.gov/news/kytopen",
     "https://seedfund.nsf.gov/news/prenosis",
     "https://seedfund.nsf.gov/centers/ceps/novel-aerogel-based-insulation-may-transform-building-efficiency",
+    "https://seedfund.nsf.gov/centers/ceps/legume-based-innovation-promises-new-stealth-health-snacks",
     "https://seedfund.nsf.gov/news/DroneAmplified",
     "https://seedfund.nsf.gov/news/FilamentGames",
+    "https://seedfund.nsf.gov/news/tcarta",
+    "https://seedfund.nsf.gov/news/beta-hatch",
+    "https://seedfund.nsf.gov/news/MicrobialInsights",
     "https://seedfund.nsf.gov/news/mindprint-learning",
     "https://seedfund.nsf.gov/centers/ceps/novel-additives-promise-strong-lightweight-composites-for-commercial-transportation",
     "https://seedfund.nsf.gov/news/ascend-elements",
-    "https://seedfund.nsf.gov/news/Cerillo",
-    "https://seedfund.nsf.gov/news/brimstone-energy",
-    "https://seedfund.nsf.gov/news/SilvusTechnologies",
-    "https://seedfund.nsf.gov/news/safelyyou",
-    "https://seedfund.nsf.gov/news/AstroForge",
-    "https://seedfund.nsf.gov/news/visolis",
-    "https://seedfund.nsf.gov/news/IAMBIC",
-    "https://seedfund.nsf.gov/centers/ceps/providing-complete-hydrothermal-destruction-of-pfas",
-    "https://seedfund.nsf.gov/news/heirloom-carbon",
-    "https://seedfund.nsf.gov/news/Sonavex",
-    "https://seedfund.nsf.gov/news/TagoreTechnology",
-    "https://seedfund.nsf.gov/news/psyonic"
+    "https://seedfund.nsf.gov/news/carenostics",
+    "https://seedfund.nsf.gov/news/grapevine-health",
+    "https://seedfund.nsf.gov/news/GreenSight",
+    "https://seedfund.nsf.gov/news/Oculogenex"
    ]
   },
   "VS-7f897be7": {
@@ -703,33 +705,33 @@
     "2026-W45"
    ],
    "weeksSeen": 3,
-   "lastPagesAffected": 61,
+   "lastPagesAffected": 117,
    "lastAffectedPages": [
     "https://seedfund.nsf.gov/awardees/phase-2/details?company=aalmv-inc",
     "https://seedfund.nsf.gov/awardees/phase-2/details?company=h-bar-instruments-llc",
+    "https://seedfund.nsf.gov/portfolio/details?company=swarm-technologies-llc",
+    "https://seedfund.nsf.gov/awardees/phase-2/details?company=genassist-inc",
     "https://seedfund.nsf.gov/awardees/phase-2/details?company=sentire-medical-systems-inc",
     "https://seedfund.nsf.gov/awardees/phase-2/details?company=nutramaize-llc",
+    "https://seedfund.nsf.gov/awardees/history/details?company=zpolymers-llc",
     "https://seedfund.nsf.gov/awardees/phase-2/details?company=ravel-holdings-inc",
     "https://seedfund.nsf.gov/portfolio/details?company=elektrofi-inc",
+    "https://seedfund.nsf.gov/awardees/phase-2/details?company=vayuh-inc",
     "https://seedfund.nsf.gov/portfolio/details?company=atom-computing-inc",
     "https://seedfund.nsf.gov/portfolio/details?company=sonavex-inc",
+    "https://seedfund.nsf.gov/awardees/phase-2/details?company=beyond-the-dome-inc",
     "https://seedfund.nsf.gov/awardees/phase-2/details?company=one-spot-learning-inc",
+    "https://seedfund.nsf.gov/awardees/history/details?company=kismet-technologies-llc",
+    "https://seedfund.nsf.gov/awardees/phase-2/details?company=form-finding-studio-llc",
+    "https://seedfund.nsf.gov/awardees/phase-2/details?company=lambda-function-inc",
     "https://seedfund.nsf.gov/awardees/phase-2/details?company=helix-earth-technologies-inc",
+    "https://seedfund.nsf.gov/portfolio/details?company=omnivis-llc",
     "https://seedfund.nsf.gov/awardees/history/details?company=volta-energy-inc",
+    "https://seedfund.nsf.gov/awardees/phase-1/details?company=cambrya-inc",
     "https://seedfund.nsf.gov/portfolio/details?company=imagen-energy-llc",
+    "https://seedfund.nsf.gov/awardees/phase-2/details?company=arinna-inc",
     "https://seedfund.nsf.gov/awardees/history/details?company=geniphys-llc",
-    "https://seedfund.nsf.gov/awardees/phase-2/details?company=thermocap-laboratories-inc",
-    "https://seedfund.nsf.gov/awardees/phase-2/details?company=sway-innovation-co",
-    "https://seedfund.nsf.gov/awardees/phase-2/details?company=icorium-engineering-company",
-    "https://seedfund.nsf.gov/awardees/phase-2/details?company=mellicell-inc",
-    "https://seedfund.nsf.gov/awardees/history/details?company=virolock-technologies-limited-liability-company",
-    "https://seedfund.nsf.gov/portfolio/details?company=alligant-scientific-llc",
-    "https://seedfund.nsf.gov/awardees/history/details?company=fireline-science-llc",
-    "https://seedfund.nsf.gov/awardees/phase-2/details?company=optic-fringe-corp",
-    "https://seedfund.nsf.gov/awardees/history/details?company=grain-weevil-corporation",
-    "https://seedfund.nsf.gov/awardees/phase-2/details?company=completionai-llc",
-    "https://seedfund.nsf.gov/awardees/history/details?company=nuukbio-inc",
-    "https://seedfund.nsf.gov/portfolio/details?company=dimensional-energy-inc"
+    "https://seedfund.nsf.gov/awardees/phase-2/details?company=sufficiently-advanced-inc"
    ]
   },
   "VS-f054f4a4": {
@@ -746,33 +748,33 @@
     "2026-W45"
    ],
    "weeksSeen": 3,
-   "lastPagesAffected": 60,
+   "lastPagesAffected": 117,
    "lastAffectedPages": [
     "https://seedfund.nsf.gov/awardees/phase-2/details?company=aalmv-inc",
     "https://seedfund.nsf.gov/awardees/phase-2/details?company=h-bar-instruments-llc",
+    "https://seedfund.nsf.gov/portfolio/details?company=swarm-technologies-llc",
+    "https://seedfund.nsf.gov/awardees/phase-2/details?company=genassist-inc",
     "https://seedfund.nsf.gov/awardees/phase-2/details?company=sentire-medical-systems-inc",
     "https://seedfund.nsf.gov/awardees/phase-2/details?company=nutramaize-llc",
+    "https://seedfund.nsf.gov/awardees/history/details?company=zpolymers-llc",
     "https://seedfund.nsf.gov/awardees/phase-2/details?company=ravel-holdings-inc",
     "https://seedfund.nsf.gov/portfolio/details?company=elektrofi-inc",
+    "https://seedfund.nsf.gov/awardees/phase-2/details?company=vayuh-inc",
     "https://seedfund.nsf.gov/portfolio/details?company=atom-computing-inc",
     "https://seedfund.nsf.gov/portfolio/details?company=sonavex-inc",
+    "https://seedfund.nsf.gov/awardees/phase-2/details?company=beyond-the-dome-inc",
     "https://seedfund.nsf.gov/awardees/phase-2/details?company=one-spot-learning-inc",
+    "https://seedfund.nsf.gov/awardees/history/details?company=kismet-technologies-llc",
+    "https://seedfund.nsf.gov/awardees/phase-2/details?company=form-finding-studio-llc",
+    "https://seedfund.nsf.gov/awardees/phase-2/details?company=lambda-function-inc",
     "https://seedfund.nsf.gov/awardees/phase-2/details?company=helix-earth-technologies-inc",
+    "https://seedfund.nsf.gov/portfolio/details?company=omnivis-llc",
     "https://seedfund.nsf.gov/awardees/history/details?company=volta-energy-inc",
+    "https://seedfund.nsf.gov/awardees/phase-1/details?company=cambrya-inc",
     "https://seedfund.nsf.gov/portfolio/details?company=imagen-energy-llc",
+    "https://seedfund.nsf.gov/awardees/phase-2/details?company=arinna-inc",
     "https://seedfund.nsf.gov/awardees/history/details?company=geniphys-llc",
-    "https://seedfund.nsf.gov/awardees/phase-2/details?company=thermocap-laboratories-inc",
-    "https://seedfund.nsf.gov/awardees/phase-2/details?company=sway-innovation-co",
-    "https://seedfund.nsf.gov/awardees/phase-2/details?company=icorium-engineering-company",
-    "https://seedfund.nsf.gov/awardees/phase-2/details?company=mellicell-inc",
-    "https://seedfund.nsf.gov/awardees/history/details?company=virolock-technologies-limited-liability-company",
-    "https://seedfund.nsf.gov/portfolio/details?company=alligant-scientific-llc",
-    "https://seedfund.nsf.gov/awardees/history/details?company=fireline-science-llc",
-    "https://seedfund.nsf.gov/awardees/phase-2/details?company=optic-fringe-corp",
-    "https://seedfund.nsf.gov/awardees/history/details?company=grain-weevil-corporation",
-    "https://seedfund.nsf.gov/awardees/phase-2/details?company=completionai-llc",
-    "https://seedfund.nsf.gov/awardees/history/details?company=nuukbio-inc",
-    "https://seedfund.nsf.gov/portfolio/details?company=dimensional-energy-inc"
+    "https://seedfund.nsf.gov/awardees/phase-2/details?company=sufficiently-advanced-inc"
    ]
   },
   "VS-e05344b9": {
@@ -789,25 +791,33 @@
     "2026-W45"
    ],
    "weeksSeen": 3,
-   "lastPagesAffected": 17,
+   "lastPagesAffected": 35,
    "lastAffectedPages": [
+    "https://seedfund.nsf.gov/awardees/history/details?company=zpolymers-llc",
+    "https://seedfund.nsf.gov/awardees/history/details?company=kismet-technologies-llc",
     "https://seedfund.nsf.gov/awardees/history/details?company=volta-energy-inc",
     "https://seedfund.nsf.gov/awardees/history/details?company=geniphys-llc",
+    "https://seedfund.nsf.gov/awardees/history/details?company=refibered-inc",
     "https://seedfund.nsf.gov/awardees/history/details?company=virolock-technologies-limited-liability-company",
+    "https://seedfund.nsf.gov/awardees/history/details?company=squishy-robotics-inc",
     "https://seedfund.nsf.gov/awardees/history/details?company=fireline-science-llc",
+    "https://seedfund.nsf.gov/awardees/history/details?company=3deo-inc",
+    "https://seedfund.nsf.gov/awardees/history/details?company=sway-innovation-co",
     "https://seedfund.nsf.gov/awardees/history/details?company=grain-weevil-corporation",
     "https://seedfund.nsf.gov/awardees/history/details?company=nuukbio-inc",
     "https://seedfund.nsf.gov/awardees/history/details?company=biomason-inc",
+    "https://seedfund.nsf.gov/awardees/history/details?company=liatris-inc",
+    "https://seedfund.nsf.gov/awardees/history/details?company=circuits2robotics-eduventures-llc",
+    "https://seedfund.nsf.gov/awardees/history/details?company=pike-robotics-inc",
     "https://seedfund.nsf.gov/awardees/history/details?company=tcarta-marine-llc",
     "https://seedfund.nsf.gov/awardees/history/details?company=howe-industries-llc",
+    "https://seedfund.nsf.gov/awardees/history/details?company=lisa-fitzpatrick--associates-md-pc",
+    "https://seedfund.nsf.gov/awardees/history/details?company=noble-gas-systems-llc",
+    "https://seedfund.nsf.gov/awardees/history/details?company=bloomlife-inc",
     "https://seedfund.nsf.gov/awardees/history/details?company=l5-automation-inc",
     "https://seedfund.nsf.gov/awardees/history/details?company=ubiquitous-energy-inc",
     "https://seedfund.nsf.gov/awardees/history/details?company=helios-pompano-inc",
-    "https://seedfund.nsf.gov/awardees/history/details?company=psyonic-inc",
-    "https://seedfund.nsf.gov/awardees/history/details?company=signalwise-llc",
-    "https://seedfund.nsf.gov/awardees/history/details?company=akorn-technology-inc",
-    "https://seedfund.nsf.gov/awardees/history/details?company=hyfi-llc",
-    "https://seedfund.nsf.gov/awardees/history/details?company=nth-cycle-llc"
+    "https://seedfund.nsf.gov/awardees/history/details?company=psyonic-inc"
    ]
   },
   "VS-7118fead": {
@@ -824,24 +834,33 @@
     "2026-W45"
    ],
    "weeksSeen": 3,
-   "lastPagesAffected": 16,
+   "lastPagesAffected": 29,
    "lastAffectedPages": [
     "https://seedfund.nsf.gov/news/aclarity",
+    "https://seedfund.nsf.gov/news/noble-gas-systems",
     "https://seedfund.nsf.gov/news/Harvest",
+    "https://seedfund.nsf.gov/news/KismetTechnologies",
     "https://seedfund.nsf.gov/centers/ceps/novel-aerogel-based-insulation-may-transform-building-efficiency",
     "https://seedfund.nsf.gov/news/DroneAmplified",
     "https://seedfund.nsf.gov/news/FilamentGames",
+    "https://seedfund.nsf.gov/news/tcarta",
+    "https://seedfund.nsf.gov/news/MicrobialInsights",
     "https://seedfund.nsf.gov/centers/ceps/novel-additives-promise-strong-lightweight-composites-for-commercial-transportation",
     "https://seedfund.nsf.gov/news/ascend-elements",
+    "https://seedfund.nsf.gov/news/carenostics",
+    "https://seedfund.nsf.gov/news/grapevine-health",
+    "https://seedfund.nsf.gov/news/AmphixBio",
+    "https://seedfund.nsf.gov/news/Transaera",
     "https://seedfund.nsf.gov/news/Cerillo",
     "https://seedfund.nsf.gov/news/SilvusTechnologies",
+    "https://seedfund.nsf.gov/centers/ceps/chlorine-resistant-membranes-promise-a-new-era-for-reverse-osmosis",
     "https://seedfund.nsf.gov/awardees/history/details",
+    "https://seedfund.nsf.gov/news/metalmark",
     "https://seedfund.nsf.gov/news/visolis",
     "https://seedfund.nsf.gov/news/IAMBIC",
-    "https://seedfund.nsf.gov/centers/ceps/providing-complete-hydrothermal-destruction-of-pfas",
-    "https://seedfund.nsf.gov/news/heirloom-carbon",
-    "https://seedfund.nsf.gov/news/Sonavex",
-    "https://seedfund.nsf.gov/news/psyonic"
+    "https://seedfund.nsf.gov/news/TetramerTechnologies",
+    "https://seedfund.nsf.gov/news/SquishyRobotics",
+    "https://seedfund.nsf.gov/centers/ceps/providing-complete-hydrothermal-destruction-of-pfas"
    ]
   },
   "VS-e5ec42f0": {
@@ -877,8 +896,9 @@
     "2026-W45"
    ],
    "weeksSeen": 3,
-   "lastPagesAffected": 1,
+   "lastPagesAffected": 2,
    "lastAffectedPages": [
+    "https://seedfund.nsf.gov/styleguide/typography",
     "https://seedfund.nsf.gov/admin"
    ]
   },
@@ -896,8 +916,9 @@
     "2026-W45"
    ],
    "weeksSeen": 3,
-   "lastPagesAffected": 1,
+   "lastPagesAffected": 2,
    "lastAffectedPages": [
+    "https://seedfund.nsf.gov/styleguide/typography",
     "https://seedfund.nsf.gov/admin"
    ]
   },
@@ -1186,6 +1207,24 @@
    "_coverageNew": true,
    "_coverageLost": true
   },
+  "VS-c613c153": {
+   "engine": "axe-core",
+   "ruleId": "scrollable-region-focusable",
+   "summary": "Scrollable region must have keyboard access (WCAG 2.1.1)",
+   "wcag": "2.1.1",
+   "severity": "Serious",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksSeen": 1,
+   "lastPagesAffected": 1,
+   "lastAffectedPages": [
+    "https://seedfund.nsf.gov/mobile"
+   ],
+   "_coverageNew": true
+  },
   "VS-fafffee0": {
    "engine": "axe-core",
    "ruleId": "label",
@@ -1198,9 +1237,28 @@
     "2026-W45"
    ],
    "weeksSeen": 1,
+   "lastPagesAffected": 2,
+   "lastAffectedPages": [
+    "https://seedfund.nsf.gov/apply/project-pitch-information",
+    "https://seedfund.nsf.gov/mobile"
+   ],
+   "_coverageNew": true
+  },
+  "VS-a48e6078": {
+   "engine": "Siteimprove Alfa",
+   "ruleId": "sia-r8",
+   "summary": "Form field has accessible name (WCAG 4.1.2)",
+   "wcag": "4.1.2",
+   "severity": "Moderate",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksSeen": 1,
    "lastPagesAffected": 1,
    "lastAffectedPages": [
-    "https://seedfund.nsf.gov/apply/project-pitch-information"
+    "https://seedfund.nsf.gov/mobile"
    ],
    "_coverageNew": true
   }

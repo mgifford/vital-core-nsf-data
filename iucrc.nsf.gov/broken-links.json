@@ -1,6 +1,6 @@
 {
  "domain": "iucrc.nsf.gov",
- "updatedAt": "2026-11-02T21:55:48.052Z",
+ "updatedAt": "2026-11-03T19:48:17.640Z",
  "links": {
   "https://iucrc.nsf.gov/centers/center-for-research-in-systems-and-storage-crss": {
    "status": 404,
@@ -98,7 +98,10 @@
    "weeksBroken": 2,
    "foundOn": [
     "https://iucrc.nsf.gov/centers?foc=&prifoc=0&sta=&uni=",
-    "https://iucrc.nsf.gov/centers/focus-area/energy-and-environment"
+    "https://iucrc.nsf.gov/centers/focus-area/energy-and-environment",
+    "https://iucrc.nsf.gov/centers/focus-area/energy-and-environment/page/2",
+    "https://iucrc.nsf.gov/centers/focus-area/energy-and-environment/page/4",
+    "https://iucrc.nsf.gov/centers/focus-area/energy-and-environment/page/3"
    ]
   },
   "https://mds-rely.org/": {
@@ -327,7 +330,8 @@
    ],
    "weeksBroken": 2,
    "foundOn": [
-    "https://iucrc.nsf.gov/centers/center-for-innovation-in-risk-catastrophes-and-decisions-circad"
+    "https://iucrc.nsf.gov/centers/center-for-innovation-in-risk-catastrophes-and-decisions-circad",
+    "https://iucrc.nsf.gov/centers/center-for-interdisciplinary-research-on-convective-storms"
    ]
   },
   "https://usdairy.com/": {
@@ -443,11 +447,12 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://iucrc.nsf.gov/universities/solicitation"
    ]
@@ -456,11 +461,12 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://iucrc.nsf.gov/universities/solicitation"
    ]
