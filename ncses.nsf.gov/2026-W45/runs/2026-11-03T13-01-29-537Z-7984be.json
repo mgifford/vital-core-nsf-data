@@ -1,0 +1,154 @@
+{
+ "runId": "2026-11-03T13-01-29-537Z-7984be",
+ "week": "2026-W45",
+ "domain": "ncses.nsf.gov",
+ "canonical": {
+  "origin": "https://ncses.nsf.gov",
+  "configured": "https://ncses.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-03T13:01:31.245Z",
+ "scanned": [
+  "2e72eac0924e47d2",
+  "d99c15c46fc4b0bb",
+  "664607c72095fc80",
+  "4c6cf3699f891333",
+  "9fe146621f2a9079",
+  "83e76986b78a45e6",
+  "25b3dcea63a78a95",
+  "2d9738a1e7002c6e",
+  "35907c5e024ee928",
+  "1f6d7c4eeaf1af2c",
+  "b79e21e2f9982dfc",
+  "eacc56754a9b7124",
+  "64f0db7da1ced285",
+  "8b6d8485c3343f41",
+  "0b3fe658ae092dc8",
+  "45f82283acc43036",
+  "82803a596b73eaa5",
+  "293e02f03efb54f3",
+  "d9c71a7f02244219",
+  "9e0d133e428a693c",
+  "0b3ec308c834fb35",
+  "42366790206b9452",
+  "1ad9a3d3b5eeba30",
+  "eb7489813ded8bfb"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 1600,
+  "checked": 500,
+  "brokenCount": 7,
+  "broken": [
+   {
+    "url": "https://www.teqsa.gov.au/latest-news/publications/statistics-report-teqsa-registered-higher-education-providers-2018",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20223/table/HED-4",
+     "https://ncses.nsf.gov/pubs/nsb20223/figure/HED-22"
+    ]
+   },
+   {
+    "url": "https://cbie.ca/international-students-surpass-2022-goal/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20223/table/HED-4",
+     "https://ncses.nsf.gov/pubs/nsb20223/figure/HED-22"
+    ]
+   },
+   {
+    "url": "http://uis.unesco.org/sites/default/files/documents/education-statistics-faqs-2018-en.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20223/table/HED-4",
+     "https://ncses.nsf.gov/pubs/nsb20223/figure/HED-22"
+    ]
+   },
+   {
+    "url": "https://ec.europa.eu/eurostat/web/education-and-training/data/database",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20223/table/SHED-3"
+    ]
+   },
+   {
+    "url": "https://aishe.gov.in/aishe/gotoAisheReports",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20223/table/SHED-3"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/nsb/meetings/2020/0729/presentations/Plenary-Open-HBCU.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20223/table/HED-1",
+     "https://ncses.nsf.gov/pubs/nsb20223/figure/HED-2"
+    ]
+   },
+   {
+    "url": "https://cmsi.gse.rutgers.edu/content/msi-directory",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20223/table/HED-1",
+     "https://ncses.nsf.gov/pubs/nsb20223/figure/HED-2"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 24,
+  "deprecated-html": 3,
+  "resources": 24,
+  "images": 24,
+  "third-party": 7,
+  "link-check": 24,
+  "public-interest": 2,
+  "standards": 14,
+  "security": 1,
+  "alfa": 13,
+  "plain-language": 10,
+  "tech": 3,
+  "sustainability": 6,
+  "lighthouse": 2
+ },
+ "tally": {
+  "ok": 24,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 8,
+  "error": 0
+ },
+ "finishedAt": "2026-11-03T13:09:32.668Z"
+}
