@@ -1,0 +1,222 @@
+{
+ "runId": "2026-11-03T12-10-36-836Z-a31e86",
+ "week": "2026-W45",
+ "domain": "www.nsf.gov",
+ "canonical": {
+  "origin": "https://www.nsf.gov",
+  "configured": "https://www.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-03T12:10:37.337Z",
+ "scanned": [
+  "0c4e3160a53baee3",
+  "4845f7beb77945e1",
+  "7a13d9e8e8b96964",
+  "5eb8938a18f2ed11",
+  "a1f2e688982f07d1",
+  "7a1d198f24bcfad6",
+  "be69c9d9f09b5aec",
+  "53af8a5ceb4cc20f",
+  "58e39eaeb923d660",
+  "133dd1f7b5f20000",
+  "1c1ddd735c8e18ab",
+  "0922649d898358d8",
+  "3de1a7b9bb129e7b",
+  "b46643a829b8bf80",
+  "150837258ee966a1",
+  "bdfe8e2a47508164",
+  "9d6bb69db9b956d7",
+  "8772fa7b3de385a6",
+  "f5761f8689abed7d",
+  "fec0d1d40d74f82b",
+  "406093ea9500376e",
+  "074d7b6a14f53ce3",
+  "df298a7960f98767",
+  "8803adf12a45d010",
+  "89de9834b36b72ad"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 283,
+  "checked": 283,
+  "brokenCount": 16,
+  "broken": [
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJItfuCqpzwjEoNQ6_yfpRRJeX8jkIQKgMc",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/join-monday-june-10-2024-thursday-june-13-2024-virtual/2024-06-13"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJIsfuGurz8oHURH1iQFnVdiyT3vVFd_dWA",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/join-monday-june-10-2024-thursday-june-13-2024-virtual/2024-06-13"
+    ]
+   },
+   {
+    "url": "http://www.fisummit.info/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/fia-future-internet-architectures/503476/nsf10-528/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.fastlane.nsf.gov/a1/newstan.htm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/fia-future-internet-architectures/503476/nsf10-528/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.darpa.mil/sto/ia/ncr.html",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/fia-future-internet-architectures/503476/nsf10-528/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=aag",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/fia-future-internet-architectures/503476/nsf10-528/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/staff/sub_div.jsp?org=IIS&orgId=3945",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/science-engineering-informatics-cluster/13399/14712"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_g1ROIMkGRV6vtZQht2oYdg",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/pete-beckman-artificial-intelligence-digital-continuum/2022-05-19"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubs/2020/nsf20108/nsf20108.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/future-core-computer-information-science-engineering-future-computing/nsf24-589"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_ylBxGO-dRvaaltEQChjLlg",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/wireless-networking-technology-all-sub-terahertz-dr-edward/2023-02-23"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf20110",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/future-core-computer-information-science-engineering-future-computing/nsf24-589"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/savi",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-science-across-virtual-institutes-savi/nsf11-087"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/bio/deb/PIPP-Webinar-Center-Scale-Solicitation.pptx",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/webinar-pipp-phase-ii-centers-program/2023-08-11"
+    ]
+   },
+   {
+    "url": "https://www.whitehouse.gov/briefing-room/presidential-actions/2022/09/12/executive-order-on-advancing-biotechnology-and-biomanufacturing-innovation-for-a-sustainable-safe-and-secure-american-bioeconomy/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/mfb-molecular-foundations-biotechnology/506142/nsf24-607"
+    ]
+   },
+   {
+    "url": "https://efaidnbmnnnibpcajpcglclefindmkaj/https:/nsf-gov-resources.nsf.gov/files/nsf24556.pdf",
+    "status": 0,
+    "reason": "EAI_AGAIN",
+    "foundOn": [
+     "https://www.nsf.gov/events/nsf-launches-global-centers-2024-competition-focused/2024-04-18"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_MkzOY-hRSo2XqSoqKxVnxQ",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/nsf-launches-global-centers-2024-competition-focused/2024-04-18"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 24,
+  "alfa": 12,
+  "resources": 24,
+  "images": 24,
+  "standards": 12,
+  "link-check": 24,
+  "plain-language": 11,
+  "sustainability": 2,
+  "public-interest": 1,
+  "lighthouse": 2,
+  "security": 3,
+  "third-party": 5,
+  "deprecated-html": 1,
+  "tech": 2
+ },
+ "tally": {
+  "ok": 24,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 1,
+  "error": 0
+ },
+ "finishedAt": "2026-11-03T12:14:16.980Z"
+}
