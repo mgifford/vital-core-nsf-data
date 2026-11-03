@@ -1,0 +1,320 @@
+{
+ "runId": "2026-11-03T15-01-20-647Z-2ccd9b",
+ "week": "2026-W45",
+ "domain": "www.nsf.gov",
+ "canonical": {
+  "origin": "https://www.nsf.gov",
+  "configured": "https://www.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-03T15:01:21.327Z",
+ "scanned": [
+  "ffc63345503f7206",
+  "4888dbea48bf2599",
+  "96c2234733725490",
+  "18a002a1910d1b60",
+  "38cd39d188f51e5c",
+  "a4dd6b12fbfde56f",
+  "3066f23cae61d317",
+  "5171d0a0dea2fc99",
+  "164d7ad4b300fd97",
+  "2022cd928928d999",
+  "c717649b79203c10",
+  "9fb1623f60ad4d39",
+  "83ecf9b74c3453c0",
+  "ac525e8d89dd2d65",
+  "46f25b81701a4a40",
+  "f7ba766395b7b0af",
+  "4aa71a171b1a0516",
+  "a1823e5099f18bb1",
+  "ec97465a7571172a",
+  "005f8e07b3ceda82",
+  "011a899d2aff2742",
+  "cbf14b2ebb718833",
+  "535aae9d4c5b7022",
+  "25104085ce6c5a83"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 331,
+  "checked": 331,
+  "brokenCount": 28,
+  "broken": [
+   {
+    "url": "https://www.research.gov/research-portal/appmanager/base/desktop?_nfpb=true&_pageLabel=research_node_display&_nodePath=/researchGov/Service/Desktop/ProposalPreparationandSubmission.html",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsfcasis-transport-phenomena-research-international-space/nsf25-529/solicitation",
+     "https://www.nsf.gov/funding/opportunities/biorets-research-experiences-teachers-sites-biological-sciences/505902/nsf21-584/solicitation",
+     "https://www.nsf.gov/funding/opportunities/nrdz-spectrum-innovation-initiative-national-radio-dynamic-zones/505788/nsf21-558/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/od/broadeningparticipation/bp_portfolio_dynamic.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/biorets-research-experiences-teachers-sites-biological-sciences/505902/nsf21-584/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/staff/org/geo",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/rui-roa-pui-facilitating-research-predominantly-undergraduate/updates/115556"
+    ]
+   },
+   {
+    "url": "https://www.sshrc-crsh.gc.ca/funding-financement/nfrf-fnfr/international/2023/competition-concours-eng.aspx",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-nsf-neh-collaborates-canadas-2023-international-joint/nsf23-116"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_KV4lI3dCQsyp-2D2K1a4mQ",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/dms-virtual-office-hours-2/2022-04-15"
+    ]
+   },
+   {
+    "url": "https://new.nsf.gov/sbe/bcs/sample-proposal",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/ca-sr-cultural-anthropology-program-senior-research-awards"
+    ]
+   },
+   {
+    "url": "https://wwww.nsf.gov/mps/oma/spectrum_innovation_initiative.jsp",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nrdz-spectrum-innovation-initiative-national-radio-dynamic-zones/505788/nsf21-558/solicitation"
+    ]
+   },
+   {
+    "url": "https://go.usa.gov/xRV8Q",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nrdz-spectrum-innovation-initiative-national-radio-dynamic-zones/505788/nsf21-558/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.ntia.doc.gov/category/national-spectrum-strategy",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nrdz-spectrum-innovation-initiative-national-radio-dynamic-zones/505788/nsf21-558/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.fastlane.nsf.gov/a1/newstan.htm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nrdz-spectrum-innovation-initiative-national-radio-dynamic-zones/505788/nsf21-558/solicitation",
+     "https://www.nsf.gov/funding/opportunities/opportunities-enhancing-diversity-geosciences/12726/nsf10-599/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf18045",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nrdz-spectrum-innovation-initiative-national-radio-dynamic-zones/505788/nsf21-558/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/od/oise/g8initiative/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-g8-multilateral-funding-initiative/nsf11-068"
+    ]
+   },
+   {
+    "url": "http://nsf.gov/geo/acgeo/geovision/start.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/opportunities-enhancing-diversity-geosciences/12726/nsf10-599/solicitation"
+    ]
+   },
+   {
+    "url": "http://nsf.gov/geo/adgeo/geoedu/GEWGII_Report_sept_2005.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/opportunities-enhancing-diversity-geosciences/12726/nsf10-599/solicitation"
+    ]
+   },
+   {
+    "url": "http://nsf.gov/geo/adgeo/education.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/opportunities-enhancing-diversity-geosciences/12726/nsf10-599/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/geo/diversity/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/opportunities-enhancing-diversity-geosciences/12726/nsf10-599/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.nagt.org/nagt/jge/abstracts/dec07.html",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/opportunities-enhancing-diversity-geosciences/12726/nsf10-599/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/od/ceose/reports/2008CEOSE_BiennialReport.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/opportunities-enhancing-diversity-geosciences/12726/nsf10-599/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/nsb/documents/2007/stem_action.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/opportunities-enhancing-diversity-geosciences/12726/nsf10-599/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.earthscienceedrevolution.org/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/opportunities-enhancing-diversity-geosciences/12726/nsf10-599/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/nsb/documents/2003/nsb0369/start.htm",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/opportunities-enhancing-diversity-geosciences/12726/nsf10-599/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.aaas.org/standingourground/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/opportunities-enhancing-diversity-geosciences/12726/nsf10-599/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/geo/ere/ereweb/ac-ere/nsf6895_ere_report_090809.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/opportunities-enhancing-diversity-geosciences/12726/nsf10-599/solicitation"
+    ]
+   },
+   {
+    "url": "http://www7.nationalacademies.org/bose/Institute_for_Learning_Innovation_Commissioned_Paper.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/opportunities-enhancing-diversity-geosciences/12726/nsf10-599/solicitation"
+    ]
+   },
+   {
+    "url": "http://www7.nationalacademies.org/bose/Brody_Commissioned_Paper.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/opportunities-enhancing-diversity-geosciences/12726/nsf10-599/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/policies/SOR_PA_NSF-50_Principal_Investigator_Proposal_File.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/opportunities-enhancing-diversity-geosciences/12726/nsf10-599/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=aag",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/opportunities-enhancing-diversity-geosciences/12726/nsf10-599/solicitation"
+    ]
+   },
+   {
+    "url": "http://www07.grants.gov/applicants/app_help_reso.jsp",
+    "status": 0,
+    "reason": "EAI_AGAIN",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/opportunities-enhancing-diversity-geosciences/12726/nsf10-599/solicitation"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 24,
+  "deprecated-html": 3,
+  "resources": 24,
+  "images": 24,
+  "lighthouse": 3,
+  "link-check": 24,
+  "sustainability": 3,
+  "alfa": 12,
+  "standards": 13,
+  "third-party": 6,
+  "plain-language": 10,
+  "public-interest": 2,
+  "security": 3,
+  "tech": 1
+ },
+ "tally": {
+  "ok": 24,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 1,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 2,
+  "error": 0
+ },
+ "finishedAt": "2026-11-03T15:05:23.340Z"
+}
