@@ -1,0 +1,125 @@
+{
+ "runId": "2026-11-03T15-01-18-876Z-c81715",
+ "week": "2026-W45",
+ "domain": "seedfund.nsf.gov",
+ "canonical": {
+  "origin": "https://seedfund.nsf.gov",
+  "configured": "https://seedfund.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-03T15:01:19.461Z",
+ "scanned": [
+  "375ec1e4d4a86d56",
+  "7f883feeb832f4c7",
+  "f3e808bdfae03e90",
+  "a2c520bcab5326c6",
+  "2f596e300893a052",
+  "4f6f91151589c1b7",
+  "a971446a4ef2c327",
+  "98da89ea7298a576",
+  "ea62ca0a5d314c0b",
+  "fec6a4656c189e42",
+  "2cf3c4959befd870",
+  "2758316886045bfe",
+  "7eb084a019dcc17b",
+  "0316b81adb64e3fd",
+  "4a26ca8adcb8d1d5",
+  "7a9ef2b7b661bec7",
+  "2f20d8f2702f963b",
+  "2af33455558d99da",
+  "6feb5c503c56b034",
+  "2cc90f1945e4785a",
+  "5ec1a1b7ab16aa63",
+  "b9de026cd7b6994a",
+  "5bedb8fa8f76288d",
+  "9fca3e76dc6e5422",
+  "9180b03f4a6c33d7"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 88,
+  "checked": 88,
+  "brokenCount": 4,
+  "broken": [
+   {
+    "url": "https://seedfund.nsf.gov/centers/focus-area/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://seedfund.nsf.gov/centers/ceps/chlorine-resistant-membranes-promise-a-new-era-for-reverse-osmosis"
+    ]
+   },
+   {
+    "url": "http://www.swarm.space/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://seedfund.nsf.gov/portfolio/details?company=swarm-technologies-llc"
+    ]
+   },
+   {
+    "url": "https://www.knoxnews.com/story/money/business/2025/01/12/40-under-40-sam-rosolina-microbial-insights/75673324007/",
+    "status": 402,
+    "reason": "HTTP 402",
+    "foundOn": [
+     "https://seedfund.nsf.gov/news/MicrobialInsights"
+    ]
+   },
+   {
+    "url": "http://www.lalucecristallina.com/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://seedfund.nsf.gov/awardees/phase-2/details?company=la-luce-cristallina-inc"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "sustainability": 3,
+  "axe": 24,
+  "alfa": 15,
+  "resources": 24,
+  "images": 24,
+  "standards": 9,
+  "link-check": 24,
+  "plain-language": 13,
+  "tech": 2,
+  "public-interest": 1,
+  "third-party": 4,
+  "security": 1,
+  "lighthouse": 3
+ },
+ "tally": {
+  "ok": 24,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-03T15:04:28.908Z"
+}
