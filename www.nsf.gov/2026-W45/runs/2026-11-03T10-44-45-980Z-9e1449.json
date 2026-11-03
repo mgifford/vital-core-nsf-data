@@ -1,0 +1,201 @@
+{
+ "runId": "2026-11-03T10-44-45-980Z-9e1449",
+ "week": "2026-W45",
+ "domain": "www.nsf.gov",
+ "canonical": {
+  "origin": "https://www.nsf.gov",
+  "configured": "https://www.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-03T10:44:46.533Z",
+ "scanned": [
+  "b7975f37c83dd1b3",
+  "884685b8c5bea06d",
+  "d1f1489c49169212",
+  "82fe447802ca03ef",
+  "2c6c1ca9755efb15",
+  "9f8b7cb65e11f1d8",
+  "8977da4ed7d28c25",
+  "f91e01307955184d",
+  "c27c4d0494a522e0",
+  "4d5708575072190a",
+  "96d0cbadc4adf304",
+  "b2aa8e414a0d6219",
+  "0f8a3ca210024ed2",
+  "5445bf9c14f86aa0",
+  "68f16de2f08cf742",
+  "fa672ca298233b41",
+  "0be7827566a066b3",
+  "dbe5f768f1b79d26",
+  "dc317f7f10e6ef05",
+  "cc83051677ef2da5",
+  "0e9212c3e50f6a5d",
+  "5f2473509981712f",
+  "566a25ba5f41527c",
+  "c17103f21b5dcaac",
+  "662e2b6352958c77"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 255,
+  "checked": 255,
+  "brokenCount": 13,
+  "broken": [
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJIsfuyvrDMqHVeqFzKCscb8URObFxv3SRc",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/macromolecular-supramolecular-nanochemistry-msn-office-hour"
+    ]
+   },
+   {
+    "url": "http://www.earthscope.org/ESSP",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/earthscope/501035/nsf13-562/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.fastlane.nsf.gov/a1/newstan.htm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/earthscope/501035/nsf13-562/solicitation",
+     "https://www.nsf.gov/funding/opportunities/ari-joint-domestic-nuclear-detection-office-national-science/503223/nsf13-554/solicitation"
+    ]
+   },
+   {
+    "url": "http://es3.earthscope.org/es_doc/eno/ES_E&O_Impl_Plan_2_07.pdf",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/earthscope/501035/nsf13-562/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.earthscope.org/doc/directives/esdatapolicy.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/earthscope/501035/nsf13-562/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=aag",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/earthscope/501035/nsf13-562/solicitation",
+     "https://www.nsf.gov/funding/opportunities/ari-joint-domestic-nuclear-detection-office-national-science/503223/nsf13-554/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/geo/ear/EAR_data_policy_204.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/earthscope/501035/nsf13-562/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/policies/SOR_PA_NSF-50_Principal_Investigator_Proposal_File.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/earthscope/501035/nsf13-562/solicitation",
+     "https://www.nsf.gov/funding/opportunities/ari-joint-domestic-nuclear-detection-office-national-science/503223/nsf13-554/solicitation"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_jdCKRE_eQ9KFiX5Pvof34w",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/slightly-improved-approximation-algorithm-traveling/2023-04-27"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/eng/cmmi/ari.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/ari-joint-domestic-nuclear-detection-office-national-science/503223/nsf13-554/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/eng/iip/sbir/definitions.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-small-business-innovation-research-small-business-technology/nsf10-058"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/eng/iip/sbir/Supplement/index.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-small-business-innovation-research-small-business-technology/nsf10-058"
+    ]
+   },
+   {
+    "url": "http://www07.grants.gov/applicants/app_help_reso.jsp",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/earthscope/501035/nsf13-562/solicitation",
+     "https://www.nsf.gov/funding/opportunities/ari-joint-domestic-nuclear-detection-office-national-science/503223/nsf13-554/solicitation"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 24,
+  "resources": 24,
+  "images": 24,
+  "standards": 10,
+  "link-check": 24,
+  "plain-language": 14,
+  "deprecated-html": 3,
+  "public-interest": 4,
+  "third-party": 6,
+  "alfa": 9,
+  "security": 3,
+  "lighthouse": 1,
+  "tech": 1
+ },
+ "tally": {
+  "ok": 24,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 1,
+  "error": 0
+ },
+ "finishedAt": "2026-11-03T10:48:17.076Z"
+}
