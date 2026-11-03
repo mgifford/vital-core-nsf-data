@@ -1,0 +1,115 @@
+{
+ "runId": "2026-11-03T12-10-39-166Z-6b5dc3",
+ "week": "2026-W45",
+ "domain": "seedfund.nsf.gov",
+ "canonical": {
+  "origin": "https://seedfund.nsf.gov",
+  "configured": "https://seedfund.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-03T12:10:40.876Z",
+ "scanned": [
+  "bbbb650b4ed33599",
+  "7e82f9137a7918f8",
+  "42dc15a98ed18cae",
+  "3b5d9403da5499b8",
+  "c1f0201560c2beaf",
+  "66d62882f3e624bc",
+  "d9f1adde2ed5ea3c",
+  "0644cab8727bde89",
+  "a7c7793e4d649457",
+  "c59f094b097aa1d2",
+  "fc7e607287b3532b",
+  "99f6588fd0d42626",
+  "daaa3a151c317116",
+  "b9c73a1a407b7679",
+  "7ea538f5cb5f84d6",
+  "d7665ba9b1d0a813",
+  "625a614f455a5ec1",
+  "34510d87c3002c77",
+  "1106ad9f4bd0503f",
+  "23c20cd77b534f9f",
+  "6ad9b0de3787d346",
+  "85322ccfd4331714",
+  "03c4a9b66845895b",
+  "8e5096b4e17d744c"
+ ],
+ "errors": [
+  {
+   "pageId": "aad1d9cec52b0989",
+   "url": "https://seedfund.nsf.gov/fastlane/form-prep-2",
+   "error": "TimeoutError: page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://seedfund.nsf.gov/fastlane/form-prep-2\", waiting until \"load\"\n"
+  }
+ ],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 95,
+  "checked": 95,
+  "brokenCount": 2,
+  "broken": [
+   {
+    "url": "https://seedfund.nsf.gov/centers/focus-area/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://seedfund.nsf.gov/centers/ceps/legume-based-innovation-promises-new-stealth-health-snacks"
+    ]
+   },
+   {
+    "url": "https://www.attune-medical.com/",
+    "status": 0,
+    "reason": "CERT_HAS_EXPIRED",
+    "foundOn": [
+     "https://seedfund.nsf.gov/news/attune-medical"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 23,
+  "alfa": 14,
+  "plain-language": 9,
+  "resources": 23,
+  "images": 23,
+  "third-party": 6,
+  "link-check": 23,
+  "standards": 10,
+  "security": 3,
+  "deprecated-html": 3,
+  "sustainability": 2,
+  "public-interest": 5,
+  "lighthouse": 4,
+  "tech": 1
+ },
+ "tally": {
+  "ok": 23,
+  "blocked": 1,
+  "timeout": 1,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-03T12:14:17.700Z"
+}
