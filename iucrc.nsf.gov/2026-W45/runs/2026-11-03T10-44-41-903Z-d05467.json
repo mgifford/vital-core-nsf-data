@@ -1,0 +1,158 @@
+{
+ "runId": "2026-11-03T10-44-41-903Z-d05467",
+ "week": "2026-W45",
+ "domain": "iucrc.nsf.gov",
+ "canonical": {
+  "origin": "https://iucrc.nsf.gov",
+  "configured": "https://iucrc.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-03T10:44:42.674Z",
+ "scanned": [
+  "c3b54239ed1d3919",
+  "d1e2a88f1b0090b9",
+  "d271b2cdf5b82275",
+  "b316c4fe06fe4692",
+  "6bf8a9f2bfcd421f",
+  "203d82ff99d62ae4",
+  "53afd17962d23421",
+  "1c7bd59cf1ba69af",
+  "9fea7791b8d00689",
+  "03c01f86d677fbd6",
+  "92aabf4e9fbe1ad5",
+  "6f9247dd70d23d63",
+  "bf72588c17844bc9",
+  "3ce1d8da3b2f7243",
+  "0da3104d764bd171",
+  "af0a446423d7aaa7",
+  "89aeca6c9b3a7051",
+  "38468354b72e05af",
+  "b6a909f18c16548e",
+  "4b97ce9ca0a4913d",
+  "ddff410ca594ea8e",
+  "12d33aa143cda61d",
+  "ed854310377f66f4",
+  "1a16a9d61a9470fd",
+  "6b7d52150e8574dd"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 249,
+  "checked": 249,
+  "brokenCount": 8,
+  "broken": [
+   {
+    "url": "https://nsf.gov/pubs/2020/nsf20570/nsf20570.htm?org=NSF",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/universities/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubs/2020/nsf20080/nsf20080.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/universities/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.lockheedmartin.com/",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/multi-functional-integrated-system-technology"
+    ]
+   },
+   {
+    "url": "https://iucrc.nsf.gov/centers/center-for-soil-technologies-soiltech",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/focus-area/energy-and-environment/page/2"
+    ]
+   },
+   {
+    "url": "https://www.eaton.com/us/en-us.html",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/grid-connected-advanced-power-electronic-systems"
+    ]
+   },
+   {
+    "url": "https://mds-rely.org/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-materials-data-science-for-reliability-and-degradation-mds-rely"
+    ]
+   },
+   {
+    "url": "http://www.inrf.uci.edu/cadmim/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-advanced-design-and-man-of-integrated-microfluidics"
+    ]
+   },
+   {
+    "url": "http://compositescici.statler.wvu.edu/",
+    "status": 0,
+    "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-the-integration-of-composites-into-infrastructure"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "sustainability": 3,
+  "axe": 24,
+  "resources": 24,
+  "images": 24,
+  "third-party": 7,
+  "link-check": 24,
+  "alfa": 11,
+  "plain-language": 8,
+  "standards": 11,
+  "public-interest": 3,
+  "security": 5,
+  "deprecated-html": 2,
+  "tech": 2,
+  "lighthouse": 2
+ },
+ "tally": {
+  "ok": 24,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-03T10:47:20.810Z"
+}
