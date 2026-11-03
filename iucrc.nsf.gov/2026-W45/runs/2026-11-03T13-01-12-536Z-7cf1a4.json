@@ -1,0 +1,205 @@
+{
+ "runId": "2026-11-03T13-01-12-536Z-7cf1a4",
+ "week": "2026-W45",
+ "domain": "iucrc.nsf.gov",
+ "canonical": {
+  "origin": "https://iucrc.nsf.gov",
+  "configured": "https://iucrc.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-03T13:01:13.157Z",
+ "scanned": [
+  "e09249c1fb565a55",
+  "15da606d5e971918",
+  "669039965070489c",
+  "8da37a7b0875a26e",
+  "08f8222fbe092ac3",
+  "01ff38c2a829ed27",
+  "7391fce832cf4516",
+  "9f78441fbe6658f8",
+  "176258857eaa3b63",
+  "aff84d2f5d0bb447",
+  "aae5682a223b2c9a",
+  "662f6d4953cd1c8a",
+  "49e1576645851fcb",
+  "0a5d30089e6af363",
+  "87f6fde6afaa0750",
+  "c785d7f65011bc19",
+  "38a755bc087a46e3",
+  "ec1d56132b4ae10e",
+  "fecaa8c89d20c88c",
+  "168cc649b810bb38",
+  "eb561d57f7f42fe6",
+  "c907094144528796",
+  "51be754c54945aeb",
+  "cec83c2b7bcc3db1",
+  "de364a3e0dd075e5"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 237,
+  "checked": 237,
+  "brokenCount": 11,
+  "broken": [
+   {
+    "url": "https://service.govdelivery.com/accounts/USNSF/subscriber/new",
+    "status": 502,
+    "reason": "HTTP 502",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/smart-vehicle-concepts",
+     "https://iucrc.nsf.gov/centers/robots-and-sensors-for-the-human-well-being",
+     "https://iucrc.nsf.gov/centers/achievements/compact-spectrometer-designs",
+     "https://iucrc.nsf.gov/centers/center-for-arthropod-management-technologies",
+     "https://iucrc.nsf.gov/centers/center-for-dielectrics-and-piezoelectrics",
+     "https://iucrc.nsf.gov/centers/achievements/membrane-based-technologies",
+     "https://iucrc.nsf.gov/2019/01/16/third-post",
+     "https://iucrc.nsf.gov/centers/focus-area/advanced-manufacturing",
+     "https://iucrc.nsf.gov/centers/atomically-thin-multifunctional-coatings",
+     "https://iucrc.nsf.gov/centers/wind-hazard-and-infrastructure-performance",
+     "https://iucrc.nsf.gov/centers/center-for-wireless-innovation-towards-secure-pervasive-efficient-and-resilient-next-g-networks-wisper",
+     "https://iucrc.nsf.gov/centers/center-for-interdisciplinary-research-on-convective-storms",
+     "https://iucrc.nsf.gov/centers/sustainably-integrated-buildings-and-sites",
+     "https://iucrc.nsf.gov/centers/center-for-pharmaceutical-development",
+     "https://iucrc.nsf.gov/about",
+     "https://iucrc.nsf.gov/centers/center-for-science-management-applications-regulation-and-training-cyber-smart",
+     "https://iucrc.nsf.gov/centers/center-for-visual-structural-expertise-for-resilience-viser",
+     "https://iucrc.nsf.gov/centers/center-for-freight-logistics-efficiency-with-electrified-and-automated-trucking",
+     "https://iucrc.nsf.gov/blog/page/2",
+     "https://iucrc.nsf.gov/centers/geomechanics-and-mitigation-of-geohazard",
+     "https://iucrc.nsf.gov/centers/achievements/page/7",
+     "https://iucrc.nsf.gov/centers/advanced-mammalian-biomanufacturing-innovation-center",
+     "https://iucrc.nsf.gov/centers/ceramic-composite-and-optical-materials-center",
+     "https://iucrc.nsf.gov/centers/manufacturing-and-materials-joining-innovation"
+    ]
+   },
+   {
+    "url": "https://iucrc.nsf.gov/centers/membrane-engineering-science-and-technology",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/achievements/membrane-based-technologies"
+    ]
+   },
+   {
+    "url": "http://www.sabic.com/en/products/specialties",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-dielectrics-and-piezoelectrics"
+    ]
+   },
+   {
+    "url": "http://www.samsungsem.com/global/index.do",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-dielectrics-and-piezoelectrics"
+    ]
+   },
+   {
+    "url": "https://www.lockheedmartin.com/en-us/index.html",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-wireless-innovation-towards-secure-pervasive-efficient-and-resilient-next-g-networks-wisper"
+    ]
+   },
+   {
+    "url": "https://www.usaa.com/",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-interdisciplinary-research-on-convective-storms"
+    ]
+   },
+   {
+    "url": "http://sibs.uncc.edu/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/sustainably-integrated-buildings-and-sites"
+    ]
+   },
+   {
+    "url": "https://ac.ccdc.army.mil/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/atomically-thin-multifunctional-coatings"
+    ]
+   },
+   {
+    "url": "https://gmg.sites.caltech.edu/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/geomechanics-and-mitigation-of-geohazard"
+    ]
+   },
+   {
+    "url": "http://www.janssen.com/",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/advanced-mammalian-biomanufacturing-innovation-center"
+    ]
+   },
+   {
+    "url": "http://www.ccomc.rutgers.edu/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/ceramic-composite-and-optical-materials-center"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 24,
+  "alfa": 14,
+  "plain-language": 12,
+  "resources": 24,
+  "images": 24,
+  "standards": 10,
+  "security": 4,
+  "public-interest": 5,
+  "link-check": 24,
+  "third-party": 5,
+  "tech": 3,
+  "sustainability": 5,
+  "lighthouse": 1,
+  "deprecated-html": 3
+ },
+ "tally": {
+  "ok": 24,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-03T13:04:07.896Z"
+}
