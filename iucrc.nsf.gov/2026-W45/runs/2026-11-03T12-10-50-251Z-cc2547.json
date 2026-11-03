@@ -1,0 +1,174 @@
+{
+ "runId": "2026-11-03T12-10-50-251Z-cc2547",
+ "week": "2026-W45",
+ "domain": "iucrc.nsf.gov",
+ "canonical": {
+  "origin": "https://iucrc.nsf.gov",
+  "configured": "https://iucrc.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-03T12:10:52.026Z",
+ "scanned": [
+  "b2f05717ce6432c1",
+  "2114299063fcd666",
+  "cca2f520c8377229",
+  "fcf1fe3418cefe2b",
+  "b27f6c93e53005f3",
+  "f481df78f0fca5d0",
+  "1eccc4e47ef6db61",
+  "a84a4674073a0d29",
+  "7dc30bd0fb5e9239",
+  "dca116d9b112fb37",
+  "820fade24a2a2e4a",
+  "6b847ee9fb73e203",
+  "9a03c2a541822b26",
+  "9875de95a5dee0fb",
+  "3ad78267446e8799",
+  "564d4a83757398b7",
+  "530f658744e31525",
+  "30441429fed56555",
+  "c72f3a1d04ca72a4",
+  "9de9dab646bde450",
+  "3681aec2dae9fcce",
+  "bdf32fd9a1ccfa86",
+  "338c30990bfa1fdc",
+  "89a60b496be41404",
+  "5f203d98fb8735bf"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 195,
+  "checked": 195,
+  "brokenCount": 10,
+  "broken": [
+   {
+    "url": "https://www.quinaultindiannation.com/163/Quinault-Division-of-Natural-Resources-Q",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-advanced-forestry-systems"
+    ]
+   },
+   {
+    "url": "https://www.spi-ind.com/Operations/Seneca",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-advanced-forestry-systems"
+    ]
+   },
+   {
+    "url": "http://www.research.gov/research-portal/appmanager/base/desktop?_nfpb=true&_pageLabel=programIncome",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://iucrc.nsf.gov/universities/solicitation/cost-sharing-program-income-archive"
+    ]
+   },
+   {
+    "url": "https://iucrc.nsf.gov/universities/solicitation/annual-costs",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/universities/solicitation/cost-sharing-program-income-archive"
+    ]
+   },
+   {
+    "url": "http://www.ces.asu.edu/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-embedded-systems"
+    ]
+   },
+   {
+    "url": "https://iucrc.nsf.gov/centers/center-for-soil-technologies-soiltech",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/focus-area/energy-and-environment/page/4",
+     "https://iucrc.nsf.gov/centers/focus-area/energy-and-environment/page/3"
+    ]
+   },
+   {
+    "url": "https://internationalforestcogov.com/",
+    "status": 0,
+    "reason": "EAI_AGAIN",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-advanced-forestry-systems"
+    ]
+   },
+   {
+    "url": "https://info.bwc.ohio.gov/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-disruptive-musculoskeletal-innovations"
+    ]
+   },
+   {
+    "url": "https://www.lanl.gov/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-advanced-non-ferrous-structural-alloy"
+    ]
+   },
+   {
+    "url": "https://www.vaneck.com/de/en/our-firm/forest-project/",
+    "status": 0,
+    "reason": "timeout",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-advanced-forestry-systems"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 23,
+  "alfa": 15,
+  "plain-language": 11,
+  "resources": 23,
+  "images": 23,
+  "standards": 13,
+  "link-check": 23,
+  "sustainability": 6,
+  "tech": 4,
+  "third-party": 3,
+  "deprecated-html": 4,
+  "security": 1,
+  "public-interest": 2
+ },
+ "tally": {
+  "ok": 23,
+  "blocked": 2,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-03T12:13:45.348Z"
+}
