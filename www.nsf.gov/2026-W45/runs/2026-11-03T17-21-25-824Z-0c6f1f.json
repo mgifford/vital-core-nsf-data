@@ -1,0 +1,191 @@
+{
+ "runId": "2026-11-03T17-21-25-824Z-0c6f1f",
+ "week": "2026-W45",
+ "domain": "www.nsf.gov",
+ "canonical": {
+  "origin": "https://www.nsf.gov",
+  "configured": "https://www.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-03T17:21:28.800Z",
+ "scanned": [
+  "16b44e520a307b86",
+  "43afd7c435d744bf",
+  "1dc361abb7a1477b",
+  "950278f9fcb080a5",
+  "a043f90247e2ced2",
+  "fb0e7aed2e85bd2d",
+  "67a3bb62dd1742a4",
+  "f8c89288af160275",
+  "7d175beebadec9ce",
+  "33cf3e7638a6a39e",
+  "362f418f5c1b16d1",
+  "09d3496df19609ba",
+  "24a5ffa80573f09a",
+  "a419f4bd26237f8b",
+  "591e01ff2ec00a89",
+  "f5ac473107e0cedb",
+  "722df8dfeeeb6c26",
+  "4e563889b1f9480a",
+  "91a5400d08fc4d72",
+  "7b9ee8d8373582f1",
+  "a57d9b0d048227e6",
+  "5c7716f15941dcb2",
+  "e3d9178f791e3b09",
+  "e6f1eb63ef307e3e"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 347,
+  "checked": 347,
+  "brokenCount": 12,
+  "broken": [
+   {
+    "url": "https://www.digitalgov.gov/services/dap/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/policies/privacy"
+    ]
+   },
+   {
+    "url": "https://www.fastlane.nsf.gov/a1/newstan.htm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/csr-computer-systems-research/13385/nsf08-538/solicitation",
+     "https://www.nsf.gov/funding/opportunities/chi-communicating-hurricane-information/503246/nsf08-551/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=aag",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/csr-computer-systems-research/13385/nsf08-538/solicitation",
+     "https://www.nsf.gov/funding/opportunities/chi-communicating-hurricane-information/503246/nsf08-551/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.cdc.gov/coronavirus/2019-ncov/index.html",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/od/opp/soh/polar-physical-qualification"
+    ]
+   },
+   {
+    "url": "https://engineering.rowan.edu/faculty_staff/listing/cheryl-bodnar.html",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/initiatives/ige/updates/transforming-graduate-education-transportation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/funding/opportunities/dcl-collaborative-opportunity-research-between-iucrcs-corbi/appendix_a.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-collaborative-opportunity-research-between-iucrcs-corbi/nsf11-074"
+    ]
+   },
+   {
+    "url": "http://www.naic.edu/",
+    "status": 0,
+    "reason": "CERT_HAS_EXPIRED",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-national-astronomy-ionosphere-center-naic/nsf09-014"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/div/index.jsp?div=ATM",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-national-astronomy-ionosphere-center-naic/nsf09-014"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/nsb/publications/2008/nsb0812_comp_recomp.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-national-astronomy-ionosphere-center-naic/nsf09-014"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubs/2017/nsf17025/nsf17025.jsp?org=NSF",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/scc-smart-connected-communities/505364/nsf21-535"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/events/smart-connected-communities-scc-webinar",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/scc-smart-connected-communities/505364/nsf21-535"
+    ]
+   },
+   {
+    "url": "http://www.eol.ucar.edu/instrumentation/eol-observing-facilities",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/chi-communicating-hurricane-information/503246/nsf08-551/solicitation"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 23,
+  "plain-language": 8,
+  "resources": 23,
+  "images": 23,
+  "link-check": 23,
+  "alfa": 12,
+  "standards": 11,
+  "third-party": 9,
+  "deprecated-html": 2,
+  "security": 1,
+  "tech": 4,
+  "lighthouse": 1,
+  "sustainability": 5,
+  "public-interest": 1
+ },
+ "tally": {
+  "ok": 23,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 1,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 1,
+  "error": 0
+ },
+ "finishedAt": "2026-11-03T17:25:23.876Z"
+}
