@@ -1,0 +1,83 @@
+{
+ "runId": "2026-11-04T13-18-39-470Z-ac1e3d",
+ "week": "2026-W45",
+ "domain": "ncses.nsf.gov",
+ "canonical": {
+  "origin": "https://ncses.nsf.gov",
+  "configured": "https://ncses.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-04T13:18:40.055Z",
+ "scanned": [
+  "685e86936be9d083",
+  "ea3f0e902ddc592f",
+  "6e133bb40971dbb6",
+  "5cbbdd1103e494d8",
+  "9df1db24180d7e64",
+  "502383e55c157fff",
+  "2df53376f2a232f6",
+  "22cffd075988b507",
+  "ee88edfe0e0c5f90",
+  "05f92b2c079b4adf",
+  "217cec866bc08749",
+  "3c0bbd048c1eadb6",
+  "6f9be19427aa4958",
+  "683edada590d5d19",
+  "60712cbcbf5ed838",
+  "8b6a47c96c793b7a"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 1244,
+  "checked": 500,
+  "brokenCount": 0,
+  "broken": []
+ },
+ "enginesRun": {
+  "axe": 16,
+  "alfa": 3,
+  "resources": 16,
+  "images": 16,
+  "standards": 7,
+  "lighthouse": 4,
+  "link-check": 16,
+  "plain-language": 9,
+  "third-party": 2,
+  "sustainability": 2,
+  "public-interest": 1,
+  "tech": 3,
+  "deprecated-html": 1
+ },
+ "tally": {
+  "ok": 16,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 9,
+  "error": 0
+ },
+ "finishedAt": "2026-11-04T13:22:14.574Z"
+}
