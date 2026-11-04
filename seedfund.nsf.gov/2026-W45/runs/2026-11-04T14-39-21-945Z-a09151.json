@@ -1,0 +1,125 @@
+{
+ "runId": "2026-11-04T14-39-21-945Z-a09151",
+ "week": "2026-W45",
+ "domain": "seedfund.nsf.gov",
+ "canonical": {
+  "origin": "https://seedfund.nsf.gov",
+  "configured": "https://seedfund.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-04T14:39:23.446Z",
+ "scanned": [
+  "ae7bde60c769a9b3",
+  "da0433993348c6d3",
+  "24996f46b3d77cf6",
+  "0ba08cd8e71ff7cc",
+  "5514dd988f3838c3",
+  "81786cb8fc367057",
+  "364d7c36a6680cd5",
+  "8f136a1d8ad7af75",
+  "63b8ea3abffc9d8c",
+  "12fc5826fa089cd7",
+  "100b00528a640b9e",
+  "5f341bd717e1e88b",
+  "5317d9055fff29ea",
+  "9bec865992d9fcd4",
+  "b5c38a548510a4d4",
+  "1bbc5dc9b2a6635d",
+  "0daaac2d67ee5f59",
+  "49b5dc3609e45d1a",
+  "daee388e2e4c4cf4",
+  "efbf541ff0e1efaa",
+  "c38db61459292a97",
+  "9c0a9748121d427f",
+  "372acaad3e1eb414",
+  "c07bc3a1cef5411c",
+  "7b210e29bf8d4372"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 128,
+  "checked": 128,
+  "brokenCount": 4,
+  "broken": [
+   {
+    "url": "https://time.com/collection/best-inventions-2023/6326422/wavelogix-rebel-concrete-strength-sensors/",
+    "status": 406,
+    "reason": "HTTP 406",
+    "foundOn": [
+     "https://seedfund.nsf.gov/news/wavelogix"
+    ]
+   },
+   {
+    "url": "https://pages.18f.gov/brand/color-palette/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://seedfund.nsf.gov/styleguide/colors"
+    ]
+   },
+   {
+    "url": "https://github.com/18F/18f.gsa.gov/blob/master/_sass/_libs/wds/stylesheets/core/_variables.scss",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://seedfund.nsf.gov/styleguide/colors"
+    ]
+   },
+   {
+    "url": "https://exostellar.io/",
+    "status": 0,
+    "reason": "ERR_SSL_TLSV1_ALERT_INTERNAL_ERROR",
+    "foundOn": [
+     "https://seedfund.nsf.gov/news/exostellar"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 25,
+  "plain-language": 13,
+  "resources": 25,
+  "images": 25,
+  "public-interest": 2,
+  "link-check": 25,
+  "alfa": 13,
+  "standards": 12,
+  "sustainability": 4,
+  "third-party": 5,
+  "tech": 2,
+  "security": 2,
+  "lighthouse": 1
+ },
+ "tally": {
+  "ok": 25,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-04T14:42:17.771Z"
+}
