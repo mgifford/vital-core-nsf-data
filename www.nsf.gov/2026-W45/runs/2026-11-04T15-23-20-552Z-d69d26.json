@@ -1,0 +1,262 @@
+{
+ "runId": "2026-11-04T15-23-20-552Z-d69d26",
+ "week": "2026-W45",
+ "domain": "www.nsf.gov",
+ "canonical": {
+  "origin": "https://www.nsf.gov",
+  "configured": "https://www.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-04T15:23:27.988Z",
+ "scanned": [
+  "323f587df37ae6f2",
+  "1039c3b8b2c34776",
+  "2cd51050347f3c4d",
+  "4da7274b43a892a2",
+  "15ca82ddf2e5c2c0",
+  "43c4a580874c1d8c",
+  "9d0b2ed93334807c",
+  "e5dc00d806f13959",
+  "024c172401f714e2",
+  "6dd0a214c4be52c3",
+  "f5cc9a085a53a8ba",
+  "10903c5aa28a6ac0",
+  "2456a786665809ee",
+  "d7d4b3dec631ef74",
+  "bcf760576f59cc30",
+  "276e3e1d700f55fc",
+  "dbb5d32febf90451",
+  "a215678d00b93fb0",
+  "789f373375b9c0a6",
+  "ca1dbf06e2fb4930",
+  "de3bc0cda8306116",
+  "df0a1e5f97501332",
+  "8b49e5efcbe54983",
+  "554a8a1bec199813",
+  "ca7416a81391de7c"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 288,
+  "checked": 288,
+  "brokenCount": 21,
+  "broken": [
+   {
+    "url": "https://materialsdata.nist.gov/",
+    "status": 502,
+    "reason": "HTTP 502",
+    "foundOn": [
+     "https://www.nsf.gov/funding/information/dcl-effective-practices-making-research-data-discoverable"
+    ]
+   },
+   {
+    "url": "https://uscode.house.gov/view.xhtml?req=(title:42%20section:19014%20edition:prelim)%20OR%20(granuleid:USC-prelim-title42-section19014)&f=treesort&edition=prelim&num=0&jumpTo=true",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/i-corps-hubs-nsf-innovation-corps-hubs-program/506013/nsf24-532"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_YvGRx_cvQqmjerkYI9eG3w",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/nsf-epscor-rii-track-4-virtual-office-hours-1"
+    ]
+   },
+   {
+    "url": "https://mcbblog.nsfbio.com/office-hours/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/events/mcb-virtual-office-hour-special-funding-opportunities-0/2023-01-11"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_rcG95iI9QOOed-VfarsHFQ",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/mcb-virtual-office-hour-special-funding-opportunities-0/2023-01-11"
+    ]
+   },
+   {
+    "url": "https://mcbblog.nsfbio.com/category/blog/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/events/mcb-virtual-office-hour-special-funding-opportunities-0/2023-01-11"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_KV4lI3dCQsyp-2D2K1a4mQ",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/dms-virtual-office-hours-32"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_GMhDF2HFReWV894AqQRxWw",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/polar-programs-antarctic-section-virtual-office-hours-0/2021-07-19"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/geo/earthcube/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/antarctic-research/5519/nsf16-541/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/staff/staff_list.jsp?orgId=287&subDiv=y&org=PLR&from_org=PLR",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/antarctic-research/5519/nsf16-541/solicitation"
+    ]
+   },
+   {
+    "url": "https://strs.unols.org/Public/diu_login.aspx",
+    "status": 503,
+    "reason": "HTTP 503",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/antarctic-research/5519/nsf16-541/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/geo/geo-data-policies/plr/plr-data-mgt-policy-jan21-2016.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/antarctic-research/5519/nsf16-541/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.fastlane.nsf.gov/a1/newstan.htm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/antarctic-research/5519/nsf16-541/solicitation",
+     "https://www.nsf.gov/funding/opportunities/rii-c2-epscor-research-infrastructure-improvement-program-inter/5672/nsf10-598/solicitation"
+    ]
+   },
+   {
+    "url": "http://gcmd.gsfc.nasa.gov/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/antarctic-research/5519/nsf16-541/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf14043",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/antarctic-research/5519/nsf16-541/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/geo/geo-data-policies/plr/plr-data-mgt-policy-jan16.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/antarctic-research/5519/nsf16-541/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/policies/SOR_PA_NSF-50_Principal_Investigator_Proposal_File.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/antarctic-research/5519/nsf16-541/solicitation",
+     "https://www.nsf.gov/funding/opportunities/rii-c2-epscor-research-infrastructure-improvement-program-inter/5672/nsf10-598/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubs/2010/nsf10598/docView.do?dispatch=display&pubID=103996",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/rii-c2-epscor-research-infrastructure-improvement-program-inter/5672/nsf10-598/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/od/oia/programs/epscor/eligibility_table_fy2011.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/rii-c2-epscor-research-infrastructure-improvement-program-inter/5672/nsf10-598/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=aag",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/rii-c2-epscor-research-infrastructure-improvement-program-inter/5672/nsf10-598/solicitation"
+    ]
+   },
+   {
+    "url": "http://www07.grants.gov/applicants/app_help_reso.jsp",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/rii-c2-epscor-research-infrastructure-improvement-program-inter/5672/nsf10-598/solicitation"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 24,
+  "alfa": 13,
+  "resources": 24,
+  "images": 24,
+  "standards": 7,
+  "link-check": 24,
+  "plain-language": 13,
+  "tech": 4,
+  "third-party": 8,
+  "deprecated-html": 2,
+  "public-interest": 1,
+  "security": 1
+ },
+ "tally": {
+  "ok": 24,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 2,
+  "error": 0
+ },
+ "finishedAt": "2026-11-04T15:27:34.772Z"
+}
