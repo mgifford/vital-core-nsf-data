@@ -1,6 +1,6 @@
 {
  "domain": "seedfund.nsf.gov",
- "updatedAt": "2026-11-04T12:52:49.788Z",
+ "updatedAt": "2026-11-04T14:45:59.298Z",
  "links": {
   "https://relavomedical.com/": {
    "status": 0,
@@ -74,11 +74,12 @@
    "status": 0,
    "reason": "ENOTFOUND",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W45"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://seedfund.nsf.gov/styleguide"
    ]
@@ -189,11 +190,12 @@
    "status": 0,
    "reason": "ENOTFOUND",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W45"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://seedfund.nsf.gov/styleguide/colors"
    ]
@@ -209,7 +211,8 @@
    ],
    "weeksBroken": 2,
    "foundOn": [
-    "https://seedfund.nsf.gov/styleguide/typography"
+    "https://seedfund.nsf.gov/styleguide/typography",
+    "https://seedfund.nsf.gov/styleguide/colors"
    ]
   },
   "https://iperf.asee.org/": {
@@ -271,11 +274,12 @@
    "status": 406,
    "reason": "HTTP 406",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://seedfund.nsf.gov/news/wavelogix"
    ]
@@ -416,11 +420,12 @@
    "status": 0,
    "reason": "fetch failed",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://seedfund.nsf.gov/news/airloom-energy"
    ]
@@ -678,11 +683,12 @@
    "status": 500,
    "reason": "HTTP 500",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://seedfund.nsf.gov/awardees/history/details?company=beta-hatch-inc"
    ]
@@ -984,6 +990,32 @@
    "weeksBroken": 1,
    "foundOn": [
     "https://seedfund.nsf.gov/events"
+   ]
+  },
+  "http://www.ntact.com/": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/portfolio/details?company=fas-holdings-group"
+   ]
+  },
+  "https://exostellar.io/": {
+   "status": 0,
+   "reason": "ERR_SSL_TLSV1_ALERT_INTERNAL_ERROR",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/news/exostellar"
    ]
   }
  }
