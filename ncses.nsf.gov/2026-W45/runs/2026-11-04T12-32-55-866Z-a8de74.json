@@ -1,0 +1,124 @@
+{
+ "runId": "2026-11-04T12-32-55-866Z-a8de74",
+ "week": "2026-W45",
+ "domain": "ncses.nsf.gov",
+ "canonical": {
+  "origin": "https://ncses.nsf.gov",
+  "configured": "https://ncses.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-04T12:32:58.211Z",
+ "scanned": [
+  "4cccf95d65ab3e51",
+  "32a066a81cf1adec",
+  "f8c17e9da93c164c",
+  "5c4750e45e30b9c8",
+  "920a5517f0c7fd4d",
+  "4026ccab34965076",
+  "a1f3c9c2c33dcb32",
+  "d6b710e8aee7524a",
+  "59b1d379c058ee2e",
+  "f4f1bb469d88b43c",
+  "40ab21909ffcbe6b",
+  "5e9bac04aaf1e6ae",
+  "d5ab8e2da60a9ea5",
+  "b50ac6235a0d5998",
+  "3a570cb676857334",
+  "f134ae1240023401",
+  "a4a5ca7080642bf9"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 2378,
+  "checked": 500,
+  "brokenCount": 5,
+  "broken": [
+   {
+    "url": "https://ncsesdata.nsf.gov/herd/2015/html/HERD2015_DST_13.html",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb202326/infrastructure-for-academic-r-d"
+    ]
+   },
+   {
+    "url": "https://ncsesdata.nsf.gov/herd/2014/html/HERD2014_DST_14.html",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb202326/infrastructure-for-academic-r-d"
+    ]
+   },
+   {
+    "url": "https://ncsesdata.nsf.gov/herd/2016/html/HERD2016_DST_17.html",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb202326/infrastructure-for-academic-r-d"
+    ]
+   },
+   {
+    "url": "https://ncsesdata.nsf.gov/herd/2017/html/herd2017_dst_17.html",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb202326/infrastructure-for-academic-r-d"
+    ]
+   },
+   {
+    "url": "https://ncsesdata.nsf.gov/herd/2018/html/herd18-dt-tab017.html",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb202326/infrastructure-for-academic-r-d"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 17,
+  "alfa": 12,
+  "resources": 17,
+  "images": 17,
+  "link-check": 17,
+  "plain-language": 4,
+  "standards": 9,
+  "security": 2,
+  "public-interest": 3,
+  "third-party": 5,
+  "sustainability": 1,
+  "tech": 3
+ },
+ "tally": {
+  "ok": 17,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 12,
+  "error": 0
+ },
+ "finishedAt": "2026-11-04T12:40:30.100Z"
+}
