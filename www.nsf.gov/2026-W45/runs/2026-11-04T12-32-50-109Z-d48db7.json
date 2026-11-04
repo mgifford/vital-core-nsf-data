@@ -1,0 +1,118 @@
+{
+ "runId": "2026-11-04T12-32-50-109Z-d48db7",
+ "week": "2026-W45",
+ "domain": "www.nsf.gov",
+ "canonical": {
+  "origin": "https://www.nsf.gov",
+  "configured": "https://www.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-04T12:32:50.700Z",
+ "scanned": [
+  "2d600e2bf0a082dc",
+  "70f65c03fa115f56",
+  "91007a9c5ffd4032",
+  "57863ddc469b4eed",
+  "4b7ac70da189ddfb",
+  "273fd6bf15c23d20",
+  "ff44fdee942ea4f3",
+  "93b21162b59b614e",
+  "ed93ba7883a3ae6d",
+  "8ee0afed703ac7ef",
+  "001fd9d0c8b09954",
+  "8a1037e069c4a7d5",
+  "04cac11de36c0a74",
+  "bcb986c7666fd2b2",
+  "8b33a345516c0d12",
+  "9d589ae87131cee5",
+  "b4b3cc5a82aa4d14",
+  "c21b68c4d733a42a",
+  "dd6888ba42a1a99e",
+  "540a617152c6eb6b",
+  "71372d7f8f254050",
+  "f24f689d71c261c4",
+  "414a82687f5f1573",
+  "9ea4f75e89012544",
+  "0fbd2f4967a3ee38"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 706,
+  "checked": 500,
+  "brokenCount": 3,
+  "broken": [
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf22-xxx",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/mps-materials-mps-materials-research-programs/nsf23-612/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/sbe/sbe_2020/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-interdisciplinary-research-across-sbe-sciences/nsf12-030"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/cise/oac/vision/blueprint-2019/CI-LWD.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/research-coordination-networks-fostering-nurturing-diverse/505952/nsf22-558"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 25,
+  "alfa": 13,
+  "plain-language": 16,
+  "deprecated-html": 4,
+  "resources": 25,
+  "images": 25,
+  "link-check": 25,
+  "standards": 14,
+  "tech": 5,
+  "third-party": 2,
+  "sustainability": 2,
+  "public-interest": 2,
+  "lighthouse": 3,
+  "security": 2
+ },
+ "tally": {
+  "ok": 25,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 4,
+  "error": 0
+ },
+ "finishedAt": "2026-11-04T12:37:19.695Z"
+}
