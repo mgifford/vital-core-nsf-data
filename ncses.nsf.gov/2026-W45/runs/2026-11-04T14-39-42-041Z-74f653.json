@@ -1,0 +1,91 @@
+{
+ "runId": "2026-11-04T14-39-42-041Z-74f653",
+ "week": "2026-W45",
+ "domain": "ncses.nsf.gov",
+ "canonical": {
+  "origin": "https://ncses.nsf.gov",
+  "configured": "https://ncses.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-04T14:39:42.783Z",
+ "scanned": [
+  "e6627b097691a35a",
+  "3a34e181adfa8d6d",
+  "21c596d450cd8a9c",
+  "5b7f55c3f37eb2b5",
+  "9007b3e79bc7449f",
+  "973a952acf512018",
+  "e2464bad89072708",
+  "c7595d5b4b0fb8c4",
+  "6793a67cc2e9108f",
+  "f93c2a4da5a4cce8",
+  "b818e49e9d582331",
+  "121066c309c7eec8",
+  "736d16d0b47a8951",
+  "5e5407b7849ed5ff"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 1960,
+  "checked": 500,
+  "brokenCount": 1,
+  "broken": [
+   {
+    "url": "https://www.sbir.gov/sbirsearch/award/all",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20224/data/table/SINV-25",
+     "https://ncses.nsf.gov/pubs/nsb20224/table/SINV-75",
+     "https://ncses.nsf.gov/pubs/nsb20224/table/SINV-17"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "sustainability": 3,
+  "axe": 14,
+  "plain-language": 6,
+  "resources": 14,
+  "images": 14,
+  "link-check": 14,
+  "standards": 10,
+  "alfa": 7,
+  "third-party": 4,
+  "deprecated-html": 2,
+  "security": 3,
+  "lighthouse": 1
+ },
+ "tally": {
+  "ok": 14,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 13,
+  "error": 0
+ },
+ "finishedAt": "2026-11-04T14:44:50.325Z"
+}
