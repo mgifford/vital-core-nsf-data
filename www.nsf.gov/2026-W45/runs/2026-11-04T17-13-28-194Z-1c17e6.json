@@ -1,0 +1,241 @@
+{
+ "runId": "2026-11-04T17-13-28-194Z-1c17e6",
+ "week": "2026-W45",
+ "domain": "www.nsf.gov",
+ "canonical": {
+  "origin": "https://www.nsf.gov",
+  "configured": "https://www.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-04T17:13:28.807Z",
+ "scanned": [
+  "7843125496d3f22b",
+  "e2ed7b57b9c02c84",
+  "dad81935d2516b01",
+  "902799d42d964dfc",
+  "08aef1450991cc20",
+  "ff7087ada6b05710",
+  "df89c5f61435c137",
+  "f152a15b53f771c1",
+  "c59417a6e27dc733",
+  "fee085c9098553e9",
+  "4ef0f52cdbb4597a",
+  "956fcb6f1dfb79b8",
+  "2bda1d8e03de9b59",
+  "a85ff313f970787c",
+  "d117ab637dcd4b38",
+  "ad1669e587a79c1e",
+  "ee4ed1aa16ce54b6",
+  "b38bc6cb688cb2f2",
+  "c3609e9b18427ccd",
+  "e23671572ba54c6f",
+  "f2d9b45aa0424cc1"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 342,
+  "checked": 342,
+  "brokenCount": 18,
+  "broken": [
+   {
+    "url": "https://www.nsf.gov/pubs/2018/nsf18070/nsf18070.jsp?org=NSF",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/planning-grants-engineering-research-centers/505530/nsf21-529"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/cgi-bin/good-bye?https://creativecommons.org/licenses/by/4.0/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/focus-areas/astronomy-space/educational-resources"
+    ]
+   },
+   {
+    "url": "https://nca2023.globalchange.gov/regions/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/events/r2i2-office-hours/2024-10-21"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJItf-iopjIsEt9rGm4LgZ1SBrLwj1g0qJU",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/r2i2-office-hours/2024-10-21"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJIsduitrTIsHm9YLqHkVShusWRYEqRiEBo",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/r2i2-office-hours/2024-10-21"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJItc--rpzwiHnTks6QxTFfLbNMIguskLlE",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/r2i2-office-hours/2024-10-21"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJItde-sqT4qGzfUzaaw2oNSQbQdyM_6Fw0",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/r2i2-office-hours/2024-10-21"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJItceuorj4pGslWF8RHaCBLwVZxwLXZGOQ",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/r2i2-office-hours/2024-10-21"
+    ]
+   },
+   {
+    "url": "http://www.earthscope.org/ESSP",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/earthscope/501035/nsf14-552/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.fastlane.nsf.gov/a1/newstan.htm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/earthscope/501035/nsf14-552/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/geo/geo-data-policies/ear/es-data-policy.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/earthscope/501035/nsf14-552/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.earthscope.org/assets/uploads/pages/earthscope-education-and-outreach-implementation-plan.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/earthscope/501035/nsf14-552/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=aag",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/earthscope/501035/nsf14-552/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/geo/ear/EAR_data_policy_204.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/earthscope/501035/nsf14-552/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/policies/SOR_PA_NSF-50_Principal_Investigator_Proposal_File.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/earthscope/501035/nsf14-552/solicitation"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_JK-vR7XBTam8edXRms8eNw",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/cise-research-initiation-initiative-webinar/2022-07-13"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf20080",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/iucrc-industry-university-cooperative-research-centers-program/505789/nsf20-570/solicitation"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_YUTZ2vTYR6CMDQRyEMEGpQ",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/polar-programs-antarctic-section-virtual-office-hours"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 21,
+  "alfa": 10,
+  "resources": 21,
+  "images": 21,
+  "standards": 8,
+  "link-check": 21,
+  "plain-language": 13,
+  "third-party": 3,
+  "public-interest": 1,
+  "security": 3,
+  "lighthouse": 2,
+  "tech": 4,
+  "sustainability": 1,
+  "deprecated-html": 2
+ },
+ "tally": {
+  "ok": 21,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 2,
+  "error": 0
+ },
+ "finishedAt": "2026-11-04T17:16:58.519Z"
+}
