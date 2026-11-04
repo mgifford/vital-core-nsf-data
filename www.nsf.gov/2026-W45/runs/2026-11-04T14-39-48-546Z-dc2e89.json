@@ -1,0 +1,148 @@
+{
+ "runId": "2026-11-04T14-39-48-546Z-dc2e89",
+ "week": "2026-W45",
+ "domain": "www.nsf.gov",
+ "canonical": {
+  "origin": "https://www.nsf.gov",
+  "configured": "https://www.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-04T14:39:49.696Z",
+ "scanned": [
+  "88ae3b63e3b8ca12",
+  "1b4aa1454f281e47",
+  "ae95e03611f6ef98",
+  "1d76c7e03cb87886",
+  "4684311035d9908d",
+  "e8406dddf2e58df5",
+  "e6c73735da843318",
+  "254d74e57bdc78ae",
+  "e6e1548f47420055",
+  "c444017d391a86c1",
+  "4d9f179432f3bee2",
+  "7f5bd9f58141446b",
+  "341ef316b939122a",
+  "63b9ebf225433219",
+  "3dcb8bdf7dac495d",
+  "d568d55b7c6cc983",
+  "4dc5a4099bbff22f",
+  "0507c2561d2616c4",
+  "e9105c36d8c012a7",
+  "63795236f231d276",
+  "b3bc20d433b5a1ff",
+  "6eb7a597917cf3ed",
+  "65fffc04a0b17a9b"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 272,
+  "checked": 272,
+  "brokenCount": 7,
+  "broken": [
+   {
+    "url": "https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/25/fact-sheet-president-biden-announces-new-workforce-hubs-to-train-and-connect-american-workers-to-good-jobs-created-by-the-presidents-investing-in-america-agenda/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/news/nsf-doc-partner-to-advance-semiconductor"
+    ]
+   },
+   {
+    "url": "http://service.govdelivery.com/service/subscribe.html?code=USNSF_C18",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/additional-funding-opportunities-iis-community"
+    ]
+   },
+   {
+    "url": "http://www.nsf.gov/cise/funding/2007_12_edu_overview_pgm.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/additional-funding-opportunities-iis-community"
+    ]
+   },
+   {
+    "url": "https://www.lle.rochester.edu/index.php/2022/03/09/research-performed-at-lle-to-appear-on-science-advances/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/news/laboratory-experiments-replicate-volatile-plasma-center"
+    ]
+   },
+   {
+    "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=porfaqs",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-national-science-foundation-directorate-social-behavioral/nsf16-141"
+    ]
+   },
+   {
+    "url": "https://www.ehr.nsf.gov/pirs_prs_web/search/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/tues-transforming-undergraduate-education-science-technology/5741/nsf10-544"
+    ]
+   },
+   {
+    "url": "http://oerl.sri.com/ccli_resources.html",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/tues-transforming-undergraduate-education-science-technology/5741/nsf10-544"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "sustainability": 4,
+  "axe": 22,
+  "resources": 22,
+  "images": 22,
+  "standards": 14,
+  "link-check": 22,
+  "alfa": 8,
+  "plain-language": 7,
+  "lighthouse": 3,
+  "security": 1,
+  "tech": 2,
+  "public-interest": 3,
+  "third-party": 3,
+  "deprecated-html": 1
+ },
+ "tally": {
+  "ok": 22,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 2,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 3,
+  "error": 0
+ },
+ "finishedAt": "2026-11-04T14:43:34.997Z"
+}
