@@ -1,0 +1,97 @@
+{
+ "runId": "2026-11-04T15-22-26-794Z-95d6dd",
+ "week": "2026-W45",
+ "domain": "ncses.nsf.gov",
+ "canonical": {
+  "origin": "https://ncses.nsf.gov",
+  "configured": "https://ncses.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-04T15:22:29.112Z",
+ "scanned": [
+  "3ae79b88417cddda",
+  "212fe7703720f790",
+  "76de5c314bf37c11",
+  "8f840ceaa4649974",
+  "b78aebc1601f30cb",
+  "3c2cf199bc5213a3",
+  "fa1c96296537b92a"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 665,
+  "checked": 500,
+  "brokenCount": 3,
+  "broken": [
+   {
+    "url": "https://www.whitehouse.gov/ostp/nstc/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20226/table/SKTI-9"
+    ]
+   },
+   {
+    "url": "https://www.economicmodeling.com/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20226/table/SKTI-9"
+    ]
+   },
+   {
+    "url": "https://www.economicmodeling.com/data/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20226/table/SKTI-9"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 7,
+  "resources": 7,
+  "images": 7,
+  "link-check": 7,
+  "security": 1,
+  "third-party": 3,
+  "standards": 1,
+  "tech": 2,
+  "lighthouse": 3,
+  "plain-language": 2,
+  "alfa": 1
+ },
+ "tally": {
+  "ok": 7,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 2,
+  "error": 0
+ },
+ "finishedAt": "2026-11-04T15:24:43.152Z"
+}
