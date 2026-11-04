@@ -1,0 +1,302 @@
+{
+ "runId": "2026-11-04T13-18-40-598Z-1f6d83",
+ "week": "2026-W45",
+ "domain": "www.nsf.gov",
+ "canonical": {
+  "origin": "https://www.nsf.gov",
+  "configured": "https://www.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-04T13:18:41.084Z",
+ "scanned": [
+  "49527fa714e7cc23",
+  "8316fedbfad25f2f",
+  "0e5eb4097b05d373",
+  "ce22c38fc3d4d5ff",
+  "834cbed3130c679f",
+  "d80622c764b90446",
+  "be060bd3156ff586",
+  "3a80acf8b761fca1",
+  "ea069a888aca2b2b",
+  "ce7c32ad27856f1a",
+  "6b8eb95bc438b0fb",
+  "7a926491be87dd4f",
+  "02c7f2237859f52b",
+  "95527966938b1e08",
+  "62e7d42d71c35273",
+  "a99e7a5811a60dfc",
+  "3835ad987be89423",
+  "99cca04406f4a40e",
+  "2e9c14b25517722a",
+  "9d26ea68915016db",
+  "3de566ee4d12e182",
+  "34d862c03cded358",
+  "d6678899c786d142",
+  "098d750d913b1a5e"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 348,
+  "checked": 348,
+  "brokenCount": 26,
+  "broken": [
+   {
+    "url": "https://www.nsf.gov/career)",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-aci-career/nsf15-072"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubs/2015/nsf15057/nsf15057.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-aci-career/nsf15-072"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/cif21",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-aci-career/nsf15-072"
+    ]
+   },
+   {
+    "url": "http://www.onlineethics.org/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/reu-research-experiences-undergraduates/nsf07-569/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.fastlane.nsf.gov/a1/newstan.htm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/reu-research-experiences-undergraduates/nsf07-569/solicitation",
+     "https://www.nsf.gov/funding/opportunities/nsf-satc-us-national-science-foundation-security-privacy-trust/nsf19-603/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubs/2006/nsf06204/index.html",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/reu-research-experiences-undergraduates/nsf07-569/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=aag",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/reu-research-experiences-undergraduates/nsf07-569/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.nsfstc.org/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/reu-research-experiences-undergraduates/nsf07-569/solicitation"
+    ]
+   },
+   {
+    "url": "https://aaas.zoom.us/webinar/register/WN_ABHndQMUT2OhrxaI8SGbLA",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/s-stem-proposal-preparation-webinar-sessions/2023-01-26"
+    ]
+   },
+   {
+    "url": "https://aaas.zoom.us/webinar/register/WN_q5Qzn8qWQJ6y4Nnew-8Urg",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/s-stem-proposal-preparation-webinar-sessions/2023-01-26"
+    ]
+   },
+   {
+    "url": "https://aaas.zoom.us/webinar/register/WN_SM-MOi1BQMemyPrWfhbHaA",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/s-stem-proposal-preparation-webinar-sessions/2023-01-26"
+    ]
+   },
+   {
+    "url": "https://aaas.zoom.us/webinar/register/WN_jDz7lhRsRrCk6M-SZ8KIJA",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/s-stem-proposal-preparation-webinar-sessions/2023-01-26"
+    ]
+   },
+   {
+    "url": "https://www.sstem.aaas.org/webinar",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/s-stem-proposal-preparation-webinar-sessions/2023-01-26"
+    ]
+   },
+   {
+    "url": "https://bit.ly/summit_website",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/live-arctic-unlocking-earths-environmental-history"
+    ]
+   },
+   {
+    "url": "https://sri.zoomgov.com/webinar/register/WN_uhopx_4dSryY9LyAzIY1vw",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/understanding-diversity-stem-wmpd-day/2021-05-12"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/geo/geo-ci/index.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/gi-geoinformatics/nsf23-594/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.saferfederalworkforce.gov/contractors/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/gi-geoinformatics/nsf23-594/solicitation"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_NO3GeKkiQlqVwjqzzttumg",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/hsi-etse-upcoming-webinars-office-hours/2024-08-12"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_VlY1R9iBTOCtdA_Gt7huaA",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/hsi-etse-upcoming-webinars-office-hours/2024-08-12"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_UEH_-DWETTWPTDfoY3iD4g",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/hsi-etse-upcoming-webinars-office-hours/2024-08-12"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_r2vYauHnR-C3w3un0qCw4g",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/hsi-etse-upcoming-webinars-office-hours/2024-08-12"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJItf-qvqT8qHWOJuL7vmnwghmDOTfRcSVY",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/hsi-etse-upcoming-webinars-office-hours/2024-08-12"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJIscumqrjkjE_2asneZ2Ho6sJO5XezH46U",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/hsi-etse-upcoming-webinars-office-hours/2024-08-12"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJIsf--sqDsrGQCqaMagYEN_jkbRlwjdifU",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/hsi-etse-upcoming-webinars-office-hours/2024-08-12"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf18045",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsf-satc-us-national-science-foundation-security-privacy-trust/nsf19-603/solicitation"
+    ]
+   },
+   {
+    "url": "https://oerl.sri.com/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsf-satc-us-national-science-foundation-security-privacy-trust/nsf19-603/solicitation"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 24,
+  "alfa": 16,
+  "plain-language": 12,
+  "resources": 24,
+  "images": 24,
+  "third-party": 10,
+  "link-check": 24,
+  "standards": 8,
+  "sustainability": 4,
+  "public-interest": 4,
+  "deprecated-html": 4,
+  "tech": 2,
+  "security": 3,
+  "lighthouse": 1
+ },
+ "tally": {
+  "ok": 24,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 1,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-04T13:22:38.681Z"
+}
