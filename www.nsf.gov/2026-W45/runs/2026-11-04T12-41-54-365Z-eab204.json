@@ -1,0 +1,165 @@
+{
+ "runId": "2026-11-04T12-41-54-365Z-eab204",
+ "week": "2026-W45",
+ "domain": "www.nsf.gov",
+ "canonical": {
+  "origin": "https://www.nsf.gov",
+  "configured": "https://www.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-04T12:41:54.980Z",
+ "scanned": [
+  "044d101e9c3017a3",
+  "86231bf3a45cbf3a",
+  "85241a4070e04512",
+  "b88edde0b19578a7",
+  "ca4bfb40937fe99a",
+  "51b4d9a33abb657a",
+  "9bbb7ecc051f7556",
+  "f239e447d44202d5",
+  "9636ffe3c5bf4d3a",
+  "12cc3fa1adaa38d2",
+  "6ba59b1ede73adf5",
+  "2a1131f2050ee4cc",
+  "166b76d86e3a77a8",
+  "1956b06e84ba4a5e",
+  "b8fecb0d9817b7a0",
+  "3177812bedb30ce7",
+  "91bfe0e6c3a3fc85",
+  "a2e3e5f82959f4da",
+  "687d4eaf47c7eca8",
+  "e81345b987425b99",
+  "97cdeddc573e3bbb",
+  "b1bdace7fd186458",
+  "3748bdb76282f1f3",
+  "100da7e28eaf1abc"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 458,
+  "checked": 458,
+  "brokenCount": 9,
+  "broken": [
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_d7gl-fj9QMGXlOCpEAg3JQ",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/s-stem-office-hours/2024-02-23"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/nsf/ere",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/news/nsf-2022-research-security-training-united-states-research"
+    ]
+   },
+   {
+    "url": "http://www.nsf.gov/eng/iip/sbir/06_2011_bc.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sbir-small-business-innovation-research-program-phase-i/503361/nsf11-691"
+    ]
+   },
+   {
+    "url": "http://www.nsf.gov/eng/iip/sbir/06_2011_ea.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sbir-small-business-innovation-research-program-phase-i/503361/nsf11-691"
+    ]
+   },
+   {
+    "url": "http://www.nsf.gov/eng/iip/sbir/06_2011_ei.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sbir-small-business-innovation-research-program-phase-i/503361/nsf11-691"
+    ]
+   },
+   {
+    "url": "http://www.nsf.gov/eng/iip/sbir/06_2011_nm.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sbir-small-business-innovation-research-program-phase-i/503361/nsf11-691"
+    ]
+   },
+   {
+    "url": "https://www.gida-global.org/care",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sgp-sedimentary-geology-paleobiology/13691/nsf22-597/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/geo/ear/resubmission_policy.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sgp-sedimentary-geology-paleobiology/13691/nsf22-597/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/ehr/Videos/2022WatermanThompsonVideo.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/waterman-lecture-falls-aging-need-biomedical-solutions"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 23,
+  "alfa": 13,
+  "plain-language": 11,
+  "resources": 23,
+  "images": 23,
+  "standards": 12,
+  "link-check": 23,
+  "lighthouse": 4,
+  "security": 2,
+  "tech": 2,
+  "sustainability": 2,
+  "third-party": 4,
+  "public-interest": 2,
+  "deprecated-html": 2
+ },
+ "tally": {
+  "ok": 23,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 1,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 1,
+  "error": 0
+ },
+ "finishedAt": "2026-11-04T12:46:14.630Z"
+}
