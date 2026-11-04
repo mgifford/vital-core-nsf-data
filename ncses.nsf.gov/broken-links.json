@@ -1,6 +1,6 @@
 {
  "domain": "ncses.nsf.gov",
- "updatedAt": "2026-11-03T19:48:17.290Z",
+ "updatedAt": "2026-11-04T12:52:48.465Z",
  "links": {
   "http://ncses.nsf.gov/pubs/nsf23300/": {
    "status": 0,
@@ -966,19 +966,14 @@
    "status": 0,
    "reason": "ECONNRESET",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "https://ncses.nsf.gov/pubs/nsf25349/table/1-7",
-    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14453",
-    "https://ncses.nsf.gov/pubs/nsf24336/table/1-4",
-    "https://ncses.nsf.gov/pubs/nsf25349/table/A-2",
-    "https://ncses.nsf.gov/surveys/earned-doctorates/2021",
-    "https://ncses.nsf.gov/pubs/nsf24336/table/1-10",
-    "https://ncses.nsf.gov/pubs/nsf25349/table/2-8"
+    "https://ncses.nsf.gov/surveys/earned-doctorates/2023"
    ]
   },
   "https://aishe.gov.in/aishe/gotoAisheReports": {
@@ -1671,6 +1666,98 @@
    "weeksBroken": 1,
    "foundOn": [
     "https://ncses.nsf.gov/surveys/business-enterprise-research-development/2024"
+   ]
+  },
+  "https://www.bea.gov/data/gdp/gross-domestic-product%C2%A0(accessed": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb202326/figure/URD-8",
+    "https://ncses.nsf.gov/pubs/nsb202326/figure/URD-12"
+   ]
+  },
+  "https://ncses.nsf.gov/wmpd": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/surveys/earned-doctorates/2023"
+   ]
+  },
+  "https://ncsesdata.nsf.gov/herd/2015/html/HERD2015_DST_13.html": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb202326/infrastructure-for-academic-r-d"
+   ]
+  },
+  "https://ncsesdata.nsf.gov/herd/2014/html/HERD2014_DST_14.html": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb202326/infrastructure-for-academic-r-d"
+   ]
+  },
+  "https://ncsesdata.nsf.gov/herd/2016/html/HERD2016_DST_17.html": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb202326/infrastructure-for-academic-r-d"
+   ]
+  },
+  "https://ncsesdata.nsf.gov/herd/2017/html/herd2017_dst_17.html": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb202326/infrastructure-for-academic-r-d"
+   ]
+  },
+  "https://ncsesdata.nsf.gov/herd/2018/html/herd18-dt-tab017.html": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb202326/infrastructure-for-academic-r-d"
    ]
   }
  }

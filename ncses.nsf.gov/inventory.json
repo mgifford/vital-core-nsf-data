@@ -1,6 +1,6 @@
 {
  "domain": "ncses.nsf.gov",
- "updatedAt": "2026-11-03T19:48:16.890Z",
+ "updatedAt": "2026-11-04T12:52:47.647Z",
  "pages": {
   "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-45": {
    "pageId": "00abbacd9d4d5dcc",
@@ -5539,11 +5539,11 @@
   },
   "https://ncses.nsf.gov/surveys/federal-funds-research-development/2024-2025": {
    "pageId": "5e9bac04aaf1e6ae",
-   "lastWeek": "2026-W44",
-   "lastScannedAt": "2026-10-29T09:54:33.897Z",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T12:37:59.915Z",
    "status": 200,
-   "axeViolations": 24,
-   "alfaFailures": null,
+   "axeViolations": 29,
+   "alfaFailures": 433,
    "hasIssues": true
   },
   "https://www.ncses.nsf.gov/pubs/nsb20257/references": {
@@ -7766,6 +7766,483 @@
    "lastScannedAt": "2026-11-03T15:02:01.691Z",
    "status": 200,
    "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/pubs/nsb20262/business-dynamics-and-investment": {
+   "pageId": "1039a0ea68dd604c",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T12:26:20.953Z",
+   "status": 200,
+   "axeViolations": 15,
+   "alfaFailures": 170,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/surveys/earned-doctorates/2023": {
+   "pageId": "1de509068538445f",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T12:24:31.461Z",
+   "status": 200,
+   "axeViolations": 30,
+   "alfaFailures": 462,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/pubs/nsb20211/teachers-of-mathematics-and-science": {
+   "pageId": "1dfa38b4929abecb",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T12:44:08.594Z",
+   "status": 200,
+   "axeViolations": 39,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/pubs/nsb20226/figure/KTI-3": {
+   "pageId": "20baabf2e2634bac",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T12:24:48.185Z",
+   "status": 200,
+   "axeViolations": 53,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/pubs/nsf23300/contact-us": {
+   "pageId": "2825b0184f7d2740",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T12:26:01.706Z",
+   "status": 200,
+   "axeViolations": 17,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/surveys/higher-education-research-development/2021": {
+   "pageId": "32a066a81cf1adec",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T12:33:28.595Z",
+   "status": 200,
+   "axeViolations": 27,
+   "alfaFailures": 925,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/indicators/states/state/kentucky": {
+   "pageId": "35ffca02d5013413",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T12:25:30.822Z",
+   "status": 200,
+   "axeViolations": 0,
+   "alfaFailures": 51,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/pubs/nsf24322/figure/3": {
+   "pageId": "3a570cb676857334",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T12:38:46.284Z",
+   "status": 200,
+   "axeViolations": 155,
+   "alfaFailures": 520,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/pubs/nsb202326/figure/URD-12": {
+   "pageId": "3c7ef910a4f07fcc",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T12:24:18.762Z",
+   "status": 200,
+   "axeViolations": 49,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/pubs/nsf19301/report/glossary": {
+   "pageId": "3d319b2a744c5149",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T12:23:43.680Z",
+   "status": 200,
+   "axeViolations": 11,
+   "alfaFailures": 68,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/pubs/nsb20243/figure/14": {
+   "pageId": "3f1336d568bd7dd3",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T12:48:55.469Z",
+   "status": 200,
+   "axeViolations": 34,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/pubs/nsf24300": {
+   "pageId": "4026ccab34965076",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T12:36:57.941Z",
+   "status": 200,
+   "axeViolations": 8,
+   "alfaFailures": 14,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/pubs/nsb20226/table/SKTI-11": {
+   "pageId": "40ab21909ffcbe6b",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T12:37:44.671Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": 157,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/pubs/nsb202326/infrastructure-for-academic-r-d": {
+   "pageId": "4cccf95d65ab3e51",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T12:33:11.698Z",
+   "status": 200,
+   "axeViolations": 23,
+   "alfaFailures": 126,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/pubs/nsf25300": {
+   "pageId": "4d13236195bb3638",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T12:25:16.076Z",
+   "status": 200,
+   "axeViolations": 24,
+   "alfaFailures": 123,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/pubs/nsb20243/figure/21": {
+   "pageId": "4e4b20c519046ae0",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T12:45:31.716Z",
+   "status": 200,
+   "axeViolations": 40,
+   "alfaFailures": 178,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/pubs/nsf22331/table/3-2": {
+   "pageId": "4ed4898a7897ee30",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T12:49:54.213Z",
+   "status": 200,
+   "axeViolations": 64,
+   "alfaFailures": 778,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/pubs/nsf25327/table/1": {
+   "pageId": "5895a6538c33f202",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T12:26:40.038Z",
+   "status": 200,
+   "axeViolations": 214,
+   "alfaFailures": 3874,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/pubs/nsf21318/table/1-3c": {
+   "pageId": "591ff0a011b9728b",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T12:27:25.527Z",
+   "status": 200,
+   "axeViolations": 31,
+   "alfaFailures": 1197,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/indicators/topical-search": {
+   "pageId": "59b1d379c058ee2e",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T12:37:27.006Z",
+   "status": 200,
+   "axeViolations": 4,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/pubs/nsf23337": {
+   "pageId": "5c4750e45e30b9c8",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T12:36:40.839Z",
+   "status": 200,
+   "axeViolations": 40,
+   "alfaFailures": 82,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/pubs/nsb20198/s-e-workers-in-the-economy": {
+   "pageId": "69935d4c9f24ded9",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T12:49:09.137Z",
+   "status": 200,
+   "axeViolations": 48,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/pubs/nsb20197/demographic-attributes-of-s-e-degree-recipients": {
+   "pageId": "6bf4f64851ee51e2",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T12:42:48.746Z",
+   "status": 200,
+   "axeViolations": 32,
+   "alfaFailures": 207,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/surveys/federal-funds-research-development/2021-2022": {
+   "pageId": "6c34d0e2b4eef1ef",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T12:44:50.049Z",
+   "status": 200,
+   "axeViolations": 24,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/pubs/nsb202326/figure/URD-8": {
+   "pageId": "6d41ea3311946c51",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T12:24:02.684Z",
+   "status": 200,
+   "axeViolations": 50,
+   "alfaFailures": 257,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/pubs/nsb20247/production-patterns-of-knowledge-and-technology-intensive-industries": {
+   "pageId": "70354fb6c7f1b6dd",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T12:43:41.348Z",
+   "status": 200,
+   "axeViolations": 51,
+   "alfaFailures": 457,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/pubs/nsb20198/the-skilled-technical-workforce": {
+   "pageId": "920a5517f0c7fd4d",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T12:36:50.328Z",
+   "status": 200,
+   "axeViolations": 31,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/pubs/nsbsep20261/acknowledgments-and-citation": {
+   "pageId": "a1f3c9c2c33dcb32",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T12:37:05.342Z",
+   "status": 200,
+   "axeViolations": 5,
+   "alfaFailures": 66,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/indicators/states/indicator/business-performed-rd-to-private-industry-output": {
+   "pageId": "a4332e6986a19ae4",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T12:49:39.841Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 34,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/indicators/states/compare-indicators/ave-sttr-funding-per-1-million-state-gdp": {
+   "pageId": "a4a5ca7080642bf9",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T12:39:43.464Z",
+   "status": 200,
+   "axeViolations": 0,
+   "alfaFailures": 34,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/pubs/nsb20205/production-patterns-and-trends-of-knowledge-and-technology-intensive-industries": {
+   "pageId": "b1f749728611e58f",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T12:44:26.335Z",
+   "status": 200,
+   "axeViolations": 62,
+   "alfaFailures": 572,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/pubs/nsf25353": {
+   "pageId": "b50ac6235a0d5998",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T12:38:26.516Z",
+   "status": 200,
+   "axeViolations": 25,
+   "alfaFailures": 281,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/pubs/nsb202326/figure/URD-3": {
+   "pageId": "b6a900e45605903d",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T12:24:24.732Z",
+   "status": 200,
+   "axeViolations": 38,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/pubs/nsb20207/public-familiarity-with-s-t-facts": {
+   "pageId": "b9b7329b83ea880d",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T12:42:36.765Z",
+   "status": 200,
+   "axeViolations": 24,
+   "alfaFailures": 189,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/pubs/nsf25307/table/4": {
+   "pageId": "bc30b0e79d38c614",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T12:50:24.411Z",
+   "status": 200,
+   "axeViolations": 145,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/pubs/nsb20213/academic-r-d-international-comparisons": {
+   "pageId": "ce910944b145410e",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T12:44:14.536Z",
+   "status": 200,
+   "axeViolations": 24,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/pubs/nsb20223/figure/HED-21": {
+   "pageId": "d12e539fc71ebf2c",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T12:49:16.011Z",
+   "status": 200,
+   "axeViolations": 41,
+   "alfaFailures": 293,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/pubs/ncses22205": {
+   "pageId": "d5ab8e2da60a9ea5",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T12:38:20.383Z",
+   "status": 200,
+   "axeViolations": 26,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/pubs/nsb20224/table/SINV-65": {
+   "pageId": "d6b710e8aee7524a",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T12:37:17.798Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/pubs/ncses24204/figure/IMPORT": {
+   "pageId": "d735eada860d9df7",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T12:27:13.506Z",
+   "status": 200,
+   "axeViolations": 25,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/pubs/nsf22311/table/17": {
+   "pageId": "d9aa39301559fe9a",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T12:43:09.726Z",
+   "status": 200,
+   "axeViolations": 42,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/pubs/nsb20196/post-high-school-transitions": {
+   "pageId": "db460dcd19a10fa2",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T12:44:19.789Z",
+   "status": 200,
+   "axeViolations": 37,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/pubs/nsb20224/table/SINV-87": {
+   "pageId": "dc48f9eaadb220e2",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T12:27:03.281Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/pubs/nsf23308/figure/2": {
+   "pageId": "de7b3f175b73576c",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T12:44:58.285Z",
+   "status": 200,
+   "axeViolations": 133,
+   "alfaFailures": 781,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/indicators/states/compare-indicators/bachelors-degrees-per-1000-18-24-year-olds": {
+   "pageId": "e46f8ed85b0ab65c",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T12:49:01.935Z",
+   "status": 200,
+   "axeViolations": 0,
+   "alfaFailures": 34,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/pubs/nsb20246/cross-national-comparisons-of-r-d-performance": {
+   "pageId": "e72dbaa9e9c09e3e",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T12:42:27.205Z",
+   "status": 200,
+   "axeViolations": 32,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/pubs/nsf19304/technical-notes": {
+   "pageId": "eb69169271e7fb06",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T12:43:01.207Z",
+   "status": 200,
+   "axeViolations": 7,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/pubs/nsf19309": {
+   "pageId": "ebefd7f9216b67e2",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T12:27:20.911Z",
+   "status": 200,
+   "axeViolations": 39,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/pubs/nsbsep20261/correction-s": {
+   "pageId": "ee38afc083d426f7",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T12:27:08.506Z",
+   "status": 200,
+   "axeViolations": 5,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/pubs/nsb202333/data/table/SPBS-86": {
+   "pageId": "f134ae1240023401",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T12:39:00.393Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": 317,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/indicators/states/indicator/academic-rd-per-1000-state-gdp": {
+   "pageId": "f4f1bb469d88b43c",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T12:37:32.912Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 35,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/explore-data/microdata/doctorate-recipients": {
+   "pageId": "f6a68036834aff60",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T12:25:37.102Z",
+   "status": 200,
+   "axeViolations": 28,
+   "alfaFailures": 107,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/indicators/states/indicator/bachelors-degree-holders-per-25-44-year-olds": {
+   "pageId": "f8c17e9da93c164c",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T12:36:34.084Z",
+   "status": 200,
+   "axeViolations": 1,
    "alfaFailures": null,
    "hasIssues": true
   }
