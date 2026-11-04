@@ -1,0 +1,141 @@
+{
+ "runId": "2026-11-04T12-25-10-870Z-dc5fba",
+ "week": "2026-W45",
+ "domain": "www.nsf.gov",
+ "canonical": {
+  "origin": "https://www.nsf.gov",
+  "configured": "https://www.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-04T12:25:11.372Z",
+ "scanned": [
+  "ee242a9cd00044d7",
+  "d85874d8023c7535",
+  "d39247d51cd4fe49",
+  "d04e966c488f0c5a",
+  "b979347a8724ca38",
+  "46000c7b5278dda0",
+  "31c69b6ea98da582",
+  "2b64dc0aaf25ddaa",
+  "622a3b499e9d19a4",
+  "083b2aada2bdbbfd",
+  "22a6f1ecfa476dcd",
+  "45d1629103bf5e23",
+  "129466c634f22976",
+  "b1c1ec9177792338",
+  "128048a896dc948d",
+  "8ae14be024eaa30e",
+  "56d5f692153a8808",
+  "82e66e70bbcc36f4",
+  "dda82e33bffae7de",
+  "d67d1ea7e9e0dc00",
+  "f0fe07c9251113ca",
+  "1aeac0fa2fdd2351",
+  "b1379faec26a5c49",
+  "858cd85a7b71d498"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 310,
+  "checked": 310,
+  "brokenCount": 6,
+  "broken": [
+   {
+    "url": "https://nsf2.webex.com/mw3300/mywebex/default.do?nomenu=true&siteurl=nsf2&service=6&rnd=0.48896841422459625&main_url=https%3A%2F%2Fnsf2.webex.com%2Fec3300%2Feventcenter%2Fevent%2FeventAction.do%3FtheAction%3Ddetail%26%26%26EMK%3D4832534b00000002640d879a9593e06906d194544b67e40f920034d12f07bd96ba4c87830adb1d86%26siteurl%3Dnsf2%26confViewID%3D169568824407907356%26encryptTicket%3DSDJTSwAAAAKmOANC7p63dWgk6hD0kC_IJCfrsbEk-Tie_WmhaIIV7A2%26",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/events/i-corps-teams-webinar-0/2020-09-03"
+    ]
+   },
+   {
+    "url": "https://nsf.govhttps//bit.ly/3y9rg6w",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/events/chat-live-scientists-antarctica"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_eFcqrhKCRYmTxzPtPRufOw",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/expandai-program-webinars/2023-03-16"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_UOZnoG6pQJqy0UnHsaQfYg",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/introduction-nsf-x-labs-funding-opportunity"
+    ]
+   },
+   {
+    "url": "https://inclusion.uci.edu/advance/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/uci-advance-crafting-culture-change-20-years-forward/2021-10-08"
+    ]
+   },
+   {
+    "url": "https://nifa.usda.gov/responsible-and-ethical-conduct-research",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/expandai-expanding-ai-innovation-through-capacity-building/506090/nsf23-506/solicitation"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 24,
+  "plain-language": 14,
+  "resources": 24,
+  "images": 24,
+  "standards": 11,
+  "security": 5,
+  "third-party": 7,
+  "link-check": 24,
+  "alfa": 11,
+  "lighthouse": 2,
+  "public-interest": 2,
+  "tech": 1,
+  "sustainability": 3,
+  "deprecated-html": 1
+ },
+ "tally": {
+  "ok": 24,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 1,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-04T12:29:01.091Z"
+}
