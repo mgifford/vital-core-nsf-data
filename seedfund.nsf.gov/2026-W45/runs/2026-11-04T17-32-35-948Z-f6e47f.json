@@ -1,0 +1,132 @@
+{
+ "runId": "2026-11-04T17-32-35-948Z-f6e47f",
+ "week": "2026-W45",
+ "domain": "seedfund.nsf.gov",
+ "canonical": {
+  "origin": "https://seedfund.nsf.gov",
+  "configured": "https://seedfund.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-04T17:32:36.666Z",
+ "scanned": [
+  "6d95468705af7da4",
+  "8a8e95022e453697",
+  "7e6ef5fa2636b58c",
+  "9d8731be0a8043f9",
+  "76cf397f588580a6",
+  "835e8858d7219051",
+  "d51f5f98df1b9307",
+  "d4af8f951c080196",
+  "ac22314c49c57eca",
+  "83e4e24cde7345b8",
+  "164d4095143cb7b4",
+  "ff26bb29cb4ca17d",
+  "6745a6d9bb1945de",
+  "e3e59a0430252913",
+  "08b0f77d48797f4a",
+  "bfa4776dce86ccb2",
+  "4f6ba5ff2cf04e6f",
+  "4a658d8d1c237cb8",
+  "cd72a4c70c69e2ee",
+  "2b30228a27654a21",
+  "9e9149ba05457633",
+  "832790b865c88bc9",
+  "37f31e50e185f52b",
+  "662e2e6abc0ad6cc",
+  "bec232ab46fb226d"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 106,
+  "checked": 106,
+  "brokenCount": 4,
+  "broken": [
+   {
+    "url": "https://legacy.www.sbir.gov/tutorials/individual-agency-requirements/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://seedfund.nsf.gov/resources/additional-resources"
+    ]
+   },
+   {
+    "url": "https://www.sbir.gov/sites/default/files/2022-06/SBIR-Table_StateMatchingPhase0_Sept2020.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://seedfund.nsf.gov/resources/additional-resources"
+    ]
+   },
+   {
+    "url": "https://seedfund.nsf.gov/centers/focus-area/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://seedfund.nsf.gov/centers/ceps/clean-low-energy-method-for-primary-magnesium-metal-production"
+    ]
+   },
+   {
+    "url": "https://www.righthandrobotics.com/",
+    "status": 520,
+    "reason": "HTTP 520",
+    "foundOn": [
+     "https://seedfund.nsf.gov/topics/robotics"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 24,
+  "deprecated-html": 6,
+  "resources": 24,
+  "images": 24,
+  "link-check": 24,
+  "alfa": 15,
+  "standards": 11,
+  "third-party": 5,
+  "plain-language": 8,
+  "public-interest": 2,
+  "security": 3,
+  "lighthouse": 2,
+  "tech": 3
+ },
+ "tally": {
+  "ok": 24,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-04T17:35:22.731Z"
+}
