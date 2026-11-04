@@ -1,0 +1,113 @@
+{
+ "runId": "2026-11-04T12-23-37-491Z-8f670c",
+ "week": "2026-W45",
+ "domain": "ncses.nsf.gov",
+ "canonical": {
+  "origin": "https://ncses.nsf.gov",
+  "configured": "https://ncses.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-04T12:23:38.044Z",
+ "scanned": [
+  "3d319b2a744c5149",
+  "6d41ea3311946c51",
+  "3c7ef910a4f07fcc",
+  "b6a900e45605903d",
+  "1de509068538445f",
+  "20baabf2e2634bac",
+  "4d13236195bb3638",
+  "35ffca02d5013413",
+  "f6a68036834aff60",
+  "34bbfdeafec34986",
+  "2825b0184f7d2740",
+  "220f122233f7d5f7",
+  "1039a0ea68dd604c",
+  "5895a6538c33f202",
+  "dc48f9eaadb220e2",
+  "ee38afc083d426f7",
+  "d735eada860d9df7",
+  "ebefd7f9216b67e2",
+  "591ff0a011b9728b"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 2280,
+  "checked": 500,
+  "brokenCount": 3,
+  "broken": [
+   {
+    "url": "https://www.bea.gov/data/gdp/gross-domestic-product%C2%A0(accessed",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb202326/figure/URD-8",
+     "https://ncses.nsf.gov/pubs/nsb202326/figure/URD-12"
+    ]
+   },
+   {
+    "url": "http://ncses.nsf.gov/sed/",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://ncses.nsf.gov/surveys/earned-doctorates/2023"
+    ]
+   },
+   {
+    "url": "https://ncses.nsf.gov/wmpd",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/surveys/earned-doctorates/2023"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 17,
+  "alfa": 9,
+  "resources": 17,
+  "images": 17,
+  "third-party": 4,
+  "lighthouse": 3,
+  "link-check": 17,
+  "deprecated-html": 3,
+  "public-interest": 5,
+  "standards": 6,
+  "plain-language": 8,
+  "sustainability": 3,
+  "security": 1,
+  "tech": 1
+ },
+ "tally": {
+  "ok": 17,
+  "blocked": 2,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 9,
+  "error": 0
+ },
+ "finishedAt": "2026-11-04T12:28:14.182Z"
+}
