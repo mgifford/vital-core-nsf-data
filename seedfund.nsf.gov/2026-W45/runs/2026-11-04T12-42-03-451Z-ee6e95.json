@@ -1,0 +1,109 @@
+{
+ "runId": "2026-11-04T12-42-03-451Z-ee6e95",
+ "week": "2026-W45",
+ "domain": "seedfund.nsf.gov",
+ "canonical": {
+  "origin": "https://seedfund.nsf.gov",
+  "configured": "https://seedfund.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-04T12:42:04.221Z",
+ "scanned": [
+  "413f6222c7ff4973",
+  "a9d04c3ee1463def",
+  "93f39093e01b69fc",
+  "139a8bac799800d9",
+  "1a5b70bf9d8f1414",
+  "9b4292c7ac0d1568",
+  "6f8cc9832bb24ce1",
+  "88b7ff6d15bfc5ef",
+  "e2e4e70929a07f0e",
+  "52d080242cf6bc75",
+  "43b7edba24c6155f",
+  "e215a830939447b9",
+  "189ce254e21e3e4c",
+  "0d062ee67a13c2c6",
+  "5ec8d4350db362e0",
+  "d030069783b72ccc",
+  "904865126051210f",
+  "782df37f3292542b",
+  "1ee5548d2fb80d39",
+  "a656769f9cc8f72f",
+  "d832050d3968dca6",
+  "0f6bad653899e38e",
+  "ed63d5a5378884d4",
+  "65538b78715222d9",
+  "fc8a3708b6ac3c28"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 121,
+  "checked": 121,
+  "brokenCount": 2,
+  "broken": [
+   {
+    "url": "https://seedfund.nsf.gov/apply/project-pitch/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://seedfund.nsf.gov/solicitation-proposal"
+    ]
+   },
+   {
+    "url": "https://techconnect.org/2026-sbir-sttr-fall-innovation-conference/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://seedfund.nsf.gov/events"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "sustainability": 2,
+  "axe": 25,
+  "alfa": 15,
+  "plain-language": 16,
+  "resources": 25,
+  "images": 25,
+  "standards": 13,
+  "third-party": 8,
+  "link-check": 25,
+  "lighthouse": 1,
+  "deprecated-html": 2,
+  "tech": 2,
+  "public-interest": 1
+ },
+ "tally": {
+  "ok": 25,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-04T12:44:53.108Z"
+}
