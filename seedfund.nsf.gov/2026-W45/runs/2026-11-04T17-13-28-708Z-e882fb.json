@@ -1,0 +1,140 @@
+{
+ "runId": "2026-11-04T17-13-28-708Z-e882fb",
+ "week": "2026-W45",
+ "domain": "seedfund.nsf.gov",
+ "canonical": {
+  "origin": "https://seedfund.nsf.gov",
+  "configured": "https://seedfund.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-04T17:13:29.433Z",
+ "scanned": [
+  "8a9fca0dc624c9a6",
+  "6d5d83fe07389d2b",
+  "0cbf349d3fa6dd86",
+  "77acf5e798e8aa1f",
+  "2f762a437ea2a394",
+  "79bfaca1b742145d",
+  "36943d8239c6ba84",
+  "5adc99e4d8f89586",
+  "be44507fafbef060",
+  "9595064e62ffe149",
+  "6b28d4867f969f57",
+  "a519833a2f6065eb",
+  "00e8a0a212ba793f",
+  "b3c24a2fc830124d",
+  "0067f7753fe36c3f",
+  "d296583f178df051",
+  "61a6f9710c187706",
+  "9d1062b11ba01fbb",
+  "7f345c97fb5fe9a8",
+  "ad9d4bbb6aff097a",
+  "06ed1e5dbea5be71",
+  "b9d8561bb162357f",
+  "a49b582735165d6b",
+  "f389af2f23c80d91",
+  "37289e6b87c5c8f3"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 148,
+  "checked": 148,
+  "brokenCount": 5,
+  "broken": [
+   {
+    "url": "http://www.cyprismaterials.com/",
+    "status": 0,
+    "reason": "EAI_AGAIN",
+    "foundOn": [
+     "https://seedfund.nsf.gov/awardees/history/details?company=cypris-materials-inc"
+    ]
+   },
+   {
+    "url": "https://www.cyprismaterials.com/",
+    "status": 0,
+    "reason": "EAI_AGAIN",
+    "foundOn": [
+     "https://seedfund.nsf.gov/news/cypris-materials"
+    ]
+   },
+   {
+    "url": "https://nsfiip.force.com/sbir",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://seedfund.nsf.gov/project-pitch/guide"
+    ]
+   },
+   {
+    "url": "https://seedfund.nsf.gov/project-pitch/guide/nsfgov.my.site.com",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://seedfund.nsf.gov/project-pitch/guide"
+    ]
+   },
+   {
+    "url": "http://www.alloyenterprises.co/",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://seedfund.nsf.gov/awardees/history/details?company=alloy-enterprises-inc"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 25,
+  "alfa": 12,
+  "plain-language": 14,
+  "resources": 25,
+  "images": 25,
+  "standards": 15,
+  "third-party": 6,
+  "link-check": 25,
+  "public-interest": 2,
+  "deprecated-html": 2,
+  "tech": 1,
+  "lighthouse": 6,
+  "security": 7
+ },
+ "tally": {
+  "ok": 25,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-04T17:17:15.582Z"
+}
