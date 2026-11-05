@@ -1,6 +1,6 @@
 {
  "domain": "seedfund.nsf.gov",
- "updatedAt": "2026-11-03T19:48:17.926Z",
+ "updatedAt": "2026-11-05T18:20:14.416Z",
  "vendors": {
   "gstatic.com": {
    "firstSeen": "2026-W43",
@@ -121,25 +121,7 @@
    "weeksSeen": 2,
    "isScriptVendor": false
   },
-  "govdelivery.com": {
-   "firstSeen": "2026-W45",
-   "lastSeen": "2026-W45",
-   "_weeks": [
-    "2026-W45"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": true
-  },
   "vumbnail.com": {
-   "firstSeen": "2026-W45",
-   "lastSeen": "2026-W45",
-   "_weeks": [
-    "2026-W45"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": false
-  },
-  "cdnfonts.com": {
    "firstSeen": "2026-W45",
    "lastSeen": "2026-W45",
    "_weeks": [
@@ -156,6 +138,33 @@
    ],
    "weeksSeen": 1,
    "isScriptVendor": true
+  },
+  "govdelivery.com": {
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": true
+  },
+  "cdnfonts.com": {
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
+  "usa.gov": {
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
   }
  }
 }

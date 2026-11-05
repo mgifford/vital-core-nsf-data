@@ -1,6 +1,6 @@
 {
  "domain": "ncses.nsf.gov",
- "updatedAt": "2026-11-04T14:45:58.435Z",
+ "updatedAt": "2026-11-05T18:20:13.159Z",
  "links": {
   "http://ncses.nsf.gov/pubs/nsf23300/": {
    "status": 0,
@@ -1761,6 +1761,45 @@
    "weeksBroken": 1,
    "foundOn": [
     "https://ncses.nsf.gov/pubs/nsb202326/infrastructure-for-academic-r-d"
+   ]
+  },
+  "https://www.whitehouse.gov/ostp/nstc/": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20226/table/SKTI-9"
+   ]
+  },
+  "https://www.economicmodeling.com/": {
+   "status": 0,
+   "reason": "ENOTFOUND",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20226/table/SKTI-9"
+   ]
+  },
+  "https://www.economicmodeling.com/data/": {
+   "status": 0,
+   "reason": "ENOTFOUND",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20226/table/SKTI-9"
    ]
   }
  }

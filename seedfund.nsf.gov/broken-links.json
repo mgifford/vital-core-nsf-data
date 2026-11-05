@@ -1,6 +1,6 @@
 {
  "domain": "seedfund.nsf.gov",
- "updatedAt": "2026-11-04T14:45:59.298Z",
+ "updatedAt": "2026-11-05T18:20:14.415Z",
  "links": {
   "https://relavomedical.com/": {
    "status": 0,
@@ -115,7 +115,9 @@
     "https://seedfund.nsf.gov/centers/ceps/novel-aerogel-based-insulation-may-transform-building-efficiency",
     "https://seedfund.nsf.gov/centers/ceps/legume-based-innovation-promises-new-stealth-health-snacks",
     "https://seedfund.nsf.gov/centers/ceps/chlorine-resistant-membranes-promise-a-new-era-for-reverse-osmosis",
-    "https://seedfund.nsf.gov/centers/ceps/innovation-sparks-life-into-hplc-detection-of-compounds"
+    "https://seedfund.nsf.gov/centers/ceps/innovation-sparks-life-into-hplc-detection-of-compounds",
+    "https://seedfund.nsf.gov/centers/ceps/clean-low-energy-method-for-primary-magnesium-metal-production",
+    "https://seedfund.nsf.gov/centers/ceps/retrofit-dehumidifiers-enhance-air-conditioner-efficiency"
    ]
   },
   "http://www.pcka.com/": {
@@ -136,26 +138,28 @@
    "status": 0,
    "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W45"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "https://seedfund.nsf.gov/next"
+    "https://seedfund.nsf.gov/"
    ]
   },
   "http://www.sigray.com/": {
-   "status": 0,
-   "reason": "UND_ERR_CONNECT_TIMEOUT",
+   "status": 404,
+   "reason": "HTTP 404",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W45"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "https://seedfund.nsf.gov/next"
+    "https://seedfund.nsf.gov/"
    ]
   },
   "https://nsf.gov/staff/staff_bio.jsp?lan=spanchan&org=EF&from_org=EF": {
@@ -723,13 +727,14 @@
    "status": 0,
    "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "https://seedfund.nsf.gov/portfolio"
+    "https://seedfund.nsf.gov/what-we-fund"
    ]
   },
   "http://www.imagenenergy.com/": {
@@ -963,7 +968,8 @@
    ],
    "weeksBroken": 1,
    "foundOn": [
-    "https://seedfund.nsf.gov/portfolio/details?company=cypris-materials-inc"
+    "https://seedfund.nsf.gov/portfolio/details?company=cypris-materials-inc",
+    "https://seedfund.nsf.gov/awardees/history/details?company=cypris-materials-inc"
    ]
   },
   "https://seedfund.nsf.gov/apply/project-pitch/": {
@@ -1016,6 +1022,97 @@
    "weeksBroken": 1,
    "foundOn": [
     "https://seedfund.nsf.gov/news/exostellar"
+   ]
+  },
+  "https://www.cyprismaterials.com/": {
+   "status": 0,
+   "reason": "EAI_AGAIN",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/news/cypris-materials"
+   ]
+  },
+  "https://nsfiip.force.com/sbir": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/project-pitch/guide"
+   ]
+  },
+  "https://seedfund.nsf.gov/project-pitch/guide/nsfgov.my.site.com": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/project-pitch/guide"
+   ]
+  },
+  "http://www.alloyenterprises.co/": {
+   "status": 0,
+   "reason": "fetch failed",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/awardees/history/details?company=alloy-enterprises-inc"
+   ]
+  },
+  "https://legacy.www.sbir.gov/tutorials/individual-agency-requirements/": {
+   "status": 0,
+   "reason": "ENOTFOUND",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/resources/additional-resources"
+   ]
+  },
+  "https://www.sbir.gov/sites/default/files/2022-06/SBIR-Table_StateMatchingPhase0_Sept2020.pdf": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/resources/additional-resources"
+   ]
+  },
+  "https://www.righthandrobotics.com/": {
+   "status": 520,
+   "reason": "HTTP 520",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/topics/robotics"
    ]
   }
  }
