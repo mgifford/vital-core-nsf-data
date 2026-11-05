@@ -1,6 +1,6 @@
 {
  "domain": "seedfund.nsf.gov",
- "updatedAt": "2026-11-02T01:50:29.176Z",
+ "updatedAt": "2026-11-05T02:49:48.836Z",
  "checker": {
   "name": "pdf-crawler",
   "url": "https://github.com/mgifford/pdf-crawler",
@@ -268,6 +268,245 @@
    },
    "errors": [
     "tables-warn, "
+   ]
+  },
+  "https://nsf-gov-resources.nsf.gov/files/SciENcvFAQs.pdf": {
+   "checkedAt": "2026-11-05T02:49:48.833Z",
+   "week": "2026-W45",
+   "httpStatus": 200,
+   "md5": "5362399f3e8f86c7e222104bf04053ac",
+   "bytes": 121639,
+   "etag": "\"1793838826-gzip\"",
+   "lastModified": "Thu, 05 Nov 2026 00:33:46 GMT",
+   "finalUrl": "https://www.nsf.gov/policies/document/faq-using-sciencv",
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "Not a PDF file: no %PDF- header"
+   ]
+  },
+  "https://seedfund.nsf.gov/assets/files/applicants/ProjectPitch.pdf": {
+   "checkedAt": "2026-11-05T02:49:48.834Z",
+   "week": "2026-W45",
+   "httpStatus": 200,
+   "md5": "ae69dc8a9f1e30faeb615154927540ab",
+   "bytes": 4019878,
+   "etag": "\"ae69dc8a9f1e30faeb615154927540ab\"",
+   "lastModified": "Thu, 01 Oct 2026 17:19:06 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": true,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": false,
+    "published": "2026-10-01",
+    "title": "Project Pitch Guide",
+    "pages": 7,
+    "words": 315,
+    "images": 45,
+    "category": null,
+    "checks": {
+     "tagged": "pass",
+     "title": "pass",
+     "language": "pass",
+     "bookmarks": "pass",
+     "taggedContent": "pass",
+     "figuresAlt": "pass",
+     "headings": "pass",
+     "lists": "pass",
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": "pass",
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": []
+  },
+  "https://seedfund.nsf.gov/assets/files/applicants/sciencv-products.pdf": {
+   "checkedAt": "2026-11-05T02:49:48.835Z",
+   "week": "2026-W45",
+   "httpStatus": 200,
+   "md5": "db7d3f6c25145b85e413cb93891ada7c",
+   "bytes": 345353,
+   "etag": "\"db7d3f6c25145b85e413cb93891ada7c\"",
+   "lastModified": "Fri, 17 Jul 2026 21:27:41 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": true,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": false,
+    "published": "2026-07-17",
+    "title": "Sciencv Biographical Sketch Workaround if there are no products to report",
+    "pages": 4,
+    "words": 69,
+    "images": 6,
+    "category": null,
+    "checks": {
+     "tagged": "pass",
+     "title": "pass",
+     "language": "pass",
+     "bookmarks": "pass",
+     "taggedContent": "pass",
+     "figuresAlt": "pass",
+     "headings": null,
+     "lists": "pass",
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": null,
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "headings-none, "
+   ]
+  },
+  "https://seedfund.nsf.gov/assets/files/awardees/SBIR_STTR_Funding_Agreement.pdf": {
+   "checkedAt": "2026-11-05T02:49:48.835Z",
+   "week": "2026-W45",
+   "httpStatus": 200,
+   "md5": "852030fc316bb54b0e1fffa33225a1ec",
+   "bytes": 280834,
+   "etag": "\"852030fc316bb54b0e1fffa33225a1ec\"",
+   "lastModified": "Fri, 27 Oct 2023 19:59:15 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": false,
+    "published": "2021-08-13",
+    "title": null,
+    "pages": 4,
+    "words": 1304,
+    "images": 0,
+    "category": null,
+    "checks": {
+     "tagged": "pass",
+     "title": "fail",
+     "language": "fail",
+     "bookmarks": "pass",
+     "taggedContent": "fail",
+     "figuresAlt": "pass",
+     "headings": null,
+     "lists": "pass",
+     "tables": "fail",
+     "forms": "fail",
+     "taggedForms": "fail",
+     "taggedAnnotations": null,
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "title, tagged-content-fail, lang, forms-fail, forms-tagging-fail, headings-none, tables-fail, "
+   ]
+  },
+  "https://seedfund.nsf.gov/assets/files/awardees/SBIR-STTR_Revised_Report_Cover.pdf": {
+   "checkedAt": "2026-11-05T02:49:48.835Z",
+   "week": "2026-W45",
+   "httpStatus": 200,
+   "md5": "c6fab4391bbfa864b42f72079839404f",
+   "bytes": 584345,
+   "etag": "\"c6fab4391bbfa864b42f72079839404f\"",
+   "lastModified": "Mon, 24 Oct 2022 20:47:33 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": false,
+    "published": "2021-08-13",
+    "title": "SMALL BUSINESS INNOVATION RESEARCH (SBIR) PHASE II REPORT COVER SHEET",
+    "pages": 3,
+    "words": 1005,
+    "images": 0,
+    "category": "Report",
+    "checks": {
+     "tagged": "pass",
+     "title": "fail",
+     "language": "pass",
+     "bookmarks": "pass",
+     "taggedContent": "fail",
+     "figuresAlt": "fail",
+     "headings": null,
+     "lists": null,
+     "tables": "fail",
+     "forms": "fail",
+     "taggedForms": "fail",
+     "taggedAnnotations": null,
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "title, tagged-content-fail, forms-fail, forms-tagging-fail, figures missing alt text (count=6), headings-none, tables-fail, "
+   ]
+  },
+  "https://www.nsf.gov/bfa/dias/policy/coa/faqs_coatemplatejan2023.pdf": {
+   "checkedAt": "2026-11-05T02:49:48.835Z",
+   "week": "2026-W45",
+   "httpStatus": 200,
+   "md5": "97611aa28b13fbc60a1b8cb129085190",
+   "bytes": 79104,
+   "etag": "\"1793831639-gzip\"",
+   "lastModified": "Wed, 04 Nov 2026 22:33:59 GMT",
+   "finalUrl": "https://www.nsf.gov/funding/senior-personnel-documents/faq/coa",
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "Not a PDF file: no %PDF- header"
+   ]
+  },
+  "https://www.nsf.gov/bfa/dias/policy/papp/pappg17_1/45cfr690118_template.pdf": {
+   "checkedAt": "2026-11-05T02:49:48.835Z",
+   "week": "2026-W45",
+   "httpStatus": 200,
+   "md5": "2bae1b628e69c7561f1ff31fd645ad28",
+   "bytes": 63136,
+   "etag": "W/\"2bae1b628e69c7561f1ff31fd645ad28\"",
+   "lastModified": "Wed, 20 Aug 2025 13:02:56 GMT",
+   "finalUrl": "https://nsf-gov-resources.nsf.gov/files/45cfr690118-template.pdf",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": true,
+    "published": "2016-11-04",
+    "title": null,
+    "pages": 1,
+    "words": 149,
+    "images": 0,
+    "category": "Policy",
+    "checks": {
+     "tagged": "pass",
+     "title": "fail",
+     "language": "pass",
+     "bookmarks": "pass",
+     "taggedContent": "pass",
+     "figuresAlt": "pass",
+     "headings": null,
+     "lists": "pass",
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": null,
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "title, headings-none, "
    ]
   }
  }
