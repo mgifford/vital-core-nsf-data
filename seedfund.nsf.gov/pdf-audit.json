@@ -1,6 +1,6 @@
 {
  "domain": "seedfund.nsf.gov",
- "updatedAt": "2026-11-05T02:49:48.836Z",
+ "updatedAt": "2026-11-06T02:50:26.942Z",
  "checker": {
   "name": "pdf-crawler",
   "url": "https://github.com/mgifford/pdf-crawler",
@@ -507,6 +507,48 @@
    },
    "errors": [
     "title, headings-none, "
+   ]
+  },
+  "https://seedfund.nsf.gov/assets/files/applicants/Fast_Track.pdf": {
+   "checkedAt": "2026-11-06T02:50:26.941Z",
+   "week": "2026-W45",
+   "httpStatus": 200,
+   "md5": "7c3405282a32bc8b99d7fe70eab97353",
+   "bytes": 1819722,
+   "etag": "\"7c3405282a32bc8b99d7fe70eab97353\"",
+   "lastModified": "Wed, 09 Oct 2024 20:17:52 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": false,
+    "published": "2024-10-08",
+    "title": "PowerPoint Presentation",
+    "pages": 35,
+    "words": 1921,
+    "images": 41,
+    "category": null,
+    "checks": {
+     "tagged": "pass",
+     "title": "pass",
+     "language": "pass",
+     "bookmarks": "pass",
+     "taggedContent": "pass",
+     "figuresAlt": "pass",
+     "headings": null,
+     "lists": "fail",
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": "pass",
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "headings-warn, lists-fail, "
    ]
   }
  }
