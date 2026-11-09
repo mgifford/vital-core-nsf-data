@@ -1,0 +1,103 @@
+{
+ "runId": "2026-11-09T19-02-49-010Z-653612",
+ "week": "2026-W46",
+ "domain": "ncses.nsf.gov",
+ "canonical": {
+  "origin": "https://ncses.nsf.gov",
+  "configured": "https://ncses.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-09T19:02:50.867Z",
+ "scanned": [
+  "29d6b132b5f35b9a",
+  "08b73285fe179544",
+  "88c8c45e03ece3fb",
+  "c9c40b77818133e1",
+  "8025a17a75046587",
+  "ded43740589fabe4",
+  "ce1a7a106ba452fd",
+  "12431d42b8ec5212",
+  "b55fdb67f0f2228a",
+  "5b722ad91a6c1f0d",
+  "f1ae1f5637786b23",
+  "b28918b850d75752",
+  "5d6a6c3b81a8d34f",
+  "c943adcbec22c6f3",
+  "9c1493a041ea7ad8",
+  "e1fa912947120b6e",
+  "ad04b94d959b8c4f",
+  "3170fff8fbb0c870",
+  "85b694d66012e1f0"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 2963,
+  "checked": 500,
+  "brokenCount": 1,
+  "broken": [
+   {
+    "url": "http://ncses.nsf.gov/sed/",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://ncses.nsf.gov/surveys/earned-doctorates/2024"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 19,
+  "alfa": 14,
+  "plain-language": 12,
+  "deprecated-html": 4,
+  "resources": 19,
+  "images": 19,
+  "link-check": 19,
+  "standards": 11,
+  "security": 2,
+  "third-party": 4,
+  "sustainability": 2,
+  "public-interest": 1,
+  "lighthouse": 3,
+  "tech": 1
+ },
+ "tally": {
+  "ok": 19,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 11,
+  "error": 0
+ },
+ "finishedAt": "2026-11-09T19:12:09.606Z"
+}
