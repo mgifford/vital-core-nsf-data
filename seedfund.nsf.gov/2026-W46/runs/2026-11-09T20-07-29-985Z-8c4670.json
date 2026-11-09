@@ -1,0 +1,108 @@
+{
+ "runId": "2026-11-09T20-07-29-985Z-8c4670",
+ "week": "2026-W46",
+ "domain": "seedfund.nsf.gov",
+ "canonical": {
+  "origin": "https://seedfund.nsf.gov",
+  "configured": "https://seedfund.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-09T20:07:30.452Z",
+ "scanned": [
+  "78382071c706666a",
+  "64b8f53d5d20fb29",
+  "67fbe2ad8d110098",
+  "8506645de2728d39",
+  "4181fbe1a22333ef",
+  "4cc737236961e315",
+  "2131ad15fab70d8f",
+  "029b04a818a33211",
+  "7b33784f155fc4b7",
+  "c53ed30e525b6058",
+  "bb7c4fb864ee8da1",
+  "32ff4b7c976cb09f",
+  "5721ba7640a963cb",
+  "a49b582735165d6b",
+  "c7366ec28bb63a96",
+  "497e1cd1a0c3670b",
+  "775c5a22f8a8a849",
+  "ab15197f4130a2cb",
+  "8f06028bd28f93c8",
+  "9afdc7467a3dee25",
+  "0f41da707ccd6c6b",
+  "0f6bad653899e38e",
+  "685668136396de13",
+  "0570e75d120fd437",
+  "e4c762a32273ef14"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 154,
+  "checked": 154,
+  "brokenCount": 1,
+  "broken": [
+   {
+    "url": "https://www.businesswire.com/news/home/20231105301024/en/Nexa3D-Announces-Intent-to-Acquire-Essentium-Adds-High-Speed-Extrusion-to-its-Product-Portfolio",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://seedfund.nsf.gov/news/essentium"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 25,
+  "alfa": 16,
+  "deprecated-html": 3,
+  "resources": 25,
+  "images": 25,
+  "standards": 15,
+  "tech": 2,
+  "link-check": 25,
+  "plain-language": 9,
+  "third-party": 8,
+  "security": 3,
+  "public-interest": 1,
+  "sustainability": 1
+ },
+ "tally": {
+  "ok": 25,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-09T20:09:53.459Z"
+}
