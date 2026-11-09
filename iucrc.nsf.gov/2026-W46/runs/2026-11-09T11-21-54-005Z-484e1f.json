@@ -1,0 +1,182 @@
+{
+ "runId": "2026-11-09T11-21-54-005Z-484e1f",
+ "week": "2026-W46",
+ "domain": "iucrc.nsf.gov",
+ "canonical": {
+  "origin": "https://iucrc.nsf.gov",
+  "configured": "https://iucrc.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-09T11:21:54.744Z",
+ "scanned": [
+  "3f548323a950c140",
+  "381a2a3c45b50df8",
+  "037d92303430ffaa",
+  "03c01f86d677fbd6",
+  "132bd42e74987681",
+  "d797819d7f930736",
+  "675bd0f705d85ad8",
+  "a2a6e3792e818890",
+  "d02babcf0e4bc563",
+  "2a4bf47cd1d4243b",
+  "3d60f0b7dd49562d",
+  "6fb1400e2198563c",
+  "9fea7791b8d00689",
+  "9875de95a5dee0fb",
+  "1969de495e88916a",
+  "7bf418d9c009a882",
+  "1c7bd59cf1ba69af",
+  "4b178a1251662af9",
+  "002fef63abed1048",
+  "d1a71ad17c2cbde1",
+  "47fb30f3fb860e81",
+  "3ce256bbb85ff714",
+  "8567f6dd7035b14f",
+  "8a2ac1988ac01f59",
+  "1290634836381462"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 307,
+  "checked": 307,
+  "brokenCount": 10,
+  "broken": [
+   {
+    "url": "https://iucrc.nsf.gov/centers/center-for-research-in-systems-and-storage-crss",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers?foc=&prifoc=1&sta=&uni="
+    ]
+   },
+   {
+    "url": "https://iucrc.nsf.gov/centers/center-for-electric-connected-and-autonomous-technologies-for-mobility-ecat",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers?foc=&prifoc=1&sta=&uni="
+    ]
+   },
+   {
+    "url": "https://iucrc.nsf.gov/centers/center-for-soil-technologies-soiltech",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers?foc=&prifoc=1&sta=&uni=",
+     "https://iucrc.nsf.gov/centers/focus-area/energy-and-environment/page/4"
+    ]
+   },
+   {
+    "url": "https://www.cimsepp.org/",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-integrated-material-science-and-engineering-of-pharmaceutical-products-cimsepp"
+    ]
+   },
+   {
+    "url": "https://www.fau.edu/engineering/eecs/research/cake/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-advanced-knowledge-enablement"
+    ]
+   },
+   {
+    "url": "http://www.netcentric.cse.unt.edu/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/net-centric-and-cloud-software-and-system"
+    ]
+   },
+   {
+    "url": "https://www.amd.com/en.html",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-advanced-semiconductor-chips-with-accelerated-performance"
+    ]
+   },
+   {
+    "url": "http://www.ststnett.no/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-cybersecurity-analytics-and-automation"
+    ]
+   },
+   {
+    "url": "http://www.clarkson.edu/citer",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-identification-technology-research"
+    ]
+   },
+   {
+    "url": "https://devel.private.id/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-identification-technology-research"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "sustainability": 4,
+  "axe": 21,
+  "resources": 21,
+  "images": 21,
+  "standards": 11,
+  "link-check": 21,
+  "plain-language": 8,
+  "deprecated-html": 3,
+  "lighthouse": 2,
+  "security": 3,
+  "public-interest": 3,
+  "alfa": 11,
+  "third-party": 2,
+  "tech": 1
+ },
+ "tally": {
+  "ok": 21,
+  "blocked": 4,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 1,
+  "error": 0
+ },
+ "finishedAt": "2026-11-09T11:24:42.349Z"
+}
