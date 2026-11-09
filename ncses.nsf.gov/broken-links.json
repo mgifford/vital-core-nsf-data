@@ -1,6 +1,6 @@
 {
  "domain": "ncses.nsf.gov",
- "updatedAt": "2026-11-05T18:20:13.159Z",
+ "updatedAt": "2026-11-09T22:41:05.332Z",
  "links": {
   "http://ncses.nsf.gov/pubs/nsf23300/": {
    "status": 0,
@@ -996,23 +996,18 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
-    "https://ncses.nsf.gov/pubs/nsb20224/table/SINV-89",
-    "https://ncses.nsf.gov/pubs/nsb20224/table/SINV-45",
-    "https://ncses.nsf.gov/pubs/nsb20224/table/SINV-85",
-    "https://ncses.nsf.gov/pubs/nsb20224/table/SINV-78",
     "https://ncses.nsf.gov/pubs/nsb20204/supplemental-tables",
-    "https://ncses.nsf.gov/pubs/nsb20224/table/SINV-39",
-    "https://ncses.nsf.gov/pubs/nsb20224/table/SINV-31",
-    "https://ncses.nsf.gov/pubs/nsb20224/data/table/SINV-25",
-    "https://ncses.nsf.gov/pubs/nsb20224/table/SINV-75",
-    "https://ncses.nsf.gov/pubs/nsb20224/table/SINV-17"
+    "https://ncses.nsf.gov/pubs/nsb20224/table/SINV-2",
+    "https://ncses.nsf.gov/pubs/nsb20224/table/SINV-91",
+    "https://ncses.nsf.gov/pubs/nsb20262"
    ]
   },
   "http://ncses.nsf.gov/search?aois=STEM+Education&query=&topics=Family+Characteristics": {
@@ -1800,6 +1795,643 @@
    "weeksBroken": 1,
    "foundOn": [
     "https://ncses.nsf.gov/pubs/nsb20226/table/SKTI-9"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsb20204/nsb20204figure-link/8-8": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20204/supplemental-tables"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsb20204/nsb20204figure-link/8-9": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20204/supplemental-tables"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsb20204/nsb20204figure-link/8-18": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20204/supplemental-tables"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsb20204/nsb20204table-link/8-1": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20204/supplemental-tables"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsb20204/nsb20204table-link/8-9": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20204/supplemental-tables"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsb20204/nsb20204table-link/S8-4": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20204/supplemental-tables"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsb20204/nsb20204table-link/S8-5": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20204/supplemental-tables"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsb20204/nsb20204table-link/S8-6": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20204/supplemental-tables"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsb20204/nsb20204table-link/S8-7": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20204/supplemental-tables"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsb20204/nsb20204table-link/S8-8": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20204/supplemental-tables"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsb20204/nsb20204table-link/S8-9": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20204/supplemental-tables"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsb20204/nsb20204table-link/S8-10": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20204/supplemental-tables"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsb20204/nsb20204table-link/S8-11": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20204/supplemental-tables"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsb20204/nsb20204table-link/S8-12": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20204/supplemental-tables"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsb20204/nsb20204table-link/S8-13": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20204/supplemental-tables"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsb20204/nsb20204table-link/S8-14": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20204/supplemental-tables"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsb20204/nsb20204table-link/S8-15": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20204/supplemental-tables"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsb20204/nsb20204table-link/S8-16": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20204/supplemental-tables"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsb20204/nsb20204table-link/S8-17": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20204/supplemental-tables"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsb20204/nsb20204table-link/S8-18": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20204/supplemental-tables"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsb20204/nsb20204table-link/S8-19": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20204/supplemental-tables"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsb20204/nsb20204table-link/S8-20": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20204/supplemental-tables"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsb20204/nsb20204table-link/S8-21": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20204/supplemental-tables"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsb20204/nsb20204table-link/S8-22": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20204/supplemental-tables"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsb20204/nsb20204table-link/S8-23": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20204/supplemental-tables"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsb20204/nsb20204table-link/S8-25": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20204/supplemental-tables"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsb20204/nsb20204table-link/S8-24": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20204/supplemental-tables"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsb20204/nsb20204table-link/S8-26": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20204/supplemental-tables"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsb20204/nsb20204table-link/S8-27": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20204/supplemental-tables"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsb20204/nsb20204table-link/S8-28": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20204/supplemental-tables"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsb20204/nsb20204table-link/S8-29": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20204/supplemental-tables"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsb20204/nsb20204table-link/S8-30": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20204/supplemental-tables"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsb20204/nsb20204table-link/S8-31": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20204/supplemental-tables"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsb20204/nsb20204table-link/S8-32": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20204/supplemental-tables"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsb20204/nsb20204table-link/S8-33": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20204/supplemental-tables"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsb20204/nsb20204table-link/S8-34": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20204/supplemental-tables"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsb20204/nsb20204table-link/S8-35": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20204/supplemental-tables"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsb20204/nsb20204table-link/S8-36": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20204/supplemental-tables"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsb20204/nsb20204table-link/S8-37": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20204/supplemental-tables"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsb20204/nsb20204table-link/S8-38": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20204/supplemental-tables"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsb20204/nsb20204table-link/S8-39": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20204/supplemental-tables"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsb20204/nsb20204table-link/S8-40": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20204/supplemental-tables"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsb20204/nsb20204table-link/S8-45": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20204/supplemental-tables"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsb20204/nsb20204table-link/S8-47": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20204/supplemental-tables"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsb20204/nsb20204table-link/S8-48": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20204/supplemental-tables"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsb20204/nsb20204table-link/S8-49": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20204/supplemental-tables"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsb20204/nsb20204table-link/S8-50": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20204/supplemental-tables"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsb20204/nsb20204table-link/S8-51": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20204/supplemental-tables"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsb20204/nsb20204table-link/S8-52": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20204/supplemental-tables"
    ]
   }
  }

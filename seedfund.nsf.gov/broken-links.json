@@ -1,6 +1,6 @@
 {
  "domain": "seedfund.nsf.gov",
- "updatedAt": "2026-11-05T18:20:14.415Z",
+ "updatedAt": "2026-11-09T22:41:06.378Z",
  "links": {
   "https://relavomedical.com/": {
    "status": 0,
@@ -138,12 +138,13 @@
    "status": 0,
    "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
     "2026-W43",
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
     "https://seedfund.nsf.gov/"
    ]
@@ -152,12 +153,13 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
     "2026-W43",
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
     "https://seedfund.nsf.gov/"
    ]
@@ -264,14 +266,14 @@
    "status": 500,
    "reason": "HTTP 500",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W46",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W46"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "https://seedfund.nsf.gov/news/ReSuture",
-    "https://seedfund.nsf.gov/showcase/news"
+    "https://seedfund.nsf.gov/news/ReSuture"
    ]
   },
   "https://time.com/collection/best-inventions-2023/6326422/wavelogix-rebel-concrete-strength-sensors/": {
@@ -503,11 +505,12 @@
    "status": 402,
    "reason": "HTTP 402",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W46",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W46"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://seedfund.nsf.gov/portfolio/details?company=lygos-inc"
    ]
@@ -1113,6 +1116,45 @@
    "weeksBroken": 1,
    "foundOn": [
     "https://seedfund.nsf.gov/topics/robotics"
+   ]
+  },
+  "http://www.iontra.com/": {
+   "status": 504,
+   "reason": "HTTP 504",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/portfolio/details?company=alligant-scientific-llc"
+   ]
+  },
+  "https://www.businesswire.com/news/home/20230612899704/en/AgTech-Plant-Health-Startup-Croptix-Announces-Milestone-Investment-Led-by-Advancing-Eco-Agriculture-AEA": {
+   "status": 0,
+   "reason": "ERR_HTTP2_STREAM_ERROR",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/news/croptix"
+   ]
+  },
+  "https://www.businesswire.com/news/home/20231105301024/en/Nexa3D-Announces-Intent-to-Acquire-Essentium-Adds-High-Speed-Extrusion-to-its-Product-Portfolio": {
+   "status": 0,
+   "reason": "ERR_HTTP2_STREAM_ERROR",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/news/essentium"
    ]
   }
  }

@@ -1,6 +1,6 @@
 {
  "domain": "par.nsf.gov",
- "updatedAt": "2026-11-02T21:55:46.691Z",
+ "updatedAt": "2026-11-09T22:41:03.853Z",
  "findings": {
   "VS-646b1e0b": {
    "engine": "Siteimprove Alfa",
@@ -9,16 +9,16 @@
    "wcag": "1.4.6",
    "severity": "Serious",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksSeen": 2,
-   "lastPagesAffected": 3,
+   "weeksSeen": 3,
+   "lastPagesAffected": 2,
    "lastAffectedPages": [
     "https://par.nsf.gov/services",
-    "https://par.nsf.gov/faq",
     "https://par.nsf.gov/contact"
    ]
   },
@@ -29,12 +29,13 @@
    "wcag": "1.4.8",
    "severity": "Moderate",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksSeen": 2,
+   "weeksSeen": 3,
    "lastPagesAffected": 1,
    "lastAffectedPages": [
     "https://par.nsf.gov/contact"
@@ -47,16 +48,16 @@
    "wcag": "2.5.5",
    "severity": "Serious",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksSeen": 2,
-   "lastPagesAffected": 3,
+   "weeksSeen": 3,
+   "lastPagesAffected": 2,
    "lastAffectedPages": [
     "https://par.nsf.gov/services",
-    "https://par.nsf.gov/faq",
     "https://par.nsf.gov/contact"
    ]
   },
@@ -67,12 +68,13 @@
    "wcag": null,
    "severity": "Serious",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksSeen": 2,
+   "weeksSeen": 3,
    "lastPagesAffected": 4,
    "lastAffectedPages": [
     "https://par.nsf.gov/services",
@@ -88,12 +90,13 @@
    "wcag": null,
    "severity": "Serious",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksSeen": 2,
+   "weeksSeen": 3,
    "lastPagesAffected": 4,
    "lastAffectedPages": [
     "https://par.nsf.gov/services",
@@ -109,12 +112,13 @@
    "wcag": null,
    "severity": "Serious",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksSeen": 2,
+   "weeksSeen": 3,
    "lastPagesAffected": 2,
    "lastAffectedPages": [
     "https://par.nsf.gov/services",
@@ -128,16 +132,16 @@
    "wcag": null,
    "severity": "Serious",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksSeen": 2,
-   "lastPagesAffected": 3,
+   "weeksSeen": 3,
+   "lastPagesAffected": 2,
    "lastAffectedPages": [
     "https://par.nsf.gov/services",
-    "https://par.nsf.gov/faq",
     "https://par.nsf.gov/contact"
    ]
   },
@@ -165,11 +169,12 @@
    "wcag": null,
    "severity": "Moderate",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "lastPagesAffected": 1,
    "lastAffectedPages": [
     "https://par.nsf.gov/services"

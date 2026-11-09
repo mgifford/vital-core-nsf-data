@@ -1,47 +1,48 @@
 {
  "domain": "iucrc.nsf.gov",
- "updatedAt": "2026-11-03T19:48:17.640Z",
+ "updatedAt": "2026-11-09T22:41:05.863Z",
  "links": {
   "https://iucrc.nsf.gov/centers/center-for-research-in-systems-and-storage-crss": {
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
-    "https://iucrc.nsf.gov/centers?foc=&prifoc=0&sta=&uni=",
-    "https://iucrc.nsf.gov/centers/focus-area/information-communication-and-computing"
+    "https://iucrc.nsf.gov/centers?foc=&prifoc=1&sta=&uni="
    ]
   },
   "https://iucrc.nsf.gov/centers/center-for-electric-connected-and-autonomous-technologies-for-mobility-ecat": {
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
-    "https://iucrc.nsf.gov/centers?foc=&prifoc=0&sta=&uni=",
-    "https://iucrc.nsf.gov/centers/focus-area/information-communication-and-computing"
+    "https://iucrc.nsf.gov/centers?foc=&prifoc=1&sta=&uni="
    ]
   },
   "https://chapulfarms.com/chapul-farms": {
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
     "https://iucrc.nsf.gov/centers/center-for-insect-biomanufacturing-and-innovation-cibi"
    ]
@@ -50,11 +51,12 @@
    "status": 0,
    "reason": "ECONNRESET",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W46",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W46"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://iucrc.nsf.gov/universities/solicitation/cost-sharing-program-income-archive"
    ]
@@ -63,11 +65,12 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W46",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W46"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://iucrc.nsf.gov/universities/solicitation/cost-sharing-program-income-archive"
    ]
@@ -76,12 +79,13 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
     "https://iucrc.nsf.gov/centers/center-for-surveillance-research"
    ]
@@ -90,17 +94,18 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
-    "https://iucrc.nsf.gov/centers?foc=&prifoc=0&sta=&uni=",
+    "https://iucrc.nsf.gov/centers?foc=&prifoc=1&sta=&uni=",
+    "https://iucrc.nsf.gov/centers/focus-area/energy-and-environment/page/4",
     "https://iucrc.nsf.gov/centers/focus-area/energy-and-environment",
     "https://iucrc.nsf.gov/centers/focus-area/energy-and-environment/page/2",
-    "https://iucrc.nsf.gov/centers/focus-area/energy-and-environment/page/4",
     "https://iucrc.nsf.gov/centers/focus-area/energy-and-environment/page/3"
    ]
   },
@@ -121,12 +126,13 @@
    "status": 0,
    "reason": "ENOTFOUND",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
     "https://iucrc.nsf.gov/centers/net-centric-and-cloud-software-and-system"
    ]
@@ -148,12 +154,13 @@
    "status": 0,
    "reason": "ENOTFOUND",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
     "https://iucrc.nsf.gov/centers/center-for-big-data-learning"
    ]
@@ -240,12 +247,13 @@
    "status": 0,
    "reason": "UND_ERR_CONNECT_TIMEOUT",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
     "https://iucrc.nsf.gov/centers/center-for-hybrid-multicore-productivity-research"
    ]
@@ -254,15 +262,16 @@
    "status": 0,
    "reason": "ERR_HTTP2_STREAM_ERROR",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
-    "https://iucrc.nsf.gov/centers/center-for-intelligent-distributed-embedded-applications-and-systems-ideas",
-    "https://iucrc.nsf.gov/centers/center-for-advanced-semiconductor-chips-with-accelerated-performance"
+    "https://iucrc.nsf.gov/centers/center-for-advanced-semiconductor-chips-with-accelerated-performance",
+    "https://iucrc.nsf.gov/centers/center-for-intelligent-distributed-embedded-applications-and-systems-ideas"
    ]
   },
   "http://www.ccomc.rutgers.edu/": {
@@ -282,12 +291,13 @@
    "status": 0,
    "reason": "timeout",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
     "https://iucrc.nsf.gov/centers/center-for-hardware-and-embedded-system-security-and-trust"
    ]
@@ -296,12 +306,13 @@
    "status": 500,
    "reason": "HTTP 500",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
     "https://iucrc.nsf.gov/centers/center-for-tire-research"
    ]
@@ -365,12 +376,13 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
     "https://iucrc.nsf.gov/centers/achievements/firebench"
    ]
@@ -379,12 +391,13 @@
    "status": 0,
    "reason": "ENOTFOUND",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
     "https://iucrc.nsf.gov/centers/center-for-cybersecurity-analytics-and-automation"
    ]
@@ -393,11 +406,12 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W46",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W46"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://iucrc.nsf.gov/centers/sustainably-integrated-buildings-and-sites"
    ]
@@ -406,11 +420,12 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W46",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W46"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://iucrc.nsf.gov/centers/geomechanics-and-mitigation-of-geohazard"
    ]
@@ -419,12 +434,13 @@
    "status": 0,
    "reason": "ERR_HTTP2_STREAM_ERROR",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
     "https://iucrc.nsf.gov/centers/center-for-weather-innovation-smart-energy-and-resilience-wiser"
    ]
@@ -433,12 +449,13 @@
    "status": 0,
    "reason": "UND_ERR_CONNECT_TIMEOUT",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
     "https://iucrc.nsf.gov/centers/center-for-weather-innovation-smart-energy-and-resilience-wiser"
    ]
@@ -447,12 +464,13 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
     "https://iucrc.nsf.gov/universities/solicitation"
    ]
@@ -461,12 +479,13 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
     "https://iucrc.nsf.gov/universities/solicitation"
    ]
@@ -501,12 +520,13 @@
    "status": 0,
    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
     "https://iucrc.nsf.gov/centers/center-for-integrated-material-science-and-engineering-of-pharmaceutical-products-cimsepp"
    ]
@@ -529,12 +549,13 @@
    "status": 0,
    "reason": "CERT_HAS_EXPIRED",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
     "https://iucrc.nsf.gov/centers/efficient-vehicles-and-sustainable-transportation-systems"
    ]
@@ -543,11 +564,12 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W46",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W46"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://iucrc.nsf.gov/centers/achievements/membrane-based-technologies"
    ]
@@ -582,12 +604,13 @@
    "status": 0,
    "reason": "ENOTFOUND",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
     "https://iucrc.nsf.gov/centers/center-for-spatiotemporal-thinking-computing-and-applications"
    ]
@@ -596,12 +619,13 @@
    "status": 0,
    "reason": "ERR_SSL_TLSV1_ALERT_INTERNAL_ERROR",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
     "https://iucrc.nsf.gov/centers/center-for-spatiotemporal-thinking-computing-and-applications"
    ]
@@ -623,12 +647,13 @@
    "status": 0,
    "reason": "ERR_HTTP2_STREAM_ERROR",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
     "https://iucrc.nsf.gov/centers/integrated-power-management-circuits-and-systems---power-one-ic"
    ]
@@ -637,11 +662,12 @@
    "status": 0,
    "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W46",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W46"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://iucrc.nsf.gov/centers/center-for-the-integration-of-composites-into-infrastructure"
    ]
@@ -715,25 +741,26 @@
    "status": 0,
    "reason": "UND_ERR_CONNECT_TIMEOUT",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "https://iucrc.nsf.gov/centers/center-for-advanced-subsurface-earth-resource-models",
-    "https://iucrc.nsf.gov/centers/center-to-advance-the-science-of-exploration-to-reclamation-in-mining-caserm"
+    "https://iucrc.nsf.gov/centers/center-for-advanced-subsurface-earth-resource-models"
    ]
   },
   "http://fiwin.ece.gatech.edu/Index.htm": {
    "status": 0,
    "reason": "ENOTFOUND",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://iucrc.nsf.gov/centers/fiber-wireless-integration-and-networking-for-heterogeneous-mobile-data-communications"
    ]
@@ -742,14 +769,14 @@
    "status": 0,
    "reason": "UND_ERR_CONNECT_TIMEOUT",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "https://iucrc.nsf.gov/centers/center-for-advanced-subsurface-earth-resource-models",
-    "https://iucrc.nsf.gov/centers/center-to-advance-the-science-of-exploration-to-reclamation-in-mining-caserm"
+    "https://iucrc.nsf.gov/centers/center-for-advanced-subsurface-earth-resource-models"
    ]
   },
   "https://www.usace.army.mil/": {
@@ -769,11 +796,12 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://iucrc.nsf.gov/centers/center-on-pervasive-personalized-intelligence-ppi"
    ]
@@ -782,11 +810,12 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://iucrc.nsf.gov/centers/center-on-pervasive-personalized-intelligence-ppi"
    ]
@@ -808,11 +837,12 @@
    "status": 0,
    "reason": "ERR_HTTP2_STREAM_ERROR",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://iucrc.nsf.gov/centers/center-for-infrastructure-trustworthiness-in-energy-systems-cites"
    ]
@@ -821,11 +851,12 @@
    "status": 0,
    "reason": "ERR_HTTP2_STREAM_ERROR",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://iucrc.nsf.gov/centers/wind-energy-science-technology-and-research"
    ]
@@ -834,11 +865,12 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://iucrc.nsf.gov/centers/wind-energy-science-technology-and-research"
    ]
@@ -847,11 +879,12 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://iucrc.nsf.gov/centers/center-for-big-data-learning"
    ]
@@ -860,11 +893,12 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://iucrc.nsf.gov/centers/center-for-big-data-learning"
    ]
@@ -873,11 +907,12 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://iucrc.nsf.gov/centers/center-for-big-data-learning"
    ]
@@ -886,11 +921,12 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://iucrc.nsf.gov/centers/center-for-big-data-learning"
    ]
@@ -899,11 +935,12 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://iucrc.nsf.gov/centers/center-for-big-data-learning"
    ]
@@ -912,11 +949,12 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://iucrc.nsf.gov/centers/center-for-big-data-learning"
    ]
@@ -925,11 +963,12 @@
    "status": 502,
    "reason": "HTTP 502",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://iucrc.nsf.gov/centers/center-for-bioplastics-and-biocomposites"
    ]
@@ -938,11 +977,12 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://iucrc.nsf.gov/centers/center-for-identification-technology-research"
    ]
@@ -951,11 +991,12 @@
    "status": 0,
    "reason": "ENOTFOUND",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://iucrc.nsf.gov/centers/center-for-identification-technology-research"
    ]
@@ -1010,6 +1051,71 @@
    "weeksBroken": 1,
    "foundOn": [
     "https://iucrc.nsf.gov/centers/membrane-engineering-science-and-technology-center"
+   ]
+  },
+  "https://www.fau.edu/engineering/eecs/research/cake/": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://iucrc.nsf.gov/centers/center-for-advanced-knowledge-enablement"
+   ]
+  },
+  "https://www.usgs.gov/": {
+   "status": 0,
+   "reason": "timeout",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://iucrc.nsf.gov/centers/center-for-spatiotemporal-thinking-computing-and-applications"
+   ]
+  },
+  "https://www.lanl.gov/": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://iucrc.nsf.gov/centers/center-for-advanced-non-ferrous-structural-alloy"
+   ]
+  },
+  "https://www.lockheedmartin.com/": {
+   "status": 0,
+   "reason": "fetch failed",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://iucrc.nsf.gov/centers/wildfire-interdisciplinary-research-center-wirc"
+   ]
+  },
+  "https://www.raytheon.com/cyber": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://iucrc.nsf.gov/centers/center-for-hardware-and-embedded-system-security-and-trust"
    ]
   }
  }

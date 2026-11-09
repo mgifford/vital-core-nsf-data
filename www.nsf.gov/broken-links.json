@@ -1,6 +1,6 @@
 {
  "domain": "www.nsf.gov",
- "updatedAt": "2026-11-05T18:20:11.193Z",
+ "updatedAt": "2026-11-09T22:41:03.686Z",
  "links": {
   "https://www.nsf.gov/pubs/2022/nsf22527/nsf22527.htm": {
    "status": 404,
@@ -19,62 +19,53 @@
    "status": 0,
    "reason": "ECONNRESET",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
     "2026-W43",
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksBroken": 3,
+   "weeksBroken": 4,
    "foundOn": [
-    "https://www.nsf.gov/funding/opportunities/ecdi-nsfvmware-partnership-edge-computing-data-infrastructure/505509/nsf18-540/solicitation",
-    "https://www.nsf.gov/funding/opportunities/icob-international-collaborations-organismal-biology-between-us/504768/nsf12-577/solicitation",
-    "https://www.nsf.gov/funding/opportunities/sbe-doctoral-dissertation-research-improvement-grants/13453/nsf11-547/solicitation",
-    "https://www.nsf.gov/funding/opportunities/crifmu-chemistry-research-instrumentation-facilities-departmental/13579/nsf09-546/solicitation",
-    "https://www.nsf.gov/funding/opportunities/dusel-deep-underground-science-engineering-laboratory/500072/nsf06-614/solicitation",
-    "https://www.nsf.gov/funding/opportunities/earthscope/501035/nsf13-562/solicitation",
-    "https://www.nsf.gov/funding/opportunities/ari-joint-domestic-nuclear-detection-office-national-science/503223/nsf13-554/solicitation",
-    "https://www.nsf.gov/funding/opportunities/fia-future-internet-architectures/503476/nsf10-528/solicitation",
-    "https://www.nsf.gov/funding/opportunities/nrdz-spectrum-innovation-initiative-national-radio-dynamic-zones/505788/nsf21-558/solicitation",
-    "https://www.nsf.gov/funding/opportunities/opportunities-enhancing-diversity-geosciences/12726/nsf10-599/solicitation"
+    "https://www.nsf.gov/funding/opportunities/cosee-centers-ocean-sciences-education-excellence/5511/nsf10-527/solicitation",
+    "https://www.nsf.gov/funding/opportunities/dmsnlm-joint-dmsnlm-initiative-generalizable-data-science-methods/505604/nsf19-500/solicitation",
+    "https://www.nsf.gov/funding/opportunities/management-operation-ocean-observatories-initiative/505222/nsf17-524/solicitation",
+    "https://www.nsf.gov/funding/opportunities/neuronex-next-generation-networks-neuroscience/505603/nsf19-563/solicitation",
+    "https://www.nsf.gov/funding/opportunities/msi-atmospheric-sciences-mid-size-infrastructure-opportunity/503157/nsf07-602/solicitation",
+    "https://www.nsf.gov/funding/opportunities/nsf-iss-transport-phenomena-research-international-space-station/505258/nsf22-539/solicitation"
    ]
   },
   "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf18045&org=NSF": {
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
     "2026-W43",
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
-    "https://www.nsf.gov/funding/opportunities/ecdi-nsfvmware-partnership-edge-computing-data-infrastructure/505509/nsf18-540/solicitation"
+    "https://www.nsf.gov/funding/opportunities/management-operation-ocean-observatories-initiative/505222/nsf17-524/solicitation"
    ]
   },
   "https://www.nsf.gov/policies/SOR_PA_NSF-50_Principal_Investigator_Proposal_File.pdf": {
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
     "2026-W43",
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksBroken": 3,
+   "weeksBroken": 4,
    "foundOn": [
-    "https://www.nsf.gov/funding/opportunities/ecdi-nsfvmware-partnership-edge-computing-data-infrastructure/505509/nsf18-540/solicitation",
-    "https://www.nsf.gov/funding/opportunities/icob-international-collaborations-organismal-biology-between-us/504768/nsf12-577/solicitation",
-    "https://www.nsf.gov/funding/opportunities/sbe-doctoral-dissertation-research-improvement-grants/13453/nsf11-547/solicitation",
-    "https://www.nsf.gov/funding/opportunities/earthscope/501035/nsf13-562/solicitation",
-    "https://www.nsf.gov/funding/opportunities/ari-joint-domestic-nuclear-detection-office-national-science/503223/nsf13-554/solicitation",
-    "https://www.nsf.gov/funding/opportunities/opportunities-enhancing-diversity-geosciences/12726/nsf10-599/solicitation",
-    "https://www.nsf.gov/funding/opportunities/ncclcs-epansf-networks-characterizing-chemical-life-cycle/504811/nsf13-524/solicitation",
-    "https://www.nsf.gov/funding/opportunities/antarctic-research/5519/nsf16-541/solicitation",
-    "https://www.nsf.gov/funding/opportunities/rii-c2-epscor-research-infrastructure-improvement-program-inter/5672/nsf10-598/solicitation",
-    "https://www.nsf.gov/funding/opportunities/earthscope/501035/nsf14-552/solicitation"
+    "https://www.nsf.gov/funding/opportunities/dmsnlm-joint-dmsnlm-initiative-generalizable-data-science-methods/505604/nsf19-500/solicitation",
+    "https://www.nsf.gov/funding/opportunities/management-operation-ocean-observatories-initiative/505222/nsf17-524/solicitation"
    ]
   },
   "https://nsf.zoomgov.com/webinar/register/WN_sbmbd-I8TYGYnjlNyzX22g": {
@@ -379,15 +370,17 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W46",
    "_weeks": [
     "2026-W43",
-    "2026-W44"
+    "2026-W44",
+    "2026-W46"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
-    "https://www.nsf.gov/funding/opportunities/earthcube/504780/nsf20-520/solicitation",
-    "https://www.nsf.gov/funding/opportunities/ctgc-cultural-transformation-geoscience-community/506003/nsf23-539/solicitation"
+    "https://www.nsf.gov/funding/opportunities/dmsnlm-joint-dmsnlm-initiative-generalizable-data-science-methods/505604/nsf19-500/solicitation",
+    "https://www.nsf.gov/funding/opportunities/neuronex-next-generation-networks-neuroscience/505603/nsf19-563/solicitation",
+    "https://www.nsf.gov/funding/opportunities/nsf-iss-transport-phenomena-research-international-space-station/505258/nsf22-539/solicitation"
    ]
   },
   "https://nsf.zoomgov.com/webinar/register/WN_KV4lI3dCQsyp-2D2K1a4mQ": {
@@ -667,24 +660,19 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
     "2026-W43",
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksBroken": 3,
+   "weeksBroken": 4,
    "foundOn": [
-    "https://www.nsf.gov/funding/opportunities/icob-international-collaborations-organismal-biology-between-us/504768/nsf12-577/solicitation",
-    "https://www.nsf.gov/funding/opportunities/sbe-doctoral-dissertation-research-improvement-grants/13453/nsf11-547/solicitation",
-    "https://www.nsf.gov/funding/opportunities/crifmu-chemistry-research-instrumentation-facilities-departmental/13579/nsf09-546/solicitation",
-    "https://www.nsf.gov/funding/opportunities/earthscope/501035/nsf13-562/solicitation",
-    "https://www.nsf.gov/funding/opportunities/ari-joint-domestic-nuclear-detection-office-national-science/503223/nsf13-554/solicitation",
-    "https://www.nsf.gov/funding/opportunities/fia-future-internet-architectures/503476/nsf10-528/solicitation",
-    "https://www.nsf.gov/funding/opportunities/opportunities-enhancing-diversity-geosciences/12726/nsf10-599/solicitation",
-    "https://www.nsf.gov/funding/opportunities/nsf-iss-transport-phenomena-research-international-space-station/505258/nsf20-501/solicitation",
-    "https://www.nsf.gov/funding/opportunities/ncclcs-epansf-networks-characterizing-chemical-life-cycle/504811/nsf13-524/solicitation",
-    "https://www.nsf.gov/funding/opportunities/csr-computer-systems-research/13385/nsf08-538/solicitation"
+    "https://www.nsf.gov/funding/opportunities/cosee-centers-ocean-sciences-education-excellence/5511/nsf10-527/solicitation",
+    "https://www.nsf.gov/funding/opportunities/dcl-research-experience-teachers-ret-funding-opportunity/nsf12-075",
+    "https://www.nsf.gov/funding/opportunities/msi-atmospheric-sciences-mid-size-infrastructure-opportunity/503157/nsf07-602/solicitation",
+    "https://www.nsf.gov/funding/opportunities/nsf-iss-transport-phenomena-research-international-space-station/505258/nsf22-539/solicitation"
    ]
   },
   "https://www.nsf.gov/pubs/2014/nsf14043/nsf14043.pdf": {
@@ -1776,6 +1764,592 @@
     "https://www.nsf.gov/funding/opportunities/opportunities-enhancing-diversity-geosciences/12726/nsf10-599/solicitation",
     "https://www.nsf.gov/funding/opportunities/ncclcs-epansf-networks-characterizing-chemical-life-cycle/504811/nsf13-524/solicitation",
     "https://www.nsf.gov/funding/opportunities/rii-c2-epscor-research-infrastructure-improvement-program-inter/5672/nsf10-598/solicitation"
+   ]
+  },
+  "https://allocations.access-ci.org/resource-providers": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.nsf.gov/funding/opportunities/advanced-computing-systems-services-adapting-rapid-evolution/nsf23-518/solicitation"
+   ]
+  },
+  "https://www.whitehouse.gov/wp-content/uploads/2021/10/National-Strategic-Computing-Reserve-Blueprint-Oct2021.pdf": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.nsf.gov/funding/opportunities/advanced-computing-systems-services-adapting-rapid-evolution/nsf23-518/solicitation"
+   ]
+  },
+  "https://www.saferfederalworkforce.gov/contractors/": {
+   "status": 0,
+   "reason": "ENOTFOUND",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.nsf.gov/funding/opportunities/advanced-computing-systems-services-adapting-rapid-evolution/nsf23-518/solicitation"
+   ]
+  },
+  "https://www.whitehouse.gov/wp-content/uploads/2022/08/08-2022-OSTP-Public-Access-Memo.pdf": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.nsf.gov/funding/information/dcl-update-division-earth-sciences-ear-data-sample-policy"
+   ]
+  },
+  "https://www.whitehouse.gov/ostp/news-updates/2023/01/11/fact-sheet-biden-harris-administration-announces-new-actions-to-advance-open-and-equitable-research/": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.nsf.gov/funding/information/dcl-update-division-earth-sciences-ear-data-sample-policy"
+   ]
+  },
+  "https://nsf.zoomgov.com/webinar/register/WN_04wnUh83T8Sp4TB12WkK_w": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.nsf.gov/events/cybertraining-nsf-19-524-webinar"
+   ]
+  },
+  "https://www.nsf.gov/funding/opportunities/nsf-ocean-observatories-initiative-facility-board/505492/nsf24-557/editEligInfo.do?dispatch=display&pubID=158052&back=true": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.nsf.gov/funding/opportunities/nsf-ocean-observatories-initiative-facility-board/505492/nsf24-557/solicitation"
+   ]
+  },
+  "https://www.nsf.gov/geo/oce/programs/ooi/ooifb-tor.jsp": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.nsf.gov/funding/opportunities/nsf-ocean-observatories-initiative-facility-board/505492/nsf24-557/solicitation"
+   ]
+  },
+  "http://ieeexplore.ieee.org/xpl/login.jsp?reload=true&tp=&arnumber=6760966&url=http%3A%2F%2Fieeexplore.ieee.org%2Fiel7%2F6749719%2F6759837%2F06760966.pdf%3Farnumber%3D6760966": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.nsf.gov/news/artificial-brains-learn-adapt"
+   ]
+  },
+  "http://www.nsf.gov/brainpower": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.nsf.gov/news/artificial-brains-learn-adapt"
+   ]
+  },
+  "http://doi.org/10.5334/dsj-2020-043": {
+   "status": 0,
+   "reason": "UND_ERR_CONNECT_TIMEOUT",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.nsf.gov/funding/information/dcl-update-division-earth-sciences-ear-data-sample-policy"
+   ]
+  },
+  "https://www.nsf.gov/edu/Videos/2023STEMEdIPRFWebinars.jsp": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.nsf.gov/events/webinars-virtual-office-hours-september-16-november-25-2024"
+   ]
+  },
+  "http://www.nsf.gov/pubs/2007/nsf07016/nsf07016.jsp": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.nsf.gov/funding/opportunities/pscic-plant-science-cyberinfrastructure-collaborative/13704/nsf06-594"
+   ]
+  },
+  "http://nifa.usda.gov/indirect-costs": {
+   "status": 0,
+   "reason": "ERR_HTTP2_STREAM_ERROR",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.nsf.gov/funding/opportunities/plant-biotic-interactions/nsf20-576/solicitation"
+   ]
+  },
+  "https://www.nsf.gov/pubs/issuances/in147.jsp": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.nsf.gov/funding/opportunities/plant-biotic-interactions/nsf20-576/solicitation"
+   ]
+  },
+  "https://www.ree.usda.gov/sites/www.ree.usda.gov/files/2017-08/2016USDA_%20REEProgressReportR2.pdf": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.nsf.gov/funding/opportunities/plant-biotic-interactions/nsf20-576/solicitation"
+   ]
+  },
+  "https://www.fastlane.nsf.gov/documents/sfr/sfr.jsp": {
+   "status": 0,
+   "reason": "ECONNRESET",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.nsf.gov/funding/opportunities/plant-biotic-interactions/nsf20-576/solicitation"
+   ]
+  },
+  "https://nifa.usda.gov/grant-payments": {
+   "status": 0,
+   "reason": "ERR_HTTP2_STREAM_ERROR",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.nsf.gov/funding/opportunities/plant-biotic-interactions/nsf20-576/solicitation"
+   ]
+  },
+  "http://nifa.usda.gov/federal-regulations": {
+   "status": 0,
+   "reason": "ERR_HTTP2_STREAM_ERROR",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.nsf.gov/funding/opportunities/plant-biotic-interactions/nsf20-576/solicitation"
+   ]
+  },
+  "http://nifa.usda.gov/policy-guide": {
+   "status": 0,
+   "reason": "ERR_HTTP2_STREAM_ERROR",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.nsf.gov/funding/opportunities/plant-biotic-interactions/nsf20-576/solicitation"
+   ]
+  },
+  "http://nifa.usda.gov/responsible-and-ethical-conduct-research": {
+   "status": 0,
+   "reason": "ERR_HTTP2_STREAM_ERROR",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.nsf.gov/funding/opportunities/plant-biotic-interactions/nsf20-576/solicitation"
+   ]
+  },
+  "https://www.nsf.gov/nsf/ere": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.nsf.gov/news/antarctic-ices-deep-past-shows-it-could-be-more-vulnerable"
+   ]
+  },
+  "http://www.nifa.usda.gov/business/awards/awardterms.html": {
+   "status": 0,
+   "reason": "timeout",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.nsf.gov/funding/opportunities/plant-biotic-interactions/nsf20-576/solicitation"
+   ]
+  },
+  "http://www.nifa.usda.gov/": {
+   "status": 0,
+   "reason": "timeout",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.nsf.gov/funding/opportunities/plant-biotic-interactions/nsf20-576/solicitation",
+    "https://www.nsf.gov/funding/opportunities/cps-cyberphysical-systems/503286/nsf24-581/solicitation"
+   ]
+  },
+  "https://nsf.zoomgov.com/meeting/register/vJItcuCgpzwrGI3Yf1OrBf9KmsUJ2lIlk4I%20": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.nsf.gov/events/nsfche-virtual-office-hour-nsfche-award-reporting-grant/2023-04-14"
+   ]
+  },
+  "https://nsf.zoomgov.com/webinar/register/WN_EOCj33z3RmS8NkrV8XBCQg": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.nsf.gov/events/e-core-office-hours/2025-04-14"
+   ]
+  },
+  "https://nsf.zoomgov.com/webinar/register/WN_frV_rcZCSlCwkOuImkOnow": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.nsf.gov/events/e-core-office-hours/2025-04-14"
+   ]
+  },
+  "https://nsf.zoomgov.com/webinar/register/WN_NhbpAGQsQoShWuzB16oIFA": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.nsf.gov/events/e-core-office-hours/2025-04-14"
+   ]
+  },
+  "https://nsf.zoomgov.com/webinar/register/WN_NEBRq2VdSl-j_1xpd8W--A": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.nsf.gov/events/e-core-office-hours/2025-04-14"
+   ]
+  },
+  "https://nsf.zoomgov.com/webinar/register/WN_WCTw1hnPR4ijv4nBl70uRw": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.nsf.gov/events/e-core-office-hours/2025-04-14"
+   ]
+  },
+  "https://www.gida-global.org/care": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.nsf.gov/funding/opportunities/fairos-findable-accessible-interoperable-reusable-open-science/nsf25-533/solicitation"
+   ]
+  },
+  "http://www.inside.nsf.gov/pubs/pam/pam0409/0409.pdf": {
+   "status": 0,
+   "reason": "ENOTFOUND",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.nsf.gov/funding/opportunities/cosee-centers-ocean-sciences-education-excellence/5511/nsf10-527/solicitation"
+   ]
+  },
+  "https://nsf.zoomgov.com/webinar/register/WN_6X1-8CoaTiu7JFCHKv2T6Q": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.nsf.gov/events/research-experiences-teachers-ret-engineering-computer/2021-09-17"
+   ]
+  },
+  "https://nsf.zoomgov.com/webinar/register/WN_YE5e02_PQmCfRUQgCEw1bA": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.nsf.gov/events/paleo-perspectives-present-projected-climate-p4climate"
+   ]
+  },
+  "http://www.cosee.net/": {
+   "status": 0,
+   "reason": "UND_ERR_CONNECT_TIMEOUT",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.nsf.gov/funding/opportunities/cosee-centers-ocean-sciences-education-excellence/5511/nsf10-527/solicitation"
+   ]
+  },
+  "https://www.nsf.gov/geo/oce/pubs/nsf-oce-sea-change-reply-may-11-2015.pdf": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.nsf.gov/funding/opportunities/management-operation-ocean-observatories-initiative/505222/nsf17-524/solicitation"
+   ]
+  },
+  "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=papph": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.nsf.gov/funding/opportunities/management-operation-ocean-observatories-initiative/505222/nsf17-524/solicitation"
+   ]
+  },
+  "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf14043": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.nsf.gov/funding/opportunities/management-operation-ocean-observatories-initiative/505222/nsf17-524/solicitation"
+   ]
+  },
+  "http://oceanleadership.org/files/OOI_Science_Plan.pdf": {
+   "status": 0,
+   "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.nsf.gov/funding/opportunities/management-operation-ocean-observatories-initiative/505222/nsf17-524/solicitation"
+   ]
+  },
+  "https://uscode.house.gov/view.xhtml?req=(title:7%20section:3310%20edition:prelim)%20OR%20(granuleid:USC-prelim-title7-section3310)&f=treesort&edition=prelim&num=0&jumpTo=true": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.nsf.gov/funding/opportunities/cps-cyberphysical-systems/503286/nsf24-581/solicitation"
+   ]
+  },
+  "http://oceanobservatories.org/": {
+   "status": 0,
+   "reason": "UND_ERR_CONNECT_TIMEOUT",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.nsf.gov/funding/opportunities/management-operation-ocean-observatories-initiative/505222/nsf17-524/solicitation"
+   ]
+  },
+  "https://www.nsf.gov/cise/bpc": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.nsf.gov/funding/opportunities/cps-cyberphysical-systems/503286/nsf24-581/solicitation"
+   ]
+  },
+  "https://uscode.house.gov/view.xhtml?req=(title:7%20section:3157%20edition:prelim)%20OR%20(granuleid:USC-prelim-title7-section3157)&f=treesort&edition=prelim&num=0&jumpTo=true": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.nsf.gov/funding/opportunities/cps-cyberphysical-systems/503286/nsf24-581/solicitation"
+   ]
+  },
+  "https://nifa.usda.gov/resource/data-management-plan-nifa-funded-research-projects": {
+   "status": 0,
+   "reason": "ERR_HTTP2_STREAM_ERROR",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.nsf.gov/funding/opportunities/cps-cyberphysical-systems/503286/nsf24-581/solicitation"
+   ]
+  },
+  "https://nifa.usda.gov/responsible-and-ethical-conduct-research": {
+   "status": 0,
+   "reason": "ERR_HTTP2_STREAM_ERROR",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.nsf.gov/funding/opportunities/cps-cyberphysical-systems/503286/nsf24-581/solicitation"
    ]
   }
  }
