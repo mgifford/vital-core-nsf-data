@@ -1,0 +1,357 @@
+{
+ "runId": "2026-11-09T17-24-26-497Z-210122",
+ "week": "2026-W46",
+ "domain": "www.nsf.gov",
+ "canonical": {
+  "origin": "https://www.nsf.gov",
+  "configured": "https://www.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-09T17:24:26.914Z",
+ "scanned": [
+  "fedc2acd474f75e1",
+  "e715b217564820b4",
+  "bb79248a348917ab",
+  "bfcce892aa47be1b",
+  "48875b6deab74b85",
+  "4b98f04de866f264",
+  "19f1f93ca03747ae",
+  "403b439b117a14eb",
+  "4d63ad1cd1763513",
+  "76ea82207a68ca95",
+  "b373340f5dd58b54",
+  "41144b411bbfcd6d",
+  "165d980fc5b5b1f4",
+  "7148e901dcb8be67",
+  "9816885478643e3d",
+  "dbd66f25bfce9c59",
+  "f8883bad3b42e1f5",
+  "51de7f4dc28f8dcc",
+  "d79059fc6cd47287",
+  "33af211a5ae2861a",
+  "4abcb21e520dacd5",
+  "5670b60531b34ef6",
+  "0359860491bbaaa0",
+  "a2a036c207960c2e",
+  "64d4ac9378259cbb"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 368,
+  "checked": 368,
+  "brokenCount": 32,
+  "broken": [
+   {
+    "url": "https://www.nsf.gov/geo/oce/pubs/nsf-oce-sea-change-reply-may-11-2015.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/management-operation-ocean-observatories-initiative/505222/nsf17-524/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=papph",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/management-operation-ocean-observatories-initiative/505222/nsf17-524/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf14043",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/management-operation-ocean-observatories-initiative/505222/nsf17-524/solicitation"
+    ]
+   },
+   {
+    "url": "http://oceanleadership.org/files/OOI_Science_Plan.pdf",
+    "status": 0,
+    "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/management-operation-ocean-observatories-initiative/505222/nsf17-524/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.fastlane.nsf.gov/a1/newstan.htm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/management-operation-ocean-observatories-initiative/505222/nsf17-524/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf18045&org=NSF",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/management-operation-ocean-observatories-initiative/505222/nsf17-524/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/policies/SOR_PA_NSF-50_Principal_Investigator_Proposal_File.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/management-operation-ocean-observatories-initiative/505222/nsf17-524/solicitation"
+    ]
+   },
+   {
+    "url": "https://uscode.house.gov/view.xhtml?req=(title:7%20section:3310%20edition:prelim)%20OR%20(granuleid:USC-prelim-title7-section3310)&f=treesort&edition=prelim&num=0&jumpTo=true",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/cps-cyberphysical-systems/503286/nsf24-581/solicitation"
+    ]
+   },
+   {
+    "url": "http://oceanobservatories.org/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/management-operation-ocean-observatories-initiative/505222/nsf17-524/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/cise/bpc",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/cps-cyberphysical-systems/503286/nsf24-581/solicitation"
+    ]
+   },
+   {
+    "url": "https://uscode.house.gov/view.xhtml?req=(title:7%20section:3157%20edition:prelim)%20OR%20(granuleid:USC-prelim-title7-section3157)&f=treesort&edition=prelim&num=0&jumpTo=true",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/cps-cyberphysical-systems/503286/nsf24-581/solicitation"
+    ]
+   },
+   {
+    "url": "https://nifa.usda.gov/resource/data-management-plan-nifa-funded-research-projects",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/cps-cyberphysical-systems/503286/nsf24-581/solicitation"
+    ]
+   },
+   {
+    "url": "https://nifa.usda.gov/responsible-and-ethical-conduct-research",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/cps-cyberphysical-systems/503286/nsf24-581/solicitation"
+    ]
+   },
+   {
+    "url": "https://nifa.usda.gov/terms-and-conditions",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/cps-cyberphysical-systems/503286/nsf24-581/solicitation"
+    ]
+   },
+   {
+    "url": "https://nifa.usda.gov/regulations-and-guidelines",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/cps-cyberphysical-systems/503286/nsf24-581/solicitation"
+    ]
+   },
+   {
+    "url": "https://nifa.usda.gov/policy-guide",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/cps-cyberphysical-systems/503286/nsf24-581/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=aag",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-research-experience-teachers-ret-funding-opportunity/nsf12-075"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_iK2H3qlERPqQDoNsesefZQ",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/nsf-research-traineeship-program-webinar/2021-08-09"
+    ]
+   },
+   {
+    "url": "https://www.whitehouse.gov/ostp/news-updates/2021/07/29/readout-of-the-first-national-artificial-intelligence-research-resource-task-force-meeting/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/focus-areas/si/nairr"
+    ]
+   },
+   {
+    "url": "https://www.whitehouse.gov/ostp/news-updates/2021/10/26/readout-of-the-third-national-artificial-intelligence-research-resource-nairr-task-force-meeting-and-announcement-of-posting-of-request-for-information-rfi-responses/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/focus-areas/si/nairr"
+    ]
+   },
+   {
+    "url": "https://www.whitehouse.gov/ostp/news-updates/2021/12/15/readout-of-the-fourth-national-artificial-intelligence-research-resource-nairr-task-force-meeting/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/focus-areas/si/nairr"
+    ]
+   },
+   {
+    "url": "https://www.whitehouse.gov/ostp/news-updates/2022/02/22/readout-of-the-fifth-national-artificial-intelligence-research-resource-nairr-task-force-meeting/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/focus-areas/si/nairr"
+    ]
+   },
+   {
+    "url": "https://www.whitehouse.gov/ostp/news-updates/2022/04/11/readout-of-the-sixth-national-artificial-intelligence-research-resource-nairr-task-force-meeting/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/focus-areas/si/nairr"
+    ]
+   },
+   {
+    "url": "https://www.whitehouse.gov/ostp/news-updates/2022/08/02/readout-of-the-eighth-national-artificial-intelligence-research-resource-nairr-task-force-meeting/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/focus-areas/si/nairr"
+    ]
+   },
+   {
+    "url": "https://www.whitehouse.gov/ostp/news-updates/2022/09/19/readout-of-the-ninth-national-artificial-intelligence-research-resource-nairr-task-force-meeting/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/focus-areas/si/nairr"
+    ]
+   },
+   {
+    "url": "https://www.whitehouse.gov/ostp/news-updates/2022/10/27/readout-of-the-tenth-meeting-of-the-national-artificial-intelligence-research-resource-nairr-task-force/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/focus-areas/si/nairr"
+    ]
+   },
+   {
+    "url": "https://www.whitehouse.gov/wp-content/uploads/2025/07/Americas-AI-Action-Plan.pdf%22%EF%B7%9FHYPERLINK%20%22https://aiinstitutes.org/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/focus-areas/si/nairr"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJItde6trjgiE6BW8FcHTSoLF1s3S1JFyT4",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/che-office-hour-introduction-nsf-chemistrys-center-program/2023-05-19"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubs/2023/nsf23575/nsf23575.htm",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/che-office-hour-introduction-nsf-chemistrys-center-program/2023-05-19"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJItfuuvpj4iEgxXSaWCu7EFaZD86wA601E",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/nsfnoaa-iucrc-dcl-university-oriented-office-hour"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/geo/geo-innovation/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/nsfnoaa-iucrc-dcl-university-oriented-office-hour"
+    ]
+   },
+   {
+    "url": "http://www.nifa.usda.gov/",
+    "status": 0,
+    "reason": "timeout",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/cps-cyberphysical-systems/503286/nsf24-581/solicitation"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 24,
+  "alfa": 12,
+  "resources": 24,
+  "images": 24,
+  "link-check": 24,
+  "plain-language": 12,
+  "deprecated-html": 2,
+  "standards": 12,
+  "sustainability": 2,
+  "security": 2,
+  "public-interest": 5,
+  "third-party": 5,
+  "tech": 5,
+  "lighthouse": 3
+ },
+ "tally": {
+  "ok": 24,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 2,
+  "error": 0
+ },
+ "finishedAt": "2026-11-09T17:28:52.890Z"
+}
