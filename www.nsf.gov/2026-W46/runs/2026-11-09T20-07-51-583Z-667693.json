@@ -1,0 +1,262 @@
+{
+ "runId": "2026-11-09T20-07-51-583Z-667693",
+ "week": "2026-W46",
+ "domain": "www.nsf.gov",
+ "canonical": {
+  "origin": "https://www.nsf.gov",
+  "configured": "https://www.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-09T20:07:52.075Z",
+ "scanned": [
+  "6608eef6f0b1e6a4",
+  "bf20e76798e6a475",
+  "27bf847ace459c8d",
+  "7c912f78bf97f05f",
+  "13c063023a609673",
+  "e18b6972edc0f1d7",
+  "742bcd02d583ca66",
+  "4544b7680d166ab5",
+  "56e3e16a0b0b6a82",
+  "5cada96ff43613b2",
+  "e74a2f1ccf16822f",
+  "758514f671da6152",
+  "8b16f3ba2ff8d7a6",
+  "d3f472e43105be71",
+  "a861f833f0703e55",
+  "8ac650650e8433dd",
+  "39db4c0a186607d2",
+  "f51cde5e01ef9fe3",
+  "302c879ce7917b55",
+  "cc18cd54d11bbe8c",
+  "158e308c8624078d",
+  "9900c88d830319d9",
+  "3e08b0ebafad7aef",
+  "59ba41fbb953198c"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 291,
+  "checked": 291,
+  "brokenCount": 20,
+  "broken": [
+   {
+    "url": "https://research.gatech.edu/seafloor-space-new-bacterial-proteins-shine-light-climate-and-astrobiology",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/news/novel-bacterial-proteins-seafloor-shine-light-climate"
+    ]
+   },
+   {
+    "url": "https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fnew.nsf.gov%2Fnews%2Fnsf-expands-nsf-convergence-accelerator-10-regions&data=05%7C02%7Cpaul.silder%40aptiveresources.com%7C277e0db0a697415ec73308dc8af61503%7Cae5354d96fa5483194393fbd1fe66920%7C0%7C0%7C638538038099421881%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=bX94yVEfvvAOZJ9glHEbXBbLQKp9nqMMV1Kdk4A4Vuw%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://www.nsf.gov/funding/initiatives/convergence-accelerator/updates/nsf-convergence-accelerator-expands-southeast-region"
+    ]
+   },
+   {
+    "url": "https://pims.nsf.gov/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/pgrp-plant-genome-research-program/5338/nsf23-559"
+    ]
+   },
+   {
+    "url": "https://inside.nsf.gov/aboutnsf/staffdirectory/Pages/StaffSearch.aspx?First=&Last=&Org=PGRP&JobTitle=",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/pgrp-plant-genome-research-program/5338/nsf23-559"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/bio/pubs/reports/index.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/pgrp-plant-genome-research-program/5338/nsf23-559"
+    ]
+   },
+   {
+    "url": "http://www.casimir.org.uk/storyfiles/64.0.summary_of_bermuda_principles.pdf",
+    "status": 0,
+    "reason": "EAI_AGAIN",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/pgrp-plant-genome-research-program/5338/nsf23-559"
+    ]
+   },
+   {
+    "url": "http://www.nsf.gov/bio/pubs/reports/nrc_plant_genome_report_in_brief.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/pgrp-plant-genome-research-program/5338/nsf23-559"
+    ]
+   },
+   {
+    "url": "https://www.genome.gov/pages/research/wellcomereport0303.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/pgrp-plant-genome-research-program/5338/nsf23-559"
+    ]
+   },
+   {
+    "url": "https://www.fastlane.nsf.gov/a1/newstan.htm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/neuronex-next-generation-networks-neuroscience/505603/nsf19-563/solicitation",
+     "https://www.nsf.gov/funding/opportunities/msi-atmospheric-sciences-mid-size-infrastructure-opportunity/503157/nsf07-602/solicitation",
+     "https://www.nsf.gov/funding/opportunities/nsf-iss-transport-phenomena-research-international-space-station/505258/nsf22-539/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf18045",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/neuronex-next-generation-networks-neuroscience/505603/nsf19-563/solicitation",
+     "https://www.nsf.gov/funding/opportunities/nsf-iss-transport-phenomena-research-international-space-station/505258/nsf22-539/solicitation"
+    ]
+   },
+   {
+    "url": "https://elan.dfg.de/en",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/neuronex-next-generation-networks-neuroscience/505603/nsf19-563/solicitation"
+    ]
+   },
+   {
+    "url": "https://iosblog.nsfbio.com/2023/08/03/announcing-an-ios-virtual-colloquium-from-postdoc-to-principal-investigator/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/events/ios-virtual-colloquium-postdoc-principal-investigator"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_F9bHiD8nTsaGOeDDEeiTzQ",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/ios-virtual-colloquium-postdoc-principal-investigator"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/geo/atm/about.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/msi-atmospheric-sciences-mid-size-infrastructure-opportunity/503157/nsf07-602/solicitation"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_d0Kqh6HxTo-n_IcQfXm71w",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/boosting-research-ideas-transformative-equitable-advances-1"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=aag",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/msi-atmospheric-sciences-mid-size-infrastructure-opportunity/503157/nsf07-602/solicitation",
+     "https://www.nsf.gov/funding/opportunities/nsf-iss-transport-phenomena-research-international-space-station/505258/nsf22-539/solicitation"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_hzqixnS1SRakQOWnLYosPQ",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/cyberinfrastructure-sustained-scientific-innovation-cssi-3"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_oUB8vTpdTK2PV6ygWnisMg",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/cise-iis-office-hours-human-centered-computing-hcc-programs/2022-02-17"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_591NEn5ISHGcc_qTRgKA6w",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/geo-quarterly-webinar/2022-02-10"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJItcO6qrDkpHbRcgtoHeAZnvYSUJIaswyw",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/ceramics-program-overview-webinar"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 23,
+  "plain-language": 11,
+  "resources": 23,
+  "images": 23,
+  "security": 1,
+  "link-check": 23,
+  "sustainability": 3,
+  "alfa": 11,
+  "standards": 14,
+  "third-party": 5,
+  "public-interest": 2,
+  "tech": 1
+ },
+ "tally": {
+  "ok": 23,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 1,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 3,
+  "error": 0
+ },
+ "finishedAt": "2026-11-09T20:11:18.940Z"
+}
