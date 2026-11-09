@@ -1,0 +1,109 @@
+{
+ "runId": "2026-11-09T17-24-24-517Z-0b8a90",
+ "week": "2026-W46",
+ "domain": "seedfund.nsf.gov",
+ "canonical": {
+  "origin": "https://seedfund.nsf.gov",
+  "configured": "https://seedfund.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-09T17:24:25.196Z",
+ "scanned": [
+  "0cbf349d3fa6dd86",
+  "a181792a2a115db7",
+  "5fb58eb416e40d17",
+  "e3723c8f4371d6e5",
+  "01847126e3296282",
+  "7910355651b36478",
+  "c9a25468775509eb",
+  "9bec865992d9fcd4",
+  "1106ad9f4bd0503f",
+  "6b0476c0d0dc86ec",
+  "4d6e2978001cd017",
+  "59a4e51340ef5240",
+  "f2bd4f6845d0abf5",
+  "67ef2ba1cc81876d",
+  "098d49c624ed4d96",
+  "2615d68b2a1cc5ec",
+  "70d26b05e060c2d0",
+  "06eb0ba2067ac460",
+  "dec70286e1c8b1c3",
+  "0b7fbf63c86ed091",
+  "985b92c152353572",
+  "b37a6967aaa58324",
+  "9198281ad4aaaa51",
+  "911c4aee34b0aa5a",
+  "6994a2e1239509b4"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 119,
+  "checked": 119,
+  "brokenCount": 1,
+  "broken": [
+   {
+    "url": "https://www.businesswire.com/news/home/20230612899704/en/AgTech-Plant-Health-Startup-Croptix-Announces-Milestone-Investment-Led-by-Advancing-Eco-Agriculture-AEA",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://seedfund.nsf.gov/news/croptix"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "sustainability": 4,
+  "axe": 25,
+  "plain-language": 16,
+  "resources": 25,
+  "images": 25,
+  "standards": 13,
+  "lighthouse": 5,
+  "link-check": 25,
+  "deprecated-html": 3,
+  "alfa": 12,
+  "third-party": 7,
+  "public-interest": 2,
+  "tech": 2,
+  "security": 1
+ },
+ "tally": {
+  "ok": 25,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 2,
+  "error": 0
+ },
+ "finishedAt": "2026-11-09T17:27:52.381Z"
+}
