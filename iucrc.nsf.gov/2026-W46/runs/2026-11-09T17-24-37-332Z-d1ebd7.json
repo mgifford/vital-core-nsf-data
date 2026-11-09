@@ -1,0 +1,173 @@
+{
+ "runId": "2026-11-09T17-24-37-332Z-d1ebd7",
+ "week": "2026-W46",
+ "domain": "iucrc.nsf.gov",
+ "canonical": {
+  "origin": "https://iucrc.nsf.gov",
+  "configured": "https://iucrc.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-09T17:24:39.098Z",
+ "scanned": [
+  "1d474bbbcc2f3e78",
+  "7b58fe8616bcde64",
+  "715b37bb5a97e96d",
+  "338c30990bfa1fdc",
+  "d1e2a88f1b0090b9",
+  "c785d7f65011bc19",
+  "0a5d30089e6af363",
+  "133b1c33eaf2c712",
+  "d271b2cdf5b82275",
+  "acbd368e2b7ea93a",
+  "5bebca62896e5dd1",
+  "c4c0f4f61b09a8b5",
+  "4f01deb779cf6e3d",
+  "74d6ca561adf3a93",
+  "fa11ba5205f573c7",
+  "497a931523aca590",
+  "a0d39f043cb71f24",
+  "168cc649b810bb38",
+  "c3b54239ed1d3919",
+  "1eccc4e47ef6db61",
+  "72a6d2305f31edf9",
+  "3e94b76db756a7e4",
+  "789090050aa8462a",
+  "9a7ea8a56b872626",
+  "308e0488f8896ccc"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 237,
+  "checked": 237,
+  "brokenCount": 9,
+  "broken": [
+   {
+    "url": "https://iucrc.nsf.gov/centers/center-on-pervasive-personalized-intelligence-ppi/intel.com",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-on-pervasive-personalized-intelligence-ppi"
+    ]
+   },
+   {
+    "url": "https://iucrc.nsf.gov/centers/center-on-pervasive-personalized-intelligence-ppi/nec.com",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-on-pervasive-personalized-intelligence-ppi"
+    ]
+   },
+   {
+    "url": "https://www.keurigdrpepper.com/",
+    "status": 502,
+    "reason": "HTTP 502",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-bioplastics-and-biocomposites"
+    ]
+   },
+   {
+    "url": "https://iucrc.nsf.gov/centers/center-for-soil-technologies-soiltech",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/focus-area/energy-and-environment/page/3"
+    ]
+   },
+   {
+    "url": "https://www.avangrid.com/",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/wind-energy-science-technology-and-research"
+    ]
+   },
+   {
+    "url": "https://www.ge.com/renewableenergy/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/wind-energy-science-technology-and-research"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubs/2020/nsf20080/nsf20080.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/universities/solicitation"
+    ]
+   },
+   {
+    "url": "https://nsf.gov/pubs/2020/nsf20570/nsf20570.htm?org=NSF",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/universities/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.goodyear.co/",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-tire-research"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 21,
+  "alfa": 11,
+  "plain-language": 12,
+  "resources": 21,
+  "images": 21,
+  "standards": 10,
+  "tech": 1,
+  "third-party": 3,
+  "link-check": 21,
+  "lighthouse": 4,
+  "sustainability": 3,
+  "security": 3,
+  "deprecated-html": 2,
+  "public-interest": 1
+ },
+ "tally": {
+  "ok": 21,
+  "blocked": 4,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-09T17:28:19.705Z"
+}
