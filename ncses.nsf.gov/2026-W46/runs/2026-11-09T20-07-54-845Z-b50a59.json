@@ -1,0 +1,372 @@
+{
+ "runId": "2026-11-09T20-07-54-845Z-b50a59",
+ "week": "2026-W46",
+ "domain": "ncses.nsf.gov",
+ "canonical": {
+  "origin": "https://ncses.nsf.gov",
+  "configured": "https://ncses.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-09T20:07:56.584Z",
+ "scanned": [
+  "761ce3ad73193fdc",
+  "09089a601f622afa",
+  "f45ed2afd635e1b3",
+  "ef5a60cc56d54a82",
+  "42366790206b9452",
+  "4cf7c0c077141a0a",
+  "3d2d7f78360bb959",
+  "db460dcd19a10fa2",
+  "9a272fd4fd07a704",
+  "6564ac102eccb055",
+  "e2f1f73022a8326e",
+  "e603af7373ff13d7",
+  "9549d7f604efb87d",
+  "5328414690fa56b2",
+  "bf09314f428232fe",
+  "fa1977bea4d78c65",
+  "b4c603ae8daed85f"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 1972,
+  "checked": 500,
+  "brokenCount": 35,
+  "broken": [
+   {
+    "url": "https://www.src.isr.umich.edu/",
+    "status": 0,
+    "reason": "ERR_SSL_SSL/TLS_ALERT_HANDSHAKE_FAILURE",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20207/supplemental-tables"
+    ]
+   },
+   {
+    "url": "https://ncses.nsf.gov/pubs/nsb20207/nsb20207figure-link/7-1",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20207/supplemental-tables"
+    ]
+   },
+   {
+    "url": "https://ncses.nsf.gov/pubs/nsb20207/nsb20207figure-link/7-2",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20207/supplemental-tables"
+    ]
+   },
+   {
+    "url": "https://ncses.nsf.gov/pubs/nsb20207/nsb20207figure-link/7-3",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20207/supplemental-tables"
+    ]
+   },
+   {
+    "url": "https://ncses.nsf.gov/pubs/nsb20207/nsb20207figure-link/7-6",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20207/supplemental-tables"
+    ]
+   },
+   {
+    "url": "https://ncses.nsf.gov/pubs/nsb20207/nsb20207figure-link/7-7",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20207/supplemental-tables"
+    ]
+   },
+   {
+    "url": "https://ncses.nsf.gov/pubs/nsb20207/nsb20207figure-link/7-8",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20207/supplemental-tables"
+    ]
+   },
+   {
+    "url": "https://ncses.nsf.gov/pubs/nsb20207/nsb20207figure-link/7-10",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20207/supplemental-tables"
+    ]
+   },
+   {
+    "url": "https://ncses.nsf.gov/pubs/nsb20207/nsb20207figure-link/7-11",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20207/supplemental-tables"
+    ]
+   },
+   {
+    "url": "https://ncses.nsf.gov/pubs/nsb20207/nsb20207figure-link/7-12",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20207/supplemental-tables"
+    ]
+   },
+   {
+    "url": "https://ncses.nsf.gov/pubs/nsb20207/nsb20207figure-link/7-13",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20207/supplemental-tables"
+    ]
+   },
+   {
+    "url": "https://ncses.nsf.gov/pubs/nsb20207/nsb20207figure-link/7-14",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20207/supplemental-tables"
+    ]
+   },
+   {
+    "url": "https://ncses.nsf.gov/pubs/nsb20207/nsb20207table-link/7-1",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20207/supplemental-tables"
+    ]
+   },
+   {
+    "url": "https://ec.europa.eu/commfrontoffice/publicopinion/index.cfm",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20207/supplemental-tables"
+    ]
+   },
+   {
+    "url": "https://mastic.mestecc.gov.my/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20207/supplemental-tables"
+    ]
+   },
+   {
+    "url": "http://www.crsp.org.cn/index_en.html",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20207/supplemental-tables"
+    ]
+   },
+   {
+    "url": "https://mastic.mestecc.gov.my/sti-survey/public-awareness-science-technology-innovation-sti-malaysia",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20207/supplemental-tables"
+    ]
+   },
+   {
+    "url": "https://ncses.nsf.gov/pubs/nsb20207/nsb20207table-link/S7-2",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20207/supplemental-tables"
+    ]
+   },
+   {
+    "url": "https://ncses.nsf.gov/pubs/nsb20207/nsb20207table-link/S7-4",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20207/supplemental-tables"
+    ]
+   },
+   {
+    "url": "https://ncses.nsf.gov/pubs/nsb20207/nsb20207table-link/S7-6",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20207/supplemental-tables"
+    ]
+   },
+   {
+    "url": "https://ncses.nsf.gov/pubs/nsb20207/nsb20207table-link/S7-10",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20207/supplemental-tables"
+    ]
+   },
+   {
+    "url": "https://ncses.nsf.gov/pubs/nsb20207/nsb20207table-link/S7-12",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20207/supplemental-tables"
+    ]
+   },
+   {
+    "url": "https://ncses.nsf.gov/pubs/nsb20207/nsb20207table-link/S7-13",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20207/supplemental-tables"
+    ]
+   },
+   {
+    "url": "https://ncses.nsf.gov/pubs/nsb20207/nsb20207table-link/S7-18",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20207/supplemental-tables"
+    ]
+   },
+   {
+    "url": "https://ncses.nsf.gov/pubs/nsb20207/nsb20207table-link/S7-19",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20207/supplemental-tables"
+    ]
+   },
+   {
+    "url": "https://ncses.nsf.gov/pubs/nsb20207/nsb20207table-link/S7-20",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20207/supplemental-tables"
+    ]
+   },
+   {
+    "url": "https://ncses.nsf.gov/pubs/nsb20207/nsb20207table-link/S7-21",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20207/supplemental-tables"
+    ]
+   },
+   {
+    "url": "https://ncses.nsf.gov/pubs/nsb20207/nsb20207table-link/S7-22",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20207/supplemental-tables"
+    ]
+   },
+   {
+    "url": "https://ncses.nsf.gov/pubs/nsb20207/nsb20207table-link/S7-24",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20207/supplemental-tables"
+    ]
+   },
+   {
+    "url": "https://ncses.nsf.gov/pubs/nsb20207/nsb20207table-link/S7-25",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20207/supplemental-tables"
+    ]
+   },
+   {
+    "url": "https://ncses.nsf.gov/pubs/nsb20207/nsb20207table-link/S7-26",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20207/supplemental-tables"
+    ]
+   },
+   {
+    "url": "https://ncses.nsf.gov/pubs/nsb20207/nsb20207table-link/S7-28",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20207/supplemental-tables"
+    ]
+   },
+   {
+    "url": "https://ncses.nsf.gov/pubs/nsb20207/nsb20207table-link/S7-31",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20207/supplemental-tables"
+    ]
+   },
+   {
+    "url": "https://ncses.nsf.gov/pubs/nsb20207/nsb20207table-link/S7-32",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20207/supplemental-tables"
+    ]
+   },
+   {
+    "url": "https://ncses.nsf.gov/pubs/nsb20207/nsb20207table-link/S7-33",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20207/supplemental-tables"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 17,
+  "resources": 17,
+  "images": 17,
+  "standards": 10,
+  "link-check": 17,
+  "plain-language": 4,
+  "third-party": 4,
+  "sustainability": 3,
+  "alfa": 13,
+  "public-interest": 2,
+  "tech": 2,
+  "security": 2,
+  "deprecated-html": 1
+ },
+ "tally": {
+  "ok": 17,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 1,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 13,
+  "error": 0
+ },
+ "finishedAt": "2026-11-09T20:13:25.073Z"
+}
