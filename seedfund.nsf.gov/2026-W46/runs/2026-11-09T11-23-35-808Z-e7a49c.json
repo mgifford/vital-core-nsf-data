@@ -1,0 +1,114 @@
+{
+ "runId": "2026-11-09T11-23-35-808Z-e7a49c",
+ "week": "2026-W46",
+ "domain": "seedfund.nsf.gov",
+ "canonical": {
+  "origin": "https://seedfund.nsf.gov",
+  "configured": "https://seedfund.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-09T11:23:36.986Z",
+ "scanned": [
+  "984ae514f5b743aa",
+  "5b6a65e1543f81e5",
+  "129d79d29683cdb9",
+  "9b4292c7ac0d1568",
+  "d65c49f0cef0554e",
+  "10d1ce1721aa70e1",
+  "b9c73a1a407b7679",
+  "f4bbb23952a4772a",
+  "00f6a418c829f682",
+  "8189f85643722aad",
+  "57682df292000361",
+  "62d770e15dc4c5f6",
+  "7cabc042f27a203b",
+  "28508f5854368f6d",
+  "04d34bc2cd8296e5",
+  "3b5d9403da5499b8",
+  "4c128719231d481b",
+  "1150daab79422c4c",
+  "9c3826b7c38ae2a7",
+  "a90ac8177f763cd8",
+  "dc1ecde588c967ee",
+  "ef733765004f85d6",
+  "ced96a8bbd326141",
+  "cd73ceb84bc96f23"
+ ],
+ "errors": [
+  {
+   "pageId": "aad1d9cec52b0989",
+   "url": "https://seedfund.nsf.gov/fastlane/form-prep-2",
+   "error": "TimeoutError: page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://seedfund.nsf.gov/fastlane/form-prep-2\", waiting until \"load\"\n"
+  }
+ ],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 112,
+  "checked": 112,
+  "brokenCount": 1,
+  "broken": [
+   {
+    "url": "http://www.iontra.com/",
+    "status": 504,
+    "reason": "HTTP 504",
+    "foundOn": [
+     "https://seedfund.nsf.gov/portfolio/details?company=alligant-scientific-llc"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 24,
+  "plain-language": 11,
+  "resources": 24,
+  "images": 24,
+  "standards": 19,
+  "lighthouse": 4,
+  "link-check": 24,
+  "public-interest": 3,
+  "alfa": 12,
+  "third-party": 7,
+  "security": 1,
+  "tech": 1,
+  "sustainability": 4,
+  "deprecated-html": 1
+ },
+ "tally": {
+  "ok": 24,
+  "blocked": 0,
+  "timeout": 1,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-09T11:27:12.538Z"
+}
