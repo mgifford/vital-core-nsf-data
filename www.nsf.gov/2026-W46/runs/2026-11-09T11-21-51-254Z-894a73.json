@@ -1,0 +1,205 @@
+{
+ "runId": "2026-11-09T11-21-51-254Z-894a73",
+ "week": "2026-W46",
+ "domain": "www.nsf.gov",
+ "canonical": {
+  "origin": "https://www.nsf.gov",
+  "configured": "https://www.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-09T11:21:51.867Z",
+ "scanned": [
+  "632679f7401f1944",
+  "e14b18da673ffe6c",
+  "c2d76cdf3b9fb532",
+  "a50e807e9165d315",
+  "ec957193abea05fb",
+  "9c3f555c9b27c2b1",
+  "8fe0edfcb98d87f7",
+  "2a2503bc2d4c58dd",
+  "3dc101eda5d0f477",
+  "fbdaf30b0fe74574",
+  "2158676752e26d73",
+  "d6cb30dfecb271bc",
+  "51bb6c714b2619e4",
+  "85ac04873f1b9a94",
+  "e85047ba4a96d100",
+  "c7006e8fc2c5572e",
+  "6aec7bfd4ad740d4",
+  "f81af755a62df90b",
+  "2e3cc80817570798",
+  "b003cea14416f555",
+  "e0f4f86902434ca7",
+  "6265b6f1bc5d3475",
+  "e2500736288f18b0",
+  "1319a4ea82a62262",
+  "24b7c1dce7a96c82"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 344,
+  "checked": 344,
+  "brokenCount": 13,
+  "broken": [
+   {
+    "url": "https://allocations.access-ci.org/resource-providers",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/advanced-computing-systems-services-adapting-rapid-evolution/nsf23-518/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.whitehouse.gov/wp-content/uploads/2021/10/National-Strategic-Computing-Reserve-Blueprint-Oct2021.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/advanced-computing-systems-services-adapting-rapid-evolution/nsf23-518/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.saferfederalworkforce.gov/contractors/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/advanced-computing-systems-services-adapting-rapid-evolution/nsf23-518/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.whitehouse.gov/wp-content/uploads/2022/08/08-2022-OSTP-Public-Access-Memo.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/information/dcl-update-division-earth-sciences-ear-data-sample-policy"
+    ]
+   },
+   {
+    "url": "https://www.whitehouse.gov/ostp/news-updates/2023/01/11/fact-sheet-biden-harris-administration-announces-new-actions-to-advance-open-and-equitable-research/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/information/dcl-update-division-earth-sciences-ear-data-sample-policy"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_04wnUh83T8Sp4TB12WkK_w",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/cybertraining-nsf-19-524-webinar"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/funding/opportunities/nsf-ocean-observatories-initiative-facility-board/505492/nsf24-557/editEligInfo.do?dispatch=display&pubID=158052&back=true",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsf-ocean-observatories-initiative-facility-board/505492/nsf24-557/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/geo/oce/programs/ooi/ooifb-tor.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsf-ocean-observatories-initiative-facility-board/505492/nsf24-557/solicitation"
+    ]
+   },
+   {
+    "url": "http://ieeexplore.ieee.org/xpl/login.jsp?reload=true&tp=&arnumber=6760966&url=http%3A%2F%2Fieeexplore.ieee.org%2Fiel7%2F6749719%2F6759837%2F06760966.pdf%3Farnumber%3D6760966",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/news/artificial-brains-learn-adapt"
+    ]
+   },
+   {
+    "url": "http://www.nsf.gov/brainpower",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/news/artificial-brains-learn-adapt"
+    ]
+   },
+   {
+    "url": "http://doi.org/10.5334/dsj-2020-043",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.nsf.gov/funding/information/dcl-update-division-earth-sciences-ear-data-sample-policy"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/edu/Videos/2023STEMEdIPRFWebinars.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/webinars-virtual-office-hours-september-16-november-25-2024"
+    ]
+   },
+   {
+    "url": "http://www.nsf.gov/pubs/2007/nsf07016/nsf07016.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/pscic-plant-science-cyberinfrastructure-collaborative/13704/nsf06-594"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 24,
+  "deprecated-html": 2,
+  "resources": 24,
+  "images": 24,
+  "standards": 10,
+  "link-check": 24,
+  "sustainability": 6,
+  "plain-language": 15,
+  "public-interest": 3,
+  "security": 2,
+  "alfa": 12,
+  "tech": 3,
+  "third-party": 5,
+  "lighthouse": 2
+ },
+ "tally": {
+  "ok": 24,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 1,
+  "error": 0
+ },
+ "finishedAt": "2026-11-09T11:25:57.760Z"
+}
