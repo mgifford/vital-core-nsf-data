@@ -1,0 +1,149 @@
+{
+ "runId": "2026-11-09T19-02-48-970Z-2fa6ec",
+ "week": "2026-W46",
+ "domain": "iucrc.nsf.gov",
+ "canonical": {
+  "origin": "https://iucrc.nsf.gov",
+  "configured": "https://iucrc.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-09T19:02:49.402Z",
+ "scanned": [
+  "ecbf06e1359c4235",
+  "662f6d4953cd1c8a",
+  "38a755bc087a46e3",
+  "af7132aeafa60245",
+  "00f75ff96e970346",
+  "6445828a57a60e5f",
+  "aa3335b6ac950ef7",
+  "3ad78267446e8799",
+  "aa2bb65a27d91da0",
+  "b6a909f18c16548e",
+  "f0aaac923ca168e3",
+  "553af46288df4349",
+  "f481df78f0fca5d0",
+  "05bfc5d7f5d7a8fe",
+  "c72f3a1d04ca72a4",
+  "1e875ad20189815f",
+  "7f03914e5c868060",
+  "7391fce832cf4516",
+  "51cd74f046078b10",
+  "530f658744e31525",
+  "aff84d2f5d0bb447",
+  "4e68ab7eb740f12e",
+  "e0ea06998adb4334",
+  "1a16a9d61a9470fd",
+  "3e51345c637ceb65"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 186,
+  "checked": 186,
+  "brokenCount": 6,
+  "broken": [
+   {
+    "url": "https://www.lockheedmartin.com/",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/wildfire-interdisciplinary-research-center-wirc"
+    ]
+   },
+   {
+    "url": "https://www.eaton.com/",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-infrastructure-trustworthiness-in-energy-systems-cites"
+    ]
+   },
+   {
+    "url": "https://www.raytheon.com/cyber",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-hardware-and-embedded-system-security-and-trust"
+    ]
+   },
+   {
+    "url": "https://www.avangrid.com/aboutus/avangridnetworks",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-weather-innovation-smart-energy-and-resilience-wiser"
+    ]
+   },
+   {
+    "url": "http://www.nystar.state.ny.us/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-weather-innovation-smart-energy-and-resilience-wiser"
+    ]
+   },
+   {
+    "url": "http://www.analog.com/",
+    "status": 0,
+    "reason": "timeout",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-hardware-and-embedded-system-security-and-trust"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 23,
+  "plain-language": 12,
+  "resources": 23,
+  "images": 23,
+  "standards": 13,
+  "link-check": 23,
+  "third-party": 6,
+  "alfa": 13,
+  "public-interest": 4,
+  "tech": 4,
+  "security": 3,
+  "deprecated-html": 2,
+  "lighthouse": 1,
+  "sustainability": 2
+ },
+ "tally": {
+  "ok": 23,
+  "blocked": 2,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-09T19:05:33.649Z"
+}
