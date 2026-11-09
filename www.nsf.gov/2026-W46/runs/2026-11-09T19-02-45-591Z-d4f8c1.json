@@ -1,0 +1,241 @@
+{
+ "runId": "2026-11-09T19-02-45-591Z-d4f8c1",
+ "week": "2026-W46",
+ "domain": "www.nsf.gov",
+ "canonical": {
+  "origin": "https://www.nsf.gov",
+  "configured": "https://www.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-09T19:02:47.055Z",
+ "scanned": [
+  "80a1d1b3576946d5",
+  "bdc2bc94662abdaa",
+  "18a0e19ce550de6e",
+  "9cf122dc1e73dde7",
+  "5f9d96c44cc06069",
+  "d1bcf31bc7d50d62",
+  "c0ac0e0339ec3a83",
+  "6288c4624b162727",
+  "4c04c895019cd85a",
+  "72313feca8880bcc",
+  "747f727236588af4",
+  "924bd83e34debd6d",
+  "208b64e943211024",
+  "8258861257abf7d2",
+  "2d37c0f44dad1829",
+  "40227f5baedaa115",
+  "3aae23ed91ef30ca",
+  "9f64574350627bba",
+  "72722f4191e795b2",
+  "b4a32c9a12ff0223",
+  "2e3745e8cbcb1800",
+  "032acafb5f1c01ce"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 291,
+  "checked": 291,
+  "brokenCount": 18,
+  "broken": [
+   {
+    "url": "https://www.nyu.edu/about/news-publications/news/2022/september/anti-insulin-protein-linked-to-longevity-and-reproduction-in-ant.html",
+    "status": 405,
+    "reason": "HTTP 405",
+    "foundOn": [
+     "https://www.nsf.gov/news/anti-insulin-protein-linked-longevity-reproduction-ants"
+    ]
+   },
+   {
+    "url": "https://c/Users/hmehta/Desktop/ART%20Solicitation%20final/ART%2003-24-2025/ART%20solicitation_gln_pf%20clean%20document.docx",
+    "status": 0,
+    "reason": "EAI_AGAIN",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/art-accelerating-research-translation"
+    ]
+   },
+   {
+    "url": "https://newtcenter.org/",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/events/distinguished-lecture-nanotechnology-enabled-water-treatment/2021-11-18"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_fROTHOOmSHqLxFkgPwpSMg",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/distinguished-lecture-nanotechnology-enabled-water-treatment/2021-11-18"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/od/oise/PIRE/pire-2010-list.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/pire-partnerships-international-research-education/505038/nsf22-546"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/od/oise/PIRE/pire-2017-list.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/pire-partnerships-international-research-education/505038/nsf22-546"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/od/oise/PIRE/pire-2012-list.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/pire-partnerships-international-research-education/505038/nsf22-546"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/od/oise/PIRE/pire-2015-list.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/pire-partnerships-international-research-education/505038/nsf22-546"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/od/oise/PIRE/pire-2007-list.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/pire-partnerships-international-research-education/505038/nsf22-546"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/od/oise/PIRE/pire-2005-list.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/pire-partnerships-international-research-education/505038/nsf22-546"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/funding/information/faq-frequently-asked-questions-faqs-partnerships/nsf14-088",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/pire-partnerships-international-research-education/505038/nsf22-546"
+    ]
+   },
+   {
+    "url": "http://www.nsf.gov/pubs/2006/nsf06204/index.html",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/pire-partnerships-international-research-education/505038/nsf22-546"
+    ]
+   },
+   {
+    "url": "http://www.nsf.gov/od/opp/ipy/ipyinfo.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/information/dcl-nsfinternational-polar-year-07-08/nsf07-008"
+    ]
+   },
+   {
+    "url": "http://nsf.gov/pubs/2005/nsf0545/nsf0545_3.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/information/dcl-nsfinternational-polar-year-07-08/nsf07-008"
+    ]
+   },
+   {
+    "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf11018&org=NSF",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/eese-ethics-education-science-engineering/13338/nsf11-514"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_KmorC00OTia_R7PsyLDc5Q",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/nsf-sbirsttr-dynamic-discussion-awardee-lessons-translation"
+    ]
+   },
+   {
+    "url": "https://www.nap.edu/initiative/committee-on-the-organization-and-management-of-research-in-astronomy-and-astrophysics",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/postponed-astronomy-astrophysics-advisory-committee/2025-02-25"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/od/oci/taskforces",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/information/dcl-mathematical-physical-sciences-community-updates-summer-2011/nsf11-077"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 22,
+  "alfa": 10,
+  "resources": 22,
+  "images": 22,
+  "standards": 13,
+  "public-interest": 3,
+  "third-party": 7,
+  "link-check": 22,
+  "security": 5,
+  "plain-language": 11,
+  "tech": 1,
+  "sustainability": 4,
+  "lighthouse": 1
+ },
+ "tally": {
+  "ok": 22,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 3,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 4,
+  "error": 0
+ },
+ "finishedAt": "2026-11-09T19:06:06.496Z"
+}
