@@ -1,0 +1,221 @@
+{
+ "runId": "2026-11-09T14-23-33-339Z-497da6",
+ "week": "2026-W46",
+ "domain": "www.nsf.gov",
+ "canonical": {
+  "origin": "https://www.nsf.gov",
+  "configured": "https://www.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-09T14:23:33.830Z",
+ "scanned": [
+  "8fb074d8479ce14f",
+  "b597af09a3d4cc38",
+  "d0cdbe5b8ba4211e",
+  "2fe26698800d9ebd",
+  "8433ab951a66c46f",
+  "e524561006baaefd",
+  "0821c61f90e9976f",
+  "11d5aeed93e57fe6",
+  "d711ed98278c6e49",
+  "e3d96d280e7a759d",
+  "1a84d2d22df2b6d9",
+  "a50107368c12f4ec",
+  "b818cc2b7fdf26b3",
+  "b5c579cb396bef8f",
+  "7000a08fe8431d1f",
+  "b107d09a7eb958e4",
+  "6d41f8e1f9b7ef99",
+  "85713a4675376c4e",
+  "c53df265d3317e2f",
+  "acd33b910bf312de",
+  "e23f0424ce14fd43",
+  "17c41ec75c07b1e2",
+  "f8e38d31475070c7",
+  "e6d05c681bec110f"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 268,
+  "checked": 268,
+  "brokenCount": 15,
+  "broken": [
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJItcuCgpzwrGI3Yf1OrBf9KmsUJ2lIlk4I%20",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/nsfche-virtual-office-hour-nsfche-award-reporting-grant/2023-04-14"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_EOCj33z3RmS8NkrV8XBCQg",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/e-core-office-hours/2025-04-14"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_frV_rcZCSlCwkOuImkOnow",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/e-core-office-hours/2025-04-14"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_NhbpAGQsQoShWuzB16oIFA",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/e-core-office-hours/2025-04-14"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_NEBRq2VdSl-j_1xpd8W--A",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/e-core-office-hours/2025-04-14"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_WCTw1hnPR4ijv4nBl70uRw",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/e-core-office-hours/2025-04-14"
+    ]
+   },
+   {
+    "url": "https://www.gida-global.org/care",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/fairos-findable-accessible-interoperable-reusable-open-science/nsf25-533/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.inside.nsf.gov/pubs/pam/pam0409/0409.pdf",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/cosee-centers-ocean-sciences-education-excellence/5511/nsf10-527/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.fastlane.nsf.gov/a1/newstan.htm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/cosee-centers-ocean-sciences-education-excellence/5511/nsf10-527/solicitation",
+     "https://www.nsf.gov/funding/opportunities/dmsnlm-joint-dmsnlm-initiative-generalizable-data-science-methods/505604/nsf19-500/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=aag",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/cosee-centers-ocean-sciences-education-excellence/5511/nsf10-527/solicitation"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_6X1-8CoaTiu7JFCHKv2T6Q",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/research-experiences-teachers-ret-engineering-computer/2021-09-17"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf18045",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dmsnlm-joint-dmsnlm-initiative-generalizable-data-science-methods/505604/nsf19-500/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/policies/SOR_PA_NSF-50_Principal_Investigator_Proposal_File.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dmsnlm-joint-dmsnlm-initiative-generalizable-data-science-methods/505604/nsf19-500/solicitation"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_YE5e02_PQmCfRUQgCEw1bA",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/paleo-perspectives-present-projected-climate-p4climate"
+    ]
+   },
+   {
+    "url": "http://www.cosee.net/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/cosee-centers-ocean-sciences-education-excellence/5511/nsf10-527/solicitation"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 23,
+  "alfa": 12,
+  "resources": 23,
+  "images": 23,
+  "standards": 14,
+  "link-check": 23,
+  "deprecated-html": 4,
+  "third-party": 7,
+  "plain-language": 14,
+  "public-interest": 3,
+  "lighthouse": 5,
+  "tech": 2,
+  "security": 2,
+  "sustainability": 1
+ },
+ "tally": {
+  "ok": 23,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 1,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 1,
+  "error": 0
+ },
+ "finishedAt": "2026-11-09T14:27:55.276Z"
+}
