@@ -1,6 +1,6 @@
 {
  "domain": "iucrc.nsf.gov",
- "updatedAt": "2026-11-02T01:50:28.662Z",
+ "updatedAt": "2026-11-09T01:59:44.291Z",
  "checker": {
   "name": "pdf-crawler",
   "url": "https://github.com/mgifford/pdf-crawler",
@@ -9,37 +9,37 @@
  },
  "pdfs": {
   "http://www.nsf.gov/pubs/policydocs/gc1/dec14.pdf": {
-   "checkedAt": "2026-11-02T01:50:22.703Z",
-   "week": "2026-W45",
+   "checkedAt": "2026-11-09T01:59:38.771Z",
+   "week": "2026-W46",
    "httpStatus": null,
    "status": "error",
-   "attempts": 2,
+   "attempts": 3,
    "errors": [
     "disallowed by robots.txt for the scanner"
    ]
   },
   "https://iucrc.nsf.gov/sites/default/files/2020-04/annual-costs.pdf": {
-   "checkedAt": "2026-11-02T01:50:24.827Z",
-   "week": "2026-W45",
+   "checkedAt": "2026-11-09T01:59:40.571Z",
+   "week": "2026-W46",
    "httpStatus": 404,
    "etag": "\"457130ace2c010cf88da9374954c3fbe\"",
    "lastModified": "Thu, 07 May 2026 17:16:24 GMT",
    "status": "error",
-   "attempts": 2,
+   "attempts": 3,
    "errors": [
     "HTTP 404"
    ]
   },
   "https://iucrc.nsf.gov/sites/default/files/2020-03/NSF-book-2016-Final.pdf": {
-   "checkedAt": "2026-11-02T01:50:26.632Z",
-   "week": "2026-W45",
+   "checkedAt": "2026-11-09T01:59:42.226Z",
+   "week": "2026-W46",
    "httpStatus": 304,
    "md5": "72d3eda8b8d7455929720466ee3ca723",
    "bytes": 18292651,
    "etag": "\"38df89f762d2b15528bf8b49b5405def-3\"",
    "lastModified": "Mon, 19 Oct 2026 16:23:27 GMT",
    "status": "error",
-   "attempts": 2,
+   "attempts": 3,
    "errors": [
     "unchanged, but never analysed"
    ]
@@ -171,16 +171,16 @@
    ]
   },
   "https://www.nsf.gov/about/history/legislation.pdf": {
-   "checkedAt": "2026-11-02T01:50:28.661Z",
-   "week": "2026-W45",
+   "checkedAt": "2026-11-09T01:59:44.291Z",
+   "week": "2026-W46",
    "httpStatus": 200,
-   "md5": "12397b59e1df52ee4c3956784d809883",
-   "bytes": 236051,
-   "etag": "\"1793571081-gzip\"",
-   "lastModified": "Sun, 01 Nov 2026 22:11:21 GMT",
+   "md5": "98e1968dfab378180d0a74d65eae3956",
+   "bytes": 236053,
+   "etag": "\"1794180028-gzip\"",
+   "lastModified": "Sun, 08 Nov 2026 23:20:28 GMT",
    "finalUrl": "https://www.nsf.gov/about/history",
    "status": "error",
-   "attempts": 2,
+   "attempts": 3,
    "errors": [
     "Not a PDF file: no %PDF- header"
    ]

@@ -1,6 +1,6 @@
 {
  "domain": "seedfund.nsf.gov",
- "updatedAt": "2026-11-06T02:50:26.942Z",
+ "updatedAt": "2026-11-09T01:59:48.132Z",
  "checker": {
   "name": "pdf-crawler",
   "url": "https://github.com/mgifford/pdf-crawler",
@@ -173,15 +173,15 @@
    ]
   },
   "https://seedfund.nsf.gov/assets/files/awardees/NSF_Interim_Report_Fillable.pdf": {
-   "checkedAt": "2026-11-02T01:50:29.175Z",
-   "week": "2026-W45",
+   "checkedAt": "2026-11-09T01:59:44.538Z",
+   "week": "2026-W46",
    "httpStatus": 304,
    "md5": "debb85b4d1e3fc7a92a2fb15c4127340",
    "bytes": 980547,
    "etag": "\"debb85b4d1e3fc7a92a2fb15c4127340\"",
    "lastModified": "Thu, 18 May 2023 19:25:39 GMT",
    "status": "error",
-   "attempts": 2,
+   "attempts": 3,
    "errors": [
     "unchanged, but never analysed"
    ]
@@ -271,16 +271,16 @@
    ]
   },
   "https://nsf-gov-resources.nsf.gov/files/SciENcvFAQs.pdf": {
-   "checkedAt": "2026-11-05T02:49:48.833Z",
-   "week": "2026-W45",
+   "checkedAt": "2026-11-09T01:59:48.131Z",
+   "week": "2026-W46",
    "httpStatus": 200,
    "md5": "5362399f3e8f86c7e222104bf04053ac",
    "bytes": 121639,
-   "etag": "\"1793838826-gzip\"",
-   "lastModified": "Thu, 05 Nov 2026 00:33:46 GMT",
+   "etag": "\"1794176381-gzip\"",
+   "lastModified": "Sun, 08 Nov 2026 22:19:41 GMT",
    "finalUrl": "https://www.nsf.gov/policies/document/faq-using-sciencv",
    "status": "error",
-   "attempts": 1,
+   "attempts": 2,
    "errors": [
     "Not a PDF file: no %PDF- header"
    ]
@@ -452,16 +452,16 @@
    ]
   },
   "https://www.nsf.gov/bfa/dias/policy/coa/faqs_coatemplatejan2023.pdf": {
-   "checkedAt": "2026-11-05T02:49:48.835Z",
-   "week": "2026-W45",
+   "checkedAt": "2026-11-09T01:59:48.132Z",
+   "week": "2026-W46",
    "httpStatus": 200,
    "md5": "97611aa28b13fbc60a1b8cb129085190",
    "bytes": 79104,
-   "etag": "\"1793831639-gzip\"",
-   "lastModified": "Wed, 04 Nov 2026 22:33:59 GMT",
+   "etag": "\"1794182542-gzip\"",
+   "lastModified": "Mon, 09 Nov 2026 00:02:22 GMT",
    "finalUrl": "https://www.nsf.gov/funding/senior-personnel-documents/faq/coa",
    "status": "error",
-   "attempts": 1,
+   "attempts": 2,
    "errors": [
     "Not a PDF file: no %PDF- header"
    ]
