@@ -1,0 +1,149 @@
+{
+ "runId": "2026-11-09T14-23-24-432Z-5db415",
+ "week": "2026-W46",
+ "domain": "iucrc.nsf.gov",
+ "canonical": {
+  "origin": "https://iucrc.nsf.gov",
+  "configured": "https://iucrc.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-09T14:23:25.248Z",
+ "scanned": [
+  "77bf8a894b2b50e6",
+  "0f3dbacf5c96e38e",
+  "d88ed4f900b785a7",
+  "743b68bcbe8ee18b",
+  "bf2665a589266a3b",
+  "5c20e8c690445650",
+  "87f6fde6afaa0750",
+  "53afd17962d23421",
+  "b7edaba4fd0950e5",
+  "6482386a4c1660a4",
+  "6fcb309ae5c223d9",
+  "b36c2ef821ca30d5",
+  "b2f05717ce6432c1",
+  "ed854310377f66f4",
+  "9f78441fbe6658f8",
+  "cca2f520c8377229",
+  "e0923ae76e0412ad",
+  "ce39adf7089f18e6",
+  "820fade24a2a2e4a",
+  "7bd6a306f40142ef",
+  "cb34e906e333e380",
+  "609ac19d67117aa5",
+  "de364a3e0dd075e5",
+  "89a60b496be41404",
+  "bf72588c17844bc9"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 216,
+  "checked": 216,
+  "brokenCount": 6,
+  "broken": [
+   {
+    "url": "http://www.research.gov/research-portal/appmanager/base/desktop?_nfpb=true&_pageLabel=programIncome",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://iucrc.nsf.gov/universities/solicitation/cost-sharing-program-income-archive"
+    ]
+   },
+   {
+    "url": "https://iucrc.nsf.gov/universities/solicitation/annual-costs",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/universities/solicitation/cost-sharing-program-income-archive"
+    ]
+   },
+   {
+    "url": "https://faradaycopper.com/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-advanced-subsurface-earth-resource-models"
+    ]
+   },
+   {
+    "url": "https://www.lanl.gov/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-advanced-non-ferrous-structural-alloy"
+    ]
+   },
+   {
+    "url": "https://liononemetals.com/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-advanced-subsurface-earth-resource-models"
+    ]
+   },
+   {
+    "url": "https://iucrc.nsf.gov/centers/center-for-soil-technologies-soiltech",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/focus-area/energy-and-environment/page/2"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "sustainability": 3,
+  "axe": 25,
+  "alfa": 14,
+  "resources": 25,
+  "images": 25,
+  "link-check": 25,
+  "plain-language": 14,
+  "deprecated-html": 2,
+  "standards": 14,
+  "lighthouse": 2,
+  "public-interest": 4,
+  "tech": 2,
+  "third-party": 5,
+  "security": 1
+ },
+ "tally": {
+  "ok": 25,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-09T14:26:19.663Z"
+}
