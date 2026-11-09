@@ -1,0 +1,185 @@
+{
+ "runId": "2026-11-09T13-11-16-272Z-bdec3a",
+ "week": "2026-W46",
+ "domain": "www.nsf.gov",
+ "canonical": {
+  "origin": "https://www.nsf.gov",
+  "configured": "https://www.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-09T13:11:16.740Z",
+ "scanned": [
+  "cbb707b6b6c8ab18",
+  "1f4b52eb45959c3b",
+  "87eb804ab3f3f13c",
+  "ae0c5cd6e689c15e",
+  "9a3f81b9f5d11c6a",
+  "b9b7db10b6b41041",
+  "0a5ed9bfc67fe9f9",
+  "426c544e2a944176",
+  "5dd53e5c6127f396",
+  "e1cbedcc29ead685",
+  "1635f6076d5d9d9a",
+  "eda481b14bba5055",
+  "904d60227f1e2e9b",
+  "96b812086aae2b2a",
+  "0ea952a2d7e3a523",
+  "cdf4b8b15763ebd1",
+  "ea9dc51ca78ad703",
+  "889abcf4ceb116e4",
+  "823206b810db03ad",
+  "aaccef2f14cb4b21",
+  "00982a98f50685ce"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 236,
+  "checked": 236,
+  "brokenCount": 11,
+  "broken": [
+   {
+    "url": "http://nifa.usda.gov/indirect-costs",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/plant-biotic-interactions/nsf20-576/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubs/issuances/in147.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/plant-biotic-interactions/nsf20-576/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.ree.usda.gov/sites/www.ree.usda.gov/files/2017-08/2016USDA_%20REEProgressReportR2.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/plant-biotic-interactions/nsf20-576/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.fastlane.nsf.gov/documents/sfr/sfr.jsp",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/plant-biotic-interactions/nsf20-576/solicitation"
+    ]
+   },
+   {
+    "url": "https://nifa.usda.gov/grant-payments",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/plant-biotic-interactions/nsf20-576/solicitation"
+    ]
+   },
+   {
+    "url": "http://nifa.usda.gov/federal-regulations",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/plant-biotic-interactions/nsf20-576/solicitation"
+    ]
+   },
+   {
+    "url": "http://nifa.usda.gov/policy-guide",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/plant-biotic-interactions/nsf20-576/solicitation"
+    ]
+   },
+   {
+    "url": "http://nifa.usda.gov/responsible-and-ethical-conduct-research",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/plant-biotic-interactions/nsf20-576/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/nsf/ere",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/news/antarctic-ices-deep-past-shows-it-could-be-more-vulnerable"
+    ]
+   },
+   {
+    "url": "http://www.nifa.usda.gov/business/awards/awardterms.html",
+    "status": 0,
+    "reason": "timeout",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/plant-biotic-interactions/nsf20-576/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.nifa.usda.gov/",
+    "status": 0,
+    "reason": "timeout",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/plant-biotic-interactions/nsf20-576/solicitation"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 21,
+  "alfa": 10,
+  "plain-language": 12,
+  "resources": 21,
+  "images": 21,
+  "link-check": 21,
+  "public-interest": 3,
+  "third-party": 8,
+  "lighthouse": 2,
+  "deprecated-html": 3,
+  "security": 7,
+  "standards": 10,
+  "tech": 1,
+  "sustainability": 1
+ },
+ "tally": {
+  "ok": 21,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 4,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 1,
+  "error": 0
+ },
+ "finishedAt": "2026-11-09T13:14:56.308Z"
+}
