@@ -1,0 +1,87 @@
+{
+ "runId": "2026-11-09T11-21-39-149Z-1a70d0",
+ "week": "2026-W46",
+ "domain": "par.nsf.gov",
+ "canonical": {
+  "origin": "https://par.nsf.gov",
+  "configured": "https://par.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-09T11:21:39.700Z",
+ "scanned": [
+  "ede606c6e2d93f43",
+  "5e519069901e876c",
+  "399fb195bc15a6e7",
+  "da7b13ee31d434d9"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 22,
+  "checked": 22,
+  "brokenCount": 1,
+  "broken": [
+   {
+    "url": "https://par.nsf.gov/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://par.nsf.gov/",
+     "https://par.nsf.gov/faq",
+     "https://par.nsf.gov/services",
+     "https://par.nsf.gov/contact"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 4,
+  "plain-language": 2,
+  "resources": 4,
+  "images": 4,
+  "standards": 2,
+  "link-check": 4,
+  "third-party": 1,
+  "alfa": 2,
+  "deprecated-html": 1,
+  "lighthouse": 1
+ },
+ "tally": {
+  "ok": 4,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-09T11:22:55.179Z"
+}
