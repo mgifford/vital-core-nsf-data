@@ -1,0 +1,165 @@
+{
+ "runId": "2026-11-09T20-07-31-765Z-cd5459",
+ "week": "2026-W46",
+ "domain": "iucrc.nsf.gov",
+ "canonical": {
+  "origin": "https://iucrc.nsf.gov",
+  "configured": "https://iucrc.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-09T20:07:32.513Z",
+ "scanned": [
+  "5b0feb90a723e240",
+  "72f70afcec7651cc",
+  "681e71c352c6327d",
+  "9de9dab646bde450",
+  "c3a5f1571abf2b19",
+  "a455022bd5c803f5",
+  "5d0497bbe2e14c4a",
+  "dd2ba41ebe1c0a4d",
+  "b78d21630edb2acc",
+  "c2e9b029eab7892c",
+  "08f8222fbe092ac3",
+  "e794c9b4c2c550cf",
+  "52199e0571675d7a",
+  "cf7b4444741bbb04",
+  "c907094144528796",
+  "7210766fb55603f2",
+  "7b8d424dc4fcb7b3",
+  "800c5b013a22b8d3",
+  "176258857eaa3b63",
+  "cec83c2b7bcc3db1",
+  "a565d36ae70a47eb",
+  "1de555a04b0a8378",
+  "9abd8d598ecf78ab",
+  "e660082b7b357ab8",
+  "7697a5f0d56621a1"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 178,
+  "checked": 178,
+  "brokenCount": 8,
+  "broken": [
+   {
+    "url": "http://fiwin.ece.gatech.edu/Index.htm",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/fiber-wireless-integration-and-networking-for-heterogeneous-mobile-data-communications"
+    ]
+   },
+   {
+    "url": "https://www.analog.com/en/index.html",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/integrated-power-management-circuits-and-systems---power-one-ic"
+    ]
+   },
+   {
+    "url": "https://www.amd.com/en.html",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-intelligent-distributed-embedded-applications-and-systems-ideas"
+    ]
+   },
+   {
+    "url": "http://chmpr.umbc.edu/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-hybrid-multicore-productivity-research"
+    ]
+   },
+   {
+    "url": "http://www.samsungsem.com/global/index.do",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-dielectrics-and-piezoelectrics"
+    ]
+   },
+   {
+    "url": "http://www.sabic.com/en/products/specialties",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-dielectrics-and-piezoelectrics"
+    ]
+   },
+   {
+    "url": "https://iucrc.nsf.gov/sites/default/files/2020-04/annual-costs.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/universities/solicitation/annual-costs-archive"
+    ]
+   },
+   {
+    "url": "https://ac.ccdc.army.mil/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/atomically-thin-multifunctional-coatings"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 21,
+  "alfa": 14,
+  "plain-language": 7,
+  "resources": 21,
+  "images": 21,
+  "third-party": 2,
+  "link-check": 21,
+  "standards": 13,
+  "security": 2,
+  "deprecated-html": 4,
+  "lighthouse": 1,
+  "sustainability": 3,
+  "public-interest": 1,
+  "tech": 2
+ },
+ "tally": {
+  "ok": 21,
+  "blocked": 4,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-09T20:10:13.899Z"
+}
