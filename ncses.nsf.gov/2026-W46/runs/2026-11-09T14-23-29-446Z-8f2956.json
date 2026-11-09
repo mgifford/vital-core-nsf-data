@@ -1,0 +1,111 @@
+{
+ "runId": "2026-11-09T14-23-29-446Z-8f2956",
+ "week": "2026-W46",
+ "domain": "ncses.nsf.gov",
+ "canonical": {
+  "origin": "https://ncses.nsf.gov",
+  "configured": "https://ncses.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-09T14:23:30.388Z",
+ "scanned": [
+  "1325636c823879a0",
+  "fc62ff3dc5d9cb22",
+  "72eb86f957ec3a15",
+  "093b1c7bcd376e76",
+  "6232ad3415530061",
+  "fcce8dd9f6a20957",
+  "a77a1e05f116db90",
+  "304d04383773d392",
+  "2bdb621b15a728eb",
+  "aae8e89210e69f5e",
+  "19a6562e0de61bf2",
+  "2736e577d07beaf4",
+  "f42cd4a5bfcaff23",
+  "72366e90fa11ae6c",
+  "8729406366bfaa46",
+  "de68636522e5a165",
+  "2b519245127805a7",
+  "3687704600fe761a",
+  "e692b7f03143a9ff"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 2823,
+  "checked": 500,
+  "brokenCount": 2,
+  "broken": [
+   {
+    "url": "https://www.sbir.gov/sbirsearch/award/all",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20262"
+    ]
+   },
+   {
+    "url": "https://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14517",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://ncses.nsf.gov/pow?redirect=%2Fsearch%3Faois%3DScience%2Band%2BEngineering%2BWorkforce%26query%3D%26topics%3DIncome%2Band%2BSalary"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 19,
+  "plain-language": 9,
+  "deprecated-html": 2,
+  "resources": 19,
+  "images": 19,
+  "standards": 14,
+  "tech": 2,
+  "link-check": 19,
+  "alfa": 7,
+  "lighthouse": 2,
+  "sustainability": 1,
+  "public-interest": 1,
+  "security": 3,
+  "third-party": 2
+ },
+ "tally": {
+  "ok": 19,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 11,
+  "error": 0
+ },
+ "finishedAt": "2026-11-09T14:29:28.140Z"
+}
