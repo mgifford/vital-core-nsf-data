@@ -1,0 +1,141 @@
+{
+ "runId": "2026-11-10T12-51-56-475Z-733806",
+ "week": "2026-W46",
+ "domain": "www.nsf.gov",
+ "canonical": {
+  "origin": "https://www.nsf.gov",
+  "configured": "https://www.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-10T12:51:57.923Z",
+ "scanned": [
+  "0cca69a665f9ed47",
+  "8856c42ef0471155",
+  "973c6fbc999cea8e",
+  "2103262d46e118bc",
+  "df9a55565ae770f8",
+  "f5e5c985971a8826",
+  "183326cd10049682",
+  "c667c2e75bb4d58b",
+  "47d0100cb8950901",
+  "16fdd6f1f0b4dcda",
+  "479cd8afc081fac9",
+  "f2d5214ad1e31200",
+  "a578c21c5707d03b",
+  "5d7e73b687af4396",
+  "281b2f9a52c95fce",
+  "fb655bffdb9b1666",
+  "aaac32f8365073d6",
+  "48829d8fb569b6ff",
+  "d9313c293e96550a",
+  "2547c32912793759",
+  "50ebec2f8621fbb2",
+  "a7397fd0c12da70a",
+  "4f8b89a7099092c8",
+  "b2b36f70173bf5f8",
+  "1cd574eb2a71fe96"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 277,
+  "checked": 277,
+  "brokenCount": 5,
+  "broken": [
+   {
+    "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf15116",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/del-documenting-endangered-languages/12816/updates/94639"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/cise/oac/vision/blueprint-2019/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-cyberinfrastructure-data-computation-opportunities-cmmi/nsf23-017"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/cise/oac/vision/blueprint-2019/Data-Software.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-cyberinfrastructure-data-computation-opportunities-cmmi/nsf23-017"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsb0812",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-re-competition-operations-management-nsf-supported-amisr/nsf16-127"
+    ]
+   },
+   {
+    "url": "https://rh.gatech.edu/news/629854/tiny-magnetic-particles-enable-new-material-bend-twist-and-grab",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/news/tiny-magnetic-particles-enable-new-material-bend-twist-grab"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 25,
+  "alfa": 9,
+  "plain-language": 12,
+  "resources": 25,
+  "images": 25,
+  "public-interest": 2,
+  "third-party": 8,
+  "link-check": 25,
+  "standards": 12,
+  "tech": 2,
+  "lighthouse": 4,
+  "security": 2,
+  "sustainability": 3,
+  "deprecated-html": 1
+ },
+ "tally": {
+  "ok": 25,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 3,
+  "error": 0
+ },
+ "finishedAt": "2026-11-10T12:55:46.706Z"
+}
