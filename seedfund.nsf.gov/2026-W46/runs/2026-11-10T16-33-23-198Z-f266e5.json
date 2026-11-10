@@ -1,0 +1,117 @@
+{
+ "runId": "2026-11-10T16-33-23-198Z-f266e5",
+ "week": "2026-W46",
+ "domain": "seedfund.nsf.gov",
+ "canonical": {
+  "origin": "https://seedfund.nsf.gov",
+  "configured": "https://seedfund.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-10T16:33:24.064Z",
+ "scanned": [
+  "74972000bbff3d69",
+  "413f6222c7ff4973",
+  "1cc1c3856b0d4c2f",
+  "49b5dc3609e45d1a",
+  "c00a1158bcf5db2a",
+  "7a9ef2b7b661bec7",
+  "1f084a704872f380",
+  "96a4596b2f607df6",
+  "abe8b3d7bac7001b",
+  "5fdcf6a84f274c71",
+  "c626ce2e90c6af91",
+  "f912f14cdecbfd27",
+  "5fd755f78abcf866",
+  "03c4a9b66845895b",
+  "bafdeb57c07d03c7",
+  "bf73ce10b9bbf294",
+  "49e290534f3600d9",
+  "3273c19d244314f9",
+  "112c6f34fdb86470",
+  "ed632c157de4cfd0",
+  "f3e808bdfae03e90",
+  "dda9d6672c0cd349",
+  "8a9fca0dc624c9a6",
+  "e6d095d21d6e2a4f",
+  "e947706c45c0236d"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 117,
+  "checked": 117,
+  "brokenCount": 2,
+  "broken": [
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf22053",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://seedfund.nsf.gov/resources/applicants"
+    ]
+   },
+   {
+    "url": "http://www.cyprismaterials.com/",
+    "status": 0,
+    "reason": "EAI_AGAIN",
+    "foundOn": [
+     "https://seedfund.nsf.gov/portfolio/details?company=cypris-materials-inc"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 25,
+  "alfa": 15,
+  "resources": 25,
+  "images": 25,
+  "standards": 8,
+  "third-party": 3,
+  "link-check": 25,
+  "plain-language": 9,
+  "deprecated-html": 4,
+  "security": 4,
+  "lighthouse": 3,
+  "public-interest": 3,
+  "tech": 1,
+  "sustainability": 1
+ },
+ "tally": {
+  "ok": 25,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-10T16:36:35.501Z"
+}
