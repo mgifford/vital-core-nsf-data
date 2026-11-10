@@ -1,0 +1,134 @@
+{
+ "runId": "2026-11-10T17-19-01-533Z-1b81ba",
+ "week": "2026-W46",
+ "domain": "seedfund.nsf.gov",
+ "canonical": {
+  "origin": "https://seedfund.nsf.gov",
+  "configured": "https://seedfund.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-10T17:19:02.269Z",
+ "scanned": [
+  "bec232ab46fb226d",
+  "00f72b1d536577e1",
+  "dd0afdbe8aafdafe",
+  "7ce60e31fe3e8354",
+  "7a5f0dedb9dc1617",
+  "012b2aaf0f87860f",
+  "20d578020c2a33f7",
+  "b1af18d8dd15dab2",
+  "d5cbe8e2575c0b80",
+  "83a370dd434b0e44",
+  "a1d34819a4b941a8",
+  "1e5c60a0ffe9e0d0",
+  "3d11277521dde814",
+  "bdf0ca69fb1265c9",
+  "a71b87496926b151",
+  "5496f673165e3b00",
+  "116a14b098e5ba62",
+  "54b0fc19ceb010fd",
+  "4892ba233917029d",
+  "faccc7feef70751f",
+  "0daaac2d67ee5f59",
+  "31c06ca6a3ada566",
+  "bd77249cf3036faf",
+  "9dc9e628c9d55e85",
+  "bbc83ffc1d691362"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 117,
+  "checked": 117,
+  "brokenCount": 4,
+  "broken": [
+   {
+    "url": "https://seedfund.nsf.gov/centers/focus-area/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://seedfund.nsf.gov/centers/ceps/clean-low-energy-method-for-primary-magnesium-metal-production",
+     "https://seedfund.nsf.gov/centers/ceps/liquid-metal-based-thermal-interface-materials-keep-microelectronics-cool",
+     "https://seedfund.nsf.gov/centers/ceps/high-carotenoid-orange-corn-promises-nutritional-enhancement"
+    ]
+   },
+   {
+    "url": "http://www.pcka.com/",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://seedfund.nsf.gov/awardees/history/details?company=pc-krause-and-associates-inc"
+    ]
+   },
+   {
+    "url": "https://seedfund.nsf.gov/apply/project-pitch/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://seedfund.nsf.gov/solicitation-documents"
+    ]
+   },
+   {
+    "url": "http://www.novomebio.com/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://seedfund.nsf.gov/portfolio/details?company=novome-biotechnologies-inc"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 25,
+  "resources": 25,
+  "images": 25,
+  "security": 2,
+  "link-check": 25,
+  "alfa": 16,
+  "plain-language": 13,
+  "public-interest": 4,
+  "sustainability": 3,
+  "third-party": 7,
+  "standards": 8,
+  "tech": 3,
+  "deprecated-html": 2
+ },
+ "tally": {
+  "ok": 25,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-10T17:21:17.841Z"
+}
