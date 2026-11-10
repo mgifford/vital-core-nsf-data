@@ -1,0 +1,195 @@
+{
+ "runId": "2026-11-10T11-03-52-152Z-7ca479",
+ "week": "2026-W46",
+ "domain": "www.nsf.gov",
+ "canonical": {
+  "origin": "https://www.nsf.gov",
+  "configured": "https://www.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-10T11:03:52.817Z",
+ "scanned": [
+  "f033c5e6e577cc7f",
+  "8aa3be4cd270c415",
+  "09b761bcecea101b",
+  "8e5c76ff5c0564ca",
+  "72f15fba5af56c44",
+  "d07367ea98940383",
+  "a663a76dfdcd241e",
+  "d959689ae6e7c710",
+  "13ba9b57e49f166b",
+  "aa8b64e80a14eb47",
+  "ea8eb92235b3dc7c",
+  "a6e6499d2f43c6d3",
+  "7379280c6bcea9f9",
+  "e01dabf15e696ab6",
+  "65ea9cbc1efdbc72",
+  "e7048d551e8ea500",
+  "9e015f218036de29",
+  "51691c44b79ad8db",
+  "84a9c43982b6a20f",
+  "c0db731cf08b6bd2",
+  "20eefca77a0ecc45",
+  "28fb4d1591f97720",
+  "e6c238eaa06de825",
+  "fc324c6723e0ca23",
+  "633ef68483f5709f"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 296,
+  "checked": 296,
+  "brokenCount": 12,
+  "broken": [
+   {
+    "url": "https://www.nsf.gov/funding/information/faq-frequently-asked-questions-faqs-long-term-ecological/nsf19-084",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/lter-long-term-ecological-research/7671/nsf24-520"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_jwm5iJFgQu6qEWPf1s6qSQ",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/mid-scale-research-infrastructure-1-program-informational/2022-11-16"
+    ]
+   },
+   {
+    "url": "https://tableau.external.nsf.gov/views/ProgramAwards/Summary?pims_id=13553&embed=y&%3AisGuestRedirectFromVizportal=y&%3Atoolbar=no&Fpec=755800",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/next-generation-cyberinfrastructure-tools/13553/nsf05-563"
+    ]
+   },
+   {
+    "url": "http://www.nsf.gov/bio/pubs/awards/2010awards.htm",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/2010-project/5337/nsf07-591"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_DiOxq0BDTMWNeURrN_Vtog",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/federal-interagency-conference-social-science-big-data/2020-09-30"
+    ]
+   },
+   {
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section6302&num=0&edition=prelim",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sbirsttr-phase-ii-nsf-small-business-innovation-research-small-business/505989/nsf24-580/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubs/2022/nsf22053/nsf22053.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sbirsttr-phase-ii-nsf-small-business-innovation-research-small-business/505989/nsf24-580/solicitation"
+    ]
+   },
+   {
+    "url": "https://uscode.house.gov/view.xhtml?req=(title:15%20section:638%20edition:prelim)",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sbirsttr-phase-ii-nsf-small-business-innovation-research-small-business/505989/nsf24-580/solicitation"
+    ]
+   },
+   {
+    "url": "https://uscode.house.gov/view.xhtml?req=(title:42%20section:1862p-14%20edition:prelim)",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sbirsttr-phase-ii-nsf-small-business-innovation-research-small-business/505989/nsf24-580/solicitation"
+    ]
+   },
+   {
+    "url": "https://uscode.house.gov/view.xhtml?path=/prelim@title42/chapter16&edition=prelim",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sbirsttr-phase-ii-nsf-small-business-innovation-research-small-business/505989/nsf24-580/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.sbir.gov/sites/default/files/Guide_for_completing_commercialization_Report_SBIR_Gov_09_15_20.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sbirsttr-phase-ii-nsf-small-business-innovation-research-small-business/505989/nsf24-580/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/staff/sub_div.jsp?org=IIS&orgId=3948",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/data-inference-understanding-cluster/13398/14711"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 24,
+  "alfa": 13,
+  "plain-language": 12,
+  "resources": 24,
+  "images": 24,
+  "link-check": 24,
+  "standards": 12,
+  "lighthouse": 1,
+  "third-party": 3,
+  "tech": 3,
+  "deprecated-html": 1,
+  "security": 1
+ },
+ "tally": {
+  "ok": 24,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 1,
+  "error": 0
+ },
+ "finishedAt": "2026-11-10T11:07:20.176Z"
+}
