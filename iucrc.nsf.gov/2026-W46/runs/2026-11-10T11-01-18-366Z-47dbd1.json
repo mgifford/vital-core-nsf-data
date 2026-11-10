@@ -1,0 +1,172 @@
+{
+ "runId": "2026-11-10T11-01-18-366Z-47dbd1",
+ "week": "2026-W46",
+ "domain": "iucrc.nsf.gov",
+ "canonical": {
+  "origin": "https://iucrc.nsf.gov",
+  "configured": "https://iucrc.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-10T11:01:18.975Z",
+ "scanned": [
+  "3681aec2dae9fcce",
+  "51be754c54945aeb",
+  "f4dde08c846d9326",
+  "697b6110d5b4a36c",
+  "a4bfd6ea1b2f0cb7",
+  "fecaa8c89d20c88c",
+  "b8cc7a0997ef8184",
+  "6dfaa349496a376a",
+  "b8e2e3a7905ec935",
+  "60b512933bde72e6",
+  "783090f53a4af8fc",
+  "4ee7f78f50c84454",
+  "38468354b72e05af",
+  "5b392bf77440b769",
+  "bae1d3973065408b",
+  "07a649197d8cebed",
+  "f46db172fb9bdf9b",
+  "91607c5617604add",
+  "9a03c2a541822b26",
+  "970e2491656bd049",
+  "73c4d8fa77c40f86",
+  "27180125c3161a59",
+  "fcf1fe3418cefe2b",
+  "258566a29450b3b6",
+  "ba7a25a80f4487a4"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 252,
+  "checked": 252,
+  "brokenCount": 9,
+  "broken": [
+   {
+    "url": "http://www.janssen.com/",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/advanced-mammalian-biomanufacturing-innovation-center"
+    ]
+   },
+   {
+    "url": "https://www.usdairy.com/about-us/dmi",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/membrane-engineering-science-and-technology-center"
+    ]
+   },
+   {
+    "url": "https://www.sigmaaldrich.com/US/en?srsltid=AfmBOorxuVrt2gplXvKgtqsNaKj2qbU-M0pvX3CwheKIseugrfy6IVon",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/membrane-engineering-science-and-technology-center"
+    ]
+   },
+   {
+    "url": "https://www.usbr.gov/",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/membrane-engineering-science-and-technology-center"
+    ]
+   },
+   {
+    "url": "https://www.hpe.com/us/en/home.html",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-advanced-electronics-through-machine-learning"
+    ]
+   },
+   {
+    "url": "https://www.si2technologies.com/",
+    "status": 0,
+    "reason": "ERR_SSL_TLSV1_ALERT_INTERNAL_ERROR",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-advanced-electronics-through-machine-learning"
+    ]
+   },
+   {
+    "url": "https://www.lockheedmartin.com/en-us/index.html",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-advanced-electronics-through-machine-learning"
+    ]
+   },
+   {
+    "url": "https://iucrc.nsf.gov/centers/center-for-research-in-systems-and-storage-crss",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/focus-area/information-communication-and-computing"
+    ]
+   },
+   {
+    "url": "https://iucrc.nsf.gov/centers/center-for-electric-connected-and-autonomous-technologies-for-mobility-ecat",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/focus-area/information-communication-and-computing"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 22,
+  "alfa": 12,
+  "plain-language": 10,
+  "resources": 22,
+  "images": 22,
+  "link-check": 22,
+  "third-party": 7,
+  "deprecated-html": 3,
+  "standards": 10,
+  "lighthouse": 3,
+  "public-interest": 3,
+  "security": 1,
+  "tech": 1
+ },
+ "tally": {
+  "ok": 22,
+  "blocked": 3,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-10T11:04:11.614Z"
+}
