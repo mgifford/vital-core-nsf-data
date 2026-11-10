@@ -1,0 +1,196 @@
+{
+ "runId": "2026-11-10T12-53-48-873Z-9cab60",
+ "week": "2026-W46",
+ "domain": "iucrc.nsf.gov",
+ "canonical": {
+  "origin": "https://iucrc.nsf.gov",
+  "configured": "https://iucrc.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-10T12:53:49.745Z",
+ "scanned": [
+  "d7b1500ed1920743",
+  "6f9247dd70d23d63",
+  "9a643f971dbcdee9",
+  "92aabf4e9fbe1ad5",
+  "3373e1abfc8cbbca",
+  "aec13f12aba374a4",
+  "ad034b126e9a66e5",
+  "e927e765c3c31cde",
+  "a61512c1f52d06c4",
+  "bdf32fd9a1ccfa86",
+  "3ce1d8da3b2f7243",
+  "bc62be6ded3adc18",
+  "a84a4674073a0d29",
+  "5f203d98fb8735bf",
+  "af0a446423d7aaa7",
+  "8da37a7b0875a26e",
+  "7e141d1ef84cf0dc",
+  "c24ed09982133b78",
+  "7908ce9ecebc45bd",
+  "0da3104d764bd171",
+  "dca116d9b112fb37",
+  "6b847ee9fb73e203",
+  "1bb13e7e8794ec0e",
+  "ae811fdf5d484bfb",
+  "7b8c9b28a86f12e2"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 258,
+  "checked": 258,
+  "brokenCount": 12,
+  "broken": [
+   {
+    "url": "https://www.usaa.com/",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-innovation-in-risk-catastrophes-and-decisions-circad"
+    ]
+   },
+   {
+    "url": "https://info.bwc.ohio.gov/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-disruptive-musculoskeletal-innovations"
+    ]
+   },
+   {
+    "url": "https://www.eaton.com/us/en-us.html",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/grid-connected-advanced-power-electronic-systems"
+    ]
+   },
+   {
+    "url": "https://mds-rely.org/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-materials-data-science-for-reliability-and-degradation-mds-rely"
+    ]
+   },
+   {
+    "url": "http://cchips.research.chop.edu/",
+    "status": 0,
+    "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-child-injury-prevention-studies"
+    ]
+   },
+   {
+    "url": "http://www.inrf.uci.edu/cadmim/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-advanced-design-and-man-of-integrated-microfluidics"
+    ]
+   },
+   {
+    "url": "https://www.quinaultindiannation.com/163/Quinault-Division-of-Natural-Resources-Q",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-advanced-forestry-systems"
+    ]
+   },
+   {
+    "url": "https://www.chargecccv.com/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-solid-state-electric-power-storage-ceps"
+    ]
+   },
+   {
+    "url": "https://www.spi-ind.com/Operations/Seneca",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-advanced-forestry-systems"
+    ]
+   },
+   {
+    "url": "http://www.ces.asu.edu/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-embedded-systems"
+    ]
+   },
+   {
+    "url": "https://www.vaneck.com/de/en/our-firm/forest-project/",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-advanced-forestry-systems"
+    ]
+   },
+   {
+    "url": "https://internationalforestcogov.com/",
+    "status": 0,
+    "reason": "EAI_AGAIN",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-advanced-forestry-systems"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 23,
+  "plain-language": 13,
+  "resources": 23,
+  "images": 23,
+  "tech": 4,
+  "third-party": 6,
+  "lighthouse": 3,
+  "link-check": 23,
+  "standards": 11,
+  "security": 5,
+  "alfa": 10,
+  "deprecated-html": 4,
+  "sustainability": 1
+ },
+ "tally": {
+  "ok": 23,
+  "blocked": 2,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-10T12:57:00.700Z"
+}
