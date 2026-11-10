@@ -1,0 +1,244 @@
+{
+ "runId": "2026-11-10T15-33-07-491Z-b915e9",
+ "week": "2026-W46",
+ "domain": "www.nsf.gov",
+ "canonical": {
+  "origin": "https://www.nsf.gov",
+  "configured": "https://www.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-10T15:33:07.914Z",
+ "scanned": [
+  "f7c3312ba0fbf2a4",
+  "145c3d553cea37e9",
+  "9416ecfd88e849ef",
+  "2c7a5e55ae8e9ab2",
+  "bcdaaaaca4a7ab1e",
+  "7d0ece3c4de20549",
+  "1f551a507ae71a07",
+  "dff64649eeec8dc1",
+  "3e6456232b2ef124",
+  "490215d6b6427153",
+  "eaa3d2d3b71432dc",
+  "a3096993705ab134",
+  "3daf523e8409d308",
+  "75bfbf9d16aedb77",
+  "831bc5878c983a0a",
+  "86b2bb0b25344d5e",
+  "4afd8862d270ca48",
+  "d61cd4533e8fad8e",
+  "8896ed277f002193",
+  "ee662e9bc14e5b17",
+  "0250b0858a168251",
+  "c782c6c1ad4dfcbe",
+  "0a9738bc88e5a1dc",
+  "971c7efeab68debb",
+  "fac0f2944c461726"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 301,
+  "checked": 301,
+  "brokenCount": 15,
+  "broken": [
+   {
+    "url": "https://www.nsf.gov/focus-areas/biotechnology",
+    "status": 502,
+    "reason": "HTTP 502",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/s-stem-nsf-scholarships-science-technology-engineering-mathematics/nsf23-527",
+     "https://www.nsf.gov/events/mps-webinar-national-science-foundation-research-traineeship",
+     "https://www.nsf.gov/honorary-awards/pecase/recipients/javier-garcia-frias",
+     "https://www.nsf.gov/policies/document/master-agreement-standing-committees-april-2012",
+     "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/donald-e-knuth",
+     "https://www.nsf.gov/policies/document/general-programmatic-terms-conditions-ptcs-innovation-corps",
+     "https://www.nsf.gov/events/mcb-intersections-bioeconomy",
+     "https://www.nsf.gov/news/nsf-chemistry-division-awards-6-planning-grants-broaden",
+     "https://www.nsf.gov/funding/opportunities/mathematical-sciences-innovations-interface-computer/9673/nsf07-534",
+     "https://www.nsf.gov/reports/statistics/united-states-invests-more-applied-basic-research-any-other",
+     "https://www.nsf.gov/policies/document/proposal-award-policies-procedures-guide-pappg-june-2020/nsf20-001",
+     "https://www.nsf.gov/funding/opportunities/safe-ose-safety-security-privacy-open-source-ecosystems/506343/nsf24-608/solicitation",
+     "https://www.nsf.gov/about/contact-us",
+     "https://www.nsf.gov/funding/opportunities/dcl-great-american-solar-eclipses-2023-2024/nsf23-014",
+     "https://www.nsf.gov/reports/performance/nsf-fy-2023-performance-financial-highlights",
+     "https://www.nsf.gov/funding/opportunities/rii-bec-epscor-research-infrastructure-improvement-program-bridging/505999/nsf22-536/solicitation",
+     "https://www.nsf.gov/funding/opportunities/olfactory-cracking-olfactory-code/504773/nsf12-579",
+     "https://www.nsf.gov/news/nsf-announces-15b-foundational-research-drive-scientific",
+     "https://www.nsf.gov/funding/opportunities/rii-track-1-epscor-research-infrastructure-improvement-program-track-1/503429/nsf16-557",
+     "https://www.nsf.gov/funding/information/dcl-revision-cise-research-infrastructure-cri-program",
+     "https://www.nsf.gov/events/build-broaden-workshop",
+     "https://www.nsf.gov/events/predictive-intelligence-pandemic-prevention-pipp-program/2021-09-02",
+     "https://www.nsf.gov/funding/opportunities/scc-smart-connected-communities/505364/nsf19-564",
+     "https://www.nsf.gov/funding/opportunities/launching-early-career-academic-pathways-mathematical/505892/nsf22-604",
+     "https://www.nsf.gov/funding/opportunities/partnership-advancing-technologies-housing/13499/nsf05-547/solicitation"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_p_VYgAJ9Spu6QVH10U935A",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/mps-webinar-national-science-foundation-research-traineeship"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubs/2021/nsf21536/nsf21536.htm",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/mps-webinar-national-science-foundation-research-traineeship"
+    ]
+   },
+   {
+    "url": "https://mcbblog.nsfbio.com/office-hours/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/events/mcb-intersections-bioeconomy"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_rcG95iI9QOOed-VfarsHFQ",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/mcb-intersections-bioeconomy"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/funding/opportunities/safe-ose-safety-security-privacy-open-source-ecosystems/506343/nsf24-608/SAM.gov",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/safe-ose-safety-security-privacy-open-source-ecosystems/506343/nsf24-608/solicitation"
+    ]
+   },
+   {
+    "url": "https://new.nsf.gov/www.govregs.com/regulations/2/200.475",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/safe-ose-safety-security-privacy-open-source-ecosystems/506343/nsf24-608/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/od/oia/programs/epscor/Eligibility_Tables/FY2022_Eligibility.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/rii-bec-epscor-research-infrastructure-improvement-program-bridging/505999/nsf22-536/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf0531",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/rii-bec-epscor-research-infrastructure-improvement-program-bridging/505999/nsf22-536/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.fastlane.nsf.gov/a1/newstan.htm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/rii-bec-epscor-research-infrastructure-improvement-program-bridging/505999/nsf22-536/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf18045",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/rii-bec-epscor-research-infrastructure-improvement-program-bridging/505999/nsf22-536/solicitation"
+    ]
+   },
+   {
+    "url": "https://portalcentral.aihec.org/Indigeval/Lists/IndigenousEvaluationFrmWork/AllItems.aspx",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/rii-bec-epscor-research-infrastructure-improvement-program-bridging/505999/nsf22-536/solicitation"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJIsc-upqDktHKqiW50mJrIIXPS1VZz_v4c",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/build-broaden-workshop"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/mps/mps_webpage_documents/LEAPS_NSF_22-604_FAQ.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/launching-early-career-academic-pathways-mathematical/505892/nsf22-604"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/mps/Webinar_Slides/LEAPS-MPS_FY24_Webinars.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/launching-early-career-academic-pathways-mathematical/505892/nsf22-604"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 25,
+  "plain-language": 11,
+  "resources": 25,
+  "images": 25,
+  "link-check": 25,
+  "standards": 12,
+  "alfa": 11,
+  "third-party": 10,
+  "lighthouse": 3,
+  "security": 2,
+  "tech": 3,
+  "public-interest": 2,
+  "deprecated-html": 3
+ },
+ "tally": {
+  "ok": 25,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 1,
+  "error": 0
+ },
+ "finishedAt": "2026-11-10T15:38:40.896Z"
+}
