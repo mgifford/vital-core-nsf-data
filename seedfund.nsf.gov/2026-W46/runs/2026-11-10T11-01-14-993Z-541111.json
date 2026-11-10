@@ -1,0 +1,108 @@
+{
+ "runId": "2026-11-10T11-01-14-993Z-541111",
+ "week": "2026-W46",
+ "domain": "seedfund.nsf.gov",
+ "canonical": {
+  "origin": "https://seedfund.nsf.gov",
+  "configured": "https://seedfund.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-10T11:01:15.725Z",
+ "scanned": [
+  "372acaad3e1eb414",
+  "ee31fb55dbcdcde4",
+  "e6a41ca7108e033a",
+  "b54cab956d10a25e",
+  "6b7980bcd06b17bc",
+  "904865126051210f",
+  "2885181a4600863e",
+  "7e76640c23064cdb",
+  "87d70b9957e4e716",
+  "a45f9c362d7b0534",
+  "1c5bea1d2abf40fd",
+  "9ec4b0cde72a0440",
+  "4f1917e0e457c381",
+  "a9d04c3ee1463def",
+  "6b734ff82182bbc2",
+  "87b70df7dbea2f30",
+  "989bb62d6df4e31a",
+  "5073be00aba2b16d",
+  "192f6656b75335de",
+  "354a564a7adf5af1",
+  "fc7e607287b3532b",
+  "9595064e62ffe149",
+  "cac2fa9b0ee4d09a",
+  "98b4e9929f39b83b",
+  "6f8cc9832bb24ce1"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 122,
+  "checked": 122,
+  "brokenCount": 1,
+  "broken": [
+   {
+    "url": "https://www.radiatorlabs.com/",
+    "status": 0,
+    "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
+    "foundOn": [
+     "https://seedfund.nsf.gov/topics/internet-of-things"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 25,
+  "alfa": 13,
+  "plain-language": 7,
+  "resources": 25,
+  "images": 25,
+  "standards": 13,
+  "link-check": 25,
+  "lighthouse": 2,
+  "third-party": 8,
+  "security": 2,
+  "public-interest": 4,
+  "sustainability": 1,
+  "tech": 1
+ },
+ "tally": {
+  "ok": 25,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-10T11:03:48.429Z"
+}
