@@ -1,0 +1,117 @@
+{
+ "runId": "2026-11-10T13-47-37-636Z-f3f04f",
+ "week": "2026-W46",
+ "domain": "seedfund.nsf.gov",
+ "canonical": {
+  "origin": "https://seedfund.nsf.gov",
+  "configured": "https://seedfund.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-10T13:47:38.363Z",
+ "scanned": [
+  "4a658d8d1c237cb8",
+  "f29a939c16f72e84",
+  "55ed9d5cab16190c",
+  "2838571ebf9c7629",
+  "6a459802d03748da",
+  "6da37ce30afcfd88",
+  "c7504f0a57467863",
+  "ee2d0c72d8dbc830",
+  "ad2779a6132cbb36",
+  "681b17369d62e9b6",
+  "835e8858d7219051",
+  "7528cf7d8cc8b7e8",
+  "df4c49e4e02409fc",
+  "344a1d1e2b4cbba6",
+  "b0cc1f62b5b036c9",
+  "6340a2caa89f1e14",
+  "ce77ec461e41a426",
+  "1d214a26cbe2c47d",
+  "cbc187adecb5df78",
+  "0e0e9e3f3086e014",
+  "14360479de1f7cbd",
+  "37d7ea5d47e16752",
+  "7c26a639b304b775",
+  "744a65ef256890ca",
+  "0d062ee67a13c2c6"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 101,
+  "checked": 101,
+  "brokenCount": 2,
+  "broken": [
+   {
+    "url": "https://legacy.www.sbir.gov/tutorials/individual-agency-requirements/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://seedfund.nsf.gov/resources/additional-resources"
+    ]
+   },
+   {
+    "url": "https://www.sbir.gov/sites/default/files/2022-06/SBIR-Table_StateMatchingPhase0_Sept2020.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://seedfund.nsf.gov/resources/additional-resources"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 25,
+  "plain-language": 12,
+  "resources": 25,
+  "images": 25,
+  "link-check": 25,
+  "alfa": 15,
+  "standards": 14,
+  "deprecated-html": 1,
+  "sustainability": 3,
+  "lighthouse": 4,
+  "third-party": 2,
+  "public-interest": 2,
+  "security": 1,
+  "tech": 1
+ },
+ "tally": {
+  "ok": 25,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-10T13:50:51.137Z"
+}
