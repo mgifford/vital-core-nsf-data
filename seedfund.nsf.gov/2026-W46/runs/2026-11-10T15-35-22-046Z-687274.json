@@ -1,0 +1,116 @@
+{
+ "runId": "2026-11-10T15-35-22-046Z-687274",
+ "week": "2026-W46",
+ "domain": "seedfund.nsf.gov",
+ "canonical": {
+  "origin": "https://seedfund.nsf.gov",
+  "configured": "https://seedfund.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-10T15:35:24.272Z",
+ "scanned": [
+  "6b826b421dfd6e41",
+  "446b8ea149a69ce9",
+  "78a9f5c3fd314828",
+  "199abbcd911fa9e9",
+  "f5bac0e607c85554",
+  "b992ddbd5c1c69ba",
+  "549d86e96b7272d2",
+  "64f7a0f73e048f2e",
+  "700dc9523cbbbd49",
+  "dc20645a1ebe31af",
+  "5bad1c9342b220f5",
+  "04795542be6b21c7",
+  "bfe660d23bd8ab0b",
+  "e2e4e70929a07f0e",
+  "30a0bd1ab5b8186f",
+  "eaf1213fc5dd7d14",
+  "7a9b1e43512a054b",
+  "0e02824fd967697e",
+  "dda28b6df4a82bd9",
+  "7a0fe8f0ad4f88b2",
+  "b3adc0513b872fc0",
+  "ed62f9fcb99b3961",
+  "178212f4f90f7411",
+  "7a852c5a53a5cc4d",
+  "164d4095143cb7b4"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 107,
+  "checked": 107,
+  "brokenCount": 2,
+  "broken": [
+   {
+    "url": "https://techconnect.org/2026-sbir-sttr-fall-innovation-conference/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://seedfund.nsf.gov/events"
+    ]
+   },
+   {
+    "url": "https://seedfund.nsf.gov/centers/focus-area/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://seedfund.nsf.gov/centers/ceps/recycling-waste-coal-ash-promises-more-sustainable-concrete-materials"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 25,
+  "plain-language": 13,
+  "resources": 25,
+  "images": 25,
+  "third-party": 8,
+  "link-check": 25,
+  "standards": 10,
+  "security": 2,
+  "alfa": 5,
+  "public-interest": 3,
+  "deprecated-html": 4,
+  "lighthouse": 2,
+  "sustainability": 1
+ },
+ "tally": {
+  "ok": 25,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-10T15:38:08.192Z"
+}
