@@ -1,0 +1,177 @@
+{
+ "runId": "2026-11-10T17-19-13-067Z-b27ea2",
+ "week": "2026-W46",
+ "domain": "www.nsf.gov",
+ "canonical": {
+  "origin": "https://www.nsf.gov",
+  "configured": "https://www.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-10T17:19:13.626Z",
+ "scanned": [
+  "54af13027bb1545f",
+  "cc6cbeabb75af70e",
+  "37c3eb610b45741a",
+  "8de53dc80392d9c0",
+  "e9b4fc27fa6f9f5e",
+  "2ee74803d0f8b274",
+  "f008240fc2ea07b5",
+  "9b52acfc91614cfe",
+  "305620cca0ecbb7d",
+  "ac1c975340d58f39",
+  "76e3e4de64566c4e",
+  "5331a08202d2ea64",
+  "765b4602c9f36c29",
+  "d6a95be11924eab6",
+  "6c9e549433358674",
+  "1a7c441ace0fef3a",
+  "8d1450a7067aea0a",
+  "f039239ed8c9f7d1",
+  "9307138d8da1b8fe",
+  "f39b0e37fca63acd",
+  "007241c7ae5ccb18"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 305,
+  "checked": 305,
+  "brokenCount": 10,
+  "broken": [
+   {
+    "url": "http://www.nsf.gov/mps/che/nuggets/nuggets_crif.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/crifid-chemistry-research-instrumentation-facilities-instrument/6167/nsf04-534"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_I9e2L_TMRbmu9NNXJ9H1Jg",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/virtual-office-hours-broader-impacts-broadening/2020-11-18"
+    ]
+   },
+   {
+    "url": "https://www.saferfederalworkforce.gov/contractors/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/ship-based-technical-support-arctic/503383/nsf22-528/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf18045",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/ship-based-technical-support-arctic/503383/nsf22-528/solicitation"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_ZSqQmFi5Q22YXvz3DFPVtw",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/chat-live-marine-biologists-antarctica/2021-12-10"
+    ]
+   },
+   {
+    "url": "http://icefloe.net/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/ship-based-technical-support-arctic/503383/nsf22-528/solicitation"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_7tkM54uuTniBB4uFf7HbCg",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/funding-opportunity-webinar-strengthening-american"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/cgi-bin/good-bye?https://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/cise"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_KV4lI3dCQsyp-2D2K1a4mQ",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/dms-virtual-office-hours-6"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_iH99UulKRwW9MJTFxHhXbg",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/after-office-hours-preparing-your-nsf-sbirsttr-phase-i"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 21,
+  "plain-language": 13,
+  "resources": 21,
+  "images": 21,
+  "third-party": 6,
+  "link-check": 21,
+  "alfa": 11,
+  "standards": 12,
+  "sustainability": 2,
+  "security": 4,
+  "lighthouse": 2,
+  "tech": 1,
+  "deprecated-html": 2,
+  "public-interest": 1
+ },
+ "tally": {
+  "ok": 21,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 3,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 2,
+  "error": 0
+ },
+ "finishedAt": "2026-11-10T17:22:55.195Z"
+}
