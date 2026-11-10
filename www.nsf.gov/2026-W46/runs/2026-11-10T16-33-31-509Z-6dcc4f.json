@@ -1,0 +1,201 @@
+{
+ "runId": "2026-11-10T16-33-31-509Z-6dcc4f",
+ "week": "2026-W46",
+ "domain": "www.nsf.gov",
+ "canonical": {
+  "origin": "https://www.nsf.gov",
+  "configured": "https://www.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-10T16:33:34.198Z",
+ "scanned": [
+  "a6069368a1b7633c",
+  "4ae2085c8266b253",
+  "bfb5dfaa583c4667",
+  "15c290838ed73725",
+  "304815924f46872a",
+  "da879366ad13faf4",
+  "b95a61d5f9fab942",
+  "fc41814ba1e60f07",
+  "4bf992126558ae08",
+  "f20402b2caf27030",
+  "a4c65fdf6afd0e7b",
+  "c53ef4b616714d76",
+  "90f30231cc1af7e4",
+  "bcd8eead2f8b9ecf",
+  "6d845c18d75f09a1",
+  "02d60ec62678e906",
+  "53007527c8971072",
+  "307f58826c0d2543",
+  "443514ea9db8bb93",
+  "077c820733f54cde",
+  "27f7531fdc852cf0",
+  "122eca6416edc880",
+  "f804ef32936e33b7",
+  "d7552a39cb94618c",
+  "b30e776c5cdb0114"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 703,
+  "checked": 500,
+  "brokenCount": 12,
+  "broken": [
+   {
+    "url": "https://www.nsf.gov/edu/Videos/2023STEMEdIPRFWebinars.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/webinars-virtual-office-hours-september-16-november-25-2024/2024-10-23"
+    ]
+   },
+   {
+    "url": "https://www.fastlane.nsf.gov/a1/newstan.htm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/fmitf-formal-methods-field/505518/nsf18-596/solicitation",
+     "https://www.nsf.gov/funding/opportunities/understanding-rules-life-epigenetics/505582/nsf20-512/solicitation",
+     "https://www.nsf.gov/funding/opportunities/bbsi-nibib-nsf-bioengineering-bioinformatics-summer-institutes/5526/nsf05-611/solicitation",
+     "https://www.nsf.gov/funding/opportunities/fw-htf-future-work-human-technology-frontier-advancing-cognitive/505528/nsf18-548/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/cise/bpc",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/fmitf-formal-methods-field/505518/nsf18-596/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf18045&org=NSF",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/fmitf-formal-methods-field/505518/nsf18-596/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/policies/SOR_PA_NSF-50_Principal_Investigator_Proposal_File.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/fmitf-formal-methods-field/505518/nsf18-596/solicitation",
+     "https://www.nsf.gov/funding/opportunities/fw-htf-future-work-human-technology-frontier-advancing-cognitive/505528/nsf18-548/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf18045",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/understanding-rules-life-epigenetics/505582/nsf20-512/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubs/2022/nsf22568/nsf22568.htm",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/future-manufacturing-webinar"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubs/2021/nsf21061/nsf21061.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/future-manufacturing-webinar"
+    ]
+   },
+   {
+    "url": "http://www.nsf.gov/home/crssprgm/reu/list_result.cfm?unitid=5052",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/office-special-programs-materials-research/12803/pd14-7222"
+    ]
+   },
+   {
+    "url": "http://www.nsf.gov/mps/dmr/awards/imi.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/office-special-programs-materials-research/12803/pd14-7222"
+    ]
+   },
+   {
+    "url": "http://www.nsfdiscoverycorps.org/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcf-discovery-corps-fellowships/6676/nsf07-516"
+    ]
+   },
+   {
+    "url": "http://www.nsf.gov/mps/che/nuggets/nuggets_discorps.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcf-discovery-corps-fellowships/6676/nsf07-516"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 24,
+  "plain-language": 12,
+  "resources": 24,
+  "images": 24,
+  "public-interest": 2,
+  "link-check": 24,
+  "alfa": 13,
+  "standards": 13,
+  "sustainability": 2,
+  "tech": 1,
+  "security": 1,
+  "third-party": 5,
+  "deprecated-html": 3,
+  "lighthouse": 1
+ },
+ "tally": {
+  "ok": 24,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 2,
+  "error": 0
+ },
+ "finishedAt": "2026-11-10T16:37:44.591Z"
+}
