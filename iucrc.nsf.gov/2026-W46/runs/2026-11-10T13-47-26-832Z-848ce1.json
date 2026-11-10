@@ -1,0 +1,124 @@
+{
+ "runId": "2026-11-10T13-47-26-832Z-848ce1",
+ "week": "2026-W46",
+ "domain": "iucrc.nsf.gov",
+ "canonical": {
+  "origin": "https://iucrc.nsf.gov",
+  "configured": "https://iucrc.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-10T13:47:27.445Z",
+ "scanned": [
+  "2510038527ab736a",
+  "ddff410ca594ea8e",
+  "669039965070489c",
+  "9212677a4fa1fea1",
+  "102f751138d824f0",
+  "420e3a390cda9835",
+  "7dc30bd0fb5e9239",
+  "d0c61de1d01302cf",
+  "e09249c1fb565a55",
+  "b316c4fe06fe4692",
+  "2cfa44ab869bef19",
+  "ec1d56132b4ae10e",
+  "b27f6c93e53005f3",
+  "6bf8a9f2bfcd421f",
+  "ec5a166cec524733",
+  "c61b70e2988bb6f8",
+  "aae5682a223b2c9a",
+  "4625dea4fd069df6",
+  "a8c2bba5974cfa78",
+  "2114299063fcd666",
+  "6b7d52150e8574dd",
+  "89aeca6c9b3a7051",
+  "33ddf92e53c69627",
+  "e63795ce73b9b21f",
+  "93c5c45605765a61"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 199,
+  "checked": 199,
+  "brokenCount": 3,
+  "broken": [
+   {
+    "url": "https://usdairy.com/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-advanced-research-in-drying"
+    ]
+   },
+   {
+    "url": "https://www.lockheedmartin.com/",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/multi-functional-integrated-system-technology"
+    ]
+   },
+   {
+    "url": "https://www.lockheedmartin.com/en-us/index.html",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-wireless-innovation-towards-secure-pervasive-efficient-and-resilient-next-g-networks-wisper"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 25,
+  "alfa": 12,
+  "plain-language": 14,
+  "resources": 25,
+  "images": 25,
+  "standards": 9,
+  "third-party": 5,
+  "link-check": 25,
+  "public-interest": 4,
+  "sustainability": 3,
+  "lighthouse": 3,
+  "security": 3,
+  "tech": 3
+ },
+ "tally": {
+  "ok": 25,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-10T13:50:21.451Z"
+}
