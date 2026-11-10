@@ -1,0 +1,229 @@
+{
+ "runId": "2026-11-10T13-50-08-018Z-238487",
+ "week": "2026-W46",
+ "domain": "www.nsf.gov",
+ "canonical": {
+  "origin": "https://www.nsf.gov",
+  "configured": "https://www.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-10T13:50:09.153Z",
+ "scanned": [
+  "6c4c4b93271732e1",
+  "19b9cdb79bdcddf9",
+  "d576d10c5d2fef2d",
+  "fbc63caa8e8b7867",
+  "ab8d9c72e2c9c6e2",
+  "a018fe0a4118fb8f",
+  "dd49c19328ff8b41",
+  "da76dcb7877e164a",
+  "43b76cb766552ac9",
+  "e61c7c205a53a594",
+  "a53c868ed71e6c8e",
+  "1912d10f03da6ef4",
+  "52714ac4674e24dd",
+  "d076c0a5fbfab07c",
+  "55ae191ca92a4775",
+  "8d4bb3aa8beb5de0",
+  "6ad6357cec259436",
+  "fbe66c478e08bfc6",
+  "18c895ce05653a8e",
+  "6671c8851ab474ae",
+  "f82acdf2aeeb71ba",
+  "8ae5f9a00eec0948",
+  "63db757481fc47b6",
+  "e99552d0074643c9"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 338,
+  "checked": 338,
+  "brokenCount": 16,
+  "broken": [
+   {
+    "url": "https://www.nsf.gov/bio/dbi/SERC_EA.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/fsml-capacity-biological-field-stations-marine-laboratories"
+    ]
+   },
+   {
+    "url": "https://www.whitehouse.gov/CSforAll",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/csforall-research-rpps-computer-science-all/505359/nsf24-555"
+    ]
+   },
+   {
+    "url": "http://researchandpractice.org/csforall/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/csforall-research-rpps-computer-science-all/505359/nsf24-555"
+    ]
+   },
+   {
+    "url": "http://www.whitehouse.gov/sites/default/files/microsites/ostp/pcast-engage-to-excel-final_2-25-12.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/oce-prf-ocean-sciences-postdoctoral-research-fellowships/503668/nsf14-607/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubs/2008/nsb084/index.jsp?org=NSF",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/oce-prf-ocean-sciences-postdoctoral-research-fellowships/503668/nsf14-607/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.fastlane.nsf.gov/a1/newstan.htm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/oce-prf-ocean-sciences-postdoctoral-research-fellowships/503668/nsf14-607/solicitation",
+     "https://www.nsf.gov/funding/opportunities/acc-f-american-competitiveness-chemistry-fellowship/503237/nsf10-535/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.fastlane.nsf.gov/fastlane.jsp;jsessionid=957fa123f59d4065f3de347559b2:Dqk3?t=0&idx=5",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/oce-prf-ocean-sciences-postdoctoral-research-fellowships/503668/nsf14-607/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=aag",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/oce-prf-ocean-sciences-postdoctoral-research-fellowships/503668/nsf14-607/solicitation",
+     "https://www.nsf.gov/funding/opportunities/acc-f-american-competitiveness-chemistry-fellowship/503237/nsf10-535/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubs/2014/nsf14043/nsf14043.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/oce-prf-ocean-sciences-postdoctoral-research-fellowships/503668/nsf14-607/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/policies/SOR_PA_NSF-50_Principal_Investigator_Proposal_File.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/oce-prf-ocean-sciences-postdoctoral-research-fellowships/503668/nsf14-607/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.whitehouse.gov/wp-content/uploads/2022/10/National-Strategy-for-the-Arctic-Region.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/information/dcl-updates-navigating-new-arctic-nna-program/nsf23-088"
+    ]
+   },
+   {
+    "url": "https://bme.duke.edu/about/news/how-eye-imaging-technology-could-help-robots-and-cars-see-better",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/news/ophthalmology-technology-could-help-robots-cars-see-3d"
+    ]
+   },
+   {
+    "url": "http://www.nsf.gov/mps/che/nuggets/nuggets_organic.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/syo-dyn-organic-macromolecular-chemistry/5640/pd07-3903"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_854SLoyjT6SkAw8Y30pBDQ",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/information-intelligent-systems-iis-office-hours-7"
+    ]
+   },
+   {
+    "url": "http://enhancinginnovation.wustl.edu/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/acc-f-american-competitiveness-chemistry-fellowship/503237/nsf10-535/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.chem.harvard.edu/groups/friend/GenderEquityWorkshop/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/acc-f-american-competitiveness-chemistry-fellowship/503237/nsf10-535/solicitation"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 24,
+  "alfa": 13,
+  "resources": 24,
+  "images": 24,
+  "tech": 3,
+  "link-check": 24,
+  "plain-language": 12,
+  "third-party": 5,
+  "sustainability": 5,
+  "deprecated-html": 3,
+  "standards": 6,
+  "public-interest": 2,
+  "lighthouse": 1
+ },
+ "tally": {
+  "ok": 24,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 1,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 3,
+  "error": 0
+ },
+ "finishedAt": "2026-11-10T13:53:53.137Z"
+}
