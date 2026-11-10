@@ -1,0 +1,149 @@
+{
+ "runId": "2026-11-10T13-47-28-609Z-9fa4bb",
+ "week": "2026-W46",
+ "domain": "ncses.nsf.gov",
+ "canonical": {
+  "origin": "https://ncses.nsf.gov",
+  "configured": "https://ncses.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-10T13:47:30.746Z",
+ "scanned": [
+  "7e042458b9574ec2",
+  "211f6dcdaf21b3d9",
+  "3419d86c0db224fa",
+  "7de90def898f2036",
+  "737eb12499369a3e",
+  "5e2b403802a537a6",
+  "ea0f48b970a2e9f2",
+  "269a2513c931caf0",
+  "9fd5086cb47cef58",
+  "8f82de46c69dbe18",
+  "c5fc4397802971c7",
+  "7b47ac636fe78ac9",
+  "79ba68804e67850e",
+  "058cf9df1af878f9",
+  "c17c42ff152d8718",
+  "4f44f7d7ca5753a5",
+  "71e8f7710d22c001"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 1791,
+  "checked": 500,
+  "brokenCount": 7,
+  "broken": [
+   {
+    "url": "https://ncses.nsf.gov/pubs/nsf23315/report",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20245/downloads",
+     "https://ncses.nsf.gov/pubs/nsb20245/stem-pathways-degree-attainment-and-training-of-workers-in-stem"
+    ]
+   },
+   {
+    "url": "https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20214/international-collaboration-and-citations"
+    ]
+   },
+   {
+    "url": "https://www.whitehouse.gov/wp-content/uploads/2024/03/ap_6_research_fy2025.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsf24331"
+    ]
+   },
+   {
+    "url": "https://www.whitehouse.gov/ostp/news-updates/2024/05/15/nstc-advancing-research-capacity-at-high-research-activity-historically-black-colleges-and-universities/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsf24331"
+    ]
+   },
+   {
+    "url": "https://www.oecd.org/sti/ind/49894138.pdf",
+    "status": 410,
+    "reason": "HTTP 410",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20205/technical-appendix"
+    ]
+   },
+   {
+    "url": "https://www.strategyand.pwc.com/innovation1000",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20205/technical-appendix"
+    ]
+   },
+   {
+    "url": "https://www.mckinsey.com/~/media/McKinsey/Industries/Advanced%20Electronics/Our%20Insights/How%20artificial%20intelligence%20can%20deliver%20real%20value%20to%20companies/MGI-Artificial-Intelligence-Discussion-paper.ashx",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20205/technical-appendix"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "sustainability": 7,
+  "axe": 17,
+  "alfa": 10,
+  "resources": 17,
+  "images": 17,
+  "standards": 10,
+  "third-party": 6,
+  "link-check": 17,
+  "public-interest": 2,
+  "tech": 3,
+  "plain-language": 7,
+  "security": 1,
+  "deprecated-html": 1
+ },
+ "tally": {
+  "ok": 17,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 11,
+  "error": 0
+ },
+ "finishedAt": "2026-11-10T13:51:38.708Z"
+}
