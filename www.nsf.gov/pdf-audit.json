@@ -1,6 +1,6 @@
 {
  "domain": "www.nsf.gov",
- "updatedAt": "2026-11-09T01:58:43.632Z",
+ "updatedAt": "2026-11-10T04:21:27.759Z",
  "checker": {
   "name": "pdf-crawler",
   "url": "https://github.com/mgifford/pdf-crawler",
@@ -12245,6 +12245,906 @@
     }
    },
    "errors": []
+  },
+  "http://nsf.gov/pubs/2005/nsf0545/nsf0545_3.pdf": {
+   "checkedAt": "2026-11-10T04:18:32.432Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://www.inside.nsf.gov/pubs/pam/pam0409/0409.pdf": {
+   "checkedAt": "2026-11-10T04:18:34.016Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "domain not found (DNS)"
+   ]
+  },
+  "http://www.nsf.gov/bio/pubs/reports/nrc_plant_genome_report_in_brief.pdf": {
+   "checkedAt": "2026-11-10T04:18:36.456Z",
+   "week": "2026-W46",
+   "httpStatus": 404,
+   "etag": "\"053a5c46bc090f0af93f72390d26285f\"",
+   "lastModified": "Tue, 06 Oct 2026 16:21:13 GMT",
+   "finalUrl": "https://www.nsf.gov/bio/pubs/reports/nrc_plant_genome_report_in_brief.pdf",
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "HTTP 404"
+   ]
+  },
+  "http://www.nsf.gov/od/iia/ise/2015-PIRE-Eligible-Institutions.pdf": {
+   "checkedAt": "2026-11-10T04:21:27.741Z",
+   "week": "2026-W46",
+   "httpStatus": 200,
+   "md5": "c3931c2162dc4730e6908387847f87ed",
+   "bytes": 83278,
+   "etag": "\"1794275068-gzip\"",
+   "lastModified": "Tue, 10 Nov 2026 01:44:28 GMT",
+   "finalUrl": "https://www.nsf.gov/od/oia",
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "Not a PDF file: no %PDF- header"
+   ]
+  },
+  "https://nsf-gov-resources.nsf.gov/attachments/301208/public/NSFCSSIFY21_Webinar_Slides.pdf": {
+   "checkedAt": "2026-11-10T04:21:27.742Z",
+   "week": "2026-W46",
+   "httpStatus": 200,
+   "md5": "8f73405401a5893e5a883886150d29df",
+   "bytes": 659558,
+   "etag": "W/\"8f73405401a5893e5a883886150d29df\"",
+   "lastModified": "Mon, 28 Jul 2025 15:16:45 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": false,
+    "published": "2020-09-23",
+    "title": "Cyberinfrastructure for  Sustained Scientific Innovation  (CSSI) NSF 20-592",
+    "pages": 31,
+    "words": 2816,
+    "images": 67,
+    "category": "Slides",
+    "checks": {
+     "tagged": "pass",
+     "title": "fail",
+     "language": "pass",
+     "bookmarks": "pass",
+     "taggedContent": "pass",
+     "figuresAlt": "fail",
+     "headings": "pass",
+     "lists": "pass",
+     "tables": "pass",
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": "pass",
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "title, figures missing alt text (count=23), "
+   ]
+  },
+  "https://nsf-gov-resources.nsf.gov/attachments/301654/public/2021-CyberTraining-Webinar-Final.pdf": {
+   "checkedAt": "2026-11-10T04:21:27.742Z",
+   "week": "2026-W46",
+   "httpStatus": 200,
+   "md5": "4952c0fb106cc8b22825152739a703bf",
+   "bytes": 260658,
+   "etag": "W/\"4952c0fb106cc8b22825152739a703bf\"",
+   "lastModified": "Mon, 28 Jul 2025 15:17:40 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": false,
+    "published": "2020-12-09",
+    "title": "Training in discipline-specific computational and data science topics",
+    "pages": 13,
+    "words": 934,
+    "images": 0,
+    "category": null,
+    "checks": {
+     "tagged": "pass",
+     "title": "fail",
+     "language": "pass",
+     "bookmarks": "pass",
+     "taggedContent": "pass",
+     "figuresAlt": "fail",
+     "headings": "pass",
+     "lists": "pass",
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": "pass",
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "title, figures missing alt text (count=2), "
+   ]
+  },
+  "https://nsf-gov-resources.nsf.gov/attachments/301654/public/GMT20201208-185921_Cybertrain.transcript.pdf": {
+   "checkedAt": "2026-11-10T04:21:27.743Z",
+   "week": "2026-W46",
+   "httpStatus": 200,
+   "md5": "75bd77c9a2f375c5d57f32ecbd83a886",
+   "bytes": 118999,
+   "etag": "W/\"75bd77c9a2f375c5d57f32ecbd83a886\"",
+   "lastModified": "Mon, 28 Jul 2025 15:17:40 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": false,
+    "published": "2020-12-09",
+    "title": "file:///C/Users/ehuertas/OneDrive%20-%20National%20Science%20Foundation/Documents/Zoom/2020-12-08%2013.56.32%20Cybertraining%20(NSF-19-524)%20Webinar%201600331092/GMT20201208-185921_Cybertrain.transcr",
+    "pages": 32,
+    "words": 10787,
+    "images": 0,
+    "category": null,
+    "checks": {
+     "tagged": "fail",
+     "title": "fail",
+     "language": "fail",
+     "bookmarks": "pass",
+     "taggedContent": "fail",
+     "figuresAlt": null,
+     "headings": null,
+     "lists": null,
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": null,
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "title, tagged, lang, "
+   ]
+  },
+  "https://nsf-gov-resources.nsf.gov/attachments/303412/public/CaptionerReport%28RETWebinar%29.pdf": {
+   "checkedAt": "2026-11-10T04:21:27.743Z",
+   "week": "2026-W46",
+   "httpStatus": 200,
+   "md5": "92432ba8f011226ba5de755fd7d7846b",
+   "bytes": 74689,
+   "etag": "W/\"92432ba8f011226ba5de755fd7d7846b\"",
+   "lastModified": "Mon, 28 Jul 2025 15:22:03 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": false,
+    "published": "2021-09-20",
+    "title": null,
+    "pages": 15,
+    "words": 7633,
+    "images": 0,
+    "category": null,
+    "checks": {
+     "tagged": "pass",
+     "title": "fail",
+     "language": "pass",
+     "bookmarks": "pass",
+     "taggedContent": "pass",
+     "figuresAlt": "pass",
+     "headings": null,
+     "lists": null,
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": null,
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "title, headings-none, "
+   ]
+  },
+  "https://nsf-gov-resources.nsf.gov/attachments/303412/public/RETWebinar.pdf": {
+   "checkedAt": "2026-11-10T04:21:27.744Z",
+   "week": "2026-W46",
+   "httpStatus": 200,
+   "md5": "6310963014b12d55ec2a3208aafb9068",
+   "bytes": 2903144,
+   "etag": "W/\"6310963014b12d55ec2a3208aafb9068\"",
+   "lastModified": "Mon, 28 Jul 2025 15:22:04 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": false,
+    "published": "2021-09-24",
+    "title": null,
+    "pages": 16,
+    "words": 593,
+    "images": 8,
+    "category": null,
+    "checks": {
+     "tagged": "fail",
+     "title": "fail",
+     "language": "fail",
+     "bookmarks": "pass",
+     "taggedContent": "fail",
+     "figuresAlt": null,
+     "headings": null,
+     "lists": null,
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": "fail",
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "title, tagged, lang, annotations-untagged, "
+   ]
+  },
+  "https://nsf-gov-resources.nsf.gov/attachments/305095/public/2022-NSF-Cultural-Anthropology-Webinar-Slides.pdf": {
+   "checkedAt": "2026-11-10T04:21:27.744Z",
+   "week": "2026-W46",
+   "httpStatus": 200,
+   "md5": "8c5e92396ea819bd1642932007bd3552",
+   "bytes": 1349128,
+   "etag": "W/\"8c5e92396ea819bd1642932007bd3552\"",
+   "lastModified": "Mon, 28 Jul 2025 14:38:01 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": false,
+    "published": "2022-05-23",
+    "title": "Presentation Cover Slide",
+    "pages": 21,
+    "words": 760,
+    "images": 44,
+    "category": "Slides",
+    "checks": {
+     "tagged": "pass",
+     "title": "fail",
+     "language": "pass",
+     "bookmarks": "pass",
+     "taggedContent": "pass",
+     "figuresAlt": "fail",
+     "headings": "pass",
+     "lists": "pass",
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": "pass",
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "title, figures missing alt text (count=38), "
+   ]
+  },
+  "https://nsf-gov-resources.nsf.gov/attachments/310858/public/CAIGwebinar.pdf": {
+   "checkedAt": "2026-11-10T04:21:27.745Z",
+   "week": "2026-W46",
+   "httpStatus": 200,
+   "md5": "4497f88715e3f435f774ca3620756a97",
+   "bytes": 1238547,
+   "etag": "W/\"4497f88715e3f435f774ca3620756a97\"",
+   "lastModified": "Mon, 28 Jul 2025 15:45:25 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": false,
+    "published": "2025-01-28",
+    "title": null,
+    "pages": 20,
+    "words": 1201,
+    "images": 110,
+    "category": null,
+    "checks": {
+     "tagged": "pass",
+     "title": "fail",
+     "language": "pass",
+     "bookmarks": "pass",
+     "taggedContent": "pass",
+     "figuresAlt": "fail",
+     "headings": "pass",
+     "lists": "pass",
+     "tables": "fail",
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": "pass",
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "title, figures missing alt text (count=52), tables-fail, "
+   ]
+  },
+  "https://nsf-gov-resources.nsf.gov/files/3-Practical-Guide-r.pdf": {
+   "checkedAt": "2026-11-10T04:21:27.745Z",
+   "week": "2026-W46",
+   "httpStatus": 200,
+   "md5": "23611c17e6d506b09062c7b41695c0ee",
+   "bytes": 2975778,
+   "etag": "W/\"23611c17e6d506b09062c7b41695c0ee\"",
+   "lastModified": "Mon, 30 Dec 2024 19:48:42 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": false,
+    "published": "2024-10-30",
+    "title": "PowerPoint Presentation",
+    "pages": 29,
+    "words": 1386,
+    "images": 130,
+    "category": null,
+    "checks": {
+     "tagged": "pass",
+     "title": "fail",
+     "language": "pass",
+     "bookmarks": "pass",
+     "taggedContent": "pass",
+     "figuresAlt": "fail",
+     "headings": "pass",
+     "lists": "pass",
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": "pass",
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "title, figures missing alt text (count=83), alt-nested-fail, tables-warn, "
+   ]
+  },
+  "https://nsf-gov-resources.nsf.gov/files/5-Intro-to-Selected-Funding-Opportunities-r.pdf": {
+   "checkedAt": "2026-11-10T04:21:27.746Z",
+   "week": "2026-W46",
+   "httpStatus": 200,
+   "md5": "788b972ef6da96fc71f23cf85e1c3398",
+   "bytes": 5183215,
+   "etag": "W/\"788b972ef6da96fc71f23cf85e1c3398\"",
+   "lastModified": "Mon, 30 Dec 2024 20:02:47 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": false,
+    "published": "2024-10-30",
+    "title": "Introduction to Selected Funding Opportunities:",
+    "pages": 45,
+    "words": 2434,
+    "images": 201,
+    "category": null,
+    "checks": {
+     "tagged": "pass",
+     "title": "pass",
+     "language": "pass",
+     "bookmarks": "pass",
+     "taggedContent": "fail",
+     "figuresAlt": "fail",
+     "headings": "pass",
+     "lists": "pass",
+     "tables": "fail",
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": "pass",
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "tagged-content-fail, figures missing alt text (count=2), alt-nested-fail, tables-fail, "
+   ]
+  },
+  "https://nsf-gov-resources.nsf.gov/files/6-Postdoc-to-PI-Writing-One-pagers-r.pdf": {
+   "checkedAt": "2026-11-10T04:21:27.747Z",
+   "week": "2026-W46",
+   "httpStatus": 200,
+   "md5": "c264adcc922e62fb8df0799c73e9c200",
+   "bytes": 776284,
+   "etag": "W/\"c264adcc922e62fb8df0799c73e9c200\"",
+   "lastModified": "Mon, 30 Dec 2024 20:14:55 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": false,
+    "published": "2024-10-31",
+    "title": "Writing One-pagers",
+    "pages": 16,
+    "words": 1092,
+    "images": 66,
+    "category": null,
+    "checks": {
+     "tagged": "pass",
+     "title": "pass",
+     "language": "pass",
+     "bookmarks": "pass",
+     "taggedContent": "pass",
+     "figuresAlt": "fail",
+     "headings": "pass",
+     "lists": null,
+     "tables": "pass",
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": "pass",
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "figures missing alt text (count=5), lists-warn, "
+   ]
+  },
+  "https://nsf-gov-resources.nsf.gov/files/7-Intro-Funding-Opportunities-r.pdf": {
+   "checkedAt": "2026-11-10T04:21:27.747Z",
+   "week": "2026-W46",
+   "httpStatus": 200,
+   "md5": "ac2a26a22df194a89d0cd45824a8ec96",
+   "bytes": 1529434,
+   "etag": "W/\"ac2a26a22df194a89d0cd45824a8ec96\"",
+   "lastModified": "Mon, 30 Dec 2024 20:20:23 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": false,
+    "published": "2024-11-07",
+    "title": "Introduction to Selected Funding Opportunities:",
+    "pages": 38,
+    "words": 2156,
+    "images": 109,
+    "category": null,
+    "checks": {
+     "tagged": "pass",
+     "title": "pass",
+     "language": "pass",
+     "bookmarks": "pass",
+     "taggedContent": "pass",
+     "figuresAlt": "fail",
+     "headings": "pass",
+     "lists": "pass",
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": "pass",
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "figures missing alt text (count=4), "
+   ]
+  },
+  "https://nsf-gov-resources.nsf.gov/files/9_Tips%20for%20Developing%20NSF%20Proposals_2-1.pdf": {
+   "checkedAt": "2026-11-10T04:21:27.748Z",
+   "week": "2026-W46",
+   "httpStatus": 200,
+   "md5": "cfece174e240f9017dfd83bc5b3f47f0",
+   "bytes": 2996620,
+   "etag": "W/\"cfece174e240f9017dfd83bc5b3f47f0\"",
+   "lastModified": "Mon, 30 Dec 2024 20:37:19 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": false,
+    "published": "2024-10-31",
+    "title": null,
+    "pages": 26,
+    "words": 1360,
+    "images": 73,
+    "category": null,
+    "checks": {
+     "tagged": "fail",
+     "title": "fail",
+     "language": "fail",
+     "bookmarks": "fail",
+     "taggedContent": "fail",
+     "figuresAlt": null,
+     "headings": null,
+     "lists": null,
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": "fail",
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "title, tagged, lang, no bookmarks and more than 20 pages, annotations-untagged, "
+   ]
+  },
+  "https://nsf-gov-resources.nsf.gov/files/erc_has_pioneered_new_technologies.pdf": {
+   "checkedAt": "2026-11-10T04:21:27.749Z",
+   "week": "2026-W46",
+   "httpStatus": 200,
+   "md5": "bf35e3e5e7f07c7585f321ea4af4520e",
+   "bytes": 1451024,
+   "etag": "W/\"bf35e3e5e7f07c7585f321ea4af4520e\"",
+   "lastModified": "Tue, 20 Oct 2026 18:55:35 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": true,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": false,
+    "published": "2026-10-15",
+    "title": "INNOVATIONS HIGHLIGHTS FROM 40 YEARS OF NSF ENGINEERING RESEARCH CENTERS: A Legacy of Leadership in U.S. Engineering Innovation",
+    "pages": 19,
+    "words": 5029,
+    "images": 63,
+    "category": null,
+    "checks": {
+     "tagged": "pass",
+     "title": "pass",
+     "language": "pass",
+     "bookmarks": "pass",
+     "taggedContent": "pass",
+     "figuresAlt": "pass",
+     "headings": "pass",
+     "lists": null,
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": "pass",
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": []
+  },
+  "https://nsf-gov-resources.nsf.gov/files/Intro-IOS-Core-IntBIO-Tracks-r.pdf": {
+   "checkedAt": "2026-11-10T04:21:27.749Z",
+   "week": "2026-W46",
+   "httpStatus": 200,
+   "md5": "e0e8d1254a8dcde4cc28182f61865d04",
+   "bytes": 2201967,
+   "etag": "W/\"e0e8d1254a8dcde4cc28182f61865d04\"",
+   "lastModified": "Mon, 30 Dec 2024 19:57:00 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": false,
+    "published": "2024-11-04",
+    "title": "Introduction to IOS Core Programs Funding Opportunities",
+    "pages": 61,
+    "words": 2768,
+    "images": 209,
+    "category": null,
+    "checks": {
+     "tagged": "pass",
+     "title": "pass",
+     "language": "pass",
+     "bookmarks": "pass",
+     "taggedContent": "pass",
+     "figuresAlt": "pass",
+     "headings": "pass",
+     "lists": "fail",
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": "pass",
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "lists-fail, "
+   ]
+  },
+  "https://nsf-gov-resources.nsf.gov/files/JSR-20-2H_The_Impacts_of_Large_Constellations_of_Satellites_508.pdf": {
+   "checkedAt": "2026-11-10T04:21:27.750Z",
+   "week": "2026-W46",
+   "httpStatus": 200,
+   "md5": "6bbc18ee71ff1dca582f4e5b5964f7e4",
+   "bytes": 1785417,
+   "etag": "W/\"6bbc18ee71ff1dca582f4e5b5964f7e4\"",
+   "lastModified": "Tue, 07 Jan 2025 16:58:53 GMT",
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "Analysis exceeded 120s per-file limit"
+   ]
+  },
+  "https://nsf-gov-resources.nsf.gov/files/NAIRR-2-Year-Progress-Update.pdf": {
+   "checkedAt": "2026-11-10T04:21:27.750Z",
+   "week": "2026-W46",
+   "httpStatus": 200,
+   "md5": "fdc1d388b81456c187502a5ba89d7d00",
+   "bytes": 8244563,
+   "etag": "W/\"fdc1d388b81456c187502a5ba89d7d00\"",
+   "lastModified": "Thu, 05 Mar 2026 17:02:10 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": false,
+    "published": "2026-03-05",
+    "title": "NAIRR 2 Year Progress Update",
+    "pages": 30,
+    "words": 10171,
+    "images": 126,
+    "category": null,
+    "checks": {
+     "tagged": "pass",
+     "title": "pass",
+     "language": "pass",
+     "bookmarks": "fail",
+     "taggedContent": "pass",
+     "figuresAlt": "pass",
+     "headings": null,
+     "lists": "pass",
+     "tables": "fail",
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": "fail",
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "no bookmarks and more than 20 pages, headings-none, tables-fail, annotations-tagging-fail, "
+   ]
+  },
+  "https://nsf-gov-resources.nsf.gov/files/NAIRR-TF-Agenda-01132023.pdf?VersionId=QRs2PXwxSsD6ETYGRc6A9Sj7IC04lEse": {
+   "checkedAt": "2026-11-10T04:21:27.751Z",
+   "week": "2026-W46",
+   "httpStatus": 200,
+   "md5": "60594f53f64ac4ad19d683d9e02a38fa",
+   "bytes": 139572,
+   "etag": "W/\"60594f53f64ac4ad19d683d9e02a38fa\"",
+   "lastModified": "Mon, 22 Jan 2024 18:09:51 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": true,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": false,
+    "published": "2023-01-13",
+    "title": "NATIONAL AI RESEARCH RESOURCE TASK FORCE: MEETING #11",
+    "pages": 1,
+    "words": 125,
+    "images": 0,
+    "category": "Agenda",
+    "checks": {
+     "tagged": "pass",
+     "title": "pass",
+     "language": "pass",
+     "bookmarks": "pass",
+     "taggedContent": "pass",
+     "figuresAlt": "pass",
+     "headings": null,
+     "lists": "pass",
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": "pass",
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "headings-none, "
+   ]
+  },
+  "https://nsf-gov-resources.nsf.gov/files/NAIRR-TF-Agenda-02162022.pdf?VersionId=Hl00a.7psq5ac4p_ZqCOTMvsujQk3ToS": {
+   "checkedAt": "2026-11-10T04:21:27.752Z",
+   "week": "2026-W46",
+   "httpStatus": 200,
+   "md5": "bb582c3a856ee4dad1a9848fd2775ecc",
+   "bytes": 188655,
+   "etag": "W/\"bb582c3a856ee4dad1a9848fd2775ecc\"",
+   "lastModified": "Mon, 22 Jan 2024 18:21:32 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": true,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": false,
+    "published": "2022-02-11",
+    "title": "NATIONAL AI RESEARCH RESOURCE TASK FORCE: MEETING #5",
+    "pages": 2,
+    "words": 496,
+    "images": 0,
+    "category": "Agenda",
+    "checks": {
+     "tagged": "pass",
+     "title": "pass",
+     "language": "pass",
+     "bookmarks": "pass",
+     "taggedContent": "pass",
+     "figuresAlt": "pass",
+     "headings": null,
+     "lists": "pass",
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": null,
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "headings-none, "
+   ]
+  },
+  "https://nsf-gov-resources.nsf.gov/files/NAIRR-TF-Agenda-04082021.pdf?VersionId=IstCcDCkmF6ynpOCbsnhcZ3TMQfFle0b": {
+   "checkedAt": "2026-11-10T04:21:27.752Z",
+   "week": "2026-W46",
+   "httpStatus": 200,
+   "md5": "e4ceb9220cac4c1cb5eb19b706ea4239",
+   "bytes": 179755,
+   "etag": "W/\"e4ceb9220cac4c1cb5eb19b706ea4239\"",
+   "lastModified": "Mon, 22 Jan 2024 18:22:25 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": true,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": false,
+    "published": "2022-04-05",
+    "title": "NATIONAL AI RESEARCH RESOURCE TASK FORCE: MEETING #6",
+    "pages": 2,
+    "words": 301,
+    "images": 0,
+    "category": "Agenda",
+    "checks": {
+     "tagged": "pass",
+     "title": "pass",
+     "language": "pass",
+     "bookmarks": "pass",
+     "taggedContent": "pass",
+     "figuresAlt": "pass",
+     "headings": null,
+     "lists": "pass",
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": null,
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "headings-none, "
+   ]
+  },
+  "https://nsf-gov-resources.nsf.gov/files/NAIRR-TF-Agenda-05202022.pdf?VersionId=BKcoxtfjQHwZ3UkfxmiNwQlDOEMFfvGa": {
+   "checkedAt": "2026-11-10T04:21:27.752Z",
+   "week": "2026-W46",
+   "httpStatus": 200,
+   "md5": "6252a56e9b77c799617df77ec9b7ac76",
+   "bytes": 140842,
+   "etag": "W/\"6252a56e9b77c799617df77ec9b7ac76\"",
+   "lastModified": "Mon, 22 Jan 2024 18:23:03 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": true,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": false,
+    "published": "2022-05-18",
+    "title": "NATIONAL AI RESEARCH RESOURCE TASK FORCE: MEETING #7: Agenda",
+    "pages": 1,
+    "words": 120,
+    "images": 0,
+    "category": "Agenda",
+    "checks": {
+     "tagged": "pass",
+     "title": "pass",
+     "language": "pass",
+     "bookmarks": "pass",
+     "taggedContent": "pass",
+     "figuresAlt": "pass",
+     "headings": null,
+     "lists": "pass",
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": null,
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "headings-none, "
+   ]
+  },
+  "https://nsf-gov-resources.nsf.gov/files/NAIRR-TF-Agenda-07252022.pdf?VersionId=NRuKbZC4em_DoE7zi9tSxA_R_rh3WeHo": {
+   "checkedAt": "2026-11-10T04:21:27.752Z",
+   "week": "2026-W46",
+   "httpStatus": 200,
+   "md5": "c13081c1ce56f874261448f0085802d5",
+   "bytes": 158111,
+   "etag": "W/\"c13081c1ce56f874261448f0085802d5\"",
+   "lastModified": "Mon, 22 Jan 2024 18:23:35 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": true,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": false,
+    "published": "2024-01-19",
+    "title": "NATIONAL AI RESEARCH RESOURCE TASK FORCE: MEETING #8",
+    "pages": 2,
+    "words": 312,
+    "images": 0,
+    "category": "Agenda",
+    "checks": {
+     "tagged": "pass",
+     "title": "pass",
+     "language": "pass",
+     "bookmarks": "pass",
+     "taggedContent": "pass",
+     "figuresAlt": "pass",
+     "headings": null,
+     "lists": "pass",
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": null,
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "headings-none, "
+   ]
   }
  }
 }
