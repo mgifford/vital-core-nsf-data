@@ -1,6 +1,6 @@
 {
  "domain": "seedfund.nsf.gov",
- "updatedAt": "2026-11-09T22:41:06.378Z",
+ "updatedAt": "2026-11-10T19:59:39.838Z",
  "links": {
   "https://relavomedical.com/": {
    "status": 0,
@@ -88,11 +88,12 @@
    "status": 0,
    "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W46",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W46"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://seedfund.nsf.gov/topics/internet-of-things"
    ]
@@ -101,36 +102,32 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
     "2026-W43",
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksBroken": 3,
+   "weeksBroken": 4,
    "foundOn": [
-    "https://seedfund.nsf.gov/centers/ceps/novel-additives-promise-strong-lightweight-composites-for-commercial-transportation",
-    "https://seedfund.nsf.gov/centers/ceps/providing-complete-hydrothermal-destruction-of-pfas",
-    "https://seedfund.nsf.gov/centers/ceps/additively-manufactured-pure-copper-revolutionizes-thermal-management",
-    "https://seedfund.nsf.gov/centers/ceps/novel-aerogel-based-insulation-may-transform-building-efficiency",
-    "https://seedfund.nsf.gov/centers/ceps/legume-based-innovation-promises-new-stealth-health-snacks",
-    "https://seedfund.nsf.gov/centers/ceps/chlorine-resistant-membranes-promise-a-new-era-for-reverse-osmosis",
-    "https://seedfund.nsf.gov/centers/ceps/innovation-sparks-life-into-hplc-detection-of-compounds",
+    "https://seedfund.nsf.gov/centers/ceps/recycling-waste-coal-ash-promises-more-sustainable-concrete-materials",
     "https://seedfund.nsf.gov/centers/ceps/clean-low-energy-method-for-primary-magnesium-metal-production",
-    "https://seedfund.nsf.gov/centers/ceps/retrofit-dehumidifiers-enhance-air-conditioner-efficiency"
+    "https://seedfund.nsf.gov/centers/ceps/liquid-metal-based-thermal-interface-materials-keep-microelectronics-cool",
+    "https://seedfund.nsf.gov/centers/ceps/high-carotenoid-orange-corn-promises-nutritional-enhancement"
    ]
   },
   "http://www.pcka.com/": {
    "status": 0,
    "reason": "fetch failed",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W46",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W46"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "https://seedfund.nsf.gov/centers/ceps/ultra-cool-metal-roofing-material-is-poised-to-reduce-energy-needs",
     "https://seedfund.nsf.gov/awardees/history/details?company=pc-krause-and-associates-inc"
    ]
   },
@@ -651,13 +648,14 @@
    "status": 0,
    "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W46",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W46"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "https://seedfund.nsf.gov/showcase/news"
+    "https://seedfund.nsf.gov/news/medecipher"
    ]
   },
   "https://www.usmd.edu/newsroom/news/2397": {
@@ -704,11 +702,12 @@
    "status": 0,
    "reason": "ENOTFOUND",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W46",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W46"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://seedfund.nsf.gov/portfolio/details?company=novome-biotechnologies-inc"
    ]
@@ -965,38 +964,40 @@
    "status": 0,
    "reason": "EAI_AGAIN",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "https://seedfund.nsf.gov/portfolio/details?company=cypris-materials-inc",
-    "https://seedfund.nsf.gov/awardees/history/details?company=cypris-materials-inc"
+    "https://seedfund.nsf.gov/portfolio/details?company=cypris-materials-inc"
    ]
   },
   "https://seedfund.nsf.gov/apply/project-pitch/": {
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "https://seedfund.nsf.gov/solicitation-proposal"
+    "https://seedfund.nsf.gov/solicitation-documents"
    ]
   },
   "https://techconnect.org/2026-sbir-sttr-fall-innovation-conference/": {
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://seedfund.nsf.gov/events"
    ]
@@ -1083,11 +1084,12 @@
    "status": 0,
    "reason": "ENOTFOUND",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://seedfund.nsf.gov/resources/additional-resources"
    ]
@@ -1096,11 +1098,12 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://seedfund.nsf.gov/resources/additional-resources"
    ]
@@ -1155,6 +1158,32 @@
    "weeksBroken": 1,
    "foundOn": [
     "https://seedfund.nsf.gov/news/essentium"
+   ]
+  },
+  "https://www.businesslend.com/automobile/liminal-an-ev-battery-inspection-startup-raises-17-5-million/": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/news/liminal"
+   ]
+  },
+  "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf22053": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/resources/applicants"
    ]
   }
  }
