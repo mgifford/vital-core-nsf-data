@@ -1,0 +1,179 @@
+{
+ "runId": "2026-11-11T17-28-56-110Z-31d617",
+ "week": "2026-W46",
+ "domain": "www.nsf.gov",
+ "canonical": {
+  "origin": "https://www.nsf.gov",
+  "configured": "https://www.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-11T17:28:56.708Z",
+ "scanned": [
+  "8f6d958f686bd8d1",
+  "e5c169f2fb540c72",
+  "aa55361465c36039",
+  "66be050ea2521fc1",
+  "4b7c60f333d8a53f",
+  "933ce29e789a99c0",
+  "3873a7a510d3b4e0",
+  "06c35b4a832dc066",
+  "4aef2af114a93ed2",
+  "ddda1e138112a542",
+  "d1ea343219582938",
+  "4914d0fb17188492",
+  "75b1ec4501aefefc",
+  "52e9293cb2aa8a6f",
+  "d4f79ee3c2fb4db4",
+  "2f7540d49700564d",
+  "3a7d5b339f7cc71c",
+  "5e3e233d83ec3306",
+  "d4446649dec74fd9",
+  "39da9aa00cf04cb0",
+  "846e5b453ec09a4e",
+  "ee1781c919ad0de8",
+  "9be60cd69680a8cb",
+  "dea90467441d75d7"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 291,
+  "checked": 291,
+  "brokenCount": 10,
+  "broken": [
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_6g_uulhISVaJdhBgFjMpuQ",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/materials-innovation-platforms-mip-webinar"
+    ]
+   },
+   {
+    "url": "https://mcbblog.nsfbio.com/office-hours/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/events/crossing-divisions-biology-opportunities-other-nsfbio/2022-02-09"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_rcG95iI9QOOed-VfarsHFQ",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/crossing-divisions-biology-opportunities-other-nsfbio/2022-02-09"
+    ]
+   },
+   {
+    "url": "https://mcbblog.nsfbio.com/category/blog/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/events/crossing-divisions-biology-opportunities-other-nsfbio/2022-02-09"
+    ]
+   },
+   {
+    "url": "https://www.nap.edu/initiative/committee-on-the-organization-and-management-of-research-in-astronomy-and-astrophysics",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/astronomy-astrophysics-advisory-committee-aaac-2"
+    ]
+   },
+   {
+    "url": "https://www.fastlane.nsf.gov/a1/newstan.htm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/juno-japan-us-network-opportunity/504949/nsf13-574/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=aag",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/juno-japan-us-network-opportunity/504949/nsf13-574/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/policies/SOR_PA_NSF-50_Principal_Investigator_Proposal_File.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/juno-japan-us-network-opportunity/504949/nsf13-574/solicitation"
+    ]
+   },
+   {
+    "url": "http://www07.grants.gov/applicants/app_help_reso.jsp",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/juno-japan-us-network-opportunity/504949/nsf13-574/solicitation"
+    ]
+   },
+   {
+    "url": "http://netrel.umkc.edu/usjw2012/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/juno-japan-us-network-opportunity/504949/nsf13-574/solicitation"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 23,
+  "alfa": 17,
+  "plain-language": 14,
+  "resources": 23,
+  "images": 23,
+  "link-check": 23,
+  "standards": 11,
+  "public-interest": 5,
+  "third-party": 4,
+  "security": 4,
+  "lighthouse": 2,
+  "tech": 1,
+  "sustainability": 1
+ },
+ "tally": {
+  "ok": 23,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 1,
+  "error": 0
+ },
+ "finishedAt": "2026-11-11T17:32:55.928Z"
+}
