@@ -1,0 +1,246 @@
+{
+ "runId": "2026-11-11T10-46-17-278Z-2f2cd3",
+ "week": "2026-W46",
+ "domain": "www.nsf.gov",
+ "canonical": {
+  "origin": "https://www.nsf.gov",
+  "configured": "https://www.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-11T10:46:17.828Z",
+ "scanned": [
+  "30dd8798aeeca60f",
+  "a6e7028cb9fbf371",
+  "5bb0ce6ca8abc95e",
+  "1a87ee6888f18290",
+  "0997f8d8d6c7c4e2",
+  "89f5d382bea6ef2b",
+  "82a04240341452c0",
+  "8ddb91be9f8969b2",
+  "f76cc086269a5071",
+  "9bca5e71e9df9d61",
+  "c444017d391a86c1",
+  "597195891fe23484",
+  "d836d915600cbd21",
+  "d586cd38b818bfea",
+  "0d0318c6b0ae8b6a",
+  "beecc745cf095b23",
+  "fdfe1f52ee5f3494",
+  "b34229465ce90adc",
+  "b8327e554b47b643",
+  "fb78a76789e839f3",
+  "051e76052722e262",
+  "0b17a7e0f8a78e90",
+  "ac503e266d652b08"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 393,
+  "checked": 393,
+  "brokenCount": 18,
+  "broken": [
+   {
+    "url": "https://www.nsf.gov/eng/iip/innovation.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/pfi-partnerships-innovation/504790/nsf12-571/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.fastlane.nsf.gov/a1/newstan.htm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/pfi-partnerships-innovation/504790/nsf12-571/solicitation",
+     "https://www.nsf.gov/funding/opportunities/nanotechnology-undergraduate-education-engineering/13656/nsf14-541/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubs/2010/nsf10580/nsf1050.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/pfi-partnerships-innovation/504790/nsf12-571/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=aag",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/pfi-partnerships-innovation/504790/nsf12-571/solicitation",
+     "https://www.nsf.gov/funding/opportunities/nanotechnology-undergraduate-education-engineering/13656/nsf14-541/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.whitehouse.gov/files/documents/ostp/press_release_files/Final%20Signed%20OMB-OSTP%20Memo%20-%20ST%20Priorities.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/pfi-partnerships-innovation/504790/nsf12-571/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/policies/SOR_PA_NSF-50_Principal_Investigator_Proposal_File.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/pfi-partnerships-innovation/504790/nsf12-571/solicitation",
+     "https://www.nsf.gov/funding/opportunities/nanotechnology-undergraduate-education-engineering/13656/nsf14-541/solicitation"
+    ]
+   },
+   {
+    "url": "http://sites.nationalacademies.org/PGA/fdp/PGA_057189",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/pfi-partnerships-innovation/504790/nsf12-571/solicitation"
+    ]
+   },
+   {
+    "url": "http://www07.grants.gov/applicants/app_help_reso.jsp",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/pfi-partnerships-innovation/504790/nsf12-571/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/nano",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nanotechnology-undergraduate-education-engineering/13656/nsf14-541/solicitation"
+    ]
+   },
+   {
+    "url": "https://nanohub.org/contribute",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nanotechnology-undergraduate-education-engineering/13656/nsf14-541/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubs/2014/nsf14043/nsf14043.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nanotechnology-undergraduate-education-engineering/13656/nsf14-541/solicitation"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_5ke5ifBnQbyiso0zzp7r7A",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/mri-major-research-instrumentation-program/updates/95167"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJItc-qhqzsjEz4Sb7eCVeb0ZW7X3rGP6zc",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/nsf-innovation-corps-i-corpstm-teams-qa-webinar/2024-12-05"
+    ]
+   },
+   {
+    "url": "http://paesmem.net/awards",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-call-nominations-presidential-awards-excellence-science/nsf13-044"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/od/oia/programs/epscor/images/cohortmap2012.JPG",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-call-nominations-presidential-awards-excellence-science/nsf13-044"
+    ]
+   },
+   {
+    "url": "http://www.whitehouse.gov/administration/eop/ostp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-call-nominations-presidential-awards-excellence-science/nsf13-044"
+    ]
+   },
+   {
+    "url": "http://www.law.cornell.edu/uscode/5/usc_sup_01_5_10_III_20_C_30_45_40_I.html",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-call-nominations-presidential-awards-excellence-science/nsf13-044"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf13045",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-call-nominations-presidential-awards-excellence-science/nsf13-044"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 23,
+  "alfa": 10,
+  "plain-language": 13,
+  "resources": 23,
+  "images": 23,
+  "standards": 9,
+  "tech": 1,
+  "lighthouse": 3,
+  "link-check": 23,
+  "sustainability": 4,
+  "third-party": 5,
+  "public-interest": 4,
+  "security": 2,
+  "deprecated-html": 1
+ },
+ "tally": {
+  "ok": 23,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 2,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 4,
+  "error": 0
+ },
+ "finishedAt": "2026-11-11T10:50:29.547Z"
+}
