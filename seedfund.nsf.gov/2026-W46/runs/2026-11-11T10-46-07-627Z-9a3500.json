@@ -1,0 +1,139 @@
+{
+ "runId": "2026-11-11T10-46-07-627Z-9a3500",
+ "week": "2026-W46",
+ "domain": "seedfund.nsf.gov",
+ "canonical": {
+  "origin": "https://seedfund.nsf.gov",
+  "configured": "https://seedfund.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-11T10:46:08.237Z",
+ "scanned": [
+  "ea1a95a2e088ea14",
+  "f303cc3a5e0de81c",
+  "b49b6ee29e1f414d",
+  "d296583f178df051",
+  "fc59513395f6221d",
+  "c1ef106d36383b72",
+  "4da9e18ca7cbb86f",
+  "81786cb8fc367057",
+  "f87b2fdd6787fef2",
+  "01fad16ce03559d2",
+  "0462a90bea9a16f1",
+  "4612ab71a0d5063f",
+  "d44c55dc1049c075",
+  "79eb977389b96994",
+  "80192cec780fc23d",
+  "69b98ed530f6037b",
+  "fbaf43ffabe5ffaf",
+  "72f4857da48a02d0",
+  "c20daabebc7265f4",
+  "64b07a0a35b63885",
+  "65538b78715222d9",
+  "5f341bd717e1e88b",
+  "d44bd7ac4099a6d4",
+  "b443d7c691e6a1d7",
+  "dc6c2469b98531e5"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 115,
+  "checked": 115,
+  "brokenCount": 5,
+  "broken": [
+   {
+    "url": "https://seedfund.nsf.gov/centers/focus-area/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://seedfund.nsf.gov/centers/ceps/producing-green-iron-with-a-zero-carbon-electrochemical-process"
+    ]
+   },
+   {
+    "url": "https://seedfund.nsf.gov/project-pitch/guide/nsfgov.my.site.com",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://seedfund.nsf.gov/project-pitch/guide"
+    ]
+   },
+   {
+    "url": "https://nsfiip.force.com/sbir",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://seedfund.nsf.gov/project-pitch/guide"
+    ]
+   },
+   {
+    "url": "https://nsf.gov/staff/staff_bio.jsp?lan=spanchan&org=EF&from_org=EF",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://seedfund.nsf.gov/press"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/staff/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://seedfund.nsf.gov/press"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 25,
+  "plain-language": 12,
+  "resources": 25,
+  "images": 25,
+  "standards": 14,
+  "link-check": 25,
+  "alfa": 15,
+  "lighthouse": 7,
+  "third-party": 11,
+  "tech": 3,
+  "sustainability": 1,
+  "security": 2
+ },
+ "tally": {
+  "ok": 25,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 2,
+  "error": 0
+ },
+ "finishedAt": "2026-11-11T10:49:32.078Z"
+}
