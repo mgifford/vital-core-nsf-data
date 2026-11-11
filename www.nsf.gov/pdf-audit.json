@@ -1,6 +1,6 @@
 {
  "domain": "www.nsf.gov",
- "updatedAt": "2026-11-10T04:21:27.759Z",
+ "updatedAt": "2026-11-11T02:15:35.924Z",
  "checker": {
   "name": "pdf-crawler",
   "url": "https://github.com/mgifford/pdf-crawler",
@@ -13144,6 +13144,938 @@
    },
    "errors": [
     "headings-none, "
+   ]
+  },
+  "http://nsf.gov/pubs/2006/nsb05142/nsb05142.pdf": {
+   "checkedAt": "2026-11-11T02:14:32.284Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://www.cise.nsf.gov/sci/reports/atkins.pdf": {
+   "checkedAt": "2026-11-11T02:14:54.280Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "no connection within 10 s (often a firewall dropping traffic from this network)"
+   ]
+  },
+  "http://www.nsf.gov/bio/prfb/applicant_how_to_apply_prfb.pdf": {
+   "checkedAt": "2026-11-11T02:15:35.916Z",
+   "week": "2026-W46",
+   "httpStatus": 200,
+   "md5": "7f98cc254b6f9469411b68bff2b27672",
+   "bytes": 70086,
+   "etag": "\"1794354665-gzip\"",
+   "lastModified": "Tue, 10 Nov 2026 23:51:05 GMT",
+   "finalUrl": "https://www.nsf.gov/funding/opportunities/prfb-postdoctoral-research-fellowships-biology/announcements/112277",
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "Not a PDF file: no %PDF- header"
+   ]
+  },
+  "http://www.nsf.gov/bio/prfb/sponsoring_scientist_how_to_prepare_prfb.pdf": {
+   "checkedAt": "2026-11-11T02:15:35.917Z",
+   "week": "2026-W46",
+   "httpStatus": 200,
+   "md5": "17fb891062f6606b874f8ab58161673d",
+   "bytes": 59800,
+   "etag": "\"1794354505-gzip\"",
+   "lastModified": "Tue, 10 Nov 2026 23:48:25 GMT",
+   "finalUrl": "https://www.nsf.gov/funding/opportunities/prfb-postdoctoral-research-fellowships-biology/announcements/112269",
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "Not a PDF file: no %PDF- header"
+   ]
+  },
+  "https://nsf-gov-resources.nsf.gov/about/budget/fy2020/pdf/00a_fy2020.pdf": {
+   "checkedAt": "2026-11-11T02:15:35.917Z",
+   "week": "2026-W46",
+   "httpStatus": 200,
+   "md5": "013a14220337e5437119eeda73dbb1af",
+   "bytes": 43670,
+   "etag": "W/\"013a14220337e5437119eeda73dbb1af\"",
+   "lastModified": "Fri, 25 Aug 2023 13:36:46 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": false,
+    "published": "2019-03-15",
+    "title": "NSF FY 2020 Budget",
+    "pages": 2,
+    "words": 13,
+    "images": 1,
+    "category": "Budget",
+    "checks": {
+     "tagged": "pass",
+     "title": "fail",
+     "language": "pass",
+     "bookmarks": "pass",
+     "taggedContent": "pass",
+     "figuresAlt": "fail",
+     "headings": null,
+     "lists": null,
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": null,
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "title, figures missing alt text (count=1), headings-none, "
+   ]
+  },
+  "https://nsf-gov-resources.nsf.gov/about/budget/fy2020/pdf/00b_fy2020.pdf": {
+   "checkedAt": "2026-11-11T02:15:35.917Z",
+   "week": "2026-W46",
+   "httpStatus": 200,
+   "md5": "198d726b9754991b85d042a59db1dcc9",
+   "bytes": 23507,
+   "etag": "W/\"198d726b9754991b85d042a59db1dcc9\"",
+   "lastModified": "Fri, 25 Aug 2023 13:36:46 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": false,
+    "published": "2019-03-15",
+    "title": "NSF FY 2020 Budget Request",
+    "pages": 2,
+    "words": 444,
+    "images": 0,
+    "category": "Budget",
+    "checks": {
+     "tagged": "pass",
+     "title": "fail",
+     "language": "pass",
+     "bookmarks": "pass",
+     "taggedContent": "pass",
+     "figuresAlt": "pass",
+     "headings": "pass",
+     "lists": "pass",
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": null,
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "title, "
+   ]
+  },
+  "https://nsf-gov-resources.nsf.gov/about/budget/fy2020/pdf/00c_fy2020.pdf": {
+   "checkedAt": "2026-11-11T02:15:35.918Z",
+   "week": "2026-W46",
+   "httpStatus": 200,
+   "md5": "2a9b0991ac0c9ee259e21c70aac2a892",
+   "bytes": 31601,
+   "etag": "W/\"2a9b0991ac0c9ee259e21c70aac2a892\"",
+   "lastModified": "Fri, 25 Aug 2023 13:36:46 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": false,
+    "published": "2019-03-15",
+    "title": "NSF FY 2019 Budget Request",
+    "pages": 6,
+    "words": 1350,
+    "images": 0,
+    "category": "Budget",
+    "checks": {
+     "tagged": "pass",
+     "title": "fail",
+     "language": "pass",
+     "bookmarks": "pass",
+     "taggedContent": "pass",
+     "figuresAlt": "pass",
+     "headings": null,
+     "lists": null,
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": null,
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "title, headings-none, "
+   ]
+  },
+  "https://nsf-gov-resources.nsf.gov/about/budget/fy2020/pdf/01_fy2020.pdf": {
+   "checkedAt": "2026-11-11T02:15:35.918Z",
+   "week": "2026-W46",
+   "httpStatus": 200,
+   "md5": "584bfb4b9ea389a09949847d11192092",
+   "bytes": 664002,
+   "etag": "W/\"584bfb4b9ea389a09949847d11192092\"",
+   "lastModified": "Fri, 25 Aug 2023 13:36:46 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": false,
+    "published": "2019-03-18",
+    "title": "NSF FY 2019 Budget Request",
+    "pages": 20,
+    "words": 6994,
+    "images": 19,
+    "category": "Budget",
+    "checks": {
+     "tagged": "pass",
+     "title": "fail",
+     "language": "pass",
+     "bookmarks": "pass",
+     "taggedContent": "fail",
+     "figuresAlt": "fail",
+     "headings": "pass",
+     "lists": "pass",
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": null,
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "title, tagged-content-fail, figures missing alt text (count=7), "
+   ]
+  },
+  "https://nsf-gov-resources.nsf.gov/about/budget/fy2020/pdf/02_fy2020.pdf": {
+   "checkedAt": "2026-11-11T02:15:35.918Z",
+   "week": "2026-W46",
+   "httpStatus": 200,
+   "md5": "64cdad702d4aea174079b9e134719661",
+   "bytes": 14308,
+   "etag": "W/\"64cdad702d4aea174079b9e134719661\"",
+   "lastModified": "Fri, 25 Aug 2023 13:36:47 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": false,
+    "published": "2019-03-15",
+    "title": "NSF FY 2020 Budget Request",
+    "pages": 2,
+    "words": 187,
+    "images": 0,
+    "category": "Budget",
+    "checks": {
+     "tagged": "pass",
+     "title": "fail",
+     "language": "pass",
+     "bookmarks": "pass",
+     "taggedContent": "pass",
+     "figuresAlt": "pass",
+     "headings": "pass",
+     "lists": null,
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": null,
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "title, "
+   ]
+  },
+  "https://nsf-gov-resources.nsf.gov/about/budget/fy2020/pdf/03_fy2020.pdf": {
+   "checkedAt": "2026-11-11T02:15:35.918Z",
+   "week": "2026-W46",
+   "httpStatus": 200,
+   "md5": "3973314f217562a410e3f130989f9e3b",
+   "bytes": 14891,
+   "etag": "W/\"3973314f217562a410e3f130989f9e3b\"",
+   "lastModified": "Fri, 25 Aug 2023 13:36:47 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": false,
+    "published": "2019-03-15",
+    "title": "NSF FY 2020 Budget",
+    "pages": 1,
+    "words": 324,
+    "images": 0,
+    "category": "Budget",
+    "checks": {
+     "tagged": "pass",
+     "title": "fail",
+     "language": "pass",
+     "bookmarks": "pass",
+     "taggedContent": "pass",
+     "figuresAlt": "pass",
+     "headings": null,
+     "lists": null,
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": null,
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "title, headings-none, "
+   ]
+  },
+  "https://nsf-gov-resources.nsf.gov/about/budget/fy2020/pdf/04_fy2020.pdf": {
+   "checkedAt": "2026-11-11T02:15:35.918Z",
+   "week": "2026-W46",
+   "httpStatus": 200,
+   "md5": "4154385f8c28a98ae08e8fadeb521c1e",
+   "bytes": 15137,
+   "etag": "W/\"4154385f8c28a98ae08e8fadeb521c1e\"",
+   "lastModified": "Fri, 25 Aug 2023 13:36:47 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": false,
+    "published": "2019-03-15",
+    "title": "NSF FY 2020 Budget Request",
+    "pages": 1,
+    "words": 326,
+    "images": 0,
+    "category": "Budget",
+    "checks": {
+     "tagged": "pass",
+     "title": "fail",
+     "language": "pass",
+     "bookmarks": "pass",
+     "taggedContent": "pass",
+     "figuresAlt": "pass",
+     "headings": null,
+     "lists": null,
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": null,
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "title, headings-none, "
+   ]
+  },
+  "https://nsf-gov-resources.nsf.gov/about/budget/fy2020/pdf/05_fy2020.pdf": {
+   "checkedAt": "2026-11-11T02:15:35.919Z",
+   "week": "2026-W46",
+   "httpStatus": 200,
+   "md5": "67b0cad647b8bbf937590ed0255f881c",
+   "bytes": 18476,
+   "etag": "W/\"67b0cad647b8bbf937590ed0255f881c\"",
+   "lastModified": "Fri, 25 Aug 2023 13:36:47 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": false,
+    "published": "2019-03-15",
+    "title": "NSF FY 2020 Budget",
+    "pages": 2,
+    "words": 467,
+    "images": 0,
+    "category": "Budget",
+    "checks": {
+     "tagged": "pass",
+     "title": "fail",
+     "language": "pass",
+     "bookmarks": "pass",
+     "taggedContent": "pass",
+     "figuresAlt": "pass",
+     "headings": null,
+     "lists": null,
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": "pass",
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "title, headings-none, "
+   ]
+  },
+  "https://nsf-gov-resources.nsf.gov/about/budget/fy2020/pdf/06_fy2020.pdf": {
+   "checkedAt": "2026-11-11T02:15:35.919Z",
+   "week": "2026-W46",
+   "httpStatus": 200,
+   "md5": "2141b57b87ec6389ab52d332e4670f44",
+   "bytes": 19155,
+   "etag": "W/\"2141b57b87ec6389ab52d332e4670f44\"",
+   "lastModified": "Fri, 25 Aug 2023 13:36:47 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": false,
+    "published": "2019-03-15",
+    "title": "NSF FY 2020 Budget",
+    "pages": 1,
+    "words": 521,
+    "images": 0,
+    "category": "Budget",
+    "checks": {
+     "tagged": "pass",
+     "title": "fail",
+     "language": "pass",
+     "bookmarks": "pass",
+     "taggedContent": "pass",
+     "figuresAlt": "pass",
+     "headings": null,
+     "lists": null,
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": null,
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "title, headings-none, "
+   ]
+  },
+  "https://nsf-gov-resources.nsf.gov/about/budget/fy2020/pdf/07_fy2020.pdf": {
+   "checkedAt": "2026-11-11T02:15:35.919Z",
+   "week": "2026-W46",
+   "httpStatus": 200,
+   "md5": "362fd9c48f5b12f0a5b35e0b2a02db2f",
+   "bytes": 12831,
+   "etag": "W/\"362fd9c48f5b12f0a5b35e0b2a02db2f\"",
+   "lastModified": "Fri, 25 Aug 2023 13:36:47 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": false,
+    "published": "2019-03-15",
+    "title": "NSF FY 2020 Budget",
+    "pages": 1,
+    "words": 188,
+    "images": 0,
+    "category": "Budget",
+    "checks": {
+     "tagged": "pass",
+     "title": "fail",
+     "language": "pass",
+     "bookmarks": "pass",
+     "taggedContent": "pass",
+     "figuresAlt": "pass",
+     "headings": null,
+     "lists": null,
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": null,
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "title, headings-none, "
+   ]
+  },
+  "https://nsf-gov-resources.nsf.gov/about/budget/fy2020/pdf/08_fy2020.pdf": {
+   "checkedAt": "2026-11-11T02:15:35.919Z",
+   "week": "2026-W46",
+   "httpStatus": 200,
+   "md5": "7c9516169f60e293bb9f409a4401a712",
+   "bytes": 14347,
+   "etag": "W/\"7c9516169f60e293bb9f409a4401a712\"",
+   "lastModified": "Fri, 25 Aug 2023 13:36:47 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": false,
+    "published": "2019-03-15",
+    "title": "NSF FY 2020 Budget",
+    "pages": 1,
+    "words": 298,
+    "images": 0,
+    "category": "Budget",
+    "checks": {
+     "tagged": "pass",
+     "title": "fail",
+     "language": "pass",
+     "bookmarks": "pass",
+     "taggedContent": "pass",
+     "figuresAlt": "pass",
+     "headings": null,
+     "lists": null,
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": null,
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "title, headings-none, "
+   ]
+  },
+  "https://nsf-gov-resources.nsf.gov/about/budget/fy2020/pdf/09_fy2020.pdf": {
+   "checkedAt": "2026-11-11T02:15:35.919Z",
+   "week": "2026-W46",
+   "httpStatus": 200,
+   "md5": "ea12e1219bf796b7d1a2983c31b60cf0",
+   "bytes": 14454,
+   "etag": "W/\"ea12e1219bf796b7d1a2983c31b60cf0\"",
+   "lastModified": "Fri, 25 Aug 2023 13:36:47 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": false,
+    "published": "2019-03-15",
+    "title": "NSF FY 2020 Budget",
+    "pages": 1,
+    "words": 245,
+    "images": 0,
+    "category": "Budget",
+    "checks": {
+     "tagged": "pass",
+     "title": "fail",
+     "language": "pass",
+     "bookmarks": "pass",
+     "taggedContent": "pass",
+     "figuresAlt": "pass",
+     "headings": null,
+     "lists": null,
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": null,
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "title, headings-none, "
+   ]
+  },
+  "https://nsf-gov-resources.nsf.gov/about/budget/fy2020/pdf/10_fy2020.pdf": {
+   "checkedAt": "2026-11-11T02:15:35.919Z",
+   "week": "2026-W46",
+   "httpStatus": 200,
+   "md5": "9954aff8e3579385a3da771888428820",
+   "bytes": 25218,
+   "etag": "W/\"9954aff8e3579385a3da771888428820\"",
+   "lastModified": "Fri, 25 Aug 2023 13:36:48 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": false,
+    "published": "2019-03-15",
+    "title": "NSF FY 2020 Budget",
+    "pages": 1,
+    "words": 568,
+    "images": 0,
+    "category": "Budget",
+    "checks": {
+     "tagged": "pass",
+     "title": "fail",
+     "language": "pass",
+     "bookmarks": "pass",
+     "taggedContent": "pass",
+     "figuresAlt": "pass",
+     "headings": null,
+     "lists": null,
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": null,
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "title, headings-none, "
+   ]
+  },
+  "https://nsf-gov-resources.nsf.gov/about/budget/fy2020/pdf/11_fy2020.pdf": {
+   "checkedAt": "2026-11-11T02:15:35.919Z",
+   "week": "2026-W46",
+   "httpStatus": 200,
+   "md5": "a022310617bd48828c4f3e35f095f594",
+   "bytes": 19357,
+   "etag": "W/\"a022310617bd48828c4f3e35f095f594\"",
+   "lastModified": "Fri, 25 Aug 2023 13:36:48 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": false,
+    "published": "2019-03-15",
+    "title": "NSF FY 2020 Budget",
+    "pages": 1,
+    "words": 516,
+    "images": 0,
+    "category": "Budget",
+    "checks": {
+     "tagged": "pass",
+     "title": "fail",
+     "language": "pass",
+     "bookmarks": "pass",
+     "taggedContent": "pass",
+     "figuresAlt": "pass",
+     "headings": null,
+     "lists": null,
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": null,
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "title, headings-none, "
+   ]
+  },
+  "https://nsf-gov-resources.nsf.gov/about/budget/fy2020/pdf/12_fy2020.pdf": {
+   "checkedAt": "2026-11-11T02:15:35.919Z",
+   "week": "2026-W46",
+   "httpStatus": 200,
+   "md5": "6be6b5ba304d68870f3227dc1922bcea",
+   "bytes": 16687,
+   "etag": "W/\"6be6b5ba304d68870f3227dc1922bcea\"",
+   "lastModified": "Fri, 25 Aug 2023 13:36:48 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": false,
+    "published": "2019-03-15",
+    "title": "NSF FY 2020 Budget",
+    "pages": 1,
+    "words": 322,
+    "images": 0,
+    "category": "Budget",
+    "checks": {
+     "tagged": "pass",
+     "title": "fail",
+     "language": "pass",
+     "bookmarks": "pass",
+     "taggedContent": "pass",
+     "figuresAlt": "pass",
+     "headings": null,
+     "lists": null,
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": null,
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "title, headings-none, "
+   ]
+  },
+  "https://nsf-gov-resources.nsf.gov/about/budget/fy2020/pdf/13_fy2020.pdf": {
+   "checkedAt": "2026-11-11T02:15:35.919Z",
+   "week": "2026-W46",
+   "httpStatus": 200,
+   "md5": "c1d414e1d8fb9437f1db49c79735c339",
+   "bytes": 34731,
+   "etag": "W/\"c1d414e1d8fb9437f1db49c79735c339\"",
+   "lastModified": "Fri, 25 Aug 2023 13:36:48 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": false,
+    "published": "2019-03-15",
+    "title": "NSF FY 2020 Budget Request",
+    "pages": 4,
+    "words": 1011,
+    "images": 0,
+    "category": "Budget",
+    "checks": {
+     "tagged": "pass",
+     "title": "fail",
+     "language": "pass",
+     "bookmarks": "pass",
+     "taggedContent": "pass",
+     "figuresAlt": "pass",
+     "headings": "pass",
+     "lists": "pass",
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": null,
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "title, "
+   ]
+  },
+  "https://nsf-gov-resources.nsf.gov/about/budget/fy2020/pdf/14_fy2020.pdf": {
+   "checkedAt": "2026-11-11T02:15:35.919Z",
+   "week": "2026-W46",
+   "httpStatus": 200,
+   "md5": "28067d50562886ebf32f7278b40716e4",
+   "bytes": 20741,
+   "etag": "W/\"28067d50562886ebf32f7278b40716e4\"",
+   "lastModified": "Fri, 25 Aug 2023 13:36:48 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": false,
+    "published": "2019-03-15",
+    "title": "NSF FY 2020 Budget",
+    "pages": 2,
+    "words": 818,
+    "images": 0,
+    "category": "Budget",
+    "checks": {
+     "tagged": "pass",
+     "title": "fail",
+     "language": "pass",
+     "bookmarks": "pass",
+     "taggedContent": "pass",
+     "figuresAlt": "pass",
+     "headings": null,
+     "lists": null,
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": null,
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "title, headings-none, "
+   ]
+  },
+  "https://nsf-gov-resources.nsf.gov/about/budget/fy2020/pdf/15_fy2020.pdf": {
+   "checkedAt": "2026-11-11T02:15:35.919Z",
+   "week": "2026-W46",
+   "httpStatus": 200,
+   "md5": "103b52bfe9dd70176af4885eb9c5fa74",
+   "bytes": 19993,
+   "etag": "W/\"103b52bfe9dd70176af4885eb9c5fa74\"",
+   "lastModified": "Fri, 25 Aug 2023 13:36:48 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": false,
+    "published": "2019-03-15",
+    "title": "NSF FY 2020 Budget",
+    "pages": 2,
+    "words": 685,
+    "images": 0,
+    "category": "Budget",
+    "checks": {
+     "tagged": "pass",
+     "title": "fail",
+     "language": "pass",
+     "bookmarks": "pass",
+     "taggedContent": "pass",
+     "figuresAlt": "pass",
+     "headings": null,
+     "lists": null,
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": null,
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "title, headings-none, "
+   ]
+  },
+  "https://nsf-gov-resources.nsf.gov/about/budget/fy2020/pdf/16_fy2020.pdf": {
+   "checkedAt": "2026-11-11T02:15:35.919Z",
+   "week": "2026-W46",
+   "httpStatus": 200,
+   "md5": "8df9f4404b271c305b5a144d2293531c",
+   "bytes": 13594,
+   "etag": "W/\"8df9f4404b271c305b5a144d2293531c\"",
+   "lastModified": "Fri, 25 Aug 2023 13:36:48 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": false,
+    "published": "2019-03-15",
+    "title": "NSF FY 2020 Budget",
+    "pages": 1,
+    "words": 241,
+    "images": 0,
+    "category": "Budget",
+    "checks": {
+     "tagged": "pass",
+     "title": "fail",
+     "language": "pass",
+     "bookmarks": "pass",
+     "taggedContent": "pass",
+     "figuresAlt": "pass",
+     "headings": null,
+     "lists": null,
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": null,
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "title, headings-none, "
+   ]
+  },
+  "https://nsf-gov-resources.nsf.gov/about/budget/fy2020/pdf/17_fy2020.pdf": {
+   "checkedAt": "2026-11-11T02:15:35.919Z",
+   "week": "2026-W46",
+   "httpStatus": 200,
+   "md5": "5cf94b24de58f536befcd9e743268432",
+   "bytes": 40845,
+   "etag": "W/\"5cf94b24de58f536befcd9e743268432\"",
+   "lastModified": "Fri, 25 Aug 2023 13:36:49 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": false,
+    "published": "2019-03-15",
+    "title": "NSF FY 2020 Budget",
+    "pages": 2,
+    "words": 544,
+    "images": 0,
+    "category": "Budget",
+    "checks": {
+     "tagged": "pass",
+     "title": "fail",
+     "language": "pass",
+     "bookmarks": "pass",
+     "taggedContent": "pass",
+     "figuresAlt": "pass",
+     "headings": null,
+     "lists": null,
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": null,
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "title, headings-none, "
+   ]
+  },
+  "https://nsf-gov-resources.nsf.gov/about/budget/fy2020/pdf/18_fy2020.pdf": {
+   "checkedAt": "2026-11-11T02:15:35.919Z",
+   "week": "2026-W46",
+   "httpStatus": 200,
+   "md5": "099cf7a8aabf3aeea685a3ca44fe65da",
+   "bytes": 9918,
+   "etag": "W/\"099cf7a8aabf3aeea685a3ca44fe65da\"",
+   "lastModified": "Fri, 25 Aug 2023 13:36:49 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": false,
+    "published": "2019-03-15",
+    "title": "NSF FY 2020 Budget",
+    "pages": 2,
+    "words": 44,
+    "images": 0,
+    "category": "Budget",
+    "checks": {
+     "tagged": "pass",
+     "title": "fail",
+     "language": "pass",
+     "bookmarks": "pass",
+     "taggedContent": "pass",
+     "figuresAlt": "pass",
+     "headings": null,
+     "lists": null,
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": null,
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "title, headings-none, "
    ]
   }
  }
