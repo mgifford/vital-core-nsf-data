@@ -1,0 +1,289 @@
+{
+ "runId": "2026-11-11T12-58-42-572Z-c2db06",
+ "week": "2026-W46",
+ "domain": "www.nsf.gov",
+ "canonical": {
+  "origin": "https://www.nsf.gov",
+  "configured": "https://www.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-11T12:58:44.082Z",
+ "scanned": [
+  "be6b7b3e10ad1e39",
+  "5064b9de32cb6234",
+  "04148e2cb0e70c00",
+  "9f3463fd90482753",
+  "192a829b459ae213",
+  "18971541a9ae675a",
+  "6ef2c0b5f459f697",
+  "ac67fa7fdf99818e",
+  "8c9b123abe687402",
+  "f18b9dfccebfbe36",
+  "e83e8a5cb44b4b06",
+  "e71d470d7879e9d7",
+  "b2b673265b98e664",
+  "d49a851c31f6ee86",
+  "66c9cb36b3fbd14a",
+  "7574afa1dfd391c1",
+  "3266db6a36d186b3",
+  "ada04ab16bc95886",
+  "af85aae7affb9d4c",
+  "b3cec95085240f32",
+  "0e994f5d25ee3ee2",
+  "0d8e63604ba962bf"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 394,
+  "checked": 394,
+  "brokenCount": 23,
+  "broken": [
+   {
+    "url": "https://www.cdc.gov/ncbddd/disabilityandhealth/dhds/index.html",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsf-convergence-accelerator-phases-1-2-2022-cohort-tracks-h/506213/nsf22-583/solicitation"
+    ]
+   },
+   {
+    "url": "https://askearn.org/page/disability-inclusion-in-the-workplace",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsf-convergence-accelerator-phases-1-2-2022-cohort-tracks-h/506213/nsf22-583/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.whitehouse.gov/wp-content/uploads/2021/06/100-day-supply-chain-review-report.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsf-convergence-accelerator-phases-1-2-2022-cohort-tracks-h/506213/nsf22-583/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/od/broadeningparticipation/bp.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsf-convergence-accelerator-phases-1-2-2022-cohort-tracks-h/506213/nsf22-583/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf21070",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsf-convergence-accelerator-phases-1-2-2022-cohort-tracks-h/506213/nsf22-583/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.saferfederalworkforce.gov/contractors/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsf-convergence-accelerator-phases-1-2-2022-cohort-tracks-h/506213/nsf22-583/solicitation"
+    ]
+   },
+   {
+    "url": "https://environment.govt.nz/what-you-can-do/funding/plastics-innovation-fund/",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsf-convergence-accelerator-phases-1-2-2022-cohort-tracks-h/506213/nsf22-583/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.fastlane.nsf.gov/a1/newstan.htm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/qubbd-joint-nsfnih-initiative-quantitative-approaches-biomedical/505292/nsf16-573/solicitation",
+     "https://www.nsf.gov/funding/opportunities/national-mobile-doppler-radar-facility/504928/nsf13-571/solicitation",
+     "https://www.nsf.gov/funding/opportunities/bread-basic-research-enable-agricultural-development/503285/nsf15-538/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf14043",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/qubbd-joint-nsfnih-initiative-quantitative-approaches-biomedical/505292/nsf16-573/solicitation",
+     "https://www.nsf.gov/funding/opportunities/bread-basic-research-enable-agricultural-development/503285/nsf15-538/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=aag",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/qubbd-joint-nsfnih-initiative-quantitative-approaches-biomedical/505292/nsf16-573/solicitation",
+     "https://www.nsf.gov/funding/opportunities/national-mobile-doppler-radar-facility/504928/nsf13-571/solicitation",
+     "https://www.nsf.gov/funding/opportunities/bread-basic-research-enable-agricultural-development/503285/nsf15-538/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/policies/SOR_PA_NSF-50_Principal_Investigator_Proposal_File.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/qubbd-joint-nsfnih-initiative-quantitative-approaches-biomedical/505292/nsf16-573/solicitation",
+     "https://www.nsf.gov/funding/opportunities/national-mobile-doppler-radar-facility/504928/nsf13-571/solicitation",
+     "https://www.nsf.gov/funding/opportunities/bread-basic-research-enable-agricultural-development/503285/nsf15-538/solicitation"
+    ]
+   },
+   {
+    "url": "https://nsf.gov/futureofwork",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/future-work-human-technology-frontier-office-hours/2022-01-26"
+    ]
+   },
+   {
+    "url": "http://www07.grants.gov/applicants/app_help_reso.jsp",
+    "status": 0,
+    "reason": "EAI_AGAIN",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/national-mobile-doppler-radar-facility/504928/nsf13-571/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf15110&org=NSF",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/research-formation-engineers/503584/pd17-1340"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_pc_t0VB4QzGQsoNvrQaDgA",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/neon-om-competition-webinar-0"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_4GfcGOjwRBedA7gGi9TYjQ",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/neon-om-competition-webinar-0"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/events/neon-bot@nsf.gov",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/neon-om-competition-webinar-0"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/bio/NEON/2021-08/NEON%20Webinar.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/neon-om-competition-webinar-0"
+    ]
+   },
+   {
+    "url": "http://www.whitehouse.gov/sites/default/files/microsites/ostp/NSTC/npgi_five-year_plan_5-2014.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/bread-basic-research-enable-agricultural-development/503285/nsf15-538/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.fastlane.nsf.gov/a0/about/registration.htm",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/bread-basic-research-enable-agricultural-development/503285/nsf15-538/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/bio/pubs/awards/bread10.htm?_pims_id=503285",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/bread-basic-research-enable-agricultural-development/503285/nsf15-538/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/bio/ios/ioscoitemplate.xlsx",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/bread-basic-research-enable-agricultural-development/503285/nsf15-538/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.aphis.usda.gov/programs/ag_selectagent/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/bread-basic-research-enable-agricultural-development/503285/nsf15-538/solicitation"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 22,
+  "resources": 22,
+  "images": 22,
+  "tech": 3,
+  "link-check": 22,
+  "standards": 10,
+  "security": 2,
+  "alfa": 13,
+  "plain-language": 14,
+  "sustainability": 3,
+  "public-interest": 3,
+  "third-party": 4,
+  "lighthouse": 2,
+  "deprecated-html": 1
+ },
+ "tally": {
+  "ok": 22,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 2,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 1,
+  "error": 0
+ },
+ "finishedAt": "2026-11-11T13:03:02.351Z"
+}
