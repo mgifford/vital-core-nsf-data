@@ -1,0 +1,286 @@
+{
+ "runId": "2026-11-11T12-00-34-174Z-52a2f3",
+ "week": "2026-W46",
+ "domain": "www.nsf.gov",
+ "canonical": {
+  "origin": "https://www.nsf.gov",
+  "configured": "https://www.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-11T12:00:35.619Z",
+ "scanned": [
+  "ee5469aa201b56cf",
+  "8492895449b4f16e",
+  "b0cfa64a9bc89248",
+  "60d25c47a6202a23",
+  "1ce5bb113c9be954",
+  "48d65d97b588c65a",
+  "4b5cd2db033d336e",
+  "d4b56f4f0a800a69",
+  "4cd80c015d9bb0b3",
+  "099c3c53fc5cee49",
+  "36b36c634d8df2b7",
+  "a6b89d72b0ed9420",
+  "8ea7c9e4a567ee6b",
+  "c5eac1ae8471f244",
+  "03bd3b071b73fd13",
+  "a0208aed25210b2a",
+  "7a0c32f15ae92496",
+  "3c8d57393168584e",
+  "56d2deb770bb964a",
+  "1a46a631aab09314",
+  "8c42bae3e2720140",
+  "3c59b81389169d0b",
+  "47b6bf9bebcd2f1c",
+  "169677a27b93ddec",
+  "a267765235fed697"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 377,
+  "checked": 377,
+  "brokenCount": 23,
+  "broken": [
+   {
+    "url": "https://www.whitehouse.gov/briefing-room/presidential-actions/2022/09/12/executive-order-on-advancing-biotechnology-and-biomanufacturing-innovation-for-a-sustainable-safe-and-secure-american-bioeconomy/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-mps-nci-supporting-new-areas-knowledge-spark-cancer-living"
+    ]
+   },
+   {
+    "url": "https://www.cancer.gov/about-nci/organization/dcb/news/square-tables",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-mps-nci-supporting-new-areas-knowledge-spark-cancer-living"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/mps/cancer-collab.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-mps-nci-supporting-new-areas-knowledge-spark-cancer-living"
+    ]
+   },
+   {
+    "url": "http://www.umass.edu/sts/ethics/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/er2-ethical-responsible-research/505693/nsf24-604/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/cise/bpc",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/computer-information-science-engineering-core-programs-large/506138/nsf24-572/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/events/cyber-physical-systems-cps-program-webinar",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/cps-cyberphysical-systems/503286/nsf21-551"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_gjqiFwroSGaBCyZepfu9OQ",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/cybertraining-nsf-23-520-scipe-nsf-23-521-program-webinar/2023-11-07"
+    ]
+   },
+   {
+    "url": "https://www.fastlane.nsf.gov/a1/newstan.htm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/mrsec-materials-research-science-engineering-centers/nsf21-625/solicitation",
+     "https://www.nsf.gov/funding/opportunities/csas-changing-seasonality-arctic-system/503195/nsf08-567/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf18045",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/mrsec-materials-research-science-engineering-centers/nsf21-625/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.nsf.gov/bio/pubs/awards/ICOB%20Awards%20table%20fy13.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/icob-international-collaborations-organismal-biology-between-us/504768/nsf12-577"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_iDj5IIWzRi6Scty0ENlOoQ",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/growing-research-access-nationally-transformative-equity-0"
+    ]
+   },
+   {
+    "url": "http://www.arcus.org/ARCSS/seasonality.html",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/csas-changing-seasonality-arctic-system/503195/nsf08-567/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/od/opp/arctic/conduct.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/csas-changing-seasonality-arctic-system/503195/nsf08-567/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.arcus.org/guidelines",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/csas-changing-seasonality-arctic-system/503195/nsf08-567/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.dpc.dk/sw6492.asp",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/csas-changing-seasonality-arctic-system/503195/nsf08-567/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/od/opp/arctic/res_log_sup.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/csas-changing-seasonality-arctic-system/503195/nsf08-567/solicitation"
+    ]
+   },
+   {
+    "url": "http://gcmd.gsfc.nasa.gov/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/csas-changing-seasonality-arctic-system/503195/nsf08-567/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=aag",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/csas-changing-seasonality-arctic-system/503195/nsf08-567/solicitation"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_Z1MzcHpNS6ayrQOGuRkL2A",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/2021-rcn-ube-webinar/2021-10-15"
+    ]
+   },
+   {
+    "url": "http://www.polar.ch2m.com/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/csas-changing-seasonality-arctic-system/503195/nsf08-567/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.sfos.uaf.edu/basc/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/csas-changing-seasonality-arctic-system/503195/nsf08-567/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/eng/eec/intern.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-funding-opportunities-engineering-research-quantum/nsf24-042"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_KRRvqxIYSiebm6P39lYgHg",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/office-hours-safe-ose-preliminary-proposal-preparation"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 25,
+  "alfa": 13,
+  "plain-language": 10,
+  "resources": 25,
+  "images": 25,
+  "tech": 1,
+  "link-check": 25,
+  "sustainability": 4,
+  "standards": 9,
+  "public-interest": 2,
+  "lighthouse": 3,
+  "deprecated-html": 1,
+  "security": 1,
+  "third-party": 4
+ },
+ "tally": {
+  "ok": 25,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 1,
+  "error": 0
+ },
+ "finishedAt": "2026-11-11T12:04:45.375Z"
+}
