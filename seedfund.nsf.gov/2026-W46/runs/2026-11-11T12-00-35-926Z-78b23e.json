@@ -1,0 +1,116 @@
+{
+ "runId": "2026-11-11T12-00-35-926Z-78b23e",
+ "week": "2026-W46",
+ "domain": "seedfund.nsf.gov",
+ "canonical": {
+  "origin": "https://seedfund.nsf.gov",
+  "configured": "https://seedfund.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-11T12:00:36.704Z",
+ "scanned": [
+  "46a3bbbe21dac9d7",
+  "93db2bb8b35bb653",
+  "2e857972563ee628",
+  "01aefaf37fb2ab69",
+  "f08614e02184dacc",
+  "a2c520bcab5326c6",
+  "3d19518013d046e2",
+  "6b60d09b059fcfae",
+  "3f5289da028c7ff4",
+  "5901fc8670f1a40a",
+  "c5b4764853216100",
+  "bafd489bab489e9b",
+  "fb160b840a09ac1c",
+  "94f0f62fa7fdcb56",
+  "323731fefcfa8fc7",
+  "37f31e50e185f52b",
+  "803a495916e4868b",
+  "69782541e76063e1",
+  "966ef12e79f3a109",
+  "536dbb3d9d936691",
+  "f7f915a75c0ba180",
+  "4c63b86d1d1b6013",
+  "423ede137210e9b0",
+  "bc6ed2fdef13265b",
+  "c1419cb562831e48"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 108,
+  "checked": 108,
+  "brokenCount": 2,
+  "broken": [
+   {
+    "url": "https://seedfund.nsf.gov/centers/focus-area/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://seedfund.nsf.gov/centers/ceps/novel-aerogel-based-insulation-may-transform-building-efficiency"
+    ]
+   },
+   {
+    "url": "https://time.com/collection/best-inventions-2023/6324114/iambic-model-t/",
+    "status": 406,
+    "reason": "HTTP 406",
+    "foundOn": [
+     "https://seedfund.nsf.gov/news/iambic"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 24,
+  "alfa": 10,
+  "resources": 24,
+  "images": 24,
+  "standards": 13,
+  "security": 4,
+  "link-check": 24,
+  "plain-language": 10,
+  "deprecated-html": 1,
+  "public-interest": 4,
+  "tech": 2,
+  "third-party": 4,
+  "sustainability": 1
+ },
+ "tally": {
+  "ok": 24,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-11T12:03:06.487Z"
+}
