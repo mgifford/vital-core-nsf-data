@@ -1,6 +1,6 @@
 {
  "domain": "seedfund.nsf.gov",
- "updatedAt": "2026-11-10T19:59:39.838Z",
+ "updatedAt": "2026-11-11T19:51:24.683Z",
  "links": {
   "https://relavomedical.com/": {
    "status": 0,
@@ -114,7 +114,10 @@
     "https://seedfund.nsf.gov/centers/ceps/recycling-waste-coal-ash-promises-more-sustainable-concrete-materials",
     "https://seedfund.nsf.gov/centers/ceps/clean-low-energy-method-for-primary-magnesium-metal-production",
     "https://seedfund.nsf.gov/centers/ceps/liquid-metal-based-thermal-interface-materials-keep-microelectronics-cool",
-    "https://seedfund.nsf.gov/centers/ceps/high-carotenoid-orange-corn-promises-nutritional-enhancement"
+    "https://seedfund.nsf.gov/centers/ceps/high-carotenoid-orange-corn-promises-nutritional-enhancement",
+    "https://seedfund.nsf.gov/centers/ceps/producing-green-iron-with-a-zero-carbon-electrochemical-process",
+    "https://seedfund.nsf.gov/centers/ceps/novel-aerogel-based-insulation-may-transform-building-efficiency",
+    "https://seedfund.nsf.gov/centers/ceps/corn-zein-based-edible-coatings-reduce-fresh-produce-waste"
    ]
   },
   "http://www.pcka.com/": {
@@ -165,28 +168,30 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W46",
    "_weeks": [
     "2026-W43",
-    "2026-W44"
+    "2026-W44",
+    "2026-W46"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
-    "https://seedfund.nsf.gov/SBIR-reauthorization"
+    "https://seedfund.nsf.gov/press"
    ]
   },
   "https://www.nsf.gov/staff/": {
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W46",
    "_weeks": [
     "2026-W43",
-    "2026-W44"
+    "2026-W44",
+    "2026-W46"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
-    "https://seedfund.nsf.gov/SBIR-reauthorization"
+    "https://seedfund.nsf.gov/press"
    ]
   },
   "https://pages.18f.gov/brand/color-palette/": {
@@ -277,12 +282,13 @@
    "status": 406,
    "reason": "HTTP 406",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
     "https://seedfund.nsf.gov/news/wavelogix"
    ]
@@ -635,13 +641,14 @@
    "status": 0,
    "reason": "ENOTFOUND",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W46",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W46"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "https://seedfund.nsf.gov/showcase/news"
+    "https://seedfund.nsf.gov/news/LivingInkTechnologies"
    ]
   },
   "https://medeciphersolutions.com/": {
@@ -662,13 +669,14 @@
    "status": 0,
    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W46",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W46"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "https://seedfund.nsf.gov/showcase/news"
+    "https://seedfund.nsf.gov/news/minnowtech"
    ]
   },
   "https://www.sdbj.com/manufacturing/making-market-headway-with-microplastics-solution/": {
@@ -858,13 +866,14 @@
   },
   "https://www.attune-medical.com/": {
    "status": 0,
-   "reason": "CERT_HAS_EXPIRED",
+   "reason": "ECONNRESET",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://seedfund.nsf.gov/news/attune-medical"
    ]
@@ -1032,11 +1041,12 @@
    "status": 0,
    "reason": "EAI_AGAIN",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://seedfund.nsf.gov/news/cypris-materials"
    ]
@@ -1045,11 +1055,12 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://seedfund.nsf.gov/project-pitch/guide"
    ]
@@ -1058,11 +1069,12 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://seedfund.nsf.gov/project-pitch/guide"
    ]
@@ -1184,6 +1196,45 @@
    "weeksBroken": 1,
    "foundOn": [
     "https://seedfund.nsf.gov/resources/applicants"
+   ]
+  },
+  "https://time.com/collection/best-inventions-2023/6324114/iambic-model-t/": {
+   "status": 406,
+   "reason": "HTTP 406",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/news/iambic"
+   ]
+  },
+  "https://github.com/18F/18f.gsa.gov/blob/master/_sass/_libs/wds/stylesheets/elements/_buttons.scss": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/styleguide/components"
+   ]
+  },
+  "http://www.lambdavision.com/": {
+   "status": 0,
+   "reason": "UND_ERR_CONNECT_TIMEOUT",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/awardees/history/details?company=lambdavision-inc"
    ]
   }
  }

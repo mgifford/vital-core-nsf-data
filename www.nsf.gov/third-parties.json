@@ -1,6 +1,6 @@
 {
  "domain": "www.nsf.gov",
- "updatedAt": "2026-11-10T19:59:36.290Z",
+ "updatedAt": "2026-11-11T19:51:20.686Z",
  "vendors": {
   "awswaf.com": {
    "firstSeen": "2026-W43",
@@ -108,7 +108,7 @@
     "2026-W46"
    ],
    "weeksSeen": 4,
-   "isScriptVendor": false
+   "isScriptVendor": true
   },
   "brightcovecdn.com": {
    "firstSeen": "2026-W43",
@@ -227,6 +227,15 @@
    ],
    "weeksSeen": 2,
    "isScriptVendor": false
+  },
+  "cloudflare.com": {
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": true
   }
  }
 }

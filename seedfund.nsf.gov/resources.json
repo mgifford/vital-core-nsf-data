@@ -1,6 +1,6 @@
 {
  "domain": "seedfund.nsf.gov",
- "updatedAt": "2026-11-10T19:59:39.837Z",
+ "updatedAt": "2026-11-11T19:51:24.682Z",
  "resources": {
   "https://www.youtube.com/embed/mKWCoHlInZg?enablejsapi=1&origin=https%3A%2F%2Fseedfund.nsf.gov": {
    "type": "embedded-media",
@@ -192,11 +192,28 @@
   "https://seedfund.nsf.gov/assets/files/press/overview.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
     "2026-W43",
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
+   ],
+   "weeksSeen": 4,
+   "lastPages": 2,
+   "lastExamplePages": [
+    "https://seedfund.nsf.gov/press",
+    "https://seedfund.nsf.gov/our-program"
+   ]
+  },
+  "https://www.sbir.gov/sites/default/files/elig_size_compliance_guide_0.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W43",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W43",
+    "2026-W45",
+    "2026-W46"
    ],
    "weeksSeen": 3,
    "lastPages": 1,
@@ -204,30 +221,16 @@
     "https://seedfund.nsf.gov/our-program"
    ]
   },
-  "https://www.sbir.gov/sites/default/files/elig_size_compliance_guide_0.pdf": {
-   "type": "pdf",
-   "firstSeen": "2026-W43",
-   "lastSeen": "2026-W45",
-   "_weeks": [
-    "2026-W43",
-    "2026-W45"
-   ],
-   "weeksSeen": 2,
-   "lastPages": 2,
-   "lastExamplePages": [
-    "https://seedfund.nsf.gov/apply/get-started",
-    "https://seedfund.nsf.gov/our-program"
-   ]
-  },
   "https://www.youtube.com/embed/zkwh7Yk9LsY?modestbranding=1&showinfo=0&fs=1&enablejsapi=1&origin=https%3A%2F%2Fseedfund.nsf.gov": {
    "type": "embedded-media",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
     "2026-W43",
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksSeen": 2,
+   "weeksSeen": 3,
    "lastPages": 1,
    "lastExamplePages": [
     "https://seedfund.nsf.gov/our-program"
@@ -262,14 +265,14 @@
   "https://www.youtube.com/embed/OsLDAevskrA?enablejsapi=1&origin=https%3A%2F%2Fseedfund.nsf.gov": {
    "type": "embedded-media",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W46",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W46"
    ],
-   "weeksSeen": 1,
-   "lastPages": 2,
+   "weeksSeen": 2,
+   "lastPages": 1,
    "lastExamplePages": [
-    "https://seedfund.nsf.gov/showcase",
     "https://seedfund.nsf.gov/topics/advanced-manufacturing"
    ]
   },
@@ -536,11 +539,12 @@
   "https://www.youtube.com/embed/XDEgLYwdKP4?enablejsapi=1&origin=https%3A%2F%2Fseedfund.nsf.gov": {
    "type": "embedded-media",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W46",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W46"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "lastPages": 1,
    "lastExamplePages": [
     "https://seedfund.nsf.gov/topics/advanced-manufacturing"
@@ -892,11 +896,12 @@
   "https://www.congress.gov/114/plaws/publ329/PLAW-114publ329.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W46",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W46"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "lastPages": 1,
    "lastExamplePages": [
     "https://seedfund.nsf.gov/solicitation-project-description"
@@ -1282,6 +1287,19 @@
    "lastPages": 1,
    "lastExamplePages": [
     "https://seedfund.nsf.gov/topics/power-management"
+   ]
+  },
+  "https://www.youtube.com/embed/mJG-aSh7Q4U?enablejsapi=1&origin=https%3A%2F%2Fseedfund.nsf.gov": {
+   "type": "embedded-media",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://seedfund.nsf.gov/resources/awardees/phase-1/accounting"
    ]
   }
  }

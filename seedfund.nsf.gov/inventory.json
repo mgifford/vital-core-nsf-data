@@ -1,11 +1,11 @@
 {
  "domain": "seedfund.nsf.gov",
- "updatedAt": "2026-11-10T19:59:39.547Z",
+ "updatedAt": "2026-11-11T19:51:24.357Z",
  "pages": {
   "https://seedfund.nsf.gov/awardees/history/details?company=emerald-tutu-inc-the": {
    "pageId": "0c77806eedb7e7c0",
-   "lastWeek": "2026-W43",
-   "lastScannedAt": "2026-10-25T08:32:42.516Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T12:59:07.077Z",
    "status": 200,
    "axeViolations": 6,
    "alfaFailures": null,
@@ -445,11 +445,11 @@
   },
   "https://seedfund.nsf.gov/news/PSYONIC": {
    "pageId": "25704b3fcb1d3d09",
-   "lastWeek": "2026-W43",
-   "lastScannedAt": "2026-10-25T09:14:58.006Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T17:30:40.214Z",
    "status": 200,
    "axeViolations": 8,
-   "alfaFailures": 18,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://seedfund.nsf.gov/topics/biomedical-technologies": {
@@ -589,8 +589,8 @@
   },
   "https://seedfund.nsf.gov/awardees/history/details?company=junebrain-inc": {
    "pageId": "37f31e50e185f52b",
-   "lastWeek": "2026-W45",
-   "lastScannedAt": "2026-11-04T17:34:54.451Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T12:02:03.863Z",
    "status": 200,
    "axeViolations": 6,
    "alfaFailures": null,
@@ -616,11 +616,11 @@
   },
   "https://seedfund.nsf.gov/news/ecovative-design": {
    "pageId": "423ede137210e9b0",
-   "lastWeek": "2026-W43",
-   "lastScannedAt": "2026-10-25T09:14:52.337Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T12:02:41.023Z",
    "status": 200,
    "axeViolations": 8,
-   "alfaFailures": 18,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://seedfund.nsf.gov/awardees/history/details?company=iaso-therapeutics-inc": {
@@ -868,11 +868,11 @@
   },
   "https://seedfund.nsf.gov/awardees/history/details?company=tyfast-energy-corp": {
    "pageId": "6ddee9d1a88cef78",
-   "lastWeek": "2026-W43",
-   "lastScannedAt": "2026-10-25T08:43:29.256Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T17:29:26.067Z",
    "status": 200,
    "axeViolations": 6,
-   "alfaFailures": null,
+   "alfaFailures": 29,
    "hasIssues": true
   },
   "https://seedfund.nsf.gov/awardees/history/details?company=brainstorm-therapeutics-inc": {
@@ -886,8 +886,8 @@
   },
   "https://seedfund.nsf.gov/press": {
    "pageId": "72f4857da48a02d0",
-   "lastWeek": "2026-W43",
-   "lastScannedAt": "2026-10-25T09:03:15.700Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T10:48:16.458Z",
    "status": 200,
    "axeViolations": 4,
    "alfaFailures": 17,
@@ -958,11 +958,11 @@
   },
   "https://seedfund.nsf.gov/news/osmoses": {
    "pageId": "7ed11d4da38a0d98",
-   "lastWeek": "2026-W43",
-   "lastScannedAt": "2026-10-25T09:48:17.006Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T17:31:21.560Z",
    "status": 200,
    "axeViolations": 8,
-   "alfaFailures": 18,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://seedfund.nsf.gov/news/AdvancedSiliconGroup": {
@@ -1048,17 +1048,17 @@
   },
   "https://seedfund.nsf.gov/news/Emvolon": {
    "pageId": "93db2bb8b35bb653",
-   "lastWeek": "2026-W43",
-   "lastScannedAt": "2026-10-25T08:46:06.318Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T12:00:53.170Z",
    "status": 200,
    "axeViolations": 8,
-   "alfaFailures": null,
+   "alfaFailures": 18,
    "hasIssues": true
   },
   "https://seedfund.nsf.gov/news/JuneBrain": {
    "pageId": "94f0f62fa7fdcb56",
-   "lastWeek": "2026-W45",
-   "lastScannedAt": "2026-11-05T10:45:30.026Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T12:01:53.389Z",
    "status": 200,
    "axeViolations": 8,
    "alfaFailures": 18,
@@ -1066,8 +1066,8 @@
   },
   "https://seedfund.nsf.gov/topics/advanced-manufacturing": {
    "pageId": "98356b6e74285710",
-   "lastWeek": "2026-W43",
-   "lastScannedAt": "2026-10-25T09:03:04.119Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T12:59:32.966Z",
    "status": 200,
    "axeViolations": 4,
    "alfaFailures": 26,
@@ -1165,8 +1165,8 @@
   },
   "https://seedfund.nsf.gov/awardees/history/details?company=emvolon-inc": {
    "pageId": "a8e29b61747b64e5",
-   "lastWeek": "2026-W45",
-   "lastScannedAt": "2026-11-04T13:20:13.958Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T17:29:19.593Z",
    "status": 200,
    "axeViolations": 5,
    "alfaFailures": 24,
@@ -1273,11 +1273,11 @@
   },
   "https://seedfund.nsf.gov/awardees/history/details?company=shark-wheel-inc": {
    "pageId": "b94ae4c52a1f1d47",
-   "lastWeek": "2026-W43",
-   "lastScannedAt": "2026-10-25T08:43:49.587Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T17:30:35.601Z",
    "status": 200,
    "axeViolations": 6,
-   "alfaFailures": 29,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://seedfund.nsf.gov/topics/quantum-information-technologies": {
@@ -1300,8 +1300,8 @@
   },
   "https://seedfund.nsf.gov/portfolio/details?company=grow-plastics-llc": {
    "pageId": "bc6ed2fdef13265b",
-   "lastWeek": "2026-W43",
-   "lastScannedAt": "2026-10-25T11:50:59.907Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T12:02:45.713Z",
    "status": 200,
    "axeViolations": 6,
    "alfaFailures": null,
@@ -1318,11 +1318,11 @@
   },
   "https://seedfund.nsf.gov/awardees/phase-1/details?company=insigna-inc": {
    "pageId": "c1ef106d36383b72",
-   "lastWeek": "2026-W43",
-   "lastScannedAt": "2026-10-25T08:50:50.408Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T10:46:56.393Z",
    "status": 200,
    "axeViolations": 5,
-   "alfaFailures": null,
+   "alfaFailures": 23,
    "hasIssues": true
   },
   "https://seedfund.nsf.gov/portfolio/details?company=branch-technology-llc": {
@@ -1651,8 +1651,8 @@
   },
   "https://seedfund.nsf.gov/awardees/history/details?company=seia-bio-inc": {
    "pageId": "0c8233e4ea47e9b0",
-   "lastWeek": "2026-W44",
-   "lastScannedAt": "2026-10-26T14:11:27.964Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T12:58:45.079Z",
    "status": 200,
    "axeViolations": 6,
    "alfaFailures": null,
@@ -1705,8 +1705,8 @@
   },
   "https://seedfund.nsf.gov/awardees/history/details?company=tambo-inc": {
    "pageId": "130dcdfb780fd5ed",
-   "lastWeek": "2026-W44",
-   "lastScannedAt": "2026-10-26T11:34:57.686Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T13:00:21.714Z",
    "status": 200,
    "axeViolations": 6,
    "alfaFailures": 29,
@@ -1912,8 +1912,8 @@
   },
   "https://seedfund.nsf.gov/awardees/history/details?company=folia-water-inc": {
    "pageId": "3d19518013d046e2",
-   "lastWeek": "2026-W44",
-   "lastScannedAt": "2026-10-26T10:23:55.989Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T12:01:17.977Z",
    "status": 200,
    "axeViolations": 6,
    "alfaFailures": 29,
@@ -1948,8 +1948,8 @@
   },
   "https://seedfund.nsf.gov/awardees/phase-1/details?company=lightthought-llc": {
    "pageId": "4578607d256c0df6",
-   "lastWeek": "2026-W44",
-   "lastScannedAt": "2026-10-26T11:37:25.354Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T12:59:51.289Z",
    "status": 200,
    "axeViolations": 5,
    "alfaFailures": 22,
@@ -2191,8 +2191,8 @@
   },
   "https://seedfund.nsf.gov/awardees/history/details?company=izote-biosciences-inc": {
    "pageId": "64b07a0a35b63885",
-   "lastWeek": "2026-W44",
-   "lastScannedAt": "2026-10-26T11:35:42.329Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T10:48:27.288Z",
    "status": 200,
    "axeViolations": 5,
    "alfaFailures": null,
@@ -2218,11 +2218,11 @@
   },
   "https://seedfund.nsf.gov/awardees/phase-1/details?company=lab2701-llc": {
    "pageId": "65538b78715222d9",
-   "lastWeek": "2026-W45",
-   "lastScannedAt": "2026-11-04T12:44:25.656Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T10:48:31.723Z",
    "status": 200,
    "axeViolations": 5,
-   "alfaFailures": null,
+   "alfaFailures": 23,
    "hasIssues": true
   },
   "https://seedfund.nsf.gov/awardees/history/details?company=defined-bioscience-inc": {
@@ -2281,8 +2281,8 @@
   },
   "https://seedfund.nsf.gov/news/docugami": {
    "pageId": "69782541e76063e1",
-   "lastWeek": "2026-W44",
-   "lastScannedAt": "2026-10-26T08:50:13.449Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T12:02:14.209Z",
    "status": 200,
    "axeViolations": 8,
    "alfaFailures": null,
@@ -2362,8 +2362,8 @@
   },
   "https://seedfund.nsf.gov/news/kelvin": {
    "pageId": "78a6862b7cd929af",
-   "lastWeek": "2026-W44",
-   "lastScannedAt": "2026-10-26T16:36:40.596Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T13:00:35.685Z",
    "status": 200,
    "axeViolations": 8,
    "alfaFailures": null,
@@ -2398,8 +2398,8 @@
   },
   "https://seedfund.nsf.gov/portfolio/details?company=qc-ware-corp": {
    "pageId": "80192cec780fc23d",
-   "lastWeek": "2026-W44",
-   "lastScannedAt": "2026-10-26T08:50:17.993Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T10:48:00.543Z",
    "status": 200,
    "axeViolations": 6,
    "alfaFailures": 27,
@@ -2479,8 +2479,8 @@
   },
   "https://seedfund.nsf.gov/news/wavelogix": {
    "pageId": "8f136a1d8ad7af75",
-   "lastWeek": "2026-W45",
-   "lastScannedAt": "2026-11-04T14:40:17.831Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T17:30:26.653Z",
    "status": 200,
    "axeViolations": 8,
    "alfaFailures": null,
@@ -2506,8 +2506,8 @@
   },
   "https://seedfund.nsf.gov/awardees/history/details?company=upstream-biotechnology-inc": {
    "pageId": "90ca17e8df6c5e9a",
-   "lastWeek": "2026-W44",
-   "lastScannedAt": "2026-10-26T16:37:11.702Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T12:58:49.080Z",
    "status": 200,
    "axeViolations": 6,
    "alfaFailures": 29,
@@ -2686,8 +2686,8 @@
   },
   "https://seedfund.nsf.gov/news/rarebird": {
    "pageId": "abccef75edb4e961",
-   "lastWeek": "2026-W44",
-   "lastScannedAt": "2026-10-26T11:35:35.734Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T17:31:45.539Z",
    "status": 200,
    "axeViolations": 8,
    "alfaFailures": 18,
@@ -2740,8 +2740,8 @@
   },
   "https://seedfund.nsf.gov/resources/awardees/phase-1/final-report": {
    "pageId": "b8fb3500f941aa46",
-   "lastWeek": "2026-W44",
-   "lastScannedAt": "2026-10-26T15:24:12.631Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T17:29:14.942Z",
    "status": 200,
    "axeViolations": 4,
    "alfaFailures": null,
@@ -2767,8 +2767,8 @@
   },
   "https://seedfund.nsf.gov/awardees/history/details?company=muuklabs-inc": {
    "pageId": "c1419cb562831e48",
-   "lastWeek": "2026-W44",
-   "lastScannedAt": "2026-10-26T11:35:12.636Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T12:02:50.519Z",
    "status": 200,
    "axeViolations": 6,
    "alfaFailures": null,
@@ -3073,8 +3073,8 @@
   },
   "https://seedfund.nsf.gov/showcase/cep/page/7/index.html": {
    "pageId": "f08614e02184dacc",
-   "lastWeek": "2026-W44",
-   "lastScannedAt": "2026-10-26T08:13:20.744Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T12:01:08.910Z",
    "status": 200,
    "axeViolations": 5,
    "alfaFailures": null,
@@ -3127,11 +3127,11 @@
   },
   "https://seedfund.nsf.gov/news/Samay": {
    "pageId": "fb160b840a09ac1c",
-   "lastWeek": "2026-W44",
-   "lastScannedAt": "2026-10-26T08:49:57.042Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T12:01:48.957Z",
    "status": 200,
    "axeViolations": 8,
-   "alfaFailures": 18,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://seedfund.nsf.gov/news/HoweIndustries": {
@@ -3523,11 +3523,11 @@
   },
   "https://seedfund.nsf.gov/news/swayinnovation": {
    "pageId": "4881131e150a9df9",
-   "lastWeek": "2026-W45",
-   "lastScannedAt": "2026-11-05T10:46:14.435Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T17:29:34.563Z",
    "status": 200,
    "axeViolations": 8,
-   "alfaFailures": null,
+   "alfaFailures": 18,
    "hasIssues": true
   },
   "https://seedfund.nsf.gov/showcase/cep/page/5/index.html": {
@@ -3559,11 +3559,11 @@
   },
   "https://seedfund.nsf.gov/awardees/phase-2/details?company=freescale-llc": {
    "pageId": "4c63b86d1d1b6013",
-   "lastWeek": "2026-W44",
-   "lastScannedAt": "2026-10-27T14:53:52.834Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T12:02:35.306Z",
    "status": 200,
    "axeViolations": 5,
-   "alfaFailures": null,
+   "alfaFailures": 23,
    "hasIssues": true
   },
   "https://seedfund.nsf.gov/awardees/phase-2/details?company=perseus-materials-inc": {
@@ -3577,20 +3577,20 @@
   },
   "https://seedfund.nsf.gov/awardees/history/details?company=materium-technologies-inc": {
    "pageId": "4da9e18ca7cbb86f",
-   "lastWeek": "2026-W44",
-   "lastScannedAt": "2026-10-27T13:10:09.545Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T10:47:11.584Z",
    "status": 200,
    "axeViolations": 5,
-   "alfaFailures": 23,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://seedfund.nsf.gov/awardees/phase-1/details?company=izote-biosciences-inc": {
    "pageId": "536dbb3d9d936691",
-   "lastWeek": "2026-W44",
-   "lastScannedAt": "2026-10-27T09:58:58.769Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T12:02:25.076Z",
    "status": 200,
    "axeViolations": 5,
-   "alfaFailures": 22,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://seedfund.nsf.gov/awardees/phase-2/details?company=pneumonix-medical-inc": {
@@ -3766,8 +3766,8 @@
   },
   "https://seedfund.nsf.gov/awardees/phase-2/details?company=volta-energy-inc": {
    "pageId": "69b98ed530f6037b",
-   "lastWeek": "2026-W44",
-   "lastScannedAt": "2026-10-27T15:36:44.183Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T10:48:05.607Z",
    "status": 200,
    "axeViolations": 5,
    "alfaFailures": null,
@@ -3865,11 +3865,11 @@
   },
   "https://seedfund.nsf.gov/awardees/history/details?company=amie-health-inc": {
    "pageId": "7e36fb33605bbf19",
-   "lastWeek": "2026-W44",
-   "lastScannedAt": "2026-10-27T08:55:40.001Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T13:00:08.416Z",
    "status": 200,
    "axeViolations": 6,
-   "alfaFailures": null,
+   "alfaFailures": 29,
    "hasIssues": true
   },
   "https://seedfund.nsf.gov/resources/awardees/phase-1/revised-budget": {
@@ -3883,8 +3883,8 @@
   },
   "https://seedfund.nsf.gov/awardees/history/details?company=lunar-resources-inc": {
    "pageId": "803a495916e4868b",
-   "lastWeek": "2026-W44",
-   "lastScannedAt": "2026-10-27T09:59:04.308Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T12:02:08.326Z",
    "status": 200,
    "axeViolations": 6,
    "alfaFailures": 29,
@@ -4477,8 +4477,8 @@
   },
   "https://seedfund.nsf.gov/awardees/phase-2/details?company=aeromutable-corporation": {
    "pageId": "f87b2fdd6787fef2",
-   "lastWeek": "2026-W44",
-   "lastScannedAt": "2026-10-27T14:53:42.501Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T10:47:20.774Z",
    "status": 200,
    "axeViolations": 5,
    "alfaFailures": null,
@@ -4486,20 +4486,20 @@
   },
   "https://seedfund.nsf.gov/solicitation-project-description": {
    "pageId": "f8c530d930b090f2",
-   "lastWeek": "2026-W44",
-   "lastScannedAt": "2026-10-27T08:55:33.325Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T12:59:11.003Z",
    "status": 200,
    "axeViolations": 4,
-   "alfaFailures": 66,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://seedfund.nsf.gov/awardees/phase-2/details?company=macula-vision-systems-inc": {
    "pageId": "fe7170e6b632e5fd",
-   "lastWeek": "2026-W44",
-   "lastScannedAt": "2026-10-27T15:37:11.107Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T12:59:27.516Z",
    "status": 200,
    "axeViolations": 5,
-   "alfaFailures": null,
+   "alfaFailures": 23,
    "hasIssues": true
   },
   "https://seedfund.nsf.gov/awardees/phase-2/details?company=junebrain-inc": {
@@ -4711,11 +4711,11 @@
   },
   "https://seedfund.nsf.gov/awardees/phase-2/details?company=ilambda-inc": {
    "pageId": "28a46482487342d1",
-   "lastWeek": "2026-W44",
-   "lastScannedAt": "2026-10-28T16:18:20.582Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T17:31:51.437Z",
    "status": 200,
    "axeViolations": 5,
-   "alfaFailures": null,
+   "alfaFailures": 23,
    "hasIssues": true
   },
   "https://seedfund.nsf.gov/awardees/phase-2/details?company=group1-inc": {
@@ -5278,8 +5278,8 @@
   },
   "https://seedfund.nsf.gov/awardees/phase-2/details?company=taumat-llc": {
    "pageId": "a1f303edb1a74e51",
-   "lastWeek": "2026-W44",
-   "lastScannedAt": "2026-10-28T15:21:29.545Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T13:00:39.896Z",
    "status": 200,
    "axeViolations": 5,
    "alfaFailures": null,
@@ -5440,8 +5440,8 @@
   },
   "https://seedfund.nsf.gov/awardees/history/details?company=tender-food-inc": {
    "pageId": "b5c38a548510a4d4",
-   "lastWeek": "2026-W45",
-   "lastScannedAt": "2026-11-04T14:40:56.710Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T12:58:41.103Z",
    "status": 200,
    "axeViolations": 5,
    "alfaFailures": null,
@@ -5611,8 +5611,8 @@
   },
   "https://seedfund.nsf.gov/awardees/phase-2/details?company=newhaptics-corp": {
    "pageId": "d44c55dc1049c075",
-   "lastWeek": "2026-W44",
-   "lastScannedAt": "2026-10-28T10:45:07.142Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T10:47:50.188Z",
    "status": 200,
    "axeViolations": 5,
    "alfaFailures": 23,
@@ -5674,8 +5674,8 @@
   },
   "https://seedfund.nsf.gov/awardees/history/details?company=lambdavision-inc": {
    "pageId": "dee8d801dc16dac5",
-   "lastWeek": "2026-W44",
-   "lastScannedAt": "2026-10-28T15:23:26.095Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T12:59:47.447Z",
    "status": 200,
    "axeViolations": 6,
    "alfaFailures": null,
@@ -5692,11 +5692,11 @@
   },
   "https://seedfund.nsf.gov/awardees/phase-2/details?company=prairielearn-inc": {
    "pageId": "e141737853fe3681",
-   "lastWeek": "2026-W44",
-   "lastScannedAt": "2026-10-28T09:37:34.234Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T17:30:44.646Z",
    "status": 200,
    "axeViolations": 5,
-   "alfaFailures": null,
+   "alfaFailures": 23,
    "hasIssues": true
   },
   "https://seedfund.nsf.gov/awardees/phase-2/details?company=firstthen-inc": {
@@ -5737,8 +5737,8 @@
   },
   "https://seedfund.nsf.gov/awardees/history/details?company=beyond-silicon-inc": {
    "pageId": "ea1a95a2e088ea14",
-   "lastWeek": "2026-W44",
-   "lastScannedAt": "2026-10-28T16:18:47.156Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T10:46:12.822Z",
    "status": 200,
    "axeViolations": 6,
    "alfaFailures": null,
@@ -6160,11 +6160,11 @@
   },
   "https://seedfund.nsf.gov/awardees/phase-2/details?company=nutramaize-llc": {
    "pageId": "0d9090bf68b2e177",
-   "lastWeek": "2026-W45",
-   "lastScannedAt": "2026-11-02T19:49:08.962Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T12:58:36.699Z",
    "status": 200,
    "axeViolations": 5,
-   "alfaFailures": 23,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://seedfund.nsf.gov/portfolio/details?company=synvitrobio-inc": {
@@ -6178,11 +6178,11 @@
   },
   "https://seedfund.nsf.gov/awardees/phase-2/details?company=ravel-holdings-inc": {
    "pageId": "0f7693675bd86d29",
-   "lastWeek": "2026-W45",
-   "lastScannedAt": "2026-11-02T18:43:00.478Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T12:59:38.494Z",
    "status": 200,
    "axeViolations": 5,
-   "alfaFailures": 22,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://seedfund.nsf.gov/portfolio/details?company=elektrofi-inc": {
@@ -6412,17 +6412,17 @@
   },
   "https://seedfund.nsf.gov/awardees/phase-2/details?company=icorium-engineering-company": {
    "pageId": "3be97c14b3a5aa10",
-   "lastWeek": "2026-W45",
-   "lastScannedAt": "2026-11-02T17:01:28.214Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T12:59:23.620Z",
    "status": 200,
    "axeViolations": 5,
-   "alfaFailures": 22,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://seedfund.nsf.gov/centers/ceps/novel-aerogel-based-insulation-may-transform-building-efficiency": {
    "pageId": "3f5289da028c7ff4",
-   "lastWeek": "2026-W45",
-   "lastScannedAt": "2026-11-02T18:43:51.434Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T12:01:28.373Z",
    "status": 200,
    "axeViolations": 9,
    "alfaFailures": 19,
@@ -6637,11 +6637,11 @@
   },
   "https://seedfund.nsf.gov/awardees/history/details?company=biomason-inc": {
    "pageId": "6b60d09b059fcfae",
-   "lastWeek": "2026-W45",
-   "lastScannedAt": "2026-11-02T12:46:16.894Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T12:01:24.126Z",
    "status": 200,
    "axeViolations": 6,
-   "alfaFailures": 29,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://seedfund.nsf.gov/showcase/cep/page/6": {
@@ -7051,11 +7051,11 @@
   },
   "https://seedfund.nsf.gov/awardees/phase-2/details?company=nitrate-elimination-company-inc": {
    "pageId": "bafd489bab489e9b",
-   "lastWeek": "2026-W45",
-   "lastScannedAt": "2026-11-02T17:00:43.401Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T12:01:44.562Z",
    "status": 200,
    "axeViolations": 5,
-   "alfaFailures": 23,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://seedfund.nsf.gov/awardees/phase-1/details?company=eascra-biotech-inc": {
@@ -7186,11 +7186,11 @@
   },
   "https://seedfund.nsf.gov/news/heirloom-carbon": {
    "pageId": "d05a747a29f1ab3a",
-   "lastWeek": "2026-W45",
-   "lastScannedAt": "2026-11-02T19:51:15.817Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T12:59:43.366Z",
    "status": 200,
    "axeViolations": 8,
-   "alfaFailures": 18,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://seedfund.nsf.gov/awardees/phase-2/details?company=bezwada-biomedical-llc": {
@@ -7240,8 +7240,8 @@
   },
   "https://seedfund.nsf.gov/awardees/history/details?company=hyfi-llc": {
    "pageId": "dc6c2469b98531e5",
-   "lastWeek": "2026-W45",
-   "lastScannedAt": "2026-11-02T18:45:40.795Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T10:49:20.189Z",
    "status": 200,
    "axeViolations": 6,
    "alfaFailures": 29,
@@ -7330,11 +7330,11 @@
   },
   "https://seedfund.nsf.gov/portfolio/details?company=sqz-biotechnologies-company": {
    "pageId": "f303cc3a5e0de81c",
-   "lastWeek": "2026-W45",
-   "lastScannedAt": "2026-11-02T13:52:29.479Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T10:46:17.195Z",
    "status": 200,
    "axeViolations": 6,
-   "alfaFailures": null,
+   "alfaFailures": 27,
    "hasIssues": true
   },
   "https://seedfund.nsf.gov/news/psyonic": {
@@ -7627,11 +7627,11 @@
   },
   "https://seedfund.nsf.gov/awardees/phase-1/details?company=cambrya-inc": {
    "pageId": "2e857972563ee628",
-   "lastWeek": "2026-W45",
-   "lastScannedAt": "2026-11-03T17:22:47.399Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T12:00:58.956Z",
    "status": 200,
    "axeViolations": 5,
-   "alfaFailures": 22,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://seedfund.nsf.gov/awardees/phase-1/details?company=levosens-inc": {
@@ -7672,11 +7672,11 @@
   },
   "https://seedfund.nsf.gov/news/attune-medical": {
    "pageId": "34510d87c3002c77",
-   "lastWeek": "2026-W45",
-   "lastScannedAt": "2026-11-03T12:13:04.476Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T12:59:14.904Z",
    "status": 200,
    "axeViolations": 8,
-   "alfaFailures": null,
+   "alfaFailures": 18,
    "hasIssues": true
   },
   "https://seedfund.nsf.gov/portfolio/details?company=trash-inc": {
@@ -7699,11 +7699,11 @@
   },
   "https://seedfund.nsf.gov/portfolio/details?company=bioxytech-retina-inc": {
    "pageId": "375ec1e4d4a86d56",
-   "lastWeek": "2026-W45",
-   "lastScannedAt": "2026-11-03T15:01:28.472Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T13:00:13.206Z",
    "status": 200,
    "axeViolations": 6,
-   "alfaFailures": 26,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://seedfund.nsf.gov/portfolio/details?company=consortiex-inc": {
@@ -7753,8 +7753,8 @@
   },
   "https://seedfund.nsf.gov/awardees/history/details?company=refibered-inc": {
    "pageId": "4612ab71a0d5063f",
-   "lastWeek": "2026-W45",
-   "lastScannedAt": "2026-11-03T10:45:56.358Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T10:47:35.633Z",
    "status": 200,
    "axeViolations": 6,
    "alfaFailures": 28,
@@ -8095,11 +8095,11 @@
   },
   "https://seedfund.nsf.gov/portfolio/details?company=uniqarta-inc": {
    "pageId": "7f9ee60bf533b3e5",
-   "lastWeek": "2026-W45",
-   "lastScannedAt": "2026-11-03T10:45:24.191Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T17:30:06.901Z",
    "status": 200,
    "axeViolations": 8,
-   "alfaFailures": 33,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://seedfund.nsf.gov/awardees/phase-2/details?company=oso-semiconductor-inc": {
@@ -8140,11 +8140,11 @@
   },
   "https://seedfund.nsf.gov/awardees/history/details?company=noble-gas-systems-llc": {
    "pageId": "8e5096b4e17d744c",
-   "lastWeek": "2026-W45",
-   "lastScannedAt": "2026-11-03T12:14:07.347Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T17:31:01.731Z",
    "status": 200,
    "axeViolations": 6,
-   "alfaFailures": 29,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://seedfund.nsf.gov/portfolio/details?company=spheryx-inc": {
@@ -8230,8 +8230,8 @@
   },
   "https://seedfund.nsf.gov/awardees/history/details?company=advanced-cooling-therapy-llc": {
    "pageId": "a7c7793e4d649457",
-   "lastWeek": "2026-W45",
-   "lastScannedAt": "2026-11-03T12:12:07.980Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T17:29:05.978Z",
    "status": 200,
    "axeViolations": 5,
    "alfaFailures": null,
@@ -8266,8 +8266,8 @@
   },
   "https://seedfund.nsf.gov/awardees/history/details?company=zymochem-inc": {
    "pageId": "af235495972fb810",
-   "lastWeek": "2026-W45",
-   "lastScannedAt": "2026-11-03T10:46:52.597Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T17:29:01.372Z",
    "status": 200,
    "axeViolations": 5,
    "alfaFailures": null,
@@ -8293,8 +8293,8 @@
   },
   "https://seedfund.nsf.gov/awardees/history/details?company=ansa-biotechnologies-inc": {
    "pageId": "b443d7c691e6a1d7",
-   "lastWeek": "2026-W45",
-   "lastScannedAt": "2026-11-03T16:29:03.433Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T10:49:06.508Z",
    "status": 200,
    "axeViolations": 6,
    "alfaFailures": null,
@@ -8410,11 +8410,11 @@
   },
   "https://seedfund.nsf.gov/awardees/history/details?company=silartek-llc": {
    "pageId": "c5b4764853216100",
-   "lastWeek": "2026-W45",
-   "lastScannedAt": "2026-11-03T10:46:01.923Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T12:01:40.061Z",
    "status": 200,
    "axeViolations": 5,
-   "alfaFailures": 24,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://seedfund.nsf.gov/portfolio/details?company=astrapi-corporation": {
@@ -8554,11 +8554,11 @@
   },
   "https://seedfund.nsf.gov/portfolio/details?company=pqsecure-technologies-llc": {
    "pageId": "e17df060c83e629d",
-   "lastWeek": "2026-W45",
-   "lastScannedAt": "2026-11-03T16:27:21.852Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T17:31:16.983Z",
    "status": 200,
    "axeViolations": 6,
-   "alfaFailures": 27,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://seedfund.nsf.gov/awardees/phase-2/details?company=estat-actuation-inc": {
@@ -8959,8 +8959,8 @@
   },
   "https://seedfund.nsf.gov/awardees/history/details?company=arzeda-corp": {
    "pageId": "b79813729e73ed0b",
-   "lastWeek": "2026-W45",
-   "lastScannedAt": "2026-11-04T12:34:24.087Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T17:31:12.639Z",
    "status": 200,
    "axeViolations": 7,
    "alfaFailures": null,
@@ -9094,11 +9094,11 @@
   },
   "https://seedfund.nsf.gov/awardees/phase-1/details?company=luminova-biotech-llc": {
    "pageId": "5f341bd717e1e88b",
-   "lastWeek": "2026-W45",
-   "lastScannedAt": "2026-11-04T14:40:39.687Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T10:48:47.585Z",
    "status": 200,
    "axeViolations": 5,
-   "alfaFailures": 22,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://seedfund.nsf.gov/awardees/history/details?company=ambercycle-inc": {
@@ -9139,8 +9139,8 @@
   },
   "https://seedfund.nsf.gov/awardees/history/details?company=vaxess-technologies-inc": {
    "pageId": "81786cb8fc367057",
-   "lastWeek": "2026-W45",
-   "lastScannedAt": "2026-11-04T14:40:07.206Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T10:47:16.512Z",
    "status": 200,
    "axeViolations": 7,
    "alfaFailures": null,
@@ -9301,8 +9301,8 @@
   },
   "https://seedfund.nsf.gov/news/cypris-materials": {
    "pageId": "6b28d4867f969f57",
-   "lastWeek": "2026-W45",
-   "lastScannedAt": "2026-11-04T17:15:26.071Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T17:31:25.867Z",
    "status": 200,
    "axeViolations": 8,
    "alfaFailures": null,
@@ -9463,8 +9463,8 @@
   },
   "https://seedfund.nsf.gov/project-pitch/guide": {
    "pageId": "d296583f178df051",
-   "lastWeek": "2026-W45",
-   "lastScannedAt": "2026-11-04T17:16:03.538Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T10:46:36.648Z",
    "status": 200,
    "axeViolations": 4,
    "alfaFailures": 17,
@@ -9490,11 +9490,11 @@
   },
   "https://seedfund.nsf.gov/awardees/history/details?company=noon-energy-inc": {
    "pageId": "e652bdc1d13b3e23",
-   "lastWeek": "2026-W45",
-   "lastScannedAt": "2026-11-05T10:46:23.975Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T17:29:10.650Z",
    "status": 200,
    "axeViolations": 6,
-   "alfaFailures": 29,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://seedfund.nsf.gov/news/AMP": {
@@ -9508,11 +9508,11 @@
   },
   "https://seedfund.nsf.gov/our-program": {
    "pageId": "fbaf43ffabe5ffaf",
-   "lastWeek": "2026-W45",
-   "lastScannedAt": "2026-11-05T10:45:50.295Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T10:48:10.446Z",
    "status": 200,
    "axeViolations": 4,
-   "alfaFailures": null,
+   "alfaFailures": 17,
    "hasIssues": true
   },
   "https://seedfund.nsf.gov/news/recurrent": {
@@ -10052,6 +10052,231 @@
    "lastScannedAt": "2026-11-10T16:35:01.773Z",
    "status": 200,
    "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://seedfund.nsf.gov/awardees/history/details?company=atoptix-inc": {
+   "pageId": "01aefaf37fb2ab69",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T12:01:03.533Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://seedfund.nsf.gov/portfolio/details?company=neurotrainer-inc": {
+   "pageId": "01fad16ce03559d2",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T10:47:25.152Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 27,
+   "hasIssues": true
+  },
+  "https://seedfund.nsf.gov/news/noon-energy": {
+   "pageId": "0462a90bea9a16f1",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T10:47:30.586Z",
+   "status": 200,
+   "axeViolations": 8,
+   "alfaFailures": 18,
+   "hasIssues": true
+  },
+  "https://seedfund.nsf.gov/news/Nitricity": {
+   "pageId": "206d852dc9864ba0",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T13:00:17.145Z",
+   "status": 200,
+   "axeViolations": 8,
+   "alfaFailures": 18,
+   "hasIssues": true
+  },
+  "https://seedfund.nsf.gov/styleguide/components": {
+   "pageId": "272e93784b76bce5",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T12:59:03.093Z",
+   "status": 200,
+   "axeViolations": 10,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://seedfund.nsf.gov/news/antithesis-foods": {
+   "pageId": "323731fefcfa8fc7",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T12:01:59.201Z",
+   "status": 200,
+   "axeViolations": 8,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://seedfund.nsf.gov/news/ImmersedGames": {
+   "pageId": "383cc6034a1576e7",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T17:31:30.374Z",
+   "status": 200,
+   "axeViolations": 8,
+   "alfaFailures": 18,
+   "hasIssues": true
+  },
+  "https://seedfund.nsf.gov/news/AtomComputing": {
+   "pageId": "42057c8bf615c21a",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T17:29:51.950Z",
+   "status": 200,
+   "axeViolations": 8,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://seedfund.nsf.gov/awardees/history/details?company=embr-labs-inc": {
+   "pageId": "46a3bbbe21dac9d7",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T12:00:46.106Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 29,
+   "hasIssues": true
+  },
+  "https://seedfund.nsf.gov/news/iambic": {
+   "pageId": "5901fc8670f1a40a",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T12:01:34.108Z",
+   "status": 200,
+   "axeViolations": 8,
+   "alfaFailures": 18,
+   "hasIssues": true
+  },
+  "https://seedfund.nsf.gov/news/diligent-robotics": {
+   "pageId": "6c7322e3270ee64c",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T17:31:06.456Z",
+   "status": 200,
+   "axeViolations": 8,
+   "alfaFailures": 18,
+   "hasIssues": true
+  },
+  "https://seedfund.nsf.gov/awardees/history/details?company=coreshell-technologies-inc": {
+   "pageId": "79eb977389b96994",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T10:47:55.386Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 29,
+   "hasIssues": true
+  },
+  "https://seedfund.nsf.gov/centers/ceps/corn-zein-based-edible-coatings-reduce-fresh-produce-waste": {
+   "pageId": "8a941c4f4ffa2b91",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T17:30:11.252Z",
+   "status": 200,
+   "axeViolations": 9,
+   "alfaFailures": 19,
+   "hasIssues": true
+  },
+  "https://seedfund.nsf.gov/news/minnowtech": {
+   "pageId": "938fa446dfc51a59",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T13:00:26.296Z",
+   "status": 200,
+   "axeViolations": 8,
+   "alfaFailures": 18,
+   "hasIssues": true
+  },
+  "https://seedfund.nsf.gov/portfolio/details?company=the-echo-nest-corporation": {
+   "pageId": "966ef12e79f3a109",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T12:02:18.676Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 26,
+   "hasIssues": true
+  },
+  "https://seedfund.nsf.gov/news/EmeraldTutu": {
+   "pageId": "98eae8878950c6e3",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T12:59:19.613Z",
+   "status": 200,
+   "axeViolations": 8,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://seedfund.nsf.gov/awardees/history/details?company=quantum-formatics-corp": {
+   "pageId": "9d29adbf659f202d",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T13:00:31.053Z",
+   "status": 200,
+   "axeViolations": 5,
+   "alfaFailures": 23,
+   "hasIssues": true
+  },
+  "https://seedfund.nsf.gov/centers/ceps/producing-green-iron-with-a-zero-carbon-electrochemical-process": {
+   "pageId": "b49b6ee29e1f414d",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T10:46:22.499Z",
+   "status": 200,
+   "axeViolations": 9,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://seedfund.nsf.gov/topics/energy-and-power-systems": {
+   "pageId": "c20daabebc7265f4",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T10:48:21.750Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 22,
+   "hasIssues": true
+  },
+  "https://seedfund.nsf.gov/news/LivingInkTechnologies": {
+   "pageId": "c8dbb3c29430764c",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T17:31:57.303Z",
+   "status": 200,
+   "axeViolations": 8,
+   "alfaFailures": 18,
+   "hasIssues": true
+  },
+  "https://seedfund.nsf.gov/awardees/phase-1/details?company=viat-services-llc": {
+   "pageId": "d44bd7ac4099a6d4",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T10:49:01.069Z",
+   "status": 200,
+   "axeViolations": 5,
+   "alfaFailures": 22,
+   "hasIssues": true
+  },
+  "https://seedfund.nsf.gov/awardees/history/details?company=electroninks-incorporated": {
+   "pageId": "e2c79eabbe6d02b6",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T17:30:31.118Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://seedfund.nsf.gov/awardees/history/details?company=exotanium-inc": {
+   "pageId": "f7f915a75c0ba180",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T12:02:29.526Z",
+   "status": 200,
+   "axeViolations": 6,
+   "alfaFailures": 29,
+   "hasIssues": true
+  },
+  "https://seedfund.nsf.gov/resources/awardees/phase-1/accounting": {
+   "pageId": "fc59513395f6221d",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T10:46:51.861Z",
+   "status": 200,
+   "axeViolations": 4,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://seedfund.nsf.gov/news/quantifind": {
+   "pageId": "fedd6c8f9bdc7ea1",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-11T13:00:04.512Z",
+   "status": 200,
+   "axeViolations": 8,
    "alfaFailures": null,
    "hasIssues": true
   }
