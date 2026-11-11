@@ -1,0 +1,133 @@
+{
+ "runId": "2026-11-11T12-58-32-861Z-e6188c",
+ "week": "2026-W46",
+ "domain": "seedfund.nsf.gov",
+ "canonical": {
+  "origin": "https://seedfund.nsf.gov",
+  "configured": "https://seedfund.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-11T12:58:33.404Z",
+ "scanned": [
+  "0d9090bf68b2e177",
+  "b5c38a548510a4d4",
+  "0c8233e4ea47e9b0",
+  "90ca17e8df6c5e9a",
+  "272e93784b76bce5",
+  "0c77806eedb7e7c0",
+  "f8c530d930b090f2",
+  "34510d87c3002c77",
+  "98eae8878950c6e3",
+  "3be97c14b3a5aa10",
+  "fe7170e6b632e5fd",
+  "98356b6e74285710",
+  "0f7693675bd86d29",
+  "d05a747a29f1ab3a",
+  "dee8d801dc16dac5",
+  "4578607d256c0df6",
+  "fedd6c8f9bdc7ea1",
+  "7e36fb33605bbf19",
+  "375ec1e4d4a86d56",
+  "206d852dc9864ba0",
+  "130dcdfb780fd5ed",
+  "938fa446dfc51a59",
+  "9d29adbf659f202d",
+  "78a6862b7cd929af",
+  "a1f303edb1a74e51"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 118,
+  "checked": 118,
+  "brokenCount": 4,
+  "broken": [
+   {
+    "url": "https://github.com/18F/18f.gsa.gov/blob/master/_sass/_libs/wds/stylesheets/elements/_buttons.scss",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://seedfund.nsf.gov/styleguide/components"
+    ]
+   },
+   {
+    "url": "https://www.attune-medical.com/",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://seedfund.nsf.gov/news/attune-medical"
+    ]
+   },
+   {
+    "url": "https://www.usmd.edu/newsroom/news/2397",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://seedfund.nsf.gov/news/minnowtech"
+    ]
+   },
+   {
+    "url": "http://www.lambdavision.com/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://seedfund.nsf.gov/awardees/history/details?company=lambdavision-inc"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 25,
+  "plain-language": 17,
+  "deprecated-html": 6,
+  "resources": 25,
+  "images": 25,
+  "tech": 5,
+  "third-party": 8,
+  "link-check": 25,
+  "standards": 12,
+  "sustainability": 4,
+  "alfa": 10,
+  "lighthouse": 2,
+  "public-interest": 2,
+  "security": 1
+ },
+ "tally": {
+  "ok": 25,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-11T13:00:58.698Z"
+}
