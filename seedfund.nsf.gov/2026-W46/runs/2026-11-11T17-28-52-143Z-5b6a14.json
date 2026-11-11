@@ -1,0 +1,132 @@
+{
+ "runId": "2026-11-11T17-28-52-143Z-5b6a14",
+ "week": "2026-W46",
+ "domain": "seedfund.nsf.gov",
+ "canonical": {
+  "origin": "https://seedfund.nsf.gov",
+  "configured": "https://seedfund.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-11T17:28:52.537Z",
+ "scanned": [
+  "af235495972fb810",
+  "a7c7793e4d649457",
+  "e652bdc1d13b3e23",
+  "b8fb3500f941aa46",
+  "a8e29b61747b64e5",
+  "6ddee9d1a88cef78",
+  "4881131e150a9df9",
+  "42057c8bf615c21a",
+  "7f9ee60bf533b3e5",
+  "8a941c4f4ffa2b91",
+  "8f136a1d8ad7af75",
+  "e2c79eabbe6d02b6",
+  "b94ae4c52a1f1d47",
+  "25704b3fcb1d3d09",
+  "e141737853fe3681",
+  "8e5096b4e17d744c",
+  "6c7322e3270ee64c",
+  "b79813729e73ed0b",
+  "e17df060c83e629d",
+  "7ed11d4da38a0d98",
+  "6b28d4867f969f57",
+  "383cc6034a1576e7",
+  "abccef75edb4e961",
+  "28a46482487342d1",
+  "c8dbb3c29430764c"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 127,
+  "checked": 127,
+  "brokenCount": 4,
+  "broken": [
+   {
+    "url": "https://seedfund.nsf.gov/centers/focus-area/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://seedfund.nsf.gov/centers/ceps/corn-zein-based-edible-coatings-reduce-fresh-produce-waste"
+    ]
+   },
+   {
+    "url": "https://time.com/collection/best-inventions-2023/6326422/wavelogix-rebel-concrete-strength-sensors/",
+    "status": 406,
+    "reason": "HTTP 406",
+    "foundOn": [
+     "https://seedfund.nsf.gov/news/wavelogix"
+    ]
+   },
+   {
+    "url": "https://www.cyprismaterials.com/",
+    "status": 0,
+    "reason": "EAI_AGAIN",
+    "foundOn": [
+     "https://seedfund.nsf.gov/news/cypris-materials"
+    ]
+   },
+   {
+    "url": "https://www.nrel.gov/news/press/2024/more-awards-given-out-than-ever-before-at-2024-industry-growth-forum.html",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://seedfund.nsf.gov/news/LivingInkTechnologies"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 25,
+  "plain-language": 15,
+  "deprecated-html": 2,
+  "resources": 25,
+  "images": 25,
+  "standards": 14,
+  "link-check": 25,
+  "third-party": 7,
+  "sustainability": 2,
+  "alfa": 10,
+  "public-interest": 2,
+  "security": 6,
+  "lighthouse": 5
+ },
+ "tally": {
+  "ok": 25,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-11T17:32:12.811Z"
+}
