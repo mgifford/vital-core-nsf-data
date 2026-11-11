@@ -1,0 +1,100 @@
+{
+ "runId": "2026-11-11T12-58-32-281Z-f74b80",
+ "week": "2026-W46",
+ "domain": "ncses.nsf.gov",
+ "canonical": {
+  "origin": "https://ncses.nsf.gov",
+  "configured": "https://ncses.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-11T12:58:32.811Z",
+ "scanned": [
+  "c9f93ea40eb83e38",
+  "e37c577aa97810cb",
+  "fb694fa98d3a4114",
+  "b769e9db32070a59",
+  "e96107004d6840fd",
+  "91704816ab2986ce",
+  "6d47645c3614e423",
+  "0152074285517b94",
+  "3a940a50ce7a5b1b",
+  "655198dff458d474",
+  "03029766b06673ca",
+  "c162f28c8d8c08f6",
+  "938a442e7e21575f",
+  "6c460123840bc452",
+  "593969cfbc0543a0",
+  "e6431033b3e2c264",
+  "7d8101aecf2bf596",
+  "13f53230bbd613be"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 1890,
+  "checked": 500,
+  "brokenCount": 1,
+  "broken": [
+   {
+    "url": "https://www.whitehouse.gov/wp-content/uploads/2023/03/ap_6_research_fy2024.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsf24332"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 18,
+  "alfa": 8,
+  "plain-language": 8,
+  "resources": 18,
+  "images": 18,
+  "standards": 12,
+  "link-check": 18,
+  "tech": 2,
+  "third-party": 4,
+  "deprecated-html": 2,
+  "public-interest": 2,
+  "sustainability": 2
+ },
+ "tally": {
+  "ok": 18,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 9,
+  "error": 0
+ },
+ "finishedAt": "2026-11-11T13:01:35.114Z"
+}
