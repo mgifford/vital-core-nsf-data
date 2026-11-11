@@ -1,0 +1,109 @@
+{
+ "runId": "2026-11-11T10-46-19-801Z-92d570",
+ "week": "2026-W46",
+ "domain": "ncses.nsf.gov",
+ "canonical": {
+  "origin": "https://ncses.nsf.gov",
+  "configured": "https://ncses.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-11T10:46:20.558Z",
+ "scanned": [
+  "c28d2b522c671355",
+  "753c81dac9ff7d6f",
+  "3bbb12ccc7e95288",
+  "89a915f85daad05d",
+  "3a34e181adfa8d6d",
+  "e3da84bbf21cb490",
+  "6743636b88ca1bbf",
+  "12d35ef2a0fbb087",
+  "2fd47b7e40f13264",
+  "485a5da0d07ef68b",
+  "c05a11287774f9a8",
+  "cdb8153f7f19b805"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 1721,
+  "checked": 500,
+  "brokenCount": 2,
+  "broken": [
+   {
+    "url": "https://ncses.nsf.gov/indicators/permissions",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20225/conclusion",
+     "https://ncses.nsf.gov/pubs/nsb20243/figure/23",
+     "https://ncses.nsf.gov/pubs/nsb20262/production-patterns-of-knowledge-and-technology-intensive-industries",
+     "https://ncses.nsf.gov/pubs/nsb20202/academic-r-d-in-the-united-states",
+     "https://ncses.nsf.gov/pubs/nsb20224/figure/INV-14",
+     "https://ncses.nsf.gov/pubs/nsb20214/table/SPBS-9",
+     "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-42",
+     "https://ncses.nsf.gov/pubs/nsb20246/contact-us"
+    ]
+   },
+   {
+    "url": "https://ncses.nsf.gov/pubs/nsb20262/assets/knowledge-and-technology-transfer/tables/nsb20262-tabtrn-002.pdf",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20262/production-patterns-of-knowledge-and-technology-intensive-industries"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 12,
+  "alfa": 7,
+  "resources": 12,
+  "images": 12,
+  "standards": 7,
+  "link-check": 12,
+  "plain-language": 7,
+  "deprecated-html": 2,
+  "tech": 5,
+  "third-party": 2,
+  "public-interest": 2,
+  "sustainability": 1
+ },
+ "tally": {
+  "ok": 12,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 1,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 15,
+  "error": 0
+ },
+ "finishedAt": "2026-11-11T10:51:53.461Z"
+}
