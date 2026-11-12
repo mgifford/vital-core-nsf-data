@@ -1,6 +1,6 @@
 {
  "domain": "ncses.nsf.gov",
- "updatedAt": "2026-11-11T19:51:22.066Z",
+ "updatedAt": "2026-11-12T20:24:31.558Z",
  "pages": {
   "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-45": {
    "pageId": "00abbacd9d4d5dcc",
@@ -2713,11 +2713,11 @@
   },
   "https://ncses.nsf.gov/surveys/annual-business-survey/2022": {
    "pageId": "d923a41e3a91d7c7",
-   "lastWeek": "2026-W44",
-   "lastScannedAt": "2026-10-26T08:11:24.958Z",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-12T10:59:24.503Z",
    "status": 200,
-   "axeViolations": 23,
-   "alfaFailures": 84,
+   "axeViolations": 25,
+   "alfaFailures": 469,
    "hasIssues": true
   },
   "https://ncses.nsf.gov/pubs/nsb20262/table/STRN-38": {
@@ -10575,6 +10575,123 @@
    "status": 200,
    "axeViolations": 48,
    "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/pubs/nsf21318/table/2-1": {
+   "pageId": "0c06fb6f1e722a42",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-12T11:00:49.115Z",
+   "status": 200,
+   "axeViolations": 32,
+   "alfaFailures": 1184,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/pubs/nsf24300/report/executive-summary": {
+   "pageId": "26b3187cdb409750",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-12T10:57:11.978Z",
+   "status": 200,
+   "axeViolations": 12,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/pubs/nsb20224/data/table/SINV-17": {
+   "pageId": "2a991897b262ab91",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-12T10:58:37.454Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": 368,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-5": {
+   "pageId": "6f344fa44204f31c",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-12T10:56:18.672Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": 573,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/pubs/nsb20214/table/SPBS-31": {
+   "pageId": "93b2b557b9c74682",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-12T10:59:47.526Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": 450,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/indicators/states/indicator/federal-rd-obligations-per-employed-worker": {
+   "pageId": "a9f8a5e0af533f19",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-12T10:58:32.165Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/pubs/nsb20214/figure/PBS-C": {
+   "pageId": "aa4d75cd401bf62f",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-12T11:01:08.050Z",
+   "status": 200,
+   "axeViolations": 32,
+   "alfaFailures": 97,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/pubs/nsb20214/table/SPBS-20": {
+   "pageId": "c0b02abffd096cc4",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-12T10:57:32.186Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": 494,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/pubs/nsb202331/downloads": {
+   "pageId": "c1bc73c9ad67c769",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-12T11:00:33.849Z",
+   "status": 200,
+   "axeViolations": 17,
+   "alfaFailures": 64,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/pubs/nsf25351": {
+   "pageId": "c2347d4a2eb01685",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-12T10:58:58.256Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/pubs/nsf19301/report/contact-report-author": {
+   "pageId": "dafc2789b204985e",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-12T11:01:22.210Z",
+   "status": 200,
+   "axeViolations": 11,
+   "alfaFailures": 48,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/pubs/nsf23311/figure/3": {
+   "pageId": "e95cbd748c97c188",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-12T10:58:25.648Z",
+   "status": 200,
+   "axeViolations": 142,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/pubs/nsb20226/table/SKTI-14": {
+   "pageId": "eed2028c56bb8ba7",
+   "lastWeek": "2026-W46",
+   "lastScannedAt": "2026-11-12T10:59:04.872Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": 144,
    "hasIssues": true
   }
  },
