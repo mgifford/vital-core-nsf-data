@@ -1,0 +1,109 @@
+{
+ "runId": "2026-11-12T10-56-08-014Z-48ba34",
+ "week": "2026-W46",
+ "domain": "seedfund.nsf.gov",
+ "canonical": {
+  "origin": "https://seedfund.nsf.gov",
+  "configured": "https://seedfund.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-12T10:56:08.739Z",
+ "scanned": [
+  "ebb963981d434a9e",
+  "8c4e724a399298eb",
+  "bcbdff497b9c6092",
+  "adf8f7aa008e0391",
+  "1f02b31b04ed752c",
+  "1ee5548d2fb80d39",
+  "dabb3b1886574e9f",
+  "e769ba2b4b7931f6",
+  "7c54706f036f593f",
+  "0e9983bce1edcb34",
+  "1a77cee757112079",
+  "1b4cbbc886dc0b5e",
+  "387456dd806ccda9",
+  "90633e7304095d2e",
+  "82efb06182e02a96",
+  "5595df8cd8f35615",
+  "4bcb0f4f4aba0428",
+  "ce06e7f79983892f",
+  "96c056da43189648",
+  "04b59fe106ca023f",
+  "71baa6df509d7aee",
+  "2282729fbae062df",
+  "2abea8823dce9754",
+  "886326010b5db4fa",
+  "fa7e92f6335ae004"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 148,
+  "checked": 148,
+  "brokenCount": 1,
+  "broken": [
+   {
+    "url": "https://clearflame.com/",
+    "status": 0,
+    "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
+    "foundOn": [
+     "https://seedfund.nsf.gov/what-we-fund"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 25,
+  "alfa": 14,
+  "plain-language": 11,
+  "resources": 25,
+  "images": 25,
+  "standards": 15,
+  "link-check": 25,
+  "sustainability": 2,
+  "tech": 1,
+  "security": 2,
+  "public-interest": 3,
+  "deprecated-html": 2,
+  "third-party": 3,
+  "lighthouse": 3
+ },
+ "tally": {
+  "ok": 25,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 1,
+  "error": 0
+ },
+ "finishedAt": "2026-11-12T10:59:31.432Z"
+}
