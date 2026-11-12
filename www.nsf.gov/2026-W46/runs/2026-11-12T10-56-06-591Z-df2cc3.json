@@ -1,0 +1,248 @@
+{
+ "runId": "2026-11-12T10-56-06-591Z-df2cc3",
+ "week": "2026-W46",
+ "domain": "www.nsf.gov",
+ "canonical": {
+  "origin": "https://www.nsf.gov",
+  "configured": "https://www.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-12T10:56:07.422Z",
+ "scanned": [
+  "4dd5acb976546f2f",
+  "c180397fdbfef278",
+  "f0ec108cbe62d714",
+  "d6c22a7e9d598168",
+  "9587a0f7dfc66f50",
+  "06b8fe7b2b113623",
+  "ab28626eb4653237",
+  "91b8b1ef5d882fc0",
+  "b4b50eaa1162c146",
+  "77b2048a06e880ef",
+  "864192496c618dbb",
+  "cf4947e4f00c14f1",
+  "982898d4f2faab23",
+  "fd8eae9469b4c312",
+  "5bbf4ce6d67120fb",
+  "f71a58986afacb91",
+  "1c4a9ee7cd61aab1",
+  "8f20b81902b278cb",
+  "35a669138e5e831d",
+  "cda43085fc86ef21",
+  "e9fc30eb54418b47",
+  "0897a6ca1c5b09e7",
+  "42fc1dae04305f14",
+  "19e3c653490b6cee"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 320,
+  "checked": 320,
+  "brokenCount": 18,
+  "broken": [
+   {
+    "url": "https://www.fastlane.nsf.gov/a1/newstan.htm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/mps-physics-mps-physics-research-programs/nsf17-561/solicitation",
+     "https://www.nsf.gov/funding/opportunities/provision-marine-seismic-capabilities-u-s-research-community/505422/nsf17-563/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/policies/SOR_PA_NSF-50_Principal_Investigator_Proposal_File.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/mps-physics-mps-physics-research-programs/nsf17-561/solicitation",
+     "https://www.nsf.gov/funding/opportunities/provision-marine-seismic-capabilities-u-s-research-community/505422/nsf17-563/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf14043",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/mps-physics-mps-physics-research-programs/nsf17-561/solicitation",
+     "https://www.nsf.gov/funding/opportunities/provision-marine-seismic-capabilities-u-s-research-community/505422/nsf17-563/solicitation"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_1WGPDm1GTbmbzn2SCE2SOQ",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/sbe-ethical-responsible-research-er2-solicitation-webinar",
+     "https://www.nsf.gov/events/sbe-ethical-responsible-research-er2-solicitation-webinar/2024-10-03"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf23086",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/crii-computer-information-science-engineering-research-initiation/504952/nsf23-576/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.worldbank.org/data/countryclass/classgroups.htm",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/bread-basic-research-enable-agricultural-development/503285/nsf09-566/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.ccr.gov/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/bread-basic-research-enable-agricultural-development/503285/nsf09-566/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubs/2007/in130/in130.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/bread-basic-research-enable-agricultural-development/503285/nsf09-566/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf09061",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/bread-basic-research-enable-agricultural-development/503285/nsf09-566/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.fastlane.nsf.gov/a1/newstan.htm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/bread-basic-research-enable-agricultural-development/503285/nsf09-566/solicitation"
+    ]
+   },
+   {
+    "url": "http://bms.brown.edu/fogarty/codes.htm",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/bread-basic-research-enable-agricultural-development/503285/nsf09-566/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=aag",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/bread-basic-research-enable-agricultural-development/503285/nsf09-566/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/geo/oce/pubs/nsf-oce-sea-change-reply-may-11-2015.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/provision-marine-seismic-capabilities-u-s-research-community/505422/nsf17-563/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/geo/oce/pubs/Seismic_Workshop%20Report_final_2016.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/provision-marine-seismic-capabilities-u-s-research-community/505422/nsf17-563/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/geo/acgeo/geovision/nsf_ac-geo_vision_10_2009.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/provision-marine-seismic-capabilities-u-s-research-community/505422/nsf17-563/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.aphis.usda.gov/programs/ag_selectagent/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/bread-basic-research-enable-agricultural-development/503285/nsf09-566/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.gida-global.org/care",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/information/dcl-office-polar-programs-data-code-sample-management-policy"
+    ]
+   },
+   {
+    "url": "http://gcmd.gsfc.nasa.gov/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/information/dcl-data-management-data-reporting-requirements-research-awards/nsf16-055"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 24,
+  "alfa": 15,
+  "plain-language": 8,
+  "resources": 24,
+  "images": 24,
+  "third-party": 5,
+  "link-check": 24,
+  "standards": 6,
+  "deprecated-html": 3,
+  "public-interest": 2,
+  "lighthouse": 1,
+  "tech": 2,
+  "security": 1,
+  "sustainability": 1
+ },
+ "tally": {
+  "ok": 24,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 5,
+  "error": 0
+ },
+ "finishedAt": "2026-11-12T11:00:00.863Z"
+}
