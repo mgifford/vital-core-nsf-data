@@ -1,7 +1,7 @@
 {
  "domain": "www.nsf.gov",
  "week": "2026-W44",
- "generatedAt": "2026-11-05T18:20:10.501Z",
+ "generatedAt": "2026-11-15T02:04:43.437Z",
  "pagesScanned": 482,
  "pagesAudited": 472,
  "coverage": {
@@ -22,6 +22,8 @@
   "pagesWithViolations": 472,
   "pagesScanned": 472,
   "medianViolations": 2,
+  "context": null,
+  "element_evidence": null,
   "rules": {
    "region": {
     "count": 788,
@@ -1927,27 +1929,47 @@
      {
       "url": "https://www.nsf.gov/news/enabling-key-oceanographic-science-21st-century-nsf",
       "target": ".block-nsf-custom",
-      "html": "<div class=\"block block-nsf-custom block-nsf-print-block nsf-component\">\n  \n  \n  <div class=\"print\">\n  <a href=\"javascript:window.print()\" class=\"print__link\">Print<span class=\"visually-hidden\"> this "
+      "html": "<div class=\"block block-nsf-custom block-nsf-print-block nsf-component\">\n  \n  \n  <div class=\"print\">\n  <a href=\"javascript:window.print()\" class=\"print__link\">Print<span class=\"visually-hidden\"> this ",
+      "page_id": "003d9e877a7dadde",
+      "run_id": "2026-10-26T11-34-42-779Z-7ba483",
+      "scanned_at": "2026-10-26T11:36:49.471Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://www.nsf.gov/news/enabling-key-oceanographic-science-21st-century-nsf",
       "target": ".usa-footer__return-to-top",
-      "html": "<div class=\"usa-footer__return-to-top\" data-once=\"tpFeedbackRttWrapper\">\n  <div class=\"usa-footer__return-to-top--inner\" data-once=\"tpFeedbackRtt\">\n    <a class=\"usa-button usa-button--secondary usa-b"
+      "html": "<div class=\"usa-footer__return-to-top\" data-once=\"tpFeedbackRttWrapper\">\n  <div class=\"usa-footer__return-to-top--inner\" data-once=\"tpFeedbackRtt\">\n    <a class=\"usa-button usa-button--secondary usa-b",
+      "page_id": "003d9e877a7dadde",
+      "run_id": "2026-10-26T11-34-42-779Z-7ba483",
+      "scanned_at": "2026-10-26T11:36:49.471Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://www.nsf.gov/funding/opportunities/cci-i-centers-chemical-innovation-phase-i/9186/nsf04-612",
       "target": ".block-nsf-custom",
-      "html": "<div class=\"block block-nsf-custom block-nsf-print-block nsf-component\">\n  \n  \n  <div class=\"print\">\n  <a href=\"javascript:window.print()\" class=\"print__link\">Print<span class=\"visually-hidden\"> this "
+      "html": "<div class=\"block block-nsf-custom block-nsf-print-block nsf-component\">\n  \n  \n  <div class=\"print\">\n  <a href=\"javascript:window.print()\" class=\"print__link\">Print<span class=\"visually-hidden\"> this ",
+      "page_id": "00b87b27ebe816c9",
+      "run_id": "2026-10-26T10-22-46-947Z-0405e1",
+      "scanned_at": "2026-10-26T10:26:13.879Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://www.nsf.gov/funding/opportunities/cci-i-centers-chemical-innovation-phase-i/9186/nsf04-612",
       "target": ".usa-footer__return-to-top",
-      "html": "<div class=\"usa-footer__return-to-top\" data-once=\"tpFeedbackRttWrapper\">\n  <div class=\"usa-footer__return-to-top--inner\" data-once=\"tpFeedbackRtt\">\n    <a class=\"usa-button usa-button--secondary usa-b"
+      "html": "<div class=\"usa-footer__return-to-top\" data-once=\"tpFeedbackRttWrapper\">\n  <div class=\"usa-footer__return-to-top--inner\" data-once=\"tpFeedbackRtt\">\n    <a class=\"usa-button usa-button--secondary usa-b",
+      "page_id": "00b87b27ebe816c9",
+      "run_id": "2026-10-26T10-22-46-947Z-0405e1",
+      "scanned_at": "2026-10-26T10:26:13.879Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://www.nsf.gov/news/pool-yellowstone-thumping-thermometer",
       "target": ".block-nsf-custom",
-      "html": "<div class=\"block block-nsf-custom block-nsf-print-block nsf-component\">\n  \n  \n  <div class=\"print\">\n  <a href=\"javascript:window.print()\" class=\"print__link\">Print<span class=\"visually-hidden\"> this "
+      "html": "<div class=\"block block-nsf-custom block-nsf-print-block nsf-component\">\n  \n  \n  <div class=\"print\">\n  <a href=\"javascript:window.print()\" class=\"print__link\">Print<span class=\"visually-hidden\"> this ",
+      "page_id": "0111ff46efdba388",
+      "run_id": "2026-10-26T16-30-38-523Z-517283",
+      "scanned_at": "2026-10-26T16:33:44.522Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -1987,27 +2009,47 @@
      {
       "url": "https://www.nsf.gov/about/budget/fy2010/appropriations",
       "target": "thead > tr > th:nth-child(1)",
-      "html": "<th>&nbsp;</th>"
+      "html": "<th>&nbsp;</th>",
+      "page_id": "0563cb540d1a154a",
+      "run_id": "2026-10-28T09-34-41-978Z-9634aa",
+      "scanned_at": "2026-10-28T09:35:26.964Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://www.nsf.gov/about/budget/fy2006/appropriations",
       "target": "thead > tr > th:nth-child(1)",
-      "html": "<th>&nbsp;</th>"
+      "html": "<th>&nbsp;</th>",
+      "page_id": "39e3b50613a899f3",
+      "run_id": "2026-10-27T08-54-17-771Z-d57800",
+      "scanned_at": "2026-10-27T08:55:42.327Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://www.nsf.gov/eng/iip/iucrc/sample_agreement_form.jsp",
       "target": "table:nth-child(20) > tbody > tr:nth-child(1) > th[aria-label=\"left box\"]",
-      "html": "<th aria-label=\"left box\">&nbsp;</th>"
+      "html": "<th aria-label=\"left box\">&nbsp;</th>",
+      "page_id": "6e256eb04a4f6062",
+      "run_id": "2026-10-28T10-43-48-104Z-f3528a",
+      "scanned_at": "2026-10-28T10:44:51.604Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://www.nsf.gov/eng/iip/iucrc/sample_agreement_form.jsp",
       "target": "table:nth-child(20) > tbody > tr:nth-child(1) > th[aria-label=\"right box\"]",
-      "html": "<th aria-label=\"right box\">&nbsp;</th>"
+      "html": "<th aria-label=\"right box\">&nbsp;</th>",
+      "page_id": "6e256eb04a4f6062",
+      "run_id": "2026-10-28T10-43-48-104Z-f3528a",
+      "scanned_at": "2026-10-28T10:44:51.604Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://www.nsf.gov/eng/iip/iucrc/sample_agreement_form.jsp",
       "target": "table:nth-child(22) > tbody > tr:nth-child(1) > th[aria-label=\"left box\"]",
-      "html": "<th aria-label=\"left box\">&nbsp;</th>"
+      "html": "<th aria-label=\"left box\">&nbsp;</th>",
+      "page_id": "6e256eb04a4f6062",
+      "run_id": "2026-10-28T10-43-48-104Z-f3528a",
+      "scanned_at": "2026-10-28T10:44:51.604Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -2271,27 +2313,47 @@
      {
       "url": "https://www.nsf.gov/honorary-awards/pecase/recipients/shwetak-patel",
       "target": ".award-winner-search-result__name",
-      "html": "<h3 class=\"award-winner-search-result__name\">\n\n\n                    <div class=\"field field-pa-first-name\">Shwetak</div>\n            \n          \n\n\n                    <div class=\"field field-pa-last-n"
+      "html": "<h3 class=\"award-winner-search-result__name\">\n\n\n                    <div class=\"field field-pa-first-name\">Shwetak</div>\n            \n          \n\n\n                    <div class=\"field field-pa-last-n",
+      "page_id": "084b0ab70951ac05",
+      "run_id": "2026-10-27T09-57-21-090Z-391eca",
+      "scanned_at": "2026-10-27T09:58:54.161Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://www.nsf.gov/science-matters/mobile-video-game-submerges-users-ocean-depths",
       "target": "h3:nth-child(4)",
-      "html": "<h3>Swimming in scientific data</h3>"
+      "html": "<h3>Swimming in scientific data</h3>",
+      "page_id": "08b37500fa752559",
+      "run_id": "2026-10-29T09-50-54-370Z-a4dc15",
+      "scanned_at": "2026-10-29T09:52:08.365Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/mary-ellen-avery",
       "target": ".award-winner-search-result__name",
-      "html": "<h3 class=\"award-winner-search-result__name\">\n\n\n                    <div class=\"field field-pa-first-name\">Mary Ellen</div>\n            \n          \n\n\n                    <div class=\"field field-pa-las"
+      "html": "<h3 class=\"award-winner-search-result__name\">\n\n\n                    <div class=\"field field-pa-first-name\">Mary Ellen</div>\n            \n          \n\n\n                    <div class=\"field field-pa-las",
+      "page_id": "142c90bc125e7699",
+      "run_id": "2026-10-28T13-58-58-103Z-b2a325",
+      "scanned_at": "2026-10-28T14:00:39.129Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://www.nsf.gov/honorary-awards/pecase/recipients/katherine-louise-bouman",
       "target": ".award-winner-search-result__name",
-      "html": "<h3 class=\"award-winner-search-result__name\">\n\n\n                    <div class=\"field field-pa-first-name\">Katherine Louise</div>\n            \n          \n\n\n                    <div class=\"field field-"
+      "html": "<h3 class=\"award-winner-search-result__name\">\n\n\n                    <div class=\"field field-pa-first-name\">Katherine Louise</div>\n            \n          \n\n\n                    <div class=\"field field-",
+      "page_id": "25c2967b6743817e",
+      "run_id": "2026-10-28T15-21-10-082Z-504f66",
+      "scanned_at": "2026-10-28T15:21:36.304Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/paul-ching-wu-chu",
       "target": ".award-winner-search-result__name",
-      "html": "<h3 class=\"award-winner-search-result__name\">\n\n\n                    <div class=\"field field-pa-first-name\">Paul (Ching-Wu)</div>\n            \n          \n\n\n                    <div class=\"field field-p"
+      "html": "<h3 class=\"award-winner-search-result__name\">\n\n\n                    <div class=\"field field-pa-first-name\">Paul (Ching-Wu)</div>\n            \n          \n\n\n                    <div class=\"field field-p",
+      "page_id": "25e2210901304955",
+      "run_id": "2026-10-29T09-50-54-370Z-a4dc15",
+      "scanned_at": "2026-10-29T09:53:45.092Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -2376,27 +2438,47 @@
      {
       "url": "https://www.nsf.gov/funding/opportunities/nse-nanoscale-science-engineering/7169/nsf04-43/solicitation",
       "target": ".user_input:nth-child(8) > ul",
-      "html": "<ul>\n\t\t   <p>\n\t\t  November 10,\n\t\t \n\t\t\t2004   </p>\n\t\t   <ul>\n\t\t     <p class=\"user_input\">Preliminary proposals are only required for Nanoscale Science and Engineering Centers (NSEC).</p>\n\t\t   </ul>\n\t "
+      "html": "<ul>\n\t\t   <p>\n\t\t  November 10,\n\t\t \n\t\t\t2004   </p>\n\t\t   <ul>\n\t\t     <p class=\"user_input\">Preliminary proposals are only required for Nanoscale Science and Engineering Centers (NSEC).</p>\n\t\t   </ul>\n\t ",
+      "page_id": "0bc18e3c49b05916",
+      "run_id": "2026-10-26T10-22-46-947Z-0405e1",
+      "scanned_at": "2026-10-26T10:22:52.580Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://www.nsf.gov/funding/opportunities/nse-nanoscale-science-engineering/7169/nsf04-43/solicitation",
       "target": ".user_input:nth-child(8) > ul > ul",
-      "html": "<ul>\n\t\t     <p class=\"user_input\">Preliminary proposals are only required for Nanoscale Science and Engineering Centers (NSEC).</p>\n\t\t   </ul>"
+      "html": "<ul>\n\t\t     <p class=\"user_input\">Preliminary proposals are only required for Nanoscale Science and Engineering Centers (NSEC).</p>\n\t\t   </ul>",
+      "page_id": "0bc18e3c49b05916",
+      "run_id": "2026-10-26T10-22-46-947Z-0405e1",
+      "scanned_at": "2026-10-26T10:22:52.580Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://www.nsf.gov/funding/opportunities/nse-nanoscale-science-engineering/7169/nsf04-43/solicitation",
       "target": ".user_input:nth-child(11) > ul",
-      "html": "<ul>\n\t\t\n\t\t   <p>November 12,\n\t\t \n\t\t\t2004   </p>\n\t\t   <ul>\n\t\t\t  <p class=\"user_input\">for Nanoscale Interdisciplinary Research Teams (NIRT)</p>\n\t\t   </ul>\n\t    </ul>"
+      "html": "<ul>\n\t\t\n\t\t   <p>November 12,\n\t\t \n\t\t\t2004   </p>\n\t\t   <ul>\n\t\t\t  <p class=\"user_input\">for Nanoscale Interdisciplinary Research Teams (NIRT)</p>\n\t\t   </ul>\n\t    </ul>",
+      "page_id": "0bc18e3c49b05916",
+      "run_id": "2026-10-26T10-22-46-947Z-0405e1",
+      "scanned_at": "2026-10-26T10:22:52.580Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://www.nsf.gov/funding/opportunities/future-core-computer-information-science-engineering-future-computing/nsf23-561/solicitation",
       "target": "ul:nth-child(47) > li > ul",
-      "html": "<ul>"
+      "html": "<ul>",
+      "page_id": "18e89608877a2d3a",
+      "run_id": "2026-10-27T08-54-17-771Z-d57800",
+      "scanned_at": "2026-10-27T08:54:33.522Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://www.nsf.gov/funding/opportunities/nnci-national-nanotechnology-coordinated-infrastructure/505149/nsf15-519/solicitation",
       "target": "ul:nth-child(136)",
-      "html": "<ul>"
+      "html": "<ul>",
+      "page_id": "593dad182c8ba57e",
+      "run_id": "2026-10-28T10-43-48-104Z-f3528a",
+      "scanned_at": "2026-10-28T10:44:46.137Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -2446,27 +2528,47 @@
      {
       "url": "https://www.nsf.gov/funding/opportunities/future-core-computer-information-science-engineering-future-computing/nsf23-561/solicitation",
       "target": "p:nth-child(195) > a",
-      "html": "<a href=\"https://www.nsf.gov/pubs/policydocs/pappg20_1/pappg_2.jsp#IIC1b\">\n          </a>"
+      "html": "<a href=\"https://www.nsf.gov/pubs/policydocs/pappg20_1/pappg_2.jsp#IIC1b\">\n          </a>",
+      "page_id": "18e89608877a2d3a",
+      "run_id": "2026-10-27T08-54-17-771Z-d57800",
+      "scanned_at": "2026-10-27T08:54:33.522Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://www.nsf.gov/events/webinar-introduction-cfire-initiative/2024-03-26",
       "target": "p:nth-child(6) > a[target=\"_blank\"]:nth-child(3)",
-      "html": "<a href=\"https://new.nsf.gov/funding/opportunities/experiential-learning-emerging-novel-technologies\" target=\"_blank\"><br></a>"
+      "html": "<a href=\"https://new.nsf.gov/funding/opportunities/experiential-learning-emerging-novel-technologies\" target=\"_blank\"><br></a>",
+      "page_id": "3c3094cca81c4c6b",
+      "run_id": "2026-10-26T14-22-18-143Z-2de47d",
+      "scanned_at": "2026-10-26T14:23:06.342Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://www.nsf.gov/funding/opportunities/s-stem-net-scholarships-stem-network/505889/updates",
       "target": ".breadcrumbs__item:nth-child(4) > .breadcrumbs__item--url",
-      "html": "<a href=\"/funding/opportunities/s-stem-net-scholarships-stem-network\" class=\"breadcrumbs__item--url\"></a>"
+      "html": "<a href=\"/funding/opportunities/s-stem-net-scholarships-stem-network\" class=\"breadcrumbs__item--url\"></a>",
+      "page_id": "88687146f95d613f",
+      "run_id": "2026-10-26T16-30-38-523Z-517283",
+      "scanned_at": "2026-10-26T16:33:15.650Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://www.nsf.gov/events/webinar-introduction-usprd-ideas-lab",
       "target": "p:nth-child(6) > a[target=\"_blank\"]:nth-child(3)",
-      "html": "<a href=\"https://new.nsf.gov/funding/opportunities/experiential-learning-emerging-novel-technologies\" target=\"_blank\"><br></a>"
+      "html": "<a href=\"https://new.nsf.gov/funding/opportunities/experiential-learning-emerging-novel-technologies\" target=\"_blank\"><br></a>",
+      "page_id": "b2d0f9badad62c0d",
+      "run_id": "2026-10-28T11-40-29-280Z-af8b6d",
+      "scanned_at": "2026-10-28T11:43:02.854Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://www.nsf.gov/funding/opportunities/math-dt-mathematical-foundations-digital-twins/506266/updates",
       "target": ".breadcrumbs__item:nth-child(4) > .breadcrumbs__item--url",
-      "html": "<a href=\"/funding/opportunities/math-dt-mathematical-foundations-digital-twins\" class=\"breadcrumbs__item--url\"></a>"
+      "html": "<a href=\"/funding/opportunities/math-dt-mathematical-foundations-digital-twins\" class=\"breadcrumbs__item--url\"></a>",
+      "page_id": "cf0c7f4ca347d98b",
+      "run_id": "2026-10-27T09-57-21-090Z-391eca",
+      "scanned_at": "2026-10-27T09:58:42.222Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -2502,17 +2604,29 @@
      {
       "url": "https://www.nsf.gov/funding/initiatives/epscor/epscor-news-highlights",
       "target": "#vjs_video_3",
-      "html": "<video-js class=\"vjs-fluid video-js v...\" data-account=\"679256133001\" data-embed=\"default\" data-player=\"NkgrDczuol\" data-usage=\"cms:drupal:10.6.19:3...\" data-video-id=\"6340628463112\" id=\"vjs_video_3\" "
+      "html": "<video-js class=\"vjs-fluid video-js v...\" data-account=\"679256133001\" data-embed=\"default\" data-player=\"NkgrDczuol\" data-usage=\"cms:drupal:10.6.19:3...\" data-video-id=\"6340628463112\" id=\"vjs_video_3\" ",
+      "page_id": "2e928dcb13688057",
+      "run_id": "2026-10-28T11-40-29-280Z-af8b6d",
+      "scanned_at": "2026-10-28T11:41:27.061Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://www.nsf.gov/news/nsf-recognizes-3-scientists-alan-t-waterman-award",
       "target": "#vjs_video_3",
-      "html": "<video-js class=\"vjs-fluid video-js v...\" data-account=\"679256133001\" data-embed=\"default\" data-player=\"NkgrDczuol\" data-usage=\"cms:drupal:10.6.19:3...\" data-video-id=\"6305664256112\" id=\"vjs_video_3\" "
+      "html": "<video-js class=\"vjs-fluid video-js v...\" data-account=\"679256133001\" data-embed=\"default\" data-player=\"NkgrDczuol\" data-usage=\"cms:drupal:10.6.19:3...\" data-video-id=\"6305664256112\" id=\"vjs_video_3\" ",
+      "page_id": "4707e44b0d1eb927",
+      "run_id": "2026-10-28T09-34-41-978Z-9634aa",
+      "scanned_at": "2026-10-28T09:35:40.662Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://www.nsf.gov/eng/iip/iucrc/sample_agreement_form.jsp",
       "target": ".usa-header",
-      "html": "<header class=\"usa-header usa-header--basic\">"
+      "html": "<header class=\"usa-header usa-header--basic\">",
+      "page_id": "6e256eb04a4f6062",
+      "run_id": "2026-10-28T10-43-48-104Z-f3528a",
+      "scanned_at": "2026-10-28T10:44:51.604Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -2543,22 +2657,38 @@
      {
       "url": "https://www.nsf.gov/od/directors",
       "target": "h3:nth-child(6)",
-      "html": "<h3>&nbsp;</h3>"
+      "html": "<h3>&nbsp;</h3>",
+      "page_id": "389725d366517319",
+      "run_id": "2026-10-27T08-54-17-771Z-d57800",
+      "scanned_at": "2026-10-27T08:56:26.800Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://www.nsf.gov/about/about-nsf-by-the-numbers/codebook",
       "target": "h3:nth-child(15)",
-      "html": "<h3>&nbsp;</h3>"
+      "html": "<h3>&nbsp;</h3>",
+      "page_id": "7856d169c9751894",
+      "run_id": "2026-10-28T15-21-10-082Z-504f66",
+      "scanned_at": "2026-10-28T15:23:39.173Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://www.nsf.gov/about/about-nsf-by-the-numbers/codebook",
       "target": "h2:nth-child(18)",
-      "html": "<h2><a name=\"_INSTITUTION_PROFILE\"></a></h2>"
+      "html": "<h2><a name=\"_INSTITUTION_PROFILE\"></a></h2>",
+      "page_id": "7856d169c9751894",
+      "run_id": "2026-10-28T15-21-10-082Z-504f66",
+      "scanned_at": "2026-10-28T15:23:39.173Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://www.nsf.gov/about/about-nsf-by-the-numbers/codebook",
       "target": "h2:nth-child(23)",
-      "html": "<h2>&nbsp;</h2>"
+      "html": "<h2>&nbsp;</h2>",
+      "page_id": "7856d169c9751894",
+      "run_id": "2026-10-28T15-21-10-082Z-504f66",
+      "scanned_at": "2026-10-28T15:23:39.173Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -2590,12 +2720,20 @@
      {
       "url": "https://www.nsf.gov/funding/opportunities/vec-nsfintel-partnership-visual-experiential-computing/505085/nsf15-518/solicitation",
       "target": "img[height=\"1\"]",
-      "html": "<img src=\"https://www.nsf.gov/images/x.gif\" height=\"1\" width=\"8\">"
+      "html": "<img src=\"https://www.nsf.gov/images/x.gif\" height=\"1\" width=\"8\">",
+      "page_id": "5e0fe81e63dd45fb",
+      "run_id": "2026-10-26T14-22-18-143Z-2de47d",
+      "scanned_at": "2026-10-26T14:24:41.044Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://www.nsf.gov/funding/opportunities/icn-wen-nsfintel-partnership-information-centric-networking-wireless/505310/nsf16-586/solicitation",
       "target": "img[height=\"1\"]",
-      "html": "<img src=\"https://www.nsf.gov/images/x.gif\" height=\"1\" width=\"8\">"
+      "html": "<img src=\"https://www.nsf.gov/images/x.gif\" height=\"1\" width=\"8\">",
+      "page_id": "ec7d45510758f6dc",
+      "run_id": "2026-10-28T10-43-48-104Z-f3528a",
+      "scanned_at": "2026-10-28T10:46:40.518Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -2640,27 +2778,47 @@
      {
       "url": "https://www.nsf.gov/funding/opportunities/smp-science-masters-program/503428/nsf09-607/solicitation",
       "target": "ul:nth-child(23) > span > li",
-      "html": "<li>"
+      "html": "<li>",
+      "page_id": "669727259eedb03f",
+      "run_id": "2026-10-26T10-22-46-947Z-0405e1",
+      "scanned_at": "2026-10-26T10:23:57.113Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://www.nsf.gov/funding/opportunities/smp-science-masters-program/503428/nsf09-607/solicitation",
       "target": "ul:nth-child(24) > span > li",
-      "html": "<li>"
+      "html": "<li>",
+      "page_id": "669727259eedb03f",
+      "run_id": "2026-10-26T10-22-46-947Z-0405e1",
+      "scanned_at": "2026-10-26T10:23:57.113Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://www.nsf.gov/funding/opportunities/smp-science-masters-program/503428/nsf09-607/solicitation",
       "target": "li:nth-child(61)",
-      "html": "<li><a href=\"#cont\"><strong>Agency Contacts</strong></a><br><br></li>"
+      "html": "<li><a href=\"#cont\"><strong>Agency Contacts</strong></a><br><br></li>",
+      "page_id": "669727259eedb03f",
+      "run_id": "2026-10-26T10-22-46-947Z-0405e1",
+      "scanned_at": "2026-10-26T10:23:57.113Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://www.nsf.gov/funding/opportunities/csdco-continental-scientific-drilling-coordination-office-division/504840/nsf13-514/solicitation",
       "target": "li:nth-child(61)",
-      "html": "<li><a href=\"#cont\"><strong>Agency Contacts</strong></a><br><br></li>"
+      "html": "<li><a href=\"#cont\"><strong>Agency Contacts</strong></a><br><br></li>",
+      "page_id": "9f64eee47e943cf3",
+      "run_id": "2026-10-27T09-57-21-090Z-391eca",
+      "scanned_at": "2026-10-27T09:59:54.050Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://www.nsf.gov/funding/opportunities/csdco-continental-scientific-drilling-coordination-office-division/504840/nsf13-514/solicitation",
       "target": "li:nth-child(62)",
-      "html": "<li><a href=\"#othpgm\"><strong>Other Information</strong></a></li>"
+      "html": "<li><a href=\"#othpgm\"><strong>Other Information</strong></a></li>",
+      "page_id": "9f64eee47e943cf3",
+      "run_id": "2026-10-27T09-57-21-090Z-391eca",
+      "scanned_at": "2026-10-27T09:59:54.050Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -2686,7 +2844,11 @@
      {
       "url": "https://www.nsf.gov/eng/iip/iucrc/sample_agreement_form.jsp",
       "target": ".usa-banner__header",
-      "html": "<header class=\"usa-banner__header\">"
+      "html": "<header class=\"usa-banner__header\">",
+      "page_id": "6e256eb04a4f6062",
+      "run_id": "2026-10-28T10-43-48-104Z-f3528a",
+      "scanned_at": "2026-10-28T10:44:51.604Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -2712,7 +2874,11 @@
      {
       "url": "https://www.nsf.gov/eng/iip/iucrc/sample_agreement_form.jsp",
       "target": ".usa-header",
-      "html": "<header class=\"usa-header usa-header--basic\">"
+      "html": "<header class=\"usa-header usa-header--basic\">",
+      "page_id": "6e256eb04a4f6062",
+      "run_id": "2026-10-28T10-43-48-104Z-f3528a",
+      "scanned_at": "2026-10-28T10:44:51.604Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -2738,17 +2904,29 @@
      {
       "url": "https://www.nsf.gov/eng/iip/iucrc/sample_agreement_form.jsp",
       "target": "table:nth-child(20) > tbody > tr:nth-child(2) > td[scope=\"row\"]",
-      "html": "<td scope=\"row\" style=\"border: 1px solid #444; padding:10px;\" width=\"40%\">MEMBER<br>\n                Authorized Officer:<br>\n                MEMBER name:<br>\n                Address:<br>\n             "
+      "html": "<td scope=\"row\" style=\"border: 1px solid #444; padding:10px;\" width=\"40%\">MEMBER<br>\n                Authorized Officer:<br>\n                MEMBER name:<br>\n                Address:<br>\n             ",
+      "page_id": "6e256eb04a4f6062",
+      "run_id": "2026-10-28T10-43-48-104Z-f3528a",
+      "scanned_at": "2026-10-28T10:44:51.604Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://www.nsf.gov/eng/iip/iucrc/sample_agreement_form.jsp",
       "target": "table:nth-child(22) > tbody > tr:nth-child(2) > td[scope=\"row\"]",
-      "html": "<td scope=\"row\" style=\"border: 1px solid #444; padding:10px;\" width=\"40%\">LEAD UNIVERSITY<br><br>\n                Authorized Officer:<br>\n                UNIVERSITY name:<br>\n                Address:<"
+      "html": "<td scope=\"row\" style=\"border: 1px solid #444; padding:10px;\" width=\"40%\">LEAD UNIVERSITY<br><br>\n                Authorized Officer:<br>\n                UNIVERSITY name:<br>\n                Address:<",
+      "page_id": "6e256eb04a4f6062",
+      "run_id": "2026-10-28T10-43-48-104Z-f3528a",
+      "scanned_at": "2026-10-28T10:44:51.604Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://www.nsf.gov/eng/iip/iucrc/sample_agreement_form.jsp",
       "target": "tr:nth-child(3) > td[scope=\"row\"]",
-      "html": "<td scope=\"row\" style=\"border: 1px solid #444; padding:10px;\" width=\"40%\">"
+      "html": "<td scope=\"row\" style=\"border: 1px solid #444; padding:10px;\" width=\"40%\">",
+      "page_id": "6e256eb04a4f6062",
+      "run_id": "2026-10-28T10-43-48-104Z-f3528a",
+      "scanned_at": "2026-10-28T10:44:51.604Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -2775,12 +2953,20 @@
      {
       "url": "https://www.nsf.gov/funding/opportunities/bdd-us-japan-big-data-disaster-research/505035/nsf14-575/solicitation",
       "target": "a[href$=\"www.nsf.gov\"]",
-      "html": "<a href=\"https://www.nsf.gov\">https://www.nsf.gov</a>"
+      "html": "<a href=\"https://www.nsf.gov\">https://www.nsf.gov</a>",
+      "page_id": "db2f5b0334a16ae2",
+      "run_id": "2026-10-26T08-10-58-743Z-b6cd5d",
+      "scanned_at": "2026-10-26T08:13:30.409Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://www.nsf.gov/funding/opportunities/bdd-us-japan-big-data-disaster-research/505035/nsf14-575/solicitation",
       "target": "td[align=\"left\"][height=\"25\"][valign=\"top\"] > p > a[href$=\"mailto:nsfpubs@nsf.gov\"]",
-      "html": "<a href=\"mailto:nsfpubs@nsf.gov\">nsfpubs@nsf.gov</a>"
+      "html": "<a href=\"mailto:nsfpubs@nsf.gov\">nsfpubs@nsf.gov</a>",
+      "page_id": "db2f5b0334a16ae2",
+      "run_id": "2026-10-26T08-10-58-743Z-b6cd5d",
+      "scanned_at": "2026-10-26T08:13:30.409Z",
+      "engine_version": "4.14.0"
      }
     ]
    }
@@ -2790,7 +2976,10 @@
   "failedTotal": 17704,
   "pagesWithFailures": 230,
   "pagesScanned": 230,
+  "skippedPages": 0,
+  "skipped": [],
   "medianFailures": 68,
+  "element_evidence": null,
   "rules": {
    "sia-r66": {
     "count": 233,
@@ -3727,27 +3916,47 @@
      {
       "url": "https://www.nsf.gov/funding/opportunities/cci-i-centers-chemical-innovation-phase-i/9186/nsf04-612",
       "target": "text: \"Feedback\"",
-      "html": null
+      "html": null,
+      "page_id": "00b87b27ebe816c9",
+      "run_id": "2026-10-26T10-22-46-947Z-0405e1",
+      "scanned_at": "2026-10-26T10:26:13.879Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.nsf.gov/news/pool-yellowstone-thumping-thermometer",
       "target": "text: \"Feedback\"",
-      "html": null
+      "html": null,
+      "page_id": "0111ff46efdba388",
+      "run_id": "2026-10-26T16-30-38-523Z-517283",
+      "scanned_at": "2026-10-26T16:33:44.522Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.nsf.gov/news/breaking-ground-earthquake-research-nsf-announces-two-awards",
       "target": "text: \"Feedback\"",
-      "html": null
+      "html": null,
+      "page_id": "017faa73f73205f0",
+      "run_id": "2026-10-26T16-30-38-523Z-517283",
+      "scanned_at": "2026-10-26T16:33:07.952Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.nsf.gov/events/boosting-research-ideas-transformative-equitable-advances-1/2022-03-17",
       "target": "text: \"Feedback\"",
-      "html": null
+      "html": null,
+      "page_id": "02af608d3d176ad3",
+      "run_id": "2026-10-27T11-01-36-099Z-9d072a",
+      "scanned_at": "2026-10-27T11:02:58.251Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.nsf.gov/mps/updates/nsf-awards-17m-sustainable-chemistry-research-us-french",
       "target": "text: \"Feedback\"",
-      "html": null
+      "html": null,
+      "page_id": "062324685775cdd4",
+      "run_id": "2026-10-28T10-43-48-104Z-f3528a",
+      "scanned_at": "2026-10-28T10:47:16.908Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -4686,27 +4895,47 @@
      {
       "url": "https://www.nsf.gov/funding/opportunities/cci-i-centers-chemical-innovation-phase-i/9186/nsf04-612",
       "target": "<p>",
-      "html": null
+      "html": null,
+      "page_id": "00b87b27ebe816c9",
+      "run_id": "2026-10-26T10-22-46-947Z-0405e1",
+      "scanned_at": "2026-10-26T10:26:13.879Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.nsf.gov/funding/opportunities/cci-i-centers-chemical-innovation-phase-i/9186/nsf04-612",
       "target": "<p>",
-      "html": null
+      "html": null,
+      "page_id": "00b87b27ebe816c9",
+      "run_id": "2026-10-26T10-22-46-947Z-0405e1",
+      "scanned_at": "2026-10-26T10:26:13.879Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.nsf.gov/funding/opportunities/cci-i-centers-chemical-innovation-phase-i/9186/nsf04-612",
       "target": "<p>",
-      "html": null
+      "html": null,
+      "page_id": "00b87b27ebe816c9",
+      "run_id": "2026-10-26T10-22-46-947Z-0405e1",
+      "scanned_at": "2026-10-26T10:26:13.879Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.nsf.gov/news/pool-yellowstone-thumping-thermometer",
       "target": "<p>",
-      "html": null
+      "html": null,
+      "page_id": "0111ff46efdba388",
+      "run_id": "2026-10-26T16-30-38-523Z-517283",
+      "scanned_at": "2026-10-26T16:33:44.522Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.nsf.gov/news/pool-yellowstone-thumping-thermometer",
       "target": "<p>",
-      "html": null
+      "html": null,
+      "page_id": "0111ff46efdba388",
+      "run_id": "2026-10-26T16-30-38-523Z-517283",
+      "scanned_at": "2026-10-26T16:33:44.522Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -5645,27 +5874,47 @@
      {
       "url": "https://www.nsf.gov/funding/opportunities/cci-i-centers-chemical-innovation-phase-i/9186/nsf04-612",
       "target": "text: \"Print\"",
-      "html": null
+      "html": null,
+      "page_id": "00b87b27ebe816c9",
+      "run_id": "2026-10-26T10-22-46-947Z-0405e1",
+      "scanned_at": "2026-10-26T10:26:13.879Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.nsf.gov/funding/opportunities/cci-i-centers-chemical-innovation-phase-i/9186/nsf04-612",
       "target": "text: \" this Page\"",
-      "html": null
+      "html": null,
+      "page_id": "00b87b27ebe816c9",
+      "run_id": "2026-10-26T10-22-46-947Z-0405e1",
+      "scanned_at": "2026-10-26T10:26:13.879Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.nsf.gov/funding/opportunities/cci-i-centers-chemical-innovation-phase-i/9186/nsf04-612",
       "target": "text: \"Archived funding opportunity\"",
-      "html": null
+      "html": null,
+      "page_id": "00b87b27ebe816c9",
+      "run_id": "2026-10-26T10-22-46-947Z-0405e1",
+      "scanned_at": "2026-10-26T10:26:13.879Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.nsf.gov/news/pool-yellowstone-thumping-thermometer",
       "target": "text: \"Print\"",
-      "html": null
+      "html": null,
+      "page_id": "0111ff46efdba388",
+      "run_id": "2026-10-26T16-30-38-523Z-517283",
+      "scanned_at": "2026-10-26T16:33:44.522Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.nsf.gov/news/pool-yellowstone-thumping-thermometer",
       "target": "text: \" this Page\"",
-      "html": null
+      "html": null,
+      "page_id": "0111ff46efdba388",
+      "run_id": "2026-10-26T16-30-38-523Z-517283",
+      "scanned_at": "2026-10-26T16:33:44.522Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -6604,27 +6853,47 @@
      {
       "url": "https://www.nsf.gov/funding/opportunities/cci-i-centers-chemical-innovation-phase-i/9186/nsf04-612",
       "target": "<button type=\"button\" class=\"usa-accordion__button usa-nav__link \" aria-expanded=\"false\" aria-controls=\"basic-mega-nav-section-1\">",
-      "html": null
+      "html": null,
+      "page_id": "00b87b27ebe816c9",
+      "run_id": "2026-10-26T10-22-46-947Z-0405e1",
+      "scanned_at": "2026-10-26T10:26:13.879Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.nsf.gov/funding/opportunities/cci-i-centers-chemical-innovation-phase-i/9186/nsf04-612",
       "target": "<button type=\"button\" class=\"usa-accordion__button usa-nav__link \" aria-expanded=\"false\" aria-controls=\"basic-mega-nav-section-2\">",
-      "html": null
+      "html": null,
+      "page_id": "00b87b27ebe816c9",
+      "run_id": "2026-10-26T10-22-46-947Z-0405e1",
+      "scanned_at": "2026-10-26T10:26:13.879Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.nsf.gov/funding/opportunities/cci-i-centers-chemical-innovation-phase-i/9186/nsf04-612",
       "target": "<button type=\"button\" class=\"usa-accordion__button usa-nav__link \" aria-expanded=\"false\" aria-controls=\"basic-mega-nav-section-3\">",
-      "html": null
+      "html": null,
+      "page_id": "00b87b27ebe816c9",
+      "run_id": "2026-10-26T10-22-46-947Z-0405e1",
+      "scanned_at": "2026-10-26T10:26:13.879Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.nsf.gov/news/pool-yellowstone-thumping-thermometer",
       "target": "<button type=\"button\" class=\"usa-accordion__button usa-nav__link \" aria-expanded=\"false\" aria-controls=\"basic-mega-nav-section-1\">",
-      "html": null
+      "html": null,
+      "page_id": "0111ff46efdba388",
+      "run_id": "2026-10-26T16-30-38-523Z-517283",
+      "scanned_at": "2026-10-26T16:33:44.522Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.nsf.gov/news/pool-yellowstone-thumping-thermometer",
       "target": "<button type=\"button\" class=\"usa-accordion__button usa-nav__link \" aria-expanded=\"false\" aria-controls=\"basic-mega-nav-section-2\">",
-      "html": null
+      "html": null,
+      "page_id": "0111ff46efdba388",
+      "run_id": "2026-10-26T16-30-38-523Z-517283",
+      "scanned_at": "2026-10-26T16:33:44.522Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -6847,27 +7116,47 @@
      {
       "url": "https://www.nsf.gov/news/pool-yellowstone-thumping-thermometer",
       "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
-      "html": null
+      "html": null,
+      "page_id": "0111ff46efdba388",
+      "run_id": "2026-10-26T16-30-38-523Z-517283",
+      "scanned_at": "2026-10-26T16:33:44.522Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.nsf.gov/news/breaking-ground-earthquake-research-nsf-announces-two-awards",
       "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
-      "html": null
+      "html": null,
+      "page_id": "017faa73f73205f0",
+      "run_id": "2026-10-26T16-30-38-523Z-517283",
+      "scanned_at": "2026-10-26T16:33:07.952Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.nsf.gov/news/charging-cars-home-evening-not-way-go-study-finds",
       "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
-      "html": null
+      "html": null,
+      "page_id": "098748a20afa5c56",
+      "run_id": "2026-10-26T14-22-18-143Z-2de47d",
+      "scanned_at": "2026-10-26T14:23:51.179Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.nsf.gov/funding/opportunities/dcl-research-assistantships-high-school-students-rahss/nsf06-027",
       "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
-      "html": null
+      "html": null,
+      "page_id": "10c9bc5c1a119050",
+      "run_id": "2026-10-26T08-58-58-983Z-2ff0ed",
+      "scanned_at": "2026-10-26T09:01:10.690Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.nsf.gov/funding/opportunities/dcl-nsf-fhwa-coordination-cyber-physical-systems-highway/nsf13-034",
       "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
-      "html": null
+      "html": null,
+      "page_id": "18f1be108e826fb6",
+      "run_id": "2026-10-29T09-50-54-370Z-a4dc15",
+      "scanned_at": "2026-10-29T09:52:01.602Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -6966,27 +7255,47 @@
      {
       "url": "https://www.nsf.gov/news/charging-cars-home-evening-not-way-go-study-finds",
       "target": "<a class=\"nsf--phone tel\" href=\"tel:(703)292-5111\" data-extlink=\"\">",
-      "html": null
+      "html": null,
+      "page_id": "098748a20afa5c56",
+      "run_id": "2026-10-26T14-22-18-143Z-2de47d",
+      "scanned_at": "2026-10-26T14:23:51.179Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.nsf.gov/funding/opportunities/dcl-nsf-fhwa-coordination-cyber-physical-systems-highway/nsf13-034",
       "target": "<a class=\"nsf--phone tel\" href=\"tel:(703)292-5111\" data-extlink=\"\">",
-      "html": null
+      "html": null,
+      "page_id": "18f1be108e826fb6",
+      "run_id": "2026-10-29T09-50-54-370Z-a4dc15",
+      "scanned_at": "2026-10-29T09:52:01.602Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.nsf.gov/events/virtual-office-hours-catalyzing-across-sectors-advance/2024-01-08",
       "target": "<a class=\"nsf--phone tel\" href=\"tel:(703)292-5111\" data-extlink=\"\">",
-      "html": null
+      "html": null,
+      "page_id": "19e50cd3522ac4a8",
+      "run_id": "2026-10-26T08-58-58-983Z-2ff0ed",
+      "scanned_at": "2026-10-26T09:02:31.254Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.nsf.gov/od/oia/ceose/dr-peter-hauser",
       "target": "<a class=\"nsf--phone tel\" href=\"tel:(703)292-5111\" data-extlink=\"\">",
-      "html": null
+      "html": null,
+      "page_id": "1a3edc7448b1401f",
+      "run_id": "2026-10-26T16-30-38-523Z-517283",
+      "scanned_at": "2026-10-26T16:30:49.545Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.nsf.gov/events/webinar-introduction-epiic-funding-opportunity",
       "target": "<a class=\"nsf--phone tel\" href=\"tel:(703)292-5111\" data-extlink=\"\">",
-      "html": null
+      "html": null,
+      "page_id": "2be9c2afa0f52307",
+      "run_id": "2026-10-26T15-23-54-092Z-5c86d4",
+      "scanned_at": "2026-10-26T15:27:25.080Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -7085,27 +7394,47 @@
      {
       "url": "https://www.nsf.gov/funding/opportunities/ls-law-science/pd21-128y",
       "target": "<h2>",
-      "html": null
+      "html": null,
+      "page_id": "0c1f5ae872721908",
+      "run_id": "2026-10-28T11-40-29-280Z-af8b6d",
+      "scanned_at": "2026-10-28T11:40:46.327Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.nsf.gov/funding/opportunities/cc-campus-cyberinfrastructure",
       "target": "<h2>",
-      "html": null
+      "html": null,
+      "page_id": "1f23bdc6129aa595",
+      "run_id": "2026-10-26T16-30-38-523Z-517283",
+      "scanned_at": "2026-10-26T16:32:22.653Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.nsf.gov/funding/opportunities/small-business-innovation-research-program-phase-i/505233/nsf16-554",
       "target": "<h2>",
-      "html": null
+      "html": null,
+      "page_id": "28f979ca3a61bae2",
+      "run_id": "2026-10-27T09-57-21-090Z-391eca",
+      "scanned_at": "2026-10-27T09:57:55.378Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.nsf.gov/funding/pgm_summ.jsp?from=fund&pims_id=5517",
       "target": "<h2>",
-      "html": null
+      "html": null,
+      "page_id": "2dfd35220363781d",
+      "run_id": "2026-10-27T13-22-25-848Z-9295fd",
+      "scanned_at": "2026-10-27T13:24:25.738Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.nsf.gov/funding/opportunities/mps-astro-mps-astronomical-sciences-research-programs/nsf16-574",
       "target": "<h2>",
-      "html": null
+      "html": null,
+      "page_id": "322e60582d586748",
+      "run_id": "2026-10-27T13-22-25-848Z-9295fd",
+      "scanned_at": "2026-10-27T13:23:35.166Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -7228,27 +7557,47 @@
      {
       "url": "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/gene-e-likens",
       "target": "<h3 class=\"award-winner-search-result__name\">",
-      "html": null
+      "html": null,
+      "page_id": "2f1e69629949ecc8",
+      "run_id": "2026-10-26T15-23-54-092Z-5c86d4",
+      "scanned_at": "2026-10-26T15:24:49.297Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.nsf.gov/science-matters/nsf-powered-dashboards-you-should-bookmark",
       "target": "<h3>",
-      "html": null
+      "html": null,
+      "page_id": "40dbc08c92205371",
+      "run_id": "2026-10-28T11-40-29-280Z-af8b6d",
+      "scanned_at": "2026-10-28T11:42:20.882Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/erwin-chargaff",
       "target": "<h3 class=\"award-winner-search-result__name\">",
-      "html": null
+      "html": null,
+      "page_id": "42a4bed146249bfa",
+      "run_id": "2026-10-28T10-43-48-104Z-f3528a",
+      "scanned_at": "2026-10-28T10:45:06.479Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.nsf.gov/funding/initiatives/i-corps/updates/new-nsf-effort-expands-i-corpstm-teams-training-program",
       "target": "<h3>",
-      "html": null
+      "html": null,
+      "page_id": "67033fd4a5fc3839",
+      "run_id": "2026-10-28T09-34-41-978Z-9634aa",
+      "scanned_at": "2026-10-28T09:37:22.150Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/wendell-l-roelofs",
       "target": "<h3 class=\"award-winner-search-result__name\">",
-      "html": null
+      "html": null,
+      "page_id": "679b5830af1052b3",
+      "run_id": "2026-10-28T13-58-58-103Z-b2a325",
+      "scanned_at": "2026-10-28T13:59:35.100Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -7279,17 +7628,29 @@
      {
       "url": "https://www.nsf.gov/events/webinar-introduction-cfire-initiative/2024-03-26",
       "target": "<a href=\"https://new.nsf.gov/funding/opportunities/experiential-learning-emerging-novel-technologies\" target=\"_blank\">",
-      "html": null
+      "html": null,
+      "page_id": "3c3094cca81c4c6b",
+      "run_id": "2026-10-26T14-22-18-143Z-2de47d",
+      "scanned_at": "2026-10-26T14:23:06.342Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.nsf.gov/funding/opportunities/s-stem-net-scholarships-stem-network/505889/updates",
       "target": "<a href=\"/funding/opportunities/s-stem-net-scholarships-stem-network\" class=\"breadcrumbs__item--url\">",
-      "html": null
+      "html": null,
+      "page_id": "88687146f95d613f",
+      "run_id": "2026-10-26T16-30-38-523Z-517283",
+      "scanned_at": "2026-10-26T16:33:15.650Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.nsf.gov/events/webinar-introduction-usprd-ideas-lab",
       "target": "<a href=\"https://new.nsf.gov/funding/opportunities/experiential-learning-emerging-novel-technologies\" target=\"_blank\">",
-      "html": null
+      "html": null,
+      "page_id": "b2d0f9badad62c0d",
+      "run_id": "2026-10-28T11-40-29-280Z-af8b6d",
+      "scanned_at": "2026-10-28T11:43:02.854Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -7315,22 +7676,38 @@
      {
       "url": "https://www.nsf.gov/funding/opportunities/smp-science-masters-program/503428/nsf09-607/solicitation",
       "target": "<ul>",
-      "html": null
+      "html": null,
+      "page_id": "669727259eedb03f",
+      "run_id": "2026-10-26T10-22-46-947Z-0405e1",
+      "scanned_at": "2026-10-26T10:23:57.113Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.nsf.gov/funding/opportunities/smp-science-masters-program/503428/nsf09-607/solicitation",
       "target": "<ul>",
-      "html": null
+      "html": null,
+      "page_id": "669727259eedb03f",
+      "run_id": "2026-10-26T10-22-46-947Z-0405e1",
+      "scanned_at": "2026-10-26T10:23:57.113Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.nsf.gov/funding/opportunities/smp-science-masters-program/503428/nsf09-607/solicitation",
       "target": "<ul>",
-      "html": null
+      "html": null,
+      "page_id": "669727259eedb03f",
+      "run_id": "2026-10-26T10-22-46-947Z-0405e1",
+      "scanned_at": "2026-10-26T10:23:57.113Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.nsf.gov/funding/opportunities/rii-track-2-fec-epscor-research-infrastructure-improvement-program-track-2/505148/nsf15-517/solicitation",
       "target": "<ul>",
-      "html": null
+      "html": null,
+      "page_id": "c7c2ba3770bd80e3",
+      "run_id": "2026-10-26T16-30-38-523Z-517283",
+      "scanned_at": "2026-10-26T16:31:14.207Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -7351,12 +7728,20 @@
      {
       "url": "https://www.nsf.gov/eng/iip/iucrc/sample_agreement_form.jsp",
       "target": "<a href=\"/sites/default/files/membership_agreement_addendum.doc\">",
-      "html": null
+      "html": null,
+      "page_id": "6e256eb04a4f6062",
+      "run_id": "2026-10-28T10-43-48-104Z-f3528a",
+      "scanned_at": "2026-10-28T10:44:51.604Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.nsf.gov/eng/iip/iucrc/sample_agreement_form.jsp",
       "target": "<a href=\"/sites/default/files/membership_agreement.doc\">",
-      "html": null
+      "html": null,
+      "page_id": "6e256eb04a4f6062",
+      "run_id": "2026-10-28T10-43-48-104Z-f3528a",
+      "scanned_at": "2026-10-28T10:44:51.604Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -7377,17 +7762,29 @@
      {
       "url": "https://www.nsf.gov/eng/iip/iucrc/sample_agreement_form.jsp",
       "target": "<td scope=\"row\" style=\"border: 1px solid #444; padding:10px;\" width=\"40%\">",
-      "html": null
+      "html": null,
+      "page_id": "6e256eb04a4f6062",
+      "run_id": "2026-10-28T10-43-48-104Z-f3528a",
+      "scanned_at": "2026-10-28T10:44:51.604Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.nsf.gov/eng/iip/iucrc/sample_agreement_form.jsp",
       "target": "<td style=\"vertical-align: top; border: 1px solid #444;padding:10px;\" width=\"40%\">",
-      "html": null
+      "html": null,
+      "page_id": "6e256eb04a4f6062",
+      "run_id": "2026-10-28T10-43-48-104Z-f3528a",
+      "scanned_at": "2026-10-28T10:44:51.604Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://www.nsf.gov/eng/iip/iucrc/sample_agreement_form.jsp",
       "target": "<td scope=\"row\" style=\"border: 1px solid #444; padding:10px;\" width=\"40%\">",
-      "html": null
+      "html": null,
+      "page_id": "6e256eb04a4f6062",
+      "run_id": "2026-10-28T10-43-48-104Z-f3528a",
+      "scanned_at": "2026-10-28T10:44:51.604Z",
+      "engine_version": "0.117.0"
      }
     ]
    }
@@ -7621,6 +8018,16 @@
    }
   }
  },
+ "regions": {
+  "basis": "stored_examples",
+  "findings_total": 26,
+  "findings_with_region": 0,
+  "findings_unclassified": 0,
+  "findings_without_evidence": 26,
+  "regions": [],
+  "csv": "www.nsf.gov_26OCT2026_regions.csv"
+ },
+ "widgetGroups": null,
  "sustainability": {
   "pages": 36,
   "medianBytes": 2568225,
@@ -7651,17 +8058,26 @@
      {
       "url": "https://www.nsf.gov/funding/opportunities/rii-track-2-fec-epscor-research-infrastructure-improvement-program-track-2/505148/nsf15-517/solicitation",
       "target": "table",
-      "html": "<table class=\"txtBlack\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\">\n<tbody>\n<tr valign=\"top\">\n<td valign=\"top\"><img align=\"right\" width=\"60\" src=\"https://www.nsf.gov/home/icons/nsflogo.gif\" alt=\"NSF L"
+      "html": "<table class=\"txtBlack\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\">\n<tbody>\n<tr valign=\"top\">\n<td valign=\"top\"><img align=\"right\" width=\"60\" src=\"https://www.nsf.gov/home/icons/nsflogo.gif\" alt=\"NSF L",
+      "page_id": "c7c2ba3770bd80e3",
+      "run_id": "2026-10-26T16-30-38-523Z-517283",
+      "scanned_at": "2026-10-26T16:31:14.207Z"
      },
      {
       "url": "https://www.nsf.gov/funding/opportunities/rii-track-2-fec-epscor-research-infrastructure-improvement-program-track-2/505148/nsf15-517/solicitation",
       "target": "tr",
-      "html": "<tr valign=\"top\">\n<td valign=\"top\"><img align=\"right\" width=\"60\" src=\"https://www.nsf.gov/home/icons/nsflogo.gif\" alt=\"NSF Logo\" height=\"60\"></td><td width=\"8\"></td><td>\n<p data-once=\"remove-opening-b"
+      "html": "<tr valign=\"top\">\n<td valign=\"top\"><img align=\"right\" width=\"60\" src=\"https://www.nsf.gov/home/icons/nsflogo.gif\" alt=\"NSF Logo\" height=\"60\"></td><td width=\"8\"></td><td>\n<p data-once=\"remove-opening-b",
+      "page_id": "c7c2ba3770bd80e3",
+      "run_id": "2026-10-26T16-30-38-523Z-517283",
+      "scanned_at": "2026-10-26T16:31:14.207Z"
      },
      {
       "url": "https://www.nsf.gov/funding/opportunities/rii-track-2-fec-epscor-research-infrastructure-improvement-program-track-2/505148/nsf15-517/solicitation",
       "target": "td",
-      "html": "<td valign=\"top\"><img align=\"right\" width=\"60\" src=\"https://www.nsf.gov/home/icons/nsflogo.gif\" alt=\"NSF Logo\" height=\"60\"></td>"
+      "html": "<td valign=\"top\"><img align=\"right\" width=\"60\" src=\"https://www.nsf.gov/home/icons/nsflogo.gif\" alt=\"NSF Logo\" height=\"60\"></td>",
+      "page_id": "c7c2ba3770bd80e3",
+      "run_id": "2026-10-26T16-30-38-523Z-517283",
+      "scanned_at": "2026-10-26T16:31:14.207Z"
      }
     ]
    }
@@ -12732,47 +13148,11 @@
      "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/harold-s-johnston"
     ],
     "savingsBytes": 25970632,
-    "savingsMs": 53250
-   },
-   {
-    "id": "bootup-time",
-    "category": "performance",
-    "title": "JavaScript execution time",
-    "pages": 49,
-    "examplePages": [
-     "https://www.nsf.gov/funding/opportunities/sdci-software-development-cyberinfrastructure/5174/nsf07-503",
-     "https://www.nsf.gov/author-tools",
-     "https://www.nsf.gov/reports/topical/report-evaluation-nsfs-informal-science-education-ise",
-     "https://www.nsf.gov/funding/opportunities/future-core-computer-information-science-engineering-future-computing/nsf23-561/solicitation",
-     "https://www.nsf.gov/od/oia/ceose/dr-peter-hauser",
-     "https://www.nsf.gov/funding/opportunities/cc-campus-cyberinfrastructure",
-     "https://www.nsf.gov/events/informational-webinar-sunset-national-robotics-initiative/2022-06-02",
-     "https://www.nsf.gov/geo/updates/appointment-joydip-kundu-nsf-geo-deputy-assistant-director",
-     "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/gene-e-likens",
-     "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/harold-s-johnston"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 44850
-   },
-   {
-    "id": "mainthread-work-breakdown",
-    "category": "performance",
-    "title": "Minimize main-thread work",
-    "pages": 49,
-    "examplePages": [
-     "https://www.nsf.gov/funding/opportunities/sdci-software-development-cyberinfrastructure/5174/nsf07-503",
-     "https://www.nsf.gov/author-tools",
-     "https://www.nsf.gov/reports/topical/report-evaluation-nsfs-informal-science-education-ise",
-     "https://www.nsf.gov/funding/opportunities/future-core-computer-information-science-engineering-future-computing/nsf23-561/solicitation",
-     "https://www.nsf.gov/od/oia/ceose/dr-peter-hauser",
-     "https://www.nsf.gov/funding/opportunities/cc-campus-cyberinfrastructure",
-     "https://www.nsf.gov/events/informational-webinar-sunset-national-robotics-initiative/2022-06-02",
-     "https://www.nsf.gov/geo/updates/appointment-joydip-kundu-nsf-geo-deputy-assistant-director",
-     "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/gene-e-likens",
-     "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/harold-s-johnston"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 43550
+    "savingsMs": 53250,
+    "savingsBytesMedian": 548305,
+    "savingsBytesP75": 568286,
+    "savingsMsMedian": 150,
+    "savingsMsP75": 2400
    },
    {
     "id": "unused-css-rules",
@@ -12792,7 +13172,11 @@
      "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/harold-s-johnston"
     ],
     "savingsBytes": 7784647,
-    "savingsMs": 28850
+    "savingsMs": 28850,
+    "savingsBytesMedian": 158698,
+    "savingsBytesP75": 159575,
+    "savingsMsMedian": 600,
+    "savingsMsP75": 600
    },
    {
     "id": "unminified-javascript",
@@ -12812,7 +13196,11 @@
      "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/harold-s-johnston"
     ],
     "savingsBytes": 484321,
-    "savingsMs": 450
+    "savingsMs": 450,
+    "savingsBytesMedian": 9886,
+    "savingsBytesP75": 9891,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "unminified-css",
@@ -12832,67 +13220,11 @@
      "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/harold-s-johnston"
     ],
     "savingsBytes": 282877,
-    "savingsMs": 0
-   },
-   {
-    "id": "largest-contentful-paint",
-    "category": "performance",
-    "title": "Largest Contentful Paint",
-    "pages": 49,
-    "examplePages": [
-     "https://www.nsf.gov/funding/opportunities/sdci-software-development-cyberinfrastructure/5174/nsf07-503",
-     "https://www.nsf.gov/author-tools",
-     "https://www.nsf.gov/reports/topical/report-evaluation-nsfs-informal-science-education-ise",
-     "https://www.nsf.gov/funding/opportunities/future-core-computer-information-science-engineering-future-computing/nsf23-561/solicitation",
-     "https://www.nsf.gov/od/oia/ceose/dr-peter-hauser",
-     "https://www.nsf.gov/funding/opportunities/cc-campus-cyberinfrastructure",
-     "https://www.nsf.gov/events/informational-webinar-sunset-national-robotics-initiative/2022-06-02",
-     "https://www.nsf.gov/geo/updates/appointment-joydip-kundu-nsf-geo-deputy-assistant-director",
-     "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/gene-e-likens",
-     "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/harold-s-johnston"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 0
-   },
-   {
-    "id": "max-potential-fid",
-    "category": "performance",
-    "title": "Max Potential First Input Delay",
-    "pages": 49,
-    "examplePages": [
-     "https://www.nsf.gov/funding/opportunities/sdci-software-development-cyberinfrastructure/5174/nsf07-503",
-     "https://www.nsf.gov/author-tools",
-     "https://www.nsf.gov/reports/topical/report-evaluation-nsfs-informal-science-education-ise",
-     "https://www.nsf.gov/funding/opportunities/future-core-computer-information-science-engineering-future-computing/nsf23-561/solicitation",
-     "https://www.nsf.gov/od/oia/ceose/dr-peter-hauser",
-     "https://www.nsf.gov/funding/opportunities/cc-campus-cyberinfrastructure",
-     "https://www.nsf.gov/events/informational-webinar-sunset-national-robotics-initiative/2022-06-02",
-     "https://www.nsf.gov/geo/updates/appointment-joydip-kundu-nsf-geo-deputy-assistant-director",
-     "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/gene-e-likens",
-     "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/harold-s-johnston"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 0
-   },
-   {
-    "id": "interactive",
-    "category": "performance",
-    "title": "Time to Interactive",
-    "pages": 49,
-    "examplePages": [
-     "https://www.nsf.gov/funding/opportunities/sdci-software-development-cyberinfrastructure/5174/nsf07-503",
-     "https://www.nsf.gov/author-tools",
-     "https://www.nsf.gov/reports/topical/report-evaluation-nsfs-informal-science-education-ise",
-     "https://www.nsf.gov/funding/opportunities/future-core-computer-information-science-engineering-future-computing/nsf23-561/solicitation",
-     "https://www.nsf.gov/od/oia/ceose/dr-peter-hauser",
-     "https://www.nsf.gov/funding/opportunities/cc-campus-cyberinfrastructure",
-     "https://www.nsf.gov/events/informational-webinar-sunset-national-robotics-initiative/2022-06-02",
-     "https://www.nsf.gov/geo/updates/appointment-joydip-kundu-nsf-geo-deputy-assistant-director",
-     "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/gene-e-likens",
-     "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/harold-s-johnston"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 5773,
+    "savingsBytesP75": 5773,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "image-size-responsive",
@@ -12912,7 +13244,59 @@
      "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/harold-s-johnston"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
+   },
+   {
+    "id": "mainthread-work-breakdown",
+    "category": "performance",
+    "title": "Minimize main-thread work",
+    "pages": 49,
+    "examplePages": [
+     "https://www.nsf.gov/funding/opportunities/sdci-software-development-cyberinfrastructure/5174/nsf07-503",
+     "https://www.nsf.gov/author-tools",
+     "https://www.nsf.gov/reports/topical/report-evaluation-nsfs-informal-science-education-ise",
+     "https://www.nsf.gov/funding/opportunities/future-core-computer-information-science-engineering-future-computing/nsf23-561/solicitation",
+     "https://www.nsf.gov/od/oia/ceose/dr-peter-hauser",
+     "https://www.nsf.gov/funding/opportunities/cc-campus-cyberinfrastructure",
+     "https://www.nsf.gov/events/informational-webinar-sunset-national-robotics-initiative/2022-06-02",
+     "https://www.nsf.gov/geo/updates/appointment-joydip-kundu-nsf-geo-deputy-assistant-director",
+     "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/gene-e-likens",
+     "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/harold-s-johnston"
+    ],
+    "savingsBytes": 0,
+    "savingsMs": 43550,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 700,
+    "savingsMsP75": 850
+   },
+   {
+    "id": "bootup-time",
+    "category": "performance",
+    "title": "JavaScript execution time",
+    "pages": 49,
+    "examplePages": [
+     "https://www.nsf.gov/funding/opportunities/sdci-software-development-cyberinfrastructure/5174/nsf07-503",
+     "https://www.nsf.gov/author-tools",
+     "https://www.nsf.gov/reports/topical/report-evaluation-nsfs-informal-science-education-ise",
+     "https://www.nsf.gov/funding/opportunities/future-core-computer-information-science-engineering-future-computing/nsf23-561/solicitation",
+     "https://www.nsf.gov/od/oia/ceose/dr-peter-hauser",
+     "https://www.nsf.gov/funding/opportunities/cc-campus-cyberinfrastructure",
+     "https://www.nsf.gov/events/informational-webinar-sunset-national-robotics-initiative/2022-06-02",
+     "https://www.nsf.gov/geo/updates/appointment-joydip-kundu-nsf-geo-deputy-assistant-director",
+     "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/gene-e-likens",
+     "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/harold-s-johnston"
+    ],
+    "savingsBytes": 0,
+    "savingsMs": 44850,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 700,
+    "savingsMsP75": 950
    },
    {
     "id": "webmcp-registered-tools",
@@ -12932,7 +13316,11 @@
      "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/harold-s-johnston"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "webmcp-form-coverage",
@@ -12952,7 +13340,11 @@
      "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/harold-s-johnston"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "webmcp-schema-validity",
@@ -12972,7 +13364,11 @@
      "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/harold-s-johnston"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "llms-txt",
@@ -12992,7 +13388,11 @@
      "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/harold-s-johnston"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "ard-schema",
@@ -13012,27 +13412,11 @@
      "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/harold-s-johnston"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
-   },
-   {
-    "id": "total-blocking-time",
-    "category": "performance",
-    "title": "Total Blocking Time",
-    "pages": 47,
-    "examplePages": [
-     "https://www.nsf.gov/funding/opportunities/sdci-software-development-cyberinfrastructure/5174/nsf07-503",
-     "https://www.nsf.gov/author-tools",
-     "https://www.nsf.gov/reports/topical/report-evaluation-nsfs-informal-science-education-ise",
-     "https://www.nsf.gov/funding/opportunities/future-core-computer-information-science-engineering-future-computing/nsf23-561/solicitation",
-     "https://www.nsf.gov/od/oia/ceose/dr-peter-hauser",
-     "https://www.nsf.gov/funding/opportunities/cc-campus-cyberinfrastructure",
-     "https://www.nsf.gov/events/informational-webinar-sunset-national-robotics-initiative/2022-06-02",
-     "https://www.nsf.gov/geo/updates/appointment-joydip-kundu-nsf-geo-deputy-assistant-director",
-     "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/gene-e-likens",
-     "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/harold-s-johnston"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "meta-description",
@@ -13052,47 +13436,11 @@
      "https://www.nsf.gov/funding/opportunities/neuronex-next-generation-networks-neuroscience/505281/updates/94665"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
-   },
-   {
-    "id": "render-blocking-insight",
-    "category": "performance",
-    "title": "Render-blocking requests",
-    "pages": 31,
-    "examplePages": [
-     "https://www.nsf.gov/funding/opportunities/sdci-software-development-cyberinfrastructure/5174/nsf07-503",
-     "https://www.nsf.gov/reports/topical/report-evaluation-nsfs-informal-science-education-ise",
-     "https://www.nsf.gov/funding/opportunities/cc-campus-cyberinfrastructure",
-     "https://www.nsf.gov/events/informational-webinar-sunset-national-robotics-initiative/2022-06-02",
-     "https://www.nsf.gov/geo/updates/appointment-joydip-kundu-nsf-geo-deputy-assistant-director",
-     "https://www.nsf.gov/od/directors",
-     "https://www.nsf.gov/about/budget/fy2006/appropriations",
-     "https://www.nsf.gov/reports/statistics/annual-business-survey-tables-data-year-2017",
-     "https://www.nsf.gov/policies/document/common-guidelines-education-research-development",
-     "https://www.nsf.gov/events/future-research-directions-cise-community-cise-rv-program"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 18150
-   },
-   {
-    "id": "image-delivery-insight",
-    "category": "performance",
-    "title": "Improve image delivery",
-    "pages": 31,
-    "examplePages": [
-     "https://www.nsf.gov/funding/opportunities/sdci-software-development-cyberinfrastructure/5174/nsf07-503",
-     "https://www.nsf.gov/reports/topical/report-evaluation-nsfs-informal-science-education-ise",
-     "https://www.nsf.gov/funding/opportunities/cc-campus-cyberinfrastructure",
-     "https://www.nsf.gov/events/informational-webinar-sunset-national-robotics-initiative/2022-06-02",
-     "https://www.nsf.gov/geo/updates/appointment-joydip-kundu-nsf-geo-deputy-assistant-director",
-     "https://www.nsf.gov/od/directors",
-     "https://www.nsf.gov/about/budget/fy2006/appropriations",
-     "https://www.nsf.gov/reports/statistics/annual-business-survey-tables-data-year-2017",
-     "https://www.nsf.gov/policies/document/common-guidelines-education-research-development",
-     "https://www.nsf.gov/events/future-research-directions-cise-community-cise-rv-program"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 16650
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "cache-insight",
@@ -13112,7 +13460,35 @@
      "https://www.nsf.gov/events/future-research-directions-cise-community-cise-rv-program"
     ],
     "savingsBytes": 0,
-    "savingsMs": 10100
+    "savingsMs": 10100,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 250,
+    "savingsMsP75": 300
+   },
+   {
+    "id": "image-delivery-insight",
+    "category": "performance",
+    "title": "Improve image delivery",
+    "pages": 31,
+    "examplePages": [
+     "https://www.nsf.gov/funding/opportunities/sdci-software-development-cyberinfrastructure/5174/nsf07-503",
+     "https://www.nsf.gov/reports/topical/report-evaluation-nsfs-informal-science-education-ise",
+     "https://www.nsf.gov/funding/opportunities/cc-campus-cyberinfrastructure",
+     "https://www.nsf.gov/events/informational-webinar-sunset-national-robotics-initiative/2022-06-02",
+     "https://www.nsf.gov/geo/updates/appointment-joydip-kundu-nsf-geo-deputy-assistant-director",
+     "https://www.nsf.gov/od/directors",
+     "https://www.nsf.gov/about/budget/fy2006/appropriations",
+     "https://www.nsf.gov/reports/statistics/annual-business-survey-tables-data-year-2017",
+     "https://www.nsf.gov/policies/document/common-guidelines-education-research-development",
+     "https://www.nsf.gov/events/future-research-directions-cise-community-cise-rv-program"
+    ],
+    "savingsBytes": 0,
+    "savingsMs": 16650,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 450,
+    "savingsMsP75": 450
    },
    {
     "id": "network-dependency-tree-insight",
@@ -13132,47 +13508,35 @@
      "https://www.nsf.gov/events/future-research-directions-cise-community-cise-rv-program"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
-    "id": "cumulative-layout-shift",
-    "category": "agentic-browsing",
-    "title": "Cumulative Layout Shift",
-    "pages": 25,
+    "id": "render-blocking-insight",
+    "category": "performance",
+    "title": "Render-blocking requests",
+    "pages": 31,
     "examplePages": [
-     "https://www.nsf.gov/author-tools",
+     "https://www.nsf.gov/funding/opportunities/sdci-software-development-cyberinfrastructure/5174/nsf07-503",
      "https://www.nsf.gov/reports/topical/report-evaluation-nsfs-informal-science-education-ise",
+     "https://www.nsf.gov/funding/opportunities/cc-campus-cyberinfrastructure",
      "https://www.nsf.gov/events/informational-webinar-sunset-national-robotics-initiative/2022-06-02",
      "https://www.nsf.gov/geo/updates/appointment-joydip-kundu-nsf-geo-deputy-assistant-director",
      "https://www.nsf.gov/od/directors",
+     "https://www.nsf.gov/about/budget/fy2006/appropriations",
      "https://www.nsf.gov/reports/statistics/annual-business-survey-tables-data-year-2017",
      "https://www.nsf.gov/policies/document/common-guidelines-education-research-development",
-     "https://www.nsf.gov/events/future-research-directions-cise-community-cise-rv-program",
-     "https://www.nsf.gov/events/john-stankovic-towards-ambient-intelligence-smart-healthcare/2021-09-30",
-     "https://www.nsf.gov/funding/opportunities/neuronex-next-generation-networks-neuroscience/505281/updates/94665"
+     "https://www.nsf.gov/events/future-research-directions-cise-community-cise-rv-program"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
-   },
-   {
-    "id": "first-contentful-paint",
-    "category": "performance",
-    "title": "First Contentful Paint",
-    "pages": 23,
-    "examplePages": [
-     "https://www.nsf.gov/author-tools",
-     "https://www.nsf.gov/funding/opportunities/future-core-computer-information-science-engineering-future-computing/nsf23-561/solicitation",
-     "https://www.nsf.gov/od/oia/ceose/dr-peter-hauser",
-     "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/gene-e-likens",
-     "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/harold-s-johnston",
-     "https://www.nsf.gov/od/directors",
-     "https://www.nsf.gov/about/budget/fy2006/appropriations",
-     "https://www.nsf.gov/funding/opportunities/nsf-convergence-accelerator-2022-joint-nsfdod-phases-1-2/505795/157884",
-     "https://www.nsf.gov/news/new-dwarf-planet-candidate-discovered-nsf-doe-rubin",
-     "https://www.nsf.gov/funding/opportunities/neuronex-next-generation-networks-neuroscience/505281/updates/94665"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 18150,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 550,
+    "savingsMsP75": 650
    },
    {
     "id": "cls-culprits-insight",
@@ -13192,27 +13556,11 @@
      "https://www.nsf.gov/events/pose-distinguished-lecture-series-dr-laurie-williams/2023-12-08"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
-   },
-   {
-    "id": "speed-index",
-    "category": "performance",
-    "title": "Speed Index",
-    "pages": 20,
-    "examplePages": [
-     "https://www.nsf.gov/author-tools",
-     "https://www.nsf.gov/funding/opportunities/future-core-computer-information-science-engineering-future-computing/nsf23-561/solicitation",
-     "https://www.nsf.gov/od/oia/ceose/dr-peter-hauser",
-     "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/gene-e-likens",
-     "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/harold-s-johnston",
-     "https://www.nsf.gov/od/directors",
-     "https://www.nsf.gov/about/budget/fy2006/appropriations",
-     "https://www.nsf.gov/funding/opportunities/nsf-convergence-accelerator-2022-joint-nsfdod-phases-1-2/505795/157884",
-     "https://www.nsf.gov/news/new-dwarf-planet-candidate-discovered-nsf-doe-rubin",
-     "https://www.nsf.gov/funding/opportunities/stemediprf-science-technology-engineering-mathematics-education/505980/nsf23-544"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "redirects",
@@ -13232,7 +13580,11 @@
      "https://www.nsf.gov/reports/nsb/testimony/research-science-education-1"
     ],
     "savingsBytes": 0,
-    "savingsMs": 14350
+    "savingsMs": 14350,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 800,
+    "savingsMsP75": 800
    },
    {
     "id": "lcp-discovery-insight",
@@ -13252,7 +13604,11 @@
      "https://www.nsf.gov/events/national-stem-teacher-corps-webinars-information"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "forced-reflow-insight",
@@ -13272,7 +13628,11 @@
      "https://www.nsf.gov/science-matters/nsf-supporting-marine-mammal-science-around-world"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "errors-in-console",
@@ -13285,7 +13645,11 @@
      "https://www.nsf.gov/science-matters/nsf-supporting-marine-mammal-science-around-world"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "font-display-insight",
@@ -13297,7 +13661,11 @@
      "https://www.nsf.gov/events/ityc-office-hours/2026-10-13"
     ],
     "savingsBytes": 0,
-    "savingsMs": 100
+    "savingsMs": 100,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 50,
+    "savingsMsP75": 50
    },
    {
     "id": "inspector-issues",
@@ -13309,7 +13677,11 @@
      "https://www.nsf.gov/science-matters/pilot-programs-help-workers-students-cross-transit-deserts"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "agent-accessibility-tree",
@@ -13320,7 +13692,11 @@
      "https://www.nsf.gov/funding/opportunities/future-core-computer-information-science-engineering-future-computing/nsf23-561/solicitation"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    }
   ]
  },
@@ -21880,6 +22256,7 @@
   "drift_clusters": []
  },
  "sharedComponents": null,
+ "componentGroups": null,
  "pageFamilies": null,
  "pagesAttempted": 482,
  "pagesSucceeded": 472,
@@ -21902,5 +22279,66 @@
   "errorStatuses": {
    "404": 10
   }
+ },
+ "evidenceCoverage": {
+  "basis": "findings",
+  "findings_total": 26,
+  "occurrences_stored": 101,
+  "element_evidence": {
+   "captured": 0,
+   "not_captured": 14,
+   "not_applicable": 12,
+   "unsupported_dom_boundary": 0,
+   "no_stored_examples": 0
+  },
+  "usable_locator": {
+   "captured": 0,
+   "unavailable": 26
+  },
+  "semantic_region": {
+   "captured": 0,
+   "no_containing_landmark": 0,
+   "unavailable": 26
+  },
+  "widget": {
+   "captured": 0,
+   "no_widget": 0,
+   "unavailable": 26
+  },
+  "component": {
+   "attributed": 0,
+   "unattributed": 26
+  },
+  "screenshot": {
+   "available": 0,
+   "unavailable": 26
+  },
+  "reproduction": {
+   "eligible": 0,
+   "unavailable": 26
+  },
+  "findings_with_detailed_evidence": 0,
+  "findings_without_detailed_evidence": 26,
+  "by_engine": {
+   "axe-core": {
+    "findings": 13,
+    "element_captured": 0,
+    "locator_captured": 0,
+    "reproduction_eligible": 0
+   },
+   "alfa": {
+    "findings": 12,
+    "element_captured": 0,
+    "locator_captured": 0,
+    "reproduction_eligible": 0
+   },
+   "deprecated-html": {
+    "findings": 1,
+    "element_captured": 0,
+    "locator_captured": 0,
+    "reproduction_eligible": 0
+   }
+  },
+  "notes": "Finding-level sample coverage. Counts are not element-occurrence totals; screenshots and page detail follow retention."
  }
 }

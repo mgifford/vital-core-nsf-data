@@ -1,7 +1,7 @@
 {
  "domain": "par.nsf.gov",
  "week": "2026-W44",
- "generatedAt": "2026-11-05T18:20:11.356Z",
+ "generatedAt": "2026-11-15T02:04:44.729Z",
  "pagesScanned": 4,
  "pagesAudited": 4,
  "coverage": {
@@ -18,6 +18,8 @@
   "pagesWithViolations": 4,
   "pagesScanned": 4,
   "medianViolations": 3,
+  "context": null,
+  "element_evidence": null,
   "rules": {
    "landmark-contentinfo-is-top-level": {
     "count": 4,
@@ -55,22 +57,38 @@
      {
       "url": "https://par.nsf.gov/services",
       "target": "#footer-wrapper",
-      "html": "<footer class=\"row\" id=\"footer-wrapper\" role=\"contentinfo\">"
+      "html": "<footer class=\"row\" id=\"footer-wrapper\" role=\"contentinfo\">",
+      "page_id": "399fb195bc15a6e7",
+      "run_id": "2026-10-26T08-10-53-179Z-d09262",
+      "scanned_at": "2026-10-26T08:11:01.253Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://par.nsf.gov/faq",
       "target": "#footer-wrapper",
-      "html": "<footer class=\"row\" id=\"footer-wrapper\" role=\"contentinfo\">"
+      "html": "<footer class=\"row\" id=\"footer-wrapper\" role=\"contentinfo\">",
+      "page_id": "5e519069901e876c",
+      "run_id": "2026-10-26T08-10-53-179Z-d09262",
+      "scanned_at": "2026-10-26T08:11:39.395Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://par.nsf.gov/contact",
       "target": "#footer-wrapper",
-      "html": "<footer class=\"row\" id=\"footer-wrapper\" role=\"contentinfo\">"
+      "html": "<footer class=\"row\" id=\"footer-wrapper\" role=\"contentinfo\">",
+      "page_id": "da7b13ee31d434d9",
+      "run_id": "2026-10-26T08-10-53-179Z-d09262",
+      "scanned_at": "2026-10-26T08:11:34.866Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://par.nsf.gov/",
       "target": "#footer-wrapper",
-      "html": "<footer class=\"row\" id=\"footer-wrapper\" role=\"contentinfo\">"
+      "html": "<footer class=\"row\" id=\"footer-wrapper\" role=\"contentinfo\">",
+      "page_id": "ede606c6e2d93f43",
+      "run_id": "2026-10-26T08-10-53-179Z-d09262",
+      "scanned_at": "2026-10-26T08:11:15.668Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -101,12 +119,20 @@
      {
       "url": "https://par.nsf.gov/services",
       "target": "html",
-      "html": "<html lang=\"en\">"
+      "html": "<html lang=\"en\">",
+      "page_id": "399fb195bc15a6e7",
+      "run_id": "2026-10-26T08-10-53-179Z-d09262",
+      "scanned_at": "2026-10-26T08:11:01.253Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://par.nsf.gov/",
       "target": "html",
-      "html": "<html lang=\"en\">"
+      "html": "<html lang=\"en\">",
+      "page_id": "ede606c6e2d93f43",
+      "run_id": "2026-10-26T08-10-53-179Z-d09262",
+      "scanned_at": "2026-10-26T08:11:15.668Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -146,22 +172,38 @@
      {
       "url": "https://par.nsf.gov/services",
       "target": "#official-site",
-      "html": "<div id=\"official-site\">"
+      "html": "<div id=\"official-site\">",
+      "page_id": "399fb195bc15a6e7",
+      "run_id": "2026-10-26T08-10-53-179Z-d09262",
+      "scanned_at": "2026-10-26T08:11:01.253Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://par.nsf.gov/faq",
       "target": "#official-site",
-      "html": "<div id=\"official-site\">"
+      "html": "<div id=\"official-site\">",
+      "page_id": "5e519069901e876c",
+      "run_id": "2026-10-26T08-10-53-179Z-d09262",
+      "scanned_at": "2026-10-26T08:11:39.395Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://par.nsf.gov/contact",
       "target": "#official-site",
-      "html": "<div id=\"official-site\">"
+      "html": "<div id=\"official-site\">",
+      "page_id": "da7b13ee31d434d9",
+      "run_id": "2026-10-26T08-10-53-179Z-d09262",
+      "scanned_at": "2026-10-26T08:11:34.866Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://par.nsf.gov/",
       "target": "#official-site",
-      "html": "<div id=\"official-site\">"
+      "html": "<div id=\"official-site\">",
+      "page_id": "ede606c6e2d93f43",
+      "run_id": "2026-10-26T08-10-53-179Z-d09262",
+      "scanned_at": "2026-10-26T08:11:15.668Z",
+      "engine_version": "4.14.0"
      }
     ]
    }
@@ -171,7 +213,10 @@
   "failedTotal": 29,
   "pagesWithFailures": 2,
   "pagesScanned": 2,
+  "skippedPages": 0,
+  "skipped": [],
   "medianFailures": 15,
+  "element_evidence": null,
   "rules": {
    "sia-r66": {
     "count": 10,
@@ -195,27 +240,47 @@
      {
       "url": "https://par.nsf.gov/contact",
       "target": "text: \"Here's how you know \"",
-      "html": null
+      "html": null,
+      "page_id": "da7b13ee31d434d9",
+      "run_id": "2026-10-26T08-10-53-179Z-d09262",
+      "scanned_at": "2026-10-26T08:11:34.866Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://par.nsf.gov/contact",
       "target": "text: \"Home\"",
-      "html": null
+      "html": null,
+      "page_id": "da7b13ee31d434d9",
+      "run_id": "2026-10-26T08-10-53-179Z-d09262",
+      "scanned_at": "2026-10-26T08:11:34.866Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://par.nsf.gov/contact",
       "target": "text: \"Contact\"",
-      "html": null
+      "html": null,
+      "page_id": "da7b13ee31d434d9",
+      "run_id": "2026-10-26T08-10-53-179Z-d09262",
+      "scanned_at": "2026-10-26T08:11:34.866Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://par.nsf.gov/",
       "target": "text: \"Here's how you know \"",
-      "html": null
+      "html": null,
+      "page_id": "ede606c6e2d93f43",
+      "run_id": "2026-10-26T08-10-53-179Z-d09262",
+      "scanned_at": "2026-10-26T08:11:15.668Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://par.nsf.gov/",
       "target": "text: \"Public Access\"",
-      "html": null
+      "html": null,
+      "page_id": "ede606c6e2d93f43",
+      "run_id": "2026-10-26T08-10-53-179Z-d09262",
+      "scanned_at": "2026-10-26T08:11:15.668Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -241,22 +306,38 @@
      {
       "url": "https://par.nsf.gov/contact",
       "target": "<p>",
-      "html": null
+      "html": null,
+      "page_id": "da7b13ee31d434d9",
+      "run_id": "2026-10-26T08-10-53-179Z-d09262",
+      "scanned_at": "2026-10-26T08:11:34.866Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://par.nsf.gov/contact",
       "target": "<p>",
-      "html": null
+      "html": null,
+      "page_id": "da7b13ee31d434d9",
+      "run_id": "2026-10-26T08-10-53-179Z-d09262",
+      "scanned_at": "2026-10-26T08:11:34.866Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://par.nsf.gov/contact",
       "target": "<p>",
-      "html": null
+      "html": null,
+      "page_id": "da7b13ee31d434d9",
+      "run_id": "2026-10-26T08-10-53-179Z-d09262",
+      "scanned_at": "2026-10-26T08:11:34.866Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://par.nsf.gov/",
       "target": "<p>",
-      "html": null
+      "html": null,
+      "page_id": "ede606c6e2d93f43",
+      "run_id": "2026-10-26T08-10-53-179Z-d09262",
+      "scanned_at": "2026-10-26T08:11:15.668Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -282,22 +363,38 @@
      {
       "url": "https://par.nsf.gov/contact",
       "target": "text: \"An official website of the United States government \n\t\t\t\t\"",
-      "html": null
+      "html": null,
+      "page_id": "da7b13ee31d434d9",
+      "run_id": "2026-10-26T08-10-53-179Z-d09262",
+      "scanned_at": "2026-10-26T08:11:34.866Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://par.nsf.gov/contact",
       "target": "text: \"Here's how you know \"",
-      "html": null
+      "html": null,
+      "page_id": "da7b13ee31d434d9",
+      "run_id": "2026-10-26T08-10-53-179Z-d09262",
+      "scanned_at": "2026-10-26T08:11:34.866Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://par.nsf.gov/",
       "target": "text: \"An official website of the United States government \n\t\t\t\t\"",
-      "html": null
+      "html": null,
+      "page_id": "ede606c6e2d93f43",
+      "run_id": "2026-10-26T08-10-53-179Z-d09262",
+      "scanned_at": "2026-10-26T08:11:15.668Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://par.nsf.gov/",
       "target": "text: \"Here's how you know \"",
-      "html": null
+      "html": null,
+      "page_id": "ede606c6e2d93f43",
+      "run_id": "2026-10-26T08-10-53-179Z-d09262",
+      "scanned_at": "2026-10-26T08:11:15.668Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -323,27 +420,47 @@
      {
       "url": "https://par.nsf.gov/contact",
       "target": "<a href=\"https://par.nsf.gov/\" title=\"PAR Home\" id=\"nav-home\" class=\"nav-button inline-button\">",
-      "html": null
+      "html": null,
+      "page_id": "da7b13ee31d434d9",
+      "run_id": "2026-10-26T08-10-53-179Z-d09262",
+      "scanned_at": "2026-10-26T08:11:34.866Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://par.nsf.gov/contact",
       "target": "<a href=\"https://par.nsf.gov/contact\" title=\"PAR Contact\" id=\"nav-contact\" class=\"nav-button inline-button\">",
-      "html": null
+      "html": null,
+      "page_id": "da7b13ee31d434d9",
+      "run_id": "2026-10-26T08-10-53-179Z-d09262",
+      "scanned_at": "2026-10-26T08:11:34.866Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://par.nsf.gov/contact",
       "target": "<a href=\"https://par.nsf.gov/faq\" title=\"PAR FAQ\" id=\"nav-faqs\" class=\"nav-button inline-button\">",
-      "html": null
+      "html": null,
+      "page_id": "da7b13ee31d434d9",
+      "run_id": "2026-10-26T08-10-53-179Z-d09262",
+      "scanned_at": "2026-10-26T08:11:34.866Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://par.nsf.gov/",
       "target": "<a href=\"https://par.nsf.gov/\" title=\"PAR Home\" id=\"nav-home\" class=\"nav-button inline-button\">",
-      "html": null
+      "html": null,
+      "page_id": "ede606c6e2d93f43",
+      "run_id": "2026-10-26T08-10-53-179Z-d09262",
+      "scanned_at": "2026-10-26T08:11:15.668Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://par.nsf.gov/",
       "target": "<a href=\"https://par.nsf.gov/contact\" title=\"PAR Contact\" id=\"nav-contact\" class=\"nav-button inline-button\">",
-      "html": null
+      "html": null,
+      "page_id": "ede606c6e2d93f43",
+      "run_id": "2026-10-26T08-10-53-179Z-d09262",
+      "scanned_at": "2026-10-26T08:11:15.668Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -364,7 +481,11 @@
      {
       "url": "https://par.nsf.gov/",
       "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
-      "html": null
+      "html": null,
+      "page_id": "ede606c6e2d93f43",
+      "run_id": "2026-10-26T08-10-53-179Z-d09262",
+      "scanned_at": "2026-10-26T08:11:15.668Z",
+      "engine_version": "0.117.0"
      }
     ]
    }
@@ -452,6 +573,16 @@
    }
   }
  },
+ "regions": {
+  "basis": "stored_examples",
+  "findings_total": 8,
+  "findings_with_region": 0,
+  "findings_unclassified": 0,
+  "findings_without_evidence": 8,
+  "regions": [],
+  "csv": "par.nsf.gov_26OCT2026_regions.csv"
+ },
+ "widgetGroups": null,
  "sustainability": null,
  "deprecatedHtml": null,
  "resources": null,
@@ -1689,6 +1820,7 @@
   "drift_clusters": []
  },
  "sharedComponents": null,
+ "componentGroups": null,
  "pageFamilies": null,
  "pagesAttempted": 4,
  "pagesSucceeded": 4,
@@ -1709,5 +1841,66 @@
   },
   "connection": null,
   "errorStatuses": {}
+ },
+ "evidenceCoverage": {
+  "basis": "findings",
+  "findings_total": 8,
+  "occurrences_stored": 29,
+  "element_evidence": {
+   "captured": 0,
+   "not_captured": 3,
+   "not_applicable": 5,
+   "unsupported_dom_boundary": 0,
+   "no_stored_examples": 0
+  },
+  "usable_locator": {
+   "captured": 0,
+   "unavailable": 8
+  },
+  "semantic_region": {
+   "captured": 0,
+   "no_containing_landmark": 0,
+   "unavailable": 8
+  },
+  "widget": {
+   "captured": 0,
+   "no_widget": 0,
+   "unavailable": 8
+  },
+  "component": {
+   "attributed": 0,
+   "unattributed": 8
+  },
+  "screenshot": {
+   "available": 0,
+   "unavailable": 8
+  },
+  "reproduction": {
+   "eligible": 0,
+   "unavailable": 8
+  },
+  "findings_with_detailed_evidence": 0,
+  "findings_without_detailed_evidence": 8,
+  "by_engine": {
+   "axe-core": {
+    "findings": 3,
+    "element_captured": 0,
+    "locator_captured": 0,
+    "reproduction_eligible": 0
+   },
+   "alfa": {
+    "findings": 5,
+    "element_captured": 0,
+    "locator_captured": 0,
+    "reproduction_eligible": 0
+   },
+   "deprecated-html": {
+    "findings": 0,
+    "element_captured": 0,
+    "locator_captured": 0,
+    "reproduction_eligible": 0
+   }
+  },
+  "notes": "Finding-level sample coverage. Counts are not element-occurrence totals; screenshots and page detail follow retention."
  }
 }

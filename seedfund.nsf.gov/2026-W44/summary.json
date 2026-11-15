@@ -1,7 +1,7 @@
 {
  "domain": "seedfund.nsf.gov",
  "week": "2026-W44",
- "generatedAt": "2026-11-05T18:20:13.981Z",
+ "generatedAt": "2026-11-15T02:04:47.247Z",
  "pagesScanned": 500,
  "pagesAudited": 499,
  "coverage": {
@@ -22,6 +22,8 @@
   "pagesWithViolations": 499,
   "pagesScanned": 499,
   "medianViolations": 5,
+  "context": null,
+  "element_evidence": null,
   "rules": {
    "heading-order": {
     "count": 536,
@@ -1539,27 +1541,47 @@
      {
       "url": "https://seedfund.nsf.gov/awardees/phase-2/details?company=junebrain-inc",
       "target": "address > .mb5:nth-child(1) > h4",
-      "html": "<h4 class=\"subhead uppercase\">Project Leader</h4>"
+      "html": "<h4 class=\"subhead uppercase\">Project Leader</h4>",
+      "page_id": "00178e265a034679",
+      "run_id": "2026-10-28T15-21-17-053Z-d862d8",
+      "scanned_at": "2026-10-28T15:22:52.044Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/portfolio/details?company=path-ex",
       "target": "#awards-details-list > .usa-section.usa-grid > .list.results.list-reset > .usa-grid-full > .usa-grid-full > .usa-width-one-fourth > address > .mb5:nth-child(1) > h4",
-      "html": "<h4 class=\"subhead uppercase\">Project Leader</h4>"
+      "html": "<h4 class=\"subhead uppercase\">Project Leader</h4>",
+      "page_id": "022123bcb57a6f73",
+      "run_id": "2026-10-27T11-01-41-023Z-39f19f",
+      "scanned_at": "2026-10-27T11:01:54.164Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/portfolio/details?company=path-ex",
       "target": "#awards-details-list-phase-2 > .usa-section.usa-grid > .list.results.list-reset > .usa-grid-full > .usa-grid-full > .usa-width-one-fourth > address > .mb5:nth-child(1) > h4",
-      "html": "<h4 class=\"subhead uppercase\">Project Leader</h4>"
+      "html": "<h4 class=\"subhead uppercase\">Project Leader</h4>",
+      "page_id": "022123bcb57a6f73",
+      "run_id": "2026-10-27T11-01-41-023Z-39f19f",
+      "scanned_at": "2026-10-27T11:01:54.164Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/awardees/history/details?company=reef-arches-llc",
       "target": ".mb5:nth-child(1) > h4",
-      "html": "<h4 class=\"subhead uppercase\">Project Leader</h4>"
+      "html": "<h4 class=\"subhead uppercase\">Project Leader</h4>",
+      "page_id": "027db09e2ae2c3b7",
+      "run_id": "2026-10-27T08-54-14-749Z-e884f4",
+      "scanned_at": "2026-10-27T08:56:21.935Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/awardees/history/details?company=nextglass-llc",
       "target": ".estimated-end-date > .usa-section.usa-grid > .usa-grid-full > .usa-width-one-fourth > .mb5:nth-child(1) > h4",
-      "html": "<h4 class=\"subhead uppercase\">Project Leader</h4>"
+      "html": "<h4 class=\"subhead uppercase\">Project Leader</h4>",
+      "page_id": "02804a2fc4dd8a1b",
+      "run_id": "2026-10-26T11-34-47-545Z-fbc3d1",
+      "scanned_at": "2026-10-26T11:35:46.496Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -3571,27 +3593,47 @@
      {
       "url": "https://seedfund.nsf.gov/awardees/phase-2/details?company=junebrain-inc",
       "target": ".usa-banner-header",
-      "html": "<header class=\"usa-banner-header\">"
+      "html": "<header class=\"usa-banner-header\">",
+      "page_id": "00178e265a034679",
+      "run_id": "2026-10-28T15-21-17-053Z-d862d8",
+      "scanned_at": "2026-10-28T15:22:52.044Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/news/ubiquitous-energy",
       "target": ".usa-banner-header",
-      "html": "<header class=\"usa-banner-header\">"
+      "html": "<header class=\"usa-banner-header\">",
+      "page_id": "00e8a0a212ba793f",
+      "run_id": "2026-10-26T08-48-33-131Z-ec590c",
+      "scanned_at": "2026-10-26T08:51:38.446Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/topics/photonics",
       "target": ".usa-banner-header",
-      "html": "<header class=\"usa-banner-header\">"
+      "html": "<header class=\"usa-banner-header\">",
+      "page_id": "0218616db13d5f39",
+      "run_id": "2026-10-26T15-23-50-470Z-433330",
+      "scanned_at": "2026-10-26T15:24:02.459Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/portfolio/details?company=path-ex",
       "target": ".usa-banner-header",
-      "html": "<header class=\"usa-banner-header\">"
+      "html": "<header class=\"usa-banner-header\">",
+      "page_id": "022123bcb57a6f73",
+      "run_id": "2026-10-27T11-01-41-023Z-39f19f",
+      "scanned_at": "2026-10-27T11:01:54.164Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/awardees/history/details?company=reef-arches-llc",
       "target": ".usa-banner-header",
-      "html": "<header class=\"usa-banner-header\">"
+      "html": "<header class=\"usa-banner-header\">",
+      "page_id": "027db09e2ae2c3b7",
+      "run_id": "2026-10-27T08-54-14-749Z-e884f4",
+      "scanned_at": "2026-10-27T08:56:21.935Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -5603,27 +5645,47 @@
      {
       "url": "https://seedfund.nsf.gov/awardees/phase-2/details?company=junebrain-inc",
       "target": ".usa-header",
-      "html": "<header class=\"usa-header usa-header-basic header--fixed\" role=\"banner\">"
+      "html": "<header class=\"usa-header usa-header-basic header--fixed\" role=\"banner\">",
+      "page_id": "00178e265a034679",
+      "run_id": "2026-10-28T15-21-17-053Z-d862d8",
+      "scanned_at": "2026-10-28T15:22:52.044Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/news/ubiquitous-energy",
       "target": ".usa-header",
-      "html": "<header class=\"usa-header usa-header-basic header--fixed\" role=\"banner\">"
+      "html": "<header class=\"usa-header usa-header-basic header--fixed\" role=\"banner\">",
+      "page_id": "00e8a0a212ba793f",
+      "run_id": "2026-10-26T08-48-33-131Z-ec590c",
+      "scanned_at": "2026-10-26T08:51:38.446Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/topics/photonics",
       "target": ".usa-header",
-      "html": "<header class=\"usa-header usa-header-basic header--fixed\" role=\"banner\">"
+      "html": "<header class=\"usa-header usa-header-basic header--fixed\" role=\"banner\">",
+      "page_id": "0218616db13d5f39",
+      "run_id": "2026-10-26T15-23-50-470Z-433330",
+      "scanned_at": "2026-10-26T15:24:02.459Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/portfolio/details?company=path-ex",
       "target": ".usa-header",
-      "html": "<header class=\"usa-header usa-header-basic header--fixed\" role=\"banner\">"
+      "html": "<header class=\"usa-header usa-header-basic header--fixed\" role=\"banner\">",
+      "page_id": "022123bcb57a6f73",
+      "run_id": "2026-10-27T11-01-41-023Z-39f19f",
+      "scanned_at": "2026-10-27T11:01:54.164Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/awardees/history/details?company=reef-arches-llc",
       "target": ".usa-header",
-      "html": "<header class=\"usa-header usa-header-basic header--fixed\" role=\"banner\">"
+      "html": "<header class=\"usa-header usa-header-basic header--fixed\" role=\"banner\">",
+      "page_id": "027db09e2ae2c3b7",
+      "run_id": "2026-10-27T08-54-14-749Z-e884f4",
+      "scanned_at": "2026-10-27T08:56:21.935Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -7635,27 +7697,47 @@
      {
       "url": "https://seedfund.nsf.gov/awardees/phase-2/details?company=junebrain-inc",
       "target": ".usa-header",
-      "html": "<header class=\"usa-header usa-header-basic header--fixed\" role=\"banner\">"
+      "html": "<header class=\"usa-header usa-header-basic header--fixed\" role=\"banner\">",
+      "page_id": "00178e265a034679",
+      "run_id": "2026-10-28T15-21-17-053Z-d862d8",
+      "scanned_at": "2026-10-28T15:22:52.044Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/news/ubiquitous-energy",
       "target": ".usa-header",
-      "html": "<header class=\"usa-header usa-header-basic header--fixed\" role=\"banner\">"
+      "html": "<header class=\"usa-header usa-header-basic header--fixed\" role=\"banner\">",
+      "page_id": "00e8a0a212ba793f",
+      "run_id": "2026-10-26T08-48-33-131Z-ec590c",
+      "scanned_at": "2026-10-26T08:51:38.446Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/news/ubiquitous-energy",
       "target": ".main-content-headroom",
-      "html": "<main id=\"main-content\" class=\"main-content-headroom\">"
+      "html": "<main id=\"main-content\" class=\"main-content-headroom\">",
+      "page_id": "00e8a0a212ba793f",
+      "run_id": "2026-10-26T08-48-33-131Z-ec590c",
+      "scanned_at": "2026-10-26T08:51:38.446Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/topics/photonics",
       "target": ".usa-header",
-      "html": "<header class=\"usa-header usa-header-basic header--fixed\" role=\"banner\">"
+      "html": "<header class=\"usa-header usa-header-basic header--fixed\" role=\"banner\">",
+      "page_id": "0218616db13d5f39",
+      "run_id": "2026-10-26T15-23-50-470Z-433330",
+      "scanned_at": "2026-10-26T15:24:02.459Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/portfolio/details?company=path-ex",
       "target": ".usa-header",
-      "html": "<header class=\"usa-header usa-header-basic header--fixed\" role=\"banner\">"
+      "html": "<header class=\"usa-header usa-header-basic header--fixed\" role=\"banner\">",
+      "page_id": "022123bcb57a6f73",
+      "run_id": "2026-10-27T11-01-41-023Z-39f19f",
+      "scanned_at": "2026-10-27T11:01:54.164Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -9668,27 +9750,47 @@
      {
       "url": "https://seedfund.nsf.gov/awardees/phase-2/details?company=junebrain-inc",
       "target": ".banner-left > a[href$=\"solicitation-proposal/\"]",
-      "html": "<a href=\"/solicitation-proposal/\">click here</a>"
+      "html": "<a href=\"/solicitation-proposal/\">click here</a>",
+      "page_id": "00178e265a034679",
+      "run_id": "2026-10-28T15-21-17-053Z-d862d8",
+      "scanned_at": "2026-10-28T15:22:52.044Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/news/ubiquitous-energy",
       "target": ".banner-left > a[href$=\"solicitation-proposal/\"]",
-      "html": "<a href=\"/solicitation-proposal/\">click here</a>"
+      "html": "<a href=\"/solicitation-proposal/\">click here</a>",
+      "page_id": "00e8a0a212ba793f",
+      "run_id": "2026-10-26T08-48-33-131Z-ec590c",
+      "scanned_at": "2026-10-26T08:51:38.446Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/topics/photonics",
       "target": ".banner-left > a[href$=\"solicitation-proposal/\"]",
-      "html": "<a href=\"/solicitation-proposal/\">click here</a>"
+      "html": "<a href=\"/solicitation-proposal/\">click here</a>",
+      "page_id": "0218616db13d5f39",
+      "run_id": "2026-10-26T15-23-50-470Z-433330",
+      "scanned_at": "2026-10-26T15:24:02.459Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/portfolio/details?company=path-ex",
       "target": ".banner-left > a[href$=\"solicitation-proposal/\"]",
-      "html": "<a href=\"/solicitation-proposal/\">click here</a>"
+      "html": "<a href=\"/solicitation-proposal/\">click here</a>",
+      "page_id": "022123bcb57a6f73",
+      "run_id": "2026-10-27T11-01-41-023Z-39f19f",
+      "scanned_at": "2026-10-27T11:01:54.164Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/awardees/history/details?company=reef-arches-llc",
       "target": ".banner-left > a[href$=\"solicitation-proposal/\"]",
-      "html": "<a href=\"/solicitation-proposal/\">click here</a>"
+      "html": "<a href=\"/solicitation-proposal/\">click here</a>",
+      "page_id": "027db09e2ae2c3b7",
+      "run_id": "2026-10-27T08-54-14-749Z-e884f4",
+      "scanned_at": "2026-10-27T08:56:21.935Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -10024,27 +10126,47 @@
      {
       "url": "https://seedfund.nsf.gov/news/ubiquitous-energy",
       "target": ".main-content-headroom > main",
-      "html": "<main id=\"main-content\">"
+      "html": "<main id=\"main-content\">",
+      "page_id": "00e8a0a212ba793f",
+      "run_id": "2026-10-26T08-48-33-131Z-ec590c",
+      "scanned_at": "2026-10-26T08:51:38.446Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/centers/ceps/biopreservation-material-could-end-the-wait-for-organ-transplants",
       "target": ".main-content-headroom > main",
-      "html": "<main id=\"main-content\">"
+      "html": "<main id=\"main-content\">",
+      "page_id": "07dd2497e166bacc",
+      "run_id": "2026-10-28T15-21-17-053Z-d862d8",
+      "scanned_at": "2026-10-28T15:22:44.135Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/news/NetworkPerception",
       "target": ".main-content-headroom > main",
-      "html": "<main id=\"main-content\">"
+      "html": "<main id=\"main-content\">",
+      "page_id": "08e2bbf7fd1a178b",
+      "run_id": "2026-10-27T11-01-41-023Z-39f19f",
+      "scanned_at": "2026-10-27T11:03:27.053Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/centers/ceps/a-fast-cost-effective-path-to-decarbonization-of-heavy-duty-vehicles",
       "target": ".main-content-headroom > main",
-      "html": "<main id=\"main-content\">"
+      "html": "<main id=\"main-content\">",
+      "page_id": "0a2c0874e772c142",
+      "run_id": "2026-10-28T13-59-00-564Z-753f1c",
+      "scanned_at": "2026-10-28T14:00:46.580Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/news/airloom-energy",
       "target": ".main-content-headroom > main",
-      "html": "<main id=\"main-content\">"
+      "html": "<main id=\"main-content\">",
+      "page_id": "0e5c2bb698f4c07b",
+      "run_id": "2026-10-27T08-54-14-749Z-e884f4",
+      "scanned_at": "2026-10-27T08:55:49.156Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -10380,27 +10502,47 @@
      {
       "url": "https://seedfund.nsf.gov/news/ubiquitous-energy",
       "target": ".main-content-headroom",
-      "html": "<main id=\"main-content\" class=\"main-content-headroom\">"
+      "html": "<main id=\"main-content\" class=\"main-content-headroom\">",
+      "page_id": "00e8a0a212ba793f",
+      "run_id": "2026-10-26T08-48-33-131Z-ec590c",
+      "scanned_at": "2026-10-26T08:51:38.446Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/centers/ceps/biopreservation-material-could-end-the-wait-for-organ-transplants",
       "target": ".main-content-headroom",
-      "html": "<main id=\"main-content\" class=\"main-content-headroom\">"
+      "html": "<main id=\"main-content\" class=\"main-content-headroom\">",
+      "page_id": "07dd2497e166bacc",
+      "run_id": "2026-10-28T15-21-17-053Z-d862d8",
+      "scanned_at": "2026-10-28T15:22:44.135Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/news/NetworkPerception",
       "target": ".main-content-headroom",
-      "html": "<main id=\"main-content\" class=\"main-content-headroom\">"
+      "html": "<main id=\"main-content\" class=\"main-content-headroom\">",
+      "page_id": "08e2bbf7fd1a178b",
+      "run_id": "2026-10-27T11-01-41-023Z-39f19f",
+      "scanned_at": "2026-10-27T11:03:27.053Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/centers/ceps/a-fast-cost-effective-path-to-decarbonization-of-heavy-duty-vehicles",
       "target": ".main-content-headroom",
-      "html": "<main id=\"main-content\" class=\"main-content-headroom\">"
+      "html": "<main id=\"main-content\" class=\"main-content-headroom\">",
+      "page_id": "0a2c0874e772c142",
+      "run_id": "2026-10-28T13-59-00-564Z-753f1c",
+      "scanned_at": "2026-10-28T14:00:46.580Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/news/airloom-energy",
       "target": ".main-content-headroom",
-      "html": "<main id=\"main-content\" class=\"main-content-headroom\">"
+      "html": "<main id=\"main-content\" class=\"main-content-headroom\">",
+      "page_id": "0e5c2bb698f4c07b",
+      "run_id": "2026-10-27T08-54-14-749Z-e884f4",
+      "scanned_at": "2026-10-27T08:55:49.156Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -10772,27 +10914,47 @@
      {
       "url": "https://seedfund.nsf.gov/news/ubiquitous-energy",
       "target": "html",
-      "html": "<html lang=\"en-US\" class=\" js flexbox flexboxl...\">"
+      "html": "<html lang=\"en-US\" class=\" js flexbox flexboxl...\">",
+      "page_id": "00e8a0a212ba793f",
+      "run_id": "2026-10-26T08-48-33-131Z-ec590c",
+      "scanned_at": "2026-10-26T08:51:38.446Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/centers/ceps/biopreservation-material-could-end-the-wait-for-organ-transplants",
       "target": "html",
-      "html": "<html lang=\"en-US\" class=\" js flexbox flexboxl...\">"
+      "html": "<html lang=\"en-US\" class=\" js flexbox flexboxl...\">",
+      "page_id": "07dd2497e166bacc",
+      "run_id": "2026-10-28T15-21-17-053Z-d862d8",
+      "scanned_at": "2026-10-28T15:22:44.135Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/news/NetworkPerception",
       "target": "html",
-      "html": "<html lang=\"en-US\" class=\" js flexbox flexboxl...\">"
+      "html": "<html lang=\"en-US\" class=\" js flexbox flexboxl...\">",
+      "page_id": "08e2bbf7fd1a178b",
+      "run_id": "2026-10-27T11-01-41-023Z-39f19f",
+      "scanned_at": "2026-10-27T11:03:27.053Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/centers/ceps/a-fast-cost-effective-path-to-decarbonization-of-heavy-duty-vehicles",
       "target": "html",
-      "html": "<html lang=\"en-US\" class=\" js flexbox flexboxl...\">"
+      "html": "<html lang=\"en-US\" class=\" js flexbox flexboxl...\">",
+      "page_id": "0a2c0874e772c142",
+      "run_id": "2026-10-28T13-59-00-564Z-753f1c",
+      "scanned_at": "2026-10-28T14:00:46.580Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/showcase/cep/page/3/index.html",
       "target": "html",
-      "html": "<html lang=\"en-US\" class=\" js flexbox flexboxl...\">"
+      "html": "<html lang=\"en-US\" class=\" js flexbox flexboxl...\">",
+      "page_id": "0c0e8d594c1ee270",
+      "run_id": "2026-10-26T10-22-51-853Z-c33dd0",
+      "scanned_at": "2026-10-26T10:25:06.560Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -10846,27 +11008,47 @@
      {
       "url": "https://seedfund.nsf.gov/centers/ceps/biopreservation-material-could-end-the-wait-for-organ-transplants",
       "target": "a[href$=\"focus-area/\"]",
-      "html": "<a href=\"/centers/focus-area/\"></a>"
+      "html": "<a href=\"/centers/focus-area/\"></a>",
+      "page_id": "07dd2497e166bacc",
+      "run_id": "2026-10-28T15-21-17-053Z-d862d8",
+      "scanned_at": "2026-10-28T15:22:44.135Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/centers/ceps/a-fast-cost-effective-path-to-decarbonization-of-heavy-duty-vehicles",
       "target": "a[href$=\"focus-area/\"]",
-      "html": "<a href=\"/centers/focus-area/\"></a>"
+      "html": "<a href=\"/centers/focus-area/\"></a>",
+      "page_id": "0a2c0874e772c142",
+      "run_id": "2026-10-28T13-59-00-564Z-753f1c",
+      "scanned_at": "2026-10-28T14:00:46.580Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/portfolio",
       "target": ".three-column-grid__cta",
-      "html": "<a href=\"#\" class=\"three-column-grid__cta\"></a>"
+      "html": "<a href=\"#\" class=\"three-column-grid__cta\"></a>",
+      "page_id": "0cea7a4566d34eab",
+      "run_id": "2026-10-29T09-50-45-627Z-1e8548",
+      "scanned_at": "2026-10-29T09:53:46.825Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/centers/ceps/high-carotenoid-orange-corn-promises-nutritional-enhancement",
       "target": "a[href$=\"focus-area/\"]",
-      "html": "<a href=\"/centers/focus-area/\"></a>"
+      "html": "<a href=\"/centers/focus-area/\"></a>",
+      "page_id": "4892ba233917029d",
+      "run_id": "2026-10-26T10-22-51-853Z-c33dd0",
+      "scanned_at": "2026-10-26T10:24:29.586Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/centers/ceps/paper-coating-enables-worlds-first-water-filter-for-pennies",
       "target": "a[href$=\"focus-area/\"]",
-      "html": "<a href=\"/centers/focus-area/\"></a>"
+      "html": "<a href=\"/centers/focus-area/\"></a>",
+      "page_id": "4f80fbb770cbfe54",
+      "run_id": "2026-10-26T08-12-42-392Z-6801ba",
+      "scanned_at": "2026-10-26T08:14:26.021Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -10903,27 +11085,47 @@
      {
       "url": "https://seedfund.nsf.gov/apply/full-proposal",
       "target": "p:nth-child(10) > em",
-      "html": "<em style=\"color:red\">"
+      "html": "<em style=\"color:red\">",
+      "page_id": "161ff1caca73a0be",
+      "run_id": "2026-10-26T14-10-42-192Z-555d31",
+      "scanned_at": "2026-10-26T14:11:55.112Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/apply/full-proposal",
       "target": "p:nth-child(11) > em",
-      "html": "<em style=\"color:red\">Phase I awardees whose Phase I award start date was on or after November 6, 2023, and who have not already submitted their Phase II proposal will be permitted to submit their Pha"
+      "html": "<em style=\"color:red\">Phase I awardees whose Phase I award start date was on or after November 6, 2023, and who have not already submitted their Phase II proposal will be permitted to submit their Pha",
+      "page_id": "161ff1caca73a0be",
+      "run_id": "2026-10-26T14-10-42-192Z-555d31",
+      "scanned_at": "2026-10-26T14:11:55.112Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/apply/full-proposal",
       "target": "p:nth-child(15) > span",
-      "html": "<span style=\"color:red;\">Note: Due to a large backload, SAM is currently experiencing delays in the creation and validation of Unique Entity Identifiers (UEI).</span>"
+      "html": "<span style=\"color:red;\">Note: Due to a large backload, SAM is currently experiencing delays in the creation and validation of Unique Entity Identifiers (UEI).</span>",
+      "page_id": "161ff1caca73a0be",
+      "run_id": "2026-10-26T14-10-42-192Z-555d31",
+      "scanned_at": "2026-10-26T14:11:55.112Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/solicitation",
       "target": "p:nth-child(4) > em",
-      "html": "<em style=\"color:red\">"
+      "html": "<em style=\"color:red\">",
+      "page_id": "b38b44c824b100aa",
+      "run_id": "2026-10-28T15-21-17-053Z-d862d8",
+      "scanned_at": "2026-10-28T15:21:47.992Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/",
       "target": "h1",
-      "html": "<h1 class=\"large-header\" style=\"color:#fff;!important\">\n              \n                <span class=\"usa-hero-callout-alt\" style=\"color:#fff;!important\">We invest up to <br>$2 million in <br> seed fund"
+      "html": "<h1 class=\"large-header\" style=\"color:#fff;!important\">\n              \n                <span class=\"usa-hero-callout-alt\" style=\"color:#fff;!important\">We invest up to <br>$2 million in <br> seed fund",
+      "page_id": "eb809796cb9882bc",
+      "run_id": "2026-10-28T16-17-59-261Z-8225be",
+      "scanned_at": "2026-10-28T16:20:30.575Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -10949,7 +11151,11 @@
      {
       "url": "https://seedfund.nsf.gov/apply/full-proposal",
       "target": ".two-column-content-block__col:nth-child(2) > h2",
-      "html": "<h2><br><br></h2>"
+      "html": "<h2><br><br></h2>",
+      "page_id": "161ff1caca73a0be",
+      "run_id": "2026-10-26T14-10-42-192Z-555d31",
+      "scanned_at": "2026-10-26T14:11:55.112Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -10986,27 +11192,47 @@
      {
       "url": "https://seedfund.nsf.gov/awardees/phase-2/details",
       "target": ".loader",
-      "html": "<div class=\"loader\" aria-role=\"img\"></div>"
+      "html": "<div class=\"loader\" aria-role=\"img\"></div>",
+      "page_id": "2d22c3c63e40eab4",
+      "run_id": "2026-10-26T11-34-47-545Z-fbc3d1",
+      "scanned_at": "2026-10-26T11:36:56.171Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/portfolio/details",
       "target": ".loader",
-      "html": "<div class=\"loader\" aria-role=\"img\"></div>"
+      "html": "<div class=\"loader\" aria-role=\"img\"></div>",
+      "page_id": "31e74e5f6f0b64c4",
+      "run_id": "2026-10-26T11-34-47-545Z-fbc3d1",
+      "scanned_at": "2026-10-26T11:36:39.486Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/awardees/history",
       "target": "#awards_history_previous",
-      "html": "<a class=\"paginate_button previous disabled\" aria-controls=\"awards_history\" aria-disabled=\"true\" aria-role=\"link\" data-dt-idx=\"previous\" tabindex=\"-1\" id=\"awards_history_previous\">&lt;</a>"
+      "html": "<a class=\"paginate_button previous disabled\" aria-controls=\"awards_history\" aria-disabled=\"true\" aria-role=\"link\" data-dt-idx=\"previous\" tabindex=\"-1\" id=\"awards_history_previous\">&lt;</a>",
+      "page_id": "ab15197f4130a2cb",
+      "run_id": "2026-10-26T08-12-42-392Z-6801ba",
+      "scanned_at": "2026-10-26T08:15:08.685Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/awardees/history",
       "target": ".current",
-      "html": "<a class=\"paginate_button current\" aria-controls=\"awards_history\" aria-role=\"link\" aria-current=\"page\" data-dt-idx=\"0\" tabindex=\"0\">1</a>"
+      "html": "<a class=\"paginate_button current\" aria-controls=\"awards_history\" aria-role=\"link\" aria-current=\"page\" data-dt-idx=\"0\" tabindex=\"0\">1</a>",
+      "page_id": "ab15197f4130a2cb",
+      "run_id": "2026-10-26T08-12-42-392Z-6801ba",
+      "scanned_at": "2026-10-26T08:15:08.685Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/awardees/history",
       "target": "a[data-dt-idx=\"1\"]",
-      "html": "<a class=\"paginate_button \" aria-controls=\"awards_history\" aria-role=\"link\" data-dt-idx=\"1\" tabindex=\"0\">2</a>"
+      "html": "<a class=\"paginate_button \" aria-controls=\"awards_history\" aria-role=\"link\" data-dt-idx=\"1\" tabindex=\"0\">2</a>",
+      "page_id": "ab15197f4130a2cb",
+      "run_id": "2026-10-26T08-12-42-392Z-6801ba",
+      "scanned_at": "2026-10-26T08:15:08.685Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -11033,7 +11259,11 @@
      {
       "url": "https://seedfund.nsf.gov/awardees/phase-2",
       "target": "iframe",
-      "html": "<iframe src=\"https://www.google.com/maps/d/embed?mid=1CNoogQ8CLrzDJviRC-Pi_avfGTeYWaTm\" width=\"100%\" height=\"350\"></iframe>"
+      "html": "<iframe src=\"https://www.google.com/maps/d/embed?mid=1CNoogQ8CLrzDJviRC-Pi_avfGTeYWaTm\" width=\"100%\" height=\"350\"></iframe>",
+      "page_id": "9b0100ab674a0d8c",
+      "run_id": "2026-10-27T13-09-50-153Z-4ca7ae",
+      "scanned_at": "2026-10-27T13:11:42.050Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -11064,12 +11294,20 @@
      {
       "url": "https://seedfund.nsf.gov/styleguide/layouts",
       "target": "html",
-      "html": "<html lang=\"en\">"
+      "html": "<html lang=\"en\">",
+      "page_id": "a0de8d51953ced36",
+      "run_id": "2026-10-27T13-09-50-153Z-4ca7ae",
+      "scanned_at": "2026-10-27T13:10:05.354Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/styleguide/images",
       "target": "html",
-      "html": "<html lang=\"en\">"
+      "html": "<html lang=\"en\">",
+      "page_id": "f65bca72521c3597",
+      "run_id": "2026-10-27T08-54-14-749Z-e884f4",
+      "scanned_at": "2026-10-27T08:55:54.959Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -11100,27 +11338,47 @@
      {
       "url": "https://seedfund.nsf.gov/styleguide/layouts",
       "target": ".styleguide-header-wrapper > a[href$=\"styleguide/\"]",
-      "html": "<a href=\"/styleguide/\">\n      <img class=\"styleguide-logo\" src=\"/assets/img/logo/logo-2c.svg\" alt=\"NSF SBIR logo\">\n      <h1 class=\"h2\" id=\"layouts\">NSF SBIR UI style guide</h1>\n    </a>"
+      "html": "<a href=\"/styleguide/\">\n      <img class=\"styleguide-logo\" src=\"/assets/img/logo/logo-2c.svg\" alt=\"NSF SBIR logo\">\n      <h1 class=\"h2\" id=\"layouts\">NSF SBIR UI style guide</h1>\n    </a>",
+      "page_id": "a0de8d51953ced36",
+      "run_id": "2026-10-27T13-09-50-153Z-4ca7ae",
+      "scanned_at": "2026-10-27T13:10:05.354Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/styleguide/layouts",
       "target": "#main-content",
-      "html": "<section class=\"styleguide-content usa-content\" id=\"main-content\">"
+      "html": "<section class=\"styleguide-content usa-content\" id=\"main-content\">",
+      "page_id": "a0de8d51953ced36",
+      "run_id": "2026-10-27T13-09-50-153Z-4ca7ae",
+      "scanned_at": "2026-10-27T13:10:05.354Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/styleguide/images",
       "target": ".styleguide-header-wrapper > a[href$=\"styleguide/\"]",
-      "html": "<a href=\"/styleguide/\">\n      <img class=\"styleguide-logo\" src=\"/assets/img/logo/logo-2c.svg\" alt=\"NSF SBIR logo\">\n      <h1 class=\"h2\" id=\"images\">NSF SBIR UI style guide</h1>\n    </a>"
+      "html": "<a href=\"/styleguide/\">\n      <img class=\"styleguide-logo\" src=\"/assets/img/logo/logo-2c.svg\" alt=\"NSF SBIR logo\">\n      <h1 class=\"h2\" id=\"images\">NSF SBIR UI style guide</h1>\n    </a>",
+      "page_id": "f65bca72521c3597",
+      "run_id": "2026-10-27T08-54-14-749Z-e884f4",
+      "scanned_at": "2026-10-27T08:55:54.959Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/styleguide/images",
       "target": "h2",
-      "html": "<h2 class=\"styleguide-page-title\">Images</h2>"
+      "html": "<h2 class=\"styleguide-page-title\">Images</h2>",
+      "page_id": "f65bca72521c3597",
+      "run_id": "2026-10-27T08-54-14-749Z-e884f4",
+      "scanned_at": "2026-10-27T08:55:54.959Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/styleguide/images",
       "target": "#main-content > p:nth-child(2)",
-      "html": "<p>Images are used heavily throughout the site, but using them isn’t always straightforward. Below is some guidance on how we use images of various formats throughout the site.</p>"
+      "html": "<p>Images are used heavily throughout the site, but using them isn’t always straightforward. Below is some guidance on how we use images of various formats throughout the site.</p>",
+      "page_id": "f65bca72521c3597",
+      "run_id": "2026-10-27T08-54-14-749Z-e884f4",
+      "scanned_at": "2026-10-27T08:55:54.959Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -11147,7 +11405,11 @@
      {
       "url": "https://seedfund.nsf.gov/covid-awards-phase-2",
       "target": ".table",
-      "html": "<ul class=\"table monospace\">"
+      "html": "<ul class=\"table monospace\">",
+      "page_id": "aa0f27016c91c5d4",
+      "run_id": "2026-10-27T08-54-14-749Z-e884f4",
+      "scanned_at": "2026-10-27T08:56:53.690Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -11174,7 +11436,11 @@
      {
       "url": "https://seedfund.nsf.gov/covid-awards-phase-2",
       "target": "div > .table-row",
-      "html": "<li class=\"table-row\">"
+      "html": "<li class=\"table-row\">",
+      "page_id": "aa0f27016c91c5d4",
+      "run_id": "2026-10-27T08-54-14-749Z-e884f4",
+      "scanned_at": "2026-10-27T08:56:53.690Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -11201,7 +11467,11 @@
      {
       "url": "https://seedfund.nsf.gov/awardees/history",
       "target": ".help-icon",
-      "html": "<span class=\"help-icon\" aria-expanded=\"false\"></span>"
+      "html": "<span class=\"help-icon\" aria-expanded=\"false\"></span>",
+      "page_id": "ab15197f4130a2cb",
+      "run_id": "2026-10-26T08-12-42-392Z-6801ba",
+      "scanned_at": "2026-10-26T08:15:08.685Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -11227,7 +11497,11 @@
      {
       "url": "https://seedfund.nsf.gov/",
       "target": "article[aria-label=\"Testimonial 1\"]",
-      "html": "<article class=\"current slide\" role=\"group\" aria-roledescription=\"slide\" aria-label=\"Testimonial 1\">"
+      "html": "<article class=\"current slide\" role=\"group\" aria-roledescription=\"slide\" aria-label=\"Testimonial 1\">",
+      "page_id": "eb809796cb9882bc",
+      "run_id": "2026-10-28T16-17-59-261Z-8225be",
+      "scanned_at": "2026-10-28T16:20:30.575Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -11254,7 +11528,11 @@
      {
       "url": "https://seedfund.nsf.gov/styleguide/images",
       "target": "p:nth-child(33) > img",
-      "html": "<img src=\"/assets/img/logos/18F-Logo-Small.jpg\">"
+      "html": "<img src=\"/assets/img/logos/18F-Logo-Small.jpg\">",
+      "page_id": "f65bca72521c3597",
+      "run_id": "2026-10-27T08-54-14-749Z-e884f4",
+      "scanned_at": "2026-10-27T08:55:54.959Z",
+      "engine_version": "4.14.0"
      }
     ]
    }
@@ -11264,7 +11542,10 @@
   "failedTotal": 6566,
   "pagesWithFailures": 254,
   "pagesScanned": 254,
+  "skippedPages": 0,
+  "skipped": [],
   "medianFailures": 23,
+  "element_evidence": null,
   "rules": {
    "sia-r20": {
     "count": 196,
@@ -12033,27 +12314,47 @@
      {
       "url": "https://seedfund.nsf.gov/awardees/history/details?company=reef-arches-llc",
       "target": "@aria-role=\"img\"",
-      "html": null
+      "html": null,
+      "page_id": "027db09e2ae2c3b7",
+      "run_id": "2026-10-27T08-54-14-749Z-e884f4",
+      "scanned_at": "2026-10-27T08:56:21.935Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/awardees/history/details?company=immergo-llc",
       "target": "@aria-role=\"img\"",
-      "html": null
+      "html": null,
+      "page_id": "06e2eed3156337d9",
+      "run_id": "2026-10-26T14-10-42-192Z-555d31",
+      "scanned_at": "2026-10-26T14:12:55.876Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/awardees/history/details?company=macrocycle-technologies",
       "target": "@aria-role=\"img\"",
-      "html": null
+      "html": null,
+      "page_id": "06eb0ba2067ac460",
+      "run_id": "2026-10-27T13-09-50-153Z-4ca7ae",
+      "scanned_at": "2026-10-27T13:11:54.496Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/awardees/phase-2/details?company=crypto-tutors-llc",
       "target": "@aria-role=\"img\"",
-      "html": null
+      "html": null,
+      "page_id": "0a95c1545fc2a9e1",
+      "run_id": "2026-10-28T09-34-28-938Z-36da60",
+      "scanned_at": "2026-10-28T09:35:03.855Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/awardees/phase-2/details?company=sostos-llc",
       "target": "@aria-role=\"img\"",
-      "html": null
+      "html": null,
+      "page_id": "0a9dc1264e9367e5",
+      "run_id": "2026-10-27T15-34-17-682Z-eadcff",
+      "scanned_at": "2026-10-27T15:37:00.669Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -12816,27 +13117,47 @@
      {
       "url": "https://seedfund.nsf.gov/awardees/history/details?company=reef-arches-llc",
       "target": "<h4 class=\"subhead uppercase\">",
-      "html": null
+      "html": null,
+      "page_id": "027db09e2ae2c3b7",
+      "run_id": "2026-10-27T08-54-14-749Z-e884f4",
+      "scanned_at": "2026-10-27T08:56:21.935Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/awardees/history/details?company=immergo-llc",
       "target": "<h4 class=\"subhead uppercase\">",
-      "html": null
+      "html": null,
+      "page_id": "06e2eed3156337d9",
+      "run_id": "2026-10-26T14-10-42-192Z-555d31",
+      "scanned_at": "2026-10-26T14:12:55.876Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/awardees/history/details?company=immergo-llc",
       "target": "<h4 class=\"subhead uppercase\">",
-      "html": null
+      "html": null,
+      "page_id": "06e2eed3156337d9",
+      "run_id": "2026-10-26T14-10-42-192Z-555d31",
+      "scanned_at": "2026-10-26T14:12:55.876Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/awardees/history/details?company=macrocycle-technologies",
       "target": "<h4 class=\"subhead uppercase\">",
-      "html": null
+      "html": null,
+      "page_id": "06eb0ba2067ac460",
+      "run_id": "2026-10-27T13-09-50-153Z-4ca7ae",
+      "scanned_at": "2026-10-27T13:11:54.496Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/awardees/phase-2/details?company=crypto-tutors-llc",
       "target": "<h4 class=\"subhead uppercase\">",
-      "html": null
+      "html": null,
+      "page_id": "0a95c1545fc2a9e1",
+      "run_id": "2026-10-28T09-34-28-938Z-36da60",
+      "scanned_at": "2026-10-28T09:35:03.855Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -13599,27 +13920,47 @@
      {
       "url": "https://seedfund.nsf.gov/awardees/history/details?company=reef-arches-llc",
       "target": "<h2 class=\"h2 results-company-title\" style=\"\">",
-      "html": null
+      "html": null,
+      "page_id": "027db09e2ae2c3b7",
+      "run_id": "2026-10-27T08-54-14-749Z-e884f4",
+      "scanned_at": "2026-10-27T08:56:21.935Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/awardees/history/details?company=immergo-llc",
       "target": "<h2 class=\"h2 results-company-title\" style=\"\">",
-      "html": null
+      "html": null,
+      "page_id": "06e2eed3156337d9",
+      "run_id": "2026-10-26T14-10-42-192Z-555d31",
+      "scanned_at": "2026-10-26T14:12:55.876Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/awardees/history/details?company=immergo-llc",
       "target": "<h2 class=\"h2 results-company-title\" style=\"\">",
-      "html": null
+      "html": null,
+      "page_id": "06e2eed3156337d9",
+      "run_id": "2026-10-26T14-10-42-192Z-555d31",
+      "scanned_at": "2026-10-26T14:12:55.876Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/awardees/history/details?company=macrocycle-technologies",
       "target": "<h2 class=\"h2 results-company-title\" style=\"\">",
-      "html": null
+      "html": null,
+      "page_id": "06eb0ba2067ac460",
+      "run_id": "2026-10-27T13-09-50-153Z-4ca7ae",
+      "scanned_at": "2026-10-27T13:11:54.496Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/awardees/phase-2/details?company=crypto-tutors-llc",
       "target": "<h2 class=\"h1 results-company-title\" style=\"\">",
-      "html": null
+      "html": null,
+      "page_id": "0a95c1545fc2a9e1",
+      "run_id": "2026-10-28T09-34-28-938Z-36da60",
+      "scanned_at": "2026-10-28T09:35:03.855Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -13878,27 +14219,47 @@
      {
       "url": "https://seedfund.nsf.gov/awardees/history/details?company=reef-arches-llc",
       "target": "@aria-label=\"address\"",
-      "html": null
+      "html": null,
+      "page_id": "027db09e2ae2c3b7",
+      "run_id": "2026-10-27T08-54-14-749Z-e884f4",
+      "scanned_at": "2026-10-27T08:56:21.935Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/awardees/history/details?company=immergo-llc",
       "target": "@aria-label=\"address\"",
-      "html": null
+      "html": null,
+      "page_id": "06e2eed3156337d9",
+      "run_id": "2026-10-26T14-10-42-192Z-555d31",
+      "scanned_at": "2026-10-26T14:12:55.876Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/awardees/history/details?company=immergo-llc",
       "target": "@aria-label=\"address\"",
-      "html": null
+      "html": null,
+      "page_id": "06e2eed3156337d9",
+      "run_id": "2026-10-26T14-10-42-192Z-555d31",
+      "scanned_at": "2026-10-26T14:12:55.876Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/awardees/history/details?company=macrocycle-technologies",
       "target": "@aria-label=\"address\"",
-      "html": null
+      "html": null,
+      "page_id": "06eb0ba2067ac460",
+      "run_id": "2026-10-27T13-09-50-153Z-4ca7ae",
+      "scanned_at": "2026-10-27T13:11:54.496Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/awardees/history/details?company=aeroshield-materials-inc",
       "target": "@aria-label=\"address\"",
-      "html": null
+      "html": null,
+      "page_id": "0ba08cd8e71ff7cc",
+      "run_id": "2026-10-26T15-23-50-470Z-433330",
+      "scanned_at": "2026-10-26T15:23:54.783Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -14933,27 +15294,47 @@
      {
       "url": "https://seedfund.nsf.gov/awardees/history/details?company=reef-arches-llc",
       "target": "<a href=\"mailto:nick.b@reefarches.com\">",
-      "html": null
+      "html": null,
+      "page_id": "027db09e2ae2c3b7",
+      "run_id": "2026-10-27T08-54-14-749Z-e884f4",
+      "scanned_at": "2026-10-27T08:56:21.935Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/awardees/history/details?company=reef-arches-llc",
       "target": "<a href=\"tel:5616461612\">",
-      "html": null
+      "html": null,
+      "page_id": "027db09e2ae2c3b7",
+      "run_id": "2026-10-27T08-54-14-749Z-e884f4",
+      "scanned_at": "2026-10-27T08:56:21.935Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/awardees/history/details?company=reef-arches-llc",
       "target": "<a href=\"#\">",
-      "html": null
+      "html": null,
+      "page_id": "027db09e2ae2c3b7",
+      "run_id": "2026-10-27T08-54-14-749Z-e884f4",
+      "scanned_at": "2026-10-27T08:56:21.935Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/awardees/history/details?company=immergo-llc",
       "target": "<a href=\"mailto:aviv@immergolabs.com\">",
-      "html": null
+      "html": null,
+      "page_id": "06e2eed3156337d9",
+      "run_id": "2026-10-26T14-10-42-192Z-555d31",
+      "scanned_at": "2026-10-26T14:12:55.876Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/awardees/history/details?company=immergo-llc",
       "target": "<a href=\"tel:9257877539\">",
-      "html": null
+      "html": null,
+      "page_id": "06e2eed3156337d9",
+      "run_id": "2026-10-26T14-10-42-192Z-555d31",
+      "scanned_at": "2026-10-26T14:12:55.876Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -15168,27 +15549,47 @@
      {
       "url": "https://seedfund.nsf.gov/news/NetworkPerception",
       "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
-      "html": null
+      "html": null,
+      "page_id": "08e2bbf7fd1a178b",
+      "run_id": "2026-10-27T11-01-41-023Z-39f19f",
+      "scanned_at": "2026-10-27T11:03:27.053Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/centers/ceps/a-fast-cost-effective-path-to-decarbonization-of-heavy-duty-vehicles",
       "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
-      "html": null
+      "html": null,
+      "page_id": "0a2c0874e772c142",
+      "run_id": "2026-10-28T13-59-00-564Z-753f1c",
+      "scanned_at": "2026-10-28T14:00:46.580Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/showcase/cep/page/3/index.html",
       "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
-      "html": null
+      "html": null,
+      "page_id": "0c0e8d594c1ee270",
+      "run_id": "2026-10-26T10-22-51-853Z-c33dd0",
+      "scanned_at": "2026-10-26T10:25:06.560Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/showcase/cep/page/4/index.html",
       "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
-      "html": null
+      "html": null,
+      "page_id": "0cbf349d3fa6dd86",
+      "run_id": "2026-10-26T10-22-51-853Z-c33dd0",
+      "scanned_at": "2026-10-26T10:24:00.877Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/news/airloom-energy",
       "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
-      "html": null
+      "html": null,
+      "page_id": "0e5c2bb698f4c07b",
+      "run_id": "2026-10-27T08-54-14-749Z-e884f4",
+      "scanned_at": "2026-10-27T08:55:49.156Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -15214,12 +15615,20 @@
      {
       "url": "https://seedfund.nsf.gov/centers/ceps/a-fast-cost-effective-path-to-decarbonization-of-heavy-duty-vehicles",
       "target": "<a href=\"/centers/focus-area/\">",
-      "html": null
+      "html": null,
+      "page_id": "0a2c0874e772c142",
+      "run_id": "2026-10-28T13-59-00-564Z-753f1c",
+      "scanned_at": "2026-10-28T14:00:46.580Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/centers/ceps/high-carotenoid-orange-corn-promises-nutritional-enhancement",
       "target": "<a href=\"/centers/focus-area/\">",
-      "html": null
+      "html": null,
+      "page_id": "4892ba233917029d",
+      "run_id": "2026-10-26T10-22-51-853Z-c33dd0",
+      "scanned_at": "2026-10-26T10:24:29.586Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -15302,27 +15711,47 @@
      {
       "url": "https://seedfund.nsf.gov/showcase/cep/page/3/index.html",
       "target": "text: \"\n        <\n      \"",
-      "html": null
+      "html": null,
+      "page_id": "0c0e8d594c1ee270",
+      "run_id": "2026-10-26T10-22-51-853Z-c33dd0",
+      "scanned_at": "2026-10-26T10:25:06.560Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/showcase/cep/page/3/index.html",
       "target": "text: \"1\"",
-      "html": null
+      "html": null,
+      "page_id": "0c0e8d594c1ee270",
+      "run_id": "2026-10-26T10-22-51-853Z-c33dd0",
+      "scanned_at": "2026-10-26T10:25:06.560Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/showcase/cep/page/3/index.html",
       "target": "text: \"2\"",
-      "html": null
+      "html": null,
+      "page_id": "0c0e8d594c1ee270",
+      "run_id": "2026-10-26T10-22-51-853Z-c33dd0",
+      "scanned_at": "2026-10-26T10:25:06.560Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/showcase/cep/page/4/index.html",
       "target": "text: \"\n        <\n      \"",
-      "html": null
+      "html": null,
+      "page_id": "0cbf349d3fa6dd86",
+      "run_id": "2026-10-26T10-22-51-853Z-c33dd0",
+      "scanned_at": "2026-10-26T10:24:00.877Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/showcase/cep/page/4/index.html",
       "target": "text: \"1\"",
-      "html": null
+      "html": null,
+      "page_id": "0cbf349d3fa6dd86",
+      "run_id": "2026-10-26T10-22-51-853Z-c33dd0",
+      "scanned_at": "2026-10-26T10:24:00.877Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -15343,7 +15772,11 @@
      {
       "url": "https://seedfund.nsf.gov/awardees/phase-2/details?company=branch-technology-llc",
       "target": "<ul class=\"list results list-reset\" style=\"\">",
-      "html": null
+      "html": null,
+      "page_id": "0c1d9808473cdd88",
+      "run_id": "2026-10-27T09-57-22-815Z-39d909",
+      "scanned_at": "2026-10-27T09:58:00.568Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -15364,7 +15797,11 @@
      {
       "url": "https://seedfund.nsf.gov/apply/full-proposal",
       "target": "<h2>",
-      "html": null
+      "html": null,
+      "page_id": "161ff1caca73a0be",
+      "run_id": "2026-10-26T14-10-42-192Z-555d31",
+      "scanned_at": "2026-10-26T14:11:55.112Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -15395,27 +15832,47 @@
      {
       "url": "https://seedfund.nsf.gov/apply/full-proposal",
       "target": "text: \"Applicants with Project Pitch invitations issued on or after July 3, 2025, and who have not yet submitted a proposal associated with that invitation, will be permitted to submit their full Phas",
-      "html": null
+      "html": null,
+      "page_id": "161ff1caca73a0be",
+      "run_id": "2026-10-26T14-10-42-192Z-555d31",
+      "scanned_at": "2026-10-26T14:11:55.112Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/apply/full-proposal",
       "target": "text: \"Phase I awardees whose Phase I award start date was on or after November 6, 2023, and who have not already submitted their Phase II proposal will be permitted to submit their Phase II proposal ",
-      "html": null
+      "html": null,
+      "page_id": "161ff1caca73a0be",
+      "run_id": "2026-10-26T14-10-42-192Z-555d31",
+      "scanned_at": "2026-10-26T14:11:55.112Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/apply/full-proposal",
       "target": "text: \"Note: Due to a large backload, SAM is currently experiencing delays in the creation and validation of Unique Entity Identifiers (UEI).\"",
-      "html": null
+      "html": null,
+      "page_id": "161ff1caca73a0be",
+      "run_id": "2026-10-26T14-10-42-192Z-555d31",
+      "scanned_at": "2026-10-26T14:11:55.112Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/solicitation",
       "target": "text: \"Applicants with Project Pitch invitations issued on or after July 3, 2025, and who have not yet submitted a proposal associated with that invitation, will be permitted to submit their full Phas",
-      "html": null
+      "html": null,
+      "page_id": "b38b44c824b100aa",
+      "run_id": "2026-10-28T15-21-17-053Z-d862d8",
+      "scanned_at": "2026-10-28T15:21:47.992Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/solicitation",
       "target": "text: \"Phase I awardees whose Phase I award start date was on or after November 6, 2023, and who have not already submitted their Phase II proposal will be permitted to submit their Phase II proposal ",
-      "html": null
+      "html": null,
+      "page_id": "b38b44c824b100aa",
+      "run_id": "2026-10-28T15-21-17-053Z-d862d8",
+      "scanned_at": "2026-10-28T15:21:47.992Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -15454,27 +15911,47 @@
      {
       "url": "https://seedfund.nsf.gov/topics/instrumentation-and-hardware-systems",
       "target": "<p class=\"subhead\">",
-      "html": null
+      "html": null,
+      "page_id": "66515e808046f31e",
+      "run_id": "2026-10-27T08-54-14-749Z-e884f4",
+      "scanned_at": "2026-10-27T08:54:42.582Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/awardees/phase-2",
       "target": "<p class=\"subhead inline-block accordion-number-of-awardees-header\">",
-      "html": null
+      "html": null,
+      "page_id": "9b0100ab674a0d8c",
+      "run_id": "2026-10-27T13-09-50-153Z-4ca7ae",
+      "scanned_at": "2026-10-27T13:11:42.050Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/awardees/phase-2",
       "target": "<p class=\"subhead inline-block accordion-tech-topic-header\">",
-      "html": null
+      "html": null,
+      "page_id": "9b0100ab674a0d8c",
+      "run_id": "2026-10-27T13-09-50-153Z-4ca7ae",
+      "scanned_at": "2026-10-27T13:11:42.050Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/topics/medical-devices",
       "target": "<p class=\"subhead\">",
-      "html": null
+      "html": null,
+      "page_id": "c528677d930d877c",
+      "run_id": "2026-10-26T15-23-50-470Z-433330",
+      "scanned_at": "2026-10-26T15:25:01.527Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/topics/agricultural-technologies",
       "target": "<p class=\"subhead\">",
-      "html": null
+      "html": null,
+      "page_id": "c7366ec28bb63a96",
+      "run_id": "2026-10-27T13-09-50-153Z-4ca7ae",
+      "scanned_at": "2026-10-27T13:12:14.689Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -15495,7 +15972,11 @@
      {
       "url": "https://seedfund.nsf.gov/",
       "target": "<p class=\"banner-left\" style=\"font-weight:bold;font-size:14px;\">",
-      "html": null
+      "html": null,
+      "page_id": "eb809796cb9882bc",
+      "run_id": "2026-10-28T16-17-59-261Z-8225be",
+      "scanned_at": "2026-10-28T16:20:30.575Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -15516,7 +15997,11 @@
      {
       "url": "https://seedfund.nsf.gov/",
       "target": "<p class=\"text-large\">",
-      "html": null
+      "html": null,
+      "page_id": "eb809796cb9882bc",
+      "run_id": "2026-10-28T16-17-59-261Z-8225be",
+      "scanned_at": "2026-10-28T16:20:30.575Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -15537,12 +16022,20 @@
      {
       "url": "https://seedfund.nsf.gov/",
       "target": "<a href=\"/solicitation-proposal/\">",
-      "html": null
+      "html": null,
+      "page_id": "eb809796cb9882bc",
+      "run_id": "2026-10-28T16-17-59-261Z-8225be",
+      "scanned_at": "2026-10-28T16:20:30.575Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/",
       "target": "<a href=\"/showcase/\">",
-      "html": null
+      "html": null,
+      "page_id": "eb809796cb9882bc",
+      "run_id": "2026-10-28T16-17-59-261Z-8225be",
+      "scanned_at": "2026-10-28T16:20:30.575Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -15563,7 +16056,11 @@
      {
       "url": "https://seedfund.nsf.gov/",
       "target": "<div class=\"active carousel with-slidenav\" id=\"testimonial-carousel\" role=\"region\" aria-roledescription=\"carousel\">",
-      "html": null
+      "html": null,
+      "page_id": "eb809796cb9882bc",
+      "run_id": "2026-10-28T16-17-59-261Z-8225be",
+      "scanned_at": "2026-10-28T16:20:30.575Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -15584,7 +16081,11 @@
      {
       "url": "https://seedfund.nsf.gov/styleguide/images",
       "target": "<img src=\"/assets/img/logos/18F-Logo-Small.jpg\">",
-      "html": null
+      "html": null,
+      "page_id": "f65bca72521c3597",
+      "run_id": "2026-10-27T08-54-14-749Z-e884f4",
+      "scanned_at": "2026-10-27T08:55:54.959Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -15605,17 +16106,29 @@
      {
       "url": "https://seedfund.nsf.gov/styleguide/images",
       "target": "<pre class=\"highlight\">",
-      "html": null
+      "html": null,
+      "page_id": "f65bca72521c3597",
+      "run_id": "2026-10-27T08-54-14-749Z-e884f4",
+      "scanned_at": "2026-10-27T08:55:54.959Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/styleguide/images",
       "target": "<pre class=\"highlight\">",
-      "html": null
+      "html": null,
+      "page_id": "f65bca72521c3597",
+      "run_id": "2026-10-27T08-54-14-749Z-e884f4",
+      "scanned_at": "2026-10-27T08:55:54.959Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/styleguide/images",
       "target": "<pre class=\"highlight\">",
-      "html": null
+      "html": null,
+      "page_id": "f65bca72521c3597",
+      "run_id": "2026-10-27T08-54-14-749Z-e884f4",
+      "scanned_at": "2026-10-27T08:55:54.959Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -15636,17 +16149,29 @@
      {
       "url": "https://seedfund.nsf.gov/styleguide/images",
       "target": "text: \"Images\"",
-      "html": null
+      "html": null,
+      "page_id": "f65bca72521c3597",
+      "run_id": "2026-10-27T08-54-14-749Z-e884f4",
+      "scanned_at": "2026-10-27T08:55:54.959Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/styleguide/images",
       "target": "text: \"Images are used heavily throughout the site, but using them isn’t always straightforward. Below is some guidance on how we use images of various formats throughout the site.\"",
-      "html": null
+      "html": null,
+      "page_id": "f65bca72521c3597",
+      "run_id": "2026-10-27T08-54-14-749Z-e884f4",
+      "scanned_at": "2026-10-27T08:55:54.959Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/styleguide/images",
       "target": "text: \"Image formats\"",
-      "html": null
+      "html": null,
+      "page_id": "f65bca72521c3597",
+      "run_id": "2026-10-27T08-54-14-749Z-e884f4",
+      "scanned_at": "2026-10-27T08:55:54.959Z",
+      "engine_version": "0.117.0"
      }
     ]
    }
@@ -15978,6 +16503,16 @@
    }
   }
  },
+ "regions": {
+  "basis": "stored_examples",
+  "findings_total": 39,
+  "findings_with_region": 0,
+  "findings_unclassified": 0,
+  "findings_without_evidence": 39,
+  "regions": [],
+  "csv": "seedfund.nsf.gov_26OCT2026_regions.csv"
+ },
+ "widgetGroups": null,
  "sustainability": {
   "pages": 48,
   "medianBytes": 1895828,
@@ -17125,46 +17660,6 @@
   "pwaSignals": [],
   "recommendations": [
    {
-    "id": "render-blocking-insight",
-    "category": "performance",
-    "title": "Render-blocking requests",
-    "pages": 56,
-    "examplePages": [
-     "https://seedfund.nsf.gov/news/ubiquitous-energy",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=photonect-interconnect-solutions-inc",
-     "https://seedfund.nsf.gov/portfolio/details?company=oceancomm-incorporated",
-     "https://seedfund.nsf.gov/awardees/history/details?company=macrocycle-technologies",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=perceptra-technologies-inc",
-     "https://seedfund.nsf.gov/awardees/history/details?company=ultramend-inc",
-     "https://seedfund.nsf.gov/awardees/history/details?company=boston-electrometallurgical-inc",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=ilambda-inc",
-     "https://seedfund.nsf.gov/awardees/history/details?company=medmicromaps-llc",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=xheme-inc"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 120750
-   },
-   {
-    "id": "cache-insight",
-    "category": "performance",
-    "title": "Use efficient cache lifetimes",
-    "pages": 56,
-    "examplePages": [
-     "https://seedfund.nsf.gov/news/ubiquitous-energy",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=photonect-interconnect-solutions-inc",
-     "https://seedfund.nsf.gov/portfolio/details?company=oceancomm-incorporated",
-     "https://seedfund.nsf.gov/awardees/history/details?company=macrocycle-technologies",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=perceptra-technologies-inc",
-     "https://seedfund.nsf.gov/awardees/history/details?company=ultramend-inc",
-     "https://seedfund.nsf.gov/awardees/history/details?company=boston-electrometallurgical-inc",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=ilambda-inc",
-     "https://seedfund.nsf.gov/awardees/history/details?company=medmicromaps-llc",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=xheme-inc"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 81850
-   },
-   {
     "id": "unused-javascript",
     "category": "performance",
     "title": "Reduce unused JavaScript",
@@ -17182,27 +17677,11 @@
      "https://seedfund.nsf.gov/awardees/phase-2/details?company=xheme-inc"
     ],
     "savingsBytes": 13524077,
-    "savingsMs": 67050
-   },
-   {
-    "id": "redirects",
-    "category": "performance",
-    "title": "Avoid multiple page redirects",
-    "pages": 56,
-    "examplePages": [
-     "https://seedfund.nsf.gov/news/ubiquitous-energy",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=photonect-interconnect-solutions-inc",
-     "https://seedfund.nsf.gov/portfolio/details?company=oceancomm-incorporated",
-     "https://seedfund.nsf.gov/awardees/history/details?company=macrocycle-technologies",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=perceptra-technologies-inc",
-     "https://seedfund.nsf.gov/awardees/history/details?company=ultramend-inc",
-     "https://seedfund.nsf.gov/awardees/history/details?company=boston-electrometallurgical-inc",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=ilambda-inc",
-     "https://seedfund.nsf.gov/awardees/history/details?company=medmicromaps-llc",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=xheme-inc"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 47600
+    "savingsMs": 67050,
+    "savingsBytesMedian": 232935,
+    "savingsBytesP75": 235917,
+    "savingsMsMedian": 1200,
+    "savingsMsP75": 1500
    },
    {
     "id": "unused-css-rules",
@@ -17222,127 +17701,11 @@
      "https://seedfund.nsf.gov/awardees/phase-2/details?company=xheme-inc"
     ],
     "savingsBytes": 4353099,
-    "savingsMs": 40550
-   },
-   {
-    "id": "mainthread-work-breakdown",
-    "category": "performance",
-    "title": "Minimizes main-thread work",
-    "pages": 56,
-    "examplePages": [
-     "https://seedfund.nsf.gov/news/ubiquitous-energy",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=photonect-interconnect-solutions-inc",
-     "https://seedfund.nsf.gov/portfolio/details?company=oceancomm-incorporated",
-     "https://seedfund.nsf.gov/awardees/history/details?company=macrocycle-technologies",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=perceptra-technologies-inc",
-     "https://seedfund.nsf.gov/awardees/history/details?company=ultramend-inc",
-     "https://seedfund.nsf.gov/awardees/history/details?company=boston-electrometallurgical-inc",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=ilambda-inc",
-     "https://seedfund.nsf.gov/awardees/history/details?company=medmicromaps-llc",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=xheme-inc"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 38250
-   },
-   {
-    "id": "bootup-time",
-    "category": "performance",
-    "title": "JavaScript execution time",
-    "pages": 56,
-    "examplePages": [
-     "https://seedfund.nsf.gov/news/ubiquitous-energy",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=photonect-interconnect-solutions-inc",
-     "https://seedfund.nsf.gov/portfolio/details?company=oceancomm-incorporated",
-     "https://seedfund.nsf.gov/awardees/history/details?company=macrocycle-technologies",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=perceptra-technologies-inc",
-     "https://seedfund.nsf.gov/awardees/history/details?company=ultramend-inc",
-     "https://seedfund.nsf.gov/awardees/history/details?company=boston-electrometallurgical-inc",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=ilambda-inc",
-     "https://seedfund.nsf.gov/awardees/history/details?company=medmicromaps-llc",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=xheme-inc"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 34650
-   },
-   {
-    "id": "document-latency-insight",
-    "category": "performance",
-    "title": "Document request latency",
-    "pages": 56,
-    "examplePages": [
-     "https://seedfund.nsf.gov/news/ubiquitous-energy",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=photonect-interconnect-solutions-inc",
-     "https://seedfund.nsf.gov/portfolio/details?company=oceancomm-incorporated",
-     "https://seedfund.nsf.gov/awardees/history/details?company=macrocycle-technologies",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=perceptra-technologies-inc",
-     "https://seedfund.nsf.gov/awardees/history/details?company=ultramend-inc",
-     "https://seedfund.nsf.gov/awardees/history/details?company=boston-electrometallurgical-inc",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=ilambda-inc",
-     "https://seedfund.nsf.gov/awardees/history/details?company=medmicromaps-llc",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=xheme-inc"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 6800
-   },
-   {
-    "id": "first-contentful-paint",
-    "category": "performance",
-    "title": "First Contentful Paint",
-    "pages": 56,
-    "examplePages": [
-     "https://seedfund.nsf.gov/news/ubiquitous-energy",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=photonect-interconnect-solutions-inc",
-     "https://seedfund.nsf.gov/portfolio/details?company=oceancomm-incorporated",
-     "https://seedfund.nsf.gov/awardees/history/details?company=macrocycle-technologies",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=perceptra-technologies-inc",
-     "https://seedfund.nsf.gov/awardees/history/details?company=ultramend-inc",
-     "https://seedfund.nsf.gov/awardees/history/details?company=boston-electrometallurgical-inc",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=ilambda-inc",
-     "https://seedfund.nsf.gov/awardees/history/details?company=medmicromaps-llc",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=xheme-inc"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 0
-   },
-   {
-    "id": "largest-contentful-paint",
-    "category": "performance",
-    "title": "Largest Contentful Paint",
-    "pages": 56,
-    "examplePages": [
-     "https://seedfund.nsf.gov/news/ubiquitous-energy",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=photonect-interconnect-solutions-inc",
-     "https://seedfund.nsf.gov/portfolio/details?company=oceancomm-incorporated",
-     "https://seedfund.nsf.gov/awardees/history/details?company=macrocycle-technologies",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=perceptra-technologies-inc",
-     "https://seedfund.nsf.gov/awardees/history/details?company=ultramend-inc",
-     "https://seedfund.nsf.gov/awardees/history/details?company=boston-electrometallurgical-inc",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=ilambda-inc",
-     "https://seedfund.nsf.gov/awardees/history/details?company=medmicromaps-llc",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=xheme-inc"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 0
-   },
-   {
-    "id": "max-potential-fid",
-    "category": "performance",
-    "title": "Max Potential First Input Delay",
-    "pages": 56,
-    "examplePages": [
-     "https://seedfund.nsf.gov/news/ubiquitous-energy",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=photonect-interconnect-solutions-inc",
-     "https://seedfund.nsf.gov/portfolio/details?company=oceancomm-incorporated",
-     "https://seedfund.nsf.gov/awardees/history/details?company=macrocycle-technologies",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=perceptra-technologies-inc",
-     "https://seedfund.nsf.gov/awardees/history/details?company=ultramend-inc",
-     "https://seedfund.nsf.gov/awardees/history/details?company=boston-electrometallurgical-inc",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=ilambda-inc",
-     "https://seedfund.nsf.gov/awardees/history/details?company=medmicromaps-llc",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=xheme-inc"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 40550,
+    "savingsBytesMedian": 77706,
+    "savingsBytesP75": 77740,
+    "savingsMsMedian": 750,
+    "savingsMsP75": 800
    },
    {
     "id": "errors-in-console",
@@ -17362,12 +17725,16 @@
      "https://seedfund.nsf.gov/awardees/phase-2/details?company=xheme-inc"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
-    "id": "interactive",
+    "id": "redirects",
     "category": "performance",
-    "title": "Time to Interactive",
+    "title": "Avoid multiple page redirects",
     "pages": 56,
     "examplePages": [
      "https://seedfund.nsf.gov/news/ubiquitous-energy",
@@ -17382,7 +17749,11 @@
      "https://seedfund.nsf.gov/awardees/phase-2/details?company=xheme-inc"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 47600,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 850,
+    "savingsMsP75": 850
    },
    {
     "id": "image-size-responsive",
@@ -17402,7 +17773,59 @@
      "https://seedfund.nsf.gov/awardees/phase-2/details?company=xheme-inc"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
+   },
+   {
+    "id": "mainthread-work-breakdown",
+    "category": "performance",
+    "title": "Minimizes main-thread work",
+    "pages": 56,
+    "examplePages": [
+     "https://seedfund.nsf.gov/news/ubiquitous-energy",
+     "https://seedfund.nsf.gov/awardees/phase-2/details?company=photonect-interconnect-solutions-inc",
+     "https://seedfund.nsf.gov/portfolio/details?company=oceancomm-incorporated",
+     "https://seedfund.nsf.gov/awardees/history/details?company=macrocycle-technologies",
+     "https://seedfund.nsf.gov/awardees/phase-2/details?company=perceptra-technologies-inc",
+     "https://seedfund.nsf.gov/awardees/history/details?company=ultramend-inc",
+     "https://seedfund.nsf.gov/awardees/history/details?company=boston-electrometallurgical-inc",
+     "https://seedfund.nsf.gov/awardees/phase-2/details?company=ilambda-inc",
+     "https://seedfund.nsf.gov/awardees/history/details?company=medmicromaps-llc",
+     "https://seedfund.nsf.gov/awardees/phase-2/details?company=xheme-inc"
+    ],
+    "savingsBytes": 0,
+    "savingsMs": 38250,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 600,
+    "savingsMsP75": 750
+   },
+   {
+    "id": "bootup-time",
+    "category": "performance",
+    "title": "JavaScript execution time",
+    "pages": 56,
+    "examplePages": [
+     "https://seedfund.nsf.gov/news/ubiquitous-energy",
+     "https://seedfund.nsf.gov/awardees/phase-2/details?company=photonect-interconnect-solutions-inc",
+     "https://seedfund.nsf.gov/portfolio/details?company=oceancomm-incorporated",
+     "https://seedfund.nsf.gov/awardees/history/details?company=macrocycle-technologies",
+     "https://seedfund.nsf.gov/awardees/phase-2/details?company=perceptra-technologies-inc",
+     "https://seedfund.nsf.gov/awardees/history/details?company=ultramend-inc",
+     "https://seedfund.nsf.gov/awardees/history/details?company=boston-electrometallurgical-inc",
+     "https://seedfund.nsf.gov/awardees/phase-2/details?company=ilambda-inc",
+     "https://seedfund.nsf.gov/awardees/history/details?company=medmicromaps-llc",
+     "https://seedfund.nsf.gov/awardees/phase-2/details?company=xheme-inc"
+    ],
+    "savingsBytes": 0,
+    "savingsMs": 34650,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 550,
+    "savingsMsP75": 700
    },
    {
     "id": "link-text",
@@ -17422,7 +17845,11 @@
      "https://seedfund.nsf.gov/awardees/phase-2/details?company=xheme-inc"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "webmcp-registered-tools",
@@ -17442,7 +17869,11 @@
      "https://seedfund.nsf.gov/awardees/phase-2/details?company=xheme-inc"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "webmcp-form-coverage",
@@ -17462,7 +17893,11 @@
      "https://seedfund.nsf.gov/awardees/phase-2/details?company=xheme-inc"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "webmcp-schema-validity",
@@ -17482,7 +17917,11 @@
      "https://seedfund.nsf.gov/awardees/phase-2/details?company=xheme-inc"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "llms-txt",
@@ -17502,7 +17941,11 @@
      "https://seedfund.nsf.gov/awardees/phase-2/details?company=xheme-inc"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "ard-schema",
@@ -17522,7 +17965,59 @@
      "https://seedfund.nsf.gov/awardees/phase-2/details?company=xheme-inc"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
+   },
+   {
+    "id": "cache-insight",
+    "category": "performance",
+    "title": "Use efficient cache lifetimes",
+    "pages": 56,
+    "examplePages": [
+     "https://seedfund.nsf.gov/news/ubiquitous-energy",
+     "https://seedfund.nsf.gov/awardees/phase-2/details?company=photonect-interconnect-solutions-inc",
+     "https://seedfund.nsf.gov/portfolio/details?company=oceancomm-incorporated",
+     "https://seedfund.nsf.gov/awardees/history/details?company=macrocycle-technologies",
+     "https://seedfund.nsf.gov/awardees/phase-2/details?company=perceptra-technologies-inc",
+     "https://seedfund.nsf.gov/awardees/history/details?company=ultramend-inc",
+     "https://seedfund.nsf.gov/awardees/history/details?company=boston-electrometallurgical-inc",
+     "https://seedfund.nsf.gov/awardees/phase-2/details?company=ilambda-inc",
+     "https://seedfund.nsf.gov/awardees/history/details?company=medmicromaps-llc",
+     "https://seedfund.nsf.gov/awardees/phase-2/details?company=xheme-inc"
+    ],
+    "savingsBytes": 0,
+    "savingsMs": 81850,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 1500,
+    "savingsMsP75": 1600
+   },
+   {
+    "id": "document-latency-insight",
+    "category": "performance",
+    "title": "Document request latency",
+    "pages": 56,
+    "examplePages": [
+     "https://seedfund.nsf.gov/news/ubiquitous-energy",
+     "https://seedfund.nsf.gov/awardees/phase-2/details?company=photonect-interconnect-solutions-inc",
+     "https://seedfund.nsf.gov/portfolio/details?company=oceancomm-incorporated",
+     "https://seedfund.nsf.gov/awardees/history/details?company=macrocycle-technologies",
+     "https://seedfund.nsf.gov/awardees/phase-2/details?company=perceptra-technologies-inc",
+     "https://seedfund.nsf.gov/awardees/history/details?company=ultramend-inc",
+     "https://seedfund.nsf.gov/awardees/history/details?company=boston-electrometallurgical-inc",
+     "https://seedfund.nsf.gov/awardees/phase-2/details?company=ilambda-inc",
+     "https://seedfund.nsf.gov/awardees/history/details?company=medmicromaps-llc",
+     "https://seedfund.nsf.gov/awardees/phase-2/details?company=xheme-inc"
+    ],
+    "savingsBytes": 0,
+    "savingsMs": 6800,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 100,
+    "savingsMsP75": 150
    },
    {
     "id": "network-dependency-tree-insight",
@@ -17542,13 +18037,17 @@
      "https://seedfund.nsf.gov/awardees/phase-2/details?company=xheme-inc"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
-    "id": "total-blocking-time",
+    "id": "render-blocking-insight",
     "category": "performance",
-    "title": "Total Blocking Time",
-    "pages": 55,
+    "title": "Render-blocking requests",
+    "pages": 56,
     "examplePages": [
      "https://seedfund.nsf.gov/news/ubiquitous-energy",
      "https://seedfund.nsf.gov/awardees/phase-2/details?company=photonect-interconnect-solutions-inc",
@@ -17562,7 +18061,11 @@
      "https://seedfund.nsf.gov/awardees/phase-2/details?company=xheme-inc"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 120750,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 2400,
+    "savingsMsP75": 2450
    },
    {
     "id": "font-display-insight",
@@ -17582,7 +18085,11 @@
      "https://seedfund.nsf.gov/awardees/phase-2/details?company=xheme-inc"
     ],
     "savingsBytes": 0,
-    "savingsMs": 8800
+    "savingsMs": 8800,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 200,
+    "savingsMsP75": 250
    },
    {
     "id": "meta-description",
@@ -17602,27 +18109,11 @@
      "https://seedfund.nsf.gov/awardees/history/details?company=skip-technology-inc"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
-   },
-   {
-    "id": "speed-index",
-    "category": "performance",
-    "title": "Speed Index",
-    "pages": 47,
-    "examplePages": [
-     "https://seedfund.nsf.gov/news/ubiquitous-energy",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=photonect-interconnect-solutions-inc",
-     "https://seedfund.nsf.gov/portfolio/details?company=oceancomm-incorporated",
-     "https://seedfund.nsf.gov/awardees/history/details?company=macrocycle-technologies",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=perceptra-technologies-inc",
-     "https://seedfund.nsf.gov/awardees/history/details?company=ultramend-inc",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=ilambda-inc",
-     "https://seedfund.nsf.gov/awardees/history/details?company=medmicromaps-llc",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=xheme-inc",
-     "https://seedfund.nsf.gov/awardees/history/details?company=skip-technology-inc"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "server-response-time",
@@ -17642,27 +18133,11 @@
      "https://seedfund.nsf.gov/awardees/phase-2/details?company=direct-kinetic-solutions-llc"
     ],
     "savingsBytes": 0,
-    "savingsMs": 2700
-   },
-   {
-    "id": "cumulative-layout-shift",
-    "category": "agentic-browsing",
-    "title": "Cumulative Layout Shift",
-    "pages": 25,
-    "examplePages": [
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=photonect-interconnect-solutions-inc",
-     "https://seedfund.nsf.gov/awardees/history/details?company=boston-electrometallurgical-inc",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=ilambda-inc",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=xheme-inc",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=endeavor-composites-inc",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=direct-kinetic-solutions-llc",
-     "https://seedfund.nsf.gov/portfolio/details?company=cyclopure-inc",
-     "https://seedfund.nsf.gov/centers/ceps/retrofit-dehumidifiers-enhance-air-conditioner-efficiency",
-     "https://seedfund.nsf.gov/news/AirCompany",
-     "https://seedfund.nsf.gov/awardees/history/details?company=thiozen-inc"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 2700,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 100,
+    "savingsMsP75": 150
    },
    {
     "id": "cls-culprits-insight",
@@ -17682,7 +18157,11 @@
      "https://seedfund.nsf.gov/awardees/history/details?company=thiozen-inc"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "image-delivery-insight",
@@ -17702,7 +18181,11 @@
      "https://seedfund.nsf.gov/awardees/phase-2/details?company=revterra-corporation"
     ],
     "savingsBytes": 0,
-    "savingsMs": 3650
+    "savingsMs": 3650,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 150,
+    "savingsMsP75": 150
    },
    {
     "id": "forced-reflow-insight",
@@ -17721,7 +18204,11 @@
      "https://seedfund.nsf.gov/awardees/phase-1/details?company=reclamation-factory-inc"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "lcp-breakdown-insight",
@@ -17736,7 +18223,11 @@
      "https://seedfund.nsf.gov/awardees/history/details?company=arieca-inc"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "agent-accessibility-tree",
@@ -17747,7 +18238,11 @@
      "https://seedfund.nsf.gov/centers/ceps/retrofit-dehumidifiers-enhance-air-conditioner-efficiency"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    }
   ]
  },
@@ -38114,6 +38609,7 @@
   "drift_clusters": []
  },
  "sharedComponents": null,
+ "componentGroups": null,
  "pageFamilies": null,
  "pagesAttempted": 500,
  "pagesSucceeded": 499,
@@ -38136,5 +38632,66 @@
   "errorStatuses": {
    "404": 1
   }
+ },
+ "evidenceCoverage": {
+  "basis": "findings",
+  "findings_total": 39,
+  "occurrences_stored": 130,
+  "element_evidence": {
+   "captured": 0,
+   "not_captured": 20,
+   "not_applicable": 19,
+   "unsupported_dom_boundary": 0,
+   "no_stored_examples": 0
+  },
+  "usable_locator": {
+   "captured": 0,
+   "unavailable": 39
+  },
+  "semantic_region": {
+   "captured": 0,
+   "no_containing_landmark": 0,
+   "unavailable": 39
+  },
+  "widget": {
+   "captured": 0,
+   "no_widget": 0,
+   "unavailable": 39
+  },
+  "component": {
+   "attributed": 0,
+   "unattributed": 39
+  },
+  "screenshot": {
+   "available": 0,
+   "unavailable": 39
+  },
+  "reproduction": {
+   "eligible": 0,
+   "unavailable": 39
+  },
+  "findings_with_detailed_evidence": 0,
+  "findings_without_detailed_evidence": 39,
+  "by_engine": {
+   "axe-core": {
+    "findings": 20,
+    "element_captured": 0,
+    "locator_captured": 0,
+    "reproduction_eligible": 0
+   },
+   "alfa": {
+    "findings": 19,
+    "element_captured": 0,
+    "locator_captured": 0,
+    "reproduction_eligible": 0
+   },
+   "deprecated-html": {
+    "findings": 0,
+    "element_captured": 0,
+    "locator_captured": 0,
+    "reproduction_eligible": 0
+   }
+  },
+  "notes": "Finding-level sample coverage. Counts are not element-occurrence totals; screenshots and page detail follow retention."
  }
 }

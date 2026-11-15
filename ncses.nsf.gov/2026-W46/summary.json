@@ -1,7 +1,7 @@
 {
  "domain": "ncses.nsf.gov",
  "week": "2026-W46",
- "generatedAt": "2026-11-12T20:24:31.288Z",
+ "generatedAt": "2026-11-15T02:04:45.513Z",
  "pagesScanned": 289,
  "pagesAudited": 287,
  "coverage": {
@@ -22,6 +22,8 @@
   "pagesWithViolations": 276,
   "pagesScanned": 287,
   "medianViolations": 28,
+  "context": null,
+  "element_evidence": null,
   "rules": {
    "aria-required-attr": {
     "count": 270,
@@ -1124,27 +1126,47 @@
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20205/data",
       "target": "#gov-banner-header",
-      "html": "<div role=\"heading\" id=\"gov-banner-header\">"
+      "html": "<div role=\"heading\" id=\"gov-banner-header\">",
+      "page_id": "0152074285517b94",
+      "run_id": "2026-11-11T12-58-32-281Z-f74b80",
+      "scanned_at": "2026-11-11T12:59:36.326Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsf22300/table/32",
       "target": "#gov-banner-header",
-      "html": "<div role=\"heading\" id=\"gov-banner-header\">"
+      "html": "<div role=\"heading\" id=\"gov-banner-header\">",
+      "page_id": "03029766b06673ca",
+      "run_id": "2026-11-11T12-58-32-281Z-f74b80",
+      "scanned_at": "2026-11-11T12:59:59.939Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20196/student-learning-in-mathematics-and-science",
       "target": "#gov-banner-header",
-      "html": "<div role=\"heading\" id=\"gov-banner-header\">"
+      "html": "<div role=\"heading\" id=\"gov-banner-header\">",
+      "page_id": "03f84f54d958ef41",
+      "run_id": "2026-11-10T12-54-04-623Z-d60524",
+      "scanned_at": "2026-11-10T12:55:41.547Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20246/table/RD-10",
       "target": "#gov-banner-header",
-      "html": "<div role=\"heading\" id=\"gov-banner-header\">"
+      "html": "<div role=\"heading\" id=\"gov-banner-header\">",
+      "page_id": "0465944fc85b2399",
+      "run_id": "2026-11-10T15-33-10-982Z-826c1f",
+      "scanned_at": "2026-11-10T15:33:27.362Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-99",
       "target": "#gov-banner-header",
-      "html": "<div role=\"heading\" id=\"gov-banner-header\">"
+      "html": "<div role=\"heading\" id=\"gov-banner-header\">",
+      "page_id": "04a7c8188c8f368c",
+      "run_id": "2026-11-10T12-54-04-623Z-d60524",
+      "scanned_at": "2026-11-10T12:57:44.560Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -2145,27 +2167,47 @@
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20205/data",
       "target": "a[aria-label=\"N C S E S Contact Page\"]",
-      "html": "<a href=\"https://ncses.nsf.gov/about/contact\" aria-label=\"N C S E S Contact Page\" rel=\"noopener\" tabindex=\"0\">Contact Us</a>"
+      "html": "<a href=\"https://ncses.nsf.gov/about/contact\" aria-label=\"N C S E S Contact Page\" rel=\"noopener\" tabindex=\"0\">Contact Us</a>",
+      "page_id": "0152074285517b94",
+      "run_id": "2026-11-11T12-58-32-281Z-f74b80",
+      "scanned_at": "2026-11-11T12:59:36.326Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20196/student-learning-in-mathematics-and-science",
       "target": "a[aria-label=\"N C S E S Contact Page\"]",
-      "html": "<a href=\"https://ncses.nsf.gov/about/contact\" aria-label=\"N C S E S Contact Page\" rel=\"noopener\" tabindex=\"0\">Contact Us</a>"
+      "html": "<a href=\"https://ncses.nsf.gov/about/contact\" aria-label=\"N C S E S Contact Page\" rel=\"noopener\" tabindex=\"0\">Contact Us</a>",
+      "page_id": "03f84f54d958ef41",
+      "run_id": "2026-11-10T12-54-04-623Z-d60524",
+      "scanned_at": "2026-11-10T12:55:41.547Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20246/table/RD-10",
       "target": "a[aria-label=\"N C S E S Contact Page\"]",
-      "html": "<a href=\"https://ncses.nsf.gov/about/contact\" aria-label=\"N C S E S Contact Page\" rel=\"noopener\" tabindex=\"0\">Contact Us</a>"
+      "html": "<a href=\"https://ncses.nsf.gov/about/contact\" aria-label=\"N C S E S Contact Page\" rel=\"noopener\" tabindex=\"0\">Contact Us</a>",
+      "page_id": "0465944fc85b2399",
+      "run_id": "2026-11-10T15-33-10-982Z-826c1f",
+      "scanned_at": "2026-11-10T15:33:27.362Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-99",
       "target": "a[aria-label=\"N C S E S Contact Page\"]",
-      "html": "<a href=\"https://ncses.nsf.gov/about/contact\" aria-label=\"N C S E S Contact Page\" rel=\"noopener\" tabindex=\"0\">Contact Us</a>"
+      "html": "<a href=\"https://ncses.nsf.gov/about/contact\" aria-label=\"N C S E S Contact Page\" rel=\"noopener\" tabindex=\"0\">Contact Us</a>",
+      "page_id": "04a7c8188c8f368c",
+      "run_id": "2026-11-10T12-54-04-623Z-d60524",
+      "scanned_at": "2026-11-10T12:57:44.560Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsf22319/table/A-18b",
       "target": "a[aria-label=\"N C S E S contact page\"]",
-      "html": "<a href=\"/about/contact\" aria-label=\"N C S E S contact page\" rel=\"noopener\" tabindex=\"0\">Contact Us</a>"
+      "html": "<a href=\"/about/contact\" aria-label=\"N C S E S contact page\" rel=\"noopener\" tabindex=\"0\">Contact Us</a>",
+      "page_id": "058cf9df1af878f9",
+      "run_id": "2026-11-10T13-47-28-609Z-9fa4bb",
+      "scanned_at": "2026-11-10T13:50:23.024Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -2770,27 +2812,47 @@
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20205/data",
       "target": "#li3578",
-      "html": "<li role=\"tab\" id=\"li3578\" class=\"l1\">\n\t\t\t\t\t\t\t\t<a tabindex=\"0\" class=\"l1link\" href=\"#\" data-onclick-goto-page=\"\" data-base-uri=\"/pubs/nsb20205/\" data-section=\"executive-summary\" data-section-id=\"3578\""
+      "html": "<li role=\"tab\" id=\"li3578\" class=\"l1\">\n\t\t\t\t\t\t\t\t<a tabindex=\"0\" class=\"l1link\" href=\"#\" data-onclick-goto-page=\"\" data-base-uri=\"/pubs/nsb20205/\" data-section=\"executive-summary\" data-section-id=\"3578\"",
+      "page_id": "0152074285517b94",
+      "run_id": "2026-11-11T12-58-32-281Z-f74b80",
+      "scanned_at": "2026-11-11T12:59:36.326Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20205/data",
       "target": "#li3580",
-      "html": "<li role=\"tab\" id=\"li3580\" class=\"l1\">\n\t\t\t\t\t\t\t\t<a tabindex=\"0\" class=\"l1link\" href=\"#\" data-onclick-goto-page=\"\" data-base-uri=\"/pubs/nsb20205/\" data-section=\"introduction\" data-section-id=\"3580\" rel="
+      "html": "<li role=\"tab\" id=\"li3580\" class=\"l1\">\n\t\t\t\t\t\t\t\t<a tabindex=\"0\" class=\"l1link\" href=\"#\" data-onclick-goto-page=\"\" data-base-uri=\"/pubs/nsb20205/\" data-section=\"introduction\" data-section-id=\"3580\" rel=",
+      "page_id": "0152074285517b94",
+      "run_id": "2026-11-11T12-58-32-281Z-f74b80",
+      "scanned_at": "2026-11-11T12:59:36.326Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20205/data",
       "target": "#li3581",
-      "html": "<li role=\"tab\" id=\"li3581\" class=\"l1\">"
+      "html": "<li role=\"tab\" id=\"li3581\" class=\"l1\">",
+      "page_id": "0152074285517b94",
+      "run_id": "2026-11-11T12-58-32-281Z-f74b80",
+      "scanned_at": "2026-11-11T12:59:36.326Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20196/student-learning-in-mathematics-and-science",
       "target": "#li2572",
-      "html": "<li role=\"tab\" id=\"li2572\" class=\"l1\">\n\t\t\t\t\t\t\t\t<a tabindex=\"0\" class=\"l1link\" href=\"#\" data-onclick-goto-page=\"\" data-base-uri=\"/pubs/nsb20196/\" data-section=\"executive-summary\" data-section-id=\"2572\""
+      "html": "<li role=\"tab\" id=\"li2572\" class=\"l1\">\n\t\t\t\t\t\t\t\t<a tabindex=\"0\" class=\"l1link\" href=\"#\" data-onclick-goto-page=\"\" data-base-uri=\"/pubs/nsb20196/\" data-section=\"executive-summary\" data-section-id=\"2572\"",
+      "page_id": "03f84f54d958ef41",
+      "run_id": "2026-11-10T12-54-04-623Z-d60524",
+      "scanned_at": "2026-11-10T12:55:41.547Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20196/student-learning-in-mathematics-and-science",
       "target": "#li2573",
-      "html": "<li role=\"tab\" id=\"li2573\" class=\"l1\">\n\t\t\t\t\t\t\t\t<a tabindex=\"0\" class=\"l1link\" href=\"#\" data-onclick-goto-page=\"\" data-base-uri=\"/pubs/nsb20196/\" data-section=\"introduction\" data-section-id=\"2573\" rel="
+      "html": "<li role=\"tab\" id=\"li2573\" class=\"l1\">\n\t\t\t\t\t\t\t\t<a tabindex=\"0\" class=\"l1link\" href=\"#\" data-onclick-goto-page=\"\" data-base-uri=\"/pubs/nsb20196/\" data-section=\"introduction\" data-section-id=\"2573\" rel=",
+      "page_id": "03f84f54d958ef41",
+      "run_id": "2026-11-10T12-54-04-623Z-d60524",
+      "scanned_at": "2026-11-10T12:55:41.547Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -3030,27 +3092,47 @@
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20205/data",
       "target": "html",
-      "html": "<html lang=\"en\" class=\" csspositionsticky\">"
+      "html": "<html lang=\"en\" class=\" csspositionsticky\">",
+      "page_id": "0152074285517b94",
+      "run_id": "2026-11-11T12-58-32-281Z-f74b80",
+      "scanned_at": "2026-11-11T12:59:36.326Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20206/publication-output-by-region-country-or-economy",
       "target": "html",
-      "html": "<html lang=\"en\" class=\" csspositionsticky\">"
+      "html": "<html lang=\"en\" class=\" csspositionsticky\">",
+      "page_id": "05d9b75baa15d81f",
+      "run_id": "2026-11-09T13-11-26-829Z-1fe71c",
+      "scanned_at": "2026-11-09T13:16:13.208Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20205/supplemental-tables",
       "target": "html",
-      "html": "<html lang=\"en\" class=\" csspositionsticky\">"
+      "html": "<html lang=\"en\" class=\" csspositionsticky\">",
+      "page_id": "07219aa41c531feb",
+      "run_id": "2026-11-11T17-29-07-707Z-b4c45b",
+      "scanned_at": "2026-11-11T17:29:43.277Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20207/supplemental-tables",
       "target": "html",
-      "html": "<html lang=\"en\" class=\" csspositionsticky\">"
+      "html": "<html lang=\"en\" class=\" csspositionsticky\">",
+      "page_id": "09089a601f622afa",
+      "run_id": "2026-11-09T20-07-54-845Z-b50a59",
+      "scanned_at": "2026-11-09T20:08:25.671Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20198/supplemental-tables",
       "target": "html",
-      "html": "<html lang=\"en\" class=\" csspositionsticky\">"
+      "html": "<html lang=\"en\" class=\" csspositionsticky\">",
+      "page_id": "0aba7922e3877748",
+      "run_id": "2026-11-10T17-19-18-206Z-ab3136",
+      "scanned_at": "2026-11-10T17:22:47.273Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -4154,27 +4236,47 @@
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20205/data",
       "target": "#skip-link",
-      "html": "<a role=\"link\" id=\"skip-link\" tabindex=\"0\" class=\"sr-only skip-link\">Skip to Main Content</a>"
+      "html": "<a role=\"link\" id=\"skip-link\" tabindex=\"0\" class=\"sr-only skip-link\">Skip to Main Content</a>",
+      "page_id": "0152074285517b94",
+      "run_id": "2026-11-11T12-58-32-281Z-f74b80",
+      "scanned_at": "2026-11-11T12:59:36.326Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsf22300/table/32",
       "target": "#skip-link",
-      "html": "<a role=\"link\" id=\"skip-link\" tabindex=\"0\" class=\"sr-only skip-link\">Skip to Main Content</a>"
+      "html": "<a role=\"link\" id=\"skip-link\" tabindex=\"0\" class=\"sr-only skip-link\">Skip to Main Content</a>",
+      "page_id": "03029766b06673ca",
+      "run_id": "2026-11-11T12-58-32-281Z-f74b80",
+      "scanned_at": "2026-11-11T12:59:59.939Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsf22300/table/32",
       "target": "#section7618",
-      "html": "<h1 id=\"section7618\">Data Tables</h1>"
+      "html": "<h1 id=\"section7618\">Data Tables</h1>",
+      "page_id": "03029766b06673ca",
+      "run_id": "2026-11-11T12-58-32-281Z-f74b80",
+      "scanned_at": "2026-11-11T12:59:59.939Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsf22300/table/32",
       "target": ".section-level-2:nth-child(1)",
-      "html": "<section class=\"section-level-2\">"
+      "html": "<section class=\"section-level-2\">",
+      "page_id": "03029766b06673ca",
+      "run_id": "2026-11-11T12-58-32-281Z-f74b80",
+      "scanned_at": "2026-11-11T12:59:59.939Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20196/student-learning-in-mathematics-and-science",
       "target": "#skip-link",
-      "html": "<a role=\"link\" id=\"skip-link\" tabindex=\"0\" class=\"sr-only skip-link\">Skip to Main Content</a>"
+      "html": "<a role=\"link\" id=\"skip-link\" tabindex=\"0\" class=\"sr-only skip-link\">Skip to Main Content</a>",
+      "page_id": "03f84f54d958ef41",
+      "run_id": "2026-11-10T12-54-04-623Z-d60524",
+      "scanned_at": "2026-11-10T12:55:41.547Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -4806,27 +4908,47 @@
      {
       "url": "https://ncses.nsf.gov/pubs/nsf22300/table/32",
       "target": "#tableModal",
-      "html": "<div class=\"modal fade in\" id=\"tableModal\" tabindex=\"-1\" role=\"dialog\" data-backdrop=\"static\" data-keyboard=\"false\" style=\"display: block;\">"
+      "html": "<div class=\"modal fade in\" id=\"tableModal\" tabindex=\"-1\" role=\"dialog\" data-backdrop=\"static\" data-keyboard=\"false\" style=\"display: block;\">",
+      "page_id": "03029766b06673ca",
+      "run_id": "2026-11-11T12-58-32-281Z-f74b80",
+      "scanned_at": "2026-11-11T12:59:59.939Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20196/student-learning-in-mathematics-and-science",
       "target": "#figureModal",
-      "html": "<div class=\"modal fade in\" id=\"figureModal\" tabindex=\"-1\" role=\"dialog\" data-backdrop=\"static\" data-keyboard=\"true\" style=\"display: block;\">"
+      "html": "<div class=\"modal fade in\" id=\"figureModal\" tabindex=\"-1\" role=\"dialog\" data-backdrop=\"static\" data-keyboard=\"true\" style=\"display: block;\">",
+      "page_id": "03f84f54d958ef41",
+      "run_id": "2026-11-10T12-54-04-623Z-d60524",
+      "scanned_at": "2026-11-10T12:55:41.547Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20246/table/RD-10",
       "target": "#tableModal",
-      "html": "<div class=\"modal fade in\" id=\"tableModal\" tabindex=\"-1\" role=\"dialog\" data-backdrop=\"static\" data-keyboard=\"true\" style=\"display: block; padding-left: 0px;\">"
+      "html": "<div class=\"modal fade in\" id=\"tableModal\" tabindex=\"-1\" role=\"dialog\" data-backdrop=\"static\" data-keyboard=\"true\" style=\"display: block; padding-left: 0px;\">",
+      "page_id": "0465944fc85b2399",
+      "run_id": "2026-11-10T15-33-10-982Z-826c1f",
+      "scanned_at": "2026-11-10T15:33:27.362Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-99",
       "target": "#tableModal",
-      "html": "<div class=\"modal fade in\" id=\"tableModal\" tabindex=\"-1\" role=\"dialog\" data-backdrop=\"static\" data-keyboard=\"true\" style=\"display: block; padding-left: 0px;\">"
+      "html": "<div class=\"modal fade in\" id=\"tableModal\" tabindex=\"-1\" role=\"dialog\" data-backdrop=\"static\" data-keyboard=\"true\" style=\"display: block; padding-left: 0px;\">",
+      "page_id": "04a7c8188c8f368c",
+      "run_id": "2026-11-10T12-54-04-623Z-d60524",
+      "scanned_at": "2026-11-10T12:57:44.560Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsf22319/table/A-18b",
       "target": "#tableModal",
-      "html": "<div class=\"modal fade show\" id=\"tableModal\" tabindex=\"-1\" role=\"dialog\" data-bs-backdrop=\"static\" data-bs-keyboard=\"true\" aria-modal=\"true\" style=\"display: block;\">"
+      "html": "<div class=\"modal fade show\" id=\"tableModal\" tabindex=\"-1\" role=\"dialog\" data-bs-backdrop=\"static\" data-bs-keyboard=\"true\" aria-modal=\"true\" style=\"display: block;\">",
+      "page_id": "058cf9df1af878f9",
+      "run_id": "2026-11-10T13-47-28-609Z-9fa4bb",
+      "scanned_at": "2026-11-10T13:50:23.024Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -5570,27 +5692,47 @@
      {
       "url": "https://ncses.nsf.gov/pubs/nsf22300/table/32",
       "target": ".has-children.section-level-2:nth-child(3) > h3",
-      "html": "<h3 class=\"section-header clear-fix group-title\">Doctorate recipients from U.S. colleges and universities</h3>"
+      "html": "<h3 class=\"section-header clear-fix group-title\">Doctorate recipients from U.S. colleges and universities</h3>",
+      "page_id": "03029766b06673ca",
+      "run_id": "2026-11-11T12-58-32-281Z-f74b80",
+      "scanned_at": "2026-11-11T12:59:59.939Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsf22300/table/32",
       "target": "h6",
-      "html": "<h6>Source(s):</h6>"
+      "html": "<h6>Source(s):</h6>",
+      "page_id": "03029766b06673ca",
+      "run_id": "2026-11-11T12-58-32-281Z-f74b80",
+      "scanned_at": "2026-11-11T12:59:59.939Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20196/student-learning-in-mathematics-and-science",
       "target": "#inlineTable1531 > .kns:nth-child(5) > h6",
-      "html": "<h6>Note(s):</h6>"
+      "html": "<h6>Note(s):</h6>",
+      "page_id": "03f84f54d958ef41",
+      "run_id": "2026-11-10T12-54-04-623Z-d60524",
+      "scanned_at": "2026-11-10T12:55:41.547Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20196/student-learning-in-mathematics-and-science",
       "target": "#inlineTable1532 > .kns:nth-child(5) > h6",
-      "html": "<h6>Note(s):</h6>"
+      "html": "<h6>Note(s):</h6>",
+      "page_id": "03f84f54d958ef41",
+      "run_id": "2026-11-10T12-54-04-623Z-d60524",
+      "scanned_at": "2026-11-10T12:55:41.547Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20196/student-learning-in-mathematics-and-science",
       "target": "#inlineTable1533 > .kns:nth-child(5) > h6",
-      "html": "<h6>Note(s):</h6>"
+      "html": "<h6>Note(s):</h6>",
+      "page_id": "03f84f54d958ef41",
+      "run_id": "2026-11-10T12-54-04-623Z-d60524",
+      "scanned_at": "2026-11-10T12:55:41.547Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -5662,27 +5804,47 @@
      {
       "url": "https://ncses.nsf.gov/pubs/nsf22300/table/32",
       "target": ".mr-0",
-      "html": "<img src=\"/resources/assets/images/sed2020/share.svg\" alt=\"Share.\" class=\"mr-0\">"
+      "html": "<img src=\"/resources/assets/images/sed2020/share.svg\" alt=\"Share.\" class=\"mr-0\">",
+      "page_id": "03029766b06673ca",
+      "run_id": "2026-11-11T12-58-32-281Z-f74b80",
+      "scanned_at": "2026-11-11T12:59:59.939Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsf21334",
       "target": ".mr-0",
-      "html": "<img src=\"/resources/assets/images/infv2/share.svg\" alt=\"Share.\" class=\"mr-0\">"
+      "html": "<img src=\"/resources/assets/images/infv2/share.svg\" alt=\"Share.\" class=\"mr-0\">",
+      "page_id": "19a6562e0de61bf2",
+      "run_id": "2026-11-09T14-23-29-446Z-8f2956",
+      "scanned_at": "2026-11-09T14:27:05.016Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsf21330",
       "target": ".mr-0",
-      "html": "<img src=\"/resources/assets/images/one/share.svg\" alt=\"Share.\" class=\"mr-0\">"
+      "html": "<img src=\"/resources/assets/images/one/share.svg\" alt=\"Share.\" class=\"mr-0\">",
+      "page_id": "5c0703abb6797a9a",
+      "run_id": "2026-11-09T11-21-42-186Z-d54ac1",
+      "scanned_at": "2026-11-09T11:26:17.626Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsf21308/report/contact-report-author",
       "target": ".mr-0",
-      "html": "<img src=\"/resources/assets/images/sed2019/share.svg\" alt=\"Share.\" class=\"mr-0\">"
+      "html": "<img src=\"/resources/assets/images/sed2019/share.svg\" alt=\"Share.\" class=\"mr-0\">",
+      "page_id": "6cbe222f6ff2d22b",
+      "run_id": "2026-11-10T17-19-18-206Z-ab3136",
+      "scanned_at": "2026-11-10T17:19:30.152Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsf21335",
       "target": ".mr-0",
-      "html": "<img src=\"/resources/assets/images/infv2/share.svg\" alt=\"Share.\" class=\"mr-0\">"
+      "html": "<img src=\"/resources/assets/images/infv2/share.svg\" alt=\"Share.\" class=\"mr-0\">",
+      "page_id": "7261648e1e0decca",
+      "run_id": "2026-11-10T16-33-19-416Z-60ad5b",
+      "scanned_at": "2026-11-10T16:33:37.158Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -6254,27 +6416,47 @@
      {
       "url": "https://ncses.nsf.gov/pubs/nsf22300/table/32",
       "target": "header > nav",
-      "html": "<nav>"
+      "html": "<nav>",
+      "page_id": "03029766b06673ca",
+      "run_id": "2026-11-11T12-58-32-281Z-f74b80",
+      "scanned_at": "2026-11-11T12:59:59.939Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20196/student-learning-in-mathematics-and-science",
       "target": "#highchart691-0",
-      "html": "<div id=\"highchart691-0\" class=\"highcharts\" data-highcharts-chart=\"0\" aria-hidden=\"false\" role=\"region\" aria-label=\"Chart. Highcharts interactive chart.\" style=\"overflow: hidden;\">"
+      "html": "<div id=\"highchart691-0\" class=\"highcharts\" data-highcharts-chart=\"0\" aria-hidden=\"false\" role=\"region\" aria-label=\"Chart. Highcharts interactive chart.\" style=\"overflow: hidden;\">",
+      "page_id": "03f84f54d958ef41",
+      "run_id": "2026-11-10T12-54-04-623Z-d60524",
+      "scanned_at": "2026-11-10T12:55:41.547Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20196/student-learning-in-mathematics-and-science",
       "target": "#highcharts-fon5icq-0 > .highcharts-a11y-proxy-container-after[aria-hidden=\"false\"] > .highcharts-a11y-proxy-group-legend.highcharts-a11y-proxy-group[role=\"region\"]",
-      "html": "<div class=\"highcharts-a11y-proxy-group highcharts-a11y-proxy-group-legend\" aria-label=\"Toggle series visibility, Chart\" role=\"region\">"
+      "html": "<div class=\"highcharts-a11y-proxy-group highcharts-a11y-proxy-group-legend\" aria-label=\"Toggle series visibility, Chart\" role=\"region\">",
+      "page_id": "03f84f54d958ef41",
+      "run_id": "2026-11-10T12-54-04-623Z-d60524",
+      "scanned_at": "2026-11-10T12:55:41.547Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20196/student-learning-in-mathematics-and-science",
       "target": "#highcharts-fon5icq-168 > .highcharts-root[viewBox=\"0 0 707 400\"][version=\"1.1\"] > .highcharts-series-group[data-z-index=\"3\"][filter=\"none\"] > .highcharts-markers.highcharts-tracker[clip-path=\"none\"]:nth-child(2)",
-      "html": "<g class=\"highcharts-markers h...\" data-z-index=\"0.1\" opacity=\"1\" transform=\"translate(67,10) sca...\" clip-path=\"none\" aria-hidden=\"false\" role=\"region\" tabindex=\"-1\" aria-label=\"Eligible for free or."
+      "html": "<g class=\"highcharts-markers h...\" data-z-index=\"0.1\" opacity=\"1\" transform=\"translate(67,10) sca...\" clip-path=\"none\" aria-hidden=\"false\" role=\"region\" tabindex=\"-1\" aria-label=\"Eligible for free or.",
+      "page_id": "03f84f54d958ef41",
+      "run_id": "2026-11-10T12-54-04-623Z-d60524",
+      "scanned_at": "2026-11-10T12:55:41.547Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20246/table/RD-10",
       "target": "#highchart6893-0",
-      "html": "<div id=\"highchart6893-0\" class=\"highcharts\" data-highcharts-chart=\"0\" aria-hidden=\"false\" role=\"region\" aria-label=\"Chart. Highcharts interactive chart.\" style=\"overflow: hidden;\">"
+      "html": "<div id=\"highchart6893-0\" class=\"highcharts\" data-highcharts-chart=\"0\" aria-hidden=\"false\" role=\"region\" aria-label=\"Chart. Highcharts interactive chart.\" style=\"overflow: hidden;\">",
+      "page_id": "0465944fc85b2399",
+      "run_id": "2026-11-10T15-33-10-982Z-826c1f",
+      "scanned_at": "2026-11-10T15:33:27.362Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -6571,27 +6753,47 @@
      {
       "url": "https://ncses.nsf.gov/pubs/nsf22300/table/32",
       "target": "p > a[rel=\"noopener\"]:nth-child(1)",
-      "html": "<a href=\"https://ncsesdata.nsf.gov/builder/sed\" rel=\"noopener\" tabindex=\"0\">interactive data tool</a>"
+      "html": "<a href=\"https://ncsesdata.nsf.gov/builder/sed\" rel=\"noopener\" tabindex=\"0\">interactive data tool</a>",
+      "page_id": "03029766b06673ca",
+      "run_id": "2026-11-11T12-58-32-281Z-f74b80",
+      "scanned_at": "2026-11-11T12:59:59.939Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsf22300/table/32",
       "target": "p > a[rel=\"noopener\"]:nth-child(2)",
-      "html": "<a href=\"https://ncsesdata.nsf.gov/rdas/\" rel=\"noopener\" tabindex=\"0\">Restricted Data Analysis System</a>"
+      "html": "<a href=\"https://ncsesdata.nsf.gov/rdas/\" rel=\"noopener\" tabindex=\"0\">Restricted Data Analysis System</a>",
+      "page_id": "03029766b06673ca",
+      "run_id": "2026-11-11T12-58-32-281Z-f74b80",
+      "scanned_at": "2026-11-11T12:59:59.939Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsf22319/table/A-18b",
       "target": ".table-link[data-table-modal-id=\"6031\"][data-table-modal-slug=\"nsf22319-taba-001\"]",
-      "html": "<a href=\"#\" class=\"table-link\" data-table-modal-id=\"6031\" data-table-modal-base-url=\"/pubs/nsf22319/\" data-table-modal-slug=\"nsf22319-taba-001\" rel=\"noopener\" tabindex=\"0\">appendix table A-1</a>"
+      "html": "<a href=\"#\" class=\"table-link\" data-table-modal-id=\"6031\" data-table-modal-base-url=\"/pubs/nsf22319/\" data-table-modal-slug=\"nsf22319-taba-001\" rel=\"noopener\" tabindex=\"0\">appendix table A-1</a>",
+      "page_id": "058cf9df1af878f9",
+      "run_id": "2026-11-10T13-47-28-609Z-9fa4bb",
+      "scanned_at": "2026-11-10T13:50:23.024Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsf22319/table/A-18b",
       "target": ".table-link[data-table-modal-id=\"6016\"][data-table-modal-slug=\"nsf22319-taba-005b\"]",
-      "html": "<a href=\"#\" class=\"table-link\" data-table-modal-id=\"6016\" data-table-modal-base-url=\"/pubs/nsf22319/\" data-table-modal-slug=\"nsf22319-taba-005b\" rel=\"noopener\" tabindex=\"0\">appendix table A-5b</a>"
+      "html": "<a href=\"#\" class=\"table-link\" data-table-modal-id=\"6016\" data-table-modal-base-url=\"/pubs/nsf22319/\" data-table-modal-slug=\"nsf22319-taba-005b\" rel=\"noopener\" tabindex=\"0\">appendix table A-5b</a>",
+      "page_id": "058cf9df1af878f9",
+      "run_id": "2026-11-10T13-47-28-609Z-9fa4bb",
+      "scanned_at": "2026-11-10T13:50:23.024Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsf22319/table/A-18b",
       "target": ".jump-link",
-      "html": "<a href=\"#technical-notes-2_survey-quality-measures\" class=\"jump-link section-link\" rel=\"noopener\" tabindex=\"0\">Survey Quality Measures</a>"
+      "html": "<a href=\"#technical-notes-2_survey-quality-measures\" class=\"jump-link section-link\" rel=\"noopener\" tabindex=\"0\">Survey Quality Measures</a>",
+      "page_id": "058cf9df1af878f9",
+      "run_id": "2026-11-10T13-47-28-609Z-9fa4bb",
+      "scanned_at": "2026-11-10T13:50:23.024Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -6960,27 +7162,47 @@
      {
       "url": "https://ncses.nsf.gov/pubs/nsf22300/table/32",
       "target": ".fa-facebook-f",
-      "html": "<span role=\"img\" class=\"fa fa-facebook-f\"><span class=\"sr-only\">Facebook</span></span>"
+      "html": "<span role=\"img\" class=\"fa fa-facebook-f\"><span class=\"sr-only\">Facebook</span></span>",
+      "page_id": "03029766b06673ca",
+      "run_id": "2026-11-11T12-58-32-281Z-f74b80",
+      "scanned_at": "2026-11-11T12:59:59.939Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsf22300/table/32",
       "target": ".fa-x-twitter.fab[role=\"img\"]",
-      "html": "<span role=\"img\" class=\"fab fa fa-x-twitter\"><span class=\"sr-only\">X/Twitter</span></span>"
+      "html": "<span role=\"img\" class=\"fab fa fa-x-twitter\"><span class=\"sr-only\">X/Twitter</span></span>",
+      "page_id": "03029766b06673ca",
+      "run_id": "2026-11-11T12-58-32-281Z-f74b80",
+      "scanned_at": "2026-11-11T12:59:59.939Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsf22300/table/32",
       "target": ".fa-instagram",
-      "html": "<span role=\"img\" class=\"fab fa-instagram\"><span class=\"sr-only\">Instagram</span></span>"
+      "html": "<span role=\"img\" class=\"fab fa-instagram\"><span class=\"sr-only\">Instagram</span></span>",
+      "page_id": "03029766b06673ca",
+      "run_id": "2026-11-11T12-58-32-281Z-f74b80",
+      "scanned_at": "2026-11-11T12:59:59.939Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsf22319/table/A-18b",
       "target": ".st-rss",
-      "html": "<span role=\"img\" class=\"st-rss\"></span>"
+      "html": "<span role=\"img\" class=\"st-rss\"></span>",
+      "page_id": "058cf9df1af878f9",
+      "run_id": "2026-11-10T13-47-28-609Z-9fa4bb",
+      "scanned_at": "2026-11-10T13:50:23.024Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsf22315",
       "target": ".st-rss",
-      "html": "<span role=\"img\" class=\"st-rss\"></span>"
+      "html": "<span role=\"img\" class=\"st-rss\"></span>",
+      "page_id": "0844af6b2744ec5c",
+      "run_id": "2026-11-10T17-19-18-206Z-ab3136",
+      "scanned_at": "2026-11-10T17:23:20.903Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -7538,27 +7760,47 @@
      {
       "url": "https://ncses.nsf.gov/pubs/nsf22300/table/32",
       "target": ".modal-body",
-      "html": "<div class=\"modal-body\">"
+      "html": "<div class=\"modal-body\">",
+      "page_id": "03029766b06673ca",
+      "run_id": "2026-11-11T12-58-32-281Z-f74b80",
+      "scanned_at": "2026-11-11T12:59:59.939Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsf22300/table/32",
       "target": ".table-body",
-      "html": "<div class=\"table-body\">"
+      "html": "<div class=\"table-body\">",
+      "page_id": "03029766b06673ca",
+      "run_id": "2026-11-11T12-58-32-281Z-f74b80",
+      "scanned_at": "2026-11-11T12:59:59.939Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20196/student-learning-in-mathematics-and-science",
       "target": "#genTable1532inline > .table-wrapper.themedTable-inline > .table-body-inline",
-      "html": "<div class=\"table-body-inline\">"
+      "html": "<div class=\"table-body-inline\">",
+      "page_id": "03f84f54d958ef41",
+      "run_id": "2026-11-10T12-54-04-623Z-d60524",
+      "scanned_at": "2026-11-10T12:55:41.547Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20246/table/RD-10",
       "target": "#genTable10942inline > .themedTable-inline.table-wrapper > .table-body-inline",
-      "html": "<div class=\"table-body-inline\">"
+      "html": "<div class=\"table-body-inline\">",
+      "page_id": "0465944fc85b2399",
+      "run_id": "2026-11-10T15-33-10-982Z-826c1f",
+      "scanned_at": "2026-11-10T15:33:27.362Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20246/table/RD-10",
       "target": "#genTable10943inline > .themedTable-inline.table-wrapper > .table-body-inline",
-      "html": "<div class=\"table-body-inline\">"
+      "html": "<div class=\"table-body-inline\">",
+      "page_id": "0465944fc85b2399",
+      "run_id": "2026-11-10T15-33-10-982Z-826c1f",
+      "scanned_at": "2026-11-10T15:33:27.362Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -8223,27 +8465,47 @@
      {
       "url": "https://ncses.nsf.gov/pubs/nsf22300/table/32",
       "target": ".autosize",
-      "html": "<table title=\"Table 32. Median years to doctorate, by sex, citizenship status, ethnicity, race, and broad field of study: 2020\" class=\"autosize modal-table\">"
+      "html": "<table title=\"Table 32. Median years to doctorate, by sex, citizenship status, ethnicity, race, and broad field of study: 2020\" class=\"autosize modal-table\">",
+      "page_id": "03029766b06673ca",
+      "run_id": "2026-11-11T12-58-32-281Z-f74b80",
+      "scanned_at": "2026-11-11T12:59:59.939Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20196/student-learning-in-mathematics-and-science",
       "target": "#genTable1531inline > .table-wrapper.themedTable-inline > .table-body-inline > table",
-      "html": "<table title=\"Table 1-1. Average mathematics and science assessment test scores of children who were in kindergarten for the first time during the 2010–11 school year and in grade 5 during the 2015–16"
+      "html": "<table title=\"Table 1-1. Average mathematics and science assessment test scores of children who were in kindergarten for the first time during the 2010–11 school year and in grade 5 during the 2015–16",
+      "page_id": "03f84f54d958ef41",
+      "run_id": "2026-11-10T12-54-04-623Z-d60524",
+      "scanned_at": "2026-11-10T12:55:41.547Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20196/student-learning-in-mathematics-and-science",
       "target": "#genTable1532inline > .table-wrapper.themedTable-inline > .table-body-inline > table",
-      "html": "<table title=\"Table 1-2. Average scores of students in grade 8 on the NAEP mathematics assessment, by student characteristics: 1990–2017\" class=\"realtable\" style=\"min-width: 200px;\">"
+      "html": "<table title=\"Table 1-2. Average scores of students in grade 8 on the NAEP mathematics assessment, by student characteristics: 1990–2017\" class=\"realtable\" style=\"min-width: 200px;\">",
+      "page_id": "03f84f54d958ef41",
+      "run_id": "2026-11-10T12-54-04-623Z-d60524",
+      "scanned_at": "2026-11-10T12:55:41.547Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20196/student-learning-in-mathematics-and-science",
       "target": "#genTable1533inline > .table-wrapper.themedTable-inline > .table-body-inline > table",
-      "html": "<table title=\"Table 1-3. Average scores of students in grade 8 on the NAEP technology and engineering literacy assessment, by student characteristics: 2014 and 2018\" class=\"realtable\" style=\"min-width"
+      "html": "<table title=\"Table 1-3. Average scores of students in grade 8 on the NAEP technology and engineering literacy assessment, by student characteristics: 2014 and 2018\" class=\"realtable\" style=\"min-width",
+      "page_id": "03f84f54d958ef41",
+      "run_id": "2026-11-10T12-54-04-623Z-d60524",
+      "scanned_at": "2026-11-10T12:55:41.547Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20246/table/RD-10",
       "target": "#genTable10942inline > .themedTable-inline.table-wrapper > .table-body-inline > .realtable.autosize",
-      "html": "<table title=\"Table RD-10. Federal obligations for R&D and R&D plant, by agency: FYs 2008–23\" class=\"autosize realtable\" style=\"min-width: 200px;\">"
+      "html": "<table title=\"Table RD-10. Federal obligations for R&D and R&D plant, by agency: FYs 2008–23\" class=\"autosize realtable\" style=\"min-width: 200px;\">",
+      "page_id": "0465944fc85b2399",
+      "run_id": "2026-11-10T15-33-10-982Z-826c1f",
+      "scanned_at": "2026-11-10T15:33:27.362Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -8672,27 +8934,47 @@
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20196/student-learning-in-mathematics-and-science",
       "target": "#inlineFigure691",
-      "html": "<div class=\"inline-asset-ctr inline-figure collapse in\" id=\"inlineFigure691\" aria-expanded=\"true\">"
+      "html": "<div class=\"inline-asset-ctr inline-figure collapse in\" id=\"inlineFigure691\" aria-expanded=\"true\">",
+      "page_id": "03f84f54d958ef41",
+      "run_id": "2026-11-10T12-54-04-623Z-d60524",
+      "scanned_at": "2026-11-10T12:55:41.547Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20196/student-learning-in-mathematics-and-science",
       "target": "#inlineFigure692",
-      "html": "<div class=\"inline-asset-ctr inline-figure collapse in\" id=\"inlineFigure692\" aria-expanded=\"true\">"
+      "html": "<div class=\"inline-asset-ctr inline-figure collapse in\" id=\"inlineFigure692\" aria-expanded=\"true\">",
+      "page_id": "03f84f54d958ef41",
+      "run_id": "2026-11-10T12-54-04-623Z-d60524",
+      "scanned_at": "2026-11-10T12:55:41.547Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20196/student-learning-in-mathematics-and-science",
       "target": "#inlineTable1531",
-      "html": "<div class=\"inline-asset-ctr collapse in\" id=\"inlineTable1531\" aria-expanded=\"true\">"
+      "html": "<div class=\"inline-asset-ctr collapse in\" id=\"inlineTable1531\" aria-expanded=\"true\">",
+      "page_id": "03f84f54d958ef41",
+      "run_id": "2026-11-10T12-54-04-623Z-d60524",
+      "scanned_at": "2026-11-10T12:55:41.547Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20246/table/RD-10",
       "target": "#inlineTable10942",
-      "html": "<div class=\"inline-asset-ctr collapse in\" id=\"inlineTable10942\" aria-expanded=\"true\">"
+      "html": "<div class=\"inline-asset-ctr collapse in\" id=\"inlineTable10942\" aria-expanded=\"true\">",
+      "page_id": "0465944fc85b2399",
+      "run_id": "2026-11-10T15-33-10-982Z-826c1f",
+      "scanned_at": "2026-11-10T15:33:27.362Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20246/table/RD-10",
       "target": "#inlineTable10943",
-      "html": "<div class=\"inline-asset-ctr collapse in\" id=\"inlineTable10943\" aria-expanded=\"true\">"
+      "html": "<div class=\"inline-asset-ctr collapse in\" id=\"inlineTable10943\" aria-expanded=\"true\">",
+      "page_id": "0465944fc85b2399",
+      "run_id": "2026-11-10T15-33-10-982Z-826c1f",
+      "scanned_at": "2026-11-10T15:33:27.362Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -9089,27 +9371,47 @@
      {
       "url": "https://ncses.nsf.gov/pubs/nsf22319/table/A-18b",
       "target": "ul[aria-label=\"Our data and analysis\"]",
-      "html": "<ul aria-label=\"Our data and analysis\" class=\"ncses-link-column\">"
+      "html": "<ul aria-label=\"Our data and analysis\" class=\"ncses-link-column\">",
+      "page_id": "058cf9df1af878f9",
+      "run_id": "2026-11-10T13-47-28-609Z-9fa4bb",
+      "scanned_at": "2026-11-10T13:50:23.024Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsf22319/table/A-18b",
       "target": "ul[aria-label=\"About\"]",
-      "html": "<ul aria-label=\"About\" class=\"ncses-link-column\">"
+      "html": "<ul aria-label=\"About\" class=\"ncses-link-column\">",
+      "page_id": "058cf9df1af878f9",
+      "run_id": "2026-11-10T13-47-28-609Z-9fa4bb",
+      "scanned_at": "2026-11-10T13:50:23.024Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsf22319/table/A-18b",
       "target": "ul[aria-label=\"Help\"]",
-      "html": "<ul aria-label=\"Help\" class=\"ncses-link-column\">"
+      "html": "<ul aria-label=\"Help\" class=\"ncses-link-column\">",
+      "page_id": "058cf9df1af878f9",
+      "run_id": "2026-11-10T13-47-28-609Z-9fa4bb",
+      "scanned_at": "2026-11-10T13:50:23.024Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsf26312",
       "target": "ul[aria-label=\"Our data and analysis\"]",
-      "html": "<ul aria-label=\"Our data and analysis\" class=\"ncses-link-column\">"
+      "html": "<ul aria-label=\"Our data and analysis\" class=\"ncses-link-column\">",
+      "page_id": "0711e430e3535e7c",
+      "run_id": "2026-11-11T12-00-36-195Z-364810",
+      "scanned_at": "2026-11-11T12:01:46.749Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsf26312",
       "target": "ul[aria-label=\"About\"]",
-      "html": "<ul aria-label=\"About\" class=\"ncses-link-column\">"
+      "html": "<ul aria-label=\"About\" class=\"ncses-link-column\">",
+      "page_id": "0711e430e3535e7c",
+      "run_id": "2026-11-11T12-00-36-195Z-364810",
+      "scanned_at": "2026-11-11T12:01:46.749Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -9357,27 +9659,47 @@
      {
       "url": "https://ncses.nsf.gov/pubs/nsf22315",
       "target": "html",
-      "html": "<html lang=\"en\" class=\" csspositionsticky\">"
+      "html": "<html lang=\"en\" class=\" csspositionsticky\">",
+      "page_id": "0844af6b2744ec5c",
+      "run_id": "2026-11-10T17-19-18-206Z-ab3136",
+      "scanned_at": "2026-11-10T17:23:20.903Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/browse-library",
       "target": "html",
-      "html": "<html lang=\"en\">"
+      "html": "<html lang=\"en\">",
+      "page_id": "12d88bd0b3ee5b91",
+      "run_id": "2026-11-09T13-11-26-829Z-1fe71c",
+      "scanned_at": "2026-11-09T13:15:01.769Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsf21334",
       "target": "html",
-      "html": "<html lang=\"en\" class=\" csspositionsticky\">"
+      "html": "<html lang=\"en\" class=\" csspositionsticky\">",
+      "page_id": "19a6562e0de61bf2",
+      "run_id": "2026-11-09T14-23-29-446Z-8f2956",
+      "scanned_at": "2026-11-09T14:27:05.016Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/search?aois=Research+and+Development+Funding+and+Performance&query=&topics=R%26D+Funding+Agreement+%28contract%2C+grant%2C+reimbursement%2C+etc.%29",
       "target": "html",
-      "html": "<html lang=\"en\">"
+      "html": "<html lang=\"en\">",
+      "page_id": "1b136a53c3fce91a",
+      "run_id": "2026-11-10T17-19-18-206Z-ab3136",
+      "scanned_at": "2026-11-10T17:24:50.203Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsf23325",
       "target": "html",
-      "html": "<html lang=\"en\" class=\" csspositionsticky\">"
+      "html": "<html lang=\"en\" class=\" csspositionsticky\">",
+      "page_id": "1cd93cd137852a86",
+      "run_id": "2026-11-10T16-33-19-416Z-60ad5b",
+      "scanned_at": "2026-11-10T16:35:25.135Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -9446,27 +9768,47 @@
      {
       "url": "https://ncses.nsf.gov/indicators/states/indicator/kti-percent-total-employment",
       "target": ".style_eyebrow__CVvE7",
-      "html": "<div class=\"style_eyebrow__CVvE7 hide-print\">KTI employment / all employment | <span class=\"style_number__KAQXd\">State Indicator S-61</span></div>"
+      "html": "<div class=\"style_eyebrow__CVvE7 hide-print\">KTI employment / all employment | <span class=\"style_number__KAQXd\">State Indicator S-61</span></div>",
+      "page_id": "0aebeabc8a072acc",
+      "run_id": "2026-11-10T15-33-10-982Z-826c1f",
+      "scanned_at": "2026-11-10T15:34:22.934Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsf21334",
       "target": ".gov-title",
-      "html": "<span class=\"gov-title\">GOV</span>"
+      "html": "<span class=\"gov-title\">GOV</span>",
+      "page_id": "19a6562e0de61bf2",
+      "run_id": "2026-11-09T14-23-29-446Z-8f2956",
+      "scanned_at": "2026-11-09T14:27:05.016Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsf21330",
       "target": ".gov-title",
-      "html": "<span class=\"gov-title\">GOV</span>"
+      "html": "<span class=\"gov-title\">GOV</span>",
+      "page_id": "5c0703abb6797a9a",
+      "run_id": "2026-11-09T11-21-42-186Z-d54ac1",
+      "scanned_at": "2026-11-09T11:26:17.626Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsf21335",
       "target": ".gov-title",
-      "html": "<span class=\"gov-title\">GOV</span>"
+      "html": "<span class=\"gov-title\">GOV</span>",
+      "page_id": "7261648e1e0decca",
+      "run_id": "2026-11-10T16-33-19-416Z-60ad5b",
+      "scanned_at": "2026-11-10T16:33:37.158Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/indicators/states/indicator/fedrdobligations-to-occupation-se_acs",
       "target": ".style_eyebrow__CVvE7",
-      "html": "<div class=\"style_eyebrow__CVvE7 hide-print\">Federal R&amp;D obligations/individual in S&amp;E occupation | <span class=\"style_number__KAQXd\">State Indicator S-74</span></div>"
+      "html": "<div class=\"style_eyebrow__CVvE7 hide-print\">Federal R&amp;D obligations/individual in S&amp;E occupation | <span class=\"style_number__KAQXd\">State Indicator S-74</span></div>",
+      "page_id": "8a58f51802272cdf",
+      "run_id": "2026-11-10T17-19-18-206Z-ab3136",
+      "scanned_at": "2026-11-10T17:23:27.752Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -9497,27 +9839,47 @@
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20262",
       "target": "div[aria-label=\"Tables listing\"] > .table-body[role=\"rowgroup\"] > .table-row[data-asset-id=\"17197\"][data-base-uri=\"/pubs/nsb20262/\"] > a[data-table-modal-id=\"17197\"][data-table-modal-slug=\"nsb20262-tabstrn-001\"][data-table-modal-base-url=\"/pubs/nsb20262/\"]",
-      "html": "<a href=\"#\" class=\"title medium\" role=\"cell\" data-table-modal-id=\"17197\" data-table-modal-base-url=\"/pubs/nsb20262/\" data-table-modal-slug=\"nsb20262-tabstrn-001\" rel=\"noopener\" tabindex=\"0\">"
+      "html": "<a href=\"#\" class=\"title medium\" role=\"cell\" data-table-modal-id=\"17197\" data-table-modal-base-url=\"/pubs/nsb20262/\" data-table-modal-slug=\"nsb20262-tabstrn-001\" rel=\"noopener\" tabindex=\"0\">",
+      "page_id": "1325636c823879a0",
+      "run_id": "2026-11-09T14-23-29-446Z-8f2956",
+      "scanned_at": "2026-11-09T14:23:40.144Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20262",
       "target": "div[aria-label=\"Tables listing\"] > .table-body[role=\"rowgroup\"] > .table-row[data-asset-id=\"17217\"][data-base-uri=\"/pubs/nsb20262/\"] > a[data-table-modal-id=\"17217\"][data-table-modal-slug=\"nsb20262-tabstrn-002\"][data-table-modal-base-url=\"/pubs/nsb20262/\"]",
-      "html": "<a href=\"#\" class=\"title medium\" role=\"cell\" data-table-modal-id=\"17217\" data-table-modal-base-url=\"/pubs/nsb20262/\" data-table-modal-slug=\"nsb20262-tabstrn-002\" rel=\"noopener\" tabindex=\"0\">Contributi"
+      "html": "<a href=\"#\" class=\"title medium\" role=\"cell\" data-table-modal-id=\"17217\" data-table-modal-base-url=\"/pubs/nsb20262/\" data-table-modal-slug=\"nsb20262-tabstrn-002\" rel=\"noopener\" tabindex=\"0\">Contributi",
+      "page_id": "1325636c823879a0",
+      "run_id": "2026-11-09T14-23-29-446Z-8f2956",
+      "scanned_at": "2026-11-09T14:23:40.144Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20262",
       "target": "div[aria-label=\"Tables listing\"] > .table-body[role=\"rowgroup\"] > .table-row[data-asset-id=\"17237\"][data-base-uri=\"/pubs/nsb20262/\"] > a[data-table-modal-id=\"17237\"][data-table-modal-slug=\"nsb20262-tabstrn-003\"][data-table-modal-base-url=\"/pubs/nsb20262/\"]",
-      "html": "<a href=\"#\" class=\"title medium\" role=\"cell\" data-table-modal-id=\"17237\" data-table-modal-base-url=\"/pubs/nsb20262/\" data-table-modal-slug=\"nsb20262-tabstrn-003\" rel=\"noopener\" tabindex=\"0\">Annual eco"
+      "html": "<a href=\"#\" class=\"title medium\" role=\"cell\" data-table-modal-id=\"17237\" data-table-modal-base-url=\"/pubs/nsb20262/\" data-table-modal-slug=\"nsb20262-tabstrn-003\" rel=\"noopener\" tabindex=\"0\">Annual eco",
+      "page_id": "1325636c823879a0",
+      "run_id": "2026-11-09T14-23-29-446Z-8f2956",
+      "scanned_at": "2026-11-09T14:23:40.144Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20257",
       "target": "div[aria-label=\"Tables listing\"] > .table-body[role=\"rowgroup\"] > .table-row[data-asset-id=\"13937\"][data-base-uri=\"/pubs/nsb20257/\"] > a[data-table-modal-id=\"13937\"][data-table-modal-slug=\"nsb20257-tabsdisc-001\"][data-table-modal-base-url=\"/pubs/nsb20257/\"]",
-      "html": "<a href=\"#\" class=\"title medium\" role=\"cell\" data-table-modal-id=\"13937\" data-table-modal-base-url=\"/pubs/nsb20257/\" data-table-modal-slug=\"nsb20257-tabsdisc-001\" rel=\"noopener\" tabindex=\"0\">Federal a"
+      "html": "<a href=\"#\" class=\"title medium\" role=\"cell\" data-table-modal-id=\"13937\" data-table-modal-base-url=\"/pubs/nsb20257/\" data-table-modal-slug=\"nsb20257-tabsdisc-001\" rel=\"noopener\" tabindex=\"0\">Federal a",
+      "page_id": "4e870677a5640072",
+      "run_id": "2026-11-09T11-21-42-186Z-d54ac1",
+      "scanned_at": "2026-11-09T11:23:02.882Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20257",
       "target": "div[aria-label=\"Tables listing\"] > .table-body[role=\"rowgroup\"] > .table-row[data-asset-id=\"13938\"][data-base-uri=\"/pubs/nsb20257/\"] > a[data-table-modal-id=\"13938\"][data-table-modal-slug=\"nsb20257-tabsdisc-002\"][data-table-modal-base-url=\"/pubs/nsb20257/\"]",
-      "html": "<a href=\"#\" class=\"title medium\" role=\"cell\" data-table-modal-id=\"13938\" data-table-modal-base-url=\"/pubs/nsb20257/\" data-table-modal-slug=\"nsb20257-tabsdisc-002\" rel=\"noopener\" tabindex=\"0\">Higher ed"
+      "html": "<a href=\"#\" class=\"title medium\" role=\"cell\" data-table-modal-id=\"13938\" data-table-modal-base-url=\"/pubs/nsb20257/\" data-table-modal-slug=\"nsb20257-tabsdisc-002\" rel=\"noopener\" tabindex=\"0\">Higher ed",
+      "page_id": "4e870677a5640072",
+      "run_id": "2026-11-09T11-21-42-186Z-d54ac1",
+      "scanned_at": "2026-11-09T11:23:02.882Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -9566,27 +9928,47 @@
      {
       "url": "https://ncses.nsf.gov/pubs/nsf21334",
       "target": "li[role=\"menuitem\"]:nth-child(1)",
-      "html": "<li role=\"menuitem\"><a href=\"/about\" target=\"_blank\" rel=\"noopener noreferrer\" tabindex=\"0\">About NCSES</a></li>"
+      "html": "<li role=\"menuitem\"><a href=\"/about\" target=\"_blank\" rel=\"noopener noreferrer\" tabindex=\"0\">About NCSES</a></li>",
+      "page_id": "19a6562e0de61bf2",
+      "run_id": "2026-11-09T14-23-29-446Z-8f2956",
+      "scanned_at": "2026-11-09T14:27:05.016Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsf21334",
       "target": "li[role=\"menuitem\"]:nth-child(2)",
-      "html": "<li role=\"menuitem\"><a href=\"/explore-data\" target=\"_blank\" rel=\"noopener noreferrer\" tabindex=\"0\">Data</a></li>"
+      "html": "<li role=\"menuitem\"><a href=\"/explore-data\" target=\"_blank\" rel=\"noopener noreferrer\" tabindex=\"0\">Data</a></li>",
+      "page_id": "19a6562e0de61bf2",
+      "run_id": "2026-11-09T14-23-29-446Z-8f2956",
+      "scanned_at": "2026-11-09T14:27:05.016Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsf21334",
       "target": "li[role=\"menuitem\"]:nth-child(3)",
-      "html": "<li role=\"menuitem\"><a href=\"/surveys-analysis\" target=\"_blank\" rel=\"noopener noreferrer\" tabindex=\"0\">Publications</a></li>"
+      "html": "<li role=\"menuitem\"><a href=\"/surveys-analysis\" target=\"_blank\" rel=\"noopener noreferrer\" tabindex=\"0\">Publications</a></li>",
+      "page_id": "19a6562e0de61bf2",
+      "run_id": "2026-11-09T14-23-29-446Z-8f2956",
+      "scanned_at": "2026-11-09T14:27:05.016Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsf26315/downloads",
       "target": "a[href=\"/pubs/nsf26315/\"]",
-      "html": "<a role=\"menuitem\" href=\"/pubs/nsf26315/\" tabindex=\"0\" data-link-text=\"Home\" aria-label=\"Home\" rel=\"noopener\">Home</a>"
+      "html": "<a role=\"menuitem\" href=\"/pubs/nsf26315/\" tabindex=\"0\" data-link-text=\"Home\" aria-label=\"Home\" rel=\"noopener\">Home</a>",
+      "page_id": "4392166765983c01",
+      "run_id": "2026-11-10T16-33-19-416Z-60ad5b",
+      "scanned_at": "2026-11-10T16:34:39.640Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsf26315/downloads",
       "target": "a[href$=\"report\"]",
-      "html": "<a role=\"menuitem\" href=\"/pubs/nsf26315/report\" tabindex=\"0\" data-link-text=\"Report\" aria-label=\"Report\" rel=\"noopener\">Report</a>"
+      "html": "<a role=\"menuitem\" href=\"/pubs/nsf26315/report\" tabindex=\"0\" data-link-text=\"Report\" aria-label=\"Report\" rel=\"noopener\">Report</a>",
+      "page_id": "4392166765983c01",
+      "run_id": "2026-11-10T16-33-19-416Z-60ad5b",
+      "scanned_at": "2026-11-10T16:34:39.640Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -9622,17 +10004,29 @@
      {
       "url": "https://ncses.nsf.gov/pubs/nsf21334",
       "target": "input[type=\"text\"]",
-      "html": "<input type=\"text\" placeholder=\"Search\" name=\"query\" title=\"search\">"
+      "html": "<input type=\"text\" placeholder=\"Search\" name=\"query\" title=\"search\">",
+      "page_id": "19a6562e0de61bf2",
+      "run_id": "2026-11-09T14-23-29-446Z-8f2956",
+      "scanned_at": "2026-11-09T14:27:05.016Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsf21330",
       "target": "input[type=\"text\"]",
-      "html": "<input type=\"text\" placeholder=\"Search\" name=\"query\" title=\"search\">"
+      "html": "<input type=\"text\" placeholder=\"Search\" name=\"query\" title=\"search\">",
+      "page_id": "5c0703abb6797a9a",
+      "run_id": "2026-11-09T11-21-42-186Z-d54ac1",
+      "scanned_at": "2026-11-09T11:26:17.626Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsf21335",
       "target": "input[type=\"text\"]",
-      "html": "<input type=\"text\" placeholder=\"Search\" name=\"query\" title=\"search\">"
+      "html": "<input type=\"text\" placeholder=\"Search\" name=\"query\" title=\"search\">",
+      "page_id": "7261648e1e0decca",
+      "run_id": "2026-11-10T16-33-19-416Z-60ad5b",
+      "scanned_at": "2026-11-10T16:33:37.158Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -9761,27 +10155,47 @@
      {
       "url": "https://ncses.nsf.gov/surveys/earned-doctorates/2023",
       "target": "dl",
-      "html": "<dl class=\"contact-definitions row\">"
+      "html": "<dl class=\"contact-definitions row\">",
+      "page_id": "1de509068538445f",
+      "run_id": "2026-11-09T11-21-42-186Z-d54ac1",
+      "scanned_at": "2026-11-09T11:25:53.799Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/surveys/higher-education-research-development/2021",
       "target": "dl",
-      "html": "<dl class=\"contact-definitions row\">"
+      "html": "<dl class=\"contact-definitions row\">",
+      "page_id": "32a066a81cf1adec",
+      "run_id": "2026-11-10T15-33-10-982Z-826c1f",
+      "scanned_at": "2026-11-10T15:34:17.735Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/surveys/business-enterprise-research-development/2021",
       "target": "dl",
-      "html": "<dl class=\"contact-definitions row\">"
+      "html": "<dl class=\"contact-definitions row\">",
+      "page_id": "3687704600fe761a",
+      "run_id": "2026-11-09T14-23-29-446Z-8f2956",
+      "scanned_at": "2026-11-09T14:28:29.239Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/surveys/nonprofit-research-activities/2020",
       "target": "dl",
-      "html": "<dl class=\"contact-definitions row\">"
+      "html": "<dl class=\"contact-definitions row\">",
+      "page_id": "3dac2c4db48d4f97",
+      "run_id": "2026-11-10T11-01-24-537Z-850575",
+      "scanned_at": "2026-11-10T11:06:33.094Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/surveys/nonprofit-research-activities/2023",
       "target": "dl",
-      "html": "<dl class=\"contact-definitions row\">"
+      "html": "<dl class=\"contact-definitions row\">",
+      "page_id": "563da354ff0b7722",
+      "run_id": "2026-11-10T15-33-10-982Z-826c1f",
+      "scanned_at": "2026-11-10T15:36:41.672Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -9910,27 +10324,47 @@
      {
       "url": "https://ncses.nsf.gov/surveys/earned-doctorates/2023",
       "target": ".contact-name",
-      "html": "<dt class=\"contact-name\"></dt>"
+      "html": "<dt class=\"contact-name\"></dt>",
+      "page_id": "1de509068538445f",
+      "run_id": "2026-11-09T11-21-42-186Z-d54ac1",
+      "scanned_at": "2026-11-09T11:25:53.799Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/surveys/earned-doctorates/2023",
       "target": ".col-md-6.col-12:nth-child(2) > dt:nth-child(1)",
-      "html": "<dt>Phone</dt>"
+      "html": "<dt>Phone</dt>",
+      "page_id": "1de509068538445f",
+      "run_id": "2026-11-09T11-21-42-186Z-d54ac1",
+      "scanned_at": "2026-11-09T11:25:53.799Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/surveys/earned-doctorates/2023",
       "target": ".contact-phone",
-      "html": "<dd class=\"contact-phone\">(703) 292-8780</dd>"
+      "html": "<dd class=\"contact-phone\">(703) 292-8780</dd>",
+      "page_id": "1de509068538445f",
+      "run_id": "2026-11-09T11-21-42-186Z-d54ac1",
+      "scanned_at": "2026-11-09T11:25:53.799Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/surveys/higher-education-research-development/2021",
       "target": ".contact-name",
-      "html": "<dt class=\"contact-name\"></dt>"
+      "html": "<dt class=\"contact-name\"></dt>",
+      "page_id": "32a066a81cf1adec",
+      "run_id": "2026-11-10T15-33-10-982Z-826c1f",
+      "scanned_at": "2026-11-10T15:34:17.735Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/surveys/higher-education-research-development/2021",
       "target": ".col-md-6.col-12:nth-child(2) > dt:nth-child(1)",
-      "html": "<dt>Phone</dt>"
+      "html": "<dt>Phone</dt>",
+      "page_id": "32a066a81cf1adec",
+      "run_id": "2026-11-10T15-33-10-982Z-826c1f",
+      "scanned_at": "2026-11-10T15:34:17.735Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -9956,17 +10390,29 @@
      {
       "url": "https://ncses.nsf.gov/resource/library",
       "target": "#card790 > .card-body > h2:nth-child(1)",
-      "html": "<h2 class=\"card-title\"></h2>"
+      "html": "<h2 class=\"card-title\"></h2>",
+      "page_id": "2fe8ae5b064937af",
+      "run_id": "2026-11-10T17-19-18-206Z-ab3136",
+      "scanned_at": "2026-11-10T17:19:55.795Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/resource/library",
       "target": "#card2226 > .card-body > h2",
-      "html": "<h2 class=\"card-title\"></h2>"
+      "html": "<h2 class=\"card-title\"></h2>",
+      "page_id": "2fe8ae5b064937af",
+      "run_id": "2026-11-10T17-19-18-206Z-ab3136",
+      "scanned_at": "2026-11-10T17:19:55.795Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/resource/library",
       "target": "#card1225 > .card-body > h2",
-      "html": "<h2 class=\"card-title\"></h2>"
+      "html": "<h2 class=\"card-title\"></h2>",
+      "page_id": "2fe8ae5b064937af",
+      "run_id": "2026-11-10T17-19-18-206Z-ab3136",
+      "scanned_at": "2026-11-10T17:19:55.795Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -10011,27 +10457,47 @@
      {
       "url": "https://ncses.nsf.gov/pubs/nsf19304/technical-notes/sampling-and-nonsampling-errors",
       "target": "#full-section2278",
-      "html": "<ul id=\"full-section2278\" class=\"primary-list in\" role=\"tablist\">"
+      "html": "<ul id=\"full-section2278\" class=\"primary-list in\" role=\"tablist\">",
+      "page_id": "5005d8f7231d4ab7",
+      "run_id": "2026-11-10T11-01-24-537Z-850575",
+      "scanned_at": "2026-11-10T11:02:35.075Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/surveys/earned-doctorates/2022",
       "target": ".nav",
-      "html": "<ul class=\"nav nav-tabs\" role=\"tablist\">"
+      "html": "<ul class=\"nav nav-tabs\" role=\"tablist\">",
+      "page_id": "8434875262c414f4",
+      "run_id": "2026-11-10T17-19-18-206Z-ab3136",
+      "scanned_at": "2026-11-10T17:22:27.998Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsf19301/report/patterns-of-interstate-mobility-what-are-the-demographic-and-field-of-study-trends",
       "target": "#sed-menu-full",
-      "html": "<ul id=\"sed-menu-full\" class=\"collapse in\" role=\"tablist\">"
+      "html": "<ul id=\"sed-menu-full\" class=\"collapse in\" role=\"tablist\">",
+      "page_id": "85b694d66012e1f0",
+      "run_id": "2026-11-09T19-02-49-010Z-653612",
+      "scanned_at": "2026-11-09T19:11:13.038Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/data-collections/sestat",
       "target": ".nav",
-      "html": "<ul class=\"nav nav-tabs\" role=\"tablist\">"
+      "html": "<ul class=\"nav nav-tabs\" role=\"tablist\">",
+      "page_id": "a41e8c2cae1c2b94",
+      "run_id": "2026-11-10T17-19-18-206Z-ab3136",
+      "scanned_at": "2026-11-10T17:22:36.470Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsf19301/report/contact-report-author",
       "target": "#sed-menu-full",
-      "html": "<ul id=\"sed-menu-full\" class=\"collapse in\" role=\"tablist\">"
+      "html": "<ul id=\"sed-menu-full\" class=\"collapse in\" role=\"tablist\">",
+      "page_id": "dafc2789b204985e",
+      "run_id": "2026-11-12T10-56-10-959Z-8ad3c8",
+      "scanned_at": "2026-11-12T11:01:22.210Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -10068,27 +10534,47 @@
      {
       "url": "https://ncses.nsf.gov/pubs/nsf19304/technical-notes/sampling-and-nonsampling-errors",
       "target": "#full-item2279",
-      "html": "<li id=\"full-item2279\" class=\"expandedli level3\">"
+      "html": "<li id=\"full-item2279\" class=\"expandedli level3\">",
+      "page_id": "5005d8f7231d4ab7",
+      "run_id": "2026-11-10T11-01-24-537Z-850575",
+      "scanned_at": "2026-11-10T11:02:35.075Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsf19304/technical-notes/sampling-and-nonsampling-errors",
       "target": "#full-item2283",
-      "html": "<li id=\"full-item2283\" class=\"level3\">\n\t\t\t\t<a tabindex=\"0\" href=\"#information-about-people-with-disabilities\" rel=\"noopener\">Information about People with Disabilities</a>\n\t\t\t\t<ul id=\"full-section2283"
+      "html": "<li id=\"full-item2283\" class=\"level3\">\n\t\t\t\t<a tabindex=\"0\" href=\"#information-about-people-with-disabilities\" rel=\"noopener\">Information about People with Disabilities</a>\n\t\t\t\t<ul id=\"full-section2283",
+      "page_id": "5005d8f7231d4ab7",
+      "run_id": "2026-11-10T11-01-24-537Z-850575",
+      "scanned_at": "2026-11-10T11:02:35.075Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsf19304/technical-notes/sampling-and-nonsampling-errors",
       "target": "#full-item2284",
-      "html": "<li id=\"full-item2284\" class=\"level3\">"
+      "html": "<li id=\"full-item2284\" class=\"level3\">",
+      "page_id": "5005d8f7231d4ab7",
+      "run_id": "2026-11-10T11-01-24-537Z-850575",
+      "scanned_at": "2026-11-10T11:02:35.075Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsf19301/report/patterns-of-interstate-mobility-what-are-the-demographic-and-field-of-study-trends",
       "target": "#sed-menu-full > .really-active",
-      "html": "<li class=\"really-active\">"
+      "html": "<li class=\"really-active\">",
+      "page_id": "85b694d66012e1f0",
+      "run_id": "2026-11-09T19-02-49-010Z-653612",
+      "scanned_at": "2026-11-09T19:11:13.038Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsf19301/report/patterns-of-interstate-mobility-what-are-the-demographic-and-field-of-study-trends",
       "target": "#sed-menu-full > li:nth-child(2)",
-      "html": "<li>\n\t\t\t\t<div> <div> <a tabindex=\"0\" href=\"/pubs/nsf19301/data\" rel=\"noopener\">DATA</a>\n\t\t\t\t\t</div> </div> </li>"
+      "html": "<li>\n\t\t\t\t<div> <div> <a tabindex=\"0\" href=\"/pubs/nsf19301/data\" rel=\"noopener\">DATA</a>\n\t\t\t\t\t</div> </div> </li>",
+      "page_id": "85b694d66012e1f0",
+      "run_id": "2026-11-09T19-02-49-010Z-653612",
+      "scanned_at": "2026-11-09T19:11:13.038Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -10120,12 +10606,20 @@
      {
       "url": "https://ncses.nsf.gov/pubs/nsf23345",
       "target": ".d-md-block > a[aria-label=\"Download PDF\"][role=\"button\"][rel=\"noopener\"] > img[src=\"/files/getPdfImage/927\"]",
-      "html": "<img src=\"/files/getPdfImage/927\">"
+      "html": "<img src=\"/files/getPdfImage/927\">",
+      "page_id": "d5209444cc338e0f",
+      "run_id": "2026-11-11T12-00-36-195Z-364810",
+      "scanned_at": "2026-11-11T12:03:07.472Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/ncses24211",
       "target": ".d-md-block > a[aria-label=\"Download PDF\"][role=\"button\"][rel=\"noopener\"] > img[src=\"/files/getPdfImage/2259\"]",
-      "html": "<img src=\"/files/getPdfImage/2259\">"
+      "html": "<img src=\"/files/getPdfImage/2259\">",
+      "page_id": "ff7580b1965cef14",
+      "run_id": "2026-11-10T16-33-19-416Z-60ad5b",
+      "scanned_at": "2026-11-10T16:33:42.891Z",
+      "engine_version": "4.14.0"
      }
     ]
    }
@@ -10135,7 +10629,10 @@
   "failedTotal": 55515,
   "pagesWithFailures": 157,
   "pagesScanned": 157,
+  "skippedPages": 0,
+  "skipped": [],
   "medianFailures": 213,
+  "element_evidence": null,
   "rules": {
    "sia-r90": {
     "count": 1189,
@@ -10476,27 +10973,47 @@
      {
       "url": "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-99",
       "target": "<li role=\"tab\" id=\"li17299\" class=\"l1\">",
-      "html": null
+      "html": null,
+      "page_id": "04a7c8188c8f368c",
+      "run_id": "2026-11-10T12-54-04-623Z-d60524",
+      "scanned_at": "2026-11-10T12:57:44.560Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-99",
       "target": "<li role=\"tab\" id=\"li17240\" class=\"l1\">",
-      "html": null
+      "html": null,
+      "page_id": "04a7c8188c8f368c",
+      "run_id": "2026-11-10T12-54-04-623Z-d60524",
+      "scanned_at": "2026-11-10T12:57:44.560Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-99",
       "target": "<li role=\"tab\" id=\"li17242\" class=\"l1\">",
-      "html": null
+      "html": null,
+      "page_id": "04a7c8188c8f368c",
+      "run_id": "2026-11-10T12-54-04-623Z-d60524",
+      "scanned_at": "2026-11-10T12:57:44.560Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20206/publication-output-by-region-country-or-economy",
       "target": "<li role=\"tab\" id=\"li3115\" class=\"l1\">",
-      "html": null
+      "html": null,
+      "page_id": "05d9b75baa15d81f",
+      "run_id": "2026-11-09T13-11-26-829Z-1fe71c",
+      "scanned_at": "2026-11-09T13:16:13.208Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20206/publication-output-by-region-country-or-economy",
       "target": "<li role=\"tab\" id=\"li3116\" class=\"l1\">",
-      "html": null
+      "html": null,
+      "page_id": "05d9b75baa15d81f",
+      "run_id": "2026-11-09T13-11-26-829Z-1fe71c",
+      "scanned_at": "2026-11-09T13:16:13.208Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -11139,27 +11656,47 @@
      {
       "url": "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-99",
       "target": "text: \"Here’s how you know\"",
-      "html": null
+      "html": null,
+      "page_id": "04a7c8188c8f368c",
+      "run_id": "2026-11-10T12-54-04-623Z-d60524",
+      "scanned_at": "2026-11-10T12:57:44.560Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-99",
       "target": "text: \"SCIENCE & ENGINEERING INDICATORS\"",
-      "html": null
+      "html": null,
+      "page_id": "04a7c8188c8f368c",
+      "run_id": "2026-11-10T12-54-04-623Z-d60524",
+      "scanned_at": "2026-11-10T12:57:44.560Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-99",
       "target": "text: \"Supplemental\"",
-      "html": null
+      "html": null,
+      "page_id": "04a7c8188c8f368c",
+      "run_id": "2026-11-10T12-54-04-623Z-d60524",
+      "scanned_at": "2026-11-10T12:57:44.560Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20206/publication-output-by-region-country-or-economy",
       "target": "text: \"Here’s how you know\"",
-      "html": null
+      "html": null,
+      "page_id": "05d9b75baa15d81f",
+      "run_id": "2026-11-09T13-11-26-829Z-1fe71c",
+      "scanned_at": "2026-11-09T13:16:13.208Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20206/publication-output-by-region-country-or-economy",
       "target": "text: \"SCIENCE & ENGINEERING INDICATORS\"",
-      "html": null
+      "html": null,
+      "page_id": "05d9b75baa15d81f",
+      "run_id": "2026-11-09T13-11-26-829Z-1fe71c",
+      "scanned_at": "2026-11-09T13:16:13.208Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -11770,27 +12307,47 @@
      {
       "url": "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-99",
       "target": "<h3>",
-      "html": null
+      "html": null,
+      "page_id": "04a7c8188c8f368c",
+      "run_id": "2026-11-10T12-54-04-623Z-d60524",
+      "scanned_at": "2026-11-10T12:57:44.560Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-99",
       "target": "<h6>",
-      "html": null
+      "html": null,
+      "page_id": "04a7c8188c8f368c",
+      "run_id": "2026-11-10T12-54-04-623Z-d60524",
+      "scanned_at": "2026-11-10T12:57:44.560Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20206/publication-output-by-region-country-or-economy",
       "target": "<h2 id=\"publication-output-by-region-country-or-economy\">",
-      "html": null
+      "html": null,
+      "page_id": "05d9b75baa15d81f",
+      "run_id": "2026-11-09T13-11-26-829Z-1fe71c",
+      "scanned_at": "2026-11-09T13:16:13.208Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20206/publication-output-by-region-country-or-economy",
       "target": "<h4 class=\"inline-asset-title\">",
-      "html": null
+      "html": null,
+      "page_id": "05d9b75baa15d81f",
+      "run_id": "2026-11-09T13-11-26-829Z-1fe71c",
+      "scanned_at": "2026-11-09T13:16:13.208Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20206/publication-output-by-region-country-or-economy",
       "target": "<h6>",
-      "html": null
+      "html": null,
+      "page_id": "05d9b75baa15d81f",
+      "run_id": "2026-11-09T13-11-26-829Z-1fe71c",
+      "scanned_at": "2026-11-09T13:16:13.208Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -12325,27 +12882,47 @@
      {
       "url": "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-99",
       "target": "<p>",
-      "html": null
+      "html": null,
+      "page_id": "04a7c8188c8f368c",
+      "run_id": "2026-11-10T12-54-04-623Z-d60524",
+      "scanned_at": "2026-11-10T12:57:44.560Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20206/publication-output-by-region-country-or-economy",
       "target": "<p>",
-      "html": null
+      "html": null,
+      "page_id": "05d9b75baa15d81f",
+      "run_id": "2026-11-09T13-11-26-829Z-1fe71c",
+      "scanned_at": "2026-11-09T13:16:13.208Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20246/figure/RD-9",
       "target": "<p>",
-      "html": null
+      "html": null,
+      "page_id": "084b94ec94d10187",
+      "run_id": "2026-11-10T15-33-10-982Z-826c1f",
+      "scanned_at": "2026-11-10T15:34:04.838Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20204/data/table/S8-1",
       "target": "<p>",
-      "html": null
+      "html": null,
+      "page_id": "08b73285fe179544",
+      "run_id": "2026-11-09T19-02-49-010Z-653612",
+      "scanned_at": "2026-11-09T19:03:13.554Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsf21318/table/2-1",
       "target": "<p>",
-      "html": null
+      "html": null,
+      "page_id": "0c06fb6f1e722a42",
+      "run_id": "2026-11-12T10-56-10-959Z-8ad3c8",
+      "scanned_at": "2026-11-12T11:00:49.115Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -12880,27 +13457,47 @@
      {
       "url": "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-99",
       "target": "<p>",
-      "html": null
+      "html": null,
+      "page_id": "04a7c8188c8f368c",
+      "run_id": "2026-11-10T12-54-04-623Z-d60524",
+      "scanned_at": "2026-11-10T12:57:44.560Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20206/publication-output-by-region-country-or-economy",
       "target": "<p>",
-      "html": null
+      "html": null,
+      "page_id": "05d9b75baa15d81f",
+      "run_id": "2026-11-09T13-11-26-829Z-1fe71c",
+      "scanned_at": "2026-11-09T13:16:13.208Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20246/figure/RD-9",
       "target": "<p>",
-      "html": null
+      "html": null,
+      "page_id": "084b94ec94d10187",
+      "run_id": "2026-11-10T15-33-10-982Z-826c1f",
+      "scanned_at": "2026-11-10T15:34:04.838Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20204/data/table/S8-1",
       "target": "<p>",
-      "html": null
+      "html": null,
+      "page_id": "08b73285fe179544",
+      "run_id": "2026-11-09T19-02-49-010Z-653612",
+      "scanned_at": "2026-11-09T19:03:13.554Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsf21318/table/2-1",
       "target": "<p>",
-      "html": null
+      "html": null,
+      "page_id": "0c06fb6f1e722a42",
+      "run_id": "2026-11-12T10-56-10-959Z-8ad3c8",
+      "scanned_at": "2026-11-12T11:00:49.115Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -13547,27 +14144,47 @@
      {
       "url": "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-99",
       "target": "<p>",
-      "html": null
+      "html": null,
+      "page_id": "04a7c8188c8f368c",
+      "run_id": "2026-11-10T12-54-04-623Z-d60524",
+      "scanned_at": "2026-11-10T12:57:44.560Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-99",
       "target": "<p>",
-      "html": null
+      "html": null,
+      "page_id": "04a7c8188c8f368c",
+      "run_id": "2026-11-10T12-54-04-623Z-d60524",
+      "scanned_at": "2026-11-10T12:57:44.560Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-99",
       "target": "<p>",
-      "html": null
+      "html": null,
+      "page_id": "04a7c8188c8f368c",
+      "run_id": "2026-11-10T12-54-04-623Z-d60524",
+      "scanned_at": "2026-11-10T12:57:44.560Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20206/publication-output-by-region-country-or-economy",
       "target": "<p>",
-      "html": null
+      "html": null,
+      "page_id": "05d9b75baa15d81f",
+      "run_id": "2026-11-09T13-11-26-829Z-1fe71c",
+      "scanned_at": "2026-11-09T13:16:13.208Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20206/publication-output-by-region-country-or-economy",
       "target": "<p>",
-      "html": null
+      "html": null,
+      "page_id": "05d9b75baa15d81f",
+      "run_id": "2026-11-09T13-11-26-829Z-1fe71c",
+      "scanned_at": "2026-11-09T13:16:13.208Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -13970,27 +14587,47 @@
      {
       "url": "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-99",
       "target": "<tfoot>",
-      "html": null
+      "html": null,
+      "page_id": "04a7c8188c8f368c",
+      "run_id": "2026-11-10T12-54-04-623Z-d60524",
+      "scanned_at": "2026-11-10T12:57:44.560Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20206/publication-output-by-region-country-or-economy",
       "target": "<tfoot>",
-      "html": null
+      "html": null,
+      "page_id": "05d9b75baa15d81f",
+      "run_id": "2026-11-09T13-11-26-829Z-1fe71c",
+      "scanned_at": "2026-11-09T13:16:13.208Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20246/figure/RD-9",
       "target": "<tfoot>",
-      "html": null
+      "html": null,
+      "page_id": "084b94ec94d10187",
+      "run_id": "2026-11-10T15-33-10-982Z-826c1f",
+      "scanned_at": "2026-11-10T15:34:04.838Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20246/figure/RD-9",
       "target": "<tfoot>",
-      "html": null
+      "html": null,
+      "page_id": "084b94ec94d10187",
+      "run_id": "2026-11-10T15-33-10-982Z-826c1f",
+      "scanned_at": "2026-11-10T15:34:04.838Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20204/data/table/S8-1",
       "target": "<tfoot>",
-      "html": null
+      "html": null,
+      "page_id": "08b73285fe179544",
+      "run_id": "2026-11-09T19-02-49-010Z-653612",
+      "scanned_at": "2026-11-09T19:03:13.554Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -14553,27 +15190,47 @@
      {
       "url": "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-99",
       "target": "<a href=\"https://ncses.nsf.gov/about/contact\" aria-label=\"N C S E S Contact Page\" rel=\"noopener\" tabindex=\"0\">",
-      "html": null
+      "html": null,
+      "page_id": "04a7c8188c8f368c",
+      "run_id": "2026-11-10T12-54-04-623Z-d60524",
+      "scanned_at": "2026-11-10T12:57:44.560Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20206/publication-output-by-region-country-or-economy",
       "target": "<a href=\"https://ncses.nsf.gov/about/contact\" aria-label=\"N C S E S Contact Page\" rel=\"noopener\" tabindex=\"0\">",
-      "html": null
+      "html": null,
+      "page_id": "05d9b75baa15d81f",
+      "run_id": "2026-11-09T13-11-26-829Z-1fe71c",
+      "scanned_at": "2026-11-09T13:16:13.208Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20246/figure/RD-9",
       "target": "<a href=\"https://ncses.nsf.gov/about/contact\" aria-label=\"N C S E S Contact Page\" rel=\"noopener\" tabindex=\"0\">",
-      "html": null
+      "html": null,
+      "page_id": "084b94ec94d10187",
+      "run_id": "2026-11-10T15-33-10-982Z-826c1f",
+      "scanned_at": "2026-11-10T15:34:04.838Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20204/data/table/S8-1",
       "target": "<a href=\"https://ncses.nsf.gov/about/contact\" aria-label=\"N C S E S Contact Page\" rel=\"noopener\" tabindex=\"0\">",
-      "html": null
+      "html": null,
+      "page_id": "08b73285fe179544",
+      "run_id": "2026-11-09T19-02-49-010Z-653612",
+      "scanned_at": "2026-11-09T19:03:13.554Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsf21318/table/2-1",
       "target": "<a href=\"/about/contact\" aria-label=\"N C S E S contact page\" rel=\"noopener\" tabindex=\"0\">",
-      "html": null
+      "html": null,
+      "page_id": "0c06fb6f1e722a42",
+      "run_id": "2026-11-12T10-56-10-959Z-8ad3c8",
+      "scanned_at": "2026-11-12T11:00:49.115Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -15184,27 +15841,47 @@
      {
       "url": "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-99",
       "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
-      "html": null
+      "html": null,
+      "page_id": "04a7c8188c8f368c",
+      "run_id": "2026-11-10T12-54-04-623Z-d60524",
+      "scanned_at": "2026-11-10T12:57:44.560Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20206/publication-output-by-region-country-or-economy",
       "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
-      "html": null
+      "html": null,
+      "page_id": "05d9b75baa15d81f",
+      "run_id": "2026-11-09T13-11-26-829Z-1fe71c",
+      "scanned_at": "2026-11-09T13:16:13.208Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20246/figure/RD-9",
       "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
-      "html": null
+      "html": null,
+      "page_id": "084b94ec94d10187",
+      "run_id": "2026-11-10T15-33-10-982Z-826c1f",
+      "scanned_at": "2026-11-10T15:34:04.838Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20204/data/table/S8-1",
       "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
-      "html": null
+      "html": null,
+      "page_id": "08b73285fe179544",
+      "run_id": "2026-11-09T19-02-49-010Z-653612",
+      "scanned_at": "2026-11-09T19:03:13.554Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsf21318/table/2-1",
       "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
-      "html": null
+      "html": null,
+      "page_id": "0c06fb6f1e722a42",
+      "run_id": "2026-11-12T10-56-10-959Z-8ad3c8",
+      "scanned_at": "2026-11-12T11:00:49.115Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -15551,27 +16228,47 @@
      {
       "url": "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-99",
       "target": "@headers=\"col0-0-modal10067 rowTH0-modal10067 rowTH600-modal10067 rowTH601-modal10067 rowTH602-modal10067\"",
-      "html": null
+      "html": null,
+      "page_id": "04a7c8188c8f368c",
+      "run_id": "2026-11-10T12-54-04-623Z-d60524",
+      "scanned_at": "2026-11-10T12:57:44.560Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-99",
       "target": "@headers=\"col0-0-modal10067 rowTH0-modal10067 rowTH900-modal10067 rowTH901-modal10067 rowTH902-modal10067\"",
-      "html": null
+      "html": null,
+      "page_id": "04a7c8188c8f368c",
+      "run_id": "2026-11-10T12-54-04-623Z-d60524",
+      "scanned_at": "2026-11-10T12:57:44.560Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-99",
       "target": "@headers=\"col0-0-modal10067 col1-0-modal10067 col2-0-modal10067 col3-0-modal10067 col4-0-modal10067 col5-0-modal10067 col6-0-modal10067 col7-0-modal10067 col8-0-modal10067 col9-0-modal10067 col10-0-mo",
-      "html": null
+      "html": null,
+      "page_id": "04a7c8188c8f368c",
+      "run_id": "2026-11-10T12-54-04-623Z-d60524",
+      "scanned_at": "2026-11-10T12:57:44.560Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20206/publication-output-by-region-country-or-economy",
       "target": "@headers=\"col0-0-inline1811 rowTH0-inline1811\"",
-      "html": null
+      "html": null,
+      "page_id": "05d9b75baa15d81f",
+      "run_id": "2026-11-09T13-11-26-829Z-1fe71c",
+      "scanned_at": "2026-11-09T13:16:13.208Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20206/publication-output-by-region-country-or-economy",
       "target": "@headers=\"col0-0-inline1811 rowTH1-inline1811\"",
-      "html": null
+      "html": null,
+      "page_id": "05d9b75baa15d81f",
+      "run_id": "2026-11-09T13-11-26-829Z-1fe71c",
+      "scanned_at": "2026-11-09T13:16:13.208Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -16182,27 +16879,47 @@
      {
       "url": "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-99",
       "target": "<div role=\"heading\" id=\"gov-banner-header\">",
-      "html": null
+      "html": null,
+      "page_id": "04a7c8188c8f368c",
+      "run_id": "2026-11-10T12-54-04-623Z-d60524",
+      "scanned_at": "2026-11-10T12:57:44.560Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20206/publication-output-by-region-country-or-economy",
       "target": "<div role=\"heading\" id=\"gov-banner-header\">",
-      "html": null
+      "html": null,
+      "page_id": "05d9b75baa15d81f",
+      "run_id": "2026-11-09T13-11-26-829Z-1fe71c",
+      "scanned_at": "2026-11-09T13:16:13.208Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20246/figure/RD-9",
       "target": "<div role=\"heading\" id=\"gov-banner-header\">",
-      "html": null
+      "html": null,
+      "page_id": "084b94ec94d10187",
+      "run_id": "2026-11-10T15-33-10-982Z-826c1f",
+      "scanned_at": "2026-11-10T15:34:04.838Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20204/data/table/S8-1",
       "target": "<div role=\"heading\" id=\"gov-banner-header\">",
-      "html": null
+      "html": null,
+      "page_id": "08b73285fe179544",
+      "run_id": "2026-11-09T19-02-49-010Z-653612",
+      "scanned_at": "2026-11-09T19:03:13.554Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsf21318/table/2-1",
       "target": "<div role=\"heading\" id=\"gov-banner-header\">",
-      "html": null
+      "html": null,
+      "page_id": "0c06fb6f1e722a42",
+      "run_id": "2026-11-12T10-56-10-959Z-8ad3c8",
+      "scanned_at": "2026-11-12T11:00:49.115Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -16849,27 +17566,47 @@
      {
       "url": "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-99",
       "target": "<a href=\"/pubs/nsb202333/data#table-block\" class=\"data-link l2link\" data-toggle=\"collapse\" data-target=\"#table-block\">",
-      "html": null
+      "html": null,
+      "page_id": "04a7c8188c8f368c",
+      "run_id": "2026-11-10T12-54-04-623Z-d60524",
+      "scanned_at": "2026-11-10T12:57:44.560Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-99",
       "target": "<a href=\"/pubs/nsb202333/data#figure-block\" class=\"data-link l2link\" data-toggle=\"collapse\" data-target=\"#figure-block\">",
-      "html": null
+      "html": null,
+      "page_id": "04a7c8188c8f368c",
+      "run_id": "2026-11-10T12-54-04-623Z-d60524",
+      "scanned_at": "2026-11-10T12:57:44.560Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-99",
       "target": "<a href=\"/pubs/nsb202333/data#source-block\" class=\"data-link l2link\" rel=\"noopener\" tabindex=\"0\">",
-      "html": null
+      "html": null,
+      "page_id": "04a7c8188c8f368c",
+      "run_id": "2026-11-10T12-54-04-623Z-d60524",
+      "scanned_at": "2026-11-10T12:57:44.560Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20206/publication-output-by-region-country-or-economy",
       "target": "<a href=\"/indicators\" tabindex=\"0\" rel=\"noopener\">",
-      "html": null
+      "html": null,
+      "page_id": "05d9b75baa15d81f",
+      "run_id": "2026-11-09T13-11-26-829Z-1fe71c",
+      "scanned_at": "2026-11-09T13:16:13.208Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20206/publication-output-by-region-country-or-economy",
       "target": "<a href=\"/indicators/reports\" tabindex=\"0\" rel=\"noopener\">",
-      "html": null
+      "html": null,
+      "page_id": "05d9b75baa15d81f",
+      "run_id": "2026-11-09T13-11-26-829Z-1fe71c",
+      "scanned_at": "2026-11-09T13:16:13.208Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -17196,27 +17933,47 @@
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20206/publication-output-by-region-country-or-economy",
       "target": "<a href=\"#\" class=\"table-link\" data-table-modal-id=\"1819\" data-table-modal-base-url=\"/pubs/nsb20206/\">",
-      "html": null
+      "html": null,
+      "page_id": "05d9b75baa15d81f",
+      "run_id": "2026-11-09T13-11-26-829Z-1fe71c",
+      "scanned_at": "2026-11-09T13:16:13.208Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20206/publication-output-by-region-country-or-economy",
       "target": "<a href=\"#\" class=\"table-link\" data-table-modal-id=\"1811\" data-table-modal-base-url=\"/pubs/nsb20206/\">",
-      "html": null
+      "html": null,
+      "page_id": "05d9b75baa15d81f",
+      "run_id": "2026-11-09T13-11-26-829Z-1fe71c",
+      "scanned_at": "2026-11-09T13:16:13.208Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20206/publication-output-by-region-country-or-economy",
       "target": "<a href=\"#\" class=\"table-link\" data-table-modal-id=\"1819\" data-table-modal-base-url=\"/pubs/nsb20206/\">",
-      "html": null
+      "html": null,
+      "page_id": "05d9b75baa15d81f",
+      "run_id": "2026-11-09T13-11-26-829Z-1fe71c",
+      "scanned_at": "2026-11-09T13:16:13.208Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20246/figure/RD-9",
       "target": "<a href=\"#\" class=\"table-link\" data-table-modal-id=\"10937\" data-table-modal-base-url=\"/pubs/nsb20246/\">",
-      "html": null
+      "html": null,
+      "page_id": "084b94ec94d10187",
+      "run_id": "2026-11-10T15-33-10-982Z-826c1f",
+      "scanned_at": "2026-11-10T15:34:04.838Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20246/figure/RD-9",
       "target": "<a href=\"#\" class=\"table-link\" data-table-modal-id=\"10978\" data-table-modal-base-url=\"/pubs/nsb20246/\">",
-      "html": null
+      "html": null,
+      "page_id": "084b94ec94d10187",
+      "run_id": "2026-11-10T15-33-10-982Z-826c1f",
+      "scanned_at": "2026-11-10T15:34:04.838Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -17387,27 +18144,47 @@
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20246/figure/RD-9",
       "target": "<button class=\"highcharts-a11y-proxy-element\" tabindex=\"-1\" aria-pressed=\"true\" aria-label=\"Show United States\">",
-      "html": null
+      "html": null,
+      "page_id": "084b94ec94d10187",
+      "run_id": "2026-11-10T15-33-10-982Z-826c1f",
+      "scanned_at": "2026-11-10T15:34:04.838Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20246/figure/RD-9",
       "target": "<button class=\"highcharts-a11y-proxy-element\" tabindex=\"-1\" aria-pressed=\"true\" aria-label=\"Show EU-27\">",
-      "html": null
+      "html": null,
+      "page_id": "084b94ec94d10187",
+      "run_id": "2026-11-10T15-33-10-982Z-826c1f",
+      "scanned_at": "2026-11-10T15:34:04.838Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20246/figure/RD-9",
       "target": "<button class=\"highcharts-a11y-proxy-element\" tabindex=\"-1\" aria-pressed=\"true\" aria-label=\"Show France\">",
-      "html": null
+      "html": null,
+      "page_id": "084b94ec94d10187",
+      "run_id": "2026-11-10T15-33-10-982Z-826c1f",
+      "scanned_at": "2026-11-10T15:34:04.838Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20203/recent-trends-in-u-s-r-d-performance",
       "target": "<button class=\"highcharts-a11y-proxy-element\" tabindex=\"-1\" aria-pressed=\"true\" aria-label=\"Show U.S. total R&D\">",
-      "html": null
+      "html": null,
+      "page_id": "12431d42b8ec5212",
+      "run_id": "2026-11-09T19-02-49-010Z-653612",
+      "scanned_at": "2026-11-09T19:07:11.310Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20203/recent-trends-in-u-s-r-d-performance",
       "target": "<button class=\"highcharts-a11y-proxy-element\" tabindex=\"-1\" aria-pressed=\"true\" aria-label=\"Show Business\">",
-      "html": null
+      "html": null,
+      "page_id": "12431d42b8ec5212",
+      "run_id": "2026-11-09T19-02-49-010Z-653612",
+      "scanned_at": "2026-11-09T19:07:11.310Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -17470,27 +18247,47 @@
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20204/data/table/S8-1",
       "target": "<a tabindex=\"0\" href=\"#\" class=\"action arrow\" title=\"Previous Table.\">",
-      "html": null
+      "html": null,
+      "page_id": "08b73285fe179544",
+      "run_id": "2026-11-09T19-02-49-010Z-653612",
+      "scanned_at": "2026-11-09T19:03:13.554Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20204/data/table/S8-1",
       "target": "<a tabindex=\"0\" href=\"#\" class=\"action arrow\" title=\"Next Table.\">",
-      "html": null
+      "html": null,
+      "page_id": "08b73285fe179544",
+      "run_id": "2026-11-09T19-02-49-010Z-653612",
+      "scanned_at": "2026-11-09T19:03:13.554Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20204/beyond-patents-trademarks-and-plant-varieties",
       "target": "<a tabindex=\"0\" href=\"#\" class=\"action arrow\" title=\"Previous Figure.\">",
-      "html": null
+      "html": null,
+      "page_id": "42366790206b9452",
+      "run_id": "2026-11-09T20-07-54-845Z-b50a59",
+      "scanned_at": "2026-11-09T20:09:33.283Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20204/beyond-patents-trademarks-and-plant-varieties",
       "target": "<a tabindex=\"0\" href=\"#\" class=\"action arrow\" title=\"Next Figure.\">",
-      "html": null
+      "html": null,
+      "page_id": "42366790206b9452",
+      "run_id": "2026-11-09T20-07-54-845Z-b50a59",
+      "scanned_at": "2026-11-09T20:09:33.283Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20261",
       "target": "<span data-z-index=\"1\" style=\"position: absolute; font-family: \"Open Sans\", sans-serif; font-size: 0.7em; white-space: nowrap; color: rgb(196, 235, 241); font-weight: bold; margin-left: 0px; margin-to",
-      "html": null
+      "html": null,
+      "page_id": "8025a17a75046587",
+      "run_id": "2026-11-09T19-02-49-010Z-653612",
+      "scanned_at": "2026-11-09T19:04:17.467Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -17533,27 +18330,47 @@
      {
       "url": "https://ncses.nsf.gov/indicators/states/indicator/kti-percent-total-employment",
       "target": "text: \"KTI employment / all employment | \"",
-      "html": null
+      "html": null,
+      "page_id": "0aebeabc8a072acc",
+      "run_id": "2026-11-10T15-33-10-982Z-826c1f",
+      "scanned_at": "2026-11-10T15:34:22.934Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsf21334",
       "target": "text: \"GOV\"",
-      "html": null
+      "html": null,
+      "page_id": "19a6562e0de61bf2",
+      "run_id": "2026-11-09T14-23-29-446Z-8f2956",
+      "scanned_at": "2026-11-09T14:27:05.016Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/indicators/states/indicator/venture-capital-per-1-million-state-gdp",
       "target": "text: \"Venture capital/$1 million GDP | \"",
-      "html": null
+      "html": null,
+      "page_id": "9a9d93f297277043",
+      "run_id": "2026-11-09T11-21-42-186Z-d54ac1",
+      "scanned_at": "2026-11-09T11:26:00.089Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20205/production-patterns-and-trends-of-knowledge-and-technology-intensive-industries",
       "target": "text: \"The Skilled Technical Workforce in U.S. Knowledge- and Technology-Intensive Industries\"",
-      "html": null
+      "html": null,
+      "page_id": "b1f749728611e58f",
+      "run_id": "2026-11-11T17-29-07-707Z-b4c45b",
+      "scanned_at": "2026-11-11T17:29:50.849Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20205/production-patterns-and-trends-of-knowledge-and-technology-intensive-industries",
       "target": "text: \"China’s Progress in Supercomputers\"",
-      "html": null
+      "html": null,
+      "page_id": "b1f749728611e58f",
+      "run_id": "2026-11-11T17-29-07-707Z-b4c45b",
+      "scanned_at": "2026-11-11T17:29:50.849Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -17768,27 +18585,47 @@
      {
       "url": "https://ncses.nsf.gov/pubs/nsf21318/table/2-1",
       "target": "<span role=\"img\" class=\"st-rss\">",
-      "html": null
+      "html": null,
+      "page_id": "0c06fb6f1e722a42",
+      "run_id": "2026-11-12T10-56-10-959Z-8ad3c8",
+      "scanned_at": "2026-11-12T11:00:49.115Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsf22326/table/1-B",
       "target": "<span role=\"img\" class=\"st-rss\">",
-      "html": null
+      "html": null,
+      "page_id": "12d35ef2a0fbb087",
+      "run_id": "2026-11-11T10-46-19-801Z-92d570",
+      "scanned_at": "2026-11-11T10:48:39.028Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/browse-library",
       "target": "<span role=\"img\" class=\"st-rss\">",
-      "html": null
+      "html": null,
+      "page_id": "12d88bd0b3ee5b91",
+      "run_id": "2026-11-09T13-11-26-829Z-1fe71c",
+      "scanned_at": "2026-11-09T13:15:01.769Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/search?aois=Research+and+Development+Funding+and+Performance&query=&topics=R%26D+Funding+Agreement+%28contract%2C+grant%2C+reimbursement%2C+etc.%29",
       "target": "<span role=\"img\" class=\"st-rss\">",
-      "html": null
+      "html": null,
+      "page_id": "1b136a53c3fce91a",
+      "run_id": "2026-11-10T17-19-18-206Z-ab3136",
+      "scanned_at": "2026-11-10T17:24:50.203Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsf23325",
       "target": "<span role=\"img\" class=\"st-rss\">",
-      "html": null
+      "html": null,
+      "page_id": "1cd93cd137852a86",
+      "run_id": "2026-11-10T16-33-19-416Z-60ad5b",
+      "scanned_at": "2026-11-10T16:35:25.135Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -17871,27 +18708,47 @@
      {
       "url": "https://ncses.nsf.gov/pubs/nsf21318/table/2-1",
       "target": "<th id=\"tableView\" width=\"55\" style=\"text-align:center\">",
-      "html": null
+      "html": null,
+      "page_id": "0c06fb6f1e722a42",
+      "run_id": "2026-11-12T10-56-10-959Z-8ad3c8",
+      "scanned_at": "2026-11-12T11:00:49.115Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsf21318/table/2-1",
       "target": "<th id=\"tableExcel\" width=\"55\" style=\"text-align:center\">",
-      "html": null
+      "html": null,
+      "page_id": "0c06fb6f1e722a42",
+      "run_id": "2026-11-12T10-56-10-959Z-8ad3c8",
+      "scanned_at": "2026-11-12T11:00:49.115Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsf21318/table/2-1",
       "target": "<th id=\"tablePDF\" width=\"55\" style=\"text-align:center\">",
-      "html": null
+      "html": null,
+      "page_id": "0c06fb6f1e722a42",
+      "run_id": "2026-11-12T10-56-10-959Z-8ad3c8",
+      "scanned_at": "2026-11-12T11:00:49.115Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20203/recent-trends-in-u-s-r-d-performance",
       "target": "<th id=\"rowTH0-inline1871\" colspan=\"9\" rowspan=\"1\" headers=\"col0-0-inline1871 col1-0-inline1871 col2-0-inline1871 col3-0-inline1871 col4-0-inline1871 col5-0-inline1871 col6-0-inline1871 col7-0-inline1",
-      "html": null
+      "html": null,
+      "page_id": "12431d42b8ec5212",
+      "run_id": "2026-11-09T19-02-49-010Z-653612",
+      "scanned_at": "2026-11-09T19:07:11.310Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20203/recent-trends-in-u-s-r-d-performance",
       "target": "<th id=\"rowTH15-inline1871\" colspan=\"9\" rowspan=\"1\" headers=\"col0-0-inline1871 col1-0-inline1871 col2-0-inline1871 col3-0-inline1871 col4-0-inline1871 col5-0-inline1871 col6-0-inline1871 col7-0-inline",
-      "html": null
+      "html": null,
+      "page_id": "12431d42b8ec5212",
+      "run_id": "2026-11-09T19-02-49-010Z-653612",
+      "scanned_at": "2026-11-09T19:07:11.310Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -18122,27 +18979,47 @@
      {
       "url": "https://ncses.nsf.gov/pubs/nsf21318/table/2-1",
       "target": "text: \"Data Table\"",
-      "html": null
+      "html": null,
+      "page_id": "0c06fb6f1e722a42",
+      "run_id": "2026-11-12T10-56-10-959Z-8ad3c8",
+      "scanned_at": "2026-11-12T11:00:49.115Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsf21318/table/2-1",
       "target": "text: \"Open/close all tables and charts.\"",
-      "html": null
+      "html": null,
+      "page_id": "0c06fb6f1e722a42",
+      "run_id": "2026-11-12T10-56-10-959Z-8ad3c8",
+      "scanned_at": "2026-11-12T11:00:49.115Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsf21318/table/2-1",
       "target": "text: \"Download assets.\"",
-      "html": null
+      "html": null,
+      "page_id": "0c06fb6f1e722a42",
+      "run_id": "2026-11-12T10-56-10-959Z-8ad3c8",
+      "scanned_at": "2026-11-12T11:00:49.115Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsf22326/table/1-B",
       "target": "text: \"Data Table\"",
-      "html": null
+      "html": null,
+      "page_id": "12d35ef2a0fbb087",
+      "run_id": "2026-11-11T10-46-19-801Z-92d570",
+      "scanned_at": "2026-11-11T10:48:39.028Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsf22326/table/1-B",
       "target": "text: \"Open/close all tables and charts.\"",
-      "html": null
+      "html": null,
+      "page_id": "12d35ef2a0fbb087",
+      "run_id": "2026-11-11T10-46-19-801Z-92d570",
+      "scanned_at": "2026-11-11T10:48:39.028Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -18181,27 +19058,47 @@
      {
       "url": "https://ncses.nsf.gov/pubs/nsf21334",
       "target": "<li role=\"menuitem\">",
-      "html": null
+      "html": null,
+      "page_id": "19a6562e0de61bf2",
+      "run_id": "2026-11-09T14-23-29-446Z-8f2956",
+      "scanned_at": "2026-11-09T14:27:05.016Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsf21334",
       "target": "<li role=\"menuitem\">",
-      "html": null
+      "html": null,
+      "page_id": "19a6562e0de61bf2",
+      "run_id": "2026-11-09T14-23-29-446Z-8f2956",
+      "scanned_at": "2026-11-09T14:27:05.016Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsf21334",
       "target": "<li role=\"menuitem\">",
-      "html": null
+      "html": null,
+      "page_id": "19a6562e0de61bf2",
+      "run_id": "2026-11-09T14-23-29-446Z-8f2956",
+      "scanned_at": "2026-11-09T14:27:05.016Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsf26315/downloads",
       "target": "<a role=\"menuitem\" href=\"/pubs/nsf26315/\" tabindex=\"0\" data-link-text=\"Home\">",
-      "html": null
+      "html": null,
+      "page_id": "4392166765983c01",
+      "run_id": "2026-11-10T16-33-19-416Z-60ad5b",
+      "scanned_at": "2026-11-10T16:34:39.640Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsf26315/downloads",
       "target": "<a role=\"menuitem\" href=\"/pubs/nsf26315/report\" tabindex=\"0\" data-link-text=\"Report\">",
-      "html": null
+      "html": null,
+      "page_id": "4392166765983c01",
+      "run_id": "2026-11-10T16-33-19-416Z-60ad5b",
+      "scanned_at": "2026-11-10T16:34:39.640Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -18227,22 +19124,38 @@
      {
       "url": "https://ncses.nsf.gov/resource/library",
       "target": "<h2 class=\"card-title\">",
-      "html": null
+      "html": null,
+      "page_id": "2fe8ae5b064937af",
+      "run_id": "2026-11-10T17-19-18-206Z-ab3136",
+      "scanned_at": "2026-11-10T17:19:55.795Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/resource/library",
       "target": "<h2 class=\"card-title\">",
-      "html": null
+      "html": null,
+      "page_id": "2fe8ae5b064937af",
+      "run_id": "2026-11-10T17-19-18-206Z-ab3136",
+      "scanned_at": "2026-11-10T17:19:55.795Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/resource/library",
       "target": "<h2 class=\"card-title\">",
-      "html": null
+      "html": null,
+      "page_id": "2fe8ae5b064937af",
+      "run_id": "2026-11-10T17-19-18-206Z-ab3136",
+      "scanned_at": "2026-11-10T17:19:55.795Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pubs/nsf19301/report/patterns-of-interstate-mobility-what-are-the-demographic-and-field-of-study-trends",
       "target": "<h2 class=\"tab-header col-sm-4 nopad\">",
-      "html": null
+      "html": null,
+      "page_id": "85b694d66012e1f0",
+      "run_id": "2026-11-09T19-02-49-010Z-653612",
+      "scanned_at": "2026-11-09T19:11:13.038Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -18263,17 +19176,29 @@
      {
       "url": "https://ncses.nsf.gov/resource/library",
       "target": "<h2 class=\"card-title\">",
-      "html": null
+      "html": null,
+      "page_id": "2fe8ae5b064937af",
+      "run_id": "2026-11-10T17-19-18-206Z-ab3136",
+      "scanned_at": "2026-11-10T17:19:55.795Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/resource/library",
       "target": "<h2 class=\"card-title\">",
-      "html": null
+      "html": null,
+      "page_id": "2fe8ae5b064937af",
+      "run_id": "2026-11-10T17-19-18-206Z-ab3136",
+      "scanned_at": "2026-11-10T17:19:55.795Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/resource/library",
       "target": "<h2 class=\"card-title\">",
-      "html": null
+      "html": null,
+      "page_id": "2fe8ae5b064937af",
+      "run_id": "2026-11-10T17-19-18-206Z-ab3136",
+      "scanned_at": "2026-11-10T17:19:55.795Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -18294,7 +19219,11 @@
      {
       "url": "https://ncses.nsf.gov/pubs/nsb20257",
       "target": "@aria-label=\"Download all supplemental tables zip file\"",
-      "html": null
+      "html": null,
+      "page_id": "4e870677a5640072",
+      "run_id": "2026-11-09T11-21-42-186Z-d54ac1",
+      "scanned_at": "2026-11-09T11:23:02.882Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -18333,27 +19262,47 @@
      {
       "url": "https://ncses.nsf.gov/pow?redirect=%2Fsearch%3Faois%3DInnovation%2Band%2BGlobal%2BCompetitiveness%26query%3D%26topics%3DProduct%2B%2526%2BBusiness%2BProcess%2BInnovation",
       "target": "<p class=\"result-pub-title\">",
-      "html": null
+      "html": null,
+      "page_id": "61fde5626ac20d0f",
+      "run_id": "2026-11-10T11-01-24-537Z-850575",
+      "scanned_at": "2026-11-10T11:08:55.738Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pow?redirect=%2Fsearch%3Faois%3DInnovation%2Band%2BGlobal%2BCompetitiveness%26query%3D%26topics%3DProduct%2B%2526%2BBusiness%2BProcess%2BInnovation",
       "target": "<p class=\"result-pub-title\">",
-      "html": null
+      "html": null,
+      "page_id": "61fde5626ac20d0f",
+      "run_id": "2026-11-10T11-01-24-537Z-850575",
+      "scanned_at": "2026-11-10T11:08:55.738Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/pow?redirect=%2Fsearch%3Faois%3DInnovation%2Band%2BGlobal%2BCompetitiveness%26query%3D%26topics%3DProduct%2B%2526%2BBusiness%2BProcess%2BInnovation",
       "target": "<p class=\"result-pub-title\">",
-      "html": null
+      "html": null,
+      "page_id": "61fde5626ac20d0f",
+      "run_id": "2026-11-10T11-01-24-537Z-850575",
+      "scanned_at": "2026-11-10T11:08:55.738Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Institutions",
       "target": "<p class=\"result-pub-title\">",
-      "html": null
+      "html": null,
+      "page_id": "6d47645c3614e423",
+      "run_id": "2026-11-11T12-58-32-281Z-f74b80",
+      "scanned_at": "2026-11-11T12:59:29.396Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Institutions",
       "target": "<p class=\"result-pub-title\">",
-      "html": null
+      "html": null,
+      "page_id": "6d47645c3614e423",
+      "run_id": "2026-11-11T12-58-32-281Z-f74b80",
+      "scanned_at": "2026-11-11T12:59:29.396Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -18374,7 +19323,11 @@
      {
       "url": "https://ncses.nsf.gov/pubs/ncses25221",
       "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
-      "html": null
+      "html": null,
+      "page_id": "6564ac102eccb055",
+      "run_id": "2026-11-09T20-07-54-845Z-b50a59",
+      "scanned_at": "2026-11-09T20:10:33.297Z",
+      "engine_version": "0.117.0"
      }
     ]
    }
@@ -18784,6 +19737,16 @@
    }
   }
  },
+ "regions": {
+  "basis": "stored_examples",
+  "findings_total": 51,
+  "findings_with_region": 0,
+  "findings_unclassified": 0,
+  "findings_without_evidence": 51,
+  "regions": [],
+  "csv": "ncses.nsf.gov_09NOV2026_regions.csv"
+ },
+ "widgetGroups": null,
  "sustainability": {
   "pages": 37,
   "medianBytes": 5434514,
@@ -110227,26 +111190,6 @@
   "pwaSignals": [],
   "recommendations": [
    {
-    "id": "unused-css-rules",
-    "category": "performance",
-    "title": "Reduce unused CSS",
-    "pages": 30,
-    "examplePages": [
-     "https://ncses.nsf.gov/pubs/nsb20206/publication-output-by-region-country-or-economy",
-     "https://ncses.nsf.gov/pubs/nsb20204/innovation-indicators-united-states-and-other-major-economies",
-     "https://ncses.nsf.gov/pubs/nsb20198/supplemental-tables",
-     "https://ncses.nsf.gov/pubs/nsf24300/report/executive-summary",
-     "https://ncses.nsf.gov/pubs/nsb20223/table/SHED-2",
-     "https://ncses.nsf.gov/pubs/nsb20224/table/SINV-71",
-     "https://ncses.nsf.gov/surveys/nonprofit-research-activities/2020",
-     "https://ncses.nsf.gov/indicators/states/compare-indicators/state-student-aid-expenditures-per-full-time-undergraduate-student",
-     "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-71",
-     "https://ncses.nsf.gov/pubs/nsb202333/international-collaboration-and-citations"
-    ],
-    "savingsBytes": 39768472,
-    "savingsMs": 204000
-   },
-   {
     "id": "unused-javascript",
     "category": "performance",
     "title": "Reduce unused JavaScript",
@@ -110264,12 +111207,16 @@
      "https://ncses.nsf.gov/pubs/nsb202333/international-collaboration-and-citations"
     ],
     "savingsBytes": 40456551,
-    "savingsMs": 179350
+    "savingsMs": 179350,
+    "savingsBytesMedian": 1361267,
+    "savingsBytesP75": 1467160,
+    "savingsMsMedian": 5875,
+    "savingsMsP75": 6600
    },
    {
-    "id": "first-contentful-paint",
+    "id": "unused-css-rules",
     "category": "performance",
-    "title": "First Contentful Paint",
+    "title": "Reduce unused CSS",
     "pages": 30,
     "examplePages": [
      "https://ncses.nsf.gov/pubs/nsb20206/publication-output-by-region-country-or-economy",
@@ -110283,68 +111230,12 @@
      "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-71",
      "https://ncses.nsf.gov/pubs/nsb202333/international-collaboration-and-citations"
     ],
-    "savingsBytes": 0,
-    "savingsMs": 0
-   },
-   {
-    "id": "largest-contentful-paint",
-    "category": "performance",
-    "title": "Largest Contentful Paint",
-    "pages": 30,
-    "examplePages": [
-     "https://ncses.nsf.gov/pubs/nsb20206/publication-output-by-region-country-or-economy",
-     "https://ncses.nsf.gov/pubs/nsb20204/innovation-indicators-united-states-and-other-major-economies",
-     "https://ncses.nsf.gov/pubs/nsb20198/supplemental-tables",
-     "https://ncses.nsf.gov/pubs/nsf24300/report/executive-summary",
-     "https://ncses.nsf.gov/pubs/nsb20223/table/SHED-2",
-     "https://ncses.nsf.gov/pubs/nsb20224/table/SINV-71",
-     "https://ncses.nsf.gov/surveys/nonprofit-research-activities/2020",
-     "https://ncses.nsf.gov/indicators/states/compare-indicators/state-student-aid-expenditures-per-full-time-undergraduate-student",
-     "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-71",
-     "https://ncses.nsf.gov/pubs/nsb202333/international-collaboration-and-citations"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 0
-   },
-   {
-    "id": "speed-index",
-    "category": "performance",
-    "title": "Speed Index",
-    "pages": 30,
-    "examplePages": [
-     "https://ncses.nsf.gov/pubs/nsb20206/publication-output-by-region-country-or-economy",
-     "https://ncses.nsf.gov/pubs/nsb20204/innovation-indicators-united-states-and-other-major-economies",
-     "https://ncses.nsf.gov/pubs/nsb20198/supplemental-tables",
-     "https://ncses.nsf.gov/pubs/nsf24300/report/executive-summary",
-     "https://ncses.nsf.gov/pubs/nsb20223/table/SHED-2",
-     "https://ncses.nsf.gov/pubs/nsb20224/table/SINV-71",
-     "https://ncses.nsf.gov/surveys/nonprofit-research-activities/2020",
-     "https://ncses.nsf.gov/indicators/states/compare-indicators/state-student-aid-expenditures-per-full-time-undergraduate-student",
-     "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-71",
-     "https://ncses.nsf.gov/pubs/nsb202333/international-collaboration-and-citations"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 0
-   },
-   {
-    "id": "interactive",
-    "category": "performance",
-    "title": "Time to Interactive",
-    "pages": 30,
-    "examplePages": [
-     "https://ncses.nsf.gov/pubs/nsb20206/publication-output-by-region-country-or-economy",
-     "https://ncses.nsf.gov/pubs/nsb20204/innovation-indicators-united-states-and-other-major-economies",
-     "https://ncses.nsf.gov/pubs/nsb20198/supplemental-tables",
-     "https://ncses.nsf.gov/pubs/nsf24300/report/executive-summary",
-     "https://ncses.nsf.gov/pubs/nsb20223/table/SHED-2",
-     "https://ncses.nsf.gov/pubs/nsb20224/table/SINV-71",
-     "https://ncses.nsf.gov/surveys/nonprofit-research-activities/2020",
-     "https://ncses.nsf.gov/indicators/states/compare-indicators/state-student-aid-expenditures-per-full-time-undergraduate-student",
-     "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-71",
-     "https://ncses.nsf.gov/pubs/nsb202333/international-collaboration-and-citations"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsBytes": 39768472,
+    "savingsMs": 204000,
+    "savingsBytesMedian": 1250118,
+    "savingsBytesP75": 1776640,
+    "savingsMsMedian": 6625,
+    "savingsMsP75": 7950
    },
    {
     "id": "webmcp-registered-tools",
@@ -110364,7 +111255,11 @@
      "https://ncses.nsf.gov/pubs/nsb202333/international-collaboration-and-citations"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "webmcp-form-coverage",
@@ -110384,7 +111279,11 @@
      "https://ncses.nsf.gov/pubs/nsb202333/international-collaboration-and-citations"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "webmcp-schema-validity",
@@ -110404,7 +111303,11 @@
      "https://ncses.nsf.gov/pubs/nsb202333/international-collaboration-and-citations"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "llms-txt",
@@ -110424,7 +111327,11 @@
      "https://ncses.nsf.gov/pubs/nsb202333/international-collaboration-and-citations"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "ard-schema",
@@ -110444,7 +111351,11 @@
      "https://ncses.nsf.gov/pubs/nsb202333/international-collaboration-and-citations"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "unminified-javascript",
@@ -110464,7 +111375,11 @@
      "https://ncses.nsf.gov/pubs/nsf21330"
     ],
     "savingsBytes": 156136,
-    "savingsMs": 750
+    "savingsMs": 750,
+    "savingsBytesMedian": 5384,
+    "savingsBytesP75": 5384,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "valid-source-maps",
@@ -110484,7 +111399,11 @@
      "https://ncses.nsf.gov/pubs/nsf21330"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "agent-accessibility-tree",
@@ -110504,7 +111423,11 @@
      "https://ncses.nsf.gov/pubs/nsf21330"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "mainthread-work-breakdown",
@@ -110524,7 +111447,11 @@
      "https://ncses.nsf.gov/pubs/nsb202333/international-collaboration-and-citations"
     ],
     "savingsBytes": 0,
-    "savingsMs": 34500
+    "savingsMs": 34500,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 925,
+    "savingsMsP75": 1550
    },
    {
     "id": "bootup-time",
@@ -110544,47 +111471,11 @@
      "https://ncses.nsf.gov/pubs/nsb202333/international-collaboration-and-citations"
     ],
     "savingsBytes": 0,
-    "savingsMs": 27800
-   },
-   {
-    "id": "total-blocking-time",
-    "category": "performance",
-    "title": "Total Blocking Time",
-    "pages": 28,
-    "examplePages": [
-     "https://ncses.nsf.gov/pubs/nsb20206/publication-output-by-region-country-or-economy",
-     "https://ncses.nsf.gov/pubs/nsb20204/innovation-indicators-united-states-and-other-major-economies",
-     "https://ncses.nsf.gov/pubs/nsb20198/supplemental-tables",
-     "https://ncses.nsf.gov/pubs/nsf24300/report/executive-summary",
-     "https://ncses.nsf.gov/pubs/nsb20223/table/SHED-2",
-     "https://ncses.nsf.gov/pubs/nsb20224/table/SINV-71",
-     "https://ncses.nsf.gov/surveys/nonprofit-research-activities/2020",
-     "https://ncses.nsf.gov/indicators/states/compare-indicators/state-student-aid-expenditures-per-full-time-undergraduate-student",
-     "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-71",
-     "https://ncses.nsf.gov/pubs/nsb202333/international-collaboration-and-citations"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 0
-   },
-   {
-    "id": "max-potential-fid",
-    "category": "performance",
-    "title": "Max Potential First Input Delay",
-    "pages": 28,
-    "examplePages": [
-     "https://ncses.nsf.gov/pubs/nsb20206/publication-output-by-region-country-or-economy",
-     "https://ncses.nsf.gov/pubs/nsb20204/innovation-indicators-united-states-and-other-major-economies",
-     "https://ncses.nsf.gov/pubs/nsb20198/supplemental-tables",
-     "https://ncses.nsf.gov/pubs/nsf24300/report/executive-summary",
-     "https://ncses.nsf.gov/pubs/nsb20223/table/SHED-2",
-     "https://ncses.nsf.gov/pubs/nsb20224/table/SINV-71",
-     "https://ncses.nsf.gov/surveys/nonprofit-research-activities/2020",
-     "https://ncses.nsf.gov/indicators/states/compare-indicators/state-student-aid-expenditures-per-full-time-undergraduate-student",
-     "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-71",
-     "https://ncses.nsf.gov/pubs/nsb202333/international-collaboration-and-citations"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 27800,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 875,
+    "savingsMsP75": 1150
    },
    {
     "id": "cache-insight",
@@ -110604,27 +111495,11 @@
      "https://ncses.nsf.gov/pubs/nsf21329"
     ],
     "savingsBytes": 0,
-    "savingsMs": 363550
-   },
-   {
-    "id": "render-blocking-insight",
-    "category": "performance",
-    "title": "Render-blocking requests",
-    "pages": 25,
-    "examplePages": [
-     "https://ncses.nsf.gov/pubs/nsb20206/publication-output-by-region-country-or-economy",
-     "https://ncses.nsf.gov/pubs/nsb20204/innovation-indicators-united-states-and-other-major-economies",
-     "https://ncses.nsf.gov/pubs/nsf24300/report/executive-summary",
-     "https://ncses.nsf.gov/surveys/nonprofit-research-activities/2020",
-     "https://ncses.nsf.gov/indicators/states/compare-indicators/state-student-aid-expenditures-per-full-time-undergraduate-student",
-     "https://ncses.nsf.gov/pubs/nsb202333/international-collaboration-and-citations",
-     "https://ncses.nsf.gov/pubs/nsf21330",
-     "https://ncses.nsf.gov/pubs/nsf21308/report/contact-report-author",
-     "https://ncses.nsf.gov/pubs/nsf24330",
-     "https://ncses.nsf.gov/pubs/nsf21329"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 359750
+    "savingsMs": 363550,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 14100,
+    "savingsMsP75": 15550
    },
    {
     "id": "network-dependency-tree-insight",
@@ -110644,27 +111519,35 @@
      "https://ncses.nsf.gov/pubs/nsf21329"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
-    "id": "modern-http-insight",
+    "id": "render-blocking-insight",
     "category": "performance",
-    "title": "Modern HTTP",
-    "pages": 24,
+    "title": "Render-blocking requests",
+    "pages": 25,
     "examplePages": [
      "https://ncses.nsf.gov/pubs/nsb20206/publication-output-by-region-country-or-economy",
      "https://ncses.nsf.gov/pubs/nsb20204/innovation-indicators-united-states-and-other-major-economies",
      "https://ncses.nsf.gov/pubs/nsf24300/report/executive-summary",
      "https://ncses.nsf.gov/surveys/nonprofit-research-activities/2020",
+     "https://ncses.nsf.gov/indicators/states/compare-indicators/state-student-aid-expenditures-per-full-time-undergraduate-student",
      "https://ncses.nsf.gov/pubs/nsb202333/international-collaboration-and-citations",
      "https://ncses.nsf.gov/pubs/nsf21330",
      "https://ncses.nsf.gov/pubs/nsf21308/report/contact-report-author",
      "https://ncses.nsf.gov/pubs/nsf24330",
-     "https://ncses.nsf.gov/pubs/nsf21329",
-     "https://ncses.nsf.gov/pubs/nsb20262/knowledge-and-technology-transfer"
+     "https://ncses.nsf.gov/pubs/nsf21329"
     ],
     "savingsBytes": 0,
-    "savingsMs": 26100
+    "savingsMs": 359750,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 14350,
+    "savingsMsP75": 15950
    },
    {
     "id": "font-display-insight",
@@ -110684,27 +111567,35 @@
      "https://ncses.nsf.gov/pubs/nsb20262/knowledge-and-technology-transfer"
     ],
     "savingsBytes": 0,
-    "savingsMs": 13850
+    "savingsMs": 13850,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 550,
+    "savingsMsP75": 900
    },
    {
-    "id": "legacy-javascript-insight",
+    "id": "modern-http-insight",
     "category": "performance",
-    "title": "Legacy JavaScript",
-    "pages": 13,
+    "title": "Modern HTTP",
+    "pages": 24,
     "examplePages": [
+     "https://ncses.nsf.gov/pubs/nsb20206/publication-output-by-region-country-or-economy",
+     "https://ncses.nsf.gov/pubs/nsb20204/innovation-indicators-united-states-and-other-major-economies",
      "https://ncses.nsf.gov/pubs/nsf24300/report/executive-summary",
+     "https://ncses.nsf.gov/surveys/nonprofit-research-activities/2020",
      "https://ncses.nsf.gov/pubs/nsb202333/international-collaboration-and-citations",
      "https://ncses.nsf.gov/pubs/nsf21330",
      "https://ncses.nsf.gov/pubs/nsf21308/report/contact-report-author",
      "https://ncses.nsf.gov/pubs/nsf24330",
      "https://ncses.nsf.gov/pubs/nsf21329",
-     "https://ncses.nsf.gov/pubs/nsb20243/figure/20",
-     "https://ncses.nsf.gov/pubs/ncses25215",
-     "https://ncses.nsf.gov/pubs/nsb20226/figure/KTI-23",
-     "https://ncses.nsf.gov/pubs/nsb20225/introduction"
+     "https://ncses.nsf.gov/pubs/nsb20262/knowledge-and-technology-transfer"
     ],
     "savingsBytes": 0,
-    "savingsMs": 2400
+    "savingsMs": 26100,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 1025,
+    "savingsMsP75": 1300
    },
    {
     "id": "forced-reflow-insight",
@@ -110724,7 +111615,35 @@
      "https://ncses.nsf.gov/pubs/nsb20246/table/RD-4"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
+   },
+   {
+    "id": "legacy-javascript-insight",
+    "category": "performance",
+    "title": "Legacy JavaScript",
+    "pages": 13,
+    "examplePages": [
+     "https://ncses.nsf.gov/pubs/nsf24300/report/executive-summary",
+     "https://ncses.nsf.gov/pubs/nsb202333/international-collaboration-and-citations",
+     "https://ncses.nsf.gov/pubs/nsf21330",
+     "https://ncses.nsf.gov/pubs/nsf21308/report/contact-report-author",
+     "https://ncses.nsf.gov/pubs/nsf24330",
+     "https://ncses.nsf.gov/pubs/nsf21329",
+     "https://ncses.nsf.gov/pubs/nsb20243/figure/20",
+     "https://ncses.nsf.gov/pubs/ncses25215",
+     "https://ncses.nsf.gov/pubs/nsb20226/figure/KTI-23",
+     "https://ncses.nsf.gov/pubs/nsb20225/introduction"
+    ],
+    "savingsBytes": 0,
+    "savingsMs": 2400,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 200,
+    "savingsMsP75": 200
    },
    {
     "id": "lcp-breakdown-insight",
@@ -110744,7 +111663,11 @@
      "https://ncses.nsf.gov/pubs/nsb20225/introduction"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "image-delivery-insight",
@@ -110764,7 +111687,11 @@
      "https://ncses.nsf.gov/pubs/nsb20206/technical-appendix"
     ],
     "savingsBytes": 0,
-    "savingsMs": 2600
+    "savingsMs": 2600,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 200,
+    "savingsMsP75": 350
    },
    {
     "id": "redirects",
@@ -110782,7 +111709,11 @@
      "https://ncses.nsf.gov/pow?redirect=%2Fsearch%3Faois%3DScience%2Band%2BEngineering%2BWorkforce%26query%3D%26topics%3DIncome%2Band%2BSalary"
     ],
     "savingsBytes": 0,
-    "savingsMs": 12800
+    "savingsMs": 12800,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 850,
+    "savingsMsP75": 1600
    },
    {
     "id": "meta-description",
@@ -110797,7 +111728,11 @@
      "https://ncses.nsf.gov/pubs/ncses24211"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "server-response-time",
@@ -110811,7 +111746,11 @@
      "https://ncses.nsf.gov/pow?redirect=%2Fsearch%3Faois%3DScience%2Band%2BEngineering%2BWorkforce%26query%3D%26topics%3DIncome%2Band%2BSalary"
     ],
     "savingsBytes": 0,
-    "savingsMs": 350
+    "savingsMs": 350,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 75,
+    "savingsMsP75": 100
    },
    {
     "id": "link-text",
@@ -110824,7 +111763,11 @@
      "https://ncses.nsf.gov/surveys/federal-support-survey/2020"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "crawlable-anchors",
@@ -110837,29 +111780,11 @@
      "https://ncses.nsf.gov/surveys/federal-support-survey/2020"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
-   },
-   {
-    "id": "document-latency-insight",
-    "category": "performance",
-    "title": "Document request latency",
-    "pages": 1,
-    "examplePages": [
-     "https://ncses.nsf.gov/indicators/states/compare-indicators/state-student-aid-expenditures-per-full-time-undergraduate-student"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 150
-   },
-   {
-    "id": "cumulative-layout-shift",
-    "category": "agentic-browsing",
-    "title": "Cumulative Layout Shift",
-    "pages": 1,
-    "examplePages": [
-     "https://ncses.nsf.gov/pubs/nsb20206/publication-output-by-region-country-or-economy"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "cls-culprits-insight",
@@ -110870,7 +111795,26 @@
      "https://ncses.nsf.gov/pubs/nsb20206/publication-output-by-region-country-or-economy"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
+   },
+   {
+    "id": "document-latency-insight",
+    "category": "performance",
+    "title": "Document request latency",
+    "pages": 1,
+    "examplePages": [
+     "https://ncses.nsf.gov/indicators/states/compare-indicators/state-student-aid-expenditures-per-full-time-undergraduate-student"
+    ],
+    "savingsBytes": 0,
+    "savingsMs": 150,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 150,
+    "savingsMsP75": 150
    },
    {
     "id": "image-size-responsive",
@@ -110881,7 +111825,11 @@
      "https://ncses.nsf.gov/pubs/nsf21308/report/contact-report-author"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "image-alt",
@@ -110892,7 +111840,11 @@
      "https://ncses.nsf.gov/pubs/ncses24211"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    }
   ]
  },
@@ -111843,6 +112795,9 @@
     "tech": "Crazy Egg",
     "finding": "axe:link-in-text-block",
     "ratio": null,
+    "ci_low": null,
+    "ci_high": null,
+    "certainty": "no_comparison",
     "lift": 1.36,
     "pairPages": 11,
     "techPages": 28,
@@ -111854,6 +112809,9 @@
     "tech": "Crazy Egg",
     "finding": "axe:list",
     "ratio": null,
+    "ci_low": null,
+    "ci_high": null,
+    "certainty": "no_comparison",
     "lift": 1.36,
     "pairPages": 11,
     "techPages": 28,
@@ -111865,6 +112823,9 @@
     "tech": "Crazy Egg",
     "finding": "axe:role-img-alt",
     "ratio": null,
+    "ci_low": null,
+    "ci_high": null,
+    "certainty": "no_comparison",
     "lift": 1.36,
     "pairPages": 11,
     "techPages": 28,
@@ -111876,6 +112837,9 @@
     "tech": "Bootstrap",
     "finding": "axe:list",
     "ratio": null,
+    "ci_low": null,
+    "ci_high": null,
+    "certainty": "no_comparison",
     "lift": 3.17,
     "pairPages": 11,
     "techPages": 12,
@@ -111887,6 +112851,9 @@
     "tech": "Bootstrap",
     "finding": "axe:role-img-alt",
     "ratio": null,
+    "ci_low": null,
+    "ci_high": null,
+    "certainty": "no_comparison",
     "lift": 3.17,
     "pairPages": 11,
     "techPages": 12,
@@ -111898,6 +112865,9 @@
     "tech": "Crazy Egg",
     "finding": "axe:landmark-one-main",
     "ratio": null,
+    "ci_low": null,
+    "ci_high": null,
+    "certainty": "no_comparison",
     "lift": 1.36,
     "pairPages": 6,
     "techPages": 28,
@@ -111909,6 +112879,9 @@
     "tech": "Crazy Egg",
     "finding": "alfa:sia-r2",
     "ratio": null,
+    "ci_low": null,
+    "ci_high": null,
+    "certainty": "no_comparison",
     "lift": 1.5,
     "pairPages": 6,
     "techPages": 14,
@@ -111920,6 +112893,9 @@
     "tech": "Crazy Egg",
     "finding": "alfa:sia-r57",
     "ratio": null,
+    "ci_low": null,
+    "ci_high": null,
+    "certainty": "no_comparison",
     "lift": 1.5,
     "pairPages": 6,
     "techPages": 14,
@@ -111931,6 +112907,9 @@
     "tech": "Bootstrap",
     "finding": "axe:landmark-one-main",
     "ratio": null,
+    "ci_low": null,
+    "ci_high": null,
+    "certainty": "no_comparison",
     "lift": 3.17,
     "pairPages": 6,
     "techPages": 12,
@@ -111942,6 +112921,9 @@
     "tech": "Bootstrap",
     "finding": "alfa:sia-r2",
     "ratio": null,
+    "ci_low": null,
+    "ci_high": null,
+    "certainty": "no_comparison",
     "lift": 3,
     "pairPages": 6,
     "techPages": 7,
@@ -111953,6 +112935,9 @@
     "tech": "Bootstrap",
     "finding": "alfa:sia-r57",
     "ratio": null,
+    "ci_low": null,
+    "ci_high": null,
+    "certainty": "no_comparison",
     "lift": 3,
     "pairPages": 6,
     "techPages": 7,
@@ -111964,99 +112949,14 @@
     "tech": "Bootstrap",
     "finding": "axe:link-in-text-block",
     "ratio": 5.78,
+    "ci_low": 1.85,
+    "ci_high": 18.01,
+    "certainty": "ci_above_one",
     "lift": 2.3,
     "pairPages": 8,
     "techPages": 12,
     "findingPages": 11,
     "withoutPages": 26,
-    "withoutFindingPages": 3
-   },
-   {
-    "tech": "Crazy Egg",
-    "finding": "axe:page-has-heading-one",
-    "ratio": 2.14,
-    "lift": 1.16,
-    "pairPages": 6,
-    "techPages": 28,
-    "findingPages": 7,
-    "withoutPages": 10,
-    "withoutFindingPages": 1
-   },
-   {
-    "tech": "Crazy Egg",
-    "finding": "alfa:sia-r53",
-    "ratio": 1.75,
-    "lift": 1.17,
-    "pairPages": 14,
-    "techPages": 14,
-    "findingPages": 18,
-    "withoutPages": 7,
-    "withoutFindingPages": 4
-   },
-   {
-    "tech": "Crazy Egg",
-    "finding": "alfa:sia-r61",
-    "ratio": 1.75,
-    "lift": 1.17,
-    "pairPages": 14,
-    "techPages": 14,
-    "findingPages": 18,
-    "withoutPages": 7,
-    "withoutFindingPages": 4
-   },
-   {
-    "tech": "Crazy Egg",
-    "finding": "alfa:sia-r16",
-    "ratio": 1.75,
-    "lift": 1.17,
-    "pairPages": 14,
-    "techPages": 14,
-    "findingPages": 18,
-    "withoutPages": 7,
-    "withoutFindingPages": 4
-   },
-   {
-    "tech": "Crazy Egg",
-    "finding": "alfa:sia-r45",
-    "ratio": 1.67,
-    "lift": 1.15,
-    "pairPages": 10,
-    "techPages": 14,
-    "findingPages": 13,
-    "withoutPages": 7,
-    "withoutFindingPages": 3
-   },
-   {
-    "tech": "Crazy Egg",
-    "finding": "alfa:sia-r14",
-    "ratio": 1.63,
-    "lift": 1.15,
-    "pairPages": 13,
-    "techPages": 14,
-    "findingPages": 17,
-    "withoutPages": 7,
-    "withoutFindingPages": 4
-   },
-   {
-    "tech": "Crazy Egg",
-    "finding": "axe:label-content-name-mismatch",
-    "ratio": 1.61,
-    "lift": 1.11,
-    "pairPages": 27,
-    "techPages": 28,
-    "findingPages": 33,
-    "withoutPages": 10,
-    "withoutFindingPages": 6
-   },
-   {
-    "tech": "Crazy Egg",
-    "finding": "alfa:sia-r68",
-    "ratio": 1.5,
-    "lift": 1.13,
-    "pairPages": 9,
-    "techPages": 14,
-    "findingPages": 12,
-    "withoutPages": 7,
     "withoutFindingPages": 3
    }
   ]
@@ -177766,6 +178666,7 @@
   "drift_clusters": []
  },
  "sharedComponents": null,
+ "componentGroups": null,
  "pageFamilies": null,
  "pagesAttempted": 289,
  "pagesSucceeded": 287,
@@ -177788,5 +178689,66 @@
   "errorStatuses": {
    "404": 2
   }
+ },
+ "evidenceCoverage": {
+  "basis": "findings",
+  "findings_total": 51,
+  "occurrences_stored": 237,
+  "element_evidence": {
+   "captured": 0,
+   "not_captured": 26,
+   "not_applicable": 25,
+   "unsupported_dom_boundary": 0,
+   "no_stored_examples": 0
+  },
+  "usable_locator": {
+   "captured": 0,
+   "unavailable": 51
+  },
+  "semantic_region": {
+   "captured": 0,
+   "no_containing_landmark": 0,
+   "unavailable": 51
+  },
+  "widget": {
+   "captured": 0,
+   "no_widget": 0,
+   "unavailable": 51
+  },
+  "component": {
+   "attributed": 0,
+   "unattributed": 51
+  },
+  "screenshot": {
+   "available": 0,
+   "unavailable": 51
+  },
+  "reproduction": {
+   "eligible": 0,
+   "unavailable": 51
+  },
+  "findings_with_detailed_evidence": 0,
+  "findings_without_detailed_evidence": 51,
+  "by_engine": {
+   "axe-core": {
+    "findings": 26,
+    "element_captured": 0,
+    "locator_captured": 0,
+    "reproduction_eligible": 0
+   },
+   "alfa": {
+    "findings": 25,
+    "element_captured": 0,
+    "locator_captured": 0,
+    "reproduction_eligible": 0
+   },
+   "deprecated-html": {
+    "findings": 0,
+    "element_captured": 0,
+    "locator_captured": 0,
+    "reproduction_eligible": 0
+   }
+  },
+  "notes": "Finding-level sample coverage. Counts are not element-occurrence totals; screenshots and page detail follow retention."
  }
 }

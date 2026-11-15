@@ -1,7 +1,7 @@
 {
  "domain": "seedfund.nsf.gov",
  "week": "2026-W45",
- "generatedAt": "2026-11-05T18:20:14.079Z",
+ "generatedAt": "2026-11-15T02:04:47.315Z",
  "pagesScanned": 497,
  "pagesAudited": 488,
  "coverage": {
@@ -22,6 +22,8 @@
   "pagesWithViolations": 488,
   "pagesScanned": 488,
   "medianViolations": 6,
+  "context": null,
+  "element_evidence": null,
   "rules": {
    "heading-order": {
     "count": 531,
@@ -1439,27 +1441,47 @@
      {
       "url": "https://seedfund.nsf.gov/awardees/history/details?company=susmax-llc",
       "target": ".award:nth-child(1) > .usa-section.usa-grid > .usa-grid-full > .usa-width-one-fourth > .mb5:nth-child(1) > h4",
-      "html": "<h4 class=\"subhead uppercase\">Project Leader</h4>"
+      "html": "<h4 class=\"subhead uppercase\">Project Leader</h4>",
+      "page_id": "0067f7753fe36c3f",
+      "run_id": "2026-11-04T17-13-28-708Z-e882fb",
+      "scanned_at": "2026-11-04T17:15:46.764Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/awardees/history/details?company=susmax-llc",
       "target": ".award:nth-child(2) > .usa-section.usa-grid > .usa-grid-full > .usa-width-one-fourth > .mb5:nth-child(1) > h4",
-      "html": "<h4 class=\"subhead uppercase\">Project Leader</h4>"
+      "html": "<h4 class=\"subhead uppercase\">Project Leader</h4>",
+      "page_id": "0067f7753fe36c3f",
+      "run_id": "2026-11-04T17-13-28-708Z-e882fb",
+      "scanned_at": "2026-11-04T17:15:46.764Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/portfolio/details?company=habitaware-inc",
       "target": "#awards-details-list > .usa-section.usa-grid > .list.results.list-reset > .usa-grid-full > .usa-grid-full > .usa-width-one-fourth > address > .mb5:nth-child(1) > h4",
-      "html": "<h4 class=\"subhead uppercase\">Project Leader</h4>"
+      "html": "<h4 class=\"subhead uppercase\">Project Leader</h4>",
+      "page_id": "00b92d70b0a54584",
+      "run_id": "2026-11-03T17-21-41-958Z-0e363a",
+      "scanned_at": "2026-11-03T17:22:14.993Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/portfolio/details?company=habitaware-inc",
       "target": "#awards-details-list-phase-2 > .usa-section.usa-grid > .list.results.list-reset > .usa-grid-full > .usa-grid-full > .usa-width-one-fourth > address > .mb5:nth-child(1) > h4",
-      "html": "<h4 class=\"subhead uppercase\">Project Leader</h4>"
+      "html": "<h4 class=\"subhead uppercase\">Project Leader</h4>",
+      "page_id": "00b92d70b0a54584",
+      "run_id": "2026-11-03T17-21-41-958Z-0e363a",
+      "scanned_at": "2026-11-03T17:22:14.993Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/awardees/phase-2/details?company=infusense-llc",
       "target": "address > .mb5:nth-child(1) > h4",
-      "html": "<h4 class=\"subhead uppercase\">Project Leader</h4>"
+      "html": "<h4 class=\"subhead uppercase\">Project Leader</h4>",
+      "page_id": "00d0a444547af20a",
+      "run_id": "2026-11-02T18-42-51-846Z-68928f",
+      "scanned_at": "2026-11-02T18:44:13.496Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -3415,27 +3437,47 @@
      {
       "url": "https://seedfund.nsf.gov/awardees/history/details?company=susmax-llc",
       "target": ".usa-banner-header",
-      "html": "<header class=\"usa-banner-header\">"
+      "html": "<header class=\"usa-banner-header\">",
+      "page_id": "0067f7753fe36c3f",
+      "run_id": "2026-11-04T17-13-28-708Z-e882fb",
+      "scanned_at": "2026-11-04T17:15:46.764Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/portfolio/details?company=habitaware-inc",
       "target": ".usa-banner-header",
-      "html": "<header class=\"usa-banner-header\">"
+      "html": "<header class=\"usa-banner-header\">",
+      "page_id": "00b92d70b0a54584",
+      "run_id": "2026-11-03T17-21-41-958Z-0e363a",
+      "scanned_at": "2026-11-03T17:22:14.993Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/awardees/phase-2/details?company=infusense-llc",
       "target": ".usa-banner-header",
-      "html": "<header class=\"usa-banner-header\">"
+      "html": "<header class=\"usa-banner-header\">",
+      "page_id": "00d0a444547af20a",
+      "run_id": "2026-11-02T18-42-51-846Z-68928f",
+      "scanned_at": "2026-11-02T18:44:13.496Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/news/ubiquitous-energy",
       "target": ".usa-banner-header",
-      "html": "<header class=\"usa-banner-header\">"
+      "html": "<header class=\"usa-banner-header\">",
+      "page_id": "00e8a0a212ba793f",
+      "run_id": "2026-11-04T17-13-28-708Z-e882fb",
+      "scanned_at": "2026-11-04T17:15:35.999Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/awardees/phase-2/details?company=aalmv-inc",
       "target": ".usa-banner-header",
-      "html": "<header class=\"usa-banner-header\">"
+      "html": "<header class=\"usa-banner-header\">",
+      "page_id": "00f72b1d536577e1",
+      "run_id": "2026-11-02T13-52-18-940Z-a11c0e",
+      "scanned_at": "2026-11-02T13:54:48.889Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -5391,27 +5433,47 @@
      {
       "url": "https://seedfund.nsf.gov/awardees/history/details?company=susmax-llc",
       "target": ".usa-header",
-      "html": "<header class=\"usa-header usa-header-basic header--fixed\" role=\"banner\">"
+      "html": "<header class=\"usa-header usa-header-basic header--fixed\" role=\"banner\">",
+      "page_id": "0067f7753fe36c3f",
+      "run_id": "2026-11-04T17-13-28-708Z-e882fb",
+      "scanned_at": "2026-11-04T17:15:46.764Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/portfolio/details?company=habitaware-inc",
       "target": ".usa-header",
-      "html": "<header class=\"usa-header usa-header-basic header--fixed\" role=\"banner\">"
+      "html": "<header class=\"usa-header usa-header-basic header--fixed\" role=\"banner\">",
+      "page_id": "00b92d70b0a54584",
+      "run_id": "2026-11-03T17-21-41-958Z-0e363a",
+      "scanned_at": "2026-11-03T17:22:14.993Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/awardees/phase-2/details?company=infusense-llc",
       "target": ".usa-header",
-      "html": "<header class=\"usa-header usa-header-basic header--fixed\" role=\"banner\">"
+      "html": "<header class=\"usa-header usa-header-basic header--fixed\" role=\"banner\">",
+      "page_id": "00d0a444547af20a",
+      "run_id": "2026-11-02T18-42-51-846Z-68928f",
+      "scanned_at": "2026-11-02T18:44:13.496Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/news/ubiquitous-energy",
       "target": ".usa-header",
-      "html": "<header class=\"usa-header usa-header-basic header--fixed\" role=\"banner\">"
+      "html": "<header class=\"usa-header usa-header-basic header--fixed\" role=\"banner\">",
+      "page_id": "00e8a0a212ba793f",
+      "run_id": "2026-11-04T17-13-28-708Z-e882fb",
+      "scanned_at": "2026-11-04T17:15:35.999Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/awardees/phase-2/details?company=aalmv-inc",
       "target": ".usa-header",
-      "html": "<header class=\"usa-header usa-header-basic header--fixed\" role=\"banner\">"
+      "html": "<header class=\"usa-header usa-header-basic header--fixed\" role=\"banner\">",
+      "page_id": "00f72b1d536577e1",
+      "run_id": "2026-11-02T13-52-18-940Z-a11c0e",
+      "scanned_at": "2026-11-02T13:54:48.889Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -7367,27 +7429,47 @@
      {
       "url": "https://seedfund.nsf.gov/awardees/history/details?company=susmax-llc",
       "target": ".usa-header",
-      "html": "<header class=\"usa-header usa-header-basic header--fixed\" role=\"banner\">"
+      "html": "<header class=\"usa-header usa-header-basic header--fixed\" role=\"banner\">",
+      "page_id": "0067f7753fe36c3f",
+      "run_id": "2026-11-04T17-13-28-708Z-e882fb",
+      "scanned_at": "2026-11-04T17:15:46.764Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/portfolio/details?company=habitaware-inc",
       "target": ".usa-header",
-      "html": "<header class=\"usa-header usa-header-basic header--fixed\" role=\"banner\">"
+      "html": "<header class=\"usa-header usa-header-basic header--fixed\" role=\"banner\">",
+      "page_id": "00b92d70b0a54584",
+      "run_id": "2026-11-03T17-21-41-958Z-0e363a",
+      "scanned_at": "2026-11-03T17:22:14.993Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/awardees/phase-2/details?company=infusense-llc",
       "target": ".usa-header",
-      "html": "<header class=\"usa-header usa-header-basic header--fixed\" role=\"banner\">"
+      "html": "<header class=\"usa-header usa-header-basic header--fixed\" role=\"banner\">",
+      "page_id": "00d0a444547af20a",
+      "run_id": "2026-11-02T18-42-51-846Z-68928f",
+      "scanned_at": "2026-11-02T18:44:13.496Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/news/ubiquitous-energy",
       "target": ".usa-header",
-      "html": "<header class=\"usa-header usa-header-basic header--fixed\" role=\"banner\">"
+      "html": "<header class=\"usa-header usa-header-basic header--fixed\" role=\"banner\">",
+      "page_id": "00e8a0a212ba793f",
+      "run_id": "2026-11-04T17-13-28-708Z-e882fb",
+      "scanned_at": "2026-11-04T17:15:35.999Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/news/ubiquitous-energy",
       "target": ".main-content-headroom",
-      "html": "<main id=\"main-content\" class=\"main-content-headroom\">"
+      "html": "<main id=\"main-content\" class=\"main-content-headroom\">",
+      "page_id": "00e8a0a212ba793f",
+      "run_id": "2026-11-04T17-13-28-708Z-e882fb",
+      "scanned_at": "2026-11-04T17:15:35.999Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -9344,27 +9426,47 @@
      {
       "url": "https://seedfund.nsf.gov/awardees/history/details?company=susmax-llc",
       "target": ".banner-left > a[href$=\"solicitation-proposal/\"]",
-      "html": "<a href=\"/solicitation-proposal/\">click here</a>"
+      "html": "<a href=\"/solicitation-proposal/\">click here</a>",
+      "page_id": "0067f7753fe36c3f",
+      "run_id": "2026-11-04T17-13-28-708Z-e882fb",
+      "scanned_at": "2026-11-04T17:15:46.764Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/portfolio/details?company=habitaware-inc",
       "target": ".banner-left > a[href$=\"solicitation-proposal/\"]",
-      "html": "<a href=\"/solicitation-proposal/\">click here</a>"
+      "html": "<a href=\"/solicitation-proposal/\">click here</a>",
+      "page_id": "00b92d70b0a54584",
+      "run_id": "2026-11-03T17-21-41-958Z-0e363a",
+      "scanned_at": "2026-11-03T17:22:14.993Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/awardees/phase-2/details?company=infusense-llc",
       "target": ".banner-left > a[href$=\"solicitation-proposal/\"]",
-      "html": "<a href=\"/solicitation-proposal/\">click here</a>"
+      "html": "<a href=\"/solicitation-proposal/\">click here</a>",
+      "page_id": "00d0a444547af20a",
+      "run_id": "2026-11-02T18-42-51-846Z-68928f",
+      "scanned_at": "2026-11-02T18:44:13.496Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/news/ubiquitous-energy",
       "target": ".banner-left > a[href$=\"solicitation-proposal/\"]",
-      "html": "<a href=\"/solicitation-proposal/\">click here</a>"
+      "html": "<a href=\"/solicitation-proposal/\">click here</a>",
+      "page_id": "00e8a0a212ba793f",
+      "run_id": "2026-11-04T17-13-28-708Z-e882fb",
+      "scanned_at": "2026-11-04T17:15:35.999Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/awardees/phase-2/details?company=aalmv-inc",
       "target": ".banner-left > a[href$=\"solicitation-proposal/\"]",
-      "html": "<a href=\"/solicitation-proposal/\">click here</a>"
+      "html": "<a href=\"/solicitation-proposal/\">click here</a>",
+      "page_id": "00f72b1d536577e1",
+      "run_id": "2026-11-02T13-52-18-940Z-a11c0e",
+      "scanned_at": "2026-11-02T13:54:48.889Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -9764,27 +9866,47 @@
      {
       "url": "https://seedfund.nsf.gov/news/ubiquitous-energy",
       "target": ".main-content-headroom > main",
-      "html": "<main id=\"main-content\">"
+      "html": "<main id=\"main-content\">",
+      "page_id": "00e8a0a212ba793f",
+      "run_id": "2026-11-04T17-13-28-708Z-e882fb",
+      "scanned_at": "2026-11-04T17:15:35.999Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/news/Symbrosia",
       "target": ".main-content-headroom > main",
-      "html": "<main id=\"main-content\">"
+      "html": "<main id=\"main-content\">",
+      "page_id": "012b2aaf0f87860f",
+      "run_id": "2026-11-03T16-27-12-685Z-3c2ab5",
+      "scanned_at": "2026-11-03T16:28:14.835Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/centers/ceps/additively-manufactured-pure-copper-revolutionizes-thermal-management",
       "target": ".main-content-headroom > main",
-      "html": "<main id=\"main-content\">"
+      "html": "<main id=\"main-content\">",
+      "page_id": "063e1e987b0964f7",
+      "run_id": "2026-11-02T17-00-18-082Z-9f4e9d",
+      "scanned_at": "2026-11-02T17:01:37.996Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/news/aclarity",
       "target": ".main-content-headroom > main",
-      "html": "<main id=\"main-content\">"
+      "html": "<main id=\"main-content\">",
+      "page_id": "0a9411bd141aa126",
+      "run_id": "2026-11-02T12-44-09-579Z-a95e6c",
+      "scanned_at": "2026-11-02T12:44:18.557Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/news/Ecolectro",
       "target": ".main-content-headroom > main",
-      "html": "<main id=\"main-content\">"
+      "html": "<main id=\"main-content\">",
+      "page_id": "0c258694f71e930a",
+      "run_id": "2026-11-04T13-19-22-439Z-f051eb",
+      "scanned_at": "2026-11-04T13:21:42.256Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -10184,27 +10306,47 @@
      {
       "url": "https://seedfund.nsf.gov/news/ubiquitous-energy",
       "target": ".main-content-headroom",
-      "html": "<main id=\"main-content\" class=\"main-content-headroom\">"
+      "html": "<main id=\"main-content\" class=\"main-content-headroom\">",
+      "page_id": "00e8a0a212ba793f",
+      "run_id": "2026-11-04T17-13-28-708Z-e882fb",
+      "scanned_at": "2026-11-04T17:15:35.999Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/news/Symbrosia",
       "target": ".main-content-headroom",
-      "html": "<main id=\"main-content\" class=\"main-content-headroom\">"
+      "html": "<main id=\"main-content\" class=\"main-content-headroom\">",
+      "page_id": "012b2aaf0f87860f",
+      "run_id": "2026-11-03T16-27-12-685Z-3c2ab5",
+      "scanned_at": "2026-11-03T16:28:14.835Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/centers/ceps/additively-manufactured-pure-copper-revolutionizes-thermal-management",
       "target": ".main-content-headroom",
-      "html": "<main id=\"main-content\" class=\"main-content-headroom\">"
+      "html": "<main id=\"main-content\" class=\"main-content-headroom\">",
+      "page_id": "063e1e987b0964f7",
+      "run_id": "2026-11-02T17-00-18-082Z-9f4e9d",
+      "scanned_at": "2026-11-02T17:01:37.996Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/news/aclarity",
       "target": ".main-content-headroom",
-      "html": "<main id=\"main-content\" class=\"main-content-headroom\">"
+      "html": "<main id=\"main-content\" class=\"main-content-headroom\">",
+      "page_id": "0a9411bd141aa126",
+      "run_id": "2026-11-02T12-44-09-579Z-a95e6c",
+      "scanned_at": "2026-11-02T12:44:18.557Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/news/Ecolectro",
       "target": ".main-content-headroom",
-      "html": "<main id=\"main-content\" class=\"main-content-headroom\">"
+      "html": "<main id=\"main-content\" class=\"main-content-headroom\">",
+      "page_id": "0c258694f71e930a",
+      "run_id": "2026-11-04T13-19-22-439Z-f051eb",
+      "scanned_at": "2026-11-04T13:21:42.256Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -10632,27 +10774,47 @@
      {
       "url": "https://seedfund.nsf.gov/news/ubiquitous-energy",
       "target": "html",
-      "html": "<html lang=\"en-US\" class=\" js flexbox flexboxl...\">"
+      "html": "<html lang=\"en-US\" class=\" js flexbox flexboxl...\">",
+      "page_id": "00e8a0a212ba793f",
+      "run_id": "2026-11-04T17-13-28-708Z-e882fb",
+      "scanned_at": "2026-11-04T17:15:35.999Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/news/Symbrosia",
       "target": "html",
-      "html": "<html lang=\"en-US\" class=\" js flexbox flexboxl...\">"
+      "html": "<html lang=\"en-US\" class=\" js flexbox flexboxl...\">",
+      "page_id": "012b2aaf0f87860f",
+      "run_id": "2026-11-03T16-27-12-685Z-3c2ab5",
+      "scanned_at": "2026-11-03T16:28:14.835Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/centers/ceps/additively-manufactured-pure-copper-revolutionizes-thermal-management",
       "target": "html",
-      "html": "<html lang=\"en-US\" class=\" js flexbox flexboxl...\">"
+      "html": "<html lang=\"en-US\" class=\" js flexbox flexboxl...\">",
+      "page_id": "063e1e987b0964f7",
+      "run_id": "2026-11-02T17-00-18-082Z-9f4e9d",
+      "scanned_at": "2026-11-02T17:01:37.996Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/news/aclarity",
       "target": "html",
-      "html": "<html lang=\"en-US\" class=\" js flexbox flexboxl...\">"
+      "html": "<html lang=\"en-US\" class=\" js flexbox flexboxl...\">",
+      "page_id": "0a9411bd141aa126",
+      "run_id": "2026-11-02T12-44-09-579Z-a95e6c",
+      "scanned_at": "2026-11-02T12:44:18.557Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/news/Ecolectro",
       "target": "html",
-      "html": "<html lang=\"en-US\" class=\" js flexbox flexboxl...\">"
+      "html": "<html lang=\"en-US\" class=\" js flexbox flexboxl...\">",
+      "page_id": "0c258694f71e930a",
+      "run_id": "2026-11-04T13-19-22-439Z-f051eb",
+      "scanned_at": "2026-11-04T13:21:42.256Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -10722,27 +10884,47 @@
      {
       "url": "https://seedfund.nsf.gov/centers/ceps/additively-manufactured-pure-copper-revolutionizes-thermal-management",
       "target": "a[href$=\"focus-area/\"]",
-      "html": "<a href=\"/centers/focus-area/\"></a>"
+      "html": "<a href=\"/centers/focus-area/\"></a>",
+      "page_id": "063e1e987b0964f7",
+      "run_id": "2026-11-02T17-00-18-082Z-9f4e9d",
+      "scanned_at": "2026-11-02T17:01:37.996Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/what-we-fund",
       "target": ".three-column-grid__cta",
-      "html": "<a href=\"#\" class=\"three-column-grid__cta\"></a>"
+      "html": "<a href=\"#\" class=\"three-column-grid__cta\"></a>",
+      "page_id": "1f02b31b04ed752c",
+      "run_id": "2026-11-05T10-45-05-873Z-cc67a4",
+      "scanned_at": "2026-11-05T10:47:15.342Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/centers/ceps/novel-aerogel-based-insulation-may-transform-building-efficiency",
       "target": "a[href$=\"focus-area/\"]",
-      "html": "<a href=\"/centers/focus-area/\"></a>"
+      "html": "<a href=\"/centers/focus-area/\"></a>",
+      "page_id": "3f5289da028c7ff4",
+      "run_id": "2026-11-02T18-42-51-846Z-68928f",
+      "scanned_at": "2026-11-02T18:43:51.434Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/centers/ceps/legume-based-innovation-promises-new-stealth-health-snacks",
       "target": "a[href$=\"focus-area/\"]",
-      "html": "<a href=\"/centers/focus-area/\"></a>"
+      "html": "<a href=\"/centers/focus-area/\"></a>",
+      "page_id": "42dc15a98ed18cae",
+      "run_id": "2026-11-03T12-10-39-166Z-6b5dc3",
+      "scanned_at": "2026-11-03T12:11:33.005Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/centers/ceps/retrofit-dehumidifiers-enhance-air-conditioner-efficiency",
       "target": "a[href$=\"focus-area/\"]",
-      "html": "<a href=\"/centers/focus-area/\"></a>"
+      "html": "<a href=\"/centers/focus-area/\"></a>",
+      "page_id": "5a53392653c4b50a",
+      "run_id": "2026-11-05T10-45-05-873Z-cc67a4",
+      "scanned_at": "2026-11-05T10:46:52.807Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -10774,22 +10956,38 @@
      {
       "url": "https://seedfund.nsf.gov/apply/project-pitch-information",
       "target": "#q1y",
-      "html": "<input type=\"radio\" id=\"q1y\" name=\"q1\" value=\"Yes\">"
+      "html": "<input type=\"radio\" id=\"q1y\" name=\"q1\" value=\"Yes\">",
+      "page_id": "0663d2966281671c",
+      "run_id": "2026-11-02T12-44-09-579Z-a95e6c",
+      "scanned_at": "2026-11-02T12:44:27.367Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/apply/project-pitch-information",
       "target": "#q1n",
-      "html": "<input type=\"radio\" id=\"q1n\" name=\"q1\" value=\"No\">"
+      "html": "<input type=\"radio\" id=\"q1n\" name=\"q1\" value=\"No\">",
+      "page_id": "0663d2966281671c",
+      "run_id": "2026-11-02T12-44-09-579Z-a95e6c",
+      "scanned_at": "2026-11-02T12:44:27.367Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/apply/project-pitch-information",
       "target": "#q2y",
-      "html": "<input type=\"radio\" id=\"q2y\" name=\"q2\" value=\"Yes\">"
+      "html": "<input type=\"radio\" id=\"q2y\" name=\"q2\" value=\"Yes\">",
+      "page_id": "0663d2966281671c",
+      "run_id": "2026-11-02T12-44-09-579Z-a95e6c",
+      "scanned_at": "2026-11-02T12:44:27.367Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/mobile",
       "target": "#rad1",
-      "html": "<input class=\"desktop-radio\" id=\"rad1\" type=\"radio\" name=\"rad\" checked=\"checked\">"
+      "html": "<input class=\"desktop-radio\" id=\"rad1\" type=\"radio\" name=\"rad\" checked=\"checked\">",
+      "page_id": "aeae620a80c6d78a",
+      "run_id": "2026-11-03T10-44-49-718Z-5cf46e",
+      "scanned_at": "2026-11-03T10:47:31.567Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -10833,27 +11031,47 @@
      {
       "url": "https://seedfund.nsf.gov/styleguide/typography",
       "target": "html",
-      "html": "<html lang=\"en\">"
+      "html": "<html lang=\"en\">",
+      "page_id": "3dfabe5967dbacfb",
+      "run_id": "2026-11-03T13-01-13-379Z-cfcd7a",
+      "scanned_at": "2026-11-03T13:03:08.515Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/SAM.html",
       "target": "html",
-      "html": "<html><head></head><body><p>Any company that does business with the government needs a SAM account. When you register, you’ll have to share bank account information. Registration expires after one yea"
+      "html": "<html><head></head><body><p>Any company that does business with the government needs a SAM account. When you register, you’ll have to share bank account information. Registration expires after one yea",
+      "page_id": "6745a6d9bb1945de",
+      "run_id": "2026-11-04T17-32-35-948Z-f6e47f",
+      "scanned_at": "2026-11-04T17:33:53.093Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/styleguide",
       "target": "html",
-      "html": "<html lang=\"en\">"
+      "html": "<html lang=\"en\">",
+      "page_id": "882a93d58659eb13",
+      "run_id": "2026-11-04T13-19-22-439Z-f051eb",
+      "scanned_at": "2026-11-04T13:21:37.534Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/styleguide/colors",
       "target": "html",
-      "html": "<html lang=\"en\">"
+      "html": "<html lang=\"en\">",
+      "page_id": "c38db61459292a97",
+      "run_id": "2026-11-04T14-39-21-945Z-a09151",
+      "scanned_at": "2026-11-04T14:41:30.236Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/admin",
       "target": "html",
-      "html": "<html lang=\"en\" data-whatinput=\"initial\" data-whatintent=\"initial\">"
+      "html": "<html lang=\"en\" data-whatinput=\"initial\" data-whatintent=\"initial\">",
+      "page_id": "ef7d394e0db5b95d",
+      "run_id": "2026-11-02T12-44-09-579Z-a95e6c",
+      "scanned_at": "2026-11-02T12:44:50.557Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -10897,27 +11115,47 @@
      {
       "url": "https://seedfund.nsf.gov/styleguide/typography",
       "target": ".styleguide-header-wrapper > a[href$=\"styleguide/\"]",
-      "html": "<a href=\"/styleguide/\">\n      <img class=\"styleguide-logo\" src=\"/assets/img/logo/logo-2c.svg\" alt=\"NSF SBIR logo\">\n      <h1 class=\"h2\" id=\"typography\">NSF SBIR UI style guide</h1>\n    </a>"
+      "html": "<a href=\"/styleguide/\">\n      <img class=\"styleguide-logo\" src=\"/assets/img/logo/logo-2c.svg\" alt=\"NSF SBIR logo\">\n      <h1 class=\"h2\" id=\"typography\">NSF SBIR UI style guide</h1>\n    </a>",
+      "page_id": "3dfabe5967dbacfb",
+      "run_id": "2026-11-03T13-01-13-379Z-cfcd7a",
+      "scanned_at": "2026-11-03T13:03:08.515Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/styleguide/typography",
       "target": ".styleguide-page-title",
-      "html": "<h2 class=\"styleguide-page-title\">Typography</h2>"
+      "html": "<h2 class=\"styleguide-page-title\">Typography</h2>",
+      "page_id": "3dfabe5967dbacfb",
+      "run_id": "2026-11-03T13-01-13-379Z-cfcd7a",
+      "scanned_at": "2026-11-03T13:03:08.515Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/styleguide/typography",
       "target": "#font-family",
-      "html": "<h3 id=\"font-family\">Font family</h3>"
+      "html": "<h3 id=\"font-family\">Font family</h3>",
+      "page_id": "3dfabe5967dbacfb",
+      "run_id": "2026-11-03T13-01-13-379Z-cfcd7a",
+      "scanned_at": "2026-11-03T13:03:08.515Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/SAM.html",
       "target": "p",
-      "html": "<p>Any company that does business with the government needs a SAM account. When you register, you’ll have to share bank account information. Registration expires after one year.</p>"
+      "html": "<p>Any company that does business with the government needs a SAM account. When you register, you’ll have to share bank account information. Registration expires after one year.</p>",
+      "page_id": "6745a6d9bb1945de",
+      "run_id": "2026-11-04T17-32-35-948Z-f6e47f",
+      "scanned_at": "2026-11-04T17:33:53.093Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/styleguide",
       "target": ".styleguide-header-wrapper > a[href$=\"styleguide/\"]",
-      "html": "<a href=\"/styleguide/\">\n      <img class=\"styleguide-logo\" src=\"/assets/img/logo/logo-2c.svg\" alt=\"NSF SBIR logo\">\n      <h1 class=\"h2\" id=\"overview\">NSF SBIR UI style guide</h1>\n    </a>"
+      "html": "<a href=\"/styleguide/\">\n      <img class=\"styleguide-logo\" src=\"/assets/img/logo/logo-2c.svg\" alt=\"NSF SBIR logo\">\n      <h1 class=\"h2\" id=\"overview\">NSF SBIR UI style guide</h1>\n    </a>",
+      "page_id": "882a93d58659eb13",
+      "run_id": "2026-11-04T13-19-22-439Z-f051eb",
+      "scanned_at": "2026-11-04T13:21:37.534Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -10944,7 +11182,11 @@
      {
       "url": "https://seedfund.nsf.gov/SAM.html",
       "target": "html",
-      "html": "<html><head></head><body><p>Any company that does business with the government needs a SAM account. When you register, you’ll have to share bank account information. Registration expires after one yea"
+      "html": "<html><head></head><body><p>Any company that does business with the government needs a SAM account. When you register, you’ll have to share bank account information. Registration expires after one yea",
+      "page_id": "6745a6d9bb1945de",
+      "run_id": "2026-11-04T17-32-35-948Z-f6e47f",
+      "scanned_at": "2026-11-04T17:33:53.093Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -10971,7 +11213,11 @@
      {
       "url": "https://seedfund.nsf.gov/SAM.html",
       "target": "html",
-      "html": "<html><head></head><body><p>Any company that does business with the government needs a SAM account. When you register, you’ll have to share bank account information. Registration expires after one yea"
+      "html": "<html><head></head><body><p>Any company that does business with the government needs a SAM account. When you register, you’ll have to share bank account information. Registration expires after one yea",
+      "page_id": "6745a6d9bb1945de",
+      "run_id": "2026-11-04T17-32-35-948Z-f6e47f",
+      "scanned_at": "2026-11-04T17:33:53.093Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -11008,27 +11254,47 @@
      {
       "url": "https://seedfund.nsf.gov/blog/index.html",
       "target": "a[href$=\"review-decision/\"]",
-      "html": "<a href=\"/apply/review-decision/\">Proposal Review &amp; Decision</a>"
+      "html": "<a href=\"/apply/review-decision/\">Proposal Review &amp; Decision</a>",
+      "page_id": "8934bf1f667b4f76",
+      "run_id": "2026-11-04T13-19-22-439Z-f051eb",
+      "scanned_at": "2026-11-04T13:20:53.613Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/blog/index.html",
       "target": "a[href$=\"review/\"]",
-      "html": "<a href=\"/resources/review/\">For Reviewers</a>"
+      "html": "<a href=\"/resources/review/\">For Reviewers</a>",
+      "page_id": "8934bf1f667b4f76",
+      "run_id": "2026-11-04T13-19-22-439Z-f051eb",
+      "scanned_at": "2026-11-04T13:20:53.613Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/blog/index.html",
       "target": "a[href$=\"events/\"]",
-      "html": "<a href=\"/events/\">Events</a>"
+      "html": "<a href=\"/events/\">Events</a>",
+      "page_id": "8934bf1f667b4f76",
+      "run_id": "2026-11-04T13-19-22-439Z-f051eb",
+      "scanned_at": "2026-11-04T13:20:53.613Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/mobile",
       "target": "#slide1 > .inside-slide > .accslide > .content > .altTab",
-      "html": "<div class=\"altTab\">GETTING STARTED</div>"
+      "html": "<div class=\"altTab\">GETTING STARTED</div>",
+      "page_id": "aeae620a80c6d78a",
+      "run_id": "2026-11-03T10-44-49-718Z-5cf46e",
+      "scanned_at": "2026-11-03T10:47:31.567Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/mobile",
       "target": "label[for=\"rad2\"] > div",
-      "html": "<div>QUALIFICATIONS</div>"
+      "html": "<div>QUALIFICATIONS</div>",
+      "page_id": "aeae620a80c6d78a",
+      "run_id": "2026-11-03T10-44-49-718Z-5cf46e",
+      "scanned_at": "2026-11-03T10:47:31.567Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -11056,17 +11322,29 @@
      {
       "url": "https://seedfund.nsf.gov/mobile",
       "target": "#slide2 > .inside-slide > .accslide > .content > .innerScroll > .inner-body",
-      "html": "<div class=\"inner-body\">"
+      "html": "<div class=\"inner-body\">",
+      "page_id": "aeae620a80c6d78a",
+      "run_id": "2026-11-03T10-44-49-718Z-5cf46e",
+      "scanned_at": "2026-11-03T10:47:31.567Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/mobile",
       "target": "#slide2 > .inside-slide > .accslide > .content > .innerScroll > .blue-section",
-      "html": "<div class=\"blue-section\">"
+      "html": "<div class=\"blue-section\">",
+      "page_id": "aeae620a80c6d78a",
+      "run_id": "2026-11-03T10-44-49-718Z-5cf46e",
+      "scanned_at": "2026-11-03T10:47:31.567Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://seedfund.nsf.gov/mobile",
       "target": "#slide3 > .inside-slide > .accslide > .content > .innerScroll > .inner-body",
-      "html": "<div class=\"inner-body\">"
+      "html": "<div class=\"inner-body\">",
+      "page_id": "aeae620a80c6d78a",
+      "run_id": "2026-11-03T10-44-49-718Z-5cf46e",
+      "scanned_at": "2026-11-03T10:47:31.567Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -11092,7 +11370,11 @@
      {
       "url": "https://seedfund.nsf.gov/",
       "target": "article[aria-label=\"Testimonial 1\"]",
-      "html": "<article class=\"current slide\" role=\"group\" aria-roledescription=\"slide\" aria-label=\"Testimonial 1\">"
+      "html": "<article class=\"current slide\" role=\"group\" aria-roledescription=\"slide\" aria-label=\"Testimonial 1\">",
+      "page_id": "eb809796cb9882bc",
+      "run_id": "2026-11-04T15-22-12-377Z-68b000",
+      "scanned_at": "2026-11-04T15:23:56.812Z",
+      "engine_version": "4.14.0"
      }
     ]
    }
@@ -11102,7 +11384,10 @@
   "failedTotal": 6423,
   "pagesWithFailures": 258,
   "pagesScanned": 258,
+  "skippedPages": 0,
+  "skipped": [],
   "medianFailures": 23,
+  "element_evidence": null,
   "rules": {
    "sia-r20": {
     "count": 186,
@@ -11863,27 +12148,47 @@
      {
       "url": "https://seedfund.nsf.gov/awardees/history/details?company=susmax-llc",
       "target": "@aria-role=\"img\"",
-      "html": null
+      "html": null,
+      "page_id": "0067f7753fe36c3f",
+      "run_id": "2026-11-04T17-13-28-708Z-e882fb",
+      "scanned_at": "2026-11-04T17:15:46.764Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/awardees/phase-2/details?company=aalmv-inc",
       "target": "@aria-role=\"img\"",
-      "html": null
+      "html": null,
+      "page_id": "00f72b1d536577e1",
+      "run_id": "2026-11-02T13-52-18-940Z-a11c0e",
+      "scanned_at": "2026-11-02T13:54:48.889Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/awardees/phase-2/details?company=h-bar-instruments-llc",
       "target": "@aria-role=\"img\"",
-      "html": null
+      "html": null,
+      "page_id": "01847126e3296282",
+      "run_id": "2026-11-02T19-48-46-654Z-cee682",
+      "scanned_at": "2026-11-02T19:50:00.428Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/portfolio/details?company=swarm-technologies-llc",
       "target": "@aria-role=\"img\"",
-      "html": null
+      "html": null,
+      "page_id": "0316b81adb64e3fd",
+      "run_id": "2026-11-03T15-01-18-876Z-c81715",
+      "scanned_at": "2026-11-03T15:02:38.698Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/portfolio/details?company=fas-holdings-group",
       "target": "@aria-role=\"img\"",
-      "html": null
+      "html": null,
+      "page_id": "0424e1b5a00b2e1d",
+      "run_id": "2026-11-04T13-19-22-439Z-f051eb",
+      "scanned_at": "2026-11-04T13:20:40.115Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -12650,27 +12955,47 @@
      {
       "url": "https://seedfund.nsf.gov/awardees/history/details?company=susmax-llc",
       "target": "<h4 class=\"subhead uppercase\">",
-      "html": null
+      "html": null,
+      "page_id": "0067f7753fe36c3f",
+      "run_id": "2026-11-04T17-13-28-708Z-e882fb",
+      "scanned_at": "2026-11-04T17:15:46.764Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/awardees/history/details?company=susmax-llc",
       "target": "<h4 class=\"subhead uppercase\">",
-      "html": null
+      "html": null,
+      "page_id": "0067f7753fe36c3f",
+      "run_id": "2026-11-04T17-13-28-708Z-e882fb",
+      "scanned_at": "2026-11-04T17:15:46.764Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/awardees/phase-2/details?company=aalmv-inc",
       "target": "<h4 class=\"subhead uppercase\">",
-      "html": null
+      "html": null,
+      "page_id": "00f72b1d536577e1",
+      "run_id": "2026-11-02T13-52-18-940Z-a11c0e",
+      "scanned_at": "2026-11-02T13:54:48.889Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/awardees/phase-2/details?company=h-bar-instruments-llc",
       "target": "<h4 class=\"subhead uppercase\">",
-      "html": null
+      "html": null,
+      "page_id": "01847126e3296282",
+      "run_id": "2026-11-02T19-48-46-654Z-cee682",
+      "scanned_at": "2026-11-02T19:50:00.428Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/portfolio/details?company=swarm-technologies-llc",
       "target": "<h4 class=\"subhead uppercase\">",
-      "html": null
+      "html": null,
+      "page_id": "0316b81adb64e3fd",
+      "run_id": "2026-11-03T15-01-18-876Z-c81715",
+      "scanned_at": "2026-11-03T15:02:38.698Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -13441,27 +13766,47 @@
      {
       "url": "https://seedfund.nsf.gov/awardees/history/details?company=susmax-llc",
       "target": "<h2 class=\"h2 results-company-title\" style=\"\">",
-      "html": null
+      "html": null,
+      "page_id": "0067f7753fe36c3f",
+      "run_id": "2026-11-04T17-13-28-708Z-e882fb",
+      "scanned_at": "2026-11-04T17:15:46.764Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/awardees/history/details?company=susmax-llc",
       "target": "<h2 class=\"h2 results-company-title\" style=\"\">",
-      "html": null
+      "html": null,
+      "page_id": "0067f7753fe36c3f",
+      "run_id": "2026-11-04T17-13-28-708Z-e882fb",
+      "scanned_at": "2026-11-04T17:15:46.764Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/awardees/phase-2/details?company=aalmv-inc",
       "target": "<h2 class=\"h1 results-company-title\" style=\"\">",
-      "html": null
+      "html": null,
+      "page_id": "00f72b1d536577e1",
+      "run_id": "2026-11-02T13-52-18-940Z-a11c0e",
+      "scanned_at": "2026-11-02T13:54:48.889Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/awardees/phase-2/details?company=h-bar-instruments-llc",
       "target": "<h2 class=\"h1 results-company-title\" style=\"\">",
-      "html": null
+      "html": null,
+      "page_id": "01847126e3296282",
+      "run_id": "2026-11-02T19-48-46-654Z-cee682",
+      "scanned_at": "2026-11-02T19:50:00.428Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/portfolio/details?company=swarm-technologies-llc",
       "target": "<h2 class=\"h1 results-company-title\" style=\"\">",
-      "html": null
+      "html": null,
+      "page_id": "0316b81adb64e3fd",
+      "run_id": "2026-11-03T15-01-18-876Z-c81715",
+      "scanned_at": "2026-11-03T15:02:38.698Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -13732,27 +14077,47 @@
      {
       "url": "https://seedfund.nsf.gov/awardees/history/details?company=susmax-llc",
       "target": "@aria-label=\"address\"",
-      "html": null
+      "html": null,
+      "page_id": "0067f7753fe36c3f",
+      "run_id": "2026-11-04T17-13-28-708Z-e882fb",
+      "scanned_at": "2026-11-04T17:15:46.764Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/awardees/history/details?company=susmax-llc",
       "target": "@aria-label=\"address\"",
-      "html": null
+      "html": null,
+      "page_id": "0067f7753fe36c3f",
+      "run_id": "2026-11-04T17-13-28-708Z-e882fb",
+      "scanned_at": "2026-11-04T17:15:46.764Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/awardees/history/details?company=electrasteel-inc",
       "target": "@aria-label=\"address\"",
-      "html": null
+      "html": null,
+      "page_id": "04ad82b19be4dbbb",
+      "run_id": "2026-11-05T10-45-05-873Z-cc67a4",
+      "scanned_at": "2026-11-05T10:46:43.048Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/awardees/history/details?company=akanocure-pharmaceuticals-inc",
       "target": "@aria-label=\"address\"",
-      "html": null
+      "html": null,
+      "page_id": "08b0f77d48797f4a",
+      "run_id": "2026-11-04T17-32-35-948Z-f6e47f",
+      "scanned_at": "2026-11-04T17:34:02.556Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/awardees/history/details?company=akanocure-pharmaceuticals-inc",
       "target": "@aria-label=\"address\"",
-      "html": null
+      "html": null,
+      "page_id": "08b0f77d48797f4a",
+      "run_id": "2026-11-04T17-32-35-948Z-f6e47f",
+      "scanned_at": "2026-11-04T17:34:02.556Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -14799,27 +15164,47 @@
      {
       "url": "https://seedfund.nsf.gov/awardees/history/details?company=susmax-llc",
       "target": "<a href=\"mailto:Mohammad.balapour@gmail.com\">",
-      "html": null
+      "html": null,
+      "page_id": "0067f7753fe36c3f",
+      "run_id": "2026-11-04T17-13-28-708Z-e882fb",
+      "scanned_at": "2026-11-04T17:15:46.764Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/awardees/history/details?company=susmax-llc",
       "target": "<a href=\"tel:2675960027\">",
-      "html": null
+      "html": null,
+      "page_id": "0067f7753fe36c3f",
+      "run_id": "2026-11-04T17-13-28-708Z-e882fb",
+      "scanned_at": "2026-11-04T17:15:46.764Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/awardees/history/details?company=susmax-llc",
       "target": "<a href=\"mailto:Mohammad.balapour@gmail.com\">",
-      "html": null
+      "html": null,
+      "page_id": "0067f7753fe36c3f",
+      "run_id": "2026-11-04T17-13-28-708Z-e882fb",
+      "scanned_at": "2026-11-04T17:15:46.764Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/awardees/phase-2/details?company=aalmv-inc",
       "target": "<a href=\"mailto:smoola@sofwolf.org\">",
-      "html": null
+      "html": null,
+      "page_id": "00f72b1d536577e1",
+      "run_id": "2026-11-02T13-52-18-940Z-a11c0e",
+      "scanned_at": "2026-11-02T13:54:48.889Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/awardees/phase-2/details?company=aalmv-inc",
       "target": "<a href=\"tel:2022563726\">",
-      "html": null
+      "html": null,
+      "page_id": "00f72b1d536577e1",
+      "run_id": "2026-11-02T13-52-18-940Z-a11c0e",
+      "scanned_at": "2026-11-02T13:54:48.889Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -14850,17 +15235,29 @@
      {
       "url": "https://seedfund.nsf.gov/topics/semiconductors",
       "target": "<p class=\"subhead\">",
-      "html": null
+      "html": null,
+      "page_id": "096d61e18929ef79",
+      "run_id": "2026-11-02T19-48-46-654Z-cee682",
+      "scanned_at": "2026-11-02T19:50:47.817Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/topics/energy-technologies",
       "target": "<p class=\"subhead\">",
-      "html": null
+      "html": null,
+      "page_id": "49b5dc3609e45d1a",
+      "run_id": "2026-11-04T14-39-21-945Z-a09151",
+      "scanned_at": "2026-11-04T14:41:11.993Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/topics/environmental-technologies",
       "target": "<p class=\"subhead\">",
-      "html": null
+      "html": null,
+      "page_id": "9595064e62ffe149",
+      "run_id": "2026-11-04T17-13-28-708Z-e882fb",
+      "scanned_at": "2026-11-04T17:15:19.505Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -14943,27 +15340,47 @@
      {
       "url": "https://seedfund.nsf.gov/resources/review/virtual-panelist",
       "target": "text: \"\n      Reviewers\n    \"",
-      "html": null
+      "html": null,
+      "page_id": "0a110007bc797016",
+      "run_id": "2026-11-02T12-44-09-579Z-a95e6c",
+      "scanned_at": "2026-11-02T12:45:54.589Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/resources/review/virtual-panelist",
       "target": "text: \"\n      Review process\n    \"",
-      "html": null
+      "html": null,
+      "page_id": "0a110007bc797016",
+      "run_id": "2026-11-02T12-44-09-579Z-a95e6c",
+      "scanned_at": "2026-11-02T12:45:54.589Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/resources/review/virtual-panelist",
       "target": "text: \"\n      Merit review\n    \"",
-      "html": null
+      "html": null,
+      "page_id": "0a110007bc797016",
+      "run_id": "2026-11-02T12-44-09-579Z-a95e6c",
+      "scanned_at": "2026-11-02T12:45:54.589Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/how-to-submit/proposal-submission",
       "target": "text: \"\n      Overview\n    \"",
-      "html": null
+      "html": null,
+      "page_id": "1981e5a42f234a0b",
+      "run_id": "2026-11-02T18-42-51-846Z-68928f",
+      "scanned_at": "2026-11-02T18:44:31.475Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/how-to-submit/proposal-submission",
       "target": "text: \"\n      Required Registrations\n    \"",
-      "html": null
+      "html": null,
+      "page_id": "1981e5a42f234a0b",
+      "run_id": "2026-11-02T18-42-51-846Z-68928f",
+      "scanned_at": "2026-11-02T18:44:31.475Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -15178,27 +15595,47 @@
      {
       "url": "https://seedfund.nsf.gov/news/aclarity",
       "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
-      "html": null
+      "html": null,
+      "page_id": "0a9411bd141aa126",
+      "run_id": "2026-11-02T12-44-09-579Z-a95e6c",
+      "scanned_at": "2026-11-02T12:44:18.557Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/news/noble-gas-systems",
       "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
-      "html": null
+      "html": null,
+      "page_id": "0e02824fd967697e",
+      "run_id": "2026-11-03T16-27-12-685Z-3c2ab5",
+      "scanned_at": "2026-11-03T16:27:59.274Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/news/akanocure-pharmaceuticals",
       "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
-      "html": null
+      "html": null,
+      "page_id": "100b00528a640b9e",
+      "run_id": "2026-11-04T14-39-21-945Z-a09151",
+      "scanned_at": "2026-11-04T14:40:33.346Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/news/XonaSpaceSystems",
       "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
-      "html": null
+      "html": null,
+      "page_id": "1ee5548d2fb80d39",
+      "run_id": "2026-11-04T12-42-03-451Z-ee6e95",
+      "scanned_at": "2026-11-04T12:43:59.616Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/news/MangoMaterials",
       "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
-      "html": null
+      "html": null,
+      "page_id": "20d883793022c477",
+      "run_id": "2026-11-04T12-33-00-900Z-fcfb54",
+      "scanned_at": "2026-11-04T12:33:34.963Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -15233,22 +15670,38 @@
      {
       "url": "https://seedfund.nsf.gov/centers/ceps/novel-aerogel-based-insulation-may-transform-building-efficiency",
       "target": "<a href=\"/centers/focus-area/\">",
-      "html": null
+      "html": null,
+      "page_id": "3f5289da028c7ff4",
+      "run_id": "2026-11-02T18-42-51-846Z-68928f",
+      "scanned_at": "2026-11-02T18:43:51.434Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/centers/ceps/novel-additives-promise-strong-lightweight-composites-for-commercial-transportation",
       "target": "<a href=\"/centers/focus-area/\">",
-      "html": null
+      "html": null,
+      "page_id": "601c2ab033b45fc9",
+      "run_id": "2026-11-02T13-52-18-940Z-a11c0e",
+      "scanned_at": "2026-11-02T13:54:11.105Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/centers/ceps/chlorine-resistant-membranes-promise-a-new-era-for-reverse-osmosis",
       "target": "<a href=\"/centers/focus-area/\">",
-      "html": null
+      "html": null,
+      "page_id": "98da89ea7298a576",
+      "run_id": "2026-11-03T15-01-18-876Z-c81715",
+      "scanned_at": "2026-11-03T15:02:07.305Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/centers/ceps/providing-complete-hydrothermal-destruction-of-pfas",
       "target": "<a href=\"/centers/focus-area/\">",
-      "html": null
+      "html": null,
+      "page_id": "c35236906e8343f4",
+      "run_id": "2026-11-02T13-52-18-940Z-a11c0e",
+      "scanned_at": "2026-11-02T13:54:43.664Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -15269,7 +15722,11 @@
      {
       "url": "https://seedfund.nsf.gov/SAM.html",
       "target": "<html>",
-      "html": null
+      "html": null,
+      "page_id": "6745a6d9bb1945de",
+      "run_id": "2026-11-04T17-32-35-948Z-f6e47f",
+      "scanned_at": "2026-11-04T17:33:53.093Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -15290,7 +15747,11 @@
      {
       "url": "https://seedfund.nsf.gov/SAM.html",
       "target": "{\"type\":\"document\",\"children\":[{\"type\":\"element\",\"children\":[{\"type\":\"element\",\"",
-      "html": null
+      "html": null,
+      "page_id": "6745a6d9bb1945de",
+      "run_id": "2026-11-04T17-32-35-948Z-f6e47f",
+      "scanned_at": "2026-11-04T17:33:53.093Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -15311,7 +15772,11 @@
      {
       "url": "https://seedfund.nsf.gov/SAM.html",
       "target": "<p>",
-      "html": null
+      "html": null,
+      "page_id": "6745a6d9bb1945de",
+      "run_id": "2026-11-04T17-32-35-948Z-f6e47f",
+      "scanned_at": "2026-11-04T17:33:53.093Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -15332,7 +15797,11 @@
      {
       "url": "https://seedfund.nsf.gov/SAM.html",
       "target": "{\"type\":\"document\",\"children\":[{\"type\":\"element\",\"children\":[{\"type\":\"element\",\"",
-      "html": null
+      "html": null,
+      "page_id": "6745a6d9bb1945de",
+      "run_id": "2026-11-04T17-32-35-948Z-f6e47f",
+      "scanned_at": "2026-11-04T17:33:53.093Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -15353,7 +15822,11 @@
      {
       "url": "https://seedfund.nsf.gov/SAM.html",
       "target": "{\"type\":\"document\",\"children\":[{\"type\":\"element\",\"children\":[{\"type\":\"element\",\"",
-      "html": null
+      "html": null,
+      "page_id": "6745a6d9bb1945de",
+      "run_id": "2026-11-04T17-32-35-948Z-f6e47f",
+      "scanned_at": "2026-11-04T17:33:53.093Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -15374,17 +15847,29 @@
      {
       "url": "https://seedfund.nsf.gov/styleguide",
       "target": "text: \"Overview\"",
-      "html": null
+      "html": null,
+      "page_id": "882a93d58659eb13",
+      "run_id": "2026-11-04T13-19-22-439Z-f051eb",
+      "scanned_at": "2026-11-04T13:21:37.534Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/styleguide",
       "target": "text: \"This is the user interface (UI) style guide for \"",
-      "html": null
+      "html": null,
+      "page_id": "882a93d58659eb13",
+      "run_id": "2026-11-04T13-19-22-439Z-f051eb",
+      "scanned_at": "2026-11-04T13:21:37.534Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/styleguide",
       "target": "text: \"seedfund.nsf.gov\"",
-      "html": null
+      "html": null,
+      "page_id": "882a93d58659eb13",
+      "run_id": "2026-11-04T13-19-22-439Z-f051eb",
+      "scanned_at": "2026-11-04T13:21:37.534Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -15410,12 +15895,20 @@
      {
       "url": "https://seedfund.nsf.gov/blog/index.html",
       "target": "<ul class=\"usa-list usa-list--unstyled padding-top-2\">",
-      "html": null
+      "html": null,
+      "page_id": "8934bf1f667b4f76",
+      "run_id": "2026-11-04T13-19-22-439Z-f051eb",
+      "scanned_at": "2026-11-04T13:20:53.613Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/awardees/phase-2/details?company=tactai",
       "target": "<ul class=\"list results list-reset\" style=\"\">",
-      "html": null
+      "html": null,
+      "page_id": "a9d04c3ee1463def",
+      "run_id": "2026-11-04T12-42-03-451Z-ee6e95",
+      "scanned_at": "2026-11-04T12:42:15.207Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -15441,17 +15934,29 @@
      {
       "url": "https://seedfund.nsf.gov/blog/index.html",
       "target": "text: \"\n          Page 1 of 1\n        \"",
-      "html": null
+      "html": null,
+      "page_id": "8934bf1f667b4f76",
+      "run_id": "2026-11-04T13-19-22-439Z-f051eb",
+      "scanned_at": "2026-11-04T13:20:53.613Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/mobile",
       "target": "text: \"GETTING STARTED\"",
-      "html": null
+      "html": null,
+      "page_id": "aeae620a80c6d78a",
+      "run_id": "2026-11-03T10-44-49-718Z-5cf46e",
+      "scanned_at": "2026-11-03T10:47:31.567Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://seedfund.nsf.gov/mobile",
       "target": "text: \"QUALIFICATIONS\"",
-      "html": null
+      "html": null,
+      "page_id": "aeae620a80c6d78a",
+      "run_id": "2026-11-03T10-44-49-718Z-5cf46e",
+      "scanned_at": "2026-11-03T10:47:31.567Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -15472,7 +15977,11 @@
      {
       "url": "https://seedfund.nsf.gov/mobile",
       "target": "<input class=\"desktop-radio\" id=\"rad1\" type=\"radio\" name=\"rad\">",
-      "html": null
+      "html": null,
+      "page_id": "aeae620a80c6d78a",
+      "run_id": "2026-11-03T10-44-49-718Z-5cf46e",
+      "scanned_at": "2026-11-03T10:47:31.567Z",
+      "engine_version": "0.117.0"
      }
     ]
    }
@@ -15775,6 +16284,16 @@
    }
   }
  },
+ "regions": {
+  "basis": "stored_examples",
+  "findings_total": 35,
+  "findings_with_region": 0,
+  "findings_unclassified": 0,
+  "findings_without_evidence": 35,
+  "regions": [],
+  "csv": "seedfund.nsf.gov_02NOV2026_regions.csv"
+ },
+ "widgetGroups": null,
  "sustainability": {
   "pages": 41,
   "medianBytes": 1741682,
@@ -17035,46 +17554,6 @@
   "pwaSignals": [],
   "recommendations": [
    {
-    "id": "render-blocking-insight",
-    "category": "performance",
-    "title": "Render-blocking requests",
-    "pages": 58,
-    "examplePages": [
-     "https://seedfund.nsf.gov/awardees/history/details?company=susmax-llc",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=aalmv-inc",
-     "https://seedfund.nsf.gov/topics/space",
-     "https://seedfund.nsf.gov/apply/project-pitch-information",
-     "https://seedfund.nsf.gov/resources/review/virtual-panelist",
-     "https://seedfund.nsf.gov/showcase/cep/page/4/index.html",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=nutramaize-llc",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=cpr-therapeutics-inc",
-     "https://seedfund.nsf.gov/portfolio/details?company=elektrofi-inc",
-     "https://seedfund.nsf.gov/topics/human-computer-interaction"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 120750
-   },
-   {
-    "id": "cache-insight",
-    "category": "performance",
-    "title": "Use efficient cache lifetimes",
-    "pages": 58,
-    "examplePages": [
-     "https://seedfund.nsf.gov/awardees/history/details?company=susmax-llc",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=aalmv-inc",
-     "https://seedfund.nsf.gov/topics/space",
-     "https://seedfund.nsf.gov/apply/project-pitch-information",
-     "https://seedfund.nsf.gov/resources/review/virtual-panelist",
-     "https://seedfund.nsf.gov/showcase/cep/page/4/index.html",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=nutramaize-llc",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=cpr-therapeutics-inc",
-     "https://seedfund.nsf.gov/portfolio/details?company=elektrofi-inc",
-     "https://seedfund.nsf.gov/topics/human-computer-interaction"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 87800
-   },
-   {
     "id": "unused-javascript",
     "category": "performance",
     "title": "Reduce unused JavaScript",
@@ -17092,7 +17571,11 @@
      "https://seedfund.nsf.gov/topics/human-computer-interaction"
     ],
     "savingsBytes": 13922591,
-    "savingsMs": 62900
+    "savingsMs": 62900,
+    "savingsBytesMedian": 234896,
+    "savingsBytesP75": 237275,
+    "savingsMsMedian": 1200,
+    "savingsMsP75": 1350
    },
    {
     "id": "unused-css-rules",
@@ -17112,107 +17595,11 @@
      "https://seedfund.nsf.gov/topics/human-computer-interaction"
     ],
     "savingsBytes": 4506919,
-    "savingsMs": 41950
-   },
-   {
-    "id": "mainthread-work-breakdown",
-    "category": "performance",
-    "title": "Minimize main-thread work",
-    "pages": 58,
-    "examplePages": [
-     "https://seedfund.nsf.gov/awardees/history/details?company=susmax-llc",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=aalmv-inc",
-     "https://seedfund.nsf.gov/topics/space",
-     "https://seedfund.nsf.gov/apply/project-pitch-information",
-     "https://seedfund.nsf.gov/resources/review/virtual-panelist",
-     "https://seedfund.nsf.gov/showcase/cep/page/4/index.html",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=nutramaize-llc",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=cpr-therapeutics-inc",
-     "https://seedfund.nsf.gov/portfolio/details?company=elektrofi-inc",
-     "https://seedfund.nsf.gov/topics/human-computer-interaction"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 36250
-   },
-   {
-    "id": "bootup-time",
-    "category": "performance",
-    "title": "JavaScript execution time",
-    "pages": 58,
-    "examplePages": [
-     "https://seedfund.nsf.gov/awardees/history/details?company=susmax-llc",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=aalmv-inc",
-     "https://seedfund.nsf.gov/topics/space",
-     "https://seedfund.nsf.gov/apply/project-pitch-information",
-     "https://seedfund.nsf.gov/resources/review/virtual-panelist",
-     "https://seedfund.nsf.gov/showcase/cep/page/4/index.html",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=nutramaize-llc",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=cpr-therapeutics-inc",
-     "https://seedfund.nsf.gov/portfolio/details?company=elektrofi-inc",
-     "https://seedfund.nsf.gov/topics/human-computer-interaction"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 32500
-   },
-   {
-    "id": "first-contentful-paint",
-    "category": "performance",
-    "title": "First Contentful Paint",
-    "pages": 58,
-    "examplePages": [
-     "https://seedfund.nsf.gov/awardees/history/details?company=susmax-llc",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=aalmv-inc",
-     "https://seedfund.nsf.gov/topics/space",
-     "https://seedfund.nsf.gov/apply/project-pitch-information",
-     "https://seedfund.nsf.gov/resources/review/virtual-panelist",
-     "https://seedfund.nsf.gov/showcase/cep/page/4/index.html",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=nutramaize-llc",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=cpr-therapeutics-inc",
-     "https://seedfund.nsf.gov/portfolio/details?company=elektrofi-inc",
-     "https://seedfund.nsf.gov/topics/human-computer-interaction"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 0
-   },
-   {
-    "id": "largest-contentful-paint",
-    "category": "performance",
-    "title": "Largest Contentful Paint",
-    "pages": 58,
-    "examplePages": [
-     "https://seedfund.nsf.gov/awardees/history/details?company=susmax-llc",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=aalmv-inc",
-     "https://seedfund.nsf.gov/topics/space",
-     "https://seedfund.nsf.gov/apply/project-pitch-information",
-     "https://seedfund.nsf.gov/resources/review/virtual-panelist",
-     "https://seedfund.nsf.gov/showcase/cep/page/4/index.html",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=nutramaize-llc",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=cpr-therapeutics-inc",
-     "https://seedfund.nsf.gov/portfolio/details?company=elektrofi-inc",
-     "https://seedfund.nsf.gov/topics/human-computer-interaction"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 0
-   },
-   {
-    "id": "max-potential-fid",
-    "category": "performance",
-    "title": "Max Potential First Input Delay",
-    "pages": 58,
-    "examplePages": [
-     "https://seedfund.nsf.gov/awardees/history/details?company=susmax-llc",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=aalmv-inc",
-     "https://seedfund.nsf.gov/topics/space",
-     "https://seedfund.nsf.gov/apply/project-pitch-information",
-     "https://seedfund.nsf.gov/resources/review/virtual-panelist",
-     "https://seedfund.nsf.gov/showcase/cep/page/4/index.html",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=nutramaize-llc",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=cpr-therapeutics-inc",
-     "https://seedfund.nsf.gov/portfolio/details?company=elektrofi-inc",
-     "https://seedfund.nsf.gov/topics/human-computer-interaction"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 41950,
+    "savingsBytesMedian": 77688,
+    "savingsBytesP75": 77731,
+    "savingsMsMedian": 750,
+    "savingsMsP75": 850
    },
    {
     "id": "errors-in-console",
@@ -17232,27 +17619,11 @@
      "https://seedfund.nsf.gov/topics/human-computer-interaction"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
-   },
-   {
-    "id": "interactive",
-    "category": "performance",
-    "title": "Time to Interactive",
-    "pages": 58,
-    "examplePages": [
-     "https://seedfund.nsf.gov/awardees/history/details?company=susmax-llc",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=aalmv-inc",
-     "https://seedfund.nsf.gov/topics/space",
-     "https://seedfund.nsf.gov/apply/project-pitch-information",
-     "https://seedfund.nsf.gov/resources/review/virtual-panelist",
-     "https://seedfund.nsf.gov/showcase/cep/page/4/index.html",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=nutramaize-llc",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=cpr-therapeutics-inc",
-     "https://seedfund.nsf.gov/portfolio/details?company=elektrofi-inc",
-     "https://seedfund.nsf.gov/topics/human-computer-interaction"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "image-size-responsive",
@@ -17272,7 +17643,59 @@
      "https://seedfund.nsf.gov/topics/human-computer-interaction"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
+   },
+   {
+    "id": "mainthread-work-breakdown",
+    "category": "performance",
+    "title": "Minimize main-thread work",
+    "pages": 58,
+    "examplePages": [
+     "https://seedfund.nsf.gov/awardees/history/details?company=susmax-llc",
+     "https://seedfund.nsf.gov/awardees/phase-2/details?company=aalmv-inc",
+     "https://seedfund.nsf.gov/topics/space",
+     "https://seedfund.nsf.gov/apply/project-pitch-information",
+     "https://seedfund.nsf.gov/resources/review/virtual-panelist",
+     "https://seedfund.nsf.gov/showcase/cep/page/4/index.html",
+     "https://seedfund.nsf.gov/awardees/phase-2/details?company=nutramaize-llc",
+     "https://seedfund.nsf.gov/awardees/phase-2/details?company=cpr-therapeutics-inc",
+     "https://seedfund.nsf.gov/portfolio/details?company=elektrofi-inc",
+     "https://seedfund.nsf.gov/topics/human-computer-interaction"
+    ],
+    "savingsBytes": 0,
+    "savingsMs": 36250,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 550,
+    "savingsMsP75": 700
+   },
+   {
+    "id": "bootup-time",
+    "category": "performance",
+    "title": "JavaScript execution time",
+    "pages": 58,
+    "examplePages": [
+     "https://seedfund.nsf.gov/awardees/history/details?company=susmax-llc",
+     "https://seedfund.nsf.gov/awardees/phase-2/details?company=aalmv-inc",
+     "https://seedfund.nsf.gov/topics/space",
+     "https://seedfund.nsf.gov/apply/project-pitch-information",
+     "https://seedfund.nsf.gov/resources/review/virtual-panelist",
+     "https://seedfund.nsf.gov/showcase/cep/page/4/index.html",
+     "https://seedfund.nsf.gov/awardees/phase-2/details?company=nutramaize-llc",
+     "https://seedfund.nsf.gov/awardees/phase-2/details?company=cpr-therapeutics-inc",
+     "https://seedfund.nsf.gov/portfolio/details?company=elektrofi-inc",
+     "https://seedfund.nsf.gov/topics/human-computer-interaction"
+    ],
+    "savingsBytes": 0,
+    "savingsMs": 32500,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 550,
+    "savingsMsP75": 600
    },
    {
     "id": "link-text",
@@ -17292,7 +17715,11 @@
      "https://seedfund.nsf.gov/topics/human-computer-interaction"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "webmcp-registered-tools",
@@ -17312,7 +17739,11 @@
      "https://seedfund.nsf.gov/topics/human-computer-interaction"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "webmcp-form-coverage",
@@ -17332,7 +17763,11 @@
      "https://seedfund.nsf.gov/topics/human-computer-interaction"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "webmcp-schema-validity",
@@ -17352,7 +17787,11 @@
      "https://seedfund.nsf.gov/topics/human-computer-interaction"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "llms-txt",
@@ -17372,7 +17811,11 @@
      "https://seedfund.nsf.gov/topics/human-computer-interaction"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "ard-schema",
@@ -17392,7 +17835,35 @@
      "https://seedfund.nsf.gov/topics/human-computer-interaction"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
+   },
+   {
+    "id": "cache-insight",
+    "category": "performance",
+    "title": "Use efficient cache lifetimes",
+    "pages": 58,
+    "examplePages": [
+     "https://seedfund.nsf.gov/awardees/history/details?company=susmax-llc",
+     "https://seedfund.nsf.gov/awardees/phase-2/details?company=aalmv-inc",
+     "https://seedfund.nsf.gov/topics/space",
+     "https://seedfund.nsf.gov/apply/project-pitch-information",
+     "https://seedfund.nsf.gov/resources/review/virtual-panelist",
+     "https://seedfund.nsf.gov/showcase/cep/page/4/index.html",
+     "https://seedfund.nsf.gov/awardees/phase-2/details?company=nutramaize-llc",
+     "https://seedfund.nsf.gov/awardees/phase-2/details?company=cpr-therapeutics-inc",
+     "https://seedfund.nsf.gov/portfolio/details?company=elektrofi-inc",
+     "https://seedfund.nsf.gov/topics/human-computer-interaction"
+    ],
+    "savingsBytes": 0,
+    "savingsMs": 87800,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 1450,
+    "savingsMsP75": 1600
    },
    {
     "id": "network-dependency-tree-insight",
@@ -17412,13 +17883,17 @@
      "https://seedfund.nsf.gov/topics/human-computer-interaction"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
-    "id": "total-blocking-time",
+    "id": "render-blocking-insight",
     "category": "performance",
-    "title": "Total Blocking Time",
-    "pages": 57,
+    "title": "Render-blocking requests",
+    "pages": 58,
     "examplePages": [
      "https://seedfund.nsf.gov/awardees/history/details?company=susmax-llc",
      "https://seedfund.nsf.gov/awardees/phase-2/details?company=aalmv-inc",
@@ -17429,10 +17904,14 @@
      "https://seedfund.nsf.gov/awardees/phase-2/details?company=nutramaize-llc",
      "https://seedfund.nsf.gov/awardees/phase-2/details?company=cpr-therapeutics-inc",
      "https://seedfund.nsf.gov/portfolio/details?company=elektrofi-inc",
-     "https://seedfund.nsf.gov/how-to-submit/proposal-submission"
+     "https://seedfund.nsf.gov/topics/human-computer-interaction"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 120750,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 2400,
+    "savingsMsP75": 2450
    },
    {
     "id": "redirects",
@@ -17452,7 +17931,11 @@
      "https://seedfund.nsf.gov/how-to-submit/proposal-submission"
     ],
     "savingsBytes": 0,
-    "savingsMs": 47950
+    "savingsMs": 47950,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 850,
+    "savingsMsP75": 900
    },
    {
     "id": "document-latency-insight",
@@ -17472,7 +17955,11 @@
      "https://seedfund.nsf.gov/how-to-submit/proposal-submission"
     ],
     "savingsBytes": 0,
-    "savingsMs": 7300
+    "savingsMs": 7300,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 100,
+    "savingsMsP75": 200
    },
    {
     "id": "font-display-insight",
@@ -17492,7 +17979,11 @@
      "https://seedfund.nsf.gov/how-to-submit/proposal-submission"
     ],
     "savingsBytes": 0,
-    "savingsMs": 7500
+    "savingsMs": 7500,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 150,
+    "savingsMsP75": 200
    },
    {
     "id": "meta-description",
@@ -17512,47 +18003,11 @@
      "https://seedfund.nsf.gov/resources/awardees/supplement/overview"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
-   },
-   {
-    "id": "speed-index",
-    "category": "performance",
-    "title": "Speed Index",
-    "pages": 46,
-    "examplePages": [
-     "https://seedfund.nsf.gov/awardees/history/details?company=susmax-llc",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=aalmv-inc",
-     "https://seedfund.nsf.gov/topics/space",
-     "https://seedfund.nsf.gov/apply/project-pitch-information",
-     "https://seedfund.nsf.gov/resources/review/virtual-panelist",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=nutramaize-llc",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=cpr-therapeutics-inc",
-     "https://seedfund.nsf.gov/portfolio/details?company=elektrofi-inc",
-     "https://seedfund.nsf.gov/topics/human-computer-interaction",
-     "https://seedfund.nsf.gov/how-to-submit/proposal-submission"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 0
-   },
-   {
-    "id": "cumulative-layout-shift",
-    "category": "agentic-browsing",
-    "title": "Cumulative Layout Shift",
-    "pages": 31,
-    "examplePages": [
-     "https://seedfund.nsf.gov/apply/project-pitch-information",
-     "https://seedfund.nsf.gov/showcase/cep/page/4/index.html",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=nutramaize-llc",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=cpr-therapeutics-inc",
-     "https://seedfund.nsf.gov/portfolio/details?company=elektrofi-inc",
-     "https://seedfund.nsf.gov/how-to-submit/proposal-submission",
-     "https://seedfund.nsf.gov/news/squishy-robotics",
-     "https://seedfund.nsf.gov/resources/awardees/supplement/overview",
-     "https://seedfund.nsf.gov/awardees/phase-2/details?company=helix-earth-technologies-inc",
-     "https://seedfund.nsf.gov/awardees/phase-1/details?company=cambrya-inc"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "cls-culprits-insight",
@@ -17572,7 +18027,11 @@
      "https://seedfund.nsf.gov/awardees/phase-1/details?company=cambrya-inc"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "server-response-time",
@@ -17592,7 +18051,11 @@
      "https://seedfund.nsf.gov/awardees/phase-2/details?company=completionai-llc"
     ],
     "savingsBytes": 0,
-    "savingsMs": 2600
+    "savingsMs": 2600,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 100,
+    "savingsMsP75": 150
    },
    {
     "id": "image-delivery-insight",
@@ -17612,7 +18075,11 @@
      "https://seedfund.nsf.gov/awardees/phase-2/details?company=mellicell-inc"
     ],
     "savingsBytes": 0,
-    "savingsMs": 5950
+    "savingsMs": 5950,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 150,
+    "savingsMsP75": 300
    },
    {
     "id": "forced-reflow-insight",
@@ -17632,7 +18099,11 @@
      "https://seedfund.nsf.gov/awardees/phase-2/details?company=tactai"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "lcp-breakdown-insight",
@@ -17647,7 +18118,11 @@
      "https://seedfund.nsf.gov/portfolio/details?company=lunewave-inc"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "inspector-issues",
@@ -17659,7 +18134,11 @@
      "https://seedfund.nsf.gov/topics/human-computer-interaction"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "lcp-discovery-insight",
@@ -17670,7 +18149,11 @@
      "https://seedfund.nsf.gov/topics/space"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "agent-accessibility-tree",
@@ -17681,7 +18164,11 @@
      "https://seedfund.nsf.gov/apply/project-pitch-information"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "bf-cache",
@@ -17692,7 +18179,11 @@
      "https://seedfund.nsf.gov/apply/project-pitch-information"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "third-party-cookies",
@@ -17703,7 +18194,11 @@
      "https://seedfund.nsf.gov/topics/human-computer-interaction"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    }
   ]
  },
@@ -37950,6 +38445,7 @@
   "drift_clusters": []
  },
  "sharedComponents": null,
+ "componentGroups": null,
  "pageFamilies": null,
  "pagesAttempted": 500,
  "pagesSucceeded": 488,
@@ -37972,5 +38468,66 @@
   "errorStatuses": {
    "404": 9
   }
+ },
+ "evidenceCoverage": {
+  "basis": "findings",
+  "findings_total": 35,
+  "occurrences_stored": 126,
+  "element_evidence": {
+   "captured": 0,
+   "not_captured": 17,
+   "not_applicable": 18,
+   "unsupported_dom_boundary": 0,
+   "no_stored_examples": 0
+  },
+  "usable_locator": {
+   "captured": 0,
+   "unavailable": 35
+  },
+  "semantic_region": {
+   "captured": 0,
+   "no_containing_landmark": 0,
+   "unavailable": 35
+  },
+  "widget": {
+   "captured": 0,
+   "no_widget": 0,
+   "unavailable": 35
+  },
+  "component": {
+   "attributed": 0,
+   "unattributed": 35
+  },
+  "screenshot": {
+   "available": 0,
+   "unavailable": 35
+  },
+  "reproduction": {
+   "eligible": 0,
+   "unavailable": 35
+  },
+  "findings_with_detailed_evidence": 0,
+  "findings_without_detailed_evidence": 35,
+  "by_engine": {
+   "axe-core": {
+    "findings": 17,
+    "element_captured": 0,
+    "locator_captured": 0,
+    "reproduction_eligible": 0
+   },
+   "alfa": {
+    "findings": 18,
+    "element_captured": 0,
+    "locator_captured": 0,
+    "reproduction_eligible": 0
+   },
+   "deprecated-html": {
+    "findings": 0,
+    "element_captured": 0,
+    "locator_captured": 0,
+    "reproduction_eligible": 0
+   }
+  },
+  "notes": "Finding-level sample coverage. Counts are not element-occurrence totals; screenshots and page detail follow retention."
  }
 }

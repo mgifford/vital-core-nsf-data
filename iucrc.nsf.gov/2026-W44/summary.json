@@ -1,7 +1,7 @@
 {
  "domain": "iucrc.nsf.gov",
  "week": "2026-W44",
- "generatedAt": "2026-11-05T18:20:13.448Z",
+ "generatedAt": "2026-11-15T02:04:46.761Z",
  "pagesScanned": 218,
  "pagesAudited": 205,
  "coverage": {
@@ -22,6 +22,8 @@
   "pagesWithViolations": 205,
   "pagesScanned": 205,
   "medianViolations": 13,
+  "context": null,
+  "element_evidence": null,
   "rules": {
    "heading-order": {
     "count": 204,
@@ -783,27 +785,47 @@
      {
       "url": "https://iucrc.nsf.gov/search",
       "target": "h4",
-      "html": "<h4 class=\"footer__list-title\">Resource Links</h4>"
+      "html": "<h4 class=\"footer__list-title\">Resource Links</h4>",
+      "page_id": "00f75ff96e970346",
+      "run_id": "2026-10-26T16-19-54-734Z-3f12f9",
+      "scanned_at": "2026-10-26T16:21:55.191Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://iucrc.nsf.gov/centers/achievements/membrane-based-technologies",
       "target": "h4",
-      "html": "<h4 class=\"footer__list-title\">Resource Links</h4>"
+      "html": "<h4 class=\"footer__list-title\">Resource Links</h4>",
+      "page_id": "01ff38c2a829ed27",
+      "run_id": "2026-10-26T14-10-42-533Z-5f6f91",
+      "scanned_at": "2026-10-26T14:12:19.432Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://iucrc.nsf.gov/centers/center-calendar",
       "target": "h4",
-      "html": "<h4 class=\"footer__list-title\">Resource Links</h4>"
+      "html": "<h4 class=\"footer__list-title\">Resource Links</h4>",
+      "page_id": "03c01f86d677fbd6",
+      "run_id": "2026-10-26T14-10-42-533Z-5f6f91",
+      "scanned_at": "2026-10-26T14:11:29.883Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://iucrc.nsf.gov/",
       "target": "a[href$=\"industry\"] > .three-column-cta__card > .three-column-cta__content > h4",
-      "html": "<h4>Value to Industry</h4>"
+      "html": "<h4>Value to Industry</h4>",
+      "page_id": "05bfc5d7f5d7a8fe",
+      "run_id": "2026-10-26T14-10-42-533Z-5f6f91",
+      "scanned_at": "2026-10-26T14:11:34.307Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://iucrc.nsf.gov/",
       "target": ".footer__list-title",
-      "html": "<h4 class=\"footer__list-title\">Resource Links</h4>"
+      "html": "<h4 class=\"footer__list-title\">Resource Links</h4>",
+      "page_id": "05bfc5d7f5d7a8fe",
+      "run_id": "2026-10-26T14-10-42-533Z-5f6f91",
+      "scanned_at": "2026-10-26T14:11:34.307Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -1639,27 +1661,47 @@
      {
       "url": "https://iucrc.nsf.gov/search",
       "target": ".usa-banner__header",
-      "html": "<header class=\"usa-banner__header\">"
+      "html": "<header class=\"usa-banner__header\">",
+      "page_id": "00f75ff96e970346",
+      "run_id": "2026-10-26T16-19-54-734Z-3f12f9",
+      "scanned_at": "2026-10-26T16:21:55.191Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://iucrc.nsf.gov/centers/achievements/membrane-based-technologies",
       "target": ".usa-banner__header",
-      "html": "<header class=\"usa-banner__header\">"
+      "html": "<header class=\"usa-banner__header\">",
+      "page_id": "01ff38c2a829ed27",
+      "run_id": "2026-10-26T14-10-42-533Z-5f6f91",
+      "scanned_at": "2026-10-26T14:12:19.432Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://iucrc.nsf.gov/centers/center-calendar",
       "target": ".usa-banner__header",
-      "html": "<header class=\"usa-banner__header\">"
+      "html": "<header class=\"usa-banner__header\">",
+      "page_id": "03c01f86d677fbd6",
+      "run_id": "2026-10-26T14-10-42-533Z-5f6f91",
+      "scanned_at": "2026-10-26T14:11:29.883Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://iucrc.nsf.gov/",
       "target": ".usa-banner__header",
-      "html": "<header class=\"usa-banner__header\">"
+      "html": "<header class=\"usa-banner__header\">",
+      "page_id": "05bfc5d7f5d7a8fe",
+      "run_id": "2026-10-26T14-10-42-533Z-5f6f91",
+      "scanned_at": "2026-10-26T14:11:34.307Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://iucrc.nsf.gov/centers/center-for-composite-and-hybrid-materials-interfacing-chmi",
       "target": ".usa-banner__header",
-      "html": "<header class=\"usa-banner__header\">"
+      "html": "<header class=\"usa-banner__header\">",
+      "page_id": "07a649197d8cebed",
+      "run_id": "2026-10-26T08-48-35-275Z-d7b303",
+      "scanned_at": "2026-10-26T08:49:20.507Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -2495,27 +2537,47 @@
      {
       "url": "https://iucrc.nsf.gov/search",
       "target": ".usa-header",
-      "html": "<header class=\"usa-header usa-header--basic\">"
+      "html": "<header class=\"usa-header usa-header--basic\">",
+      "page_id": "00f75ff96e970346",
+      "run_id": "2026-10-26T16-19-54-734Z-3f12f9",
+      "scanned_at": "2026-10-26T16:21:55.191Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://iucrc.nsf.gov/centers/achievements/membrane-based-technologies",
       "target": ".usa-header",
-      "html": "<header class=\"usa-header usa-header--basic\">"
+      "html": "<header class=\"usa-header usa-header--basic\">",
+      "page_id": "01ff38c2a829ed27",
+      "run_id": "2026-10-26T14-10-42-533Z-5f6f91",
+      "scanned_at": "2026-10-26T14:12:19.432Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://iucrc.nsf.gov/centers/center-calendar",
       "target": ".usa-header",
-      "html": "<header class=\"usa-header usa-header--basic\">"
+      "html": "<header class=\"usa-header usa-header--basic\">",
+      "page_id": "03c01f86d677fbd6",
+      "run_id": "2026-10-26T14-10-42-533Z-5f6f91",
+      "scanned_at": "2026-10-26T14:11:29.883Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://iucrc.nsf.gov/",
       "target": ".usa-header",
-      "html": "<header class=\"usa-header usa-header--basic\">"
+      "html": "<header class=\"usa-header usa-header--basic\">",
+      "page_id": "05bfc5d7f5d7a8fe",
+      "run_id": "2026-10-26T14-10-42-533Z-5f6f91",
+      "scanned_at": "2026-10-26T14:11:34.307Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://iucrc.nsf.gov/centers/center-for-composite-and-hybrid-materials-interfacing-chmi",
       "target": ".usa-header",
-      "html": "<header class=\"usa-header usa-header--basic\">"
+      "html": "<header class=\"usa-header usa-header--basic\">",
+      "page_id": "07a649197d8cebed",
+      "run_id": "2026-10-26T08-48-35-275Z-d7b303",
+      "scanned_at": "2026-10-26T08:49:20.507Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -3079,27 +3141,47 @@
      {
       "url": "https://iucrc.nsf.gov/search",
       "target": "html",
-      "html": "<html lang=\"en\">"
+      "html": "<html lang=\"en\">",
+      "page_id": "00f75ff96e970346",
+      "run_id": "2026-10-26T16-19-54-734Z-3f12f9",
+      "scanned_at": "2026-10-26T16:21:55.191Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://iucrc.nsf.gov/centers/center-for-composite-and-hybrid-materials-interfacing-chmi",
       "target": "html",
-      "html": "<html lang=\"en\">"
+      "html": "<html lang=\"en\">",
+      "page_id": "07a649197d8cebed",
+      "run_id": "2026-10-26T08-48-35-275Z-d7b303",
+      "scanned_at": "2026-10-26T08:49:20.507Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://iucrc.nsf.gov/centers/center-for-dielectrics-and-piezoelectrics",
       "target": "html",
-      "html": "<html lang=\"en\">"
+      "html": "<html lang=\"en\">",
+      "page_id": "08f8222fbe092ac3",
+      "run_id": "2026-10-27T08-54-24-581Z-a62a6f",
+      "scanned_at": "2026-10-27T08:55:56.601Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://iucrc.nsf.gov/centers/center-for-pharmaceutical-development",
       "target": "html",
-      "html": "<html lang=\"en\">"
+      "html": "<html lang=\"en\">",
+      "page_id": "0a5d30089e6af363",
+      "run_id": "2026-10-26T14-10-42-533Z-5f6f91",
+      "scanned_at": "2026-10-26T14:11:40.272Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://iucrc.nsf.gov/centers/center-for-advanced-design-and-man-of-integrated-microfluidics",
       "target": "html",
-      "html": "<html lang=\"en\">"
+      "html": "<html lang=\"en\">",
+      "page_id": "0da3104d764bd171",
+      "run_id": "2026-10-27T09-57-27-152Z-612099",
+      "scanned_at": "2026-10-27T09:59:17.425Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -3935,27 +4017,47 @@
      {
       "url": "https://iucrc.nsf.gov/search",
       "target": ".usa-header",
-      "html": "<header class=\"usa-header usa-header--basic\">"
+      "html": "<header class=\"usa-header usa-header--basic\">",
+      "page_id": "00f75ff96e970346",
+      "run_id": "2026-10-26T16-19-54-734Z-3f12f9",
+      "scanned_at": "2026-10-26T16:21:55.191Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://iucrc.nsf.gov/centers/achievements/membrane-based-technologies",
       "target": ".usa-header",
-      "html": "<header class=\"usa-header usa-header--basic\">"
+      "html": "<header class=\"usa-header usa-header--basic\">",
+      "page_id": "01ff38c2a829ed27",
+      "run_id": "2026-10-26T14-10-42-533Z-5f6f91",
+      "scanned_at": "2026-10-26T14:12:19.432Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://iucrc.nsf.gov/centers/center-calendar",
       "target": ".usa-header",
-      "html": "<header class=\"usa-header usa-header--basic\">"
+      "html": "<header class=\"usa-header usa-header--basic\">",
+      "page_id": "03c01f86d677fbd6",
+      "run_id": "2026-10-26T14-10-42-533Z-5f6f91",
+      "scanned_at": "2026-10-26T14:11:29.883Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://iucrc.nsf.gov/",
       "target": ".usa-header",
-      "html": "<header class=\"usa-header usa-header--basic\">"
+      "html": "<header class=\"usa-header usa-header--basic\">",
+      "page_id": "05bfc5d7f5d7a8fe",
+      "run_id": "2026-10-26T14-10-42-533Z-5f6f91",
+      "scanned_at": "2026-10-26T14:11:34.307Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://iucrc.nsf.gov/centers/center-for-composite-and-hybrid-materials-interfacing-chmi",
       "target": ".usa-header",
-      "html": "<header class=\"usa-header usa-header--basic\">"
+      "html": "<header class=\"usa-header usa-header--basic\">",
+      "page_id": "07a649197d8cebed",
+      "run_id": "2026-10-26T08-48-35-275Z-d7b303",
+      "scanned_at": "2026-10-26T08:49:20.507Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -4515,27 +4617,47 @@
      {
       "url": "https://iucrc.nsf.gov/search",
       "target": "h1",
-      "html": "<h1>Search Results</h1>"
+      "html": "<h1>Search Results</h1>",
+      "page_id": "00f75ff96e970346",
+      "run_id": "2026-10-26T16-19-54-734Z-3f12f9",
+      "scanned_at": "2026-10-26T16:21:55.191Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://iucrc.nsf.gov/search",
       "target": "#search-results",
-      "html": "<ol id=\"search-results\"><li class=\"title\">No results found</li></ol>"
+      "html": "<ol id=\"search-results\"><li class=\"title\">No results found</li></ol>",
+      "page_id": "00f75ff96e970346",
+      "run_id": "2026-10-26T16-19-54-734Z-3f12f9",
+      "scanned_at": "2026-10-26T16:21:55.191Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://iucrc.nsf.gov/search",
       "target": ".usa-alert",
-      "html": "<div class=\"usa-alert usa-alert--info\">"
+      "html": "<div class=\"usa-alert usa-alert--info\">",
+      "page_id": "00f75ff96e970346",
+      "run_id": "2026-10-26T16-19-54-734Z-3f12f9",
+      "scanned_at": "2026-10-26T16:21:55.191Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://iucrc.nsf.gov/centers/center-for-composite-and-hybrid-materials-interfacing-chmi",
       "target": "h1",
-      "html": "<h1>Center for Composite and Hybrid Materials Interfacing (CHMI)</h1>"
+      "html": "<h1>Center for Composite and Hybrid Materials Interfacing (CHMI)</h1>",
+      "page_id": "07a649197d8cebed",
+      "run_id": "2026-10-26T08-48-35-275Z-d7b303",
+      "scanned_at": "2026-10-26T08:49:20.507Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://iucrc.nsf.gov/centers/center-for-composite-and-hybrid-materials-interfacing-chmi",
       "target": ".content-block:nth-child(5)",
-      "html": "<div class=\"content-block\">"
+      "html": "<div class=\"content-block\">",
+      "page_id": "07a649197d8cebed",
+      "run_id": "2026-10-26T08-48-35-275Z-d7b303",
+      "scanned_at": "2026-10-26T08:49:20.507Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -4571,27 +4693,47 @@
      {
       "url": "https://iucrc.nsf.gov/",
       "target": "li[aria-label=\"Carousel Slide to 0\"]",
-      "html": "<li role=\"button\" tabindex=\"0\" aria-label=\"Carousel Slide to 0\" data-target=\"#carouselText\" data-slide-to=\"0\" class=\"active\"></li>"
+      "html": "<li role=\"button\" tabindex=\"0\" aria-label=\"Carousel Slide to 0\" data-target=\"#carouselText\" data-slide-to=\"0\" class=\"active\"></li>",
+      "page_id": "05bfc5d7f5d7a8fe",
+      "run_id": "2026-10-26T14-10-42-533Z-5f6f91",
+      "scanned_at": "2026-10-26T14:11:34.307Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://iucrc.nsf.gov/",
       "target": "li[aria-label=\"Carousel Slide to 1\"]",
-      "html": "<li role=\"button\" tabindex=\"0\" aria-label=\"Carousel Slide to 1\" data-target=\"#carouselText\" data-slide-to=\"1\"></li>"
+      "html": "<li role=\"button\" tabindex=\"0\" aria-label=\"Carousel Slide to 1\" data-target=\"#carouselText\" data-slide-to=\"1\"></li>",
+      "page_id": "05bfc5d7f5d7a8fe",
+      "run_id": "2026-10-26T14-10-42-533Z-5f6f91",
+      "scanned_at": "2026-10-26T14:11:34.307Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://iucrc.nsf.gov/",
       "target": "li[aria-label=\"Carousel Slide to 2\"]",
-      "html": "<li role=\"button\" tabindex=\"0\" aria-label=\"Carousel Slide to 2\" data-target=\"#carouselText\" data-slide-to=\"2\"></li>"
+      "html": "<li role=\"button\" tabindex=\"0\" aria-label=\"Carousel Slide to 2\" data-target=\"#carouselText\" data-slide-to=\"2\"></li>",
+      "page_id": "05bfc5d7f5d7a8fe",
+      "run_id": "2026-10-26T14-10-42-533Z-5f6f91",
+      "scanned_at": "2026-10-26T14:11:34.307Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://iucrc.nsf.gov/about",
       "target": "li[aria-label=\"Carousel Slide to 0\"]",
-      "html": "<li role=\"button\" tabindex=\"0\" aria-label=\"Carousel Slide to 0\" data-target=\"#carouselText\" data-slide-to=\"0\" class=\"active\"></li>"
+      "html": "<li role=\"button\" tabindex=\"0\" aria-label=\"Carousel Slide to 0\" data-target=\"#carouselText\" data-slide-to=\"0\" class=\"active\"></li>",
+      "page_id": "87f6fde6afaa0750",
+      "run_id": "2026-10-26T15-30-15-510Z-474b67",
+      "scanned_at": "2026-10-26T15:30:58.431Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://iucrc.nsf.gov/about",
       "target": "li[aria-label=\"Carousel Slide to 1\"]",
-      "html": "<li role=\"button\" tabindex=\"0\" aria-label=\"Carousel Slide to 1\" data-target=\"#carouselText\" data-slide-to=\"1\"></li>"
+      "html": "<li role=\"button\" tabindex=\"0\" aria-label=\"Carousel Slide to 1\" data-target=\"#carouselText\" data-slide-to=\"1\"></li>",
+      "page_id": "87f6fde6afaa0750",
+      "run_id": "2026-10-26T15-30-15-510Z-474b67",
+      "scanned_at": "2026-10-26T15:30:58.431Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -4668,27 +4810,47 @@
      {
       "url": "https://iucrc.nsf.gov/",
       "target": ".active.carousel-item > .container > .carousel__content--slant.carousel__content > .carousel__text-cta > .carousel__subtitle[role=\"heading\"]",
-      "html": "<p class=\"carousel__subtitle\" role=\"heading\">Industry-University Cooperative Research Centers (IUCRC)</p>"
+      "html": "<p class=\"carousel__subtitle\" role=\"heading\">Industry-University Cooperative Research Centers (IUCRC)</p>",
+      "page_id": "05bfc5d7f5d7a8fe",
+      "run_id": "2026-10-26T14-10-42-533Z-5f6f91",
+      "scanned_at": "2026-10-26T14:11:34.307Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://iucrc.nsf.gov/centers/achievements",
       "target": ".carousel__subtitle",
-      "html": "<p class=\"carousel__subtitle\" role=\"heading\">Read about the industrial and societal impact of cutting-edge research at a\n                  few of our Centers.</p>"
+      "html": "<p class=\"carousel__subtitle\" role=\"heading\">Read about the industrial and societal impact of cutting-edge research at a\n                  few of our Centers.</p>",
+      "page_id": "1a16a9d61a9470fd",
+      "run_id": "2026-10-27T08-54-24-581Z-a62a6f",
+      "scanned_at": "2026-10-27T08:56:02.082Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://iucrc.nsf.gov/centers/achievements/page/6",
       "target": ".carousel__subtitle",
-      "html": "<p class=\"carousel__subtitle\" role=\"heading\">Read about the industrial and societal impact of cutting-edge research at a\n                  few of our Centers.</p>"
+      "html": "<p class=\"carousel__subtitle\" role=\"heading\">Read about the industrial and societal impact of cutting-edge research at a\n                  few of our Centers.</p>",
+      "page_id": "2cfa44ab869bef19",
+      "run_id": "2026-10-26T11-45-39-974Z-25c3e9",
+      "scanned_at": "2026-10-26T11:46:23.107Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://iucrc.nsf.gov/government",
       "target": ".carousel__subtitle",
-      "html": "<p class=\"carousel__subtitle\" role=\"heading\">Federal, state and local government agencies participate in the\n                Industry–University Cooperative Research Centers program.</p>"
+      "html": "<p class=\"carousel__subtitle\" role=\"heading\">Federal, state and local government agencies participate in the\n                Industry–University Cooperative Research Centers program.</p>",
+      "page_id": "3ad78267446e8799",
+      "run_id": "2026-10-26T08-48-35-275Z-d7b303",
+      "scanned_at": "2026-10-26T08:50:38.329Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://iucrc.nsf.gov/universities",
       "target": ".carousel__subtitle",
-      "html": "<p class=\"carousel__subtitle\" role=\"heading\">Conduct high-impact, fundamental, pre-competitive research through the\n                Industry–University Cooperative Research Centers Program</p>"
+      "html": "<p class=\"carousel__subtitle\" role=\"heading\">Conduct high-impact, fundamental, pre-competitive research through the\n                Industry–University Cooperative Research Centers Program</p>",
+      "page_id": "4625dea4fd069df6",
+      "run_id": "2026-10-26T15-30-15-510Z-474b67",
+      "scanned_at": "2026-10-26T15:31:55.802Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -4715,7 +4877,11 @@
      {
       "url": "https://iucrc.nsf.gov/",
       "target": "p > a[href$=\"about/\"]",
-      "html": "<a href=\"/about/\">the IUCRC program, history and mission</a>"
+      "html": "<a href=\"/about/\">the IUCRC program, history and mission</a>",
+      "page_id": "05bfc5d7f5d7a8fe",
+      "run_id": "2026-10-26T14-10-42-533Z-5f6f91",
+      "scanned_at": "2026-10-26T14:11:34.307Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -5196,27 +5362,47 @@
      {
       "url": "https://iucrc.nsf.gov/",
       "target": "ol",
-      "html": "<ol class=\"carousel-indicators\">"
+      "html": "<ol class=\"carousel-indicators\">",
+      "page_id": "05bfc5d7f5d7a8fe",
+      "run_id": "2026-10-26T14-10-42-533Z-5f6f91",
+      "scanned_at": "2026-10-26T14:11:34.307Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://iucrc.nsf.gov/centers/center-for-composite-and-hybrid-materials-interfacing-chmi",
       "target": ".container:nth-child(8) > .content-block__inner > ul",
-      "html": "<ul>"
+      "html": "<ul>",
+      "page_id": "07a649197d8cebed",
+      "run_id": "2026-10-26T08-48-35-275Z-d7b303",
+      "scanned_at": "2026-10-26T08:49:20.507Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://iucrc.nsf.gov/centers/center-for-dielectrics-and-piezoelectrics",
       "target": ".container:nth-child(8) > .content-block__inner > ul",
-      "html": "<ul>"
+      "html": "<ul>",
+      "page_id": "08f8222fbe092ac3",
+      "run_id": "2026-10-27T08-54-24-581Z-a62a6f",
+      "scanned_at": "2026-10-27T08:55:56.601Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://iucrc.nsf.gov/centers/center-for-pharmaceutical-development",
       "target": ".background > .container > .content-block__inner > ul",
-      "html": "<ul>"
+      "html": "<ul>",
+      "page_id": "0a5d30089e6af363",
+      "run_id": "2026-10-26T14-10-42-533Z-5f6f91",
+      "scanned_at": "2026-10-26T14:11:40.272Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://iucrc.nsf.gov/centers/center-for-advanced-design-and-man-of-integrated-microfluidics",
       "target": ".container:nth-child(8) > .content-block__inner > ul",
-      "html": "<ul>"
+      "html": "<ul>",
+      "page_id": "0da3104d764bd171",
+      "run_id": "2026-10-27T09-57-27-152Z-612099",
+      "scanned_at": "2026-10-27T09:59:17.425Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -5252,27 +5438,47 @@
      {
       "url": "https://iucrc.nsf.gov/centers/center-for-electrified-and-automated-trucking-ceat",
       "target": "h1",
-      "html": "<h1></h1>"
+      "html": "<h1></h1>",
+      "page_id": "2114299063fcd666",
+      "run_id": "2026-10-26T16-19-54-734Z-3f12f9",
+      "scanned_at": "2026-10-26T16:22:35.650Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://iucrc.nsf.gov/centers/center-for-environmental-sustainability-through-insect-farming",
       "target": "h1",
-      "html": "<h1></h1>"
+      "html": "<h1></h1>",
+      "page_id": "2a4bf47cd1d4243b",
+      "run_id": "2026-10-26T11-45-39-974Z-25c3e9",
+      "scanned_at": "2026-10-26T11:47:26.365Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://iucrc.nsf.gov/universities/solicitation/funding",
       "target": ".card:nth-child(3) > .container > .card__content > h2",
-      "html": "<h2></h2>"
+      "html": "<h2></h2>",
+      "page_id": "6fcb309ae5c223d9",
+      "run_id": "2026-10-26T16-19-54-734Z-3f12f9",
+      "scanned_at": "2026-10-26T16:21:24.886Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://iucrc.nsf.gov/universities/solicitation/funding",
       "target": ".card:nth-child(4) > .container > .card__content > h2",
-      "html": "<h2></h2>"
+      "html": "<h2></h2>",
+      "page_id": "6fcb309ae5c223d9",
+      "run_id": "2026-10-26T16-19-54-734Z-3f12f9",
+      "scanned_at": "2026-10-26T16:21:24.886Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://iucrc.nsf.gov/universities/solicitation/funding",
       "target": ".card:nth-child(5) > .container > .card__content > h2",
-      "html": "<h2></h2>"
+      "html": "<h2></h2>",
+      "page_id": "6fcb309ae5c223d9",
+      "run_id": "2026-10-26T16-19-54-734Z-3f12f9",
+      "scanned_at": "2026-10-26T16:21:24.886Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -5361,27 +5567,47 @@
      {
       "url": "https://iucrc.nsf.gov/centers/focus-area/biotechnology",
       "target": ".centers.alternating-list__row:nth-child(2) > .row > .universities.col-lg-3.alternating-list__col > li:nth-child(1)",
-      "html": "<li>University of Massachusetts, Lowell</li>"
+      "html": "<li>University of Massachusetts, Lowell</li>",
+      "page_id": "2510038527ab736a",
+      "run_id": "2026-10-26T11-45-39-974Z-25c3e9",
+      "scanned_at": "2026-10-26T11:46:32.406Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://iucrc.nsf.gov/centers/focus-area/biotechnology",
       "target": ".centers.alternating-list__row:nth-child(2) > .row > .universities.col-lg-3.alternating-list__col > li:nth-child(2)",
-      "html": "<li>University of Maryland, College Park</li>"
+      "html": "<li>University of Maryland, College Park</li>",
+      "page_id": "2510038527ab736a",
+      "run_id": "2026-10-26T11-45-39-974Z-25c3e9",
+      "scanned_at": "2026-10-26T11:46:32.406Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://iucrc.nsf.gov/centers/focus-area/biotechnology",
       "target": ".centers.alternating-list__row:nth-child(2) > .row > .universities.col-lg-3.alternating-list__col > li:nth-child(3)",
-      "html": "<li>University of Delaware</li>"
+      "html": "<li>University of Delaware</li>",
+      "page_id": "2510038527ab736a",
+      "run_id": "2026-10-26T11-45-39-974Z-25c3e9",
+      "scanned_at": "2026-10-26T11:46:32.406Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://iucrc.nsf.gov/centers/focus-area/advanced-materials",
       "target": ".centers.alternating-list__row:nth-child(2) > .row > .universities.col-lg-3.alternating-list__col > li:nth-child(1)",
-      "html": "<li>Boise State University</li>"
+      "html": "<li>Boise State University</li>",
+      "page_id": "258566a29450b3b6",
+      "run_id": "2026-10-26T08-48-35-275Z-d7b303",
+      "scanned_at": "2026-10-26T08:51:05.916Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://iucrc.nsf.gov/centers/focus-area/advanced-materials",
       "target": ".centers.alternating-list__row:nth-child(2) > .row > .universities.col-lg-3.alternating-list__col > li:nth-child(2)",
-      "html": "<li>Pennsylvania State University</li>"
+      "html": "<li>Pennsylvania State University</li>",
+      "page_id": "258566a29450b3b6",
+      "run_id": "2026-10-26T08-48-35-275Z-d7b303",
+      "scanned_at": "2026-10-26T08:51:05.916Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -5417,27 +5643,47 @@
      {
       "url": "https://iucrc.nsf.gov/universities/solicitation/sample-first-iab-meeting-agenda",
       "target": ".content-block:nth-child(2) > .container > .content-block__inner > table > tbody > tr:nth-child(1) > th[aria-label=\"time\"]",
-      "html": "<th aria-label=\"time\"> </th>"
+      "html": "<th aria-label=\"time\"> </th>",
+      "page_id": "4ee7f78f50c84454",
+      "run_id": "2026-10-26T10-22-51-789Z-f2bc89",
+      "scanned_at": "2026-10-26T10:24:20.450Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://iucrc.nsf.gov/universities/solicitation/sample-first-iab-meeting-agenda",
       "target": ".content-block:nth-child(2) > .container > .content-block__inner > table > tbody > tr:nth-child(1) > th[aria-label=\"activity\"]",
-      "html": "<th aria-label=\"activity\"> </th>"
+      "html": "<th aria-label=\"activity\"> </th>",
+      "page_id": "4ee7f78f50c84454",
+      "run_id": "2026-10-26T10-22-51-789Z-f2bc89",
+      "scanned_at": "2026-10-26T10:24:20.450Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://iucrc.nsf.gov/universities/solicitation/sample-first-iab-meeting-agenda",
       "target": ".content-block:nth-child(3) > .container > .content-block__inner > table > tbody > tr:nth-child(1) > th[aria-label=\"time\"]",
-      "html": "<th aria-label=\"time\"> </th>"
+      "html": "<th aria-label=\"time\"> </th>",
+      "page_id": "4ee7f78f50c84454",
+      "run_id": "2026-10-26T10-22-51-789Z-f2bc89",
+      "scanned_at": "2026-10-26T10:24:20.450Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://iucrc.nsf.gov/universities/solicitation/sample-planning-meeting-agenda",
       "target": ".content-block:nth-child(2) > .container > .content-block__inner > table > tbody > tr:nth-child(1) > th[aria-label=\"time\"]",
-      "html": "<th aria-label=\"time\">&nbsp;</th>"
+      "html": "<th aria-label=\"time\">&nbsp;</th>",
+      "page_id": "8a2ac1988ac01f59",
+      "run_id": "2026-10-26T08-48-35-275Z-d7b303",
+      "scanned_at": "2026-10-26T08:49:10.638Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://iucrc.nsf.gov/universities/solicitation/sample-planning-meeting-agenda",
       "target": ".content-block:nth-child(2) > .container > .content-block__inner > table > tbody > tr:nth-child(1) > th[aria-label=\"activity\"]",
-      "html": "<th aria-label=\"activity\">&nbsp;</th>"
+      "html": "<th aria-label=\"activity\">&nbsp;</th>",
+      "page_id": "8a2ac1988ac01f59",
+      "run_id": "2026-10-26T08-48-35-275Z-d7b303",
+      "scanned_at": "2026-10-26T08:49:10.638Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -5473,27 +5719,47 @@
      {
       "url": "https://iucrc.nsf.gov/universities/solicitation/sample-first-iab-meeting-agenda",
       "target": ".content-block:nth-child(2) > .container > .content-block__inner > table > tbody > tr:nth-child(2) > td[width=\"25%\"][scope=\"row\"]",
-      "html": "<td scope=\"row\" width=\"25%\">7:30am</td>"
+      "html": "<td scope=\"row\" width=\"25%\">7:30am</td>",
+      "page_id": "4ee7f78f50c84454",
+      "run_id": "2026-10-26T10-22-51-789Z-f2bc89",
+      "scanned_at": "2026-10-26T10:24:20.450Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://iucrc.nsf.gov/universities/solicitation/sample-first-iab-meeting-agenda",
       "target": ".content-block:nth-child(2) > .container > .content-block__inner > table > tbody > tr:nth-child(4) > td[scope=\"row\"]",
-      "html": "<td scope=\"row\">7:30 - 8:15 am</td>"
+      "html": "<td scope=\"row\">7:30 - 8:15 am</td>",
+      "page_id": "4ee7f78f50c84454",
+      "run_id": "2026-10-26T10-22-51-789Z-f2bc89",
+      "scanned_at": "2026-10-26T10:24:20.450Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://iucrc.nsf.gov/universities/solicitation/sample-first-iab-meeting-agenda",
       "target": ".content-block:nth-child(2) > .container > .content-block__inner > table > tbody > tr:nth-child(6) > td[scope=\"row\"]",
-      "html": "<td scope=\"row\">8:15 - 8:35 am</td>"
+      "html": "<td scope=\"row\">8:15 - 8:35 am</td>",
+      "page_id": "4ee7f78f50c84454",
+      "run_id": "2026-10-26T10-22-51-789Z-f2bc89",
+      "scanned_at": "2026-10-26T10:24:20.450Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://iucrc.nsf.gov/universities/solicitation/sample-planning-meeting-agenda",
       "target": ".content-block:nth-child(2) > .container > .content-block__inner > table > tbody > tr:nth-child(2) > td[width=\"25%\"][scope=\"row\"]",
-      "html": "<td scope=\"row\" width=\"25%\">7:30 am</td>"
+      "html": "<td scope=\"row\" width=\"25%\">7:30 am</td>",
+      "page_id": "8a2ac1988ac01f59",
+      "run_id": "2026-10-26T08-48-35-275Z-d7b303",
+      "scanned_at": "2026-10-26T08:49:10.638Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://iucrc.nsf.gov/universities/solicitation/sample-planning-meeting-agenda",
       "target": ".content-block:nth-child(2) > .container > .content-block__inner > table > tbody > tr:nth-child(4) > td[scope=\"row\"]",
-      "html": "<td scope=\"row\">7:30 - 8:15 am</td>"
+      "html": "<td scope=\"row\">7:30 - 8:15 am</td>",
+      "page_id": "8a2ac1988ac01f59",
+      "run_id": "2026-10-26T08-48-35-275Z-d7b303",
+      "scanned_at": "2026-10-26T08:49:10.638Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -5529,17 +5795,29 @@
      {
       "url": "https://iucrc.nsf.gov/admin",
       "target": "html",
-      "html": "<html lang=\"en\" data-whatinput=\"initial\" data-whatintent=\"initial\">"
+      "html": "<html lang=\"en\" data-whatinput=\"initial\" data-whatintent=\"initial\">",
+      "page_id": "7210766fb55603f2",
+      "run_id": "2026-10-26T16-19-54-734Z-3f12f9",
+      "scanned_at": "2026-10-26T16:20:38.860Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://iucrc.nsf.gov/google40b1afc156dd6a97.html",
       "target": "html",
-      "html": "<html><head></head><body>google-site-verification: google40b1afc156dd6a97.html</body></html>"
+      "html": "<html><head></head><body>google-site-verification: google40b1afc156dd6a97.html</body></html>",
+      "page_id": "7dc30bd0fb5e9239",
+      "run_id": "2026-10-26T11-45-39-974Z-25c3e9",
+      "scanned_at": "2026-10-26T11:47:57.239Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://iucrc.nsf.gov/collections",
       "target": "html",
-      "html": "<html lang=\"en\">"
+      "html": "<html lang=\"en\">",
+      "page_id": "f481df78f0fca5d0",
+      "run_id": "2026-10-26T14-10-42-533Z-5f6f91",
+      "scanned_at": "2026-10-26T14:13:04.811Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -5566,7 +5844,11 @@
      {
       "url": "https://iucrc.nsf.gov/google40b1afc156dd6a97.html",
       "target": "html",
-      "html": "<html><head></head><body>google-site-verification: google40b1afc156dd6a97.html</body></html>"
+      "html": "<html><head></head><body>google-site-verification: google40b1afc156dd6a97.html</body></html>",
+      "page_id": "7dc30bd0fb5e9239",
+      "run_id": "2026-10-26T11-45-39-974Z-25c3e9",
+      "scanned_at": "2026-10-26T11:47:57.239Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -5593,7 +5875,11 @@
      {
       "url": "https://iucrc.nsf.gov/google40b1afc156dd6a97.html",
       "target": "html",
-      "html": "<html><head></head><body>google-site-verification: google40b1afc156dd6a97.html</body></html>"
+      "html": "<html><head></head><body>google-site-verification: google40b1afc156dd6a97.html</body></html>",
+      "page_id": "7dc30bd0fb5e9239",
+      "run_id": "2026-10-26T11-45-39-974Z-25c3e9",
+      "scanned_at": "2026-10-26T11:47:57.239Z",
+      "engine_version": "4.14.0"
      }
     ]
    },
@@ -5620,12 +5906,20 @@
      {
       "url": "https://iucrc.nsf.gov/universities/solicitation",
       "target": "div:nth-child(5) > div > iframe[allowfullscreen=\"\"][allow=\"encrypted-media\"]",
-      "html": "<iframe src=\"https://players.brightcove.net/679256133001/AiiR2tq4I_default/index.html?videoId=6316474490112&amp;t=91s\" allowfullscreen=\"\" allow=\"encrypted-media\" style=\"position: absolute; top: 0px; r"
+      "html": "<iframe src=\"https://players.brightcove.net/679256133001/AiiR2tq4I_default/index.html?videoId=6316474490112&amp;t=91s\" allowfullscreen=\"\" allow=\"encrypted-media\" style=\"position: absolute; top: 0px; r",
+      "page_id": "c3b54239ed1d3919",
+      "run_id": "2026-10-26T11-45-39-974Z-25c3e9",
+      "scanned_at": "2026-10-26T11:47:47.762Z",
+      "engine_version": "4.14.0"
      },
      {
       "url": "https://iucrc.nsf.gov/universities/solicitation",
       "target": "div:nth-child(9) > div > iframe[allowfullscreen=\"\"][allow=\"encrypted-media\"]",
-      "html": "<iframe src=\"https://players.brightcove.net/679256133001/NkgrDczuol_default/index.html?videoId=6365587932112\" allowfullscreen=\"\" allow=\"encrypted-media\" style=\"position: absolute; top: 0px; right: 0px"
+      "html": "<iframe src=\"https://players.brightcove.net/679256133001/NkgrDczuol_default/index.html?videoId=6365587932112\" allowfullscreen=\"\" allow=\"encrypted-media\" style=\"position: absolute; top: 0px; right: 0px",
+      "page_id": "c3b54239ed1d3919",
+      "run_id": "2026-10-26T11-45-39-974Z-25c3e9",
+      "scanned_at": "2026-10-26T11:47:47.762Z",
+      "engine_version": "4.14.0"
      }
     ]
    }
@@ -5635,7 +5929,10 @@
   "failedTotal": 9744,
   "pagesWithFailures": 105,
   "pagesScanned": 105,
+  "skippedPages": 0,
+  "skipped": [],
   "medianFailures": 84,
+  "element_evidence": null,
   "rules": {
    "sia-r66": {
     "count": 711,
@@ -6072,27 +6369,47 @@
      {
       "url": "https://iucrc.nsf.gov/",
       "target": "text: \"Here's how you know\"",
-      "html": null
+      "html": null,
+      "page_id": "05bfc5d7f5d7a8fe",
+      "run_id": "2026-10-26T14-10-42-533Z-5f6f91",
+      "scanned_at": "2026-10-26T14:11:34.307Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://iucrc.nsf.gov/",
       "target": "text: \"NSF.gov\"",
-      "html": null
+      "html": null,
+      "page_id": "05bfc5d7f5d7a8fe",
+      "run_id": "2026-10-26T14-10-42-533Z-5f6f91",
+      "scanned_at": "2026-10-26T14:11:34.307Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://iucrc.nsf.gov/",
       "target": "text: \"focus areas\"",
-      "html": null
+      "html": null,
+      "page_id": "05bfc5d7f5d7a8fe",
+      "run_id": "2026-10-26T14-10-42-533Z-5f6f91",
+      "scanned_at": "2026-10-26T14:11:34.307Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://iucrc.nsf.gov/centers/center-for-composite-and-hybrid-materials-interfacing-chmi",
       "target": "text: \"Here's how you know\"",
-      "html": null
+      "html": null,
+      "page_id": "07a649197d8cebed",
+      "run_id": "2026-10-26T08-48-35-275Z-d7b303",
+      "scanned_at": "2026-10-26T08:49:20.507Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://iucrc.nsf.gov/centers/center-for-composite-and-hybrid-materials-interfacing-chmi",
       "target": "text: \"NSF.gov\"",
-      "html": null
+      "html": null,
+      "page_id": "07a649197d8cebed",
+      "run_id": "2026-10-26T08-48-35-275Z-d7b303",
+      "scanned_at": "2026-10-26T08:49:20.507Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -6487,27 +6804,47 @@
      {
       "url": "https://iucrc.nsf.gov/",
       "target": "<p class=\"carousel__subtitle\" role=\"heading\">",
-      "html": null
+      "html": null,
+      "page_id": "05bfc5d7f5d7a8fe",
+      "run_id": "2026-10-26T14-10-42-533Z-5f6f91",
+      "scanned_at": "2026-10-26T14:11:34.307Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://iucrc.nsf.gov/",
       "target": "<h2>",
-      "html": null
+      "html": null,
+      "page_id": "05bfc5d7f5d7a8fe",
+      "run_id": "2026-10-26T14-10-42-533Z-5f6f91",
+      "scanned_at": "2026-10-26T14:11:34.307Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://iucrc.nsf.gov/",
       "target": "<h4>",
-      "html": null
+      "html": null,
+      "page_id": "05bfc5d7f5d7a8fe",
+      "run_id": "2026-10-26T14-10-42-533Z-5f6f91",
+      "scanned_at": "2026-10-26T14:11:34.307Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://iucrc.nsf.gov/centers/center-for-composite-and-hybrid-materials-interfacing-chmi",
       "target": "<h4 class=\"footer__list-title\">",
-      "html": null
+      "html": null,
+      "page_id": "07a649197d8cebed",
+      "run_id": "2026-10-26T08-48-35-275Z-d7b303",
+      "scanned_at": "2026-10-26T08:49:20.507Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://iucrc.nsf.gov/centers/center-for-dielectrics-and-piezoelectrics",
       "target": "<h4 class=\"footer__list-title\">",
-      "html": null
+      "html": null,
+      "page_id": "08f8222fbe092ac3",
+      "run_id": "2026-10-27T08-54-24-581Z-a62a6f",
+      "scanned_at": "2026-10-27T08:55:56.601Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -6942,27 +7279,47 @@
      {
       "url": "https://iucrc.nsf.gov/",
       "target": "<p class=\"usa-banner__header-text\">",
-      "html": null
+      "html": null,
+      "page_id": "05bfc5d7f5d7a8fe",
+      "run_id": "2026-10-26T14-10-42-533Z-5f6f91",
+      "scanned_at": "2026-10-26T14:11:34.307Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://iucrc.nsf.gov/centers/center-for-composite-and-hybrid-materials-interfacing-chmi",
       "target": "<p class=\"usa-banner__header-text\">",
-      "html": null
+      "html": null,
+      "page_id": "07a649197d8cebed",
+      "run_id": "2026-10-26T08-48-35-275Z-d7b303",
+      "scanned_at": "2026-10-26T08:49:20.507Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://iucrc.nsf.gov/centers/center-for-dielectrics-and-piezoelectrics",
       "target": "<p class=\"usa-banner__header-text\">",
-      "html": null
+      "html": null,
+      "page_id": "08f8222fbe092ac3",
+      "run_id": "2026-10-27T08-54-24-581Z-a62a6f",
+      "scanned_at": "2026-10-27T08:55:56.601Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://iucrc.nsf.gov/centers/center-for-pharmaceutical-development",
       "target": "<p class=\"usa-banner__header-text\">",
-      "html": null
+      "html": null,
+      "page_id": "0a5d30089e6af363",
+      "run_id": "2026-10-26T14-10-42-533Z-5f6f91",
+      "scanned_at": "2026-10-26T14:11:40.272Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://iucrc.nsf.gov/centers/achievements/novel-palladium-graphene-catalysts",
       "target": "<p class=\"usa-banner__header-text\">",
-      "html": null
+      "html": null,
+      "page_id": "102f751138d824f0",
+      "run_id": "2026-10-26T14-10-42-533Z-5f6f91",
+      "scanned_at": "2026-10-26T14:12:06.277Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -7297,27 +7654,47 @@
      {
       "url": "https://iucrc.nsf.gov/",
       "target": "<a href=\"/about/\">",
-      "html": null
+      "html": null,
+      "page_id": "05bfc5d7f5d7a8fe",
+      "run_id": "2026-10-26T14-10-42-533Z-5f6f91",
+      "scanned_at": "2026-10-26T14:11:34.307Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://iucrc.nsf.gov/centers/center-for-composite-and-hybrid-materials-interfacing-chmi",
       "target": "<a href=\"mailto:christopher.muhlstein@mse.gatech.edu\" class=\"external-link\">",
-      "html": null
+      "html": null,
+      "page_id": "07a649197d8cebed",
+      "run_id": "2026-10-26T08-48-35-275Z-d7b303",
+      "scanned_at": "2026-10-26T08:49:20.507Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://iucrc.nsf.gov/centers/center-for-composite-and-hybrid-materials-interfacing-chmi",
       "target": "<a href=\"mailto:yao@gatech.edu\" class=\"external-link\">",
-      "html": null
+      "html": null,
+      "page_id": "07a649197d8cebed",
+      "run_id": "2026-10-26T08-48-35-275Z-d7b303",
+      "scanned_at": "2026-10-26T08:49:20.507Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://iucrc.nsf.gov/centers/center-for-composite-and-hybrid-materials-interfacing-chmi",
       "target": "<a href=\"mailto:nassar@oakland.edu\" class=\"external-link\">",
-      "html": null
+      "html": null,
+      "page_id": "07a649197d8cebed",
+      "run_id": "2026-10-26T08-48-35-275Z-d7b303",
+      "scanned_at": "2026-10-26T08:49:20.507Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://iucrc.nsf.gov/centers/center-for-dielectrics-and-piezoelectrics",
       "target": "<a href=\"mailto:mic3@psu.edu\" class=\"external-link\">",
-      "html": null
+      "html": null,
+      "page_id": "08f8222fbe092ac3",
+      "run_id": "2026-10-27T08-54-24-581Z-a62a6f",
+      "scanned_at": "2026-10-27T08:55:56.601Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -7592,27 +7969,47 @@
      {
       "url": "https://iucrc.nsf.gov/",
       "target": "<ol class=\"carousel-indicators\">",
-      "html": null
+      "html": null,
+      "page_id": "05bfc5d7f5d7a8fe",
+      "run_id": "2026-10-26T14-10-42-533Z-5f6f91",
+      "scanned_at": "2026-10-26T14:11:34.307Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://iucrc.nsf.gov/centers/center-for-composite-and-hybrid-materials-interfacing-chmi",
       "target": "<ul>",
-      "html": null
+      "html": null,
+      "page_id": "07a649197d8cebed",
+      "run_id": "2026-10-26T08-48-35-275Z-d7b303",
+      "scanned_at": "2026-10-26T08:49:20.507Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://iucrc.nsf.gov/centers/center-for-dielectrics-and-piezoelectrics",
       "target": "<ul>",
-      "html": null
+      "html": null,
+      "page_id": "08f8222fbe092ac3",
+      "run_id": "2026-10-27T08-54-24-581Z-a62a6f",
+      "scanned_at": "2026-10-27T08:55:56.601Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://iucrc.nsf.gov/centers/center-for-pharmaceutical-development",
       "target": "<ul>",
-      "html": null
+      "html": null,
+      "page_id": "0a5d30089e6af363",
+      "run_id": "2026-10-26T14-10-42-533Z-5f6f91",
+      "scanned_at": "2026-10-26T14:11:40.272Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://iucrc.nsf.gov/centers/center-for-unmanned-aircraft-system",
       "target": "<ul>",
-      "html": null
+      "html": null,
+      "page_id": "168c1a3ae2f575fd",
+      "run_id": "2026-10-26T08-48-35-275Z-d7b303",
+      "scanned_at": "2026-10-26T08:50:32.289Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -7633,17 +8030,29 @@
      {
       "url": "https://iucrc.nsf.gov/",
       "target": "<p class=\"usa-button btn-tertiary\">",
-      "html": null
+      "html": null,
+      "page_id": "05bfc5d7f5d7a8fe",
+      "run_id": "2026-10-26T14-10-42-533Z-5f6f91",
+      "scanned_at": "2026-10-26T14:11:34.307Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://iucrc.nsf.gov/",
       "target": "<p class=\"usa-button btn-tertiary\">",
-      "html": null
+      "html": null,
+      "page_id": "05bfc5d7f5d7a8fe",
+      "run_id": "2026-10-26T14-10-42-533Z-5f6f91",
+      "scanned_at": "2026-10-26T14:11:34.307Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://iucrc.nsf.gov/",
       "target": "<p class=\"usa-button btn-tertiary\">",
-      "html": null
+      "html": null,
+      "page_id": "05bfc5d7f5d7a8fe",
+      "run_id": "2026-10-26T14-10-42-533Z-5f6f91",
+      "scanned_at": "2026-10-26T14:11:34.307Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -8078,27 +8487,47 @@
      {
       "url": "https://iucrc.nsf.gov/",
       "target": "text: \"You are leaving the IUCRC - National Science Foundation website to go to a non-government website:\"",
-      "html": null
+      "html": null,
+      "page_id": "05bfc5d7f5d7a8fe",
+      "run_id": "2026-10-26T14-10-42-533Z-5f6f91",
+      "scanned_at": "2026-10-26T14:11:34.307Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://iucrc.nsf.gov/",
       "target": "text: \"This external link provides additional information that is consistent with the intended purpose of this site. NSF cannot attest to the accuracy of a non-federal site.\"",
-      "html": null
+      "html": null,
+      "page_id": "05bfc5d7f5d7a8fe",
+      "run_id": "2026-10-26T14-10-42-533Z-5f6f91",
+      "scanned_at": "2026-10-26T14:11:34.307Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://iucrc.nsf.gov/",
       "target": "text: \"Linking to a non-federal site does not constitute an endorsement by NSF or any of its employees of the sponsors or the information and products presented on the site.\"",
-      "html": null
+      "html": null,
+      "page_id": "05bfc5d7f5d7a8fe",
+      "run_id": "2026-10-26T14-10-42-533Z-5f6f91",
+      "scanned_at": "2026-10-26T14:11:34.307Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://iucrc.nsf.gov/centers/center-for-composite-and-hybrid-materials-interfacing-chmi",
       "target": "text: \"Center for Composite and Hybrid Materials Interfacing (CHMI)\"",
-      "html": null
+      "html": null,
+      "page_id": "07a649197d8cebed",
+      "run_id": "2026-10-26T08-48-35-275Z-d7b303",
+      "scanned_at": "2026-10-26T08:49:20.507Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://iucrc.nsf.gov/centers/center-for-composite-and-hybrid-materials-interfacing-chmi",
       "target": "text: \"Center Overview\"",
-      "html": null
+      "html": null,
+      "page_id": "07a649197d8cebed",
+      "run_id": "2026-10-26T08-48-35-275Z-d7b303",
+      "scanned_at": "2026-10-26T08:49:20.507Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -8153,27 +8582,47 @@
      {
       "url": "https://iucrc.nsf.gov/",
       "target": "<p class=\"carousel__subtitle\" role=\"heading\">",
-      "html": null
+      "html": null,
+      "page_id": "05bfc5d7f5d7a8fe",
+      "run_id": "2026-10-26T14-10-42-533Z-5f6f91",
+      "scanned_at": "2026-10-26T14:11:34.307Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://iucrc.nsf.gov/government",
       "target": "<p class=\"carousel__subtitle\" role=\"heading\">",
-      "html": null
+      "html": null,
+      "page_id": "3ad78267446e8799",
+      "run_id": "2026-10-26T08-48-35-275Z-d7b303",
+      "scanned_at": "2026-10-26T08:50:38.329Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://iucrc.nsf.gov/universities",
       "target": "<p class=\"carousel__subtitle\" role=\"heading\">",
-      "html": null
+      "html": null,
+      "page_id": "4625dea4fd069df6",
+      "run_id": "2026-10-26T15-30-15-510Z-474b67",
+      "scanned_at": "2026-10-26T15:31:55.802Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://iucrc.nsf.gov/centers/achievements/page/2",
       "target": "<p class=\"carousel__subtitle\" role=\"heading\">",
-      "html": null
+      "html": null,
+      "page_id": "5bebca62896e5dd1",
+      "run_id": "2026-10-26T15-30-15-510Z-474b67",
+      "scanned_at": "2026-10-26T15:32:01.086Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://iucrc.nsf.gov/centers",
       "target": "<p class=\"carousel__subtitle\" role=\"heading\">",
-      "html": null
+      "html": null,
+      "page_id": "b05a23dd9f789690",
+      "run_id": "2026-10-26T11-45-39-974Z-25c3e9",
+      "scanned_at": "2026-10-26T11:47:31.645Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -8612,27 +9061,47 @@
      {
       "url": "https://iucrc.nsf.gov/",
       "target": "<a href=\"https://nsf.gov\">",
-      "html": null
+      "html": null,
+      "page_id": "05bfc5d7f5d7a8fe",
+      "run_id": "2026-10-26T14-10-42-533Z-5f6f91",
+      "scanned_at": "2026-10-26T14:11:34.307Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://iucrc.nsf.gov/",
       "target": "<a class=\"usa-accordion__button usa-nav__link \" href=\"/about/\">",
-      "html": null
+      "html": null,
+      "page_id": "05bfc5d7f5d7a8fe",
+      "run_id": "2026-10-26T14-10-42-533Z-5f6f91",
+      "scanned_at": "2026-10-26T14:11:34.307Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://iucrc.nsf.gov/",
       "target": "<button class=\"usa-accordion__button usa-nav__link \" aria-expanded=\"false\" aria-controls=\"nav-centers\">",
-      "html": null
+      "html": null,
+      "page_id": "05bfc5d7f5d7a8fe",
+      "run_id": "2026-10-26T14-10-42-533Z-5f6f91",
+      "scanned_at": "2026-10-26T14:11:34.307Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://iucrc.nsf.gov/centers/center-for-composite-and-hybrid-materials-interfacing-chmi",
       "target": "<a href=\"https://nsf.gov\">",
-      "html": null
+      "html": null,
+      "page_id": "07a649197d8cebed",
+      "run_id": "2026-10-26T08-48-35-275Z-d7b303",
+      "scanned_at": "2026-10-26T08:49:20.507Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://iucrc.nsf.gov/centers/center-for-composite-and-hybrid-materials-interfacing-chmi",
       "target": "<a class=\"usa-accordion__button usa-nav__link \" href=\"/about/\">",
-      "html": null
+      "html": null,
+      "page_id": "07a649197d8cebed",
+      "run_id": "2026-10-26T08-48-35-275Z-d7b303",
+      "scanned_at": "2026-10-26T08:49:20.507Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -8899,27 +9368,47 @@
      {
       "url": "https://iucrc.nsf.gov/centers/center-for-composite-and-hybrid-materials-interfacing-chmi",
       "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
-      "html": null
+      "html": null,
+      "page_id": "07a649197d8cebed",
+      "run_id": "2026-10-26T08-48-35-275Z-d7b303",
+      "scanned_at": "2026-10-26T08:49:20.507Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://iucrc.nsf.gov/centers/center-for-dielectrics-and-piezoelectrics",
       "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
-      "html": null
+      "html": null,
+      "page_id": "08f8222fbe092ac3",
+      "run_id": "2026-10-27T08-54-24-581Z-a62a6f",
+      "scanned_at": "2026-10-27T08:55:56.601Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://iucrc.nsf.gov/centers/center-for-pharmaceutical-development",
       "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
-      "html": null
+      "html": null,
+      "page_id": "0a5d30089e6af363",
+      "run_id": "2026-10-26T14-10-42-533Z-5f6f91",
+      "scanned_at": "2026-10-26T14:11:40.272Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://iucrc.nsf.gov/centers/center-for-unmanned-aircraft-system",
       "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
-      "html": null
+      "html": null,
+      "page_id": "168c1a3ae2f575fd",
+      "run_id": "2026-10-26T08-48-35-275Z-d7b303",
+      "scanned_at": "2026-10-26T08:50:32.289Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://iucrc.nsf.gov/centers/science-center-for-marine-fisheries",
       "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
-      "html": null
+      "html": null,
+      "page_id": "1969de495e88916a",
+      "run_id": "2026-10-27T09-57-27-152Z-612099",
+      "scanned_at": "2026-10-27T09:58:35.699Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -8986,27 +9475,47 @@
      {
       "url": "https://iucrc.nsf.gov/centers/focus-area/advanced-materials",
       "target": "<h3>",
-      "html": null
+      "html": null,
+      "page_id": "258566a29450b3b6",
+      "run_id": "2026-10-26T08-48-35-275Z-d7b303",
+      "scanned_at": "2026-10-26T08:51:05.916Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://iucrc.nsf.gov/centers/focus-area/advanced-materials",
       "target": "<h3>",
-      "html": null
+      "html": null,
+      "page_id": "258566a29450b3b6",
+      "run_id": "2026-10-26T08-48-35-275Z-d7b303",
+      "scanned_at": "2026-10-26T08:51:05.916Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://iucrc.nsf.gov/centers/focus-area/advanced-materials",
       "target": "<h3>",
-      "html": null
+      "html": null,
+      "page_id": "258566a29450b3b6",
+      "run_id": "2026-10-26T08-48-35-275Z-d7b303",
+      "scanned_at": "2026-10-26T08:51:05.916Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://iucrc.nsf.gov/centers/center-for-environmental-sustainability-through-insect-farming",
       "target": "<h2 id=\"\">",
-      "html": null
+      "html": null,
+      "page_id": "2a4bf47cd1d4243b",
+      "run_id": "2026-10-26T11-45-39-974Z-25c3e9",
+      "scanned_at": "2026-10-26T11:47:26.365Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://iucrc.nsf.gov/centers/center-for-environmental-sustainability-through-insect-farming",
       "target": "<h2 id=\"\">",
-      "html": null
+      "html": null,
+      "page_id": "2a4bf47cd1d4243b",
+      "run_id": "2026-10-26T11-45-39-974Z-25c3e9",
+      "scanned_at": "2026-10-26T11:47:26.365Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -9027,7 +9536,11 @@
      {
       "url": "https://iucrc.nsf.gov/centers/center-for-environmental-sustainability-through-insect-farming",
       "target": "<h1>",
-      "html": null
+      "html": null,
+      "page_id": "2a4bf47cd1d4243b",
+      "run_id": "2026-10-26T11-45-39-974Z-25c3e9",
+      "scanned_at": "2026-10-26T11:47:26.365Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -9053,27 +9566,47 @@
      {
       "url": "https://iucrc.nsf.gov/universities/solicitation/sample-first-iab-meeting-agenda",
       "target": "<td scope=\"row\" width=\"25%\">",
-      "html": null
+      "html": null,
+      "page_id": "4ee7f78f50c84454",
+      "run_id": "2026-10-26T10-22-51-789Z-f2bc89",
+      "scanned_at": "2026-10-26T10:24:20.450Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://iucrc.nsf.gov/universities/solicitation/sample-first-iab-meeting-agenda",
       "target": "<td width=\"75%\">",
-      "html": null
+      "html": null,
+      "page_id": "4ee7f78f50c84454",
+      "run_id": "2026-10-26T10-22-51-789Z-f2bc89",
+      "scanned_at": "2026-10-26T10:24:20.450Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://iucrc.nsf.gov/universities/solicitation/sample-first-iab-meeting-agenda",
       "target": "<td scope=\"row\">",
-      "html": null
+      "html": null,
+      "page_id": "4ee7f78f50c84454",
+      "run_id": "2026-10-26T10-22-51-789Z-f2bc89",
+      "scanned_at": "2026-10-26T10:24:20.450Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://iucrc.nsf.gov/universities/solicitation/sample-planning-meeting-agenda",
       "target": "<td scope=\"row\" width=\"25%\">",
-      "html": null
+      "html": null,
+      "page_id": "8a2ac1988ac01f59",
+      "run_id": "2026-10-26T08-48-35-275Z-d7b303",
+      "scanned_at": "2026-10-26T08:49:10.638Z",
+      "engine_version": "0.117.0"
      },
      {
       "url": "https://iucrc.nsf.gov/universities/solicitation/sample-planning-meeting-agenda",
       "target": "<td width=\"75%\">",
-      "html": null
+      "html": null,
+      "page_id": "8a2ac1988ac01f59",
+      "run_id": "2026-10-26T08-48-35-275Z-d7b303",
+      "scanned_at": "2026-10-26T08:49:10.638Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -9094,7 +9627,11 @@
      {
       "url": "https://iucrc.nsf.gov/admin",
       "target": "{\"type\":\"document\",\"children\":[{\"type\":\"element\",\"children\":[{\"type\":\"element\",\"",
-      "html": null
+      "html": null,
+      "page_id": "7210766fb55603f2",
+      "run_id": "2026-10-26T16-19-54-734Z-3f12f9",
+      "scanned_at": "2026-10-26T16:20:38.860Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -9115,7 +9652,11 @@
      {
       "url": "https://iucrc.nsf.gov/admin",
       "target": "text: \"---\n\n\n\n  \"",
-      "html": null
+      "html": null,
+      "page_id": "7210766fb55603f2",
+      "run_id": "2026-10-26T16-19-54-734Z-3f12f9",
+      "scanned_at": "2026-10-26T16:20:38.860Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -9136,7 +9677,11 @@
      {
       "url": "https://iucrc.nsf.gov/admin",
       "target": "{\"type\":\"document\",\"children\":[{\"type\":\"element\",\"children\":[{\"type\":\"element\",\"",
-      "html": null
+      "html": null,
+      "page_id": "7210766fb55603f2",
+      "run_id": "2026-10-26T16-19-54-734Z-3f12f9",
+      "scanned_at": "2026-10-26T16:20:38.860Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -9157,7 +9702,11 @@
      {
       "url": "https://iucrc.nsf.gov/centers",
       "target": "<button class=\"usa-button\" type=\"submit\">",
-      "html": null
+      "html": null,
+      "page_id": "b05a23dd9f789690",
+      "run_id": "2026-10-26T11-45-39-974Z-25c3e9",
+      "scanned_at": "2026-10-26T11:47:31.645Z",
+      "engine_version": "0.117.0"
      }
     ]
    },
@@ -9178,7 +9727,11 @@
      {
       "url": "https://iucrc.nsf.gov/collections",
       "target": "{\"type\":\"document\",\"children\":[{\"type\":\"type\",\"name\":\"html\",\"publicId\":null,\"sys",
-      "html": null
+      "html": null,
+      "page_id": "f481df78f0fca5d0",
+      "run_id": "2026-10-26T14-10-42-533Z-5f6f91",
+      "scanned_at": "2026-10-26T14:13:04.811Z",
+      "engine_version": "0.117.0"
      }
     ]
    }
@@ -9504,6 +10057,16 @@
    }
   }
  },
+ "regions": {
+  "basis": "stored_examples",
+  "findings_total": 36,
+  "findings_with_region": 0,
+  "findings_unclassified": 0,
+  "findings_without_evidence": 36,
+  "regions": [],
+  "csv": "iucrc.nsf.gov_26OCT2026_regions.csv"
+ },
+ "widgetGroups": null,
  "sustainability": {
   "pages": 16,
   "medianBytes": 1238864,
@@ -10555,26 +11118,6 @@
   "pwaSignals": [],
   "recommendations": [
    {
-    "id": "cache-insight",
-    "category": "performance",
-    "title": "Use efficient cache lifetimes",
-    "pages": 18,
-    "examplePages": [
-     "https://iucrc.nsf.gov/centers/science-center-for-marine-fisheries",
-     "https://iucrc.nsf.gov/centers/center-for-science-management-applications-regulation-and-training-cyber-smart",
-     "https://iucrc.nsf.gov/centers/laser-and-plasma-for-advanced-manufacturing",
-     "https://iucrc.nsf.gov/centers/achievements/page/2",
-     "https://iucrc.nsf.gov/centers/integrated-power-management-circuits-and-systems---power-one-ic",
-     "https://iucrc.nsf.gov/universities/solicitation/funding",
-     "https://iucrc.nsf.gov/centers/center-for-metamaterials",
-     "https://iucrc.nsf.gov/centers/center-on-intelligent-storage",
-     "https://iucrc.nsf.gov/blog",
-     "https://iucrc.nsf.gov/centers/center-for-electromagnetic-compatibility"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 34850
-   },
-   {
     "id": "unused-javascript",
     "category": "performance",
     "title": "Reduce unused JavaScript",
@@ -10592,47 +11135,11 @@
      "https://iucrc.nsf.gov/centers/center-for-electromagnetic-compatibility"
     ],
     "savingsBytes": 5563999,
-    "savingsMs": 27400
-   },
-   {
-    "id": "render-blocking-insight",
-    "category": "performance",
-    "title": "Render-blocking requests",
-    "pages": 18,
-    "examplePages": [
-     "https://iucrc.nsf.gov/centers/science-center-for-marine-fisheries",
-     "https://iucrc.nsf.gov/centers/center-for-science-management-applications-regulation-and-training-cyber-smart",
-     "https://iucrc.nsf.gov/centers/laser-and-plasma-for-advanced-manufacturing",
-     "https://iucrc.nsf.gov/centers/achievements/page/2",
-     "https://iucrc.nsf.gov/centers/integrated-power-management-circuits-and-systems---power-one-ic",
-     "https://iucrc.nsf.gov/universities/solicitation/funding",
-     "https://iucrc.nsf.gov/centers/center-for-metamaterials",
-     "https://iucrc.nsf.gov/centers/center-on-intelligent-storage",
-     "https://iucrc.nsf.gov/blog",
-     "https://iucrc.nsf.gov/centers/center-for-electromagnetic-compatibility"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 32450
-   },
-   {
-    "id": "redirects",
-    "category": "performance",
-    "title": "Avoid multiple page redirects",
-    "pages": 18,
-    "examplePages": [
-     "https://iucrc.nsf.gov/centers/science-center-for-marine-fisheries",
-     "https://iucrc.nsf.gov/centers/center-for-science-management-applications-regulation-and-training-cyber-smart",
-     "https://iucrc.nsf.gov/centers/laser-and-plasma-for-advanced-manufacturing",
-     "https://iucrc.nsf.gov/centers/achievements/page/2",
-     "https://iucrc.nsf.gov/centers/integrated-power-management-circuits-and-systems---power-one-ic",
-     "https://iucrc.nsf.gov/universities/solicitation/funding",
-     "https://iucrc.nsf.gov/centers/center-for-metamaterials",
-     "https://iucrc.nsf.gov/centers/center-on-intelligent-storage",
-     "https://iucrc.nsf.gov/blog",
-     "https://iucrc.nsf.gov/centers/center-for-electromagnetic-compatibility"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 15550
+    "savingsMs": 27400,
+    "savingsBytesMedian": 314771,
+    "savingsBytesP75": 318708,
+    "savingsMsMedian": 1600,
+    "savingsMsP75": 1850
    },
    {
     "id": "unused-css-rules",
@@ -10652,87 +11159,11 @@
      "https://iucrc.nsf.gov/centers/center-for-electromagnetic-compatibility"
     ],
     "savingsBytes": 625886,
-    "savingsMs": 8550
-   },
-   {
-    "id": "mainthread-work-breakdown",
-    "category": "performance",
-    "title": "Minimizes main-thread work",
-    "pages": 18,
-    "examplePages": [
-     "https://iucrc.nsf.gov/centers/science-center-for-marine-fisheries",
-     "https://iucrc.nsf.gov/centers/center-for-science-management-applications-regulation-and-training-cyber-smart",
-     "https://iucrc.nsf.gov/centers/laser-and-plasma-for-advanced-manufacturing",
-     "https://iucrc.nsf.gov/centers/achievements/page/2",
-     "https://iucrc.nsf.gov/centers/integrated-power-management-circuits-and-systems---power-one-ic",
-     "https://iucrc.nsf.gov/universities/solicitation/funding",
-     "https://iucrc.nsf.gov/centers/center-for-metamaterials",
-     "https://iucrc.nsf.gov/centers/center-on-intelligent-storage",
-     "https://iucrc.nsf.gov/blog",
-     "https://iucrc.nsf.gov/centers/center-for-electromagnetic-compatibility"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 6850
-   },
-   {
-    "id": "bootup-time",
-    "category": "performance",
-    "title": "JavaScript execution time",
-    "pages": 18,
-    "examplePages": [
-     "https://iucrc.nsf.gov/centers/science-center-for-marine-fisheries",
-     "https://iucrc.nsf.gov/centers/center-for-science-management-applications-regulation-and-training-cyber-smart",
-     "https://iucrc.nsf.gov/centers/laser-and-plasma-for-advanced-manufacturing",
-     "https://iucrc.nsf.gov/centers/achievements/page/2",
-     "https://iucrc.nsf.gov/centers/integrated-power-management-circuits-and-systems---power-one-ic",
-     "https://iucrc.nsf.gov/universities/solicitation/funding",
-     "https://iucrc.nsf.gov/centers/center-for-metamaterials",
-     "https://iucrc.nsf.gov/centers/center-on-intelligent-storage",
-     "https://iucrc.nsf.gov/blog",
-     "https://iucrc.nsf.gov/centers/center-for-electromagnetic-compatibility"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 6750
-   },
-   {
-    "id": "font-display-insight",
-    "category": "performance",
-    "title": "Font display",
-    "pages": 18,
-    "examplePages": [
-     "https://iucrc.nsf.gov/centers/science-center-for-marine-fisheries",
-     "https://iucrc.nsf.gov/centers/center-for-science-management-applications-regulation-and-training-cyber-smart",
-     "https://iucrc.nsf.gov/centers/laser-and-plasma-for-advanced-manufacturing",
-     "https://iucrc.nsf.gov/centers/achievements/page/2",
-     "https://iucrc.nsf.gov/centers/integrated-power-management-circuits-and-systems---power-one-ic",
-     "https://iucrc.nsf.gov/universities/solicitation/funding",
-     "https://iucrc.nsf.gov/centers/center-for-metamaterials",
-     "https://iucrc.nsf.gov/centers/center-on-intelligent-storage",
-     "https://iucrc.nsf.gov/blog",
-     "https://iucrc.nsf.gov/centers/center-for-electromagnetic-compatibility"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 3000
-   },
-   {
-    "id": "document-latency-insight",
-    "category": "performance",
-    "title": "Document request latency",
-    "pages": 18,
-    "examplePages": [
-     "https://iucrc.nsf.gov/centers/science-center-for-marine-fisheries",
-     "https://iucrc.nsf.gov/centers/center-for-science-management-applications-regulation-and-training-cyber-smart",
-     "https://iucrc.nsf.gov/centers/laser-and-plasma-for-advanced-manufacturing",
-     "https://iucrc.nsf.gov/centers/achievements/page/2",
-     "https://iucrc.nsf.gov/centers/integrated-power-management-circuits-and-systems---power-one-ic",
-     "https://iucrc.nsf.gov/universities/solicitation/funding",
-     "https://iucrc.nsf.gov/centers/center-for-metamaterials",
-     "https://iucrc.nsf.gov/centers/center-on-intelligent-storage",
-     "https://iucrc.nsf.gov/blog",
-     "https://iucrc.nsf.gov/centers/center-for-electromagnetic-compatibility"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 2200
+    "savingsMs": 8550,
+    "savingsBytesMedian": 34769,
+    "savingsBytesP75": 34864,
+    "savingsMsMedian": 450,
+    "savingsMsP75": 600
    },
    {
     "id": "unminified-javascript",
@@ -10752,12 +11183,16 @@
      "https://iucrc.nsf.gov/centers/center-for-electromagnetic-compatibility"
     ],
     "savingsBytes": 125022,
-    "savingsMs": 900
+    "savingsMs": 900,
+    "savingsBytesMedian": 6944,
+    "savingsBytesP75": 6947,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
-    "id": "first-contentful-paint",
+    "id": "redirects",
     "category": "performance",
-    "title": "First Contentful Paint",
+    "title": "Avoid multiple page redirects",
     "pages": 18,
     "examplePages": [
      "https://iucrc.nsf.gov/centers/science-center-for-marine-fisheries",
@@ -10772,47 +11207,11 @@
      "https://iucrc.nsf.gov/centers/center-for-electromagnetic-compatibility"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
-   },
-   {
-    "id": "largest-contentful-paint",
-    "category": "performance",
-    "title": "Largest Contentful Paint",
-    "pages": 18,
-    "examplePages": [
-     "https://iucrc.nsf.gov/centers/science-center-for-marine-fisheries",
-     "https://iucrc.nsf.gov/centers/center-for-science-management-applications-regulation-and-training-cyber-smart",
-     "https://iucrc.nsf.gov/centers/laser-and-plasma-for-advanced-manufacturing",
-     "https://iucrc.nsf.gov/centers/achievements/page/2",
-     "https://iucrc.nsf.gov/centers/integrated-power-management-circuits-and-systems---power-one-ic",
-     "https://iucrc.nsf.gov/universities/solicitation/funding",
-     "https://iucrc.nsf.gov/centers/center-for-metamaterials",
-     "https://iucrc.nsf.gov/centers/center-on-intelligent-storage",
-     "https://iucrc.nsf.gov/blog",
-     "https://iucrc.nsf.gov/centers/center-for-electromagnetic-compatibility"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 0
-   },
-   {
-    "id": "interactive",
-    "category": "performance",
-    "title": "Time to Interactive",
-    "pages": 18,
-    "examplePages": [
-     "https://iucrc.nsf.gov/centers/science-center-for-marine-fisheries",
-     "https://iucrc.nsf.gov/centers/center-for-science-management-applications-regulation-and-training-cyber-smart",
-     "https://iucrc.nsf.gov/centers/laser-and-plasma-for-advanced-manufacturing",
-     "https://iucrc.nsf.gov/centers/achievements/page/2",
-     "https://iucrc.nsf.gov/centers/integrated-power-management-circuits-and-systems---power-one-ic",
-     "https://iucrc.nsf.gov/universities/solicitation/funding",
-     "https://iucrc.nsf.gov/centers/center-for-metamaterials",
-     "https://iucrc.nsf.gov/centers/center-on-intelligent-storage",
-     "https://iucrc.nsf.gov/blog",
-     "https://iucrc.nsf.gov/centers/center-for-electromagnetic-compatibility"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 15550,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 850,
+    "savingsMsP75": 900
    },
    {
     "id": "image-size-responsive",
@@ -10832,7 +11231,59 @@
      "https://iucrc.nsf.gov/centers/center-for-electromagnetic-compatibility"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
+   },
+   {
+    "id": "mainthread-work-breakdown",
+    "category": "performance",
+    "title": "Minimizes main-thread work",
+    "pages": 18,
+    "examplePages": [
+     "https://iucrc.nsf.gov/centers/science-center-for-marine-fisheries",
+     "https://iucrc.nsf.gov/centers/center-for-science-management-applications-regulation-and-training-cyber-smart",
+     "https://iucrc.nsf.gov/centers/laser-and-plasma-for-advanced-manufacturing",
+     "https://iucrc.nsf.gov/centers/achievements/page/2",
+     "https://iucrc.nsf.gov/centers/integrated-power-management-circuits-and-systems---power-one-ic",
+     "https://iucrc.nsf.gov/universities/solicitation/funding",
+     "https://iucrc.nsf.gov/centers/center-for-metamaterials",
+     "https://iucrc.nsf.gov/centers/center-on-intelligent-storage",
+     "https://iucrc.nsf.gov/blog",
+     "https://iucrc.nsf.gov/centers/center-for-electromagnetic-compatibility"
+    ],
+    "savingsBytes": 0,
+    "savingsMs": 6850,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 300,
+    "savingsMsP75": 450
+   },
+   {
+    "id": "bootup-time",
+    "category": "performance",
+    "title": "JavaScript execution time",
+    "pages": 18,
+    "examplePages": [
+     "https://iucrc.nsf.gov/centers/science-center-for-marine-fisheries",
+     "https://iucrc.nsf.gov/centers/center-for-science-management-applications-regulation-and-training-cyber-smart",
+     "https://iucrc.nsf.gov/centers/laser-and-plasma-for-advanced-manufacturing",
+     "https://iucrc.nsf.gov/centers/achievements/page/2",
+     "https://iucrc.nsf.gov/centers/integrated-power-management-circuits-and-systems---power-one-ic",
+     "https://iucrc.nsf.gov/universities/solicitation/funding",
+     "https://iucrc.nsf.gov/centers/center-for-metamaterials",
+     "https://iucrc.nsf.gov/centers/center-on-intelligent-storage",
+     "https://iucrc.nsf.gov/blog",
+     "https://iucrc.nsf.gov/centers/center-for-electromagnetic-compatibility"
+    ],
+    "savingsBytes": 0,
+    "savingsMs": 6750,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 275,
+    "savingsMsP75": 450
    },
    {
     "id": "robots-txt",
@@ -10852,7 +11303,11 @@
      "https://iucrc.nsf.gov/centers/center-for-electromagnetic-compatibility"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "canonical",
@@ -10872,7 +11327,11 @@
      "https://iucrc.nsf.gov/centers/center-for-electromagnetic-compatibility"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "webmcp-registered-tools",
@@ -10892,7 +11351,11 @@
      "https://iucrc.nsf.gov/centers/center-for-electromagnetic-compatibility"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "webmcp-form-coverage",
@@ -10912,7 +11375,11 @@
      "https://iucrc.nsf.gov/centers/center-for-electromagnetic-compatibility"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "webmcp-schema-validity",
@@ -10932,7 +11399,11 @@
      "https://iucrc.nsf.gov/centers/center-for-electromagnetic-compatibility"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "llms-txt",
@@ -10952,7 +11423,11 @@
      "https://iucrc.nsf.gov/centers/center-for-electromagnetic-compatibility"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "ard-schema",
@@ -10972,7 +11447,83 @@
      "https://iucrc.nsf.gov/centers/center-for-electromagnetic-compatibility"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
+   },
+   {
+    "id": "cache-insight",
+    "category": "performance",
+    "title": "Use efficient cache lifetimes",
+    "pages": 18,
+    "examplePages": [
+     "https://iucrc.nsf.gov/centers/science-center-for-marine-fisheries",
+     "https://iucrc.nsf.gov/centers/center-for-science-management-applications-regulation-and-training-cyber-smart",
+     "https://iucrc.nsf.gov/centers/laser-and-plasma-for-advanced-manufacturing",
+     "https://iucrc.nsf.gov/centers/achievements/page/2",
+     "https://iucrc.nsf.gov/centers/integrated-power-management-circuits-and-systems---power-one-ic",
+     "https://iucrc.nsf.gov/universities/solicitation/funding",
+     "https://iucrc.nsf.gov/centers/center-for-metamaterials",
+     "https://iucrc.nsf.gov/centers/center-on-intelligent-storage",
+     "https://iucrc.nsf.gov/blog",
+     "https://iucrc.nsf.gov/centers/center-for-electromagnetic-compatibility"
+    ],
+    "savingsBytes": 0,
+    "savingsMs": 34850,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 1600,
+    "savingsMsP75": 1800
+   },
+   {
+    "id": "document-latency-insight",
+    "category": "performance",
+    "title": "Document request latency",
+    "pages": 18,
+    "examplePages": [
+     "https://iucrc.nsf.gov/centers/science-center-for-marine-fisheries",
+     "https://iucrc.nsf.gov/centers/center-for-science-management-applications-regulation-and-training-cyber-smart",
+     "https://iucrc.nsf.gov/centers/laser-and-plasma-for-advanced-manufacturing",
+     "https://iucrc.nsf.gov/centers/achievements/page/2",
+     "https://iucrc.nsf.gov/centers/integrated-power-management-circuits-and-systems---power-one-ic",
+     "https://iucrc.nsf.gov/universities/solicitation/funding",
+     "https://iucrc.nsf.gov/centers/center-for-metamaterials",
+     "https://iucrc.nsf.gov/centers/center-on-intelligent-storage",
+     "https://iucrc.nsf.gov/blog",
+     "https://iucrc.nsf.gov/centers/center-for-electromagnetic-compatibility"
+    ],
+    "savingsBytes": 0,
+    "savingsMs": 2200,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 100,
+    "savingsMsP75": 150
+   },
+   {
+    "id": "font-display-insight",
+    "category": "performance",
+    "title": "Font display",
+    "pages": 18,
+    "examplePages": [
+     "https://iucrc.nsf.gov/centers/science-center-for-marine-fisheries",
+     "https://iucrc.nsf.gov/centers/center-for-science-management-applications-regulation-and-training-cyber-smart",
+     "https://iucrc.nsf.gov/centers/laser-and-plasma-for-advanced-manufacturing",
+     "https://iucrc.nsf.gov/centers/achievements/page/2",
+     "https://iucrc.nsf.gov/centers/integrated-power-management-circuits-and-systems---power-one-ic",
+     "https://iucrc.nsf.gov/universities/solicitation/funding",
+     "https://iucrc.nsf.gov/centers/center-for-metamaterials",
+     "https://iucrc.nsf.gov/centers/center-on-intelligent-storage",
+     "https://iucrc.nsf.gov/blog",
+     "https://iucrc.nsf.gov/centers/center-for-electromagnetic-compatibility"
+    ],
+    "savingsBytes": 0,
+    "savingsMs": 3000,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 150,
+    "savingsMsP75": 200
    },
    {
     "id": "network-dependency-tree-insight",
@@ -10992,67 +11543,35 @@
      "https://iucrc.nsf.gov/centers/center-for-electromagnetic-compatibility"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
-    "id": "speed-index",
+    "id": "render-blocking-insight",
     "category": "performance",
-    "title": "Speed Index",
-    "pages": 14,
+    "title": "Render-blocking requests",
+    "pages": 18,
     "examplePages": [
      "https://iucrc.nsf.gov/centers/science-center-for-marine-fisheries",
      "https://iucrc.nsf.gov/centers/center-for-science-management-applications-regulation-and-training-cyber-smart",
      "https://iucrc.nsf.gov/centers/laser-and-plasma-for-advanced-manufacturing",
      "https://iucrc.nsf.gov/centers/achievements/page/2",
      "https://iucrc.nsf.gov/centers/integrated-power-management-circuits-and-systems---power-one-ic",
-     "https://iucrc.nsf.gov/centers/center-for-metamaterials",
-     "https://iucrc.nsf.gov/centers/center-on-intelligent-storage",
-     "https://iucrc.nsf.gov/blog",
-     "https://iucrc.nsf.gov/about",
-     "https://iucrc.nsf.gov/centers/center-for-research-toward-advancing-financial-technologies-craft"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 0
-   },
-   {
-    "id": "total-blocking-time",
-    "category": "performance",
-    "title": "Total Blocking Time",
-    "pages": 14,
-    "examplePages": [
-     "https://iucrc.nsf.gov/centers/center-for-science-management-applications-regulation-and-training-cyber-smart",
-     "https://iucrc.nsf.gov/centers/laser-and-plasma-for-advanced-manufacturing",
-     "https://iucrc.nsf.gov/centers/achievements/page/2",
-     "https://iucrc.nsf.gov/centers/integrated-power-management-circuits-and-systems---power-one-ic",
      "https://iucrc.nsf.gov/universities/solicitation/funding",
      "https://iucrc.nsf.gov/centers/center-for-metamaterials",
      "https://iucrc.nsf.gov/centers/center-on-intelligent-storage",
      "https://iucrc.nsf.gov/blog",
-     "https://iucrc.nsf.gov/about",
-     "https://iucrc.nsf.gov/universities/solicitation/annual-costs-archive"
+     "https://iucrc.nsf.gov/centers/center-for-electromagnetic-compatibility"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
-   },
-   {
-    "id": "max-potential-fid",
-    "category": "performance",
-    "title": "Max Potential First Input Delay",
-    "pages": 13,
-    "examplePages": [
-     "https://iucrc.nsf.gov/centers/laser-and-plasma-for-advanced-manufacturing",
-     "https://iucrc.nsf.gov/centers/achievements/page/2",
-     "https://iucrc.nsf.gov/centers/integrated-power-management-circuits-and-systems---power-one-ic",
-     "https://iucrc.nsf.gov/universities/solicitation/funding",
-     "https://iucrc.nsf.gov/centers/center-for-metamaterials",
-     "https://iucrc.nsf.gov/centers/center-on-intelligent-storage",
-     "https://iucrc.nsf.gov/blog",
-     "https://iucrc.nsf.gov/centers/center-for-electromagnetic-compatibility",
-     "https://iucrc.nsf.gov/about",
-     "https://iucrc.nsf.gov/universities/solicitation/annual-costs-archive"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 32450,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 1850,
+    "savingsMsP75": 1900
    },
    {
     "id": "forced-reflow-insight",
@@ -11071,7 +11590,11 @@
      "https://iucrc.nsf.gov/centers/center-for-accelerated-real-time-analytics"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "server-response-time",
@@ -11089,24 +11612,11 @@
      "https://iucrc.nsf.gov/centers/wind-hazard-and-infrastructure-performance-old"
     ],
     "savingsBytes": 0,
-    "savingsMs": 700
-   },
-   {
-    "id": "cumulative-layout-shift",
-    "category": "agentic-browsing",
-    "title": "Cumulative Layout Shift",
-    "pages": 7,
-    "examplePages": [
-     "https://iucrc.nsf.gov/universities/solicitation/funding",
-     "https://iucrc.nsf.gov/blog",
-     "https://iucrc.nsf.gov/centers/center-for-electromagnetic-compatibility",
-     "https://iucrc.nsf.gov/about",
-     "https://iucrc.nsf.gov/universities/solicitation/annual-costs-archive",
-     "https://iucrc.nsf.gov/centers/center-for-research-toward-advancing-financial-technologies-craft",
-     "https://iucrc.nsf.gov/centers/achievements/medicine-producing-cells"
-    ],
-    "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 700,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 50,
+    "savingsMsP75": 100
    },
    {
     "id": "cls-culprits-insight",
@@ -11123,7 +11633,11 @@
      "https://iucrc.nsf.gov/centers/achievements/medicine-producing-cells"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "image-delivery-insight",
@@ -11137,7 +11651,11 @@
      "https://iucrc.nsf.gov/universities/solicitation/annual-costs-archive"
     ],
     "savingsBytes": 0,
-    "savingsMs": 6550
+    "savingsMs": 6550,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 850,
+    "savingsMsP75": 900
    },
    {
     "id": "link-text",
@@ -11149,7 +11667,11 @@
      "https://iucrc.nsf.gov/about"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    },
    {
     "id": "agent-accessibility-tree",
@@ -11161,7 +11683,11 @@
      "https://iucrc.nsf.gov/about"
     ],
     "savingsBytes": 0,
-    "savingsMs": 0
+    "savingsMs": 0,
+    "savingsBytesMedian": 0,
+    "savingsBytesP75": 0,
+    "savingsMsMedian": 0,
+    "savingsMsP75": 0
    }
   ]
  },
@@ -28957,6 +29483,7 @@
   "drift_clusters": []
  },
  "sharedComponents": null,
+ "componentGroups": null,
  "pageFamilies": null,
  "pagesAttempted": 218,
  "pagesSucceeded": 205,
@@ -28979,5 +29506,66 @@
   "errorStatuses": {
    "404": 13
   }
+ },
+ "evidenceCoverage": {
+  "basis": "findings",
+  "findings_total": 36,
+  "occurrences_stored": 137,
+  "element_evidence": {
+   "captured": 0,
+   "not_captured": 18,
+   "not_applicable": 18,
+   "unsupported_dom_boundary": 0,
+   "no_stored_examples": 0
+  },
+  "usable_locator": {
+   "captured": 0,
+   "unavailable": 36
+  },
+  "semantic_region": {
+   "captured": 0,
+   "no_containing_landmark": 0,
+   "unavailable": 36
+  },
+  "widget": {
+   "captured": 0,
+   "no_widget": 0,
+   "unavailable": 36
+  },
+  "component": {
+   "attributed": 0,
+   "unattributed": 36
+  },
+  "screenshot": {
+   "available": 0,
+   "unavailable": 36
+  },
+  "reproduction": {
+   "eligible": 0,
+   "unavailable": 36
+  },
+  "findings_with_detailed_evidence": 0,
+  "findings_without_detailed_evidence": 36,
+  "by_engine": {
+   "axe-core": {
+    "findings": 18,
+    "element_captured": 0,
+    "locator_captured": 0,
+    "reproduction_eligible": 0
+   },
+   "alfa": {
+    "findings": 18,
+    "element_captured": 0,
+    "locator_captured": 0,
+    "reproduction_eligible": 0
+   },
+   "deprecated-html": {
+    "findings": 0,
+    "element_captured": 0,
+    "locator_captured": 0,
+    "reproduction_eligible": 0
+   }
+  },
+  "notes": "Finding-level sample coverage. Counts are not element-occurrence totals; screenshots and page detail follow retention."
  }
 }
