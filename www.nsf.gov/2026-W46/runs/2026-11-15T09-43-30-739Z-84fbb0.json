@@ -1,0 +1,135 @@
+{
+ "runId": "2026-11-15T09-43-30-739Z-84fbb0",
+ "week": "2026-W46",
+ "domain": "www.nsf.gov",
+ "canonical": {
+  "origin": "https://www.nsf.gov",
+  "configured": "https://www.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-15T09:43:31.209Z",
+ "scanned": [
+  "f78da35f0c2297dd",
+  "16370df978bcefc7",
+  "a2fedeba17cbfd22",
+  "360959b890eab8de",
+  "248d351d4bdea6e0",
+  "fcc5c0a3742de024",
+  "e80cdc1c935f25ff",
+  "82a1334b8fcbd242",
+  "473b53de2109289f",
+  "7910e3a5c9450b25",
+  "e49106a1c2f74513"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 184,
+  "checked": 184,
+  "brokenCount": 6,
+  "broken": [
+   {
+    "url": "https://www.nsf.gov/eng/futureofwork_webinar2021.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/future-work-human-technology-frontier-office-hours-1"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/futureofwork",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/future-work-human-technology-frontier-office-hours-1"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_WWhciTBITDWVGfhsenzjpw",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/dms-virtual-office-hours-15"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_k9luU1bORFaGsawlOe4Xcw",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/dms-virtual-office-hours-15"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/staff/staff_list.jsp?orgId=115&subDiv=y&org=IIP",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-small-businessengineering-research-center-collaborative"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/eng/iip/sbir/Supplement/instructions.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-small-businessengineering-research-center-collaborative"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 10,
+  "alfa": 6,
+  "resources": 10,
+  "images": 10,
+  "standards": 6,
+  "link-check": 10,
+  "public-interest": 1,
+  "plain-language": 5,
+  "lighthouse": 1,
+  "third-party": 1
+ },
+ "tally": {
+  "ok": 10,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 1,
+  "error": 0
+ },
+ "finishedAt": "2026-11-15T09:45:45.752Z"
+}
