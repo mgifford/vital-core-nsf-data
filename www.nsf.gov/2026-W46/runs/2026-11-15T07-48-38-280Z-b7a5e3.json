@@ -1,0 +1,208 @@
+{
+ "runId": "2026-11-15T07-48-38-280Z-b7a5e3",
+ "week": "2026-W46",
+ "domain": "www.nsf.gov",
+ "canonical": {
+  "origin": "https://www.nsf.gov",
+  "configured": "https://www.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-15T07:48:39.690Z",
+ "scanned": [
+  "88036faae939766a",
+  "2054855ed631af2b",
+  "c5617ead8116a1ec",
+  "ad12ae2c220b543e",
+  "7a16c44b1f5e5b54",
+  "2b708cf3886662dd",
+  "cbc15d8c1fad0811",
+  "a9ff28737f6a7bf2",
+  "85a5767c48499d40",
+  "f047b8c2e3164e53",
+  "4fd5e992bf070e6b",
+  "eda73abb6e52f926",
+  "e599932778eb0f35",
+  "d5987ac316106209",
+  "250103e91b6830fc",
+  "9d22edab6227f530",
+  "ee517755de5fa970",
+  "74a1ec05b581d4ee",
+  "78630be1f829a5e4",
+  "86e5d6ca654eae91",
+  "8be9b6c730613d23",
+  "3b606ea04ce7ddb4",
+  "d2522d3f737c50cd",
+  "905ce19a4e8f36f1"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 279,
+  "checked": 279,
+  "brokenCount": 13,
+  "broken": [
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf18045",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/urolen-understanding-rules-life-emergent-networks/505871/nsf22-532/solicitation",
+     "https://www.nsf.gov/funding/opportunities/hsi-program-improving-undergraduate-stem-education-hispanic-serving/505512/nsf22-545"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/funding/information/faq-explosives-related-threats-frontiers-prediction/nsf07-031",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/ari-joint-domestic-nuclear-detection-officenational-science/501056/nsf07-545"
+    ]
+   },
+   {
+    "url": "https://www.fastlane.nsf.gov/a1/newstan.htm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/msip-mid-scale-innovations-program-astronomical-sciences/504874/nsf13-567/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/policies/SOR_PA_NSF-50_Principal_Investigator_Proposal_File.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/msip-mid-scale-innovations-program-astronomical-sciences/504874/nsf13-567/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=aag",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/msip-mid-scale-innovations-program-astronomical-sciences/504874/nsf13-567/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubs/2014/nsf14043/nsf14043.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/msip-mid-scale-innovations-program-astronomical-sciences/504874/nsf13-567/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/funding/initiatives/nrt/advancing-ethical-ai-through-convergent-research",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/initiatives/nrt/updates/connecting-dots-artificial-intelligence-technology-power"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/funding/initiatives/nrt/harnessing-ethical-ai-connect-communities",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/initiatives/nrt/updates/connecting-dots-artificial-intelligence-technology-power"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/funding/initiatives/nrt/design-smart-sustainable-cities-through-ethical-ai",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/initiatives/nrt/updates/connecting-dots-artificial-intelligence-technology-power"
+    ]
+   },
+   {
+    "url": "https://nsf.gov/ehr/HSIProgramPlan.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/hsi-program-improving-undergraduate-stem-education-hispanic-serving/505512/nsf22-545"
+    ]
+   },
+   {
+    "url": "https://nsf.gov/ehr/Pubs/HSICertForm.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/hsi-program-improving-undergraduate-stem-education-hispanic-serving/505512/nsf22-545"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_K8W7YS6bT4yuUqMKMFiBLw",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/geo-quarterly-webinar-1"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/epublish/(https:/www.nsf.gov/dir/index.jsp?org=GEO",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/geo-quarterly-webinar-1"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 24,
+  "alfa": 10,
+  "plain-language": 11,
+  "resources": 24,
+  "images": 24,
+  "link-check": 24,
+  "standards": 10,
+  "public-interest": 4,
+  "lighthouse": 2,
+  "tech": 1,
+  "third-party": 2,
+  "deprecated-html": 3,
+  "sustainability": 2
+ },
+ "tally": {
+  "ok": 24,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 1,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 2,
+  "error": 0
+ },
+ "finishedAt": "2026-11-15T07:52:34.454Z"
+}
