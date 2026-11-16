@@ -1,0 +1,108 @@
+{
+ "runId": "2026-11-16T14-02-00-770Z-52d372",
+ "week": "2026-W47",
+ "domain": "ncses.nsf.gov",
+ "canonical": {
+  "origin": "https://ncses.nsf.gov",
+  "configured": "https://ncses.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-16T14:02:03.518Z",
+ "scanned": [
+  "1ad9f651524aa8b6",
+  "8956f64d9040ef96",
+  "aa14515faeb2e687",
+  "ded43740589fabe4",
+  "1de509068538445f",
+  "3e8c30d7c5bd515f",
+  "8c79259e184e8485",
+  "7b47ac636fe78ac9",
+  "6743636b88ca1bbf",
+  "a507336b127ca0fb",
+  "c3dd5d6152379a28",
+  "962877c6f9c4a380",
+  "f16cfba4aae0ff97",
+  "cac3444051c01a7e",
+  "9678c8be0d5f248c",
+  "a11b75e1b0cfd608",
+  "ada036f5e4a36610",
+  "f35d79e510527354",
+  "217b485b42f0ad61",
+  "1f96c6920e036328"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 1912,
+  "checked": 500,
+  "brokenCount": 1,
+  "broken": [
+   {
+    "url": "https://ncses.nsf.gov/pubs/nsb20206/table-link/S5a-31",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20206/supplemental-tables"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 20,
+  "resources": 20,
+  "images": 20,
+  "tech": 1,
+  "link-check": 20,
+  "sustainability": 1,
+  "plain-language": 11,
+  "third-party": 3,
+  "alfa": 14,
+  "standards": 9,
+  "deprecated-html": 2,
+  "security": 3,
+  "lighthouse": 1,
+  "public-interest": 2
+ },
+ "tally": {
+  "ok": 20,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 11,
+  "error": 0
+ },
+ "finishedAt": "2026-11-16T14:07:20.796Z"
+}
