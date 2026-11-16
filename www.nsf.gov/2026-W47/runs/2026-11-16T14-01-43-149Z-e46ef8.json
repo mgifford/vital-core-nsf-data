@@ -1,0 +1,194 @@
+{
+ "runId": "2026-11-16T14-01-43-149Z-e46ef8",
+ "week": "2026-W47",
+ "domain": "www.nsf.gov",
+ "canonical": {
+  "origin": "https://www.nsf.gov",
+  "configured": "https://www.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-16T14:01:45.641Z",
+ "scanned": [
+  "d1bb8cb5e8f8159b",
+  "817b2ea47c6b08c2",
+  "4813ed49e526b785",
+  "e6708bfbcdc145c9",
+  "5b2132caa0f60b75",
+  "63dd58c42848c966",
+  "c7ca3fe475d5c2c9",
+  "bc8b440045121518",
+  "3939de619ea4e766",
+  "30f81537aab0d38b",
+  "de649127f45decdc",
+  "2043083df122572e",
+  "6bd5a1447b22d574",
+  "08d4dd2d78db211b",
+  "bd24bfc34821ec63",
+  "df048ee267b88d17",
+  "f154bb2448655c95",
+  "18100635a14b94d4",
+  "8e0f74f932cb4b29",
+  "63cb3a952894ef95",
+  "225373007601cdd9",
+  "3bd5700e07ca3f09",
+  "7bd7a7ec0f076984",
+  "5796af2cc76cadfd",
+  "f2609abcd0f5e725"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 296,
+  "checked": 296,
+  "brokenCount": 11,
+  "broken": [
+   {
+    "url": "http://www.nsf-nsfc-sw.org/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-us-china-collaborative-software-research/nsf12-096"
+    ]
+   },
+   {
+    "url": "http://www.teragrid.org/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/hpcops-high-performance-computing-science-engineering-research/500065/nsf06-599/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.fastlane.nsf.gov/a1/newstan.htm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/hpcops-high-performance-computing-science-engineering-research/500065/nsf06-599/solicitation",
+     "https://www.nsf.gov/funding/opportunities/cd-continental-dynamics/6194/nsf04-512/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=gpm",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/hpcops-high-performance-computing-science-engineering-research/500065/nsf06-599/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/od/oia/activities/ceose/reports/Envisioning-The-Future-of-EPSCoR-Report.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/od/oia/ceose"
+    ]
+   },
+   {
+    "url": "http://www07.grants.gov/applicants/app_help_reso.jsp",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/cd-continental-dynamics/6194/nsf04-512/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/od/oia/activities/ceose/reports/EPSCoR%20Report%20Handout_Final_Aug%202022-508.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/od/oia/ceose"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/policies/SOR_PA_NSF-50_Principal_Investigator_Proposal_File.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/cd-continental-dynamics/6194/nsf04-512/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=aag",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/cd-continental-dynamics/6194/nsf04-512/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/cise/oac/vision/blueprint-2019/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-pilot-projects-integrate-existing-data-data-focused/nsf20-085"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/mps/che/workshops/data_chemistry_workshop_report_03262018.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-pilot-projects-integrate-existing-data-data-focused/nsf20-085"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 24,
+  "alfa": 11,
+  "deprecated-html": 4,
+  "resources": 24,
+  "images": 24,
+  "standards": 11,
+  "link-check": 24,
+  "plain-language": 14,
+  "third-party": 7,
+  "tech": 2,
+  "security": 1,
+  "sustainability": 2,
+  "public-interest": 2,
+  "lighthouse": 3
+ },
+ "tally": {
+  "ok": 24,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 2,
+  "error": 0
+ },
+ "finishedAt": "2026-11-16T14:05:44.968Z"
+}
