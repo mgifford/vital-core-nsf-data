@@ -1,0 +1,215 @@
+{
+ "runId": "2026-11-16T18-49-02-498Z-b97d48",
+ "week": "2026-W47",
+ "domain": "www.nsf.gov",
+ "canonical": {
+  "origin": "https://www.nsf.gov",
+  "configured": "https://www.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-16T18:49:06.140Z",
+ "scanned": [
+  "4e897e50ba208aa0",
+  "3ab6b8477ed4e0c5",
+  "3a62df04f611e00d",
+  "7f1d1bda56e0dc5d",
+  "b999b0d323c471ef",
+  "fd6c2161b6e4a72c",
+  "ca075c318b729ccd",
+  "f887ef0afcf4b1a3",
+  "b41c3262e40e5f55",
+  "dd34883d8ad3be9e",
+  "d9fed0e1c977faa1",
+  "61487dd26cedc18c",
+  "35fb51cb0d2b8e0a",
+  "d5a896c010225ad8",
+  "5a4bc87f82782f5a",
+  "af2ed0b8a2e8f84c",
+  "5cbf4a664831b51f",
+  "4c6402f222996feb",
+  "31e29bc2c103871b",
+  "07b3bd8344ec365e",
+  "b560a205e6e4faf0",
+  "03028ade0dc757e5",
+  "aa80b02d24272ef7"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 243,
+  "checked": 243,
+  "brokenCount": 14,
+  "broken": [
+   {
+    "url": "https://www.nsf.gov/staff/staff_list.jsp?orgId=115&subDiv=y&org=IIP&from_org=IIP",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-research-assistantships-high-school-students-rahss/nsf14-073"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/eng/iip/sbir/Supplement/instructions.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-research-assistantships-high-school-students-rahss/nsf14-073"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/eng/iip/sbir/Supplement/index.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-research-assistantships-high-school-students-rahss/nsf14-073"
+    ]
+   },
+   {
+    "url": "https://mcbblog.nsfbio.com/office-hours/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/events/mcb-virtual-office-hours-faculty-early-career-development/2023-05-10"
+    ]
+   },
+   {
+    "url": "https://mcbblog.nsfbio.com/category/blog/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/events/mcb-virtual-office-hours-faculty-early-career-development/2023-05-10"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_rcG95iI9QOOed-VfarsHFQ",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/mcb-virtual-office-hours-faculty-early-career-development/2023-05-10"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJItdeyopzguEnNjPgcT-ceDYe-n2wEN5b8",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/geohealth-funding-opportunities-office-hour/2023-10-30"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJIsdu6qqzgoEpojdOW3Qzb9PUxDvy3bpxE",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/geohealth-funding-opportunities-office-hour/2023-10-30"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJIsce6srDkuGeOqRYwwPnuce0O7D7fXixg",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/geohealth-funding-opportunities-office-hour/2023-10-30"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJItdOGurj4tHypg_0DSn_7An4jEYozr2fM",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/geohealth-funding-opportunities-office-hour/2023-10-30"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJIsdOqrqDwoHVF7GwzD9gaQsSZMAcP4WUc",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/geohealth-funding-opportunities-office-hour/2023-10-30"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJIsfu2srjorE6omvv0x1BOce4xUdZGX34Y",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/geohealth-funding-opportunities-office-hour/2023-10-30"
+    ]
+   },
+   {
+    "url": "http://www.beacon.msu.edu/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/beacon-biocomputational-evolution-action-consortium/503495/103889"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJItdOqrqT4pE-gvC-ysmCDeoxP8DuEgDDo",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/geohealth-funding-opportunities-office-hour/2023-10-30"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 23,
+  "plain-language": 15,
+  "resources": 23,
+  "images": 23,
+  "standards": 9,
+  "third-party": 8,
+  "link-check": 23,
+  "alfa": 12,
+  "public-interest": 2,
+  "security": 2,
+  "sustainability": 4,
+  "tech": 2,
+  "lighthouse": 1,
+  "deprecated-html": 1
+ },
+ "tally": {
+  "ok": 23,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 2,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-16T18:52:15.545Z"
+}
