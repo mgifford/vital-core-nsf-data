@@ -1,0 +1,121 @@
+{
+ "runId": "2026-11-16T11-01-25-003Z-36f8e3",
+ "week": "2026-W47",
+ "domain": "ncses.nsf.gov",
+ "canonical": {
+  "origin": "https://ncses.nsf.gov",
+  "configured": "https://ncses.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-16T11:01:25.829Z",
+ "scanned": [
+  "002de8032b99c5e2",
+  "6e7ef67b016139b2",
+  "5ea54a5a0c70db4d",
+  "3390d6ae4fd6632d",
+  "f3dafc25b0a61480",
+  "491708b03d69a902",
+  "207b0d1f77de2f42",
+  "e692b7f03143a9ff",
+  "e1fa912947120b6e",
+  "5f082137246561db",
+  "227e66b2502422e2",
+  "2a0f0baf219c31cb",
+  "e534c431bfcd11b8",
+  "067ae1a6759d4c9c",
+  "e2c0f1f3c2c9c495",
+  "4ca85b5be2a5be73",
+  "4df82a707c638e26",
+  "cf1be8b2cf0caef6",
+  "60a8e337fb7b98dd",
+  "1325636c823879a0",
+  "6bc19c6f7db29a06",
+  "a41624d19e5914bb",
+  "b7db0beb49d19e0c",
+  "fdcf46214fd5065e"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 3549,
+  "checked": 500,
+  "brokenCount": 2,
+  "broken": [
+   {
+    "url": "https://ncsesdata.nsf.gov/rdas/",
+    "status": 502,
+    "reason": "HTTP 502",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsf22300/table/30",
+     "https://ncses.nsf.gov/pubs/nsf22300/survey-description"
+    ]
+   },
+   {
+    "url": "https://www.ice.gov/doclib/sevis/pdf/sevisBTN2022.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsf24320"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 24,
+  "alfa": 9,
+  "plain-language": 14,
+  "deprecated-html": 2,
+  "resources": 24,
+  "images": 24,
+  "standards": 13,
+  "tech": 3,
+  "link-check": 24,
+  "public-interest": 5,
+  "third-party": 3,
+  "security": 2,
+  "lighthouse": 1,
+  "sustainability": 3
+ },
+ "tally": {
+  "ok": 24,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 7,
+  "error": 0
+ },
+ "finishedAt": "2026-11-16T11:06:53.784Z"
+}
