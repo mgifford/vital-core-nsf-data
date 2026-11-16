@@ -1,0 +1,127 @@
+{
+ "runId": "2026-11-16T13-01-55-494Z-9e41b3",
+ "week": "2026-W47",
+ "domain": "ncses.nsf.gov",
+ "canonical": {
+  "origin": "https://ncses.nsf.gov",
+  "configured": "https://ncses.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-16T13:01:58.604Z",
+ "scanned": [
+  "cc8777938c5a2576",
+  "60c5291b106607af",
+  "bb111208d8b5b2d7",
+  "2c5e4a7c99e95f0f",
+  "36aeedfb09425f7c",
+  "930f4858c37f2184",
+  "32a066a81cf1adec",
+  "67c12f5721898fe1",
+  "4a47df212d5e1bc6",
+  "417745d1a1f92a79",
+  "593969cfbc0543a0",
+  "50a6b4ebfc0ff10d",
+  "773c6b13aa8cb391",
+  "c2347d4a2eb01685",
+  "436a73bdaf5ff2ca",
+  "fcce8dd9f6a20957",
+  "8025a17a75046587",
+  "3a3dcc5137e21d21",
+  "c9c40b77818133e1",
+  "45df3cf3ec9971eb",
+  "69935d4c9f24ded9",
+  "4e870677a5640072",
+  "a88537d05c9e286b",
+  "9c5228ab7a39d593"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 3387,
+  "checked": 500,
+  "brokenCount": 3,
+  "broken": [
+   {
+    "url": "https://www.sbir.gov/sbirsearch/award/all",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20224/table/SINV-32"
+    ]
+   },
+   {
+    "url": "https://ncses.nsf.gov/pubs/nsb20224/table/SINV-16",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20224/table/SINV-32"
+    ]
+   },
+   {
+    "url": "https://ncses.nsf.gov/pubs/nsb20224/table/SINV-23",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20224/table/SINV-32"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 23,
+  "deprecated-html": 1,
+  "resources": 23,
+  "images": 23,
+  "standards": 15,
+  "third-party": 4,
+  "link-check": 23,
+  "alfa": 11,
+  "plain-language": 9,
+  "public-interest": 2,
+  "tech": 3,
+  "sustainability": 3,
+  "lighthouse": 2
+ },
+ "tally": {
+  "ok": 23,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 14,
+  "error": 0
+ },
+ "finishedAt": "2026-11-16T13:09:09.295Z"
+}
