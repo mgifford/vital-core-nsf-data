@@ -1,0 +1,192 @@
+{
+ "runId": "2026-11-16T11-01-17-478Z-d85b16",
+ "week": "2026-W47",
+ "domain": "www.nsf.gov",
+ "canonical": {
+  "origin": "https://www.nsf.gov",
+  "configured": "https://www.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-16T11:01:18.023Z",
+ "scanned": [
+  "732ff41d5b02f4d1",
+  "f95d48d18fe2c08f",
+  "b884a663d51fc000",
+  "0c8a4075d0ef1c38",
+  "e372397ed0237951",
+  "677ef9b8867ffce0",
+  "0cbbe061375e36db",
+  "b8f54e3c7f496141",
+  "112dea72a0fe6620",
+  "e5f578845c549a0c",
+  "0b13e6d1b7d283e1",
+  "17175d956905c97e",
+  "d7bc2b1a1f9ebda7",
+  "f6a25467bbc00116",
+  "66f7e10fe7bdaa92",
+  "06fe396fa491c1ef",
+  "4bb4f9ddd4ae9baf",
+  "ad5582381c963895",
+  "6b66626454199fbe",
+  "f92b9c722be199f8",
+  "3f93537590f84e83",
+  "16e4b1b070878fc3",
+  "98079a18406ed08b"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 283,
+  "checked": 283,
+  "brokenCount": 11,
+  "broken": [
+   {
+    "url": "http://www.whitehouse.gov/sites/default/files/microsites/ostp/materials_genome_initiative-final.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-designing-materials-revolutionize-engineer-our-future-dmref/nsf11-089"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_TsJiiOrzSB6fak6bKc6FPg",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/frontier-research-earth-sciences-fres-program-webinar"
+    ]
+   },
+   {
+    "url": "https://www.fastlane.nsf.gov/a1/newstan.htm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsfcasis-collaboration-tissue-engineering-mechanobiology/505735/nsf20-500/solicitation",
+     "https://www.nsf.gov/funding/opportunities/cise-mps-interdisciplinary-faculty-program-quantum/504743/nsf15-512/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf18045",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsfcasis-collaboration-tissue-engineering-mechanobiology/505735/nsf20-500/solicitation"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_SaP8TX1gQ_u5vnXk0TUXzg",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/cise-broadening-participation-computing-webinar"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/policies/SOR_PA_NSF-50_Principal_Investigator_Proposal_File.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/cise-mps-interdisciplinary-faculty-program-quantum/504743/nsf15-512/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubs/2014/nsf14043/nsf14043.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/cise-mps-interdisciplinary-faculty-program-quantum/504743/nsf15-512/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=aag",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/cise-mps-interdisciplinary-faculty-program-quantum/504743/nsf15-512/solicitation"
+    ]
+   },
+   {
+    "url": "https://ida-org.zoomgov.com/meeting/register/vJItdu-orzkvGWiQpzBXY5O6CPjyEzp3oTk",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/archived-public-discussionhow-move-quality-research-findings/2025-02-21"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_eFcqrhKCRYmTxzPtPRufOw",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/expandai-program-webinars/2023-02-16"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/uez0IwNsTkSxxr50EwP5mw",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/nsf-eng-cbet-early-career-faculty-workshop"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 23,
+  "resources": 23,
+  "images": 23,
+  "standards": 11,
+  "lighthouse": 1,
+  "link-check": 23,
+  "alfa": 11,
+  "plain-language": 12,
+  "public-interest": 4,
+  "third-party": 2,
+  "security": 2,
+  "deprecated-html": 3,
+  "tech": 2,
+  "sustainability": 1
+ },
+ "tally": {
+  "ok": 23,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 2,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 1,
+  "error": 0
+ },
+ "finishedAt": "2026-11-16T11:04:54.469Z"
+}
