@@ -1,0 +1,246 @@
+{
+ "runId": "2026-11-16T16-58-01-753Z-f0e01a",
+ "week": "2026-W47",
+ "domain": "www.nsf.gov",
+ "canonical": {
+  "origin": "https://www.nsf.gov",
+  "configured": "https://www.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-16T16:58:03.541Z",
+ "scanned": [
+  "e3defd50453265bb",
+  "cd2e50a1b07b4d23",
+  "517e84ab02bbf53e",
+  "231859d2f1f2b00c",
+  "17e17044c935368b",
+  "f975fb63750b7888",
+  "089b938d4adcca31",
+  "decf8ef0a24dc1bd",
+  "409b037c75f5101e",
+  "d16e58163a412173",
+  "bd05fdcf9679fa7c",
+  "d98fbf79e2e50e77",
+  "914b73d6d0f882ae",
+  "9e13c52b276cdaa0",
+  "6c303a9edcf3078d",
+  "0757d8fe48417bce",
+  "43b804705fee201d",
+  "d81b8226148dacb4",
+  "dca94d7ca77ed8b8",
+  "21d773f419d9cacd",
+  "7d7f1341293e4d3b",
+  "4065b9bd385a3d34"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 273,
+  "checked": 273,
+  "brokenCount": 18,
+  "broken": [
+   {
+    "url": "https://efaidnbmnnnibpcajpcglclefindmkaj/https:/www.nsf.gov/nsb/publications/2020/nsb202015.pdf",
+    "status": 0,
+    "reason": "EAI_AGAIN",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/hispanic-serving-institutions-equitable-transformation-stem/506287/nsf24-578"
+    ]
+   },
+   {
+    "url": "https://debblog.nsfbio.com/2021/03/08/explore-our-blog/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/events/deb-virtual-office-hour-mid-career-advancement-solicitation-0/2022-12-12"
+    ]
+   },
+   {
+    "url": "https://debblog.nsfbio.com/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/events/deb-virtual-office-hour-mid-career-advancement-solicitation-0/2022-12-12"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_xLmrYjP7RRyCkX2yGuzymg",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/deb-virtual-office-hour-mid-career-advancement-solicitation-0/2022-12-12"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/bio/deb/DEB%20VOH%20Dec_2022_MCA_FINAL.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/deb-virtual-office-hour-mid-career-advancement-solicitation-0/2022-12-12"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/edu/Videos/2023STEMEdIPRFWebinars.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/webinars-virtual-office-hours-september-16-november-25-2024/2024-09-16"
+    ]
+   },
+   {
+    "url": "http://www.aaanet.org/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/law-social-science/5422/pd98-1372"
+    ]
+   },
+   {
+    "url": "http://www.nsf.gov/sbe/ses/law/lawguide1.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/law-social-science/5422/pd98-1372"
+    ]
+   },
+   {
+    "url": "http://www.asc41.com/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/law-social-science/5422/pd98-1372"
+    ]
+   },
+   {
+    "url": "http://curiae.law.yale.edu/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/law-social-science/5422/pd98-1372"
+    ]
+   },
+   {
+    "url": "http://www.unl.edu//ap-ls/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/law-social-science/5422/pd98-1372"
+    ]
+   },
+   {
+    "url": "http://www.ngsw.org/",
+    "status": 503,
+    "reason": "HTTP 503",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/law-social-science/5422/pd98-1372"
+    ]
+   },
+   {
+    "url": "https://bpb-us-w2.wpmucdn.com/sites.gatech.edu/dist/a/2878/files/2022/10/OSSI-Final-Report.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-inviting-proposals-related-open-source-software-security/nsf23-149"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_ZMlZsvX1QRubdkvu4CakOw",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/civic-innovation-challenge-webinar"
+    ]
+   },
+   {
+    "url": "http://www.pubchoicesoc.org/",
+    "status": 0,
+    "reason": "EAI_AGAIN",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/law-social-science/5422/pd98-1372"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_o-uz22BiSwidVRXzz-HcYQ",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/emb-webinar-updated-funding-opportunity-nsf-24-513/2024-01-11"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubs/2024/nsf24513/nsf24513.htm",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/emb-webinar-updated-funding-opportunity-nsf-24-513/2024-01-11"
+    ]
+   },
+   {
+    "url": "http://www.ncovr.heinz.cmu.edu/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/law-social-science/5422/pd98-1372"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 20,
+  "alfa": 13,
+  "plain-language": 10,
+  "resources": 20,
+  "images": 20,
+  "link-check": 20,
+  "sustainability": 3,
+  "standards": 9,
+  "tech": 3,
+  "security": 3,
+  "third-party": 2,
+  "deprecated-html": 2,
+  "public-interest": 2,
+  "lighthouse": 1
+ },
+ "tally": {
+  "ok": 20,
+  "blocked": 2,
+  "timeout": 0,
+  "robots_skipped": 3,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 2,
+  "error": 0
+ },
+ "finishedAt": "2026-11-16T17:01:28.678Z"
+}
