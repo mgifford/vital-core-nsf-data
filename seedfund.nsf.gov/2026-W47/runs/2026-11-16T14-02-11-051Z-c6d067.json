@@ -1,0 +1,129 @@
+{
+ "runId": "2026-11-16T14-02-11-051Z-c6d067",
+ "week": "2026-W47",
+ "domain": "seedfund.nsf.gov",
+ "canonical": {
+  "origin": "https://seedfund.nsf.gov",
+  "configured": "https://seedfund.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-16T14:02:16.568Z",
+ "scanned": [
+  "444489e1fe93c7cf",
+  "4892ba233917029d",
+  "423ede137210e9b0",
+  "7e82f9137a7918f8",
+  "5721ba7640a963cb",
+  "57e77ad8b451df6d",
+  "1dc9ae04ca97d9ac",
+  "4113f7573436d249",
+  "e652bdc1d13b3e23",
+  "ebdc43fdc3ee247a",
+  "4e886693c1ad2ddb",
+  "841614f28194033e",
+  "d2204d7789c6cd96",
+  "10d1ce1721aa70e1",
+  "6b073b75fb901e07",
+  "ed632c157de4cfd0",
+  "572949f2e393a1e7",
+  "2f4cb01e4040a13f",
+  "fb72f932cd37ae86",
+  "68aaa414f02345c8",
+  "dc1ecde588c967ee",
+  "6ddee9d1a88cef78",
+  "8e0a9ada9d9564e4",
+  "2cafb63925b14e72"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 214,
+  "checked": 214,
+  "brokenCount": 3,
+  "broken": [
+   {
+    "url": "https://seedfund.nsf.gov/centers/focus-area/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://seedfund.nsf.gov/centers/ceps/high-carotenoid-orange-corn-promises-nutritional-enhancement",
+     "https://seedfund.nsf.gov/centers/ceps/new-firefighting-nozzles-suppress-wildfires-more-quickly"
+    ]
+   },
+   {
+    "url": "https://biztucson.com/tucson-startup-paramium-technologies-secures-1-million-federal-innovation-grant/",
+    "status": 0,
+    "reason": "ERR_SSL_TLSV1_ALERT_INTERNAL_ERROR",
+    "foundOn": [
+     "https://seedfund.nsf.gov/news/paramium-technologies"
+    ]
+   },
+   {
+    "url": "http://www.humonixbio.com/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://seedfund.nsf.gov/portfolio/details?company=glauconix-inc"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 24,
+  "resources": 24,
+  "images": 24,
+  "link-check": 24,
+  "plain-language": 14,
+  "standards": 12,
+  "sustainability": 3,
+  "alfa": 13,
+  "third-party": 5,
+  "lighthouse": 2,
+  "tech": 1,
+  "deprecated-html": 1,
+  "security": 1,
+  "public-interest": 1
+ },
+ "tally": {
+  "ok": 24,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 2,
+  "error": 0
+ },
+ "finishedAt": "2026-11-16T14:04:59.948Z"
+}
