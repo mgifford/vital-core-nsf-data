@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
  "domain": "ncses.nsf.gov",
- "updated_at": "2026-11-16T17:03:24.198Z",
+ "updated_at": "2026-11-16T18:52:53.377Z",
  "urls": {
   "0011f88d24a5ba33": {
    "page_id": "0011f88d24a5ba33",
@@ -138,11 +138,11 @@
    "page_id": "0063b8b45dbcb415",
    "url": "https://ncses.nsf.gov/pubs/nsb20204/nsb20204table-link/S8-36",
    "first_discovered_at": "2026-10-29T11:48:05.844Z",
-   "last_attempt_at": null,
+   "last_attempt_at": "2026-11-16T18:50:35.687Z",
    "last_success_at": null,
-   "last_status": null,
-   "last_week": null,
-   "outcome": "never_scanned",
+   "last_status": "redirect",
+   "last_week": "2026-W47",
+   "outcome": "failed",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -648,6 +648,19 @@
    "first_finding_at": "2026-10-27T13:13:13.387Z",
    "last_failed_week": null
   },
+  "02c1704f03606454": {
+   "page_id": "02c1704f03606454",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-29",
+   "first_discovered_at": "2026-11-16T18:50:33.445Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "02db504892bfd54f": {
    "page_id": "02db504892bfd54f",
    "url": "https://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Minorities+in+Higher+Education",
@@ -759,11 +772,11 @@
    "page_id": "0386ce934039b661",
    "url": "https://ncses.nsf.gov/pubs/nsf19301/report/data-source",
    "first_discovered_at": "2026-11-03T17:22:14.457Z",
-   "last_attempt_at": null,
-   "last_success_at": null,
-   "last_status": null,
-   "last_week": null,
-   "outcome": "never_scanned",
+   "last_attempt_at": "2026-11-16T18:51:23.430Z",
+   "last_success_at": "2026-11-16T18:51:23.430Z",
+   "last_status": 200,
+   "last_week": "2026-W47",
+   "outcome": "success",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -1545,6 +1558,19 @@
    "clean": null,
    "last_failed_week": null
   },
+  "06771c74934481cf": {
+   "page_id": "06771c74934481cf",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-35",
+   "first_discovered_at": "2026-11-16T18:50:33.445Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "067ae1a6759d4c9c": {
    "page_id": "067ae1a6759d4c9c",
    "url": "https://ncses.nsf.gov/pubs/nsf22322",
@@ -1659,6 +1685,19 @@
    "last_status": "redirect",
    "last_week": "2026-W45",
    "outcome": "failed",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "06ef2e4277d6ecb3": {
+   "page_id": "06ef2e4277d6ecb3",
+   "url": "https://ncses.nsf.gov/pubs/nsb202333/data/table/SPBS-63",
+   "first_discovered_at": "2026-11-16T18:52:10.554Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -1842,6 +1881,19 @@
    "page_id": "07b985e825631eb5",
    "url": "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-31",
    "first_discovered_at": "2026-10-24T09:30:42.886Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "07c3137a32e4290b": {
+   "page_id": "07c3137a32e4290b",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/figure/LBR-25",
+   "first_discovered_at": "2026-11-16T18:51:09.531Z",
    "last_attempt_at": null,
    "last_success_at": null,
    "last_status": null,
@@ -2048,6 +2100,19 @@
    "clean": null,
    "last_failed_week": null
   },
+  "08933e748dfc9f97": {
+   "page_id": "08933e748dfc9f97",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/data/table/SINV-1",
+   "first_discovered_at": "2026-11-16T18:50:33.441Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "0897cfb8f933298c": {
    "page_id": "0897cfb8f933298c",
    "url": "https://ncses.nsf.gov/pubs/nsf26315/section/27570",
@@ -2127,6 +2192,19 @@
    "fail_count": 0,
    "clean": false,
    "first_finding_at": "2026-10-26T08:11:38.370Z",
+   "last_failed_week": null
+  },
+  "08baab3b731d6b26": {
+   "page_id": "08baab3b731d6b26",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/table/SLBR-10",
+   "first_discovered_at": "2026-11-16T18:51:09.532Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
    "last_failed_week": null
   },
   "08c9405a4eb00d30": {
@@ -2357,6 +2435,19 @@
    "first_finding_at": "2026-11-11T17:30:45.216Z",
    "last_failed_week": null
   },
+  "09a7d65340a1b30f": {
+   "page_id": "09a7d65340a1b30f",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/figure/LBR-17",
+   "first_discovered_at": "2026-11-16T18:51:09.531Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "09bf63e99ad40803": {
    "page_id": "09bf63e99ad40803",
    "url": "https://ncses.nsf.gov/pubs/nsb20207/table-link/S7-9",
@@ -2441,10 +2532,10 @@
    "page_id": "0a3c1198bdebef4f",
    "url": "https://ncses.nsf.gov/pubs/nsb20204/innovation-indicators-united-states-and-other-major-economies",
    "first_discovered_at": "2026-11-02T10:58:56.746Z",
-   "last_attempt_at": "2026-11-10T11:08:26.145Z",
-   "last_success_at": "2026-11-10T11:08:26.145Z",
+   "last_attempt_at": "2026-11-16T18:51:18.045Z",
+   "last_success_at": "2026-11-16T18:51:18.045Z",
    "last_status": 200,
-   "last_week": "2026-W46",
+   "last_week": "2026-W47",
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
@@ -3022,6 +3113,19 @@
    "first_finding_at": "2026-11-03T16:27:32.708Z",
    "last_failed_week": null
   },
+  "0cd5bd23ab36a217": {
+   "page_id": "0cd5bd23ab36a217",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/figure/LBR-20",
+   "first_discovered_at": "2026-11-16T18:51:09.531Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "0cd732af49400cab": {
    "page_id": "0cd732af49400cab",
    "url": "https://ncses.nsf.gov/pubs/nsb20214/table/SPBS-46",
@@ -3118,11 +3222,11 @@
    "page_id": "0d666224ddda2eb4",
    "url": "https://ncses.nsf.gov/pubs/nsb20226/figure/KTI-20",
    "first_discovered_at": "2026-10-24T20:35:25.856Z",
-   "last_attempt_at": null,
-   "last_success_at": null,
-   "last_status": null,
-   "last_week": null,
-   "outcome": "never_scanned",
+   "last_attempt_at": "2026-11-16T18:50:19.959Z",
+   "last_success_at": "2026-11-16T18:50:19.959Z",
+   "last_status": 200,
+   "last_week": "2026-W47",
+   "outcome": "success",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -3364,6 +3468,19 @@
    "clean": null,
    "last_failed_week": null
   },
+  "0e524f23ddf04577": {
+   "page_id": "0e524f23ddf04577",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/table/SLBR-24",
+   "first_discovered_at": "2026-11-16T18:51:09.532Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "0e567802236009cc": {
    "page_id": "0e567802236009cc",
    "url": "http://ncses.nsf.gov/pubs/nsf22331/table/5-3",
@@ -3377,10 +3494,36 @@
    "clean": false,
    "first_finding_at": "2026-10-27T14:59:12.610Z"
   },
+  "0e5904bf830d6733": {
+   "page_id": "0e5904bf830d6733",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/figure/LBR-29",
+   "first_discovered_at": "2026-11-16T18:51:09.532Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "0e6374f05964f5f4": {
    "page_id": "0e6374f05964f5f4",
    "url": "https://ncses.nsf.gov/pubs/nsf21321/additional-resources",
    "first_discovered_at": "2026-10-26T08:14:29.347Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "0e75bba1cc12f282": {
+   "page_id": "0e75bba1cc12f282",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/table/SLBR-33",
+   "first_discovered_at": "2026-11-16T18:51:09.532Z",
    "last_attempt_at": null,
    "last_success_at": null,
    "last_status": null,
@@ -4661,6 +4804,19 @@
    "clean": null,
    "last_failed_week": null
   },
+  "15c899f980a4587a": {
+   "page_id": "15c899f980a4587a",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/figure/LBR-19",
+   "first_discovered_at": "2026-11-16T18:51:09.531Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "15d1ef2a0cd90c0c": {
    "page_id": "15d1ef2a0cd90c0c",
    "url": "https://ncses.nsf.gov/pubs/nsb20243/data",
@@ -4835,11 +4991,11 @@
    "page_id": "16e4413a0f0fe2fb",
    "url": "https://ncses.nsf.gov/pubs/nsb20207/nsb20207table-link/7-1",
    "first_discovered_at": "2026-11-09T19:09:13.623Z",
-   "last_attempt_at": null,
+   "last_attempt_at": "2026-11-16T18:49:43.940Z",
    "last_success_at": null,
-   "last_status": null,
-   "last_week": null,
-   "outcome": "never_scanned",
+   "last_status": "redirect",
+   "last_week": "2026-W47",
+   "outcome": "failed",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -5065,6 +5221,19 @@
    "last_status": 200,
    "last_week": "2026-W43",
    "outcome": "success",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "185a4121c2925f2f": {
+   "page_id": "185a4121c2925f2f",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/figure/INV-18",
+   "first_discovered_at": "2026-11-16T18:50:33.444Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -5449,6 +5618,19 @@
    "clean": null,
    "last_failed_week": null
   },
+  "1a476ad64c13802c": {
+   "page_id": "1a476ad64c13802c",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/table/SLBR-14",
+   "first_discovered_at": "2026-11-16T18:51:09.532Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "1a4ca26773d7c0da": {
    "page_id": "1a4ca26773d7c0da",
    "url": "https://ncses.nsf.gov/pubs/nsb202333/figure/PBS-13",
@@ -5542,6 +5724,19 @@
    "first_finding_at": "2026-11-02T12:44:21.811Z",
    "last_failed_week": null
   },
+  "1aee67d190b95098": {
+   "page_id": "1aee67d190b95098",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-27",
+   "first_discovered_at": "2026-11-16T18:50:33.445Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "1affd941d390c2c2": {
    "page_id": "1affd941d390c2c2",
    "url": "http://ncses.nsf.gov/pubs/nsb20262/figure/TRN-39",
@@ -5572,6 +5767,19 @@
    "page_id": "1b08aa45570d45ed",
    "url": "https://ncses.nsf.gov/pubs/nsb20214/table/SPBS-10",
    "first_discovered_at": "2026-11-09T14:25:07.000Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "1b0bc07282cf592f": {
+   "page_id": "1b0bc07282cf592f",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-13",
+   "first_discovered_at": "2026-11-16T18:50:33.444Z",
    "last_attempt_at": null,
    "last_success_at": null,
    "last_status": null,
@@ -5955,11 +6163,11 @@
    "page_id": "1c8a92f94599ec03",
    "url": "https://ncses.nsf.gov/pubs/nsb20247",
    "first_discovered_at": "2026-10-24T02:17:30.654Z",
-   "last_attempt_at": null,
-   "last_success_at": null,
-   "last_status": null,
-   "last_week": null,
-   "outcome": "never_scanned",
+   "last_attempt_at": "2026-11-16T18:49:28.577Z",
+   "last_success_at": "2026-11-16T18:49:28.577Z",
+   "last_status": 200,
+   "last_week": "2026-W47",
+   "outcome": "success",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -6180,6 +6388,19 @@
    "page_id": "1d89ef2b7bab4dd3",
    "url": "https://ncses.nsf.gov/pubs/nsf26307/surveypage/table/16160",
    "first_discovered_at": "2026-10-27T11:02:20.904Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "1da8040281479935": {
+   "page_id": "1da8040281479935",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/table/SLBR-22",
+   "first_discovered_at": "2026-11-16T18:51:09.532Z",
    "last_attempt_at": null,
    "last_success_at": null,
    "last_status": null,
@@ -6854,11 +7075,11 @@
    "page_id": "212fc3753431725c",
    "url": "https://ncses.nsf.gov/pubs/nsb20224/table/SINV-23",
    "first_discovered_at": "2026-11-02T12:46:30.239Z",
-   "last_attempt_at": null,
-   "last_success_at": null,
-   "last_status": null,
-   "last_week": null,
-   "outcome": "never_scanned",
+   "last_attempt_at": "2026-11-16T18:50:14.294Z",
+   "last_success_at": "2026-11-16T18:50:14.294Z",
+   "last_status": 200,
+   "last_week": "2026-W47",
+   "outcome": "success",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -6898,6 +7119,19 @@
    "last_status": "redirect",
    "last_week": "2026-W46",
    "outcome": "failed",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "215de4811212ff15": {
+   "page_id": "215de4811212ff15",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-41",
+   "first_discovered_at": "2026-11-16T18:50:33.445Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -7785,6 +8019,19 @@
    "clean": null,
    "last_failed_week": null
   },
+  "265c970f26941498": {
+   "page_id": "265c970f26941498",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/figure/LBR-22",
+   "first_discovered_at": "2026-11-16T18:51:09.531Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "265cf1f5a5939989": {
    "page_id": "265cf1f5a5939989",
    "url": "https://ncses.nsf.gov/pubs/nsf24301",
@@ -7942,6 +8189,19 @@
    "last_status": 200,
    "last_week": "2026-W43",
    "outcome": "success",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "270207e4c2554d80": {
+   "page_id": "270207e4c2554d80",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/figure/LBR-B",
+   "first_discovered_at": "2026-11-16T18:51:09.532Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -8397,6 +8657,19 @@
    "clean": null,
    "last_failed_week": null
   },
+  "299acf04ffe1552c": {
+   "page_id": "299acf04ffe1552c",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/table/SLBR-17",
+   "first_discovered_at": "2026-11-16T18:51:09.532Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "299d84c01b786ae4": {
    "page_id": "299d84c01b786ae4",
    "url": "https://ncses.nsf.gov/pubs/nsf21300",
@@ -8699,6 +8972,19 @@
    "last_status": "redirect",
    "last_week": "2026-W46",
    "outcome": "failed",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "2a54103ce1bbcbcc": {
+   "page_id": "2a54103ce1bbcbcc",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-33",
+   "first_discovered_at": "2026-11-16T18:50:33.445Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -9046,6 +9332,19 @@
    "first_finding_at": "2026-11-10T15:34:32.766Z",
    "last_failed_week": null
   },
+  "2c2664a9a3ebfeb2": {
+   "page_id": "2c2664a9a3ebfeb2",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/table/SLBR-13",
+   "first_discovered_at": "2026-11-16T18:51:09.532Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "2c2dfce4a0421f26": {
    "page_id": "2c2dfce4a0421f26",
    "url": "https://ncses.nsf.gov/pubs/nsf25323/surveypage/table/12925",
@@ -9128,6 +9427,19 @@
    "page_id": "2c661e47a76d2d4f",
    "url": "https://ncses.nsf.gov/pubs/nsb20201/figure-link/14",
    "first_discovered_at": "2026-10-29T11:47:45.765Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "2c6a4a28e1922995": {
+   "page_id": "2c6a4a28e1922995",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-36",
+   "first_discovered_at": "2026-11-16T18:50:33.445Z",
    "last_attempt_at": null,
    "last_success_at": null,
    "last_status": null,
@@ -9230,6 +9542,19 @@
    "first_finding_at": "2026-11-02T13:55:45.185Z",
    "last_failed_week": null
   },
+  "2cc17def02b7efa9": {
+   "page_id": "2cc17def02b7efa9",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-18",
+   "first_discovered_at": "2026-11-16T18:50:33.445Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "2cdc37d497a8ebe1": {
    "page_id": "2cdc37d497a8ebe1",
    "url": "https://ncses.nsf.gov/pubs/nsb20226/figure/KTI-A",
@@ -9265,6 +9590,19 @@
    "last_status": "redirect",
    "last_week": "2026-W46",
    "outcome": "failed",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "2d3d06c861499a0e": {
+   "page_id": "2d3d06c861499a0e",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-I",
+   "first_discovered_at": "2026-11-16T18:50:33.445Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -9614,6 +9952,19 @@
    "clean": null,
    "last_failed_week": null
   },
+  "2eae82249b63581d": {
+   "page_id": "2eae82249b63581d",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-30",
+   "first_discovered_at": "2026-11-16T18:50:33.445Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "2eb93c0d25ecf291": {
    "page_id": "2eb93c0d25ecf291",
    "url": "https://ncses.nsf.gov/pubs/nsb202333/figure/PBS-6",
@@ -9958,6 +10309,19 @@
    "clean": null,
    "last_failed_week": null
   },
+  "309d7f9c447aa6c8": {
+   "page_id": "309d7f9c447aa6c8",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-26",
+   "first_discovered_at": "2026-11-16T18:50:33.445Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "30aa7031496c2636": {
    "page_id": "30aa7031496c2636",
    "url": "https://ncses.nsf.gov/pubs/nsb20214/figure/PBS-2",
@@ -10048,6 +10412,19 @@
    "fail_count": 0,
    "clean": false,
    "first_finding_at": "2026-10-27T15:35:35.946Z",
+   "last_failed_week": null
+  },
+  "3155208b9ad7a7de": {
+   "page_id": "3155208b9ad7a7de",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/figure/LBR-3",
+   "first_discovered_at": "2026-11-16T18:51:09.531Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
    "last_failed_week": null
   },
   "316e83d9cb72973a": {
@@ -10339,6 +10716,19 @@
    "clean": null,
    "last_failed_week": null
   },
+  "32c256c13625c8c3": {
+   "page_id": "32c256c13625c8c3",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/table/INV-2",
+   "first_discovered_at": "2026-11-16T18:50:33.444Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "32c4a4a9e8dbf3d3": {
    "page_id": "32c4a4a9e8dbf3d3",
    "url": "https://ncses.nsf.gov/pubs/nsb20226/figure/KTI-12",
@@ -10418,6 +10808,19 @@
    "fail_count": 0,
    "clean": false,
    "first_finding_at": "2026-11-09T11:22:40.899Z",
+   "last_failed_week": null
+  },
+  "3344547f0b37e29a": {
+   "page_id": "3344547f0b37e29a",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/figure/INV-25",
+   "first_discovered_at": "2026-11-16T18:50:33.444Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
    "last_failed_week": null
   },
   "3372bf79458ae4d1": {
@@ -10893,6 +11296,32 @@
    "clean": null,
    "last_failed_week": null
   },
+  "352639452b8fa17b": {
+   "page_id": "352639452b8fa17b",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-34",
+   "first_discovered_at": "2026-11-16T18:50:33.445Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "354e4b8071447cad": {
+   "page_id": "354e4b8071447cad",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/table/SLBR-9",
+   "first_discovered_at": "2026-11-16T18:51:09.532Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "35531f2caae226eb": {
    "page_id": "35531f2caae226eb",
    "url": "https://ncses.nsf.gov/pubs/nsf23300/figure/16",
@@ -11263,6 +11692,19 @@
    "clean": null,
    "last_failed_week": null
   },
+  "36ebf9e6bc8fc2d9": {
+   "page_id": "36ebf9e6bc8fc2d9",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/table/SLBR-7",
+   "first_discovered_at": "2026-11-16T18:51:09.532Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "37070ad5ab27e7bf": {
    "page_id": "37070ad5ab27e7bf",
    "url": "https://ncses.nsf.gov/pubs/nsf21325/table/6",
@@ -11319,6 +11761,19 @@
    "page_id": "3765aa6bc0e94003",
    "url": "https://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Occupation",
    "first_discovered_at": "2026-10-24T02:20:26.478Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "37715c143559351a": {
+   "page_id": "37715c143559351a",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-L",
+   "first_discovered_at": "2026-11-16T18:50:33.445Z",
    "last_attempt_at": null,
    "last_success_at": null,
    "last_status": null,
@@ -11584,11 +12039,11 @@
    "page_id": "397844230a14d90b",
    "url": "https://ncses.nsf.gov/pubs/nsb20204/figure-link/8-26",
    "first_discovered_at": "2026-10-29T11:48:05.843Z",
-   "last_attempt_at": null,
+   "last_attempt_at": "2026-11-16T18:51:16.016Z",
    "last_success_at": null,
-   "last_status": null,
-   "last_week": null,
-   "outcome": "never_scanned",
+   "last_status": "redirect",
+   "last_week": "2026-W47",
+   "outcome": "failed",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -12284,6 +12739,19 @@
    "first_finding_at": "2026-11-04T13:20:55.170Z",
    "last_failed_week": null
   },
+  "3c0c9f9df6aa8d99": {
+   "page_id": "3c0c9f9df6aa8d99",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-45",
+   "first_discovered_at": "2026-11-16T18:50:33.445Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "3c17da193d257645": {
    "page_id": "3c17da193d257645",
    "url": "https://ncses.nsf.gov/pubs/nsf23322/figure/3",
@@ -12408,6 +12876,19 @@
    "page_id": "3caacb596a19c184",
    "url": "https://ncses.nsf.gov/pubs/nsf21318/table/3-4",
    "first_discovered_at": "2026-11-03T15:05:15.332Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "3cbb72f064f7eeee": {
+   "page_id": "3cbb72f064f7eeee",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/figure/LBR-8",
+   "first_discovered_at": "2026-11-16T18:51:09.531Z",
    "last_attempt_at": null,
    "last_success_at": null,
    "last_status": null,
@@ -12658,6 +13139,19 @@
    "clean": null,
    "last_failed_week": null
   },
+  "3e5aae70d38afa56": {
+   "page_id": "3e5aae70d38afa56",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/figure/INV-3",
+   "first_discovered_at": "2026-11-16T18:50:33.444Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "3e5cf8e61df3be09": {
    "page_id": "3e5cf8e61df3be09",
    "url": "https://ncses.nsf.gov/pubs/nsf23348",
@@ -12696,6 +13190,19 @@
    "fail_count": 0,
    "clean": false,
    "first_finding_at": "2026-11-10T12:55:48.233Z",
+   "last_failed_week": null
+  },
+  "3e687a3218e2ceef": {
+   "page_id": "3e687a3218e2ceef",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-9",
+   "first_discovered_at": "2026-11-16T18:50:33.444Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
    "last_failed_week": null
   },
   "3e709d7a36cff7c5": {
@@ -13094,6 +13601,19 @@
    "fail_count": 0,
    "clean": false,
    "first_finding_at": "2026-11-02T10:57:20.980Z",
+   "last_failed_week": null
+  },
+  "409b6afba89cc7fe": {
+   "page_id": "409b6afba89cc7fe",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/table/SLBR-37",
+   "first_discovered_at": "2026-11-16T18:51:09.532Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
    "last_failed_week": null
   },
   "40a02376fb231038": {
@@ -13693,6 +14213,19 @@
    "first_finding_at": "2026-10-26T14:11:17.927Z",
    "last_failed_week": null
   },
+  "43f305e580a08f63": {
+   "page_id": "43f305e580a08f63",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/figure/LBR-26",
+   "first_discovered_at": "2026-11-16T18:51:09.531Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "43f470f18d4dbcd3": {
    "page_id": "43f470f18d4dbcd3",
    "url": "https://ncses.nsf.gov/pubs/nsb202333/data/table/SPBS-42",
@@ -13785,6 +14318,19 @@
    "clean": null,
    "last_failed_week": null
   },
+  "442b372e0813aecb": {
+   "page_id": "442b372e0813aecb",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/figure/INV-22",
+   "first_discovered_at": "2026-11-16T18:50:33.444Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "44555df5fa5e5a65": {
    "page_id": "44555df5fa5e5a65",
    "url": "https://ncses.nsf.gov/pubs/nsb20204/table-link/S8-49",
@@ -13859,6 +14405,19 @@
    "last_status": 200,
    "last_week": "2026-W43",
    "outcome": "success",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "44cfe8ce2a4a8450": {
+   "page_id": "44cfe8ce2a4a8450",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-14",
+   "first_discovered_at": "2026-11-16T18:50:33.444Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -14626,6 +15185,45 @@
    "first_finding_at": "2026-11-11T10:50:02.904Z",
    "last_failed_week": null
   },
+  "485c3126f3aeda40": {
+   "page_id": "485c3126f3aeda40",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/table/INV-3",
+   "first_discovered_at": "2026-11-16T18:50:33.444Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "4861601bcd7afe32": {
+   "page_id": "4861601bcd7afe32",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/figure/LBR-18",
+   "first_discovered_at": "2026-11-16T18:51:09.531Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "4866d76f98e40d14": {
+   "page_id": "4866d76f98e40d14",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/figure/INV-10",
+   "first_discovered_at": "2026-11-16T18:50:33.444Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "4869f7aa4d8441e8": {
    "page_id": "4869f7aa4d8441e8",
    "url": "https://ncses.nsf.gov/pubs/nsf24319/table/A-16",
@@ -14683,6 +15281,19 @@
    "page_id": "48a8638e9354572b",
    "url": "https://ncses.nsf.gov/pubs/nsb20202/figure-link/5b-18",
    "first_discovered_at": "2026-11-04T13:21:14.157Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "48b7caac31cd4e8e": {
+   "page_id": "48b7caac31cd4e8e",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/figure/INV-24",
+   "first_discovered_at": "2026-11-16T18:50:33.444Z",
    "last_attempt_at": null,
    "last_success_at": null,
    "last_status": null,
@@ -14835,15 +15446,28 @@
    "clean": null,
    "last_failed_week": null
   },
-  "498de2c19f0599e0": {
-   "page_id": "498de2c19f0599e0",
-   "url": "https://ncses.nsf.gov/pubs/ncses25221/section/25859",
-   "first_discovered_at": "2026-11-03T12:12:33.216Z",
+  "4978f9f008b0417d": {
+   "page_id": "4978f9f008b0417d",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/figure/LBR-35",
+   "first_discovered_at": "2026-11-16T18:51:09.532Z",
    "last_attempt_at": null,
    "last_success_at": null,
    "last_status": null,
    "last_week": null,
    "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "498de2c19f0599e0": {
+   "page_id": "498de2c19f0599e0",
+   "url": "https://ncses.nsf.gov/pubs/ncses25221/section/25859",
+   "first_discovered_at": "2026-11-03T12:12:33.216Z",
+   "last_attempt_at": "2026-11-16T18:49:10.468Z",
+   "last_success_at": null,
+   "last_status": "redirect",
+   "last_week": "2026-W47",
+   "outcome": "failed",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -14860,6 +15484,19 @@
    "fail_count": 0,
    "clean": false,
    "first_finding_at": "2026-11-03T12:13:26.605Z",
+   "last_failed_week": null
+  },
+  "49c5e931d5439534": {
+   "page_id": "49c5e931d5439534",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/figure/INV-21",
+   "first_discovered_at": "2026-11-16T18:50:33.444Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
    "last_failed_week": null
   },
   "49c885f261daa2da": {
@@ -15308,6 +15945,19 @@
    "clean": null,
    "last_failed_week": null
   },
+  "4b8de53b8e110546": {
+   "page_id": "4b8de53b8e110546",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-H",
+   "first_discovered_at": "2026-11-16T18:50:33.445Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "4bb3c51c3f2b472d": {
    "page_id": "4bb3c51c3f2b472d",
    "url": "https://ncses.nsf.gov/pubs/nsb20202/figure-link/5b-15",
@@ -15506,6 +16156,19 @@
    "clean": null,
    "last_failed_week": null
   },
+  "4c592a0a45525efe": {
+   "page_id": "4c592a0a45525efe",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/figure/INV-9",
+   "first_discovered_at": "2026-11-16T18:50:33.444Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "4c6cf3699f891333": {
    "page_id": "4c6cf3699f891333",
    "url": "https://ncses.nsf.gov/pubs/nsb20223/figure/HED-6",
@@ -15595,6 +16258,19 @@
    "last_status": 200,
    "last_week": "2026-W47",
    "outcome": "success",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "4caed5ca9839516f": {
+   "page_id": "4caed5ca9839516f",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/table/SLBR-6",
+   "first_discovered_at": "2026-11-16T18:51:09.532Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -15971,6 +16647,19 @@
    "clean": null,
    "last_failed_week": null
   },
+  "4dd6063bfc31640e": {
+   "page_id": "4dd6063bfc31640e",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/figure/INV-7",
+   "first_discovered_at": "2026-11-16T18:50:33.444Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "4de7aa75de960ada": {
    "page_id": "4de7aa75de960ada",
    "url": "https://ncses.nsf.gov/pubs/nsb20226/table/SKTI-22",
@@ -16312,6 +17001,19 @@
    "last_status": 200,
    "last_week": "2026-W44",
    "outcome": "success",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "4f39df65aa38d62e": {
+   "page_id": "4f39df65aa38d62e",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/table/SLBR-16",
+   "first_discovered_at": "2026-11-16T18:51:09.532Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -16809,6 +17511,19 @@
    "page_id": "5168c9140bbceb82",
    "url": "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-63",
    "first_discovered_at": "2026-10-24T09:30:42.887Z",
+   "last_attempt_at": "2026-11-16T18:51:44.187Z",
+   "last_success_at": "2026-11-16T18:51:44.187Z",
+   "last_status": 200,
+   "last_week": "2026-W47",
+   "outcome": "success",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "5197f8843076eb24": {
+   "page_id": "5197f8843076eb24",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/figure/INV-17",
+   "first_discovered_at": "2026-11-16T18:50:33.444Z",
    "last_attempt_at": null,
    "last_success_at": null,
    "last_status": null,
@@ -16910,6 +17625,19 @@
    "clean": null,
    "last_failed_week": null
   },
+  "5202dfdf8bb1d6d2": {
+   "page_id": "5202dfdf8bb1d6d2",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/figure/INV-B",
+   "first_discovered_at": "2026-11-16T18:50:33.444Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "52032a7ab0f5e5c2": {
    "page_id": "52032a7ab0f5e5c2",
    "url": "https://ncses.nsf.gov/pubs/nsf25323/surveypage/table/12930",
@@ -16928,6 +17656,19 @@
    "page_id": "521c82d63e550e84",
    "url": "https://ncses.nsf.gov/pubs/nsb20224/table/SINV-72",
    "first_discovered_at": "2026-11-02T12:46:30.240Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "52304ad68c3ab410": {
+   "page_id": "52304ad68c3ab410",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/figure/LBR-16",
+   "first_discovered_at": "2026-11-16T18:51:09.531Z",
    "last_attempt_at": null,
    "last_success_at": null,
    "last_status": null,
@@ -17056,6 +17797,19 @@
    "clean": null,
    "last_failed_week": null
   },
+  "52c0387a24975628": {
+   "page_id": "52c0387a24975628",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/figure/LBR-9",
+   "first_discovered_at": "2026-11-16T18:51:09.531Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "52c0e3b6c37a41cb": {
    "page_id": "52c0e3b6c37a41cb",
    "url": "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-95",
@@ -17125,6 +17879,19 @@
    "page_id": "5302a3f583a0ed44",
    "url": "https://ncses.nsf.gov/pubs/nsf24319",
    "first_discovered_at": "2026-10-24T12:16:15.629Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "5313c5660d73481b": {
+   "page_id": "5313c5660d73481b",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/table/SLBR-35",
+   "first_discovered_at": "2026-11-16T18:51:09.532Z",
    "last_attempt_at": null,
    "last_success_at": null,
    "last_status": null,
@@ -17264,6 +18031,19 @@
    "last_status": 200,
    "last_week": "2026-W43",
    "outcome": "success",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "539027b63c9c58f9": {
+   "page_id": "539027b63c9c58f9",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/figure/LBR-6",
+   "first_discovered_at": "2026-11-16T18:51:09.531Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -17559,6 +18339,19 @@
    "clean": null,
    "last_failed_week": null
   },
+  "5543677d929149b6": {
+   "page_id": "5543677d929149b6",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/figure/LBR-13",
+   "first_discovered_at": "2026-11-16T18:51:09.531Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "555b0da15ee5ec4b": {
    "page_id": "555b0da15ee5ec4b",
    "url": "https://ncses.nsf.gov/pubs/ncses22202/figure/3",
@@ -17668,11 +18461,11 @@
    "page_id": "55f43b57ddae4044",
    "url": "https://ncses.nsf.gov/indicators/states/state/north-carolina",
    "first_discovered_at": "2026-10-24T09:29:35.339Z",
-   "last_attempt_at": null,
-   "last_success_at": null,
-   "last_status": null,
-   "last_week": null,
-   "outcome": "never_scanned",
+   "last_attempt_at": "2026-11-16T18:51:04.765Z",
+   "last_success_at": "2026-11-16T18:51:04.765Z",
+   "last_status": 200,
+   "last_week": "2026-W47",
+   "outcome": "success",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -17699,6 +18492,19 @@
    "last_status": "redirect",
    "last_week": "2026-W46",
    "outcome": "failed",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "562257566f1df9a4": {
+   "page_id": "562257566f1df9a4",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-46",
+   "first_discovered_at": "2026-11-16T18:50:33.445Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -17857,6 +18663,19 @@
    "last_status": 200,
    "last_week": "2026-W43",
    "outcome": "success",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "56f79b302318f04b": {
+   "page_id": "56f79b302318f04b",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/table/SLBR-12",
+   "first_discovered_at": "2026-11-16T18:51:09.532Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -18411,11 +19230,11 @@
    "page_id": "59afeb2047f67a3b",
    "url": "https://ncses.nsf.gov/pubs/nsf26327/figure/1",
    "first_discovered_at": "2026-10-24T02:19:35.654Z",
-   "last_attempt_at": null,
+   "last_attempt_at": "2026-11-16T18:51:25.921Z",
    "last_success_at": null,
-   "last_status": null,
-   "last_week": null,
-   "outcome": "never_scanned",
+   "last_status": "redirect",
+   "last_week": "2026-W47",
+   "outcome": "failed",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -18538,6 +19357,19 @@
    "fail_count": 0,
    "clean": false,
    "first_finding_at": "2026-11-02T12:46:19.874Z",
+   "last_failed_week": null
+  },
+  "5a7308e0ee7afd57": {
+   "page_id": "5a7308e0ee7afd57",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-17",
+   "first_discovered_at": "2026-11-16T18:50:33.445Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
    "last_failed_week": null
   },
   "5a956234996b6c42": {
@@ -19269,6 +20101,19 @@
    "fail_count": 0,
    "clean": false,
    "first_finding_at": "2026-11-03T15:05:18.978Z",
+   "last_failed_week": null
+  },
+  "5db8bca1095a1b26": {
+   "page_id": "5db8bca1095a1b26",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/figure/INV-4",
+   "first_discovered_at": "2026-11-16T18:50:33.444Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
    "last_failed_week": null
   },
   "5dd7dd16a7ff9c12": {
@@ -20328,6 +21173,32 @@
    "clean": null,
    "last_failed_week": null
   },
+  "62511983ec5098f2": {
+   "page_id": "62511983ec5098f2",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/table/SLBR-2",
+   "first_discovered_at": "2026-11-16T18:51:09.532Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "6291ac43a0485e8f": {
+   "page_id": "6291ac43a0485e8f",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/table/SLBR-29",
+   "first_discovered_at": "2026-11-16T18:51:09.532Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "62929d232235903b": {
    "page_id": "62929d232235903b",
    "url": "https://ncses.nsf.gov/pubs/nsf23319",
@@ -20762,6 +21633,19 @@
    "clean": null,
    "last_failed_week": null
   },
+  "6409d0581eaba548": {
+   "page_id": "6409d0581eaba548",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/figure/LBR-32",
+   "first_discovered_at": "2026-11-16T18:51:09.532Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "64193a58a4cc4bfa": {
    "page_id": "64193a58a4cc4bfa",
    "url": "https://ncses.nsf.gov/search?aois=STEM+Education&query=&topics=Disability+Status",
@@ -20969,10 +21853,10 @@
    "page_id": "6564ac102eccb055",
    "url": "https://ncses.nsf.gov/pubs/ncses25221",
    "first_discovered_at": "2026-11-09T20:10:33.297Z",
-   "last_attempt_at": "2026-11-09T20:10:33.297Z",
-   "last_success_at": "2026-11-09T20:10:33.297Z",
+   "last_attempt_at": "2026-11-16T18:49:11.984Z",
+   "last_success_at": "2026-11-16T18:49:11.984Z",
    "last_status": 200,
-   "last_week": "2026-W46",
+   "last_week": "2026-W47",
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
@@ -21100,6 +21984,19 @@
    "page_id": "65c814cbe4fba6ee",
    "url": "https://ncses.nsf.gov/pubs/nsf23304/table/9",
    "first_discovered_at": "2026-11-04T12:24:12.030Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "65dd55f6ad06842a": {
+   "page_id": "65dd55f6ad06842a",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/table/SLBR-32",
+   "first_discovered_at": "2026-11-16T18:51:09.532Z",
    "last_attempt_at": null,
    "last_success_at": null,
    "last_status": null,
@@ -21741,6 +22638,19 @@
    "clean": null,
    "last_failed_week": null
   },
+  "683e65df3dfd4456": {
+   "page_id": "683e65df3dfd4456",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/figure/INV-C",
+   "first_discovered_at": "2026-11-16T18:50:33.444Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "683edada590d5d19": {
    "page_id": "683edada590d5d19",
    "url": "https://ncses.nsf.gov/pubs/nsb20202/data",
@@ -21820,6 +22730,32 @@
    "fail_count": 0,
    "clean": false,
    "first_finding_at": "2026-11-02T17:02:30.428Z",
+   "last_failed_week": null
+  },
+  "688d36836d44bb7e": {
+   "page_id": "688d36836d44bb7e",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/table/SLBR-30",
+   "first_discovered_at": "2026-11-16T18:51:09.532Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "6892c37008def3f4": {
+   "page_id": "6892c37008def3f4",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/figure/INV-19",
+   "first_discovered_at": "2026-11-16T18:50:33.444Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
    "last_failed_week": null
   },
   "689831c7c6862cb7": {
@@ -21906,6 +22842,19 @@
    "page_id": "68c53b69c89b1167",
    "url": "https://ncses.nsf.gov/pubs/nsb20226/figure/KTI-D",
    "first_discovered_at": "2026-10-24T20:35:25.856Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "68d5fc0ab97180a8": {
+   "page_id": "68d5fc0ab97180a8",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/figure/LBR-5",
+   "first_discovered_at": "2026-11-16T18:51:09.531Z",
    "last_attempt_at": null,
    "last_success_at": null,
    "last_status": null,
@@ -22232,6 +23181,19 @@
    "clean": null,
    "last_failed_week": null
   },
+  "6a493ea78774a386": {
+   "page_id": "6a493ea78774a386",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-19",
+   "first_discovered_at": "2026-11-16T18:50:33.445Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "6a5c01e6988b63fd": {
    "page_id": "6a5c01e6988b63fd",
    "url": "https://ncses.nsf.gov/pubs/nsf26329",
@@ -22302,6 +23264,19 @@
    "page_id": "6abd5f64294cf4fc",
    "url": "https://ncses.nsf.gov/pubs/nsf26315/section/27568",
    "first_discovered_at": "2026-10-27T11:02:20.904Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "6acacae2bff03a37": {
+   "page_id": "6acacae2bff03a37",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/figure/LBR-2",
+   "first_discovered_at": "2026-11-16T18:51:09.531Z",
    "last_attempt_at": null,
    "last_success_at": null,
    "last_status": null,
@@ -22579,6 +23554,19 @@
    "first_finding_at": "2026-11-04T12:44:50.049Z",
    "last_failed_week": null
   },
+  "6c3647a11c92f798": {
+   "page_id": "6c3647a11c92f798",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/figure/LBR-4",
+   "first_discovered_at": "2026-11-16T18:51:09.531Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "6c460123840bc452": {
    "page_id": "6c460123840bc452",
    "url": "https://ncses.nsf.gov/pubs/nsb202331/data",
@@ -22623,6 +23611,19 @@
    "page_id": "6c7d41366aa73d37",
    "url": "https://ncses.nsf.gov/pubs/nsb20224/table/SINV-82",
    "first_discovered_at": "2026-10-27T15:36:09.280Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "6c7f499aec8dd052": {
+   "page_id": "6c7f499aec8dd052",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/table/SLBR-25",
+   "first_discovered_at": "2026-11-16T18:51:09.532Z",
    "last_attempt_at": null,
    "last_success_at": null,
    "last_status": null,
@@ -22777,6 +23778,19 @@
    "clean": false,
    "first_finding_at": "2026-10-28T11:40:36.338Z"
   },
+  "6d4590c0a95e2615": {
+   "page_id": "6d4590c0a95e2615",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-5",
+   "first_discovered_at": "2026-11-16T18:50:33.444Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "6d4704a2d4e4d5f3": {
    "page_id": "6d4704a2d4e4d5f3",
    "url": "https://ncses.nsf.gov/pubs/nsb20224/acknowledgments-and-citation",
@@ -22901,6 +23915,19 @@
    "page_id": "6e20619dc0e9e2e7",
    "url": "https://ncses.nsf.gov/pubs/nsb20246/data/table/SRD-3",
    "first_discovered_at": "2026-11-16T14:05:57.448Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "6e20f96ef7a99bef": {
+   "page_id": "6e20f96ef7a99bef",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-31",
+   "first_discovered_at": "2026-11-16T18:50:33.445Z",
    "last_attempt_at": null,
    "last_success_at": null,
    "last_status": null,
@@ -23212,6 +24239,19 @@
    "first_finding_at": "2026-11-04T13:21:09.782Z",
    "last_failed_week": null
   },
+  "6fb0927a1658946d": {
+   "page_id": "6fb0927a1658946d",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/table/SLBR-21",
+   "first_discovered_at": "2026-11-16T18:51:09.532Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "6fb841fa2426e985": {
    "page_id": "6fb841fa2426e985",
    "url": "https://ncses.nsf.gov/pubs/nsb20224/data/table/SINV-75",
@@ -23255,6 +24295,19 @@
    "page_id": "6fe248db9dd59498",
    "url": "https://ncses.nsf.gov/indicators/states/indicator/occupation-socialsci-to-occupation-all",
    "first_discovered_at": "2026-10-24T09:29:35.340Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "7004842a495eaec1": {
+   "page_id": "7004842a495eaec1",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-8",
+   "first_discovered_at": "2026-11-16T18:50:33.444Z",
    "last_attempt_at": null,
    "last_success_at": null,
    "last_status": null,
@@ -23320,11 +24373,11 @@
    "page_id": "7016ca908eab9d67",
    "url": "https://ncses.nsf.gov/pubs/nsb20261/table/STAL-2",
    "first_discovered_at": "2026-10-24T07:35:12.331Z",
-   "last_attempt_at": null,
+   "last_attempt_at": "2026-11-16T18:50:03.588Z",
    "last_success_at": null,
-   "last_status": null,
-   "last_week": null,
-   "outcome": "never_scanned",
+   "last_status": "redirect",
+   "last_week": "2026-W47",
+   "outcome": "failed",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -23438,6 +24491,19 @@
    "page_id": "70bf15d88fa046ec",
    "url": "https://ncses.nsf.gov/pubs/nsbsep20261/figure/9",
    "first_discovered_at": "2026-10-29T11:04:36.348Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "70d62b10cdb9f10d": {
+   "page_id": "70d62b10cdb9f10d",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/table/SLBR-15",
+   "first_discovered_at": "2026-11-16T18:51:09.532Z",
    "last_attempt_at": null,
    "last_success_at": null,
    "last_status": null,
@@ -23643,6 +24709,19 @@
    "last_status": "redirect",
    "last_week": "2026-W46",
    "outcome": "failed",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "71ddd60896163f5e": {
+   "page_id": "71ddd60896163f5e",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/figure/LBR-A",
+   "first_discovered_at": "2026-11-16T18:51:09.532Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -23989,6 +25068,19 @@
    "fail_count": 0,
    "clean": false,
    "first_finding_at": "2026-11-10T13:48:22.128Z",
+   "last_failed_week": null
+  },
+  "737f5b471e887317": {
+   "page_id": "737f5b471e887317",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/figure/LBR-30",
+   "first_discovered_at": "2026-11-16T18:51:09.532Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
    "last_failed_week": null
   },
   "7382f8751b624f23": {
@@ -24562,6 +25654,19 @@
    "clean": null,
    "last_failed_week": null
   },
+  "768cf9aad1632e38": {
+   "page_id": "768cf9aad1632e38",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-3",
+   "first_discovered_at": "2026-11-16T18:50:33.444Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "7697a192fee84b01": {
    "page_id": "7697a192fee84b01",
    "url": "https://ncses.nsf.gov/pubs/nsf24311/table/8",
@@ -24816,11 +25921,11 @@
    "page_id": "7783f67cc2ce100d",
    "url": "https://ncses.nsf.gov/pubs/nsb20223/figure/HED-17",
    "first_discovered_at": "2026-11-03T12:13:44.426Z",
-   "last_attempt_at": null,
-   "last_success_at": null,
-   "last_status": null,
-   "last_week": null,
-   "outcome": "never_scanned",
+   "last_attempt_at": "2026-11-16T18:49:17.621Z",
+   "last_success_at": "2026-11-16T18:49:17.621Z",
+   "last_status": 200,
+   "last_week": "2026-W47",
+   "outcome": "success",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -24829,11 +25934,11 @@
    "page_id": "778f01ed7dbf966d",
    "url": "https://ncses.nsf.gov/pubs/nsf21308/contact-us",
    "first_discovered_at": "2026-11-10T16:34:05.625Z",
-   "last_attempt_at": null,
-   "last_success_at": null,
-   "last_status": null,
-   "last_week": null,
-   "outcome": "never_scanned",
+   "last_attempt_at": "2026-11-16T18:50:39.175Z",
+   "last_success_at": "2026-11-16T18:50:39.175Z",
+   "last_status": 200,
+   "last_week": "2026-W47",
+   "outcome": "success",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -24981,6 +26086,19 @@
    "clean": null,
    "last_failed_week": null
   },
+  "784b3a9a1f743134": {
+   "page_id": "784b3a9a1f743134",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-40",
+   "first_discovered_at": "2026-11-16T18:50:33.445Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "7856d554fc47d2d0": {
    "page_id": "7856d554fc47d2d0",
    "url": "https://ncses.nsf.gov/pubs/nsb20211/student-learning-in-mathematics-and-science",
@@ -25112,6 +26230,19 @@
    "clean": null,
    "last_failed_week": null
   },
+  "7910d45d7072aca1": {
+   "page_id": "7910d45d7072aca1",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/figure/INV-1",
+   "first_discovered_at": "2026-11-16T18:50:33.444Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "79528df4d1ad5680": {
    "page_id": "79528df4d1ad5680",
    "url": "https://ncses.nsf.gov/pubs/nsf25302/figure/2",
@@ -25221,6 +26352,19 @@
    "page_id": "79d01b9dfffaea14",
    "url": "https://ncses.nsf.gov/pubs/nsb20257/table/SDISC-59",
    "first_discovered_at": "2026-10-24T12:57:49.759Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "7a076ae4b4d3f943": {
+   "page_id": "7a076ae4b4d3f943",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/figure/LBR-7",
+   "first_discovered_at": "2026-11-16T18:51:09.531Z",
    "last_attempt_at": null,
    "last_success_at": null,
    "last_status": null,
@@ -25888,6 +27032,19 @@
    "clean": null,
    "last_failed_week": null
   },
+  "7cf720dfd7847b41": {
+   "page_id": "7cf720dfd7847b41",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-16",
+   "first_discovered_at": "2026-11-16T18:50:33.444Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "7d032ffa235829ad": {
    "page_id": "7d032ffa235829ad",
    "url": "http://ncses.nsf.gov/resource/faqs",
@@ -25958,6 +27115,19 @@
    "page_id": "7d62f748bf7efc7f",
    "url": "https://ncses.nsf.gov/pubs/nsf25349/table/3-4",
    "first_discovered_at": "2026-10-24T08:26:34.827Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "7d65eeb3d5b05388": {
+   "page_id": "7d65eeb3d5b05388",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/table/LBR-6",
+   "first_discovered_at": "2026-11-16T18:51:09.532Z",
    "last_attempt_at": null,
    "last_success_at": null,
    "last_status": null,
@@ -26616,6 +27786,19 @@
    "clean": null,
    "last_failed_week": null
   },
+  "7fd681ef4cd387f5": {
+   "page_id": "7fd681ef4cd387f5",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/figure/INV-5",
+   "first_discovered_at": "2026-11-16T18:50:33.444Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "7fdb6c42e90ce1fe": {
    "page_id": "7fdb6c42e90ce1fe",
    "url": "https://ncses.nsf.gov/pubs/ncses24215/section/20243",
@@ -26751,6 +27934,19 @@
    "page_id": "807be21cca708146",
    "url": "https://ncses.nsf.gov/pubs/nsf25341",
    "first_discovered_at": "2026-10-24T02:17:30.654Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "8093d433fd96bd3e": {
+   "page_id": "8093d433fd96bd3e",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/figure/INV-11",
+   "first_discovered_at": "2026-11-16T18:50:33.444Z",
    "last_attempt_at": null,
    "last_success_at": null,
    "last_status": null,
@@ -27721,6 +28917,19 @@
    "fail_count": 0,
    "clean": false,
    "first_finding_at": "2026-11-10T13:01:51.295Z",
+   "last_failed_week": null
+  },
+  "85704662230e7e68": {
+   "page_id": "85704662230e7e68",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/figure/LBR-10",
+   "first_discovered_at": "2026-11-16T18:51:09.531Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
    "last_failed_week": null
   },
   "85725baf537de1ca": {
@@ -28824,6 +30033,19 @@
    "first_finding_at": "2026-11-09T13:12:46.656Z",
    "last_failed_week": null
   },
+  "8ac55de553473f83": {
+   "page_id": "8ac55de553473f83",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-B",
+   "first_discovered_at": "2026-11-16T18:50:33.445Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "8af5974c48df7afe": {
    "page_id": "8af5974c48df7afe",
    "url": "https://ncses.nsf.gov/pubs/nsb20261/table/TAL-5",
@@ -29153,10 +30375,49 @@
    "clean": null,
    "last_failed_week": null
   },
+  "8c91dd62be828990": {
+   "page_id": "8c91dd62be828990",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/table/SLBR-31",
+   "first_discovered_at": "2026-11-16T18:51:09.532Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "8c9d2c542df1a3a9": {
+   "page_id": "8c9d2c542df1a3a9",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/acknowledgments-and-citation",
+   "first_discovered_at": "2026-11-16T18:50:33.445Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "8ca15e2cb3638411": {
    "page_id": "8ca15e2cb3638411",
    "url": "https://ncses.nsf.gov/indicators/states/downloads",
    "first_discovered_at": "2026-10-24T09:29:35.339Z",
+   "last_attempt_at": "2026-11-16T18:49:36.795Z",
+   "last_success_at": "2026-11-16T18:49:36.795Z",
+   "last_status": 200,
+   "last_week": "2026-W47",
+   "outcome": "success",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "8caa2a24b2a9e041": {
+   "page_id": "8caa2a24b2a9e041",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-38",
+   "first_discovered_at": "2026-11-16T18:50:33.445Z",
    "last_attempt_at": null,
    "last_success_at": null,
    "last_status": null,
@@ -29684,11 +30945,11 @@
    "page_id": "8efe308285870abc",
    "url": "https://ncses.nsf.gov/browse-library?survey=Survey+of+Earned+Doctorates+%28SED%29",
    "first_discovered_at": "2026-10-24T02:20:10.285Z",
-   "last_attempt_at": null,
-   "last_success_at": null,
-   "last_status": null,
-   "last_week": null,
-   "outcome": "never_scanned",
+   "last_attempt_at": "2026-11-16T18:51:13.108Z",
+   "last_success_at": "2026-11-16T18:51:13.108Z",
+   "last_status": 200,
+   "last_week": "2026-W47",
+   "outcome": "success",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -29736,11 +30997,11 @@
    "page_id": "8f0a3c9135a61bcb",
    "url": "https://ncses.nsf.gov/pubs/nsf24328/table/2",
    "first_discovered_at": "2026-11-11T12:02:36.669Z",
-   "last_attempt_at": null,
+   "last_attempt_at": "2026-11-16T18:49:46.048Z",
    "last_success_at": null,
-   "last_status": null,
-   "last_week": null,
-   "outcome": "never_scanned",
+   "last_status": "redirect",
+   "last_week": "2026-W47",
+   "outcome": "failed",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -29770,6 +31031,32 @@
    "fail_count": 0,
    "clean": false,
    "first_finding_at": "2026-10-29T09:53:28.319Z",
+   "last_failed_week": null
+  },
+  "8f4347994e9c4943": {
+   "page_id": "8f4347994e9c4943",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-25",
+   "first_discovered_at": "2026-11-16T18:50:33.445Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "8f77ba5821311365": {
+   "page_id": "8f77ba5821311365",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-C",
+   "first_discovered_at": "2026-11-16T18:50:33.445Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
    "last_failed_week": null
   },
   "8f82de46c69dbe18": {
@@ -30093,11 +31380,11 @@
    "page_id": "90bbfec15d1b5c7c",
    "url": "https://ncses.nsf.gov/pubs/nsb20197/trends-in-undergraduate-and-graduate-s-e-degree-awards",
    "first_discovered_at": "2026-11-04T12:37:28.532Z",
-   "last_attempt_at": null,
-   "last_success_at": null,
-   "last_status": null,
-   "last_week": null,
-   "outcome": "never_scanned",
+   "last_attempt_at": "2026-11-16T18:51:31.614Z",
+   "last_success_at": "2026-11-16T18:51:31.614Z",
+   "last_status": 200,
+   "last_week": "2026-W47",
+   "outcome": "success",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -30182,10 +31469,36 @@
    "clean": null,
    "last_failed_week": null
   },
+  "911918217fb73adb": {
+   "page_id": "911918217fb73adb",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-39",
+   "first_discovered_at": "2026-11-16T18:50:33.445Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "911e735bcdd75a48": {
    "page_id": "911e735bcdd75a48",
    "url": "https://ncses.nsf.gov/archived?url=https%3A%2F%2Fwww.nsf.gov%2Fstatistics%2Fquestionnaires.cfm",
    "first_discovered_at": "2026-10-24T02:17:49.128Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "912f22f1b32eb0c2": {
+   "page_id": "912f22f1b32eb0c2",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/figure/INV-20",
+   "first_discovered_at": "2026-11-16T18:50:33.444Z",
    "last_attempt_at": null,
    "last_success_at": null,
    "last_status": null,
@@ -30274,6 +31587,19 @@
    "fail_count": 0,
    "clean": false,
    "first_finding_at": "2026-10-26T08:13:51.654Z",
+   "last_failed_week": null
+  },
+  "91b738ffb8affbc4": {
+   "page_id": "91b738ffb8affbc4",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-42",
+   "first_discovered_at": "2026-11-16T18:50:33.445Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
    "last_failed_week": null
   },
   "91dab5d1b0d18837": {
@@ -30432,6 +31758,19 @@
    "last_status": 200,
    "last_week": "2026-W43",
    "outcome": "success",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "926c51587746c0b3": {
+   "page_id": "926c51587746c0b3",
+   "url": "https://ncses.nsf.gov/pubs/nsf21308/report",
+   "first_discovered_at": "2026-11-16T18:50:40.603Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -30809,6 +32148,19 @@
    "clean": null,
    "last_failed_week": null
   },
+  "9484b299116b4c93": {
+   "page_id": "9484b299116b4c93",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/table/INV-B",
+   "first_discovered_at": "2026-11-16T18:50:33.444Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "94a4ab21bd8a2a1d": {
    "page_id": "94a4ab21bd8a2a1d",
    "url": "https://ncses.nsf.gov/pubs/nsb20214/publication-output-by-country-region-or-economy-and-scientific-field",
@@ -30854,6 +32206,19 @@
    "page_id": "94f11f33ad933253",
    "url": "https://ncses.nsf.gov/pubs/nsb20206/table-link/5a-2",
    "first_discovered_at": "2026-11-02T11:00:21.503Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "94fc41586e965163": {
+   "page_id": "94fc41586e965163",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/table/SLBR-18",
+   "first_discovered_at": "2026-11-16T18:51:09.532Z",
    "last_attempt_at": null,
    "last_success_at": null,
    "last_status": null,
@@ -30943,6 +32308,19 @@
    "first_finding_at": "2026-11-09T20:11:13.181Z",
    "last_failed_week": null
   },
+  "9585614b43ebd136": {
+   "page_id": "9585614b43ebd136",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/table/LBR-2",
+   "first_discovered_at": "2026-11-16T18:51:09.532Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "95aadba2e42b4198": {
    "page_id": "95aadba2e42b4198",
    "url": "https://ncses.nsf.gov/pubs/nsb20257/table/SDISC-61",
@@ -30960,6 +32338,19 @@
    "page_id": "95c6f8676ffed341",
    "url": "https://ncses.nsf.gov/pubs/nsb20227/public-familiarity-with-science-and-technology-research-processes",
    "first_discovered_at": "2026-11-04T12:37:28.543Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "95dfc24fcca1bee8": {
+   "page_id": "95dfc24fcca1bee8",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-44",
+   "first_discovered_at": "2026-11-16T18:50:33.445Z",
    "last_attempt_at": null,
    "last_success_at": null,
    "last_status": null,
@@ -31763,6 +33154,19 @@
    "clean": null,
    "last_failed_week": null
   },
+  "9a517599e8a6565e": {
+   "page_id": "9a517599e8a6565e",
+   "url": "https://ncses.nsf.gov/pubs/nsb20214/data/table/SPBS-28",
+   "first_discovered_at": "2026-11-16T18:51:01.028Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "9a6be2d13793a882": {
    "page_id": "9a6be2d13793a882",
    "url": "https://ncses.nsf.gov/pubs/nsb20226/figure/KTI-18",
@@ -31828,6 +33232,19 @@
    "fail_count": 0,
    "clean": false,
    "first_finding_at": "2026-11-03T17:22:43.107Z",
+   "last_failed_week": null
+  },
+  "9a905a58874e2eac": {
+   "page_id": "9a905a58874e2eac",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-7",
+   "first_discovered_at": "2026-11-16T18:50:33.444Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
    "last_failed_week": null
   },
   "9a9d93f297277043": {
@@ -32107,6 +33524,19 @@
    "clean": null,
    "last_failed_week": null
   },
+  "9be9cfaaa21b7f16": {
+   "page_id": "9be9cfaaa21b7f16",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/figure/LBR-14",
+   "first_discovered_at": "2026-11-16T18:51:09.531Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "9bee6077e1f9cc1f": {
    "page_id": "9bee6077e1f9cc1f",
    "url": "https://ncses.nsf.gov/indicators/states/state/washington",
@@ -32119,6 +33549,19 @@
    "fail_count": 0,
    "clean": false,
    "first_finding_at": "2026-10-26T10:30:33.778Z",
+   "last_failed_week": null
+  },
+  "9c059f1c6971e11d": {
+   "page_id": "9c059f1c6971e11d",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/table/LBR-1",
+   "first_discovered_at": "2026-11-16T18:51:09.532Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
    "last_failed_week": null
   },
   "9c1493a041ea7ad8": {
@@ -32205,6 +33648,19 @@
    "page_id": "9c642377de3a5918",
    "url": "https://ncses.nsf.gov/pubs/nsf25349/table/1-10",
    "first_discovered_at": "2026-10-24T09:32:02.815Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "9c660ada637eab2f": {
+   "page_id": "9c660ada637eab2f",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/table/LBR-4",
+   "first_discovered_at": "2026-11-16T18:51:09.532Z",
    "last_attempt_at": null,
    "last_success_at": null,
    "last_status": null,
@@ -32851,11 +34307,11 @@
    "page_id": "9fa88f65f51a708c",
    "url": "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-1",
    "first_discovered_at": "2026-10-27T15:36:09.280Z",
-   "last_attempt_at": null,
-   "last_success_at": null,
-   "last_status": null,
-   "last_week": null,
-   "outcome": "never_scanned",
+   "last_attempt_at": "2026-11-16T18:50:25.965Z",
+   "last_success_at": "2026-11-16T18:50:25.965Z",
+   "last_status": 200,
+   "last_week": "2026-W47",
+   "outcome": "success",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -33257,6 +34713,19 @@
    "clean": null,
    "last_failed_week": null
   },
+  "a16370883c8954eb": {
+   "page_id": "a16370883c8954eb",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-23",
+   "first_discovered_at": "2026-11-16T18:50:33.445Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "a16dd853a9210edb": {
    "page_id": "a16dd853a9210edb",
    "url": "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-36",
@@ -33365,11 +34834,11 @@
    "page_id": "a1dd4275ba3aced8",
    "url": "https://ncses.nsf.gov/pubs/nsb20257/table/SDISC-28",
    "first_discovered_at": "2026-10-24T12:57:49.758Z",
-   "last_attempt_at": null,
+   "last_attempt_at": "2026-11-16T18:49:33.166Z",
    "last_success_at": null,
-   "last_status": null,
-   "last_week": null,
-   "outcome": "never_scanned",
+   "last_status": "redirect",
+   "last_week": "2026-W47",
+   "outcome": "failed",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -33918,6 +35387,19 @@
    "first_finding_at": "2026-11-09T17:24:46.154Z",
    "last_failed_week": null
   },
+  "a40e761be286afc4": {
+   "page_id": "a40e761be286afc4",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-F",
+   "first_discovered_at": "2026-11-16T18:50:33.445Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "a41624d19e5914bb": {
    "page_id": "a41624d19e5914bb",
    "url": "https://ncses.nsf.gov/pubs/nsb20204/supplemental-tables",
@@ -34298,11 +35780,11 @@
    "page_id": "a5ae10f788c56747",
    "url": "https://ncses.nsf.gov/pubs/nsb20214/table/SPBS-28",
    "first_discovered_at": "2026-11-09T14:25:07.000Z",
-   "last_attempt_at": null,
-   "last_success_at": null,
-   "last_status": null,
-   "last_week": null,
-   "outcome": "never_scanned",
+   "last_attempt_at": "2026-11-16T18:50:45.349Z",
+   "last_success_at": "2026-11-16T18:50:45.349Z",
+   "last_status": 200,
+   "last_week": "2026-W47",
+   "outcome": "success",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -34368,6 +35850,19 @@
    "last_status": "redirect",
    "last_week": "2026-W46",
    "outcome": "failed",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "a65c9ca55a9e9bc2": {
+   "page_id": "a65c9ca55a9e9bc2",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-M",
+   "first_discovered_at": "2026-11-16T18:50:33.445Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -35081,6 +36576,19 @@
    "fail_count": 0,
    "clean": false,
    "first_finding_at": "2026-11-12T10:58:32.165Z",
+   "last_failed_week": null
+  },
+  "aa0aebcfc5effa86": {
+   "page_id": "aa0aebcfc5effa86",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/figure/INV-26",
+   "first_discovered_at": "2026-11-16T18:50:33.444Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
    "last_failed_week": null
   },
   "aa0e9c1614e67294": {
@@ -35858,6 +37366,19 @@
    "clean": null,
    "last_failed_week": null
   },
+  "ad36ded011dfc80c": {
+   "page_id": "ad36ded011dfc80c",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-24",
+   "first_discovered_at": "2026-11-16T18:50:33.445Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "ad3dbe46dba02a13": {
    "page_id": "ad3dbe46dba02a13",
    "url": "https://ncses.nsf.gov/pubs/nsf24336/table/2-3",
@@ -36159,6 +37680,19 @@
    "clean": null,
    "last_failed_week": null
   },
+  "ae89624922c33954": {
+   "page_id": "ae89624922c33954",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/acknowledgments-and-citation",
+   "first_discovered_at": "2026-11-16T18:51:09.532Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "ae8ea5e5e081e97a": {
    "page_id": "ae8ea5e5e081e97a",
    "url": "https://ncses.nsf.gov/pubs/nsb20204/table-link/S8-10",
@@ -36210,6 +37744,19 @@
    "fail_count": 0,
    "clean": false,
    "first_finding_at": "2026-10-26T15:28:17.152Z",
+   "last_failed_week": null
+  },
+  "aebfae7a29d8e557": {
+   "page_id": "aebfae7a29d8e557",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/figure/LBR-11",
+   "first_discovered_at": "2026-11-16T18:51:09.531Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
    "last_failed_week": null
   },
   "aec980fc6d5e056d": {
@@ -36268,6 +37815,19 @@
    "page_id": "aef24869c547c854",
    "url": "https://ncses.nsf.gov/pubs/nsb20204/table-link/S8-4",
    "first_discovered_at": "2026-10-29T11:48:05.844Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "aef340e3a43ec7dd": {
+   "page_id": "aef340e3a43ec7dd",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/figure/LBR-D",
+   "first_discovered_at": "2026-11-16T18:51:09.532Z",
    "last_attempt_at": null,
    "last_success_at": null,
    "last_status": null,
@@ -36492,6 +38052,19 @@
    "page_id": "b05997d2eedb9d56",
    "url": "https://ncses.nsf.gov/pubs/nsb20198/figure-link/3-4",
    "first_discovered_at": "2026-11-02T13:55:51.733Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "b0765460d15288ed": {
+   "page_id": "b0765460d15288ed",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/table/SLBR-5",
+   "first_discovered_at": "2026-11-16T18:51:09.532Z",
    "last_attempt_at": null,
    "last_success_at": null,
    "last_status": null,
@@ -37401,6 +38974,19 @@
    "clean": null,
    "last_failed_week": null
   },
+  "b534e188f9788caa": {
+   "page_id": "b534e188f9788caa",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-2",
+   "first_discovered_at": "2026-11-16T18:50:33.444Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "b55fdb67f0f2228a": {
    "page_id": "b55fdb67f0f2228a",
    "url": "https://ncses.nsf.gov/pubs/nsf23300/report/appendix",
@@ -37914,6 +39500,19 @@
    "clean": null,
    "last_failed_week": null
   },
+  "b79caa2390cb4133": {
+   "page_id": "b79caa2390cb4133",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/figure/LBR-C",
+   "first_discovered_at": "2026-11-16T18:51:09.532Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "b79e21e2f9982dfc": {
    "page_id": "b79e21e2f9982dfc",
    "url": "https://ncses.nsf.gov/pubs/nsb20201/downloads",
@@ -38037,10 +39636,10 @@
    "page_id": "b80da5c3bbc6872e",
    "url": "https://ncses.nsf.gov/surveys/ffrdc-research-development/2023",
    "first_discovered_at": "2026-10-24T02:17:30.654Z",
-   "last_attempt_at": "2026-11-15T07:49:02.722Z",
-   "last_success_at": "2026-11-15T07:49:02.722Z",
+   "last_attempt_at": "2026-11-16T18:49:47.572Z",
+   "last_success_at": "2026-11-16T18:49:47.572Z",
    "last_status": 200,
-   "last_week": "2026-W46",
+   "last_week": "2026-W47",
    "outcome": "success",
    "fail_count": 0,
    "clean": null,
@@ -38104,6 +39703,19 @@
    "page_id": "b82d25f40891baed",
    "url": "https://ncses.nsf.gov/pubs/nsb20201/introduction",
    "first_discovered_at": "2026-11-02T17:01:05.458Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "b8442469e5a1505c": {
+   "page_id": "b8442469e5a1505c",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-10",
+   "first_discovered_at": "2026-11-16T18:50:33.444Z",
    "last_attempt_at": null,
    "last_success_at": null,
    "last_status": null,
@@ -38800,6 +40412,19 @@
    "clean": null,
    "last_failed_week": null
   },
+  "bb5a3e7eef30eb09": {
+   "page_id": "bb5a3e7eef30eb09",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-15",
+   "first_discovered_at": "2026-11-16T18:50:33.444Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "bb7114216908d977": {
    "page_id": "bb7114216908d977",
    "url": "https://ncses.nsf.gov/pubs/nsf23352/figure/3",
@@ -38817,6 +40442,19 @@
    "page_id": "bb84891d14dc1200",
    "url": "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-84",
    "first_discovered_at": "2026-10-24T09:30:42.888Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "bb849199f5673200": {
+   "page_id": "bb849199f5673200",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/figure/INV-6",
+   "first_discovered_at": "2026-11-16T18:50:33.444Z",
    "last_attempt_at": null,
    "last_success_at": null,
    "last_status": null,
@@ -38961,6 +40599,19 @@
    "first_finding_at": "2026-11-02T18:43:16.895Z",
    "last_failed_week": null
   },
+  "bc2bb66051982a0c": {
+   "page_id": "bc2bb66051982a0c",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-6",
+   "first_discovered_at": "2026-11-16T18:50:33.444Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "bc30b0e79d38c614": {
    "page_id": "bc30b0e79d38c614",
    "url": "https://ncses.nsf.gov/pubs/nsf25307/table/4",
@@ -39023,6 +40674,32 @@
    "last_status": "redirect",
    "last_week": "2026-W46",
    "outcome": "failed",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "bc4ffda1f4db93f7": {
+   "page_id": "bc4ffda1f4db93f7",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/table/SLBR-28",
+   "first_discovered_at": "2026-11-16T18:51:09.532Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "bc5017f9941331da": {
+   "page_id": "bc5017f9941331da",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/table/LBR-A",
+   "first_discovered_at": "2026-11-16T18:51:09.532Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -39449,10 +41126,36 @@
    "clean": null,
    "last_failed_week": null
   },
+  "beba254b0eb1cf14": {
+   "page_id": "beba254b0eb1cf14",
+   "url": "https://ncses.nsf.gov/pubs/nsb20224/data/table/SINV-23",
+   "first_discovered_at": "2026-11-16T18:50:15.625Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "bedc4b2c7a92db9a": {
    "page_id": "bedc4b2c7a92db9a",
    "url": "https://ncses.nsf.gov/pubs/nsb20221/u-s-and-global-stem-education-and-labor-force",
    "first_discovered_at": "2026-10-29T11:05:37.029Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "bee902a4079afc19": {
+   "page_id": "bee902a4079afc19",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/figure/LBR-23",
+   "first_discovered_at": "2026-11-16T18:51:09.531Z",
    "last_attempt_at": null,
    "last_success_at": null,
    "last_status": null,
@@ -39500,6 +41203,19 @@
    "fail_count": 0,
    "clean": false,
    "first_finding_at": "2026-11-09T20:11:25.432Z",
+   "last_failed_week": null
+  },
+  "bf16d166a6768356": {
+   "page_id": "bf16d166a6768356",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/figure/LBR-F",
+   "first_discovered_at": "2026-11-16T18:51:09.532Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
    "last_failed_week": null
   },
   "bf29bcca66af49d3": {
@@ -39577,6 +41293,19 @@
    "last_status": 200,
    "last_week": "2026-W43",
    "outcome": "success",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "bf717cca78e76449": {
+   "page_id": "bf717cca78e76449",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/table/SLBR-26",
+   "first_discovered_at": "2026-11-16T18:51:09.532Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -39818,6 +41547,19 @@
    "first_finding_at": "2026-11-02T13:52:48.176Z",
    "last_failed_week": null
   },
+  "c0752465a8298848": {
+   "page_id": "c0752465a8298848",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-K",
+   "first_discovered_at": "2026-11-16T18:50:33.445Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "c0786775893cf738": {
    "page_id": "c0786775893cf738",
    "url": "https://ncses.nsf.gov/pubs/ncses26207",
@@ -39853,6 +41595,19 @@
    "last_status": 200,
    "last_week": "2026-W44",
    "outcome": "success",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "c0a005aed5c7ab53": {
+   "page_id": "c0a005aed5c7ab53",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-E",
+   "first_discovered_at": "2026-11-16T18:50:33.445Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -40151,11 +41906,11 @@
    "page_id": "c19d7b861034b029",
    "url": "https://ncses.nsf.gov/pubs/nsf25354/table/13",
    "first_discovered_at": "2026-10-29T11:49:09.971Z",
-   "last_attempt_at": null,
+   "last_attempt_at": "2026-11-16T18:49:31.080Z",
    "last_success_at": null,
-   "last_status": null,
-   "last_week": null,
-   "outcome": "never_scanned",
+   "last_status": "redirect",
+   "last_week": "2026-W47",
+   "outcome": "failed",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -40344,6 +42099,19 @@
    "fail_count": 0,
    "clean": false,
    "first_finding_at": "2026-10-26T08:53:13.451Z",
+   "last_failed_week": null
+  },
+  "c26901d764ec4637": {
+   "page_id": "c26901d764ec4637",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/figure/INV-8",
+   "first_discovered_at": "2026-11-16T18:50:33.444Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
    "last_failed_week": null
   },
   "c28d2b522c671355": {
@@ -40579,6 +42347,19 @@
    "last_status": 200,
    "last_week": "2026-W43",
    "outcome": "success",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "c3cd743fdd0a01fb": {
+   "page_id": "c3cd743fdd0a01fb",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/figure/INV-13",
+   "first_discovered_at": "2026-11-16T18:50:33.444Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -41029,6 +42810,19 @@
    "clean": false,
    "first_finding_at": "2026-10-28T10:45:38.263Z"
   },
+  "c632fa1d0444af6a": {
+   "page_id": "c632fa1d0444af6a",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/figure/LBR-21",
+   "first_discovered_at": "2026-11-16T18:51:09.531Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "c65e0d1c3c9af67e": {
    "page_id": "c65e0d1c3c9af67e",
    "url": "https://ncses.nsf.gov/pubs/nsf25305",
@@ -41162,6 +42956,19 @@
    "first_finding_at": "2026-11-04T14:41:52.028Z",
    "last_failed_week": null
   },
+  "c769786096b6349f": {
+   "page_id": "c769786096b6349f",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/table/LBR-5",
+   "first_discovered_at": "2026-11-16T18:51:09.532Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "c76f1f2d11858ff6": {
    "page_id": "c76f1f2d11858ff6",
    "url": "https://ncses.nsf.gov/pubs/nsb20224/table/SINV-62",
@@ -41214,6 +43021,19 @@
    "fail_count": 0,
    "clean": false,
    "first_finding_at": "2026-11-10T11:09:21.297Z",
+   "last_failed_week": null
+  },
+  "c7e66f78a7cec771": {
+   "page_id": "c7e66f78a7cec771",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/figure/INV-2",
+   "first_discovered_at": "2026-11-16T18:50:33.444Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
    "last_failed_week": null
   },
   "c7e749fffb0508a9": {
@@ -41375,6 +43195,19 @@
    "clean": null,
    "last_failed_week": null
   },
+  "c8afef35a4ac41ff": {
+   "page_id": "c8afef35a4ac41ff",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/table/INV-C",
+   "first_discovered_at": "2026-11-16T18:50:33.444Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "c8b87d44731f7073": {
    "page_id": "c8b87d44731f7073",
    "url": "https://ncses.nsf.gov/indicators/states/state/north-dakota",
@@ -41441,6 +43274,19 @@
    "clean": false,
    "first_finding_at": "2026-10-28T16:18:35.668Z"
   },
+  "c911c10ccffef6ff": {
+   "page_id": "c911c10ccffef6ff",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/figure/LBR-33",
+   "first_discovered_at": "2026-11-16T18:51:09.532Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "c92302a5c2965201": {
    "page_id": "c92302a5c2965201",
    "url": "https://ncses.nsf.gov/pubs/nsb20214/table/SPBS-3",
@@ -41479,6 +43325,19 @@
    "fail_count": 0,
    "clean": false,
    "first_finding_at": "2026-11-09T19:09:17.410Z",
+   "last_failed_week": null
+  },
+  "c94d7cd1fe9261bd": {
+   "page_id": "c94d7cd1fe9261bd",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/figure/LBR-28",
+   "first_discovered_at": "2026-11-16T18:51:09.532Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
    "last_failed_week": null
   },
   "c95739154f007cf7": {
@@ -41624,6 +43483,19 @@
    "fail_count": 0,
    "clean": false,
    "first_finding_at": "2026-11-02T12:45:54.385Z",
+   "last_failed_week": null
+  },
+  "c9d3b24b0bff3750": {
+   "page_id": "c9d3b24b0bff3750",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-11",
+   "first_discovered_at": "2026-11-16T18:50:33.444Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
    "last_failed_week": null
   },
   "c9f93ea40eb83e38": {
@@ -41788,6 +43660,19 @@
    "page_id": "caa578055dbfd89d",
    "url": "https://ncses.nsf.gov/pubs/nsf24336/surveypage/table/11722",
    "first_discovered_at": "2026-10-26T14:11:07.711Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "cab27be02e2bec70": {
+   "page_id": "cab27be02e2bec70",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-47",
+   "first_discovered_at": "2026-11-16T18:50:33.445Z",
    "last_attempt_at": null,
    "last_success_at": null,
    "last_status": null,
@@ -42062,6 +43947,19 @@
    "clean": null,
    "last_failed_week": null
   },
+  "cc110aca14a336a7": {
+   "page_id": "cc110aca14a336a7",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/figure/INV-16",
+   "first_discovered_at": "2026-11-16T18:50:33.444Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "cc25e1c744cf8fb7": {
    "page_id": "cc25e1c744cf8fb7",
    "url": "https://ncses.nsf.gov/pubs/nsf27301",
@@ -42119,6 +44017,19 @@
    "page_id": "cc3bee07ec7e8f56",
    "url": "https://ncses.nsf.gov/surveys/higher-education-research-development/2022",
    "first_discovered_at": "2026-10-24T02:17:30.653Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "cc6c4545c17dfcad": {
+   "page_id": "cc6c4545c17dfcad",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/figure/INV-D",
+   "first_discovered_at": "2026-11-16T18:50:33.444Z",
    "last_attempt_at": null,
    "last_success_at": null,
    "last_status": null,
@@ -42212,6 +44123,19 @@
    "page_id": "ccf9ea70db0b0578",
    "url": "https://ncses.nsf.gov/pubs/nsf24335/surveypage/table/12305",
    "first_discovered_at": "2026-10-25T08:46:49.798Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "cd22b1086068f837": {
+   "page_id": "cd22b1086068f837",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-32",
+   "first_discovered_at": "2026-11-16T18:50:33.445Z",
    "last_attempt_at": null,
    "last_success_at": null,
    "last_status": null,
@@ -42521,6 +44445,19 @@
    "last_status": 200,
    "last_week": "2026-W43",
    "outcome": "success",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "ce0da68e23fb536f": {
+   "page_id": "ce0da68e23fb536f",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-12",
+   "first_discovered_at": "2026-11-16T18:50:33.444Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -43357,6 +45294,19 @@
    "clean": null,
    "last_failed_week": null
   },
+  "d236921b38436230": {
+   "page_id": "d236921b38436230",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/table/SLBR-19",
+   "first_discovered_at": "2026-11-16T18:51:09.532Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "d242d869b20e6d35": {
    "page_id": "d242d869b20e6d35",
    "url": "https://ncses.nsf.gov/pubs/nsf22312",
@@ -43366,6 +45316,19 @@
    "last_status": 200,
    "last_week": "2026-W43",
    "outcome": "success",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "d25b5f7cbebfe65f": {
+   "page_id": "d25b5f7cbebfe65f",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/figure/LBR-24",
+   "first_discovered_at": "2026-11-16T18:51:09.531Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -43457,6 +45420,19 @@
    "last_status": 200,
    "last_week": "2026-W43",
    "outcome": "success",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "d2fabdebdf84f54e": {
+   "page_id": "d2fabdebdf84f54e",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/table/SLBR-8",
+   "first_discovered_at": "2026-11-16T18:51:09.532Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -43671,6 +45647,19 @@
    "clean": null,
    "last_failed_week": null
   },
+  "d470602de526ff82": {
+   "page_id": "d470602de526ff82",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/table/LBR-7",
+   "first_discovered_at": "2026-11-16T18:51:09.532Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "d4720893b9fdfc15": {
    "page_id": "d4720893b9fdfc15",
    "url": "https://ncses.nsf.gov/pubs/nsb20224/figure/INV-17",
@@ -43869,6 +45858,19 @@
    "clean": null,
    "last_failed_week": null
   },
+  "d528d7cf61619d58": {
+   "page_id": "d528d7cf61619d58",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/figure/LBR-31",
+   "first_discovered_at": "2026-11-16T18:51:09.532Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "d54089d4ca6335ac": {
    "page_id": "d54089d4ca6335ac",
    "url": "https://ncses.nsf.gov/pubs/nsb20243/figure/12",
@@ -43881,6 +45883,19 @@
    "fail_count": 0,
    "clean": false,
    "first_finding_at": "2026-11-02T17:01:44.858Z",
+   "last_failed_week": null
+  },
+  "d546e83246d3c6c3": {
+   "page_id": "d546e83246d3c6c3",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/table/INV-A",
+   "first_discovered_at": "2026-11-16T18:50:33.444Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
    "last_failed_week": null
   },
   "d54faa4700f06129": {
@@ -44006,6 +46021,19 @@
    "page_id": "d5d6ea3a1020497f",
    "url": "https://ncses.nsf.gov/pubs/nsf24325/figure/1",
    "first_discovered_at": "2026-10-25T08:54:46.938Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "d5e7e6c0e02c335e": {
+   "page_id": "d5e7e6c0e02c335e",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-43",
+   "first_discovered_at": "2026-11-16T18:50:33.445Z",
    "last_attempt_at": null,
    "last_success_at": null,
    "last_status": null,
@@ -44268,6 +46296,19 @@
    "clean": null,
    "last_failed_week": null
   },
+  "d79711e30b3cb112": {
+   "page_id": "d79711e30b3cb112",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/figure/INV-15",
+   "first_discovered_at": "2026-11-16T18:50:33.444Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "d7c6ec1e1a04e7d4": {
    "page_id": "d7c6ec1e1a04e7d4",
    "url": "https://ncses.nsf.gov/indicators/states/indicator/fourth-grade-science-performance",
@@ -44307,6 +46348,19 @@
    "clean": null,
    "last_failed_week": null
   },
+  "d7eae0d32d643f52": {
+   "page_id": "d7eae0d32d643f52",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/table/SLBR-36",
+   "first_discovered_at": "2026-11-16T18:51:09.532Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "d7f6d159ee8674b3": {
    "page_id": "d7f6d159ee8674b3",
    "url": "https://ncses.nsf.gov/pubs/nsb20196/table-link/S1-6",
@@ -44342,6 +46396,19 @@
    "last_status": 200,
    "last_week": "2026-W43",
    "outcome": "success",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "d81dcddb6302602b": {
+   "page_id": "d81dcddb6302602b",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-A",
+   "first_discovered_at": "2026-11-16T18:50:33.445Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -44614,11 +46681,11 @@
    "page_id": "d934cce7fa5873f0",
    "url": "https://ncses.nsf.gov/pubs/nsf21308",
    "first_discovered_at": "2026-10-24T02:17:30.654Z",
-   "last_attempt_at": null,
-   "last_success_at": null,
-   "last_status": null,
-   "last_week": null,
-   "outcome": "never_scanned",
+   "last_attempt_at": "2026-11-16T18:51:39.248Z",
+   "last_success_at": "2026-11-16T18:51:39.248Z",
+   "last_status": 200,
+   "last_week": "2026-W47",
+   "outcome": "success",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -44727,6 +46794,19 @@
    "fail_count": 0,
    "clean": false,
    "first_finding_at": "2026-11-04T12:43:09.726Z",
+   "last_failed_week": null
+  },
+  "d9b6313cdd5668bb": {
+   "page_id": "d9b6313cdd5668bb",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-D",
+   "first_discovered_at": "2026-11-16T18:50:33.445Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
    "last_failed_week": null
   },
   "d9c573abf8bff421": {
@@ -44968,10 +47048,62 @@
    "clean": null,
    "last_failed_week": null
   },
+  "da83ae41b7508e36": {
+   "page_id": "da83ae41b7508e36",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/figure/LBR-E",
+   "first_discovered_at": "2026-11-16T18:51:09.532Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "da8c3acf5fb69a53": {
+   "page_id": "da8c3acf5fb69a53",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/figure/LBR-12",
+   "first_discovered_at": "2026-11-16T18:51:09.531Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "daa25b94cf0f6fe4": {
+   "page_id": "daa25b94cf0f6fe4",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/table/SLBR-3",
+   "first_discovered_at": "2026-11-16T18:51:09.532Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "daac955d714aacf4": {
    "page_id": "daac955d714aacf4",
    "url": "https://ncses.nsf.gov/pubs/nsf23309/table/18",
    "first_discovered_at": "2026-11-04T12:33:15.754Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "daad979022a56b54": {
+   "page_id": "daad979022a56b54",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-28",
+   "first_discovered_at": "2026-11-16T18:50:33.445Z",
    "last_attempt_at": null,
    "last_success_at": null,
    "last_status": null,
@@ -45242,6 +47374,19 @@
    "last_status": "redirect",
    "last_week": "2026-W46",
    "outcome": "failed",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "dbc1f2025b28b746": {
+   "page_id": "dbc1f2025b28b746",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/figure/LBR-1",
+   "first_discovered_at": "2026-11-16T18:51:09.531Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -45560,6 +47705,19 @@
    "clean": null,
    "last_failed_week": null
   },
+  "ddfd3ae6d737efcf": {
+   "page_id": "ddfd3ae6d737efcf",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/figure/LBR-15",
+   "first_discovered_at": "2026-11-16T18:51:09.531Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "ddfecad69a8d248e": {
    "page_id": "ddfecad69a8d248e",
    "url": "https://ncses.nsf.gov/pubs/nsf25307/figure/2",
@@ -45743,6 +47901,19 @@
    "last_status": 200,
    "last_week": "2026-W43",
    "outcome": "success",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "dee105465ee86c76": {
+   "page_id": "dee105465ee86c76",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/table/SLBR-11",
+   "first_discovered_at": "2026-11-16T18:51:09.532Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -46221,6 +48392,19 @@
    "clean": null,
    "last_failed_week": null
   },
+  "e16c173e1eb977c8": {
+   "page_id": "e16c173e1eb977c8",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/table/SLBR-27",
+   "first_discovered_at": "2026-11-16T18:51:09.532Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "e17d0e39a3b2564e": {
    "page_id": "e17d0e39a3b2564e",
    "url": "https://ncses.nsf.gov/indicators/states/indicator/rd-performance-to-state-gdp",
@@ -46565,6 +48749,19 @@
    "clean": null,
    "last_failed_week": null
   },
+  "e28b2319e10ee043": {
+   "page_id": "e28b2319e10ee043",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/table/SLBR-20",
+   "first_discovered_at": "2026-11-16T18:51:09.532Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "e2a159a8bdd87821": {
    "page_id": "e2a159a8bdd87821",
    "url": "https://ncses.nsf.gov/pubs/nsb20257/figure/DISC-18",
@@ -46744,6 +48941,32 @@
    "last_status": 200,
    "last_week": "2026-W43",
    "outcome": "success",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "e3520f5c616196c1": {
+   "page_id": "e3520f5c616196c1",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-37",
+   "first_discovered_at": "2026-11-16T18:50:33.445Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "e37401f0f7ec131c": {
+   "page_id": "e37401f0f7ec131c",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/table/SLBR-34",
+   "first_discovered_at": "2026-11-16T18:51:09.532Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -47302,6 +49525,19 @@
    "clean": null,
    "last_failed_week": null
   },
+  "e5eb557f2bd670c0": {
+   "page_id": "e5eb557f2bd670c0",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/figure/LBR-36",
+   "first_discovered_at": "2026-11-16T18:51:09.532Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "e5ed22ed4ec2a761": {
    "page_id": "e5ed22ed4ec2a761",
    "url": "https://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Federal+Government%2FAgency+R%26D",
@@ -47327,6 +49563,19 @@
    "fail_count": 0,
    "clean": false,
    "first_finding_at": "2026-11-09T20:11:02.008Z",
+   "last_failed_week": null
+  },
+  "e60d8e76dfc9b068": {
+   "page_id": "e60d8e76dfc9b068",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/table/SLBR-4",
+   "first_discovered_at": "2026-11-16T18:51:09.532Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
    "last_failed_week": null
   },
   "e60d9c1b4d5a9d50": {
@@ -48415,6 +50664,19 @@
    "clean": null,
    "last_failed_week": null
   },
+  "ebc76a764585e99a": {
+   "page_id": "ebc76a764585e99a",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-48",
+   "first_discovered_at": "2026-11-16T18:50:33.445Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "ebd9389fde25e726": {
    "page_id": "ebd9389fde25e726",
    "url": "https://ncses.nsf.gov/pubs/nsb20245/foreign-born-stem-workers",
@@ -48592,6 +50854,19 @@
    "page_id": "ecb3114c91e8e8b5",
    "url": "https://ncses.nsf.gov/pubs/nsb20243/figure/25",
    "first_discovered_at": "2026-10-29T11:48:22.869Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "ecca871506cab911": {
+   "page_id": "ecca871506cab911",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-20",
+   "first_discovered_at": "2026-11-16T18:50:33.445Z",
    "last_attempt_at": null,
    "last_success_at": null,
    "last_status": null,
@@ -48850,6 +51125,19 @@
    "clean": false,
    "first_finding_at": "2026-10-29T09:55:49.944Z"
   },
+  "ee4e7abc01bad379": {
+   "page_id": "ee4e7abc01bad379",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/figure/INV-23",
+   "first_discovered_at": "2026-11-16T18:50:33.444Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "ee51a5a3aa2d4371": {
    "page_id": "ee51a5a3aa2d4371",
    "url": "https://ncses.nsf.gov/pubs/nsb20247/technical-appendix",
@@ -49036,6 +51324,19 @@
    "clean": null,
    "last_failed_week": null
   },
+  "eeebf360b7698114": {
+   "page_id": "eeebf360b7698114",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-G",
+   "first_discovered_at": "2026-11-16T18:50:33.445Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "eef3f2fc40375951": {
    "page_id": "eef3f2fc40375951",
    "url": "https://ncses.nsf.gov/pubs/nsb20224/table/SINV-35",
@@ -49168,6 +51469,19 @@
    "clean": null,
    "last_failed_week": null
   },
+  "ef6db9d93b19a3e1": {
+   "page_id": "ef6db9d93b19a3e1",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/figure/LBR-34",
+   "first_discovered_at": "2026-11-16T18:51:09.532Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "ef74369e7cf29d7b": {
    "page_id": "ef74369e7cf29d7b",
    "url": "https://ncses.nsf.gov/pubs/nsb20204/figure-link/8-21",
@@ -49278,6 +51592,19 @@
    "page_id": "f0093e59f5605f4c",
    "url": "https://ncses.nsf.gov/pubs/nsbsep20261/table/S5",
    "first_discovered_at": "2026-10-29T11:04:36.349Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "f0153da7b49ef9eb": {
+   "page_id": "f0153da7b49ef9eb",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/figure/LBR-27",
+   "first_discovered_at": "2026-11-16T18:51:09.532Z",
    "last_attempt_at": null,
    "last_success_at": null,
    "last_status": null,
@@ -49537,6 +51864,19 @@
    "clean": null,
    "last_failed_week": null
   },
+  "f1486d7798a4d24e": {
+   "page_id": "f1486d7798a4d24e",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/figure/INV-A",
+   "first_discovered_at": "2026-11-16T18:50:33.444Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "f1537d9e3c2a4948": {
    "page_id": "f1537d9e3c2a4948",
    "url": "https://ncses.nsf.gov/pubs/nsf26318",
@@ -49581,10 +51921,10 @@
    "page_id": "f15f2f2a5063a599",
    "url": "https://ncses.nsf.gov/pubs/nsf26327",
    "first_discovered_at": "2026-10-26T08:11:18.447Z",
-   "last_attempt_at": "2026-10-26T08:11:18.447Z",
-   "last_success_at": "2026-10-26T08:11:18.447Z",
+   "last_attempt_at": "2026-11-16T18:51:27.436Z",
+   "last_success_at": "2026-11-16T18:51:27.436Z",
    "last_status": 200,
-   "last_week": "2026-W44",
+   "last_week": "2026-W47",
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
@@ -49693,6 +52033,19 @@
    "last_status": "redirect",
    "last_week": "2026-W45",
    "outcome": "failed",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "f1df92a3470f5207": {
+   "page_id": "f1df92a3470f5207",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-4",
+   "first_discovered_at": "2026-11-16T18:50:33.444Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -50414,6 +52767,19 @@
    "clean": null,
    "last_failed_week": null
   },
+  "f4b7c087c1b59032": {
+   "page_id": "f4b7c087c1b59032",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-22",
+   "first_discovered_at": "2026-11-16T18:50:33.445Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "f4cf221d63acfd10": {
    "page_id": "f4cf221d63acfd10",
    "url": "https://ncses.nsf.gov/pubs/nsb20204/table-link/S8-7",
@@ -50760,11 +53126,11 @@
    "page_id": "f67f31e790cc47dd",
    "url": "https://ncses.nsf.gov/pubs/nsb20212/data",
    "first_discovered_at": "2026-10-26T08:14:48.143Z",
-   "last_attempt_at": null,
-   "last_success_at": null,
-   "last_status": null,
-   "last_week": null,
-   "outcome": "never_scanned",
+   "last_attempt_at": "2026-11-16T18:51:08.707Z",
+   "last_success_at": "2026-11-16T18:51:08.707Z",
+   "last_status": 200,
+   "last_week": "2026-W47",
+   "outcome": "success",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -50986,11 +53352,11 @@
    "page_id": "f8085463ea82089d",
    "url": "https://ncses.nsf.gov/pubs/nsb20225/figure/RD-9",
    "first_discovered_at": "2026-11-15T07:48:56.080Z",
-   "last_attempt_at": null,
-   "last_success_at": null,
-   "last_status": null,
-   "last_week": null,
-   "outcome": "never_scanned",
+   "last_attempt_at": "2026-11-16T18:50:07.834Z",
+   "last_success_at": "2026-11-16T18:50:07.834Z",
+   "last_status": 200,
+   "last_week": "2026-W47",
+   "outcome": "success",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
@@ -51086,6 +53452,19 @@
    "fail_count": 0,
    "clean": false,
    "first_finding_at": "2026-11-02T13:53:08.264Z",
+   "last_failed_week": null
+  },
+  "f89295336d8c7f98": {
+   "page_id": "f89295336d8c7f98",
+   "url": "https://ncses.nsf.gov/pubs/nsb20212/table/SLBR-23",
+   "first_discovered_at": "2026-11-16T18:51:09.532Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
    "last_failed_week": null
   },
   "f899c41f38ec5ac0": {
@@ -52067,6 +54446,19 @@
    "clean": null,
    "last_failed_week": null
   },
+  "fc7f7787b70995ce": {
+   "page_id": "fc7f7787b70995ce",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/figure/INV-12",
+   "first_discovered_at": "2026-11-16T18:50:33.444Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
   "fca09a98a88d892c": {
    "page_id": "fca09a98a88d892c",
    "url": "https://ncses.nsf.gov/pubs/nsf20301/data-tables",
@@ -52142,6 +54534,19 @@
    "last_status": "redirect",
    "last_week": "2026-W46",
    "outcome": "failed",
+   "fail_count": 0,
+   "clean": null,
+   "last_failed_week": null
+  },
+  "fd159cdc1765b73a": {
+   "page_id": "fd159cdc1765b73a",
+   "url": "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-J",
+   "first_discovered_at": "2026-11-16T18:50:33.445Z",
+   "last_attempt_at": null,
+   "last_success_at": null,
+   "last_status": null,
+   "last_week": null,
+   "outcome": "never_scanned",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
