@@ -1,6 +1,6 @@
 {
  "domain": "seedfund.nsf.gov",
- "updatedAt": "2026-11-12T20:24:34.152Z",
+ "updatedAt": "2026-11-16T22:29:39.140Z",
  "links": {
   "https://relavomedical.com/": {
    "status": 0,
@@ -35,11 +35,12 @@
    "status": 500,
    "reason": "HTTP 500",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W46",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W46"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://seedfund.nsf.gov/showcase"
    ]
@@ -61,12 +62,14 @@
    "status": 0,
    "reason": "ERR_SSL_TLSV1_ALERT_INTERNAL_ERROR",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W43",
+   "lastSeen": "2026-W46",
    "_weeks": [
-    "2026-W43"
+    "2026-W43",
+    "2026-W46"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
+    "https://seedfund.nsf.gov/topics/super-intelligence-f",
     "https://seedfund.nsf.gov/showcase"
    ]
   },
@@ -102,22 +105,25 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W43",
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksBroken": 4,
+   "weeksBroken": 5,
    "foundOn": [
-    "https://seedfund.nsf.gov/centers/ceps/recycling-waste-coal-ash-promises-more-sustainable-concrete-materials",
     "https://seedfund.nsf.gov/centers/ceps/clean-low-energy-method-for-primary-magnesium-metal-production",
-    "https://seedfund.nsf.gov/centers/ceps/liquid-metal-based-thermal-interface-materials-keep-microelectronics-cool",
     "https://seedfund.nsf.gov/centers/ceps/high-carotenoid-orange-corn-promises-nutritional-enhancement",
+    "https://seedfund.nsf.gov/centers/ceps/new-firefighting-nozzles-suppress-wildfires-more-quickly",
+    "https://seedfund.nsf.gov/centers/ceps/corn-zein-based-edible-coatings-reduce-fresh-produce-waste",
     "https://seedfund.nsf.gov/centers/ceps/producing-green-iron-with-a-zero-carbon-electrochemical-process",
     "https://seedfund.nsf.gov/centers/ceps/novel-aerogel-based-insulation-may-transform-building-efficiency",
-    "https://seedfund.nsf.gov/centers/ceps/corn-zein-based-edible-coatings-reduce-fresh-produce-waste"
+    "https://seedfund.nsf.gov/centers/ceps/biopreservation-material-could-end-the-wait-for-organ-transplants",
+    "https://seedfund.nsf.gov/centers/ceps/low-cost-one-step-production-of-solar-silicon-from-natural-quartzite",
+    "https://seedfund.nsf.gov/centers/ceps/novel-rnai-technology-targets-leading-global-crop-pest"
    ]
   },
   "http://www.pcka.com/": {
@@ -168,13 +174,14 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W43",
     "2026-W44",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksBroken": 3,
+   "weeksBroken": 4,
    "foundOn": [
     "https://seedfund.nsf.gov/press"
    ]
@@ -183,13 +190,14 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W43",
     "2026-W44",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksBroken": 3,
+   "weeksBroken": 4,
    "foundOn": [
     "https://seedfund.nsf.gov/press"
    ]
@@ -212,15 +220,15 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
     "2026-W43",
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
-    "https://seedfund.nsf.gov/styleguide/typography",
-    "https://seedfund.nsf.gov/styleguide/colors"
+    "https://seedfund.nsf.gov/styleguide/typography"
    ]
   },
   "https://iperf.asee.org/": {
@@ -561,12 +569,13 @@
    "status": 0,
    "reason": "ENOTFOUND",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
     "https://seedfund.nsf.gov/styleguide/typography"
    ]
@@ -575,11 +584,12 @@
    "status": 0,
    "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W47",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W47"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://seedfund.nsf.gov/awardees/history/details?company=solarid-ar-llc"
    ]
@@ -724,11 +734,13 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W47",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 3,
    "foundOn": [
     "https://seedfund.nsf.gov/portfolio/details?company=glauconix-inc"
    ]
@@ -752,11 +764,12 @@
    "status": 0,
    "reason": "ENOTFOUND",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W47",
    "_weeks": [
-    "2026-W45"
+    "2026-W45",
+    "2026-W47"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://seedfund.nsf.gov/portfolio/details?company=imagen-energy-llc"
    ]
@@ -804,11 +817,12 @@
    "status": 503,
    "reason": "HTTP 503",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://seedfund.nsf.gov/portfolio/details?company=yesse-technologies-inc"
    ]
@@ -896,11 +910,12 @@
    "status": 0,
    "reason": "ENOTFOUND",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://seedfund.nsf.gov/styleguide/typography"
    ]
@@ -948,11 +963,12 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W47",
    "_weeks": [
-    "2026-W45"
+    "2026-W45",
+    "2026-W47"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://seedfund.nsf.gov/news/slooh"
    ]
@@ -974,14 +990,16 @@
    "status": 0,
    "reason": "EAI_AGAIN",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
-    "https://seedfund.nsf.gov/portfolio/details?company=cypris-materials-inc"
+    "https://seedfund.nsf.gov/portfolio/details?company=cypris-materials-inc",
+    "https://seedfund.nsf.gov/awardees/history/details?company=cypris-materials-inc"
    ]
   },
   "https://seedfund.nsf.gov/apply/project-pitch/": {
@@ -1002,12 +1020,13 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
     "https://seedfund.nsf.gov/events"
    ]
@@ -1029,11 +1048,12 @@
    "status": 0,
    "reason": "ERR_SSL_TLSV1_ALERT_INTERNAL_ERROR",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W47",
    "_weeks": [
-    "2026-W45"
+    "2026-W45",
+    "2026-W47"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://seedfund.nsf.gov/news/exostellar"
    ]
@@ -1151,11 +1171,12 @@
    "status": 0,
    "reason": "ERR_HTTP2_STREAM_ERROR",
    "firstSeen": "2026-W46",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://seedfund.nsf.gov/news/croptix"
    ]
@@ -1236,6 +1257,46 @@
    "weeksBroken": 1,
    "foundOn": [
     "https://seedfund.nsf.gov/awardees/history/details?company=lambdavision-inc"
+   ]
+  },
+  "https://biztucson.com/tucson-startup-paramium-technologies-secures-1-million-federal-innovation-grant/": {
+   "status": 0,
+   "reason": "ERR_SSL_TLSV1_ALERT_INTERNAL_ERROR",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W46",
+    "2026-W47"
+   ],
+   "weeksBroken": 2,
+   "foundOn": [
+    "https://seedfund.nsf.gov/news/paramium-technologies"
+   ]
+  },
+  "https://valencell.com/": {
+   "status": 0,
+   "reason": "ENOTFOUND",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/news/valencell"
+   ]
+  },
+  "https://www.businesswire.com/news/home/20230119005230/en/NEXT-Energy-Technologies-Installs-Energy-Generating-Windows-on-Outdoor-Retailer-Patagonia%E2%80%99s-Headquarters": {
+   "status": 0,
+   "reason": "ERR_HTTP2_STREAM_ERROR",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/news/next"
    ]
   }
  }

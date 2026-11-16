@@ -1,6 +1,6 @@
 {
  "domain": "ncses.nsf.gov",
- "updatedAt": "2026-11-09T22:41:05.332Z",
+ "updatedAt": "2026-11-16T22:29:37.961Z",
  "links": {
   "http://ncses.nsf.gov/pubs/nsf23300/": {
    "status": 0,
@@ -996,18 +996,20 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksBroken": 3,
+   "weeksBroken": 4,
    "foundOn": [
-    "https://ncses.nsf.gov/pubs/nsb20204/supplemental-tables",
-    "https://ncses.nsf.gov/pubs/nsb20224/table/SINV-2",
-    "https://ncses.nsf.gov/pubs/nsb20224/table/SINV-91",
-    "https://ncses.nsf.gov/pubs/nsb20262"
+    "https://ncses.nsf.gov/pubs/nsb20224/table/SINV-32",
+    "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-C",
+    "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-43",
+    "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-20",
+    "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-23"
    ]
   },
   "http://ncses.nsf.gov/search?aois=STEM+Education&query=&topics=Family+Characteristics": {
@@ -2432,6 +2434,153 @@
    "weeksBroken": 1,
    "foundOn": [
     "https://ncses.nsf.gov/pubs/nsb20204/supplemental-tables"
+   ]
+  },
+  "https://ncsesdata.nsf.gov/rdas/": {
+   "status": 502,
+   "reason": "HTTP 502",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsf22300/table/30",
+    "https://ncses.nsf.gov/pubs/nsf22300/survey-description"
+   ]
+  },
+  "https://www.ice.gov/doclib/sevis/pdf/sevisBTN2022.pdf": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsf24320"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsb20224/table/SINV-16": {
+   "status": 0,
+   "reason": "UND_ERR_CONNECT_TIMEOUT",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20224/table/SINV-32"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsb20224/table/SINV-23": {
+   "status": 0,
+   "reason": "UND_ERR_CONNECT_TIMEOUT",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20224/table/SINV-32"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsb20206/table-link/S5a-31": {
+   "status": 0,
+   "reason": "UND_ERR_CONNECT_TIMEOUT",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20206/supplemental-tables"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsf23315/": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb202332/sidebar/revisions-to-classification-of-ipeds-degree-data-under-the-ncses-taxonomy-of-disciplines"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsf24311/assets/data-tables/tables/nsf24311-tab030.pdf": {
+   "status": 0,
+   "reason": "UND_ERR_CONNECT_TIMEOUT",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/surveys/federal-support-survey/2021"
+   ]
+  },
+  "https://www.nasdaq.com/market-activity/stocks/screener": {
+   "status": 0,
+   "reason": "ERR_HTTP2_STREAM_ERROR",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsbsep20261/references"
+   ]
+  },
+  "http://www-stat.wharton.upenn.edu/~lbrown/Papers/2014i%20JSM%20Proceedings%20-%20CNSTAT%20review%20of%20federal%20surveys%20-%20final.pdf": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/ncses25221"
+   ]
+  },
+  "https://jp.pr.gov/ingreso-y-producto-2/": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/indicators/states/downloads"
+   ]
+  },
+  "https://bulkdata.uspto.gov/": {
+   "status": 0,
+   "reason": "ENOTFOUND",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-C",
+    "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-43",
+    "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-20",
+    "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-23"
    ]
   }
  }
