@@ -1,0 +1,160 @@
+{
+ "runId": "2026-11-16T14-01-36-719Z-347f4f",
+ "week": "2026-W47",
+ "domain": "iucrc.nsf.gov",
+ "canonical": {
+  "origin": "https://iucrc.nsf.gov",
+  "configured": "https://iucrc.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-16T14:01:37.286Z",
+ "scanned": [
+  "9a03c2a541822b26",
+  "f4dde08c846d9326",
+  "d1e2a88f1b0090b9",
+  "789090050aa8462a",
+  "c4c0f4f61b09a8b5",
+  "530f658744e31525",
+  "b316c4fe06fe4692",
+  "7bf418d9c009a882",
+  "564d4a83757398b7",
+  "30441429fed56555",
+  "de364a3e0dd075e5",
+  "7697a5f0d56621a1",
+  "308e0488f8896ccc",
+  "38a755bc087a46e3",
+  "b8cc7a0997ef8184",
+  "9a7ea8a56b872626",
+  "3ce1d8da3b2f7243",
+  "b6a909f18c16548e",
+  "a565d36ae70a47eb",
+  "4f01deb779cf6e3d",
+  "fecaa8c89d20c88c",
+  "b7edaba4fd0950e5",
+  "132bd42e74987681",
+  "6fb1400e2198563c",
+  "08f8222fbe092ac3"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 183,
+  "checked": 183,
+  "brokenCount": 7,
+  "broken": [
+   {
+    "url": "https://www.amd.com/en.html",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-advanced-semiconductor-chips-with-accelerated-performance"
+    ]
+   },
+   {
+    "url": "https://asap.mntl.illinois.edu/",
+    "status": 0,
+    "reason": "CERT_HAS_EXPIRED",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-advanced-semiconductor-chips-with-accelerated-performance"
+    ]
+   },
+   {
+    "url": "https://www.eaton.com/us/en-us.html",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/grid-connected-advanced-power-electronic-systems"
+    ]
+   },
+   {
+    "url": "https://www.cimsepp.org/",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-integrated-material-science-and-engineering-of-pharmaceutical-products-cimsepp"
+    ]
+   },
+   {
+    "url": "http://www.netcentric.cse.unt.edu/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/net-centric-and-cloud-software-and-system"
+    ]
+   },
+   {
+    "url": "http://www.sabic.com/en/products/specialties",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-dielectrics-and-piezoelectrics"
+    ]
+   },
+   {
+    "url": "http://www.samsungsem.com/global/index.do",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-dielectrics-and-piezoelectrics"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 22,
+  "alfa": 10,
+  "plain-language": 14,
+  "resources": 22,
+  "images": 22,
+  "security": 2,
+  "third-party": 8,
+  "lighthouse": 1,
+  "link-check": 22,
+  "sustainability": 2,
+  "standards": 13,
+  "tech": 3,
+  "public-interest": 1
+ },
+ "tally": {
+  "ok": 22,
+  "blocked": 3,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-16T14:04:06.174Z"
+}
