@@ -1,59 +1,63 @@
 {
  "schema_version": 1,
  "domain": "par.nsf.gov",
- "updated_at": "2026-11-15T02:04:44.738Z",
+ "updated_at": "2026-11-16T11:02:08.983Z",
  "urls": {
   "399fb195bc15a6e7": {
    "page_id": "399fb195bc15a6e7",
    "url": "https://par.nsf.gov/services",
    "first_discovered_at": "2026-10-26T08:11:01.253Z",
-   "last_attempt_at": "2026-11-09T11:22:27.260Z",
-   "last_success_at": "2026-11-09T11:22:27.260Z",
+   "last_attempt_at": "2026-11-16T11:01:57.719Z",
+   "last_success_at": "2026-11-16T11:01:57.719Z",
    "last_status": 200,
-   "last_week": "2026-W46",
+   "last_week": "2026-W47",
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T08:11:01.253Z"
+   "first_finding_at": "2026-10-26T08:11:01.253Z",
+   "last_failed_week": null
   },
   "5e519069901e876c": {
    "page_id": "5e519069901e876c",
    "url": "https://par.nsf.gov/faq",
    "first_discovered_at": "2026-10-26T08:11:39.395Z",
-   "last_attempt_at": "2026-11-09T11:22:12.996Z",
-   "last_success_at": "2026-11-09T11:22:12.996Z",
+   "last_attempt_at": "2026-11-16T11:01:52.659Z",
+   "last_success_at": "2026-11-16T11:01:52.659Z",
    "last_status": 200,
-   "last_week": "2026-W46",
+   "last_week": "2026-W47",
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T08:11:39.395Z"
+   "first_finding_at": "2026-10-26T08:11:39.395Z",
+   "last_failed_week": null
   },
   "da7b13ee31d434d9": {
    "page_id": "da7b13ee31d434d9",
    "url": "https://par.nsf.gov/contact",
    "first_discovered_at": "2026-10-26T08:11:34.866Z",
-   "last_attempt_at": "2026-11-09T11:22:41.480Z",
-   "last_success_at": "2026-11-09T11:22:41.480Z",
+   "last_attempt_at": "2026-11-16T11:01:48.165Z",
+   "last_success_at": "2026-11-16T11:01:48.165Z",
    "last_status": 200,
-   "last_week": "2026-W46",
+   "last_week": "2026-W47",
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T08:11:34.866Z"
+   "first_finding_at": "2026-10-26T08:11:34.866Z",
+   "last_failed_week": null
   },
   "ede606c6e2d93f43": {
    "page_id": "ede606c6e2d93f43",
    "url": "https://par.nsf.gov/",
    "first_discovered_at": "2026-10-26T08:11:15.668Z",
-   "last_attempt_at": "2026-11-09T11:21:58.589Z",
-   "last_success_at": "2026-11-09T11:21:58.589Z",
+   "last_attempt_at": "2026-11-16T11:02:02.759Z",
+   "last_success_at": "2026-11-16T11:02:02.759Z",
    "last_status": 200,
-   "last_week": "2026-W46",
+   "last_week": "2026-W47",
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T08:11:15.668Z"
+   "first_finding_at": "2026-10-26T08:11:15.668Z",
+   "last_failed_week": null
   }
  }
 }
