@@ -1,0 +1,142 @@
+{
+ "runId": "2026-11-16T11-03-09-382Z-037ce6",
+ "week": "2026-W47",
+ "domain": "seedfund.nsf.gov",
+ "canonical": {
+  "origin": "https://seedfund.nsf.gov",
+  "configured": "https://seedfund.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-16T11:03:13.093Z",
+ "scanned": [
+  "6994a2e1239509b4",
+  "6a459802d03748da",
+  "b7b9bfd209a3942c",
+  "64f7a0f73e048f2e",
+  "0509f3dbf94816ee",
+  "692da0ea4e3a1553",
+  "38e6ae7f22679539",
+  "89e36f25cb83a970",
+  "6a1162639a31f716",
+  "bec232ab46fb226d",
+  "97c83261c135c5ce",
+  "a9d04c3ee1463def",
+  "64b8f53d5d20fb29",
+  "0b808d1a46fe247f",
+  "dfc449f062062d99",
+  "a5bea7c6601149db",
+  "5971b5ab0df7dac9",
+  "e2e4e70929a07f0e",
+  "e6a41ca7108e033a",
+  "f87b2fdd6787fef2",
+  "803a495916e4868b",
+  "4c128719231d481b",
+  "5dedacf10bc3aa78",
+  "793379d2b7254c80"
+ ],
+ "errors": [
+  {
+   "pageId": "aad1d9cec52b0989",
+   "url": "https://seedfund.nsf.gov/fastlane/form-prep-2",
+   "error": "TimeoutError: page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://seedfund.nsf.gov/fastlane/form-prep-2\", waiting until \"load\"\n"
+  }
+ ],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 110,
+  "checked": 110,
+  "brokenCount": 4,
+  "broken": [
+   {
+    "url": "https://www.businesswire.com/news/home/20230612899704/en/AgTech-Plant-Health-Startup-Croptix-Announces-Milestone-Investment-Led-by-Advancing-Eco-Agriculture-AEA",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://seedfund.nsf.gov/news/croptix"
+    ]
+   },
+   {
+    "url": "https://valencell.com/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://seedfund.nsf.gov/news/valencell"
+    ]
+   },
+   {
+    "url": "https://seedfund.nsf.gov/centers/focus-area/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://seedfund.nsf.gov/centers/ceps/clean-low-energy-method-for-primary-magnesium-metal-production"
+    ]
+   },
+   {
+    "url": "https://techconnect.org/2026-sbir-sttr-fall-innovation-conference/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://seedfund.nsf.gov/events"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 24,
+  "resources": 24,
+  "images": 24,
+  "standards": 10,
+  "link-check": 24,
+  "plain-language": 9,
+  "third-party": 6,
+  "alfa": 9,
+  "sustainability": 2,
+  "deprecated-html": 4,
+  "tech": 2,
+  "lighthouse": 2,
+  "public-interest": 3,
+  "security": 1
+ },
+ "tally": {
+  "ok": 24,
+  "blocked": 0,
+  "timeout": 1,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-16T11:06:19.808Z"
+}
