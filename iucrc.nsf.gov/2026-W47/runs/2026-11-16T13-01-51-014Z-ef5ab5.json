@@ -1,0 +1,201 @@
+{
+ "runId": "2026-11-16T13-01-51-014Z-ef5ab5",
+ "week": "2026-W47",
+ "domain": "iucrc.nsf.gov",
+ "canonical": {
+  "origin": "https://iucrc.nsf.gov",
+  "configured": "https://iucrc.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-16T13:01:55.206Z",
+ "scanned": [
+  "168c1a3ae2f575fd",
+  "aae5682a223b2c9a",
+  "3ad78267446e8799",
+  "ed854310377f66f4",
+  "d797819d7f930736",
+  "fd727701f775e846",
+  "e09249c1fb565a55",
+  "49e1576645851fcb",
+  "fd3793de8ca957a1",
+  "ecbf06e1359c4235",
+  "aff84d2f5d0bb447",
+  "7b58fe8616bcde64",
+  "e660082b7b357ab8",
+  "3e51345c637ceb65",
+  "cf7b4444741bbb04",
+  "9fea7791b8d00689",
+  "d271b2cdf5b82275",
+  "5bebca62896e5dd1",
+  "133b1c33eaf2c712",
+  "b59c09ecf5355ffb",
+  "7bf7cc327b0ac966",
+  "b36c2ef821ca30d5",
+  "07a649197d8cebed",
+  "7ced58e1fe57f5b5",
+  "5fa8a82255c752a0"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 232,
+  "checked": 232,
+  "brokenCount": 12,
+  "broken": [
+   {
+    "url": "https://www.lockheedmartin.com/en-us/index.html",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-wireless-innovation-towards-secure-pervasive-efficient-and-resilient-next-g-networks-wisper",
+     "https://iucrc.nsf.gov/centers/electronic-photonic-integrated-circuits-for-aerospace-epica"
+    ]
+   },
+   {
+    "url": "https://getcruise.com/",
+    "status": 0,
+    "reason": "CERT_HAS_EXPIRED",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/efficient-vehicles-and-sustainable-transportation-systems"
+    ]
+   },
+   {
+    "url": "http://sibs.uncc.edu/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/sustainably-integrated-buildings-and-sites"
+    ]
+   },
+   {
+    "url": "https://iucrc.nsf.gov/centers/center-on-pervasive-personalized-intelligence-ppi/intel.com",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-on-pervasive-personalized-intelligence-ppi"
+    ]
+   },
+   {
+    "url": "https://iucrc.nsf.gov/centers/center-on-pervasive-personalized-intelligence-ppi/nec.com",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-on-pervasive-personalized-intelligence-ppi"
+    ]
+   },
+   {
+    "url": "http://nsfcbl.ai/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-big-data-learning"
+    ]
+   },
+   {
+    "url": "https://iucrc.nsf.gov/centers/center-for-big-data-learning/adobe.com",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-big-data-learning"
+    ]
+   },
+   {
+    "url": "https://iucrc.nsf.gov/centers/center-for-big-data-learning/atombeamtech.com",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-big-data-learning"
+    ]
+   },
+   {
+    "url": "https://iucrc.nsf.gov/centers/center-for-big-data-learning/deadsetbit.com",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-big-data-learning"
+    ]
+   },
+   {
+    "url": "https://iucrc.nsf.gov/centers/center-for-big-data-learning/etri.re.kr",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-big-data-learning"
+    ]
+   },
+   {
+    "url": "https://iucrc.nsf.gov/centers/center-for-big-data-learning/l3harris.com",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-big-data-learning"
+    ]
+   },
+   {
+    "url": "https://iucrc.nsf.gov/centers/center-for-big-data-learning/qualcomm.com",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-big-data-learning"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 25,
+  "alfa": 14,
+  "plain-language": 13,
+  "deprecated-html": 4,
+  "resources": 25,
+  "images": 25,
+  "lighthouse": 2,
+  "link-check": 25,
+  "standards": 14,
+  "security": 4,
+  "tech": 2,
+  "third-party": 5,
+  "public-interest": 1
+ },
+ "tally": {
+  "ok": 25,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-16T13:04:50.936Z"
+}
