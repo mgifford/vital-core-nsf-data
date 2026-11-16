@@ -1,0 +1,161 @@
+{
+ "runId": "2026-11-16T11-01-32-311Z-1586fc",
+ "week": "2026-W47",
+ "domain": "iucrc.nsf.gov",
+ "canonical": {
+  "origin": "https://iucrc.nsf.gov",
+  "configured": "https://iucrc.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-16T11:01:35.432Z",
+ "scanned": [
+  "ad034b126e9a66e5",
+  "93c5c45605765a61",
+  "bf2665a589266a3b",
+  "51be754c54945aeb",
+  "52199e0571675d7a",
+  "bee365b4398b4981",
+  "6fcb309ae5c223d9",
+  "102f751138d824f0",
+  "3d60f0b7dd49562d",
+  "9875de95a5dee0fb",
+  "176258857eaa3b63",
+  "381a2a3c45b50df8",
+  "6445828a57a60e5f",
+  "8a2ac1988ac01f59",
+  "164e830557062c08",
+  "d1a71ad17c2cbde1",
+  "a2a6e3792e818890",
+  "3681aec2dae9fcce",
+  "9de9dab646bde450",
+  "aa3335b6ac950ef7",
+  "89aeca6c9b3a7051",
+  "05bfc5d7f5d7a8fe",
+  "8da37a7b0875a26e",
+  "aec13f12aba374a4",
+  "681e71c352c6327d"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 339,
+  "checked": 339,
+  "brokenCount": 7,
+  "broken": [
+   {
+    "url": "http://www.janssen.com/",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/advanced-mammalian-biomanufacturing-innovation-center"
+    ]
+   },
+   {
+    "url": "https://iucrc.nsf.gov/centers/center-for-research-in-systems-and-storage-crss",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers?foc=&prifoc=0&sta=&uni="
+    ]
+   },
+   {
+    "url": "https://iucrc.nsf.gov/centers/center-for-electric-connected-and-autonomous-technologies-for-mobility-ecat",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers?foc=&prifoc=0&sta=&uni="
+    ]
+   },
+   {
+    "url": "https://iucrc.nsf.gov/centers/center-for-soil-technologies-soiltech",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers?foc=&prifoc=0&sta=&uni=",
+     "https://iucrc.nsf.gov/centers/focus-area/energy-and-environment/page/4"
+    ]
+   },
+   {
+    "url": "https://www.eaton.com/",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-infrastructure-trustworthiness-in-energy-systems-cites"
+    ]
+   },
+   {
+    "url": "https://ac.ccdc.army.mil/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/atomically-thin-multifunctional-coatings"
+    ]
+   },
+   {
+    "url": "https://www.analog.com/en/index.html",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/integrated-power-management-circuits-and-systems---power-one-ic"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 23,
+  "alfa": 14,
+  "resources": 23,
+  "images": 23,
+  "tech": 5,
+  "lighthouse": 5,
+  "link-check": 23,
+  "plain-language": 12,
+  "third-party": 6,
+  "standards": 5,
+  "public-interest": 2,
+  "deprecated-html": 1,
+  "security": 1
+ },
+ "tally": {
+  "ok": 23,
+  "blocked": 2,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 1,
+  "error": 0
+ },
+ "finishedAt": "2026-11-16T11:04:53.737Z"
+}

@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
  "domain": "iucrc.nsf.gov",
- "updated_at": "2026-11-15T02:04:46.902Z",
+ "updated_at": "2026-11-16T11:04:53.746Z",
  "urls": {
   "002fef63abed1048": {
    "page_id": "002fef63abed1048",
@@ -13,7 +13,8 @@
    "last_week": "2026-W46",
    "outcome": "failed",
    "fail_count": 0,
-   "clean": null
+   "clean": null,
+   "last_failed_week": null
   },
   "00f75ff96e970346": {
    "page_id": "00f75ff96e970346",
@@ -26,7 +27,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T16:21:55.191Z"
+   "first_finding_at": "2026-10-26T16:21:55.191Z",
+   "last_failed_week": null
   },
   "01ff38c2a829ed27": {
    "page_id": "01ff38c2a829ed27",
@@ -39,7 +41,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T14:12:19.432Z"
+   "first_finding_at": "2026-10-26T14:12:19.432Z",
+   "last_failed_week": null
   },
   "037d92303430ffaa": {
    "page_id": "037d92303430ffaa",
@@ -52,7 +55,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-11-09T11:22:13.792Z"
+   "first_finding_at": "2026-11-09T11:22:13.792Z",
+   "last_failed_week": null
   },
   "03c01f86d677fbd6": {
    "page_id": "03c01f86d677fbd6",
@@ -65,20 +69,22 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T14:11:29.883Z"
+   "first_finding_at": "2026-10-26T14:11:29.883Z",
+   "last_failed_week": null
   },
   "05bfc5d7f5d7a8fe": {
    "page_id": "05bfc5d7f5d7a8fe",
    "url": "https://iucrc.nsf.gov/",
    "first_discovered_at": "2026-10-26T14:11:34.307Z",
-   "last_attempt_at": "2026-11-09T19:04:05.781Z",
-   "last_success_at": "2026-11-09T19:04:05.781Z",
+   "last_attempt_at": "2026-11-16T11:03:58.247Z",
+   "last_success_at": "2026-11-16T11:03:58.247Z",
    "last_status": 200,
-   "last_week": "2026-W46",
+   "last_week": "2026-W47",
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T14:11:34.307Z"
+   "first_finding_at": "2026-10-26T14:11:34.307Z",
+   "last_failed_week": null
   },
   "07a649197d8cebed": {
    "page_id": "07a649197d8cebed",
@@ -91,7 +97,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T08:49:20.507Z"
+   "first_finding_at": "2026-10-26T08:49:20.507Z",
+   "last_failed_week": null
   },
   "08f8222fbe092ac3": {
    "page_id": "08f8222fbe092ac3",
@@ -104,7 +111,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-27T08:55:56.601Z"
+   "first_finding_at": "2026-10-27T08:55:56.601Z",
+   "last_failed_week": null
   },
   "0a5d30089e6af363": {
    "page_id": "0a5d30089e6af363",
@@ -117,7 +125,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T14:11:40.272Z"
+   "first_finding_at": "2026-10-26T14:11:40.272Z",
+   "last_failed_week": null
   },
   "0da3104d764bd171": {
    "page_id": "0da3104d764bd171",
@@ -130,7 +139,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-27T09:59:17.425Z"
+   "first_finding_at": "2026-10-27T09:59:17.425Z",
+   "last_failed_week": null
   },
   "0f3dbacf5c96e38e": {
    "page_id": "0f3dbacf5c96e38e",
@@ -143,20 +153,22 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T15:32:46.443Z"
+   "first_finding_at": "2026-10-26T15:32:46.443Z",
+   "last_failed_week": null
   },
   "102f751138d824f0": {
    "page_id": "102f751138d824f0",
    "url": "https://iucrc.nsf.gov/centers/achievements/novel-palladium-graphene-catalysts",
    "first_discovered_at": "2026-10-26T14:12:06.277Z",
-   "last_attempt_at": "2026-11-10T13:47:55.976Z",
-   "last_success_at": "2026-11-10T13:47:55.976Z",
+   "last_attempt_at": "2026-11-16T11:02:38.308Z",
+   "last_success_at": "2026-11-16T11:02:38.308Z",
    "last_status": 200,
-   "last_week": "2026-W46",
+   "last_week": "2026-W47",
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T14:12:06.277Z"
+   "first_finding_at": "2026-10-26T14:12:06.277Z",
+   "last_failed_week": null
   },
   "1290634836381462": {
    "page_id": "1290634836381462",
@@ -169,7 +181,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T14:11:11.964Z"
+   "first_finding_at": "2026-10-26T14:11:11.964Z",
+   "last_failed_week": null
   },
   "12d33aa143cda61d": {
    "page_id": "12d33aa143cda61d",
@@ -182,7 +195,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T10:23:38.174Z"
+   "first_finding_at": "2026-10-26T10:23:38.174Z",
+   "last_failed_week": null
   },
   "132bd42e74987681": {
    "page_id": "132bd42e74987681",
@@ -195,7 +209,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T14:11:20.879Z"
+   "first_finding_at": "2026-10-26T14:11:20.879Z",
+   "last_failed_week": null
   },
   "133b1c33eaf2c712": {
    "page_id": "133b1c33eaf2c712",
@@ -208,7 +223,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T11:46:17.665Z"
+   "first_finding_at": "2026-10-26T11:46:17.665Z",
+   "last_failed_week": null
   },
   "15da606d5e971918": {
    "page_id": "15da606d5e971918",
@@ -221,20 +237,22 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-27T08:54:39.387Z"
+   "first_finding_at": "2026-10-27T08:54:39.387Z",
+   "last_failed_week": null
   },
   "164e830557062c08": {
    "page_id": "164e830557062c08",
    "url": "https://iucrc.nsf.gov/universities/solicitation/annual-report-instructions",
    "first_discovered_at": "2026-10-26T11:46:46.240Z",
-   "last_attempt_at": "2026-11-10T15:34:17.471Z",
-   "last_success_at": "2026-11-10T15:34:17.471Z",
+   "last_attempt_at": "2026-11-16T11:03:12.607Z",
+   "last_success_at": "2026-11-16T11:03:12.607Z",
    "last_status": 200,
-   "last_week": "2026-W46",
+   "last_week": "2026-W47",
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T11:46:46.240Z"
+   "first_finding_at": "2026-10-26T11:46:46.240Z",
+   "last_failed_week": null
   },
   "168c1a3ae2f575fd": {
    "page_id": "168c1a3ae2f575fd",
@@ -247,7 +265,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T08:50:32.289Z"
+   "first_finding_at": "2026-10-26T08:50:32.289Z",
+   "last_failed_week": null
   },
   "168cc649b810bb38": {
    "page_id": "168cc649b810bb38",
@@ -260,20 +279,22 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T15:30:26.207Z"
+   "first_finding_at": "2026-10-26T15:30:26.207Z",
+   "last_failed_week": null
   },
   "176258857eaa3b63": {
    "page_id": "176258857eaa3b63",
    "url": "https://iucrc.nsf.gov/centers/atomically-thin-multifunctional-coatings",
    "first_discovered_at": "2026-10-27T08:54:44.061Z",
-   "last_attempt_at": "2026-11-09T20:09:12.847Z",
-   "last_success_at": "2026-11-09T20:09:12.847Z",
+   "last_attempt_at": "2026-11-16T11:02:54.010Z",
+   "last_success_at": "2026-11-16T11:02:54.010Z",
    "last_status": 200,
-   "last_week": "2026-W46",
+   "last_week": "2026-W47",
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-27T08:54:44.061Z"
+   "first_finding_at": "2026-10-27T08:54:44.061Z",
+   "last_failed_week": null
   },
   "1969de495e88916a": {
    "page_id": "1969de495e88916a",
@@ -286,7 +307,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-27T09:58:35.699Z"
+   "first_finding_at": "2026-10-27T09:58:35.699Z",
+   "last_failed_week": null
   },
   "1a16a9d61a9470fd": {
    "page_id": "1a16a9d61a9470fd",
@@ -299,7 +321,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-27T08:56:02.082Z"
+   "first_finding_at": "2026-10-27T08:56:02.082Z",
+   "last_failed_week": null
   },
   "1bb13e7e8794ec0e": {
    "page_id": "1bb13e7e8794ec0e",
@@ -311,7 +334,8 @@
    "last_week": "2026-W46",
    "outcome": "failed",
    "fail_count": 0,
-   "clean": null
+   "clean": null,
+   "last_failed_week": null
   },
   "1c7bd59cf1ba69af": {
    "page_id": "1c7bd59cf1ba69af",
@@ -323,7 +347,8 @@
    "last_week": "2026-W46",
    "outcome": "failed",
    "fail_count": 0,
-   "clean": null
+   "clean": null,
+   "last_failed_week": null
   },
   "1d474bbbcc2f3e78": {
    "page_id": "1d474bbbcc2f3e78",
@@ -336,7 +361,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T08:50:24.005Z"
+   "first_finding_at": "2026-10-26T08:50:24.005Z",
+   "last_failed_week": null
   },
   "1de555a04b0a8378": {
    "page_id": "1de555a04b0a8378",
@@ -349,7 +375,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T16:21:02.361Z"
+   "first_finding_at": "2026-10-26T16:21:02.361Z",
+   "last_failed_week": null
   },
   "1e875ad20189815f": {
    "page_id": "1e875ad20189815f",
@@ -362,7 +389,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-27T08:55:51.512Z"
+   "first_finding_at": "2026-10-27T08:55:51.512Z",
+   "last_failed_week": null
   },
   "1eccc4e47ef6db61": {
    "page_id": "1eccc4e47ef6db61",
@@ -375,7 +403,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T15:32:16.325Z"
+   "first_finding_at": "2026-10-26T15:32:16.325Z",
+   "last_failed_week": null
   },
   "203d82ff99d62ae4": {
    "page_id": "203d82ff99d62ae4",
@@ -388,7 +417,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-27T08:55:28.786Z"
+   "first_finding_at": "2026-10-27T08:55:28.786Z",
+   "last_failed_week": null
   },
   "2114299063fcd666": {
    "page_id": "2114299063fcd666",
@@ -401,7 +431,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T16:22:35.650Z"
+   "first_finding_at": "2026-10-26T16:22:35.650Z",
+   "last_failed_week": null
   },
   "2510038527ab736a": {
    "page_id": "2510038527ab736a",
@@ -414,7 +445,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T11:46:32.406Z"
+   "first_finding_at": "2026-10-26T11:46:32.406Z",
+   "last_failed_week": null
   },
   "258566a29450b3b6": {
    "page_id": "258566a29450b3b6",
@@ -427,7 +459,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T08:51:05.916Z"
+   "first_finding_at": "2026-10-26T08:51:05.916Z",
+   "last_failed_week": null
   },
   "25e1eab0b5fe277b": {
    "page_id": "25e1eab0b5fe277b",
@@ -439,7 +472,8 @@
    "last_week": "2026-W46",
    "outcome": "failed",
    "fail_count": 0,
-   "clean": null
+   "clean": null,
+   "last_failed_week": null
   },
   "27180125c3161a59": {
    "page_id": "27180125c3161a59",
@@ -452,7 +486,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T08:11:03.235Z"
+   "first_finding_at": "2026-10-26T08:11:03.235Z",
+   "last_failed_week": null
   },
   "2a4bf47cd1d4243b": {
    "page_id": "2a4bf47cd1d4243b",
@@ -465,7 +500,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T11:47:26.365Z"
+   "first_finding_at": "2026-10-26T11:47:26.365Z",
+   "last_failed_week": null
   },
   "2cfa44ab869bef19": {
    "page_id": "2cfa44ab869bef19",
@@ -478,7 +514,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T11:46:23.107Z"
+   "first_finding_at": "2026-10-26T11:46:23.107Z",
+   "last_failed_week": null
   },
   "30441429fed56555": {
    "page_id": "30441429fed56555",
@@ -491,7 +528,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-27T09:59:08.728Z"
+   "first_finding_at": "2026-10-27T09:59:08.728Z",
+   "last_failed_week": null
   },
   "308e0488f8896ccc": {
    "page_id": "308e0488f8896ccc",
@@ -503,7 +541,8 @@
    "last_week": "2026-W46",
    "outcome": "failed",
    "fail_count": 0,
-   "clean": null
+   "clean": null,
+   "last_failed_week": null
   },
   "3373e1abfc8cbbca": {
    "page_id": "3373e1abfc8cbbca",
@@ -515,7 +554,8 @@
    "last_week": "2026-W46",
    "outcome": "failed",
    "fail_count": 0,
-   "clean": null
+   "clean": null,
+   "last_failed_week": null
   },
   "338c30990bfa1fdc": {
    "page_id": "338c30990bfa1fdc",
@@ -528,7 +568,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T08:12:15.947Z"
+   "first_finding_at": "2026-10-26T08:12:15.947Z",
+   "last_failed_week": null
   },
   "33ddf92e53c69627": {
    "page_id": "33ddf92e53c69627",
@@ -541,33 +582,36 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T08:12:39.992Z"
+   "first_finding_at": "2026-10-26T08:12:39.992Z",
+   "last_failed_week": null
   },
   "3681aec2dae9fcce": {
    "page_id": "3681aec2dae9fcce",
    "url": "https://iucrc.nsf.gov/centers/center-for-freeform-optics",
    "first_discovered_at": "2026-10-27T09:58:16.869Z",
-   "last_attempt_at": "2026-11-10T11:01:28.746Z",
-   "last_success_at": "2026-11-10T11:01:28.746Z",
+   "last_attempt_at": "2026-11-16T11:03:41.158Z",
+   "last_success_at": "2026-11-16T11:03:41.158Z",
    "last_status": 200,
-   "last_week": "2026-W46",
+   "last_week": "2026-W47",
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-27T09:58:16.869Z"
+   "first_finding_at": "2026-10-27T09:58:16.869Z",
+   "last_failed_week": null
   },
   "381a2a3c45b50df8": {
    "page_id": "381a2a3c45b50df8",
    "url": "https://iucrc.nsf.gov/centers/building-energy-smart-technologies-center-best",
    "first_discovered_at": "2026-10-26T14:10:47.830Z",
-   "last_attempt_at": "2026-11-09T11:22:09.582Z",
-   "last_success_at": "2026-11-09T11:22:09.582Z",
+   "last_attempt_at": "2026-11-16T11:02:58.614Z",
+   "last_success_at": "2026-11-16T11:02:58.614Z",
    "last_status": 200,
-   "last_week": "2026-W46",
+   "last_week": "2026-W47",
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T14:10:47.830Z"
+   "first_finding_at": "2026-10-26T14:10:47.830Z",
+   "last_failed_week": null
   },
   "38468354b72e05af": {
    "page_id": "38468354b72e05af",
@@ -580,7 +624,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T11:46:13.435Z"
+   "first_finding_at": "2026-10-26T11:46:13.435Z",
+   "last_failed_week": null
   },
   "38a755bc087a46e3": {
    "page_id": "38a755bc087a46e3",
@@ -593,7 +638,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T08:12:51.099Z"
+   "first_finding_at": "2026-10-26T08:12:51.099Z",
+   "last_failed_week": null
   },
   "3ad78267446e8799": {
    "page_id": "3ad78267446e8799",
@@ -606,7 +652,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T08:50:38.329Z"
+   "first_finding_at": "2026-10-26T08:50:38.329Z",
+   "last_failed_week": null
   },
   "3ce1d8da3b2f7243": {
    "page_id": "3ce1d8da3b2f7243",
@@ -619,7 +666,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T08:48:54.273Z"
+   "first_finding_at": "2026-10-26T08:48:54.273Z",
+   "last_failed_week": null
   },
   "3ce256bbb85ff714": {
    "page_id": "3ce256bbb85ff714",
@@ -632,20 +680,22 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T16:20:28.685Z"
+   "first_finding_at": "2026-10-26T16:20:28.685Z",
+   "last_failed_week": null
   },
   "3d60f0b7dd49562d": {
    "page_id": "3d60f0b7dd49562d",
    "url": "https://iucrc.nsf.gov/centers/alternative-sustainable-and-intelligent-computing",
    "first_discovered_at": "2026-10-26T10:24:45.746Z",
-   "last_attempt_at": "2026-11-09T11:23:11.455Z",
-   "last_success_at": "2026-11-09T11:23:11.455Z",
+   "last_attempt_at": "2026-11-16T11:02:42.729Z",
+   "last_success_at": "2026-11-16T11:02:42.729Z",
    "last_status": 200,
-   "last_week": "2026-W46",
+   "last_week": "2026-W47",
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T10:24:45.746Z"
+   "first_finding_at": "2026-10-26T10:24:45.746Z",
+   "last_failed_week": null
   },
   "3e51345c637ceb65": {
    "page_id": "3e51345c637ceb65",
@@ -658,7 +708,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T10:23:13.554Z"
+   "first_finding_at": "2026-10-26T10:23:13.554Z",
+   "last_failed_week": null
   },
   "3e94b76db756a7e4": {
    "page_id": "3e94b76db756a7e4",
@@ -671,7 +722,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T10:23:08.781Z"
+   "first_finding_at": "2026-10-26T10:23:08.781Z",
+   "last_failed_week": null
   },
   "3f548323a950c140": {
    "page_id": "3f548323a950c140",
@@ -683,7 +735,8 @@
    "last_week": "2026-W46",
    "outcome": "failed",
    "fail_count": 0,
-   "clean": null
+   "clean": null,
+   "last_failed_week": null
   },
   "420e3a390cda9835": {
    "page_id": "420e3a390cda9835",
@@ -696,7 +749,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T10:23:29.520Z"
+   "first_finding_at": "2026-10-26T10:23:29.520Z",
+   "last_failed_week": null
   },
   "4625dea4fd069df6": {
    "page_id": "4625dea4fd069df6",
@@ -709,7 +763,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T15:31:55.802Z"
+   "first_finding_at": "2026-10-26T15:31:55.802Z",
+   "last_failed_week": null
   },
   "47fb30f3fb860e81": {
    "page_id": "47fb30f3fb860e81",
@@ -722,7 +777,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T10:24:30.759Z"
+   "first_finding_at": "2026-10-26T10:24:30.759Z",
+   "last_failed_week": null
   },
   "497a931523aca590": {
    "page_id": "497a931523aca590",
@@ -735,7 +791,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T16:20:33.334Z"
+   "first_finding_at": "2026-10-26T16:20:33.334Z",
+   "last_failed_week": null
   },
   "49e1576645851fcb": {
    "page_id": "49e1576645851fcb",
@@ -748,7 +805,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T10:24:56.751Z"
+   "first_finding_at": "2026-10-26T10:24:56.751Z",
+   "last_failed_week": null
   },
   "4b178a1251662af9": {
    "page_id": "4b178a1251662af9",
@@ -761,7 +819,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T15:31:36.159Z"
+   "first_finding_at": "2026-10-26T15:31:36.159Z",
+   "last_failed_week": null
   },
   "4b97ce9ca0a4913d": {
    "page_id": "4b97ce9ca0a4913d",
@@ -774,7 +833,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T15:30:52.531Z"
+   "first_finding_at": "2026-10-26T15:30:52.531Z",
+   "last_failed_week": null
   },
   "4dde3ff038aa5b63": {
    "page_id": "4dde3ff038aa5b63",
@@ -787,7 +847,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T08:12:04.164Z"
+   "first_finding_at": "2026-10-26T08:12:04.164Z",
+   "last_failed_week": null
   },
   "4e68ab7eb740f12e": {
    "page_id": "4e68ab7eb740f12e",
@@ -800,7 +861,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T11:46:55.560Z"
+   "first_finding_at": "2026-10-26T11:46:55.560Z",
+   "last_failed_week": null
   },
   "4ee7f78f50c84454": {
    "page_id": "4ee7f78f50c84454",
@@ -813,7 +875,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T10:24:20.450Z"
+   "first_finding_at": "2026-10-26T10:24:20.450Z",
+   "last_failed_week": null
   },
   "4f01deb779cf6e3d": {
    "page_id": "4f01deb779cf6e3d",
@@ -826,20 +889,22 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T14:13:10.138Z"
+   "first_finding_at": "2026-10-26T14:13:10.138Z",
+   "last_failed_week": null
   },
   "51be754c54945aeb": {
    "page_id": "51be754c54945aeb",
    "url": "https://iucrc.nsf.gov/centers/advanced-mammalian-biomanufacturing-innovation-center",
    "first_discovered_at": "2026-10-27T08:55:24.506Z",
-   "last_attempt_at": "2026-11-10T11:01:34.347Z",
-   "last_success_at": "2026-11-10T11:01:34.347Z",
+   "last_attempt_at": "2026-11-16T11:02:05.947Z",
+   "last_success_at": "2026-11-16T11:02:05.947Z",
    "last_status": 200,
-   "last_week": "2026-W46",
+   "last_week": "2026-W47",
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-27T08:55:24.506Z"
+   "first_finding_at": "2026-10-27T08:55:24.506Z",
+   "last_failed_week": null
   },
   "51cd74f046078b10": {
    "page_id": "51cd74f046078b10",
@@ -852,20 +917,22 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T08:49:54.795Z"
+   "first_finding_at": "2026-10-26T08:49:54.795Z",
+   "last_failed_week": null
   },
   "52199e0571675d7a": {
    "page_id": "52199e0571675d7a",
    "url": "https://iucrc.nsf.gov/centers/achievements/solar-paper-powers-internet-of-things-devices",
    "first_discovered_at": "2026-10-27T09:58:08.273Z",
-   "last_attempt_at": "2026-11-09T20:08:45.669Z",
-   "last_success_at": "2026-11-09T20:08:45.669Z",
+   "last_attempt_at": "2026-11-16T11:02:09.958Z",
+   "last_success_at": "2026-11-16T11:02:09.958Z",
    "last_status": 200,
-   "last_week": "2026-W46",
+   "last_week": "2026-W47",
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-27T09:58:08.273Z"
+   "first_finding_at": "2026-10-27T09:58:08.273Z",
+   "last_failed_week": null
   },
   "530f658744e31525": {
    "page_id": "530f658744e31525",
@@ -878,7 +945,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T11:46:41.402Z"
+   "first_finding_at": "2026-10-26T11:46:41.402Z",
+   "last_failed_week": null
   },
   "53afd17962d23421": {
    "page_id": "53afd17962d23421",
@@ -891,7 +959,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T08:12:22.068Z"
+   "first_finding_at": "2026-10-26T08:12:22.068Z",
+   "last_failed_week": null
   },
   "553af46288df4349": {
    "page_id": "553af46288df4349",
@@ -904,7 +973,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T14:12:32.551Z"
+   "first_finding_at": "2026-10-26T14:12:32.551Z",
+   "last_failed_week": null
   },
   "564d4a83757398b7": {
    "page_id": "564d4a83757398b7",
@@ -917,7 +987,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-27T09:58:31.373Z"
+   "first_finding_at": "2026-10-27T09:58:31.373Z",
+   "last_failed_week": null
   },
   "5b0feb90a723e240": {
    "page_id": "5b0feb90a723e240",
@@ -930,7 +1001,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T10:23:02.462Z"
+   "first_finding_at": "2026-10-26T10:23:02.462Z",
+   "last_failed_week": null
   },
   "5b392bf77440b769": {
    "page_id": "5b392bf77440b769",
@@ -943,7 +1015,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T15:32:57.687Z"
+   "first_finding_at": "2026-10-26T15:32:57.687Z",
+   "last_failed_week": null
   },
   "5bebca62896e5dd1": {
    "page_id": "5bebca62896e5dd1",
@@ -956,7 +1029,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T15:32:01.086Z"
+   "first_finding_at": "2026-10-26T15:32:01.086Z",
+   "last_failed_week": null
   },
   "5c20e8c690445650": {
    "page_id": "5c20e8c690445650",
@@ -969,7 +1043,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-27T08:54:49.337Z"
+   "first_finding_at": "2026-10-27T08:54:49.337Z",
+   "last_failed_week": null
   },
   "5d0497bbe2e14c4a": {
    "page_id": "5d0497bbe2e14c4a",
@@ -981,7 +1056,8 @@
    "last_week": "2026-W46",
    "outcome": "failed",
    "fail_count": 0,
-   "clean": null
+   "clean": null,
+   "last_failed_week": null
   },
   "5f203d98fb8735bf": {
    "page_id": "5f203d98fb8735bf",
@@ -994,7 +1070,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-27T08:55:00.812Z"
+   "first_finding_at": "2026-10-27T08:55:00.812Z",
+   "last_failed_week": null
   },
   "5fa8a82255c752a0": {
    "page_id": "5fa8a82255c752a0",
@@ -1007,7 +1084,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T08:49:16.144Z"
+   "first_finding_at": "2026-10-26T08:49:16.144Z",
+   "last_failed_week": null
   },
   "609ac19d67117aa5": {
    "page_id": "609ac19d67117aa5",
@@ -1020,7 +1098,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T08:49:40.780Z"
+   "first_finding_at": "2026-10-26T08:49:40.780Z",
+   "last_failed_week": null
   },
   "60b512933bde72e6": {
    "page_id": "60b512933bde72e6",
@@ -1033,20 +1112,22 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T08:11:34.779Z"
+   "first_finding_at": "2026-10-26T08:11:34.779Z",
+   "last_failed_week": null
   },
   "6445828a57a60e5f": {
    "page_id": "6445828a57a60e5f",
    "url": "https://iucrc.nsf.gov/centers/center-for-infrastructure-trustworthiness-in-energy-systems-cites",
    "first_discovered_at": "2026-10-26T16:20:43.741Z",
-   "last_attempt_at": "2026-11-09T19:03:22.192Z",
-   "last_success_at": "2026-11-09T19:03:22.192Z",
+   "last_attempt_at": "2026-11-16T11:03:03.203Z",
+   "last_success_at": "2026-11-16T11:03:03.203Z",
    "last_status": 200,
-   "last_week": "2026-W46",
+   "last_week": "2026-W47",
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T16:20:43.741Z"
+   "first_finding_at": "2026-10-26T16:20:43.741Z",
+   "last_failed_week": null
   },
   "6482386a4c1660a4": {
    "page_id": "6482386a4c1660a4",
@@ -1059,7 +1140,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T08:11:39.998Z"
+   "first_finding_at": "2026-10-26T08:11:39.998Z",
+   "last_failed_week": null
   },
   "662f6d4953cd1c8a": {
    "page_id": "662f6d4953cd1c8a",
@@ -1072,7 +1154,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T10:25:24.071Z"
+   "first_finding_at": "2026-10-26T10:25:24.071Z",
+   "last_failed_week": null
   },
   "669039965070489c": {
    "page_id": "669039965070489c",
@@ -1085,7 +1168,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T14:10:54.147Z"
+   "first_finding_at": "2026-10-26T14:10:54.147Z",
+   "last_failed_week": null
   },
   "675bd0f705d85ad8": {
    "page_id": "675bd0f705d85ad8",
@@ -1098,20 +1182,22 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-27T08:55:19.390Z"
+   "first_finding_at": "2026-10-27T08:55:19.390Z",
+   "last_failed_week": null
   },
   "681e71c352c6327d": {
    "page_id": "681e71c352c6327d",
    "url": "https://iucrc.nsf.gov/centers/integrated-power-management-circuits-and-systems---power-one-ic",
    "first_discovered_at": "2026-10-26T15:30:30.207Z",
-   "last_attempt_at": "2026-11-09T20:07:50.968Z",
-   "last_success_at": "2026-11-09T20:07:50.968Z",
+   "last_attempt_at": "2026-11-16T11:04:20.454Z",
+   "last_success_at": "2026-11-16T11:04:20.454Z",
    "last_status": 200,
-   "last_week": "2026-W46",
+   "last_week": "2026-W47",
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T15:30:30.207Z"
+   "first_finding_at": "2026-10-26T15:30:30.207Z",
+   "last_failed_week": null
   },
   "697b6110d5b4a36c": {
    "page_id": "697b6110d5b4a36c",
@@ -1123,7 +1209,8 @@
    "last_week": "2026-W46",
    "outcome": "failed",
    "fail_count": 0,
-   "clean": null
+   "clean": null,
+   "last_failed_week": null
   },
   "6b7d52150e8574dd": {
    "page_id": "6b7d52150e8574dd",
@@ -1136,7 +1223,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-27T09:58:12.743Z"
+   "first_finding_at": "2026-10-27T09:58:12.743Z",
+   "last_failed_week": null
   },
   "6b847ee9fb73e203": {
    "page_id": "6b847ee9fb73e203",
@@ -1149,7 +1237,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T14:12:59.400Z"
+   "first_finding_at": "2026-10-26T14:12:59.400Z",
+   "last_failed_week": null
   },
   "6bf8a9f2bfcd421f": {
    "page_id": "6bf8a9f2bfcd421f",
@@ -1162,7 +1251,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-27T09:58:26.555Z"
+   "first_finding_at": "2026-10-27T09:58:26.555Z",
+   "last_failed_week": null
   },
   "6dfaa349496a376a": {
    "page_id": "6dfaa349496a376a",
@@ -1175,7 +1265,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-27T09:59:21.708Z"
+   "first_finding_at": "2026-10-27T09:59:21.708Z",
+   "last_failed_week": null
   },
   "6f9247dd70d23d63": {
    "page_id": "6f9247dd70d23d63",
@@ -1188,7 +1279,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T08:12:34.567Z"
+   "first_finding_at": "2026-10-26T08:12:34.567Z",
+   "last_failed_week": null
   },
   "6fb1400e2198563c": {
    "page_id": "6fb1400e2198563c",
@@ -1201,20 +1293,22 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T08:48:50.069Z"
+   "first_finding_at": "2026-10-26T08:48:50.069Z",
+   "last_failed_week": null
   },
   "6fcb309ae5c223d9": {
    "page_id": "6fcb309ae5c223d9",
    "url": "https://iucrc.nsf.gov/universities/solicitation/funding",
    "first_discovered_at": "2026-10-26T16:21:24.886Z",
-   "last_attempt_at": "2026-11-09T14:24:32.703Z",
-   "last_success_at": "2026-11-09T14:24:32.703Z",
+   "last_attempt_at": "2026-11-16T11:02:33.669Z",
+   "last_success_at": "2026-11-16T11:02:33.669Z",
    "last_status": 200,
-   "last_week": "2026-W46",
+   "last_week": "2026-W47",
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T16:21:24.886Z"
+   "first_finding_at": "2026-10-26T16:21:24.886Z",
+   "last_failed_week": null
   },
   "70607f7e896afd8a": {
    "page_id": "70607f7e896afd8a",
@@ -1227,7 +1321,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T08:50:10.465Z"
+   "first_finding_at": "2026-10-26T08:50:10.465Z",
+   "last_failed_week": null
   },
   "715b37bb5a97e96d": {
    "page_id": "715b37bb5a97e96d",
@@ -1240,7 +1335,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-27T09:57:31.855Z"
+   "first_finding_at": "2026-10-27T09:57:31.855Z",
+   "last_failed_week": null
   },
   "7210766fb55603f2": {
    "page_id": "7210766fb55603f2",
@@ -1253,7 +1349,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T16:20:38.860Z"
+   "first_finding_at": "2026-10-26T16:20:38.860Z",
+   "last_failed_week": null
   },
   "72a6d2305f31edf9": {
    "page_id": "72a6d2305f31edf9",
@@ -1266,7 +1363,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T10:25:15.804Z"
+   "first_finding_at": "2026-10-26T10:25:15.804Z",
+   "last_failed_week": null
   },
   "72f70afcec7651cc": {
    "page_id": "72f70afcec7651cc",
@@ -1279,7 +1377,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-27T08:55:38.562Z"
+   "first_finding_at": "2026-10-27T08:55:38.562Z",
+   "last_failed_week": null
   },
   "7391fce832cf4516": {
    "page_id": "7391fce832cf4516",
@@ -1292,7 +1391,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T08:10:57.553Z"
+   "first_finding_at": "2026-10-26T08:10:57.553Z",
+   "last_failed_week": null
   },
   "73c4d8fa77c40f86": {
    "page_id": "73c4d8fa77c40f86",
@@ -1305,7 +1405,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T08:50:00.265Z"
+   "first_finding_at": "2026-10-26T08:50:00.265Z",
+   "last_failed_week": null
   },
   "743b68bcbe8ee18b": {
    "page_id": "743b68bcbe8ee18b",
@@ -1318,7 +1419,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T08:11:20.265Z"
+   "first_finding_at": "2026-10-26T08:11:20.265Z",
+   "last_failed_week": null
   },
   "74d6ca561adf3a93": {
    "page_id": "74d6ca561adf3a93",
@@ -1331,7 +1433,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-27T08:55:05.895Z"
+   "first_finding_at": "2026-10-27T08:55:05.895Z",
+   "last_failed_week": null
   },
   "7697a5f0d56621a1": {
    "page_id": "7697a5f0d56621a1",
@@ -1344,7 +1447,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T11:47:06.550Z"
+   "first_finding_at": "2026-10-26T11:47:06.550Z",
+   "last_failed_week": null
   },
   "77bf8a894b2b50e6": {
    "page_id": "77bf8a894b2b50e6",
@@ -1357,7 +1461,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T15:32:24.502Z"
+   "first_finding_at": "2026-10-26T15:32:24.502Z",
+   "last_failed_week": null
   },
   "783090f53a4af8fc": {
    "page_id": "783090f53a4af8fc",
@@ -1370,7 +1475,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T16:21:12.152Z"
+   "first_finding_at": "2026-10-26T16:21:12.152Z",
+   "last_failed_week": null
   },
   "789090050aa8462a": {
    "page_id": "789090050aa8462a",
@@ -1382,7 +1488,8 @@
    "last_week": "2026-W46",
    "outcome": "failed",
    "fail_count": 0,
-   "clean": null
+   "clean": null,
+   "last_failed_week": null
   },
   "7908ce9ecebc45bd": {
    "page_id": "7908ce9ecebc45bd",
@@ -1395,7 +1502,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T08:48:59.460Z"
+   "first_finding_at": "2026-10-26T08:48:59.460Z",
+   "last_failed_week": null
   },
   "7b58fe8616bcde64": {
    "page_id": "7b58fe8616bcde64",
@@ -1408,7 +1516,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T11:48:05.258Z"
+   "first_finding_at": "2026-10-26T11:48:05.258Z",
+   "last_failed_week": null
   },
   "7b8c9b28a86f12e2": {
    "page_id": "7b8c9b28a86f12e2",
@@ -1421,7 +1530,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T11:46:36.485Z"
+   "first_finding_at": "2026-10-26T11:46:36.485Z",
+   "last_failed_week": null
   },
   "7b8d424dc4fcb7b3": {
    "page_id": "7b8d424dc4fcb7b3",
@@ -1434,7 +1544,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T11:45:53.602Z"
+   "first_finding_at": "2026-10-26T11:45:53.602Z",
+   "last_failed_week": null
   },
   "7bd6a306f40142ef": {
    "page_id": "7bd6a306f40142ef",
@@ -1447,7 +1558,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-27T08:56:21.054Z"
+   "first_finding_at": "2026-10-27T08:56:21.054Z",
+   "last_failed_week": null
   },
   "7bf418d9c009a882": {
    "page_id": "7bf418d9c009a882",
@@ -1460,7 +1572,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-27T08:56:26.705Z"
+   "first_finding_at": "2026-10-27T08:56:26.705Z",
+   "last_failed_week": null
   },
   "7bf7cc327b0ac966": {
    "page_id": "7bf7cc327b0ac966",
@@ -1473,7 +1586,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T08:50:43.610Z"
+   "first_finding_at": "2026-10-26T08:50:43.610Z",
+   "last_failed_week": null
   },
   "7ced58e1fe57f5b5": {
    "page_id": "7ced58e1fe57f5b5",
@@ -1486,7 +1600,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T10:24:51.156Z"
+   "first_finding_at": "2026-10-26T10:24:51.156Z",
+   "last_failed_week": null
   },
   "7dc30bd0fb5e9239": {
    "page_id": "7dc30bd0fb5e9239",
@@ -1499,7 +1614,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T11:47:57.239Z"
+   "first_finding_at": "2026-10-26T11:47:57.239Z",
+   "last_failed_week": null
   },
   "7e141d1ef84cf0dc": {
    "page_id": "7e141d1ef84cf0dc",
@@ -1512,7 +1628,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T15:31:45.142Z"
+   "first_finding_at": "2026-10-26T15:31:45.142Z",
+   "last_failed_week": null
   },
   "7f03914e5c868060": {
    "page_id": "7f03914e5c868060",
@@ -1525,7 +1642,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T14:11:06.276Z"
+   "first_finding_at": "2026-10-26T14:11:06.276Z",
+   "last_failed_week": null
   },
   "800c5b013a22b8d3": {
    "page_id": "800c5b013a22b8d3",
@@ -1538,7 +1656,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T10:23:49.268Z"
+   "first_finding_at": "2026-10-26T10:23:49.268Z",
+   "last_failed_week": null
   },
   "820fade24a2a2e4a": {
    "page_id": "820fade24a2a2e4a",
@@ -1551,7 +1670,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T08:11:59.945Z"
+   "first_finding_at": "2026-10-26T08:11:59.945Z",
+   "last_failed_week": null
   },
   "8567f6dd7035b14f": {
    "page_id": "8567f6dd7035b14f",
@@ -1564,7 +1684,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T11:46:50.494Z"
+   "first_finding_at": "2026-10-26T11:46:50.494Z",
+   "last_failed_week": null
   },
   "87f6fde6afaa0750": {
    "page_id": "87f6fde6afaa0750",
@@ -1577,7 +1698,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T15:30:58.431Z"
+   "first_finding_at": "2026-10-26T15:30:58.431Z",
+   "last_failed_week": null
   },
   "89a60b496be41404": {
    "page_id": "89a60b496be41404",
@@ -1590,46 +1712,50 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-27T09:57:48.905Z"
+   "first_finding_at": "2026-10-27T09:57:48.905Z",
+   "last_failed_week": null
   },
   "89aeca6c9b3a7051": {
    "page_id": "89aeca6c9b3a7051",
    "url": "https://iucrc.nsf.gov/centers/energy-smart-electronic-systems",
    "first_discovered_at": "2026-10-26T16:21:16.545Z",
-   "last_attempt_at": "2026-11-10T13:49:50.964Z",
-   "last_success_at": "2026-11-10T13:49:50.964Z",
+   "last_attempt_at": "2026-11-16T11:03:52.948Z",
+   "last_success_at": "2026-11-16T11:03:52.948Z",
    "last_status": 200,
-   "last_week": "2026-W46",
+   "last_week": "2026-W47",
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T16:21:16.545Z"
+   "first_finding_at": "2026-10-26T16:21:16.545Z",
+   "last_failed_week": null
   },
   "8a2ac1988ac01f59": {
    "page_id": "8a2ac1988ac01f59",
    "url": "https://iucrc.nsf.gov/universities/solicitation/sample-planning-meeting-agenda",
    "first_discovered_at": "2026-10-26T08:49:10.638Z",
-   "last_attempt_at": "2026-11-09T11:24:07.505Z",
-   "last_success_at": "2026-11-09T11:24:07.505Z",
+   "last_attempt_at": "2026-11-16T11:03:07.797Z",
+   "last_success_at": "2026-11-16T11:03:07.797Z",
    "last_status": 200,
-   "last_week": "2026-W46",
+   "last_week": "2026-W47",
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T08:49:10.638Z"
+   "first_finding_at": "2026-10-26T08:49:10.638Z",
+   "last_failed_week": null
   },
   "8da37a7b0875a26e": {
    "page_id": "8da37a7b0875a26e",
    "url": "https://iucrc.nsf.gov/centers/center-for-arthropod-management-technologies",
    "first_discovered_at": "2026-10-26T15:31:40.120Z",
-   "last_attempt_at": "2026-11-10T12:55:34.706Z",
-   "last_success_at": "2026-11-10T12:55:34.706Z",
+   "last_attempt_at": "2026-11-16T11:04:11.687Z",
+   "last_success_at": "2026-11-16T11:04:11.687Z",
    "last_status": 200,
-   "last_week": "2026-W46",
+   "last_week": "2026-W47",
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T15:31:40.120Z"
+   "first_finding_at": "2026-10-26T15:31:40.120Z",
+   "last_failed_week": null
   },
   "91607c5617604add": {
    "page_id": "91607c5617604add",
@@ -1642,7 +1768,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T10:23:58.085Z"
+   "first_finding_at": "2026-10-26T10:23:58.085Z",
+   "last_failed_week": null
   },
   "9212677a4fa1fea1": {
    "page_id": "9212677a4fa1fea1",
@@ -1655,7 +1782,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T15:32:42.470Z"
+   "first_finding_at": "2026-10-26T15:32:42.470Z",
+   "last_failed_week": null
   },
   "92aabf4e9fbe1ad5": {
    "page_id": "92aabf4e9fbe1ad5",
@@ -1668,20 +1796,22 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T15:31:13.452Z"
+   "first_finding_at": "2026-10-26T15:31:13.452Z",
+   "last_failed_week": null
   },
   "93c5c45605765a61": {
    "page_id": "93c5c45605765a61",
    "url": "https://iucrc.nsf.gov/centers/building-reliable-advances-and-innovations-in-neurotechnology",
    "first_discovered_at": "2026-10-27T09:58:21.111Z",
-   "last_attempt_at": "2026-11-10T13:50:05.118Z",
-   "last_success_at": "2026-11-10T13:50:05.118Z",
+   "last_attempt_at": "2026-11-16T11:01:58.272Z",
+   "last_success_at": "2026-11-16T11:01:58.272Z",
    "last_status": 200,
-   "last_week": "2026-W46",
+   "last_week": "2026-W47",
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-27T09:58:21.111Z"
+   "first_finding_at": "2026-10-27T09:58:21.111Z",
+   "last_failed_week": null
   },
   "970e2491656bd049": {
    "page_id": "970e2491656bd049",
@@ -1694,20 +1824,22 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-27T09:59:13.189Z"
+   "first_finding_at": "2026-10-27T09:59:13.189Z",
+   "last_failed_week": null
   },
   "9875de95a5dee0fb": {
    "page_id": "9875de95a5dee0fb",
    "url": "https://iucrc.nsf.gov/centers/focus-area/energy-and-environment/page/4",
    "first_discovered_at": "2026-10-26T16:20:48.231Z",
-   "last_attempt_at": "2026-11-09T11:23:24.687Z",
-   "last_success_at": "2026-11-09T11:23:24.687Z",
+   "last_attempt_at": "2026-11-16T11:02:47.507Z",
+   "last_success_at": "2026-11-16T11:02:47.507Z",
    "last_status": 200,
-   "last_week": "2026-W46",
+   "last_week": "2026-W47",
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T16:20:48.231Z"
+   "first_finding_at": "2026-10-26T16:20:48.231Z",
+   "last_failed_week": null
   },
   "9a03c2a541822b26": {
    "page_id": "9a03c2a541822b26",
@@ -1720,7 +1852,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-27T08:56:11.586Z"
+   "first_finding_at": "2026-10-27T08:56:11.586Z",
+   "last_failed_week": null
   },
   "9a643f971dbcdee9": {
    "page_id": "9a643f971dbcdee9",
@@ -1733,7 +1866,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T14:12:28.203Z"
+   "first_finding_at": "2026-10-26T14:12:28.203Z",
+   "last_failed_week": null
   },
   "9a7ea8a56b872626": {
    "page_id": "9a7ea8a56b872626",
@@ -1746,7 +1880,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T08:11:15.819Z"
+   "first_finding_at": "2026-10-26T08:11:15.819Z",
+   "last_failed_week": null
   },
   "9abd8d598ecf78ab": {
    "page_id": "9abd8d598ecf78ab",
@@ -1759,19 +1894,21 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T14:11:51.763Z"
+   "first_finding_at": "2026-10-26T14:11:51.763Z",
+   "last_failed_week": null
   },
   "9de9dab646bde450": {
    "page_id": "9de9dab646bde450",
    "url": "https://iucrc.nsf.gov/centers/center-for-soil-technologies-soiltech",
    "first_discovered_at": "2026-10-26T10:23:53.984Z",
-   "last_attempt_at": "2026-11-09T20:08:05.990Z",
+   "last_attempt_at": "2026-11-16T11:03:45.956Z",
    "last_success_at": null,
    "last_status": 404,
-   "last_week": "2026-W46",
+   "last_week": "2026-W47",
    "outcome": "failed",
    "fail_count": 0,
-   "clean": null
+   "clean": null,
+   "last_failed_week": null
   },
   "9f78441fbe6658f8": {
    "page_id": "9f78441fbe6658f8",
@@ -1784,7 +1921,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T15:31:50.264Z"
+   "first_finding_at": "2026-10-26T15:31:50.264Z",
+   "last_failed_week": null
   },
   "9fea7791b8d00689": {
    "page_id": "9fea7791b8d00689",
@@ -1797,7 +1935,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-27T08:56:31.077Z"
+   "first_finding_at": "2026-10-27T08:56:31.077Z",
+   "last_failed_week": null
   },
   "a0b3be3ffab860ff": {
    "page_id": "a0b3be3ffab860ff",
@@ -1810,7 +1949,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T14:13:14.608Z"
+   "first_finding_at": "2026-10-26T14:13:14.608Z",
+   "last_failed_week": null
   },
   "a0d39f043cb71f24": {
    "page_id": "a0d39f043cb71f24",
@@ -1823,20 +1963,22 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-27T08:54:55.355Z"
+   "first_finding_at": "2026-10-27T08:54:55.355Z",
+   "last_failed_week": null
   },
   "a2a6e3792e818890": {
    "page_id": "a2a6e3792e818890",
    "url": "https://iucrc.nsf.gov/centers/center-for-rational-catalyst-synthesis",
    "first_discovered_at": "2026-10-26T08:49:50.320Z",
-   "last_attempt_at": "2026-11-09T11:22:59.207Z",
-   "last_success_at": "2026-11-09T11:22:59.207Z",
+   "last_attempt_at": "2026-11-16T11:03:28.687Z",
+   "last_success_at": "2026-11-16T11:03:28.687Z",
    "last_status": 200,
-   "last_week": "2026-W46",
+   "last_week": "2026-W47",
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T08:49:50.320Z"
+   "first_finding_at": "2026-10-26T08:49:50.320Z",
+   "last_failed_week": null
   },
   "a455022bd5c803f5": {
    "page_id": "a455022bd5c803f5",
@@ -1849,7 +1991,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T10:24:36.058Z"
+   "first_finding_at": "2026-10-26T10:24:36.058Z",
+   "last_failed_week": null
   },
   "a4bfd6ea1b2f0cb7": {
    "page_id": "a4bfd6ea1b2f0cb7",
@@ -1862,7 +2005,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T11:46:27.175Z"
+   "first_finding_at": "2026-10-26T11:46:27.175Z",
+   "last_failed_week": null
   },
   "a565d36ae70a47eb": {
    "page_id": "a565d36ae70a47eb",
@@ -1874,7 +2018,8 @@
    "last_week": "2026-W46",
    "outcome": "failed",
    "fail_count": 0,
-   "clean": null
+   "clean": null,
+   "last_failed_week": null
   },
   "a61512c1f52d06c4": {
    "page_id": "a61512c1f52d06c4",
@@ -1887,7 +2032,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T08:51:01.773Z"
+   "first_finding_at": "2026-10-26T08:51:01.773Z",
+   "last_failed_week": null
   },
   "a84a4674073a0d29": {
    "page_id": "a84a4674073a0d29",
@@ -1900,7 +2046,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T08:49:26.039Z"
+   "first_finding_at": "2026-10-26T08:49:26.039Z",
+   "last_failed_week": null
   },
   "a8c2bba5974cfa78": {
    "page_id": "a8c2bba5974cfa78",
@@ -1913,7 +2060,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T15:30:46.864Z"
+   "first_finding_at": "2026-10-26T15:30:46.864Z",
+   "last_failed_week": null
   },
   "aa2bb65a27d91da0": {
    "page_id": "aa2bb65a27d91da0",
@@ -1926,19 +2074,21 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T08:48:45.804Z"
+   "first_finding_at": "2026-10-26T08:48:45.804Z",
+   "last_failed_week": null
   },
   "aa3335b6ac950ef7": {
    "page_id": "aa3335b6ac950ef7",
    "url": "https://iucrc.nsf.gov/universities/solicitation/annual-costs",
    "first_discovered_at": "2026-10-27T08:55:15.624Z",
-   "last_attempt_at": "2026-11-09T19:03:27.032Z",
+   "last_attempt_at": "2026-11-16T11:03:49.500Z",
    "last_success_at": null,
    "last_status": 404,
-   "last_week": "2026-W46",
+   "last_week": "2026-W47",
    "outcome": "failed",
    "fail_count": 0,
-   "clean": null
+   "clean": null,
+   "last_failed_week": null
   },
   "aae5682a223b2c9a": {
    "page_id": "aae5682a223b2c9a",
@@ -1951,7 +2101,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T16:20:17.181Z"
+   "first_finding_at": "2026-10-26T16:20:17.181Z",
+   "last_failed_week": null
   },
   "acbd368e2b7ea93a": {
    "page_id": "acbd368e2b7ea93a",
@@ -1964,20 +2115,22 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T16:22:20.871Z"
+   "first_finding_at": "2026-10-26T16:22:20.871Z",
+   "last_failed_week": null
   },
   "ad034b126e9a66e5": {
    "page_id": "ad034b126e9a66e5",
    "url": "https://iucrc.nsf.gov/centers/focus-area/biotechnology/page/3",
    "first_discovered_at": "2026-10-26T15:32:38.403Z",
-   "last_attempt_at": "2026-11-10T12:54:51.861Z",
-   "last_success_at": "2026-11-10T12:54:51.861Z",
+   "last_attempt_at": "2026-11-16T11:01:43.158Z",
+   "last_success_at": "2026-11-16T11:01:43.158Z",
    "last_status": 200,
-   "last_week": "2026-W46",
+   "last_week": "2026-W47",
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T15:32:38.403Z"
+   "first_finding_at": "2026-10-26T15:32:38.403Z",
+   "last_failed_week": null
   },
   "ae811fdf5d484bfb": {
    "page_id": "ae811fdf5d484bfb",
@@ -1990,20 +2143,22 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T11:47:21.152Z"
+   "first_finding_at": "2026-10-26T11:47:21.152Z",
+   "last_failed_week": null
   },
   "aec13f12aba374a4": {
    "page_id": "aec13f12aba374a4",
    "url": "https://iucrc.nsf.gov/centers/it-enabled-design-and-realization-of-engineered-products-and-systems",
    "first_discovered_at": "2026-10-26T08:12:45.264Z",
-   "last_attempt_at": "2026-11-10T12:54:45.631Z",
-   "last_success_at": "2026-11-10T12:54:45.631Z",
+   "last_attempt_at": "2026-11-16T11:04:15.413Z",
+   "last_success_at": "2026-11-16T11:04:15.413Z",
    "last_status": 200,
-   "last_week": "2026-W46",
+   "last_week": "2026-W47",
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T08:12:45.264Z"
+   "first_finding_at": "2026-10-26T08:12:45.264Z",
+   "last_failed_week": null
   },
   "af0a446423d7aaa7": {
    "page_id": "af0a446423d7aaa7",
@@ -2016,7 +2171,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T08:10:53.037Z"
+   "first_finding_at": "2026-10-26T08:10:53.037Z",
+   "last_failed_week": null
   },
   "af7132aeafa60245": {
    "page_id": "af7132aeafa60245",
@@ -2029,7 +2185,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T10:24:40.389Z"
+   "first_finding_at": "2026-10-26T10:24:40.389Z",
+   "last_failed_week": null
   },
   "af76da9b0cea54d6": {
    "page_id": "af76da9b0cea54d6",
@@ -2042,7 +2199,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T10:24:03.707Z"
+   "first_finding_at": "2026-10-26T10:24:03.707Z",
+   "last_failed_week": null
   },
   "aff84d2f5d0bb447": {
    "page_id": "aff84d2f5d0bb447",
@@ -2055,20 +2213,22 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T10:25:01.197Z"
+   "first_finding_at": "2026-10-26T10:25:01.197Z",
+   "last_failed_week": null
   },
   "b05a23dd9f789690": {
    "page_id": "b05a23dd9f789690",
    "url": "https://iucrc.nsf.gov/centers",
    "first_discovered_at": "2026-10-26T11:47:31.645Z",
-   "last_attempt_at": "2026-10-26T11:47:31.645Z",
+   "last_attempt_at": "2026-11-16T11:02:21.093Z",
    "last_success_at": "2026-10-26T11:47:31.645Z",
-   "last_status": 200,
-   "last_week": "2026-W44",
-   "outcome": "success",
+   "last_status": "redirect",
+   "last_week": "2026-W47",
+   "outcome": "failed",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T11:47:31.645Z"
+   "first_finding_at": "2026-10-26T11:47:31.645Z",
+   "last_failed_week": null
   },
   "b27f6c93e53005f3": {
    "page_id": "b27f6c93e53005f3",
@@ -2081,7 +2241,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T16:20:23.355Z"
+   "first_finding_at": "2026-10-26T16:20:23.355Z",
+   "last_failed_week": null
   },
   "b2f05717ce6432c1": {
    "page_id": "b2f05717ce6432c1",
@@ -2094,7 +2255,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T08:12:08.624Z"
+   "first_finding_at": "2026-10-26T08:12:08.624Z",
+   "last_failed_week": null
   },
   "b316c4fe06fe4692": {
    "page_id": "b316c4fe06fe4692",
@@ -2107,7 +2269,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T15:32:20.368Z"
+   "first_finding_at": "2026-10-26T15:32:20.368Z",
+   "last_failed_week": null
   },
   "b36c2ef821ca30d5": {
    "page_id": "b36c2ef821ca30d5",
@@ -2120,7 +2283,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-27T08:56:15.922Z"
+   "first_finding_at": "2026-10-27T08:56:15.922Z",
+   "last_failed_week": null
   },
   "b59c09ecf5355ffb": {
    "page_id": "b59c09ecf5355ffb",
@@ -2133,7 +2297,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-27T08:54:34.971Z"
+   "first_finding_at": "2026-10-27T08:54:34.971Z",
+   "last_failed_week": null
   },
   "b6a909f18c16548e": {
    "page_id": "b6a909f18c16548e",
@@ -2146,7 +2311,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T14:11:25.226Z"
+   "first_finding_at": "2026-10-26T14:11:25.226Z",
+   "last_failed_week": null
   },
   "b78d21630edb2acc": {
    "page_id": "b78d21630edb2acc",
@@ -2159,7 +2325,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T08:51:11.918Z"
+   "first_finding_at": "2026-10-26T08:51:11.918Z",
+   "last_failed_week": null
   },
   "b7edaba4fd0950e5": {
    "page_id": "b7edaba4fd0950e5",
@@ -2172,7 +2339,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T08:11:30.665Z"
+   "first_finding_at": "2026-10-26T08:11:30.665Z",
+   "last_failed_week": null
   },
   "b8cc7a0997ef8184": {
    "page_id": "b8cc7a0997ef8184",
@@ -2185,7 +2353,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-27T08:55:10.128Z"
+   "first_finding_at": "2026-10-27T08:55:10.128Z",
+   "last_failed_week": null
   },
   "b8e2e3a7905ec935": {
    "page_id": "b8e2e3a7905ec935",
@@ -2197,7 +2366,8 @@
    "last_week": "2026-W46",
    "outcome": "failed",
    "fail_count": 0,
-   "clean": null
+   "clean": null,
+   "last_failed_week": null
   },
   "ba33937b4efe3f34": {
    "page_id": "ba33937b4efe3f34",
@@ -2210,7 +2380,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T16:22:09.445Z"
+   "first_finding_at": "2026-10-26T16:22:09.445Z",
+   "last_failed_week": null
   },
   "ba7a25a80f4487a4": {
    "page_id": "ba7a25a80f4487a4",
@@ -2223,7 +2394,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T10:25:19.938Z"
+   "first_finding_at": "2026-10-26T10:25:19.938Z",
+   "last_failed_week": null
   },
   "bae1d3973065408b": {
    "page_id": "bae1d3973065408b",
@@ -2236,7 +2408,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T08:11:08.760Z"
+   "first_finding_at": "2026-10-26T08:11:08.760Z",
+   "last_failed_week": null
   },
   "bc62be6ded3adc18": {
    "page_id": "bc62be6ded3adc18",
@@ -2249,7 +2422,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T16:20:52.737Z"
+   "first_finding_at": "2026-10-26T16:20:52.737Z",
+   "last_failed_week": null
   },
   "bdf32fd9a1ccfa86": {
    "page_id": "bdf32fd9a1ccfa86",
@@ -2262,33 +2436,36 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T10:23:20.041Z"
+   "first_finding_at": "2026-10-26T10:23:20.041Z",
+   "last_failed_week": null
   },
   "bee365b4398b4981": {
    "page_id": "bee365b4398b4981",
    "url": "https://iucrc.nsf.gov/centers?foc=&prifoc=0&sta=&uni=",
    "first_discovered_at": "2026-11-02T13:54:40.729Z",
-   "last_attempt_at": "2026-11-02T13:54:40.729Z",
-   "last_success_at": "2026-11-02T13:54:40.729Z",
+   "last_attempt_at": "2026-11-16T11:02:22.599Z",
+   "last_success_at": "2026-11-16T11:02:22.599Z",
    "last_status": 200,
-   "last_week": "2026-W45",
+   "last_week": "2026-W47",
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-11-02T13:54:40.729Z"
+   "first_finding_at": "2026-11-02T13:54:40.729Z",
+   "last_failed_week": null
   },
   "bf2665a589266a3b": {
    "page_id": "bf2665a589266a3b",
    "url": "https://iucrc.nsf.gov/centers/center-for-high-frequency-electronics-and-circuits-for-communication-systems-checcs",
    "first_discovered_at": "2026-10-27T09:57:37.692Z",
-   "last_attempt_at": "2026-11-09T14:24:00.521Z",
-   "last_success_at": "2026-11-09T14:24:00.521Z",
+   "last_attempt_at": "2026-11-16T11:02:02.147Z",
+   "last_success_at": "2026-11-16T11:02:02.147Z",
    "last_status": 200,
-   "last_week": "2026-W46",
+   "last_week": "2026-W47",
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-27T09:57:37.692Z"
+   "first_finding_at": "2026-10-27T09:57:37.692Z",
+   "last_failed_week": null
   },
   "bf72588c17844bc9": {
    "page_id": "bf72588c17844bc9",
@@ -2301,7 +2478,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T14:12:48.313Z"
+   "first_finding_at": "2026-10-26T14:12:48.313Z",
+   "last_failed_week": null
   },
   "c24ed09982133b78": {
    "page_id": "c24ed09982133b78",
@@ -2314,7 +2492,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T11:48:01.212Z"
+   "first_finding_at": "2026-10-26T11:48:01.212Z",
+   "last_failed_week": null
   },
   "c2e9b029eab7892c": {
    "page_id": "c2e9b029eab7892c",
@@ -2326,7 +2505,8 @@
    "last_week": "2026-W46",
    "outcome": "failed",
    "fail_count": 0,
-   "clean": null
+   "clean": null,
+   "last_failed_week": null
   },
   "c3a5f1571abf2b19": {
    "page_id": "c3a5f1571abf2b19",
@@ -2339,7 +2519,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T08:11:45.634Z"
+   "first_finding_at": "2026-10-26T08:11:45.634Z",
+   "last_failed_week": null
   },
   "c3b54239ed1d3919": {
    "page_id": "c3b54239ed1d3919",
@@ -2352,7 +2533,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T11:47:47.762Z"
+   "first_finding_at": "2026-10-26T11:47:47.762Z",
+   "last_failed_week": null
   },
   "c4c0f4f61b09a8b5": {
    "page_id": "c4c0f4f61b09a8b5",
@@ -2365,7 +2547,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T14:11:46.149Z"
+   "first_finding_at": "2026-10-26T14:11:46.149Z",
+   "last_failed_week": null
   },
   "c61b70e2988bb6f8": {
    "page_id": "c61b70e2988bb6f8",
@@ -2378,7 +2561,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T08:11:55.715Z"
+   "first_finding_at": "2026-10-26T08:11:55.715Z",
+   "last_failed_week": null
   },
   "c72f3a1d04ca72a4": {
    "page_id": "c72f3a1d04ca72a4",
@@ -2391,7 +2575,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T08:50:28.209Z"
+   "first_finding_at": "2026-10-26T08:50:28.209Z",
+   "last_failed_week": null
   },
   "c785d7f65011bc19": {
    "page_id": "c785d7f65011bc19",
@@ -2403,7 +2588,8 @@
    "last_week": "2026-W46",
    "outcome": "failed",
    "fail_count": 0,
-   "clean": null
+   "clean": null,
+   "last_failed_week": null
   },
   "c907094144528796": {
    "page_id": "c907094144528796",
@@ -2416,7 +2602,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-27T08:55:47.234Z"
+   "first_finding_at": "2026-10-27T08:55:47.234Z",
+   "last_failed_week": null
   },
   "cb34e906e333e380": {
    "page_id": "cb34e906e333e380",
@@ -2429,7 +2616,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T08:49:46.174Z"
+   "first_finding_at": "2026-10-26T08:49:46.174Z",
+   "last_failed_week": null
   },
   "cca2f520c8377229": {
    "page_id": "cca2f520c8377229",
@@ -2442,7 +2630,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T16:22:26.550Z"
+   "first_finding_at": "2026-10-26T16:22:26.550Z",
+   "last_failed_week": null
   },
   "ce39adf7089f18e6": {
    "page_id": "ce39adf7089f18e6",
@@ -2455,7 +2644,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T10:23:33.919Z"
+   "first_finding_at": "2026-10-26T10:23:33.919Z",
+   "last_failed_week": null
   },
   "cec83c2b7bcc3db1": {
    "page_id": "cec83c2b7bcc3db1",
@@ -2468,7 +2658,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T08:50:57.528Z"
+   "first_finding_at": "2026-10-26T08:50:57.528Z",
+   "last_failed_week": null
   },
   "cf7b4444741bbb04": {
    "page_id": "cf7b4444741bbb04",
@@ -2481,7 +2672,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T14:12:23.881Z"
+   "first_finding_at": "2026-10-26T14:12:23.881Z",
+   "last_failed_week": null
   },
   "d02babcf0e4bc563": {
    "page_id": "d02babcf0e4bc563",
@@ -2493,7 +2685,8 @@
    "last_week": "2026-W46",
    "outcome": "failed",
    "fail_count": 0,
-   "clean": null
+   "clean": null,
+   "last_failed_week": null
   },
   "d0c61de1d01302cf": {
    "page_id": "d0c61de1d01302cf",
@@ -2506,20 +2699,22 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T08:49:05.510Z"
+   "first_finding_at": "2026-10-26T08:49:05.510Z",
+   "last_failed_week": null
   },
   "d1a71ad17c2cbde1": {
    "page_id": "d1a71ad17c2cbde1",
    "url": "https://iucrc.nsf.gov/centers/center-for-particulate-and-surfactant-systems",
    "first_discovered_at": "2026-10-27T08:55:42.721Z",
-   "last_attempt_at": "2026-11-09T11:23:49.576Z",
-   "last_success_at": "2026-11-09T11:23:49.576Z",
+   "last_attempt_at": "2026-11-16T11:03:24.040Z",
+   "last_success_at": "2026-11-16T11:03:24.040Z",
    "last_status": 200,
-   "last_week": "2026-W46",
+   "last_week": "2026-W47",
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-27T08:55:42.721Z"
+   "first_finding_at": "2026-10-27T08:55:42.721Z",
+   "last_failed_week": null
   },
   "d1e2a88f1b0090b9": {
    "page_id": "d1e2a88f1b0090b9",
@@ -2532,7 +2727,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T08:11:51.351Z"
+   "first_finding_at": "2026-10-26T08:11:51.351Z",
+   "last_failed_week": null
   },
   "d271b2cdf5b82275": {
    "page_id": "d271b2cdf5b82275",
@@ -2545,7 +2741,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T11:47:10.620Z"
+   "first_finding_at": "2026-10-26T11:47:10.620Z",
+   "last_failed_week": null
   },
   "d797819d7f930736": {
    "page_id": "d797819d7f930736",
@@ -2558,7 +2755,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T14:12:55.026Z"
+   "first_finding_at": "2026-10-26T14:12:55.026Z",
+   "last_failed_week": null
   },
   "d7b1500ed1920743": {
    "page_id": "d7b1500ed1920743",
@@ -2571,7 +2769,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T08:12:30.178Z"
+   "first_finding_at": "2026-10-26T08:12:30.178Z",
+   "last_failed_week": null
   },
   "d88ed4f900b785a7": {
    "page_id": "d88ed4f900b785a7",
@@ -2584,7 +2783,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-27T09:57:54.480Z"
+   "first_finding_at": "2026-10-27T09:57:54.480Z",
+   "last_failed_week": null
   },
   "dca116d9b112fb37": {
    "page_id": "dca116d9b112fb37",
@@ -2597,7 +2797,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T15:31:25.075Z"
+   "first_finding_at": "2026-10-26T15:31:25.075Z",
+   "last_failed_week": null
   },
   "dd2ba41ebe1c0a4d": {
    "page_id": "dd2ba41ebe1c0a4d",
@@ -2610,7 +2811,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T08:50:04.957Z"
+   "first_finding_at": "2026-10-26T08:50:04.957Z",
+   "last_failed_week": null
   },
   "ddff410ca594ea8e": {
    "page_id": "ddff410ca594ea8e",
@@ -2623,7 +2825,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T14:11:16.390Z"
+   "first_finding_at": "2026-10-26T14:11:16.390Z",
+   "last_failed_week": null
   },
   "de364a3e0dd075e5": {
    "page_id": "de364a3e0dd075e5",
@@ -2636,7 +2839,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T11:47:01.161Z"
+   "first_finding_at": "2026-10-26T11:47:01.161Z",
+   "last_failed_week": null
   },
   "e0923ae76e0412ad": {
    "page_id": "e0923ae76e0412ad",
@@ -2649,7 +2853,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T11:47:15.696Z"
+   "first_finding_at": "2026-10-26T11:47:15.696Z",
+   "last_failed_week": null
   },
   "e09249c1fb565a55": {
    "page_id": "e09249c1fb565a55",
@@ -2662,7 +2867,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-27T09:57:43.014Z"
+   "first_finding_at": "2026-10-27T09:57:43.014Z",
+   "last_failed_week": null
   },
   "e0ea06998adb4334": {
    "page_id": "e0ea06998adb4334",
@@ -2675,7 +2881,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T10:23:43.757Z"
+   "first_finding_at": "2026-10-26T10:23:43.757Z",
+   "last_failed_week": null
   },
   "e1078eb25568e7df": {
    "page_id": "e1078eb25568e7df",
@@ -2688,7 +2895,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T08:11:25.387Z"
+   "first_finding_at": "2026-10-26T08:11:25.387Z",
+   "last_failed_week": null
   },
   "e63795ce73b9b21f": {
    "page_id": "e63795ce73b9b21f",
@@ -2701,7 +2909,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T16:22:15.287Z"
+   "first_finding_at": "2026-10-26T16:22:15.287Z",
+   "last_failed_week": null
   },
   "e660082b7b357ab8": {
    "page_id": "e660082b7b357ab8",
@@ -2714,7 +2923,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T16:21:41.825Z"
+   "first_finding_at": "2026-10-26T16:21:41.825Z",
+   "last_failed_week": null
   },
   "e7565176cdb66f56": {
    "page_id": "e7565176cdb66f56",
@@ -2727,7 +2937,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T10:24:26.378Z"
+   "first_finding_at": "2026-10-26T10:24:26.378Z",
+   "last_failed_week": null
   },
   "e794c9b4c2c550cf": {
    "page_id": "e794c9b4c2c550cf",
@@ -2740,7 +2951,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T15:31:21.042Z"
+   "first_finding_at": "2026-10-26T15:31:21.042Z",
+   "last_failed_week": null
   },
   "e927e765c3c31cde": {
    "page_id": "e927e765c3c31cde",
@@ -2753,7 +2965,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T10:23:24.255Z"
+   "first_finding_at": "2026-10-26T10:23:24.255Z",
+   "last_failed_week": null
   },
   "eb561d57f7f42fe6": {
    "page_id": "eb561d57f7f42fe6",
@@ -2766,7 +2979,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T11:45:47.741Z"
+   "first_finding_at": "2026-10-26T11:45:47.741Z",
+   "last_failed_week": null
   },
   "ec1d56132b4ae10e": {
    "page_id": "ec1d56132b4ae10e",
@@ -2779,7 +2993,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-27T08:55:34.000Z"
+   "first_finding_at": "2026-10-27T08:55:34.000Z",
+   "last_failed_week": null
   },
   "ec5a166cec524733": {
    "page_id": "ec5a166cec524733",
@@ -2792,7 +3007,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T16:21:59.393Z"
+   "first_finding_at": "2026-10-26T16:21:59.393Z",
+   "last_failed_week": null
   },
   "ecbf06e1359c4235": {
    "page_id": "ecbf06e1359c4235",
@@ -2805,7 +3021,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T16:22:05.218Z"
+   "first_finding_at": "2026-10-26T16:22:05.218Z",
+   "last_failed_week": null
   },
   "ed854310377f66f4": {
    "page_id": "ed854310377f66f4",
@@ -2818,7 +3035,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-27T09:58:53.453Z"
+   "first_finding_at": "2026-10-27T09:58:53.453Z",
+   "last_failed_week": null
   },
   "f0aaac923ca168e3": {
    "page_id": "f0aaac923ca168e3",
@@ -2830,7 +3048,8 @@
    "last_week": "2026-W46",
    "outcome": "failed",
    "fail_count": 0,
-   "clean": null
+   "clean": null,
+   "last_failed_week": null
   },
   "f46db172fb9bdf9b": {
    "page_id": "f46db172fb9bdf9b",
@@ -2843,7 +3062,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T14:10:59.780Z"
+   "first_finding_at": "2026-10-26T14:10:59.780Z",
+   "last_failed_week": null
   },
   "f481df78f0fca5d0": {
    "page_id": "f481df78f0fca5d0",
@@ -2856,7 +3076,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T14:13:04.811Z"
+   "first_finding_at": "2026-10-26T14:13:04.811Z",
+   "last_failed_week": null
   },
   "f4dde08c846d9326": {
    "page_id": "f4dde08c846d9326",
@@ -2869,7 +3090,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-27T08:56:06.283Z"
+   "first_finding_at": "2026-10-27T08:56:06.283Z",
+   "last_failed_week": null
   },
   "fa11ba5205f573c7": {
    "page_id": "fa11ba5205f573c7",
@@ -2881,7 +3103,8 @@
    "last_week": "2026-W46",
    "outcome": "failed",
    "fail_count": 0,
-   "clean": null
+   "clean": null,
+   "last_failed_week": null
   },
   "fa5a83013d5c48df": {
    "page_id": "fa5a83013d5c48df",
@@ -2893,7 +3116,8 @@
    "last_week": "2026-W46",
    "outcome": "failed",
    "fail_count": 0,
-   "clean": null
+   "clean": null,
+   "last_failed_week": null
   },
   "fcf1fe3418cefe2b": {
    "page_id": "fcf1fe3418cefe2b",
@@ -2905,7 +3129,8 @@
    "last_week": "2026-W46",
    "outcome": "failed",
    "fail_count": 0,
-   "clean": null
+   "clean": null,
+   "last_failed_week": null
   },
   "fd3793de8ca957a1": {
    "page_id": "fd3793de8ca957a1",
@@ -2918,7 +3143,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T15:31:30.935Z"
+   "first_finding_at": "2026-10-26T15:31:30.935Z",
+   "last_failed_week": null
   },
   "fd727701f775e846": {
    "page_id": "fd727701f775e846",
@@ -2931,7 +3157,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T14:12:13.497Z"
+   "first_finding_at": "2026-10-26T14:12:13.497Z",
+   "last_failed_week": null
   },
   "fecaa8c89d20c88c": {
    "page_id": "fecaa8c89d20c88c",
@@ -2944,7 +3171,8 @@
    "outcome": "success",
    "fail_count": 0,
    "clean": false,
-   "first_finding_at": "2026-10-26T16:21:07.762Z"
+   "first_finding_at": "2026-10-26T16:21:07.762Z",
+   "last_failed_week": null
   }
  }
 }
