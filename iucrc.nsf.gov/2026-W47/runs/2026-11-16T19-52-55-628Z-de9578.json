@@ -1,0 +1,170 @@
+{
+ "runId": "2026-11-16T19-52-55-628Z-de9578",
+ "week": "2026-W47",
+ "domain": "iucrc.nsf.gov",
+ "canonical": {
+  "origin": "https://iucrc.nsf.gov",
+  "configured": "https://iucrc.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-16T19:52:56.409Z",
+ "scanned": [
+  "1e875ad20189815f",
+  "1eccc4e47ef6db61",
+  "74d6ca561adf3a93",
+  "3e94b76db756a7e4",
+  "53afd17962d23421",
+  "af7132aeafa60245",
+  "fcf1fe3418cefe2b",
+  "5b0feb90a723e240",
+  "037d92303430ffaa",
+  "a84a4674073a0d29",
+  "7908ce9ecebc45bd",
+  "7210766fb55603f2",
+  "e7565176cdb66f56",
+  "89a60b496be41404",
+  "92aabf4e9fbe1ad5",
+  "bdf32fd9a1ccfa86",
+  "0f3dbacf5c96e38e",
+  "d0c61de1d01302cf",
+  "72a6d2305f31edf9",
+  "ae811fdf5d484bfb",
+  "609ac19d67117aa5",
+  "7dc30bd0fb5e9239",
+  "2a4bf47cd1d4243b",
+  "0da3104d764bd171",
+  "ddff410ca594ea8e"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 270,
+  "checked": 270,
+  "brokenCount": 8,
+  "broken": [
+   {
+    "url": "https://www.goodyear.co/",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-tire-research"
+    ]
+   },
+   {
+    "url": "https://iucrc.nsf.gov/centers/center-for-research-in-systems-and-storage-crss",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers?foc=&prifoc=1&sta=&uni="
+    ]
+   },
+   {
+    "url": "https://iucrc.nsf.gov/centers/center-for-electric-connected-and-autonomous-technologies-for-mobility-ecat",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers?foc=&prifoc=1&sta=&uni="
+    ]
+   },
+   {
+    "url": "https://iucrc.nsf.gov/centers/center-for-soil-technologies-soiltech",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers?foc=&prifoc=1&sta=&uni=",
+     "https://iucrc.nsf.gov/centers/focus-area/energy-and-environment"
+    ]
+   },
+   {
+    "url": "https://www.lanl.gov/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-advanced-non-ferrous-structural-alloy"
+    ]
+   },
+   {
+    "url": "https://info.bwc.ohio.gov/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-disruptive-musculoskeletal-innovations"
+    ]
+   },
+   {
+    "url": "https://wp.wpi.edu/mpi/research-centers/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/achievements/rare-earth-metals-from-electric-motors"
+    ]
+   },
+   {
+    "url": "http://www.inrf.uci.edu/cadmim/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-advanced-design-and-man-of-integrated-microfluidics"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 24,
+  "plain-language": 14,
+  "resources": 24,
+  "images": 24,
+  "standards": 13,
+  "lighthouse": 3,
+  "link-check": 24,
+  "alfa": 9,
+  "security": 2,
+  "sustainability": 3,
+  "third-party": 6,
+  "public-interest": 1,
+  "tech": 1,
+  "deprecated-html": 2
+ },
+ "tally": {
+  "ok": 24,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-16T19:55:53.701Z"
+}
