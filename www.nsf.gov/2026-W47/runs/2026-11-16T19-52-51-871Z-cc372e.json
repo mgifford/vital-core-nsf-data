@@ -1,0 +1,225 @@
+{
+ "runId": "2026-11-16T19-52-51-871Z-cc372e",
+ "week": "2026-W47",
+ "domain": "www.nsf.gov",
+ "canonical": {
+  "origin": "https://www.nsf.gov",
+  "configured": "https://www.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-16T19:52:52.387Z",
+ "scanned": [
+  "0dcf2f64f35db08a",
+  "0e4db70b528811b2",
+  "c892c2a65a6381a9",
+  "69d8888377436248",
+  "a8407b3a22cee831",
+  "bd8b98aeb87eb4b6",
+  "f2370e7baa829676",
+  "19680f7e2861af46",
+  "69386bc8f0d8fe1e",
+  "188c6bf0319478af",
+  "420730984172df96",
+  "30db88281afcc0d6",
+  "443f7079105d948d",
+  "a3aa24b37ceaa7bd",
+  "e97a6b5911db3a34",
+  "833b2f5eb771701f",
+  "de7bd6e91dff2529",
+  "a02484857f4680a3",
+  "f38554abdbfb780f",
+  "be52ef0d6390f264",
+  "823cd83f05fe96fa",
+  "2ba234ff20b16edf",
+  "994f80f5aab55aac",
+  "f81f2213a7658949",
+  "f2c25b82a9b78b25"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 271,
+  "checked": 271,
+  "brokenCount": 15,
+  "broken": [
+   {
+    "url": "https://www.financenet.gov/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/reports/performance/fy-1999-accountability-report/nsf00-55"
+    ]
+   },
+   {
+    "url": "http://www.cs.bell-labs.com/who/ches/map/index.html",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/reports/performance/fy-1999-accountability-report/nsf00-55"
+    ]
+   },
+   {
+    "url": "http://ww.caida.org/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/reports/performance/fy-1999-accountability-report/nsf00-55"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_ZSqQmFi5Q22YXvz3DFPVtw",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/chat-live-marine-biologists-antarctica"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJIsdeivpjsiEigeQ9nlJLEYuUDsur20aqU",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/2024-oce-postdoctoral-research-fellowships-office-hours/2024-10-30"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJItde2vrzwpGv4dA7sj81ze5Q4NSd0bfjA",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/2024-oce-postdoctoral-research-fellowships-office-hours/2024-10-30"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJIsdu6rrjgjEwm4IcO0jIB2-DZWSMx0c_M",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/2024-oce-postdoctoral-research-fellowships-office-hours/2024-10-30"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_mPA2koT8Svuq-7yW99U6Eg",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/geoffrey-hinton-how-represent-part-whole-hierarchies-neural"
+    ]
+   },
+   {
+    "url": "https://news.emory.edu/features/2025/02/esc_plant_extract_10-02-2025/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/news/lab-synthesized-botanical-compound-shows-promise-fighting"
+    ]
+   },
+   {
+    "url": "http://www.ctia.org/docs/default-source/default-document-library/ctia-survey-2015.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/pawrppo-platforms-advanced-wireless-research-pawr-establishing-pawr/505316/nsf16-585/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.fastlane.nsf.gov/a1/newstan.htm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/pawrppo-platforms-advanced-wireless-research-pawr-establishing-pawr/505316/nsf16-585/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=aag",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/pawrppo-platforms-advanced-wireless-research-pawr-establishing-pawr/505316/nsf16-585/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf14043",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/pawrppo-platforms-advanced-wireless-research-pawr-establishing-pawr/505316/nsf16-585/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubshttps://public.govdelivery.com/accounts/USNSF/subscriber/new?topic_id=USNSF_179",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/pawrppo-platforms-advanced-wireless-research-pawr-establishing-pawr/505316/nsf16-585/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/policies/SOR_PA_NSF-50_Principal_Investigator_Proposal_File.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/pawrppo-platforms-advanced-wireless-research-pawr-establishing-pawr/505316/nsf16-585/solicitation"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 25,
+  "plain-language": 14,
+  "resources": 25,
+  "images": 25,
+  "third-party": 4,
+  "lighthouse": 2,
+  "link-check": 25,
+  "alfa": 7,
+  "standards": 13,
+  "security": 3,
+  "public-interest": 3,
+  "deprecated-html": 5,
+  "tech": 3,
+  "sustainability": 1
+ },
+ "tally": {
+  "ok": 25,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-16T19:56:28.090Z"
+}
