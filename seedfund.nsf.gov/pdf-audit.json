@@ -1,6 +1,6 @@
 {
  "domain": "seedfund.nsf.gov",
- "updatedAt": "2026-11-09T01:59:48.132Z",
+ "updatedAt": "2026-11-16T02:25:44.769Z",
  "checker": {
   "name": "pdf-crawler",
   "url": "https://github.com/mgifford/pdf-crawler",
@@ -271,16 +271,16 @@
    ]
   },
   "https://nsf-gov-resources.nsf.gov/files/SciENcvFAQs.pdf": {
-   "checkedAt": "2026-11-09T01:59:48.131Z",
-   "week": "2026-W46",
+   "checkedAt": "2026-11-16T02:25:44.768Z",
+   "week": "2026-W47",
    "httpStatus": 200,
-   "md5": "5362399f3e8f86c7e222104bf04053ac",
-   "bytes": 121639,
-   "etag": "\"1794176381-gzip\"",
-   "lastModified": "Sun, 08 Nov 2026 22:19:41 GMT",
+   "md5": "7b822aea6597a7a6d95ec62c921e2b12",
+   "bytes": 122104,
+   "etag": "\"1794780696-gzip\"",
+   "lastModified": "Sun, 15 Nov 2026 22:11:36 GMT",
    "finalUrl": "https://www.nsf.gov/policies/document/faq-using-sciencv",
    "status": "error",
-   "attempts": 2,
+   "attempts": 3,
    "errors": [
     "Not a PDF file: no %PDF- header"
    ]
@@ -452,16 +452,16 @@
    ]
   },
   "https://www.nsf.gov/bfa/dias/policy/coa/faqs_coatemplatejan2023.pdf": {
-   "checkedAt": "2026-11-09T01:59:48.132Z",
-   "week": "2026-W46",
+   "checkedAt": "2026-11-16T02:25:44.769Z",
+   "week": "2026-W47",
    "httpStatus": 200,
-   "md5": "97611aa28b13fbc60a1b8cb129085190",
-   "bytes": 79104,
-   "etag": "\"1794182542-gzip\"",
-   "lastModified": "Mon, 09 Nov 2026 00:02:22 GMT",
+   "md5": "98a3f4f48a1d75520732fbcddb3ea2cb",
+   "bytes": 79449,
+   "etag": "\"1794755589-gzip\"",
+   "lastModified": "Sun, 15 Nov 2026 15:13:09 GMT",
    "finalUrl": "https://www.nsf.gov/funding/senior-personnel-documents/faq/coa",
    "status": "error",
-   "attempts": 2,
+   "attempts": 3,
    "errors": [
     "Not a PDF file: no %PDF- header"
    ]
