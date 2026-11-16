@@ -1,0 +1,200 @@
+{
+ "runId": "2026-11-16T18-49-26-313Z-8bfaca",
+ "week": "2026-W47",
+ "domain": "iucrc.nsf.gov",
+ "canonical": {
+  "origin": "https://iucrc.nsf.gov",
+  "configured": "https://iucrc.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-16T18:49:31.601Z",
+ "scanned": [
+  "697b6110d5b4a36c",
+  "eb561d57f7f42fe6",
+  "6b847ee9fb73e203",
+  "91607c5617604add",
+  "6482386a4c1660a4",
+  "03c01f86d677fbd6",
+  "1a16a9d61a9470fd",
+  "dca116d9b112fb37",
+  "f46db172fb9bdf9b",
+  "4dde3ff038aa5b63",
+  "cca2f520c8377229",
+  "fa5a83013d5c48df",
+  "cec83c2b7bcc3db1",
+  "cb34e906e333e380",
+  "6bf8a9f2bfcd421f",
+  "c3a5f1571abf2b19",
+  "3373e1abfc8cbbca",
+  "9abd8d598ecf78ab",
+  "a8c2bba5974cfa78",
+  "4e68ab7eb740f12e",
+  "d88ed4f900b785a7",
+  "338c30990bfa1fdc",
+  "33ddf92e53c69627",
+  "743b68bcbe8ee18b",
+  "51cd74f046078b10"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 235,
+  "checked": 235,
+  "brokenCount": 12,
+  "broken": [
+   {
+    "url": "https://gmg.sites.caltech.edu/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/geomechanics-and-mitigation-of-geohazard"
+    ]
+   },
+   {
+    "url": "http://www.ces.asu.edu/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-embedded-systems"
+    ]
+   },
+   {
+    "url": "https://www.quinaultindiannation.com/163/Quinault-Division-of-Natural-Resources-Q",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-advanced-forestry-systems"
+    ]
+   },
+   {
+    "url": "https://www.spi-ind.com/Operations/Seneca",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-advanced-forestry-systems"
+    ]
+   },
+   {
+    "url": "https://www.vaneck.com/de/en/our-firm/forest-project/",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-advanced-forestry-systems"
+    ]
+   },
+   {
+    "url": "https://www.wright.edu/center-for-surveillance-research",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-surveillance-research"
+    ]
+   },
+   {
+    "url": "https://internationalforestcogov.com/",
+    "status": 0,
+    "reason": "EAI_AGAIN",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-advanced-forestry-systems"
+    ]
+   },
+   {
+    "url": "https://www.lockheedmartin.com/",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/multi-functional-integrated-system-technology"
+    ]
+   },
+   {
+    "url": "https://iucrc.nsf.gov/sites/default/files/2020-04/annual-costs.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/universities/solicitation/annual-costs-archive"
+    ]
+   },
+   {
+    "url": "https://www.avangrid.com/aboutus/avangridnetworks",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-weather-innovation-smart-energy-and-resilience-wiser"
+    ]
+   },
+   {
+    "url": "https://iucrc.nsf.gov/centers/center-for-soil-technologies-soiltech",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/focus-area/energy-and-environment/page/3"
+    ]
+   },
+   {
+    "url": "http://www.nystar.state.ny.us/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-weather-innovation-smart-energy-and-resilience-wiser"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 22,
+  "resources": 22,
+  "images": 22,
+  "standards": 10,
+  "link-check": 22,
+  "plain-language": 11,
+  "lighthouse": 3,
+  "public-interest": 2,
+  "third-party": 5,
+  "alfa": 11,
+  "sustainability": 2,
+  "deprecated-html": 1,
+  "tech": 1
+ },
+ "tally": {
+  "ok": 22,
+  "blocked": 3,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-16T18:52:24.348Z"
+}
