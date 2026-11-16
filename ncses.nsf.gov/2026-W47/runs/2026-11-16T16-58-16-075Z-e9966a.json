@@ -1,0 +1,120 @@
+{
+ "runId": "2026-11-16T16-58-16-075Z-e9966a",
+ "week": "2026-W47",
+ "domain": "ncses.nsf.gov",
+ "canonical": {
+  "origin": "https://ncses.nsf.gov",
+  "configured": "https://ncses.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-16T16:58:20.748Z",
+ "scanned": [
+  "67ec5b4b38dfe8db",
+  "7dc4b98f5b109199",
+  "536d04e485afc857",
+  "07219aa41c531feb",
+  "bc74c94f9a542cb7",
+  "5419e0d4cfed173c",
+  "8370f536df7d44a9",
+  "e2f1f73022a8326e",
+  "b50900284df6a66c",
+  "4f89fd8546594cf5",
+  "7cb2a6a8fb5b932e",
+  "e6a9f2640820ad71",
+  "7fd0f393c1dddbfd",
+  "cd50fe6df7b36461",
+  "4a7e3cc8bf89d580",
+  "52e0878bc08f75b1",
+  "82803a596b73eaa5",
+  "5e9bac04aaf1e6ae"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 1883,
+  "checked": 500,
+  "brokenCount": 3,
+  "broken": [
+   {
+    "url": "https://ncses.nsf.gov/pubs/nsf23315/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb202332/sidebar/revisions-to-classification-of-ipeds-degree-data-under-the-ncses-taxonomy-of-disciplines"
+    ]
+   },
+   {
+    "url": "https://ncses.nsf.gov/pubs/nsf24311/assets/data-tables/tables/nsf24311-tab030.pdf",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://ncses.nsf.gov/surveys/federal-support-survey/2021"
+    ]
+   },
+   {
+    "url": "https://www.nasdaq.com/market-activity/stocks/screener",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsbsep20261/references"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 18,
+  "resources": 18,
+  "images": 18,
+  "public-interest": 3,
+  "third-party": 7,
+  "link-check": 18,
+  "alfa": 10,
+  "plain-language": 9,
+  "standards": 11,
+  "tech": 2,
+  "lighthouse": 1,
+  "sustainability": 3
+ },
+ "tally": {
+  "ok": 18,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 17,
+  "error": 0
+ },
+ "finishedAt": "2026-11-16T17:03:24.046Z"
+}
