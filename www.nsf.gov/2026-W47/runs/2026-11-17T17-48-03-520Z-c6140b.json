@@ -1,0 +1,241 @@
+{
+ "runId": "2026-11-17T17-48-03-520Z-c6140b",
+ "week": "2026-W47",
+ "domain": "www.nsf.gov",
+ "canonical": {
+  "origin": "https://www.nsf.gov",
+  "configured": "https://www.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-17T17:48:05.722Z",
+ "scanned": [
+  "d8a1095c6b784b6c",
+  "de1f3ac1c4fec7fb",
+  "2a6ec8c076e99137",
+  "8f24bd936dcd2596",
+  "a930567909f113e4",
+  "ca723898fa8179cc",
+  "99fd8f1d7384741c",
+  "1173afb4f8e6cba1",
+  "693ab51b9cebcec2",
+  "3570c08a600bd5b0",
+  "f7dfa50c479c435a",
+  "f95cd6c6a6410eae",
+  "f69c51e91a22f199",
+  "0a5ee075ec19cf71",
+  "01f21eb534774f5f",
+  "d2971b74368a69bd",
+  "f383c6d6aca294e4",
+  "561877fd7ec0772c",
+  "dd288c51a477889f",
+  "d9438c2f24a7c6b8",
+  "8afa76f62715025b",
+  "23bdb6c8cc767de2",
+  "ae6478665b6487a5"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 308,
+  "checked": 308,
+  "brokenCount": 17,
+  "broken": [
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_pBIOs0O_QdyhEEUcKZi7EA",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/astronomy-astrophysics-advisory-committee/2022-06-06"
+    ]
+   },
+   {
+    "url": "https://www.nap.edu/initiative/committee-on-the-organization-and-management-of-research-in-astronomy-and-astrophysics",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/astronomy-astrophysics-advisory-committee/2022-06-06"
+    ]
+   },
+   {
+    "url": "http://www.saferfederalworkforce.gov/contractors/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/art-accelerating-research-translation/nsf25-548/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.fastlane.nsf.gov/a1/newstan.htm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/aitf-algorithms-field/505125/nsf16-603/solicitation",
+     "https://www.nsf.gov/funding/opportunities/tectonics/13673/nsf17-555/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/cise/collab/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/aitf-algorithms-field/505125/nsf16-603/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=aag",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/aitf-algorithms-field/505125/nsf16-603/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf14043",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/aitf-algorithms-field/505125/nsf16-603/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/policies/SOR_PA_NSF-50_Principal_Investigator_Proposal_File.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/aitf-algorithms-field/505125/nsf16-603/solicitation",
+     "https://www.nsf.gov/funding/opportunities/tectonics/13673/nsf17-555/solicitation"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJIsfu6trzIqGNkCnI0i34_6d7gPRspkQSk",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/national-stem-teacher-corps-webinars-information/2024-06-27"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJItdO2oqjwuE7G8pk1eGidsCRjQoCKMnv0",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/national-stem-teacher-corps-webinars-information/2024-06-27"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJIsce-qrjgtEj84TPUkBnVMeegJuIWlzTo",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/national-stem-teacher-corps-webinars-information/2024-06-27"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJIsduGsrD8pHyv-bcET3j-XU16VMgDCQPE",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/national-stem-teacher-corps-webinars-information/2024-06-27"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJItf-ugqz8oHmWXqJFMv8CVgG88XJuGVOk",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/national-stem-teacher-corps-webinars-information/2024-06-27"
+    ]
+   },
+   {
+    "url": "http://www.cmmigranteeconference.org/",
+    "status": 520,
+    "reason": "HTTP 520",
+    "foundOn": [
+     "https://www.nsf.gov/funding/information/dcl-attendance-2012-nsf-cmmi-research-innovation-conference/nsf12-027"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJItdOyrrzkjGelp4DgURVaJQeQD3guxDis",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/national-stem-teacher-corps-webinars-information/2024-06-27"
+    ]
+   },
+   {
+    "url": "http://www.research.gov/research-portal/appmanager/base/desktop?_nfpb=true&_windowLabel=T31400570011264188753337&wsrp-urlType=render&wsrp-url=&wsrp-requiresRewrite=&wsrp-navigationalState=eJyLL07OL0i1Tc-JT0rMUYNQtuU5BSHGhiYGBqbmBgaGhkZmJoYWFuamxsbG5vGJySWZ*Xmqxi5lmanlQcVFjilliXnJqcGpiUXJGW75RbkAWAEbSQ&wsrp-interactionState=&wsrp-mode=&wsrp-windowState=",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/tectonics/13673/nsf17-555/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf18045&org=NSF",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/tectonics/13673/nsf17-555/solicitation"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 23,
+  "alfa": 12,
+  "plain-language": 12,
+  "resources": 23,
+  "images": 23,
+  "standards": 14,
+  "link-check": 23,
+  "security": 2,
+  "deprecated-html": 2,
+  "sustainability": 4,
+  "third-party": 4,
+  "public-interest": 1,
+  "tech": 3,
+  "lighthouse": 1
+ },
+ "tally": {
+  "ok": 23,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 2,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 2,
+  "error": 0
+ },
+ "finishedAt": "2026-11-17T17:51:31.907Z"
+}
