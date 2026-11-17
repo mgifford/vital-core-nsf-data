@@ -1,0 +1,104 @@
+{
+ "runId": "2026-11-17T17-47-56-122Z-2ce3ef",
+ "week": "2026-W47",
+ "domain": "seedfund.nsf.gov",
+ "canonical": {
+  "origin": "https://seedfund.nsf.gov",
+  "configured": "https://seedfund.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-17T17:47:59.181Z",
+ "scanned": [
+  "7e5aa6688800ff95",
+  "67e076d9c435efff",
+  "5543fdafda653b10",
+  "87b70df7dbea2f30",
+  "04cced54d955c0fb",
+  "8431cb946476abdd",
+  "b0c377a85eb09c7a",
+  "f5bac0e607c85554",
+  "c854b1fbb18d110b",
+  "375ec1e4d4a86d56",
+  "b94ae4c52a1f1d47",
+  "5aac9d8608bc9587",
+  "4f1917e0e457c381",
+  "87b3a84fb05fe5fd",
+  "31542274e3f3e8ea",
+  "c2347b72ecf91da0",
+  "b0825ec71db2dbd5",
+  "9e9149ba05457633",
+  "3d58b7ceea66175e",
+  "8d6adb4c94aa406b",
+  "e31a4b816e2f52f1",
+  "49ce622d68e72c0c",
+  "a8b27da5fdcf5e02",
+  "66515e808046f31e",
+  "dc92f9eeb1e29e1a"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 160,
+  "checked": 160,
+  "brokenCount": 0,
+  "broken": []
+ },
+ "enginesRun": {
+  "axe": 25,
+  "plain-language": 16,
+  "resources": 25,
+  "images": 25,
+  "link-check": 25,
+  "sustainability": 3,
+  "alfa": 6,
+  "standards": 12,
+  "security": 2,
+  "deprecated-html": 8,
+  "public-interest": 2,
+  "third-party": 4,
+  "tech": 2,
+  "lighthouse": 1
+ },
+ "tally": {
+  "ok": 25,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-17T17:50:30.613Z"
+}
