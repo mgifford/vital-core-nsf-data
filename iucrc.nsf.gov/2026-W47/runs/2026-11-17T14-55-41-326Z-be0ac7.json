@@ -1,0 +1,201 @@
+{
+ "runId": "2026-11-17T14-55-41-326Z-be0ac7",
+ "week": "2026-W47",
+ "domain": "iucrc.nsf.gov",
+ "canonical": {
+  "origin": "https://iucrc.nsf.gov",
+  "configured": "https://iucrc.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-17T14:55:41.894Z",
+ "scanned": [
+  "bc62be6ded3adc18",
+  "5b392bf77440b769",
+  "6f9247dd70d23d63",
+  "a4bfd6ea1b2f0cb7",
+  "7f03914e5c868060",
+  "60b512933bde72e6",
+  "47fb30f3fb860e81",
+  "820fade24a2a2e4a",
+  "7e141d1ef84cf0dc",
+  "4b97ce9ca0a4913d",
+  "970e2491656bd049",
+  "7b8d424dc4fcb7b3",
+  "38468354b72e05af",
+  "1c7bd59cf1ba69af",
+  "5d0497bbe2e14c4a",
+  "5c20e8c690445650",
+  "4b178a1251662af9",
+  "4625dea4fd069df6",
+  "aa2bb65a27d91da0",
+  "a61512c1f52d06c4",
+  "715b37bb5a97e96d",
+  "a455022bd5c803f5",
+  "70607f7e896afd8a",
+  "1bb13e7e8794ec0e",
+  "b78d21630edb2acc"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 217,
+  "checked": 217,
+  "brokenCount": 12,
+  "broken": [
+   {
+    "url": "https://www.hpe.com/us/en/home.html",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-advanced-electronics-through-machine-learning"
+    ]
+   },
+   {
+    "url": "https://www.lockheedmartin.com/en-us/index.html",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-advanced-electronics-through-machine-learning"
+    ]
+   },
+   {
+    "url": "https://www.si2technologies.com/",
+    "status": 0,
+    "reason": "ERR_SSL_TLSV1_ALERT_INTERNAL_ERROR",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-advanced-electronics-through-machine-learning"
+    ]
+   },
+   {
+    "url": "http://www.ststnett.no/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-cybersecurity-analytics-and-automation"
+    ]
+   },
+   {
+    "url": "http://www.research.gov/research-portal/appmanager/base/desktop?_nfpb=true&_pageLabel=programIncome",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://iucrc.nsf.gov/universities/solicitation/cost-sharing-program-income-archive"
+    ]
+   },
+   {
+    "url": "https://iucrc.nsf.gov/universities/solicitation/annual-costs",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/universities/solicitation/cost-sharing-program-income-archive"
+    ]
+   },
+   {
+    "url": "http://compositescici.statler.wvu.edu/",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-the-integration-of-composites-into-infrastructure"
+    ]
+   },
+   {
+    "url": "https://mds-rely.org/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-materials-data-science-for-reliability-and-degradation-mds-rely"
+    ]
+   },
+   {
+    "url": "https://www.raytheon.com/cyber",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-hardware-and-embedded-system-security-and-trust"
+    ]
+   },
+   {
+    "url": "https://www.keurigdrpepper.com/",
+    "status": 502,
+    "reason": "HTTP 502",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-bioplastics-and-biocomposites"
+    ]
+   },
+   {
+    "url": "https://www.amd.com/en.html",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-intelligent-distributed-embedded-applications-and-systems-ideas"
+    ]
+   },
+   {
+    "url": "http://www.analog.com/",
+    "status": 0,
+    "reason": "timeout",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-hardware-and-embedded-system-security-and-trust"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "sustainability": 4,
+  "axe": 22,
+  "alfa": 11,
+  "resources": 22,
+  "images": 22,
+  "third-party": 10,
+  "link-check": 22,
+  "deprecated-html": 4,
+  "standards": 13,
+  "public-interest": 2,
+  "tech": 3,
+  "plain-language": 6,
+  "lighthouse": 3,
+  "security": 1
+ },
+ "tally": {
+  "ok": 22,
+  "blocked": 3,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-17T14:58:59.217Z"
+}
