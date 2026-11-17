@@ -1,0 +1,439 @@
+{
+ "runId": "2026-11-17T11-42-31-385Z-2807a0",
+ "week": "2026-W47",
+ "domain": "www.nsf.gov",
+ "canonical": {
+  "origin": "https://www.nsf.gov",
+  "configured": "https://www.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-17T11:42:31.775Z",
+ "scanned": [
+  "e7da882c8fbe31ff",
+  "bcae948692342c32",
+  "8f55d64974105dfe",
+  "73df632eefda6b33",
+  "b50a28a25ca82fd6",
+  "0d7d4a6fc222be38",
+  "82182b5dae0203b9",
+  "f86a472cf41925e8",
+  "2facd8439a4539bd",
+  "a183e22cf20e676b",
+  "2aa9ca180c983609",
+  "02df5ea3b7b53317",
+  "ce622ab8b7b39863",
+  "516ad318235b2056",
+  "48fcbc0a78839ad1",
+  "f0dbf96aa1f5004c",
+  "7d8675bb3adea613",
+  "8d01608fbabe5ac2",
+  "c35924d335ec23c7",
+  "50cb2b846ad6c839",
+  "345ee4bc24ded728",
+  "bfd907a57e5a5e07"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 351,
+  "checked": 351,
+  "brokenCount": 42,
+  "broken": [
+   {
+    "url": "http://www.sbir.gov/registration",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sbir-small-business-innovation-research-program/505116/nsf14-603/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.sam.gov/portal/public/SAM",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sbir-small-business-innovation-research-program/505116/nsf14-603/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.fastlane.nsf.gov/n1/N1AddInst.html",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sbir-small-business-innovation-research-program/505116/nsf14-603/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/eng/iip/sbir/Webinar/SBIR-STTR.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sbir-small-business-innovation-research-program/505116/nsf14-603/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/eng/iip/sbir/topicshome.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sbir-small-business-innovation-research-program/505116/nsf14-603/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.sbir.gov/registration/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sbir-small-business-innovation-research-program/505116/nsf14-603/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/eng/iip/sbir/phase_I.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sbir-small-business-innovation-research-program/505116/nsf14-603/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/eng/iip/sbir/phase_I.jsp?SBTR=solicBhB",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sbir-small-business-innovation-research-program/505116/nsf14-603/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/eng/iip/sbir/definitions.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sbir-small-business-innovation-research-program/505116/nsf14-603/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/eng/iip/sbir/CommercialHistoryTemplate.xls",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sbir-small-business-innovation-research-program/505116/nsf14-603/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.fastlane.nsf.gov/a1/newstan.htm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sbir-small-business-innovation-research-program/505116/nsf14-603/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/eng/iip/sbir/Sample_Postdoc_Mentoring_Plan.doc",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sbir-small-business-innovation-research-program/505116/nsf14-603/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/eng/iip/sbir/documents/Phase_I_Proposal_Preparation_Booklet.pdf?SBTR=solicBflgui",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sbir-small-business-innovation-research-program/505116/nsf14-603/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=aag",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sbir-small-business-innovation-research-program/505116/nsf14-603/solicitation",
+     "https://www.nsf.gov/funding/opportunities/dcl-veterans-research-supplement-vrs-program/nsf14-124"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubs/2014/nsf14043/nsf14043.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sbir-small-business-innovation-research-program/505116/nsf14-603/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/oig/hotline_form.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sbir-small-business-innovation-research-program/505116/nsf14-603/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/policies/SOR_PA_NSF-50_Principal_Investigator_Proposal_File.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sbir-small-business-innovation-research-program/505116/nsf14-603/solicitation",
+     "https://www.nsf.gov/funding/opportunities/ph-geophysics/13682/nsf17-554/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/eng/eec/VeteranEducation.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-veterans-research-supplement-vrs-program/nsf14-124"
+    ]
+   },
+   {
+    "url": "https://www.whitehouse.gov/wp-content/uploads/2022/12/Roadmap-Information-Integrity-RD-2022.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsf-satc-us-national-science-foundation-security-privacy-trust/nsf24-504/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.whitehouse.gov/wp-content/uploads/2023/03/National-Strategy-to-Advance-Privacy-Preserving-Data-Sharing-and-Analytics.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsf-satc-us-national-science-foundation-security-privacy-trust/nsf24-504/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.whitehouse.gov/wp-content/uploads/2023/07/NCWES-2023.07.31.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsf-satc-us-national-science-foundation-security-privacy-trust/nsf24-504/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/cise/bpc",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsf-satc-us-national-science-foundation-security-privacy-trust/nsf24-504/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.ccrhq.org/vision",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/2003-environmental-technologies-systems/5271/nsf03-510"
+    ]
+   },
+   {
+    "url": "http://es.epa.gov/ncer/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/2003-environmental-technologies-systems/5271/nsf03-510"
+    ]
+   },
+   {
+    "url": "http://www.nsf.gov/tse",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/2003-environmental-technologies-systems/5271/nsf03-510"
+    ]
+   },
+   {
+    "url": "http://www.nsf.gov/home/crssprgm/epa/start/tse.htm",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/2003-environmental-technologies-systems/5271/nsf03-510"
+    ]
+   },
+   {
+    "url": "https://www.fastlane.nsf.gov/a1/newstan.htm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/cpa-foundations-computing-processes-artifacts/9682/nsf05-576/solicitation",
+     "https://www.nsf.gov/funding/opportunities/ph-geophysics/13682/nsf17-554/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubs/2001/nsf012/nsf0102_1.html",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/cpa-foundations-computing-processes-artifacts/9682/nsf05-576/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=iin127",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/cpa-foundations-computing-processes-artifacts/9682/nsf05-576/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsb9772",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/cpa-foundations-computing-processes-artifacts/9682/nsf05-576/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=gpm",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/cpa-foundations-computing-processes-artifacts/9682/nsf05-576/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/cgi-bin/getpub?gp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/cpa-foundations-computing-processes-artifacts/9682/nsf05-576/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/home/ebulletin",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/cpa-foundations-computing-processes-artifacts/9682/nsf05-576/solicitation"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/P_B6CzkdTQOWw2wEbt83LQ",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/e-rise-office-hours/2025-05-13"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf18045&org=NSF",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/ph-geophysics/13682/nsf17-554/solicitation"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJIsfu6trzIqGNkCnI0i34_6d7gPRspkQSk",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/national-stem-teacher-corps-webinars-information/2024-08-06"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJItdO2oqjwuE7G8pk1eGidsCRjQoCKMnv0",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/national-stem-teacher-corps-webinars-information/2024-08-06"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJIsce-qrjgtEj84TPUkBnVMeegJuIWlzTo",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/national-stem-teacher-corps-webinars-information/2024-08-06"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJIsduGsrD8pHyv-bcET3j-XU16VMgDCQPE",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/national-stem-teacher-corps-webinars-information/2024-08-06"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJItf-ugqz8oHmWXqJFMv8CVgG88XJuGVOk",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/national-stem-teacher-corps-webinars-information/2024-08-06"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJItdOyrrzkjGelp4DgURVaJQeQD3guxDis",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/national-stem-teacher-corps-webinars-information/2024-08-06"
+    ]
+   },
+   {
+    "url": "https://mcbblog.nsfbio.com/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/mcb-division-molecular-cellular-biosciences-core-programs/505822/nsf24-539"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 21,
+  "plain-language": 10,
+  "resources": 21,
+  "images": 21,
+  "standards": 14,
+  "link-check": 21,
+  "alfa": 9,
+  "third-party": 8,
+  "sustainability": 1,
+  "deprecated-html": 3,
+  "lighthouse": 2,
+  "tech": 2
+ },
+ "tally": {
+  "ok": 21,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 2,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 2,
+  "error": 0
+ },
+ "finishedAt": "2026-11-17T11:45:57.687Z"
+}
