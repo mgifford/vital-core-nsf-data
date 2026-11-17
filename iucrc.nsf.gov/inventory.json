@@ -1,6 +1,6 @@
 {
  "domain": "iucrc.nsf.gov",
- "updatedAt": "2026-11-16T22:29:38.280Z",
+ "updatedAt": "2026-11-17T21:18:46.556Z",
  "pages": {
   "https://iucrc.nsf.gov/search": {
    "pageId": "00f75ff96e970346",
@@ -49,11 +49,11 @@
   },
   "https://iucrc.nsf.gov/centers/center-for-pharmaceutical-development": {
    "pageId": "0a5d30089e6af363",
-   "lastWeek": "2026-W46",
-   "lastScannedAt": "2026-11-09T17:25:34.716Z",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-17T13:44:08.047Z",
    "status": 200,
    "axeViolations": 12,
-   "alfaFailures": null,
+   "alfaFailures": 74,
    "hasIssues": true
   },
   "https://iucrc.nsf.gov/centers/center-for-data-driven-drug-development-and-treatment-assessment-data": {
@@ -130,8 +130,8 @@
   },
   "https://iucrc.nsf.gov/blog/page/2": {
    "pageId": "168cc649b810bb38",
-   "lastWeek": "2026-W46",
-   "lastScannedAt": "2026-11-09T17:26:38.467Z",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-17T11:44:44.009Z",
    "status": 200,
    "axeViolations": 3,
    "alfaFailures": null,
@@ -139,8 +139,8 @@
   },
   "https://iucrc.nsf.gov/document-with-sidenav": {
    "pageId": "1d474bbbcc2f3e78",
-   "lastWeek": "2026-W46",
-   "lastScannedAt": "2026-11-09T17:24:51.629Z",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-17T11:43:26.431Z",
    "status": 200,
    "axeViolations": 15,
    "alfaFailures": 52,
@@ -148,8 +148,8 @@
   },
   "https://iucrc.nsf.gov/centers/center-for-accurate-georeferencing-of-the-environment": {
    "pageId": "1de555a04b0a8378",
-   "lastWeek": "2026-W46",
-   "lastScannedAt": "2026-11-09T20:09:27.171Z",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-17T11:45:06.155Z",
    "status": 200,
    "axeViolations": 12,
    "alfaFailures": null,
@@ -166,26 +166,26 @@
   },
   "https://iucrc.nsf.gov/centers/center-for-electrified-and-automated-trucking-ceat": {
    "pageId": "2114299063fcd666",
-   "lastWeek": "2026-W46",
-   "lastScannedAt": "2026-11-10T13:49:42.453Z",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-17T13:43:47.180Z",
    "status": 200,
    "axeViolations": 12,
-   "alfaFailures": null,
+   "alfaFailures": 48,
    "hasIssues": true
   },
   "https://iucrc.nsf.gov/centers/focus-area/biotechnology": {
    "pageId": "2510038527ab736a",
-   "lastWeek": "2026-W46",
-   "lastScannedAt": "2026-11-10T13:47:31.611Z",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-17T13:44:13.102Z",
    "status": 200,
    "axeViolations": 84,
-   "alfaFailures": 150,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://iucrc.nsf.gov/centers/focus-area/advanced-materials": {
    "pageId": "258566a29450b3b6",
-   "lastWeek": "2026-W46",
-   "lastScannedAt": "2026-11-10T11:03:44.305Z",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-17T13:44:17.322Z",
    "status": 200,
    "axeViolations": 119,
    "alfaFailures": null,
@@ -193,8 +193,8 @@
   },
   "https://iucrc.nsf.gov/centers/achievements/establishing-a-reference-cell-culture-platform": {
    "pageId": "27180125c3161a59",
-   "lastWeek": "2026-W46",
-   "lastScannedAt": "2026-11-10T11:03:35.540Z",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-17T13:45:06.684Z",
    "status": 200,
    "axeViolations": 3,
    "alfaFailures": 33,
@@ -211,8 +211,8 @@
   },
   "https://iucrc.nsf.gov/centers/achievements/page/6": {
    "pageId": "2cfa44ab869bef19",
-   "lastWeek": "2026-W46",
-   "lastScannedAt": "2026-11-10T13:48:46.985Z",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-17T13:44:40.099Z",
    "status": 200,
    "axeViolations": 5,
    "alfaFailures": null,
@@ -247,8 +247,8 @@
   },
   "https://iucrc.nsf.gov/universities/solicitation/center-requirements": {
    "pageId": "38468354b72e05af",
-   "lastWeek": "2026-W46",
-   "lastScannedAt": "2026-11-10T11:02:43.280Z",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-17T14:56:59.487Z",
    "status": 200,
    "axeViolations": 4,
    "alfaFailures": 31,
@@ -283,11 +283,11 @@
   },
   "https://iucrc.nsf.gov/centers/center-for-identification-technology-research": {
    "pageId": "3ce256bbb85ff714",
-   "lastWeek": "2026-W46",
-   "lastScannedAt": "2026-11-09T11:23:58.828Z",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-17T13:43:23.900Z",
    "status": 200,
    "axeViolations": 13,
-   "alfaFailures": null,
+   "alfaFailures": 165,
    "hasIssues": true
   },
   "https://iucrc.nsf.gov/centers/alternative-sustainable-and-intelligent-computing": {
@@ -319,35 +319,35 @@
   },
   "https://iucrc.nsf.gov/centers/center-for-advanced-research-in-drying": {
    "pageId": "420e3a390cda9835",
-   "lastWeek": "2026-W46",
-   "lastScannedAt": "2026-11-10T13:48:03.623Z",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-17T16:51:22.374Z",
    "status": 200,
    "axeViolations": 13,
-   "alfaFailures": null,
+   "alfaFailures": 132,
    "hasIssues": true
   },
   "https://iucrc.nsf.gov/universities": {
    "pageId": "4625dea4fd069df6",
-   "lastWeek": "2026-W46",
-   "lastScannedAt": "2026-11-10T13:49:32.469Z",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-17T14:57:41.331Z",
    "status": 200,
    "axeViolations": 6,
-   "alfaFailures": null,
+   "alfaFailures": 40,
    "hasIssues": true
   },
   "https://iucrc.nsf.gov/centers/center-for-cybersecurity-analytics-and-automation": {
    "pageId": "47fb30f3fb860e81",
-   "lastWeek": "2026-W46",
-   "lastScannedAt": "2026-11-09T11:23:54.182Z",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-17T14:56:20.957Z",
    "status": 200,
    "axeViolations": 13,
-   "alfaFailures": 84,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://iucrc.nsf.gov/centers/focus-area/advanced-electronics": {
    "pageId": "497a931523aca590",
-   "lastWeek": "2026-W46",
-   "lastScannedAt": "2026-11-09T17:26:27.867Z",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-17T11:44:48.159Z",
    "status": 200,
    "axeViolations": 69,
    "alfaFailures": null,
@@ -364,8 +364,8 @@
   },
   "https://iucrc.nsf.gov/centers/achievements/measurement-of-humidity": {
    "pageId": "4b178a1251662af9",
-   "lastWeek": "2026-W46",
-   "lastScannedAt": "2026-11-09T11:23:42.194Z",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-17T14:57:27.895Z",
    "status": 200,
    "axeViolations": 4,
    "alfaFailures": null,
@@ -373,11 +373,11 @@
   },
   "https://iucrc.nsf.gov/centers/center-for-the-integration-of-composites-into-infrastructure": {
    "pageId": "4b97ce9ca0a4913d",
-   "lastWeek": "2026-W46",
-   "lastScannedAt": "2026-11-09T13:11:45.605Z",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-17T14:56:45.503Z",
    "status": 200,
    "axeViolations": 13,
-   "alfaFailures": 124,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://iucrc.nsf.gov/centers/center-for-surveillance-research": {
@@ -463,11 +463,11 @@
   },
   "https://iucrc.nsf.gov/centers/center-for-advanced-electronics-through-machine-learning": {
    "pageId": "5b392bf77440b769",
-   "lastWeek": "2026-W46",
-   "lastScannedAt": "2026-11-10T11:02:48.233Z",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-17T14:55:56.255Z",
    "status": 200,
    "axeViolations": 13,
-   "alfaFailures": null,
+   "alfaFailures": 121,
    "hasIssues": true
   },
   "https://iucrc.nsf.gov/centers/achievements/page/2": {
@@ -499,8 +499,8 @@
   },
   "https://iucrc.nsf.gov/centers/achievements/red-mud": {
    "pageId": "60b512933bde72e6",
-   "lastWeek": "2026-W46",
-   "lastScannedAt": "2026-11-10T11:02:28.077Z",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-17T14:56:15.710Z",
    "status": 200,
    "axeViolations": 4,
    "alfaFailures": 34,
@@ -526,8 +526,8 @@
   },
   "https://iucrc.nsf.gov/centers/center-for-interdisciplinary-research-on-convective-storms": {
    "pageId": "662f6d4953cd1c8a",
-   "lastWeek": "2026-W46",
-   "lastScannedAt": "2026-11-09T19:03:03.048Z",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-17T13:43:19.648Z",
    "status": 200,
    "axeViolations": 13,
    "alfaFailures": null,
@@ -535,11 +535,11 @@
   },
   "https://iucrc.nsf.gov/centers/achievements/compact-spectrometer-designs": {
    "pageId": "669039965070489c",
-   "lastWeek": "2026-W46",
-   "lastScannedAt": "2026-11-10T13:47:42.550Z",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-17T13:45:16.488Z",
    "status": 200,
    "axeViolations": 3,
-   "alfaFailures": 33,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://iucrc.nsf.gov/centers/integrated-power-management-circuits-and-systems---power-one-ic": {
@@ -562,8 +562,8 @@
   },
   "https://iucrc.nsf.gov/centers/center-for-materials-data-science-for-reliability-and-degradation-mds-rely": {
    "pageId": "6f9247dd70d23d63",
-   "lastWeek": "2026-W46",
-   "lastScannedAt": "2026-11-10T12:54:16.607Z",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-17T14:56:01.892Z",
    "status": 200,
    "axeViolations": 13,
    "alfaFailures": null,
@@ -589,11 +589,11 @@
   },
   "https://iucrc.nsf.gov/centers/center-for-metamaterials": {
    "pageId": "70607f7e896afd8a",
-   "lastWeek": "2026-W46",
-   "lastScannedAt": "2026-11-09T13:12:50.206Z",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-17T14:58:07.067Z",
    "status": 200,
    "axeViolations": 13,
-   "alfaFailures": 79,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://iucrc.nsf.gov/admin": {
@@ -625,11 +625,11 @@
   },
   "https://iucrc.nsf.gov/industry/joining-a-center": {
    "pageId": "73c4d8fa77c40f86",
-   "lastWeek": "2026-W46",
-   "lastScannedAt": "2026-11-10T11:03:30.661Z",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-17T13:44:25.818Z",
    "status": 200,
    "axeViolations": 4,
-   "alfaFailures": 33,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://iucrc.nsf.gov/centers/achievements/quantifying-wildfire-mitigation-activities-done-by-residents": {
@@ -652,8 +652,8 @@
   },
   "https://iucrc.nsf.gov/centers/center-on-intelligent-storage": {
    "pageId": "77bf8a894b2b50e6",
-   "lastWeek": "2026-W46",
-   "lastScannedAt": "2026-11-09T14:23:29.434Z",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-17T13:43:38.105Z",
    "status": 200,
    "axeViolations": 12,
    "alfaFailures": 77,
@@ -697,8 +697,8 @@
   },
   "https://iucrc.nsf.gov/blog": {
    "pageId": "7b8d424dc4fcb7b3",
-   "lastWeek": "2026-W46",
-   "lastScannedAt": "2026-11-09T20:09:04.220Z",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-17T14:56:54.169Z",
    "status": 200,
    "axeViolations": 3,
    "alfaFailures": 44,
@@ -733,20 +733,20 @@
   },
   "https://iucrc.nsf.gov/centers/center-for-bioanalytic-metrology": {
    "pageId": "7e141d1ef84cf0dc",
-   "lastWeek": "2026-W46",
-   "lastScannedAt": "2026-11-10T12:55:39.959Z",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-17T14:56:39.769Z",
    "status": 200,
    "axeViolations": 13,
-   "alfaFailures": null,
+   "alfaFailures": 132,
    "hasIssues": true
   },
   "https://iucrc.nsf.gov/centers/achievements/new-technique-surveillance-images": {
    "pageId": "7f03914e5c868060",
-   "lastWeek": "2026-W46",
-   "lastScannedAt": "2026-11-09T19:04:19.191Z",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-17T14:56:10.767Z",
    "status": 200,
    "axeViolations": 4,
-   "alfaFailures": 33,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://iucrc.nsf.gov/centers/focus-area/health-and-safety": {
@@ -760,20 +760,20 @@
   },
   "https://iucrc.nsf.gov/universities/solicitation/cost-sharing-program-income-archive": {
    "pageId": "820fade24a2a2e4a",
-   "lastWeek": "2026-W46",
-   "lastScannedAt": "2026-11-09T14:25:19.608Z",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-17T14:56:25.392Z",
    "status": 200,
    "axeViolations": 4,
-   "alfaFailures": 37,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://iucrc.nsf.gov/centers/wood-based-composites": {
    "pageId": "8567f6dd7035b14f",
-   "lastWeek": "2026-W46",
-   "lastScannedAt": "2026-11-09T11:24:02.705Z",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-17T13:44:44.010Z",
    "status": 200,
    "axeViolations": 12,
-   "alfaFailures": 95,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://iucrc.nsf.gov/about": {
@@ -850,11 +850,11 @@
   },
   "https://iucrc.nsf.gov/industry/joining-a-center/membership-agreement": {
    "pageId": "9a643f971dbcdee9",
-   "lastWeek": "2026-W46",
-   "lastScannedAt": "2026-11-10T12:54:20.851Z",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-17T13:44:03.130Z",
    "status": 200,
    "axeViolations": 11,
-   "alfaFailures": null,
+   "alfaFailures": 37,
    "hasIssues": true
   },
   "https://iucrc.nsf.gov/centers/achievements/sustainable-pesticides": {
@@ -886,8 +886,8 @@
   },
   "https://iucrc.nsf.gov/centers/center-for-spatiotemporal-thinking-computing-and-applications": {
    "pageId": "a0b3be3ffab860ff",
-   "lastWeek": "2026-W46",
-   "lastScannedAt": "2026-11-09T13:11:50.831Z",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-17T13:43:33.234Z",
    "status": 200,
    "axeViolations": 13,
    "alfaFailures": 103,
@@ -904,8 +904,8 @@
   },
   "https://iucrc.nsf.gov/centers/center-for-autonomous-air-mobility-and-sensing-caams": {
    "pageId": "a455022bd5c803f5",
-   "lastWeek": "2026-W46",
-   "lastScannedAt": "2026-11-09T20:08:14.808Z",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-17T14:58:02.153Z",
    "status": 200,
    "axeViolations": 13,
    "alfaFailures": null,
@@ -913,8 +913,8 @@
   },
   "https://iucrc.nsf.gov/centers/water-and-environmental-technology": {
    "pageId": "a4bfd6ea1b2f0cb7",
-   "lastWeek": "2026-W46",
-   "lastScannedAt": "2026-11-10T11:01:46.280Z",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-17T14:56:06.197Z",
    "status": 200,
    "axeViolations": 12,
    "alfaFailures": null,
@@ -922,8 +922,8 @@
   },
   "https://iucrc.nsf.gov/centers/center-for-computing-and-genomics": {
    "pageId": "a61512c1f52d06c4",
-   "lastWeek": "2026-W46",
-   "lastScannedAt": "2026-11-10T12:55:00.492Z",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-17T14:57:52.668Z",
    "status": 200,
    "axeViolations": 13,
    "alfaFailures": 87,
@@ -949,11 +949,11 @@
   },
   "https://iucrc.nsf.gov/centers/center-for-hardware-and-embedded-system-security-and-trust": {
    "pageId": "aa2bb65a27d91da0",
-   "lastWeek": "2026-W46",
-   "lastScannedAt": "2026-11-09T19:03:35.502Z",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-17T14:57:46.855Z",
    "status": 200,
    "axeViolations": 13,
-   "alfaFailures": null,
+   "alfaFailures": 128,
    "hasIssues": true
   },
   "https://iucrc.nsf.gov/centers/center-for-wireless-innovation-towards-secure-pervasive-efficient-and-resilient-next-g-networks-wisper": {
@@ -967,11 +967,11 @@
   },
   "https://iucrc.nsf.gov/centers/wind-energy-science-technology-and-research": {
    "pageId": "acbd368e2b7ea93a",
-   "lastWeek": "2026-W46",
-   "lastScannedAt": "2026-11-09T17:25:58.940Z",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-17T13:43:52.262Z",
    "status": 200,
    "axeViolations": 13,
-   "alfaFailures": null,
+   "alfaFailures": 120,
    "hasIssues": true
   },
   "https://iucrc.nsf.gov/centers/focus-area/biotechnology/page/3": {
@@ -1003,8 +1003,8 @@
   },
   "https://iucrc.nsf.gov/centers/science-of-heterogeneous-additive-printing-of-3d-materials": {
    "pageId": "af0a446423d7aaa7",
-   "lastWeek": "2026-W46",
-   "lastScannedAt": "2026-11-10T12:55:30.526Z",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-17T11:44:12.707Z",
    "status": 200,
    "axeViolations": 13,
    "alfaFailures": null,
@@ -1021,11 +1021,11 @@
   },
   "https://iucrc.nsf.gov/centers/achievements/firebench": {
    "pageId": "af76da9b0cea54d6",
-   "lastWeek": "2026-W46",
-   "lastScannedAt": "2026-11-09T13:12:58.781Z",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-17T13:43:58.299Z",
    "status": 200,
    "axeViolations": 4,
-   "alfaFailures": null,
+   "alfaFailures": 32,
    "hasIssues": true
   },
   "https://iucrc.nsf.gov/centers/wind-hazard-and-infrastructure-performance": {
@@ -1048,17 +1048,17 @@
   },
   "https://iucrc.nsf.gov/centers/achievements/smartphone-app-detects-risk-of-fall": {
    "pageId": "b27f6c93e53005f3",
-   "lastWeek": "2026-W46",
-   "lastScannedAt": "2026-11-10T13:49:07.477Z",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-17T11:43:45.319Z",
    "status": 200,
    "axeViolations": 4,
-   "alfaFailures": null,
+   "alfaFailures": 33,
    "hasIssues": true
   },
   "https://iucrc.nsf.gov/2019/01/14/hello-world": {
    "pageId": "b2f05717ce6432c1",
-   "lastWeek": "2026-W46",
-   "lastScannedAt": "2026-11-09T14:24:41.978Z",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-17T11:44:21.893Z",
    "status": 200,
    "axeViolations": 4,
    "alfaFailures": 29,
@@ -1084,8 +1084,8 @@
   },
   "https://iucrc.nsf.gov/centers/center-for-intelligent-distributed-embedded-applications-and-systems-ideas": {
    "pageId": "b78d21630edb2acc",
-   "lastWeek": "2026-W46",
-   "lastScannedAt": "2026-11-09T20:08:27.470Z",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-17T14:58:15.135Z",
    "status": 200,
    "axeViolations": 13,
    "alfaFailures": 100,
@@ -1102,11 +1102,11 @@
   },
   "https://iucrc.nsf.gov/centers/security-and-software-engineering-research-center": {
    "pageId": "ba33937b4efe3f34",
-   "lastWeek": "2026-W46",
-   "lastScannedAt": "2026-11-09T13:12:24.216Z",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-17T11:43:21.133Z",
    "status": 200,
    "axeViolations": 12,
-   "alfaFailures": null,
+   "alfaFailures": 151,
    "hasIssues": true
   },
   "https://iucrc.nsf.gov/centers/broadband-wireless-access-and-applications-center": {
@@ -1120,8 +1120,8 @@
   },
   "https://iucrc.nsf.gov/centers/focus-area/information-communication-and-computing": {
    "pageId": "bae1d3973065408b",
-   "lastWeek": "2026-W46",
-   "lastScannedAt": "2026-11-10T11:02:52.368Z",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-17T11:43:52.441Z",
    "status": 200,
    "axeViolations": 268,
    "alfaFailures": 335,
@@ -1129,8 +1129,8 @@
   },
   "https://iucrc.nsf.gov/centers/cloud-and-autonomic-computing": {
    "pageId": "bc62be6ded3adc18",
-   "lastWeek": "2026-W46",
-   "lastScannedAt": "2026-11-10T12:55:14.800Z",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-17T14:55:50.233Z",
    "status": 200,
    "axeViolations": 13,
    "alfaFailures": 85,
@@ -1147,8 +1147,8 @@
   },
   "https://iucrc.nsf.gov/centers/focus-area/energy-and-environment/page/2": {
    "pageId": "bf72588c17844bc9",
-   "lastWeek": "2026-W46",
-   "lastScannedAt": "2026-11-09T14:25:49.737Z",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-17T13:44:34.132Z",
    "status": 200,
    "axeViolations": 175,
    "alfaFailures": 245,
@@ -1156,8 +1156,8 @@
   },
   "https://iucrc.nsf.gov/centers/center-for-solid-state-electric-power-storage-ceps": {
    "pageId": "c24ed09982133b78",
-   "lastWeek": "2026-W46",
-   "lastScannedAt": "2026-11-10T12:55:44.206Z",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-17T11:44:08.260Z",
    "status": 200,
    "axeViolations": 13,
    "alfaFailures": null,
@@ -1201,11 +1201,11 @@
   },
   "https://iucrc.nsf.gov/centers/achievements/low-cost-norovirus-detection-platform": {
    "pageId": "c72f3a1d04ca72a4",
-   "lastWeek": "2026-W46",
-   "lastScannedAt": "2026-11-09T19:04:10.695Z",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-17T13:44:29.962Z",
    "status": 200,
    "axeViolations": 4,
-   "alfaFailures": 34,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://iucrc.nsf.gov/centers/achievements/unlocking-the-power-of-rna-interference": {
@@ -1228,11 +1228,11 @@
   },
   "https://iucrc.nsf.gov/contact-us": {
    "pageId": "ce39adf7089f18e6",
-   "lastWeek": "2026-W46",
-   "lastScannedAt": "2026-11-09T14:25:15.430Z",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-17T13:45:11.717Z",
    "status": 200,
    "axeViolations": 3,
-   "alfaFailures": null,
+   "alfaFailures": 38,
    "hasIssues": true
   },
   "https://iucrc.nsf.gov/centers/ceramic-composite-and-optical-materials-center": {
@@ -1291,11 +1291,11 @@
   },
   "https://iucrc.nsf.gov/centers/focus-area/civil-infrastructure-systems": {
    "pageId": "d7b1500ed1920743",
-   "lastWeek": "2026-W46",
-   "lastScannedAt": "2026-11-10T12:54:01.752Z",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-17T11:44:52.418Z",
    "status": 200,
    "axeViolations": 21,
-   "alfaFailures": null,
+   "alfaFailures": 54,
    "hasIssues": true
   },
   "https://iucrc.nsf.gov/centers/center-for-advanced-forestry-systems": {
@@ -1309,11 +1309,11 @@
   },
   "https://iucrc.nsf.gov/centers/center-for-hybrid-multicore-productivity-research": {
    "pageId": "dd2ba41ebe1c0a4d",
-   "lastWeek": "2026-W46",
-   "lastScannedAt": "2026-11-09T20:08:22.600Z",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-17T11:43:17.077Z",
    "status": 200,
    "axeViolations": 12,
-   "alfaFailures": 72,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://iucrc.nsf.gov/centers/space-high-performance-and-resilient-computing": {
@@ -1345,29 +1345,29 @@
   },
   "https://iucrc.nsf.gov/industry": {
    "pageId": "e0ea06998adb4334",
-   "lastWeek": "2026-W46",
-   "lastScannedAt": "2026-11-09T19:04:45.756Z",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-17T13:44:48.199Z",
    "status": 200,
    "axeViolations": 6,
-   "alfaFailures": null,
+   "alfaFailures": 43,
    "hasIssues": true
   },
   "https://iucrc.nsf.gov/centers/center-for-insect-biomanufacturing-and-innovation-cibi": {
    "pageId": "e1078eb25568e7df",
-   "lastWeek": "2026-W46",
-   "lastScannedAt": "2026-11-09T13:13:10.211Z",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-17T13:44:21.680Z",
    "status": 200,
    "axeViolations": 13,
-   "alfaFailures": 90,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://iucrc.nsf.gov/centers/center-for-visual-and-decision-informatics": {
    "pageId": "e63795ce73b9b21f",
-   "lastWeek": "2026-W46",
-   "lastScannedAt": "2026-11-10T13:49:59.690Z",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-17T13:43:42.996Z",
    "status": 200,
    "axeViolations": 12,
-   "alfaFailures": 158,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://iucrc.nsf.gov/centers/center-for-accelerated-real-time-analytics": {
@@ -1399,11 +1399,11 @@
   },
   "https://iucrc.nsf.gov/centers/center-for-innovation-in-risk-catastrophes-and-decisions-circad": {
    "pageId": "e927e765c3c31cde",
-   "lastWeek": "2026-W46",
-   "lastScannedAt": "2026-11-10T12:54:56.144Z",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-17T11:43:11.805Z",
    "status": 200,
    "axeViolations": 13,
-   "alfaFailures": null,
+   "alfaFailures": 74,
    "hasIssues": true
   },
   "https://iucrc.nsf.gov/centers/geomechanics-and-mitigation-of-geohazard": {
@@ -1417,8 +1417,8 @@
   },
   "https://iucrc.nsf.gov/centers/focus-area/system-design-and-simulation": {
    "pageId": "ec5a166cec524733",
-   "lastWeek": "2026-W46",
-   "lastScannedAt": "2026-11-10T13:49:17.155Z",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-17T11:44:16.981Z",
    "status": 200,
    "axeViolations": 80,
    "alfaFailures": 123,
@@ -1444,11 +1444,11 @@
   },
   "https://iucrc.nsf.gov/collections": {
    "pageId": "f481df78f0fca5d0",
-   "lastWeek": "2026-W46",
-   "lastScannedAt": "2026-11-09T19:04:01.726Z",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-17T11:45:10.211Z",
    "status": 200,
    "axeViolations": 4,
-   "alfaFailures": null,
+   "alfaFailures": 29,
    "hasIssues": true
   },
   "https://iucrc.nsf.gov/centers/wheat-genetics-resource-center": {
@@ -1498,8 +1498,8 @@
   },
   "https://iucrc.nsf.gov/centers/robots-and-sensors-for-the-human-well-being": {
    "pageId": "15da606d5e971918",
-   "lastWeek": "2026-W46",
-   "lastScannedAt": "2026-11-09T13:12:20.339Z",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-17T11:44:26.567Z",
    "status": 200,
    "axeViolations": 13,
    "alfaFailures": null,
@@ -1516,11 +1516,11 @@
   },
   "https://iucrc.nsf.gov/centers/science-center-for-marine-fisheries": {
    "pageId": "1969de495e88916a",
-   "lastWeek": "2026-W46",
-   "lastScannedAt": "2026-11-09T11:23:29.956Z",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-17T11:43:31.149Z",
    "status": 200,
    "axeViolations": 13,
-   "alfaFailures": null,
+   "alfaFailures": 114,
    "hasIssues": true
   },
   "https://iucrc.nsf.gov/centers/achievements": {
@@ -1543,8 +1543,8 @@
   },
   "https://iucrc.nsf.gov/centers/center-for-science-technology-and-advanced-research-in-space-c-stars": {
    "pageId": "203d82ff99d62ae4",
-   "lastWeek": "2026-W46",
-   "lastScannedAt": "2026-11-09T13:12:46.364Z",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-17T16:51:28.292Z",
    "status": 200,
    "axeViolations": 11,
    "alfaFailures": null,
@@ -1597,17 +1597,17 @@
   },
   "https://iucrc.nsf.gov/centers/next-generation-photovoltaics": {
    "pageId": "5c20e8c690445650",
-   "lastWeek": "2026-W46",
-   "lastScannedAt": "2026-11-09T14:24:06.096Z",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-17T14:57:12.438Z",
    "status": 200,
    "axeViolations": 12,
-   "alfaFailures": null,
+   "alfaFailures": 97,
    "hasIssues": true
   },
   "https://iucrc.nsf.gov/centers/achievements/ai-helps-shift-touch-id-to-touchless": {
    "pageId": "5f203d98fb8735bf",
-   "lastWeek": "2026-W46",
-   "lastScannedAt": "2026-11-10T12:55:25.520Z",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-17T11:44:57.632Z",
    "status": 200,
    "axeViolations": 3,
    "alfaFailures": 32,
@@ -1642,8 +1642,8 @@
   },
   "https://iucrc.nsf.gov/centers/achievements/microfluidics-based-bioanalytical-solutions": {
    "pageId": "6dfaa349496a376a",
-   "lastWeek": "2026-W46",
-   "lastScannedAt": "2026-11-10T11:02:19.102Z",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-17T11:43:58.482Z",
    "status": 200,
    "axeViolations": 4,
    "alfaFailures": 34,
@@ -1651,8 +1651,8 @@
   },
   "https://iucrc.nsf.gov/centers/center-for-bioplastics-and-biocomposites": {
    "pageId": "715b37bb5a97e96d",
-   "lastWeek": "2026-W46",
-   "lastScannedAt": "2026-11-09T17:25:14.150Z",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-17T14:57:58.077Z",
    "status": 200,
    "axeViolations": 13,
    "alfaFailures": null,
@@ -1660,11 +1660,11 @@
   },
   "https://iucrc.nsf.gov/centers/fiber-wireless-integration-and-networking-for-heterogeneous-mobile-data-communications": {
    "pageId": "72f70afcec7651cc",
-   "lastWeek": "2026-W46",
-   "lastScannedAt": "2026-11-09T20:07:45.574Z",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-17T11:44:39.948Z",
    "status": 200,
    "axeViolations": 12,
-   "alfaFailures": 66,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://iucrc.nsf.gov/2019/01/15/second-post": {
@@ -1678,11 +1678,11 @@
   },
   "https://iucrc.nsf.gov/centers/center-for-advanced-subsurface-earth-resource-models": {
    "pageId": "7bd6a306f40142ef",
-   "lastWeek": "2026-W46",
-   "lastScannedAt": "2026-11-09T14:25:25.157Z",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-17T13:45:20.670Z",
    "status": 200,
    "axeViolations": 13,
-   "alfaFailures": null,
+   "alfaFailures": 139,
    "hasIssues": true
   },
   "https://iucrc.nsf.gov/centers/center-for-advanced-semiconductor-chips-with-accelerated-performance": {
@@ -1714,11 +1714,11 @@
   },
   "https://iucrc.nsf.gov/centers/center-for-digital-twins-in-manufacturing": {
    "pageId": "970e2491656bd049",
-   "lastWeek": "2026-W46",
-   "lastScannedAt": "2026-11-10T11:03:25.337Z",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-17T14:56:49.982Z",
    "status": 200,
    "axeViolations": 13,
-   "alfaFailures": 79,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://iucrc.nsf.gov/centers/center-for-industrial-metal-forming-cimf": {
@@ -1786,11 +1786,11 @@
   },
   "https://iucrc.nsf.gov/centers/achievements/page/7": {
    "pageId": "c907094144528796",
-   "lastWeek": "2026-W46",
-   "lastScannedAt": "2026-11-09T20:08:54.692Z",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-17T11:44:03.659Z",
    "status": 200,
    "axeViolations": 5,
-   "alfaFailures": null,
+   "alfaFailures": 42,
    "hasIssues": true
   },
   "https://iucrc.nsf.gov/centers/center-for-particulate-and-surfactant-systems": {
@@ -1822,11 +1822,11 @@
   },
   "https://iucrc.nsf.gov/centers/center-for-visual-structural-expertise-for-resilience-viser": {
    "pageId": "ec1d56132b4ae10e",
-   "lastWeek": "2026-W46",
-   "lastScannedAt": "2026-11-10T13:49:01.387Z",
+   "lastWeek": "2026-W47",
+   "lastScannedAt": "2026-11-17T11:45:18.579Z",
    "status": 200,
    "axeViolations": 11,
-   "alfaFailures": 60,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://iucrc.nsf.gov/centers/wind-hazard-and-infrastructure-performance-old": {

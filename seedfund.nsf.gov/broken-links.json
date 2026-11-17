@@ -1,6 +1,6 @@
 {
  "domain": "seedfund.nsf.gov",
- "updatedAt": "2026-11-16T22:29:39.140Z",
+ "updatedAt": "2026-11-17T21:18:48.062Z",
  "links": {
   "https://relavomedical.com/": {
    "status": 0,
@@ -123,7 +123,8 @@
     "https://seedfund.nsf.gov/centers/ceps/novel-aerogel-based-insulation-may-transform-building-efficiency",
     "https://seedfund.nsf.gov/centers/ceps/biopreservation-material-could-end-the-wait-for-organ-transplants",
     "https://seedfund.nsf.gov/centers/ceps/low-cost-one-step-production-of-solar-silicon-from-natural-quartzite",
-    "https://seedfund.nsf.gov/centers/ceps/novel-rnai-technology-targets-leading-global-crop-pest"
+    "https://seedfund.nsf.gov/centers/ceps/novel-rnai-technology-targets-leading-global-crop-pest",
+    "https://seedfund.nsf.gov/centers/ceps/innovation-sparks-life-into-hplc-detection-of-compounds"
    ]
   },
   "http://www.pcka.com/": {
@@ -235,13 +236,14 @@
    "status": 0,
    "reason": "ENOTFOUND",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W43",
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W47"
    ],
-   "weeksBroken": 3,
+   "weeksBroken": 4,
    "foundOn": [
     "https://seedfund.nsf.gov/resources/awardees/supplement/overview"
    ]
@@ -290,13 +292,14 @@
    "status": 406,
    "reason": "HTTP 406",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksBroken": 3,
+   "weeksBroken": 4,
    "foundOn": [
     "https://seedfund.nsf.gov/news/wavelogix"
    ]
@@ -370,11 +373,12 @@
    "status": 0,
    "reason": "ENOTFOUND",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W47",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W47"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://seedfund.nsf.gov/awardees/history/details?company=sonera-magnetics-inc"
    ]
@@ -383,14 +387,15 @@
    "status": 0,
    "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W47"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
-    "https://seedfund.nsf.gov/portfolio/details?company=clearflame-engines-inc"
+    "https://seedfund.nsf.gov/centers/ceps/a-fast-cost-effective-path-to-decarbonization-of-heavy-duty-vehicles"
    ]
   },
   "https://seedfund.nsf.gov/resources/awardees/supplement/[/assets/files/awardees/ED-Supp-Template.docx](https://seedfund.nsf.gov/assets/files/awardees/ED-Supp-Template.docx)": {
@@ -530,11 +535,12 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W47",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W47"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://seedfund.nsf.gov/styleguide/layouts"
    ]
@@ -543,11 +549,12 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W47",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W47"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://seedfund.nsf.gov/styleguide/layouts"
    ]
@@ -556,11 +563,12 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W47",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W47"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://seedfund.nsf.gov/styleguide/layouts"
    ]
@@ -569,15 +577,16 @@
    "status": 0,
    "reason": "ENOTFOUND",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksBroken": 3,
+   "weeksBroken": 4,
    "foundOn": [
-    "https://seedfund.nsf.gov/styleguide/typography"
+    "https://seedfund.nsf.gov/styleguide/layouts"
    ]
   },
   "http://www.solaridipm.com/": {
@@ -624,25 +633,27 @@
    "status": 402,
    "reason": "HTTP 402",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W47"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
-    "https://seedfund.nsf.gov/news/MicrobialInsights"
+    "https://seedfund.nsf.gov/showcase/news"
    ]
   },
   "https://www.skiptek.com/": {
    "status": 0,
-   "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
+   "reason": "EAI_AGAIN",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W47",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W47"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://seedfund.nsf.gov/showcase/news"
    ]
@@ -651,42 +662,45 @@
    "status": 0,
    "reason": "ENOTFOUND",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
-    "https://seedfund.nsf.gov/news/LivingInkTechnologies"
+    "https://seedfund.nsf.gov/showcase/news"
    ]
   },
   "https://medeciphersolutions.com/": {
    "status": 0,
    "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
-    "https://seedfund.nsf.gov/news/medecipher"
+    "https://seedfund.nsf.gov/showcase/news"
    ]
   },
   "https://www.usmd.edu/newsroom/news/2397": {
    "status": 0,
    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
-    "https://seedfund.nsf.gov/news/minnowtech"
+    "https://seedfund.nsf.gov/showcase/news"
    ]
   },
   "https://www.sdbj.com/manufacturing/making-market-headway-with-microplastics-solution/": {
@@ -749,14 +763,16 @@
    "status": 0,
    "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksBroken": 3,
+   "weeksBroken": 4,
    "foundOn": [
+    "https://seedfund.nsf.gov/news/clearflame",
     "https://seedfund.nsf.gov/what-we-fund"
    ]
   },
@@ -857,11 +873,12 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W47",
    "_weeks": [
-    "2026-W45"
+    "2026-W45",
+    "2026-W47"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://seedfund.nsf.gov/resources/awardees/supplement/overview"
    ]
@@ -1297,6 +1314,45 @@
    "weeksBroken": 1,
    "foundOn": [
     "https://seedfund.nsf.gov/news/next"
+   ]
+  },
+  "https://www.meer.com/en/83375-revolutionizing-fashion-bio-based-fabrics-from-fruits": {
+   "status": 0,
+   "reason": "CERT_HAS_EXPIRED",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/showcase/news"
+   ]
+  },
+  "https://www.bloom-life.com/": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/showcase/news"
+   ]
+  },
+  "http://www.skiptechnology.com/": {
+   "status": 0,
+   "reason": "EAI_AGAIN",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/awardees/phase-2/details?company=skip-technology-inc"
    ]
   }
  }

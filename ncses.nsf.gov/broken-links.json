@@ -1,6 +1,6 @@
 {
  "domain": "ncses.nsf.gov",
- "updatedAt": "2026-11-16T22:29:37.961Z",
+ "updatedAt": "2026-11-17T21:18:45.911Z",
  "links": {
   "http://ncses.nsf.gov/pubs/nsf23300/": {
    "status": 0,
@@ -980,16 +980,18 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W47"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
-    "https://ncses.nsf.gov/pubs/nsbsep20261",
-    "https://ncses.nsf.gov/pubs/nsb20261",
-    "https://ncses.nsf.gov/pubs/nsb20223/table/SHED-3"
+    "https://ncses.nsf.gov/pubs/nsb202332/table/SHED-11",
+    "https://ncses.nsf.gov/pubs/nsb202332/table/SAHED-1",
+    "https://ncses.nsf.gov/pubs/nsbsep20261/translation-to-impact-u-s-and-global-science-technology-and-innovation-output-2",
+    "https://ncses.nsf.gov/pubs/nsb202332/table/SHED-6"
    ]
   },
   "https://www.sbir.gov/sbirsearch/award/all": {
@@ -1009,7 +1011,12 @@
     "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-C",
     "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-43",
     "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-20",
-    "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-23"
+    "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-23",
+    "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-L",
+    "https://ncses.nsf.gov/pubs/nsb20241/data/table/SINV-20",
+    "https://ncses.nsf.gov/pubs/nsb20224/table/SINV-57",
+    "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-39",
+    "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-28"
    ]
   },
   "http://ncses.nsf.gov/search?aois=STEM+Education&query=&topics=Family+Characteristics": {
@@ -2512,7 +2519,16 @@
    ],
    "weeksBroken": 1,
    "foundOn": [
-    "https://ncses.nsf.gov/pubs/nsb202332/sidebar/revisions-to-classification-of-ipeds-degree-data-under-the-ncses-taxonomy-of-disciplines"
+    "https://ncses.nsf.gov/pubs/nsb202332/sidebar/revisions-to-classification-of-ipeds-degree-data-under-the-ncses-taxonomy-of-disciplines",
+    "https://ncses.nsf.gov/pubs/nsb202332/figure/HED-23",
+    "https://ncses.nsf.gov/pubs/nsb202332/figure/HED-5",
+    "https://ncses.nsf.gov/pubs/nsb202332/figure/HED-33",
+    "https://ncses.nsf.gov/pubs/nsb202332/table/SHED-11",
+    "https://ncses.nsf.gov/pubs/nsb202332/figure/HED-A",
+    "https://ncses.nsf.gov/pubs/nsb202332/figure/HED-29",
+    "https://ncses.nsf.gov/pubs/nsb202332/table/SAHED-1",
+    "https://ncses.nsf.gov/pubs/nsb202332/figure/HED-22",
+    "https://ncses.nsf.gov/pubs/nsb202332/figure/HED-24"
    ]
   },
   "https://ncses.nsf.gov/pubs/nsf24311/assets/data-tables/tables/nsf24311-tab030.pdf": {
@@ -2580,7 +2596,103 @@
     "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-C",
     "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-43",
     "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-20",
-    "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-23"
+    "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-23",
+    "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-L",
+    "https://ncses.nsf.gov/pubs/nsb20241/data/table/SINV-20",
+    "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-39",
+    "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-28",
+    "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-4"
+   ]
+  },
+  "https://www.src.isr.umich.edu/": {
+   "status": 0,
+   "reason": "ERR_SSL_SSL/TLS_ALERT_HANDSHAKE_FAILURE",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20227/table/SPPS-1"
+   ]
+  },
+  "https://gssdataexplorer.norc.org/variables/3507/vshow": {
+   "status": 0,
+   "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20227/figure/PPS-3"
+   ]
+  },
+  "https://gssdataexplorer.norc.org/variables/3528/vshow": {
+   "status": 0,
+   "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20227/figure/PPS-3"
+   ]
+  },
+  "https://gssdataexplorer.norc.org/variables/3513/vshow": {
+   "status": 0,
+   "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20227/figure/PPS-3"
+   ]
+  },
+  "https://gssdataexplorer.norc.org/variables/3522/vshow": {
+   "status": 0,
+   "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20227/figure/PPS-3"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsb202333/assets/publication-output-by-region-country-or-economy-and-by-scientific-field/figures/nsb202333-figpbs-003.pdf": {
+   "status": 0,
+   "reason": "UND_ERR_CONNECT_TIMEOUT",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-15"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsb202333/assets/international-collaboration-and-citations/figures/nsb202333-figpbs-b.xlsx": {
+   "status": 0,
+   "reason": "UND_ERR_CONNECT_TIMEOUT",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-15"
    ]
   }
  }

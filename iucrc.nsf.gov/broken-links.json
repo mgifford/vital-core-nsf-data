@@ -1,6 +1,6 @@
 {
  "domain": "iucrc.nsf.gov",
- "updatedAt": "2026-11-16T22:29:38.535Z",
+ "updatedAt": "2026-11-17T21:18:46.936Z",
  "links": {
   "https://iucrc.nsf.gov/centers/center-for-research-in-systems-and-storage-crss": {
    "status": 404,
@@ -16,7 +16,8 @@
    "weeksBroken": 4,
    "foundOn": [
     "https://iucrc.nsf.gov/centers?foc=&prifoc=0&sta=&uni=",
-    "https://iucrc.nsf.gov/centers?foc=&prifoc=1&sta=&uni="
+    "https://iucrc.nsf.gov/centers?foc=&prifoc=1&sta=&uni=",
+    "https://iucrc.nsf.gov/centers/focus-area/information-communication-and-computing"
    ]
   },
   "https://iucrc.nsf.gov/centers/center-for-electric-connected-and-autonomous-technologies-for-mobility-ecat": {
@@ -33,7 +34,8 @@
    "weeksBroken": 4,
    "foundOn": [
     "https://iucrc.nsf.gov/centers?foc=&prifoc=0&sta=&uni=",
-    "https://iucrc.nsf.gov/centers?foc=&prifoc=1&sta=&uni="
+    "https://iucrc.nsf.gov/centers?foc=&prifoc=1&sta=&uni=",
+    "https://iucrc.nsf.gov/centers/focus-area/information-communication-and-computing"
    ]
   },
   "https://chapulfarms.com/chapul-farms": {
@@ -112,7 +114,8 @@
     "https://iucrc.nsf.gov/centers/focus-area/energy-and-environment/page/4",
     "https://iucrc.nsf.gov/centers/focus-area/energy-and-environment/page/3",
     "https://iucrc.nsf.gov/centers?foc=&prifoc=1&sta=&uni=",
-    "https://iucrc.nsf.gov/centers/focus-area/energy-and-environment"
+    "https://iucrc.nsf.gov/centers/focus-area/energy-and-environment",
+    "https://iucrc.nsf.gov/centers/focus-area/energy-and-environment/page/2"
    ]
   },
   "https://mds-rely.org/": {
@@ -280,7 +283,8 @@
    ],
    "weeksBroken": 4,
    "foundOn": [
-    "https://iucrc.nsf.gov/centers/center-for-advanced-semiconductor-chips-with-accelerated-performance"
+    "https://iucrc.nsf.gov/centers/center-for-advanced-semiconductor-chips-with-accelerated-performance",
+    "https://iucrc.nsf.gov/centers/center-for-intelligent-distributed-embedded-applications-and-systems-ideas"
    ]
   },
   "http://www.ccomc.rutgers.edu/": {
@@ -345,15 +349,15 @@
    "status": 0,
    "reason": "ERR_HTTP2_STREAM_ERROR",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W47"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
-    "https://iucrc.nsf.gov/centers/center-for-innovation-in-risk-catastrophes-and-decisions-circad",
-    "https://iucrc.nsf.gov/centers/center-for-interdisciplinary-research-on-convective-storms"
+    "https://iucrc.nsf.gov/centers/center-for-innovation-in-risk-catastrophes-and-decisions-circad"
    ]
   },
   "https://usdairy.com/": {
@@ -607,7 +611,8 @@
    "weeksBroken": 2,
    "foundOn": [
     "https://iucrc.nsf.gov/centers/center-for-wireless-innovation-towards-secure-pervasive-efficient-and-resilient-next-g-networks-wisper",
-    "https://iucrc.nsf.gov/centers/electronic-photonic-integrated-circuits-for-aerospace-epica"
+    "https://iucrc.nsf.gov/centers/electronic-photonic-integrated-circuits-for-aerospace-epica",
+    "https://iucrc.nsf.gov/centers/center-for-advanced-electronics-through-machine-learning"
    ]
   },
   "http://www.ces.asu.edu/": {
