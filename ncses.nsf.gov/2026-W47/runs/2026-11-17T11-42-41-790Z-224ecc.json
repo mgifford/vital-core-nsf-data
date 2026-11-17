@@ -1,0 +1,111 @@
+{
+ "runId": "2026-11-17T11-42-41-790Z-224ecc",
+ "week": "2026-W47",
+ "domain": "ncses.nsf.gov",
+ "canonical": {
+  "origin": "https://ncses.nsf.gov",
+  "configured": "https://ncses.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-17T11:42:43.368Z",
+ "scanned": [
+  "d6570da6b29c9014",
+  "f89c8bb19dd81254",
+  "49c5e931d5439534",
+  "37715c143559351a",
+  "7e0c75932ec2be9a",
+  "453be5bae9f256a1",
+  "0d6dc4863f65dd84",
+  "c4b48983925d5ee5",
+  "c89b8fbef2b2b806",
+  "6e6e88dd4d0da645",
+  "d9c71a7f02244219",
+  "b5b71dd0dd886e89",
+  "beb9165cd626a1d9",
+  "8dabc628a15bd23e",
+  "48cb8dd114f19d9d",
+  "d62d4fd791b604b3"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 1572,
+  "checked": 500,
+  "brokenCount": 2,
+  "broken": [
+   {
+    "url": "https://bulkdata.uspto.gov/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-L"
+    ]
+   },
+   {
+    "url": "https://www.sbir.gov/sbirsearch/award/all",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-L"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 16,
+  "alfa": 8,
+  "plain-language": 11,
+  "resources": 16,
+  "images": 16,
+  "link-check": 16,
+  "standards": 7,
+  "security": 3,
+  "third-party": 6,
+  "deprecated-html": 2,
+  "tech": 2,
+  "sustainability": 2,
+  "public-interest": 1
+ },
+ "tally": {
+  "ok": 16,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 13,
+  "error": 0
+ },
+ "finishedAt": "2026-11-17T11:46:30.621Z"
+}
