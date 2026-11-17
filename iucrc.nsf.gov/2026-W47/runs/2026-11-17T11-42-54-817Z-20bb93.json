@@ -1,0 +1,145 @@
+{
+ "runId": "2026-11-17T11-42-54-817Z-20bb93",
+ "week": "2026-W47",
+ "domain": "iucrc.nsf.gov",
+ "canonical": {
+  "origin": "https://iucrc.nsf.gov",
+  "configured": "https://iucrc.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-17T11:42:58.806Z",
+ "scanned": [
+  "e927e765c3c31cde",
+  "dd2ba41ebe1c0a4d",
+  "ba33937b4efe3f34",
+  "1d474bbbcc2f3e78",
+  "1969de495e88916a",
+  "b27f6c93e53005f3",
+  "bae1d3973065408b",
+  "6dfaa349496a376a",
+  "c907094144528796",
+  "c24ed09982133b78",
+  "af0a446423d7aaa7",
+  "ec5a166cec524733",
+  "b2f05717ce6432c1",
+  "15da606d5e971918",
+  "72f70afcec7651cc",
+  "168cc649b810bb38",
+  "497a931523aca590",
+  "d7b1500ed1920743",
+  "5f203d98fb8735bf",
+  "d02babcf0e4bc563",
+  "1de555a04b0a8378",
+  "f481df78f0fca5d0",
+  "25e1eab0b5fe277b",
+  "ec1d56132b4ae10e",
+  "b8e2e3a7905ec935"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 178,
+  "checked": 178,
+  "brokenCount": 5,
+  "broken": [
+   {
+    "url": "https://www.usaa.com/",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-innovation-in-risk-catastrophes-and-decisions-circad"
+    ]
+   },
+   {
+    "url": "http://chmpr.umbc.edu/",
+    "status": 0,
+    "reason": "EHOSTUNREACH",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-hybrid-multicore-productivity-research"
+    ]
+   },
+   {
+    "url": "https://iucrc.nsf.gov/centers/center-for-research-in-systems-and-storage-crss",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/focus-area/information-communication-and-computing"
+    ]
+   },
+   {
+    "url": "https://iucrc.nsf.gov/centers/center-for-electric-connected-and-autonomous-technologies-for-mobility-ecat",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/focus-area/information-communication-and-computing"
+    ]
+   },
+   {
+    "url": "http://fiwin.ece.gatech.edu/Index.htm",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/fiber-wireless-integration-and-networking-for-heterogeneous-mobile-data-communications"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 22,
+  "alfa": 13,
+  "plain-language": 10,
+  "resources": 22,
+  "images": 22,
+  "standards": 10,
+  "third-party": 10,
+  "link-check": 22,
+  "tech": 4,
+  "sustainability": 6,
+  "deprecated-html": 3,
+  "lighthouse": 2,
+  "public-interest": 5,
+  "security": 1
+ },
+ "tally": {
+  "ok": 22,
+  "blocked": 3,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-17T11:45:34.974Z"
+}
