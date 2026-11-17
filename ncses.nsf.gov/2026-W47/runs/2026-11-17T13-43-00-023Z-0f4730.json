@@ -1,0 +1,100 @@
+{
+ "runId": "2026-11-17T13-43-00-023Z-0f4730",
+ "week": "2026-W47",
+ "domain": "ncses.nsf.gov",
+ "canonical": {
+  "origin": "https://ncses.nsf.gov",
+  "configured": "https://ncses.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-17T13:43:02.578Z",
+ "scanned": [
+  "a3b9c3108e646139",
+  "54bc057892fdc7dd",
+  "f3be3611290ebb67",
+  "daece4535d11550b",
+  "b75d9bb70255dbf9",
+  "78ef64274b1497df",
+  "ac59b11c4b9328d4",
+  "daf75e8e9fed5c39",
+  "bd770acf039e063a",
+  "d9e18402e963069a",
+  "abc7f841823fbb78",
+  "345d813252d1a593",
+  "03f84f54d958ef41",
+  "95dfc24fcca1bee8",
+  "af250c6e597349f5",
+  "fa39f7e0d3e3209e",
+  "fd27d3e13b028667",
+  "7a1493fe88b0158d",
+  "c21214ebe5b78f91",
+  "9fdde5a8a273bae7",
+  "56257bd4edc33f3a"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 2105,
+  "checked": 500,
+  "brokenCount": 0,
+  "broken": []
+ },
+ "enginesRun": {
+  "axe": 21,
+  "alfa": 9,
+  "plain-language": 10,
+  "resources": 21,
+  "images": 21,
+  "link-check": 21,
+  "deprecated-html": 1,
+  "standards": 13,
+  "lighthouse": 5,
+  "tech": 3,
+  "sustainability": 2,
+  "public-interest": 4,
+  "third-party": 3,
+  "security": 1
+ },
+ "tally": {
+  "ok": 21,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 8,
+  "error": 0
+ },
+ "finishedAt": "2026-11-17T13:47:33.261Z"
+}
