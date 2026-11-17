@@ -1,0 +1,272 @@
+{
+ "runId": "2026-11-17T16-51-13-343Z-19a3c1",
+ "week": "2026-W47",
+ "domain": "www.nsf.gov",
+ "canonical": {
+  "origin": "https://www.nsf.gov",
+  "configured": "https://www.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-17T16:51:13.914Z",
+ "scanned": [
+  "95565d665f082880",
+  "90edb9af688520af",
+  "2f6850e1ac0d3781",
+  "1c7eae52e1d31a48",
+  "b3aa9e18f982b552",
+  "069b73edb3f17be5",
+  "4739a673174d4adb",
+  "b614e0b80797a4a3",
+  "d039fe31b1d361e2",
+  "1f23bdc6129aa595",
+  "e85a9d8b0d8bc844",
+  "45408370f36a60cd",
+  "cffd7a1f83e11e3a",
+  "b0881987866f33e3",
+  "73af1bb1030e7945",
+  "32d6477fb59ab615",
+  "b43ed36b7952312d",
+  "53ed859858e6010d",
+  "47a0021454b78c4c",
+  "ddd7a3b4b4520d0f",
+  "d16c4364830cf6c3",
+  "952e35e46764f53e",
+  "aea105d19259e76e",
+  "e8c333e93aa1100a",
+  "3f45a7c03656587e"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 383,
+  "checked": 383,
+  "brokenCount": 21,
+  "broken": [
+   {
+    "url": "https://www.nsf.gov/policies/docs/Contracts.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/policies/foia"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/policies/logs/foia-log-2011.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/policies/foia"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/policies/NSF_FOIA_Raw_Data_FY2020.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/policies/foia"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/policies/NSF_FOIA_Raw_Data_FY2019.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/policies/foia"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf14043",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-management-operation-national-ocean-bottom-seismometer/nsf17-080"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/geo/oce/pubs/nsf-oce-sea-change-reply-may-11-2015.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-management-operation-national-ocean-bottom-seismometer/nsf17-080"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_D1xo4ajMQIa9GdoHCDW8NA",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/cc-campus-cyberinfrastructure"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubs/2021/nsf21095/nsf21095.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/crii-computer-information-science-engineering-research-initiation/504952/nsf21-591"
+    ]
+   },
+   {
+    "url": "http://www.nsf.gov/pubs/2016/nsf16038/nsf16038.jsp?WT.mc_id=USNSF_25&WT.mc_ev=click",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/bd-spokes-big-data-regional-innovation-hubs-establishing-spokes/505264/nsf17-546"
+    ]
+   },
+   {
+    "url": "https://www.fastlane.nsf.gov/a1/newstan.htm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/air-accelerating-innovation-research/503553/nsf10-608/solicitation",
+     "https://www.nsf.gov/funding/opportunities/tsl-transforming-stem-learning/503571/nsf10-602/solicitation"
+    ]
+   },
+   {
+    "url": "http://sites.nationalacademics.org/PGA/fdp/PGA_057189",
+    "status": 520,
+    "reason": "HTTP 520",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/air-accelerating-innovation-research/503553/nsf10-608/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/eng/iip/innovation.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/air-accelerating-innovation-research/503553/nsf10-608/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.whitehouse.gov/files/documents/ostp/press_release_files/Final%20Signed%20OMB-OSTP%20Memo%20-%20ST%20Priorities.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/air-accelerating-innovation-research/503553/nsf10-608/solicitation"
+    ]
+   },
+   {
+    "url": "http://sites.nationalacademies.org/PGA/fdp/PGA_057189",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/air-accelerating-innovation-research/503553/nsf10-608/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=aag",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/air-accelerating-innovation-research/503553/nsf10-608/solicitation",
+     "https://www.nsf.gov/funding/opportunities/tsl-transforming-stem-learning/503571/nsf10-602/solicitation"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_hy1bnLeiReu3k3-JZsYSfA",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/webinar-revision-nsf-award-terms-conditions-implementing"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_oM2wttHZRDWRI9E4qBnffw",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/engineering-civil-infrastructure-webinar"
+    ]
+   },
+   {
+    "url": "http://store.tcpress.com/0807750026.shtml",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/tsl-transforming-stem-learning/503571/nsf10-602/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.tomorrow.org/speakup/pdfs/SU08_findings_final_mar24.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/tsl-transforming-stem-learning/503571/nsf10-602/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.amstat.org/education/pdfs/UsingStatisticsEffectivelyinMathEdResearch.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/tsl-transforming-stem-learning/503571/nsf10-602/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.macfound.org/atf/cf/%7BB0386CE3-8B29-4162-8098-E466FB856794%7D/DML_ETHNOG_WHITEPAPER.PDF",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/tsl-transforming-stem-learning/503571/nsf10-602/solicitation"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 24,
+  "alfa": 15,
+  "deprecated-html": 4,
+  "resources": 24,
+  "images": 24,
+  "third-party": 3,
+  "link-check": 24,
+  "plain-language": 10,
+  "standards": 12,
+  "public-interest": 3,
+  "lighthouse": 3
+ },
+ "tally": {
+  "ok": 24,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 1,
+  "error": 0
+ },
+ "finishedAt": "2026-11-17T16:55:30.123Z"
+}
