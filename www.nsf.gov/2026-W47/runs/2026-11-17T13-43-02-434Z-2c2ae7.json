@@ -1,0 +1,157 @@
+{
+ "runId": "2026-11-17T13-43-02-434Z-2c2ae7",
+ "week": "2026-W47",
+ "domain": "www.nsf.gov",
+ "canonical": {
+  "origin": "https://www.nsf.gov",
+  "configured": "https://www.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-17T13:43:04.855Z",
+ "scanned": [
+  "4dab3cc5f99691d7",
+  "693963cb7a2066d8",
+  "ff8cf4159fa27788",
+  "92a654ea976c86a0",
+  "55fdf0186c661efe",
+  "8d4edaf720bbda2a",
+  "e61aa1b576f32a81",
+  "7ccb56a1f7de53be",
+  "0b6d0fb134d86ae3",
+  "2c7a26139054bd4d",
+  "aa7c1e0c1c4ba49c",
+  "c9581a5fc74f0d15",
+  "974a81f6ede5eea6",
+  "138b06451a10f2bf",
+  "5101b4f4bb168ec6",
+  "a5e4da08c017b32a",
+  "89e199a1e7388788",
+  "544cc34b8f4e23a0",
+  "154ed4e9277c30f8",
+  "11e7d11728a82a1e",
+  "08344226dca359df",
+  "e5ff88ac8d62ae02"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 278,
+  "checked": 278,
+  "brokenCount": 7,
+  "broken": [
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_KV4lI3dCQsyp-2D2K1a4mQ",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/dms-virtual-office-hours-28/2023-06-15"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf18045",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/tectonics/13673/nsf22-515/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.fastlane.nsf.gov/a1/newstan.htm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/coastal-sees-coastal-sees/504816/nsf14-502/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/policies/SOR_PA_NSF-50_Principal_Investigator_Proposal_File.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/coastal-sees-coastal-sees/504816/nsf14-502/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=aag",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/coastal-sees-coastal-sees/504816/nsf14-502/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubs/2014/nsf14043/nsf14043.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/coastal-sees-coastal-sees/504816/nsf14-502/solicitation"
+    ]
+   },
+   {
+    "url": "https://je-s.rcuk.ac.uk/",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-special-guidelines-submitting-collaborative-proposals-under/nsf18-067"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "sustainability": 3,
+  "axe": 21,
+  "alfa": 9,
+  "resources": 21,
+  "images": 21,
+  "standards": 11,
+  "link-check": 21,
+  "security": 2,
+  "plain-language": 11,
+  "deprecated-html": 5,
+  "tech": 1,
+  "third-party": 4,
+  "lighthouse": 1
+ },
+ "tally": {
+  "ok": 21,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 3,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 2,
+  "error": 0
+ },
+ "finishedAt": "2026-11-17T13:46:13.546Z"
+}
