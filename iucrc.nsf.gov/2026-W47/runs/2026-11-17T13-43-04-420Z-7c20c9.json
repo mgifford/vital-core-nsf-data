@@ -1,0 +1,177 @@
+{
+ "runId": "2026-11-17T13-43-04-420Z-7c20c9",
+ "week": "2026-W47",
+ "domain": "iucrc.nsf.gov",
+ "canonical": {
+  "origin": "https://iucrc.nsf.gov",
+  "configured": "https://iucrc.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-17T13:43:08.196Z",
+ "scanned": [
+  "662f6d4953cd1c8a",
+  "3ce256bbb85ff714",
+  "c785d7f65011bc19",
+  "a0b3be3ffab860ff",
+  "77bf8a894b2b50e6",
+  "e63795ce73b9b21f",
+  "2114299063fcd666",
+  "acbd368e2b7ea93a",
+  "af76da9b0cea54d6",
+  "9a643f971dbcdee9",
+  "0a5d30089e6af363",
+  "2510038527ab736a",
+  "258566a29450b3b6",
+  "e1078eb25568e7df",
+  "73c4d8fa77c40f86",
+  "c72f3a1d04ca72a4",
+  "bf72588c17844bc9",
+  "2cfa44ab869bef19",
+  "8567f6dd7035b14f",
+  "e0ea06998adb4334",
+  "002fef63abed1048",
+  "27180125c3161a59",
+  "ce39adf7089f18e6",
+  "669039965070489c",
+  "7bd6a306f40142ef"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 281,
+  "checked": 281,
+  "brokenCount": 9,
+  "broken": [
+   {
+    "url": "http://www.clarkson.edu/citer",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-identification-technology-research"
+    ]
+   },
+   {
+    "url": "https://devel.private.id/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-identification-technology-research"
+    ]
+   },
+   {
+    "url": "https://www.heavy.ai/",
+    "status": 0,
+    "reason": "ERR_SSL_TLSV1_ALERT_INTERNAL_ERROR",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-spatiotemporal-thinking-computing-and-applications"
+    ]
+   },
+   {
+    "url": "https://www.noaasis.noaa.gov/POLAR/JPSS/jpss.html",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-spatiotemporal-thinking-computing-and-applications"
+    ]
+   },
+   {
+    "url": "https://www.ge.com/renewableenergy/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/wind-energy-science-technology-and-research"
+    ]
+   },
+   {
+    "url": "https://energysafety.ca.gov/wp-content/uploads/2025/06//recommendations-to-energy-safety-2025-adopted-1.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/achievements/firebench"
+    ]
+   },
+   {
+    "url": "https://chapulfarms.com/chapul-farms",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-insect-biomanufacturing-and-innovation-cibi"
+    ]
+   },
+   {
+    "url": "https://iucrc.nsf.gov/centers/center-for-soil-technologies-soiltech",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/focus-area/energy-and-environment/page/2"
+    ]
+   },
+   {
+    "url": "https://hydroma.ca/",
+    "status": 0,
+    "reason": "EAI_AGAIN",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-advanced-subsurface-earth-resource-models"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 23,
+  "resources": 23,
+  "images": 23,
+  "security": 3,
+  "link-check": 23,
+  "alfa": 13,
+  "plain-language": 14,
+  "third-party": 9,
+  "standards": 7,
+  "public-interest": 3,
+  "sustainability": 2,
+  "deprecated-html": 2,
+  "tech": 3,
+  "lighthouse": 1
+ },
+ "tally": {
+  "ok": 23,
+  "blocked": 2,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-17T13:45:52.306Z"
+}
