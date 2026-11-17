@@ -1,0 +1,154 @@
+{
+ "runId": "2026-11-17T17-48-04-231Z-fb86f2",
+ "week": "2026-W47",
+ "domain": "ncses.nsf.gov",
+ "canonical": {
+  "origin": "https://ncses.nsf.gov",
+  "configured": "https://ncses.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-17T17:48:07.767Z",
+ "scanned": [
+  "f3774743858e0d3b",
+  "5955f50ffdec19c3",
+  "70d5a17e905ba1a0",
+  "dd52fd5377ef6f61",
+  "58cda183dd6f6c88",
+  "8352e82f5b2f0596",
+  "39e4febb0bb2b0a3",
+  "4f39df65aa38d62e",
+  "e51d75311043e2f2",
+  "b50ac6235a0d5998",
+  "5cc326379ddafb7e",
+  "7a54b8f020098006",
+  "c0752465a8298848",
+  "903d4614d5ed7729",
+  "bd74f50d7041a0e4",
+  "68e78e9b2890dd3c",
+  "69120ad2364b21e5",
+  "ce9970f7dd2bbcb4"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 2950,
+  "checked": 500,
+  "brokenCount": 7,
+  "broken": [
+   {
+    "url": "https://www.src.isr.umich.edu/",
+    "status": 0,
+    "reason": "ERR_SSL_SSL/TLS_ALERT_HANDSHAKE_FAILURE",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20227/table/SPPS-1"
+    ]
+   },
+   {
+    "url": "https://gssdataexplorer.norc.org/variables/3507/vshow",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20227/figure/PPS-3"
+    ]
+   },
+   {
+    "url": "https://gssdataexplorer.norc.org/variables/3528/vshow",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20227/figure/PPS-3"
+    ]
+   },
+   {
+    "url": "https://gssdataexplorer.norc.org/variables/3513/vshow",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20227/figure/PPS-3"
+    ]
+   },
+   {
+    "url": "https://gssdataexplorer.norc.org/variables/3522/vshow",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20227/figure/PPS-3"
+    ]
+   },
+   {
+    "url": "https://ncses.nsf.gov/pubs/nsb202333/assets/publication-output-by-region-country-or-economy-and-by-scientific-field/figures/nsb202333-figpbs-003.pdf",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-15"
+    ]
+   },
+   {
+    "url": "https://ncses.nsf.gov/pubs/nsb202333/assets/international-collaboration-and-citations/figures/nsb202333-figpbs-b.xlsx",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-15"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 18,
+  "plain-language": 8,
+  "resources": 18,
+  "images": 18,
+  "link-check": 18,
+  "alfa": 10,
+  "standards": 7,
+  "public-interest": 1,
+  "third-party": 5,
+  "sustainability": 1,
+  "tech": 2,
+  "lighthouse": 2,
+  "security": 1,
+  "deprecated-html": 1
+ },
+ "tally": {
+  "ok": 18,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 9,
+  "error": 0
+ },
+ "finishedAt": "2026-11-17T17:52:56.482Z"
+}
