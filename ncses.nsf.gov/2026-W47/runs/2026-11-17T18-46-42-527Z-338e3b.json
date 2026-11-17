@@ -1,0 +1,129 @@
+{
+ "runId": "2026-11-17T18-46-42-527Z-338e3b",
+ "week": "2026-W47",
+ "domain": "ncses.nsf.gov",
+ "canonical": {
+  "origin": "https://ncses.nsf.gov",
+  "configured": "https://ncses.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-17T18:46:45.534Z",
+ "scanned": [
+  "0fab5b3eb9e140fc",
+  "e5b7d2d0f9ffd31b",
+  "f2f270fa62f10bc4",
+  "0a0058534dfb4b19",
+  "148314e0e0e86682",
+  "09edbb4d2a81e79a",
+  "b72a13394da3be89",
+  "78d3ddbb8c613c43",
+  "f248c763490a2445",
+  "20362a5e4e9225cd",
+  "0e1a5527634199d4",
+  "65971348b9179c99",
+  "891e5aac08e621f9",
+  "430c1c275b2ea0cc",
+  "cc3bee07ec7e8f56",
+  "50d7722678393aba",
+  "baf68be67b44649d",
+  "35f88794061cc36c",
+  "b1f749728611e58f",
+  "7ea56aae52ff3756",
+  "50b7da99d6388e5e",
+  "02a4391baaf105b9"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 2790,
+  "checked": 500,
+  "brokenCount": 2,
+  "broken": [
+   {
+    "url": "https://ncses.nsf.gov/pubs/nsf23315/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb202332/figure/HED-23",
+     "https://ncses.nsf.gov/pubs/nsb202332/figure/HED-5",
+     "https://ncses.nsf.gov/pubs/nsb202332/figure/HED-33",
+     "https://ncses.nsf.gov/pubs/nsb202332/table/SHED-11",
+     "https://ncses.nsf.gov/pubs/nsb202332/figure/HED-A",
+     "https://ncses.nsf.gov/pubs/nsb202332/figure/HED-29",
+     "https://ncses.nsf.gov/pubs/nsb202332/table/SAHED-1",
+     "https://ncses.nsf.gov/pubs/nsb202332/figure/HED-22",
+     "https://ncses.nsf.gov/pubs/nsb202332/figure/HED-24",
+     "https://ncses.nsf.gov/pubs/nsb202332/table/SHED-6"
+    ]
+   },
+   {
+    "url": "https://aishe.gov.in/aishe/gotoAisheReports",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb202332/table/SHED-11",
+     "https://ncses.nsf.gov/pubs/nsb202332/table/SAHED-1",
+     "https://ncses.nsf.gov/pubs/nsbsep20261/translation-to-impact-u-s-and-global-science-technology-and-innovation-output-2",
+     "https://ncses.nsf.gov/pubs/nsb202332/table/SHED-6"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 22,
+  "plain-language": 9,
+  "resources": 22,
+  "images": 22,
+  "standards": 14,
+  "security": 2,
+  "link-check": 22,
+  "alfa": 13,
+  "deprecated-html": 7,
+  "third-party": 6,
+  "public-interest": 4,
+  "lighthouse": 3,
+  "sustainability": 1
+ },
+ "tally": {
+  "ok": 22,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 5,
+  "error": 0
+ },
+ "finishedAt": "2026-11-17T18:52:45.619Z"
+}
