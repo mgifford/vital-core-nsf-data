@@ -1,0 +1,84 @@
+{
+ "runId": "2026-11-17T16-51-12-464Z-970e46",
+ "week": "2026-W47",
+ "domain": "iucrc.nsf.gov",
+ "canonical": {
+  "origin": "https://iucrc.nsf.gov",
+  "configured": "https://iucrc.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-17T16:51:12.885Z",
+ "scanned": [
+  "420e3a390cda9835",
+  "203d82ff99d62ae4"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 48,
+  "checked": 48,
+  "brokenCount": 1,
+  "broken": [
+   {
+    "url": "https://usdairy.com/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-advanced-research-in-drying"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 2,
+  "alfa": 1,
+  "plain-language": 1,
+  "resources": 2,
+  "images": 2,
+  "public-interest": 1,
+  "link-check": 2,
+  "third-party": 1
+ },
+ "tally": {
+  "ok": 2,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-17T16:51:38.658Z"
+}
