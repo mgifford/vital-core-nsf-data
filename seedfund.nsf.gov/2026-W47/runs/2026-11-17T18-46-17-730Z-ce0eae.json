@@ -1,0 +1,113 @@
+{
+ "runId": "2026-11-17T18-46-17-730Z-ce0eae",
+ "week": "2026-W47",
+ "domain": "seedfund.nsf.gov",
+ "canonical": {
+  "origin": "https://seedfund.nsf.gov",
+  "configured": "https://seedfund.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-17T18:46:18.437Z",
+ "scanned": [
+  "43b7edba24c6155f",
+  "b6301496243ac12e",
+  "859dab840f52c789",
+  "33c648652f128614",
+  "2abea8823dce9754",
+  "ceace80326cebade",
+  "9ec4b0cde72a0440",
+  "59a4e51340ef5240",
+  "2cc90f1945e4785a",
+  "608ab1fe1e229952",
+  "a8e29b61747b64e5",
+  "9d9b6655ebd3ae8e",
+  "2b660c58439c5f36",
+  "282c40803e9a7c71",
+  "b5c38a548510a4d4",
+  "480ed412fcdd1de3",
+  "63b8ea3abffc9d8c",
+  "117048bd3fbbaeb4",
+  "a5d180f03ac2c81f",
+  "ad2779a6132cbb36",
+  "c53a05f9fede1214",
+  "95fbfd5a565541b3",
+  "77daa1d3dda690e0",
+  "04795542be6b21c7",
+  "cca775230f0e0bf5"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 104,
+  "checked": 104,
+  "brokenCount": 1,
+  "broken": [
+   {
+    "url": "http://www.skiptechnology.com/",
+    "status": 0,
+    "reason": "EAI_AGAIN",
+    "foundOn": [
+     "https://seedfund.nsf.gov/awardees/phase-2/details?company=skip-technology-inc"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 24,
+  "alfa": 10,
+  "resources": 24,
+  "images": 24,
+  "link-check": 24,
+  "standards": 9,
+  "plain-language": 17,
+  "tech": 7,
+  "third-party": 10,
+  "lighthouse": 3,
+  "public-interest": 4,
+  "deprecated-html": 3,
+  "security": 2,
+  "sustainability": 2
+ },
+ "tally": {
+  "ok": 24,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-17T18:49:02.966Z"
+}
