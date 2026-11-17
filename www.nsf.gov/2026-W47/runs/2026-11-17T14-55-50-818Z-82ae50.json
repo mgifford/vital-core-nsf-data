@@ -1,0 +1,201 @@
+{
+ "runId": "2026-11-17T14-55-50-818Z-82ae50",
+ "week": "2026-W47",
+ "domain": "www.nsf.gov",
+ "canonical": {
+  "origin": "https://www.nsf.gov",
+  "configured": "https://www.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-17T14:55:51.630Z",
+ "scanned": [
+  "1d5a42c6f89a7a8d",
+  "1d7f93e427c1bfc1",
+  "dcf8d58004b23d22",
+  "6d7d67103fde86e9",
+  "ec84207d96925ed6",
+  "5c2b5502d4d99bd4",
+  "ffa8a975fab37e11",
+  "a85b15fca9710aab",
+  "12b5e84ff8605a7e",
+  "d5770b2e2ab06355",
+  "174df71cee521323",
+  "da153d16e84a4252",
+  "627d5e6cea09895d",
+  "69b5aa6a696ce91d",
+  "317fc65fc2dcac4b",
+  "85e38e98dc66ad7b",
+  "42334ea4581b25d7",
+  "57c301d9fb84f0c8",
+  "cf170d957bb5c89b",
+  "36b6cce8f3c19ae9",
+  "60b9129388da5e3b",
+  "52fdf6f57d57c877",
+  "5323b88090c5048e",
+  "8935bcaff6c03fa3",
+  "506035dccf9d23af"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 276,
+  "checked": 276,
+  "brokenCount": 12,
+  "broken": [
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJIsdu2hqDItGq1VIdkRCQxBGFqnI5CfET4",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/dmr-open-hour-0",
+     "https://www.nsf.gov/events/dmr-open-hour-supplements"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/mps/che/CHE_StrategicDirections.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/information/dcl-nsf-division-chemistry-programs-realigned-changes-effective/nsf09-048"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf09049",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/information/dcl-nsf-division-chemistry-programs-realigned-changes-effective/nsf09-048"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/mps/che/realign/decisiontree.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/information/dcl-nsf-division-chemistry-programs-realigned-changes-effective/nsf09-048"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf09050",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/information/dcl-nsf-division-chemistry-programs-realigned-changes-effective/nsf09-048"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_ReATjnmbSReR1wEO3HxBDQ",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/advancing-informal-stem-learning-equity-resource-center/506012/updates/94777"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_slmktNcPQPaf_5N-nemGhQ",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/advancing-informal-stem-learning-equity-resource-center/506012/updates/94777"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_06vDrWCsR_WKty32q-E25A",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/advancing-informal-stem-learning-equity-resource-center/506012/updates/94777"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/geo/geo-ci/index.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/arctic-research-opportunities/nsf23-572/solicitation"
+    ]
+   },
+   {
+    "url": "https://exp.gl/About",
+    "status": 0,
+    "reason": "ECONNREFUSED",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/arctic-research-opportunities/nsf23-572/solicitation"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJItcemqrzovHB_rxXRhRajD092hDi76SBA",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/new-phase-ii-awardee-qa/2024-08-29"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJItdu-tqzMoHDiBRe5Gy1A_cqVqlV-I8bs",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/new-phase-ii-awardee-qa/2024-08-29"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 25,
+  "alfa": 16,
+  "plain-language": 9,
+  "resources": 25,
+  "images": 25,
+  "standards": 11,
+  "lighthouse": 3,
+  "link-check": 25,
+  "public-interest": 4,
+  "third-party": 6,
+  "deprecated-html": 3,
+  "security": 3,
+  "sustainability": 2
+ },
+ "tally": {
+  "ok": 25,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-17T14:59:41.987Z"
+}
