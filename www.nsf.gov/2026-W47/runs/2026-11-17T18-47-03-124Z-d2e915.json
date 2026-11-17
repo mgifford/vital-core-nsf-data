@@ -1,0 +1,376 @@
+{
+ "runId": "2026-11-17T18-47-03-124Z-d2e915",
+ "week": "2026-W47",
+ "domain": "www.nsf.gov",
+ "canonical": {
+  "origin": "https://www.nsf.gov",
+  "configured": "https://www.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-17T18:47:06.900Z",
+ "scanned": [
+  "a6b29ed36d0cf8e3",
+  "bee1712fb2d0229f",
+  "b9f8787fdd08a2ff",
+  "16e81944da92bf19",
+  "128a0436b030ffae",
+  "a94f244ed0bc4522",
+  "b2520e8a34901939",
+  "ca8b611898c61d62",
+  "501c92e17cb92038",
+  "e40025e8f1978d08",
+  "bb1e873c2fefbf6e",
+  "a0a0dc6d51dc9b8c",
+  "9ed20c01675d9020",
+  "9ff3a2af116697fc",
+  "a86951f57f0b98f2",
+  "c4fac3b4a11d864c",
+  "5ae7698d6418a966",
+  "cd0d19e919617da5",
+  "7f0ca826cd6f2e32",
+  "07bce1adf6455395",
+  "99572b6ab81aaa30",
+  "cd07cf1d7bd1d357",
+  "1105fdd856f3c0c2",
+  "8d797da61f70c79a"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 351,
+  "checked": 351,
+  "brokenCount": 34,
+  "broken": [
+   {
+    "url": "http://www.nsftokyo.org/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/eapsi-east-asia-pacific-summer-institutes-us-graduate-students/5284/nsf03-608/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.nsftokyo.org/spmenu.html",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/eapsi-east-asia-pacific-summer-institutes-us-graduate-students/5284/nsf03-608/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.fastlane.nsf.gov/a1/newstan.htm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/eapsi-east-asia-pacific-summer-institutes-us-graduate-students/5284/nsf03-608/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubsys/ods/getpub.cfm?gp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/eapsi-east-asia-pacific-summer-institutes-us-graduate-students/5284/nsf03-608/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/sbe/int/eap/start.htm",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/eapsi-east-asia-pacific-summer-institutes-us-graduate-students/5284/nsf03-608/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubsys/ods/getpub.cfm?nsb9772",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/eapsi-east-asia-pacific-summer-institutes-us-graduate-students/5284/nsf03-608/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubsys/ods/getpub.cfm?iin127",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/eapsi-east-asia-pacific-summer-institutes-us-graduate-students/5284/nsf03-608/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/home/grants/grants_gac.htm",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/eapsi-east-asia-pacific-summer-institutes-us-graduate-students/5284/nsf03-608/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/cgi-bin/getpub?gp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/eapsi-east-asia-pacific-summer-institutes-us-graduate-students/5284/nsf03-608/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/cgi-bin/getpub?gpm",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/eapsi-east-asia-pacific-summer-institutes-us-graduate-students/5284/nsf03-608/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/home/ebulletin",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/eapsi-east-asia-pacific-summer-institutes-us-graduate-students/5284/nsf03-608/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/home/cns/start.htm",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/eapsi-east-asia-pacific-summer-institutes-us-graduate-students/5284/nsf03-608/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/sbe/int/int_tbl.htm",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/eapsi-east-asia-pacific-summer-institutes-us-graduate-students/5284/nsf03-608/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/sbe/bcs/DEL/DELsuppdiss.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/del-documenting-endangered-languages/12816/nsf11-554/solicitation"
+    ]
+   },
+   {
+    "url": "http://linguistlist.org/forms/langs/find-a-language-or-family.html",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/del-documenting-endangered-languages/12816/nsf11-554/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.neh.gov/grants/guidelines/HCRR.html",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/del-documenting-endangered-languages/12816/nsf11-554/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.neh.gov/grants/guidelines/PARD.html",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/del-documenting-endangered-languages/12816/nsf11-554/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.fastlane.nsf.gov/a1/newstan.htm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/del-documenting-endangered-languages/12816/nsf11-554/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=aag",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/del-documenting-endangered-languages/12816/nsf11-554/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.neh.gov/manage/index.html",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/del-documenting-endangered-languages/12816/nsf11-554/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/policies/SOR_PA_NSF-50_Principal_Investigator_Proposal_File.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/del-documenting-endangered-languages/12816/nsf11-554/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.unesco.org/new/en/culture/themes/cultural-diversity/languages-and-multilingualism/endangered-languages/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/del-documenting-endangered-languages/12816/nsf11-554/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.acf.hhs.gov/programs/ana/programs/native-language-preservation-maintenance",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/del-documenting-endangered-languages/12816/nsf11-554/solicitation"
+    ]
+   },
+   {
+    "url": "https://iosblog.nsfbio.com/virtual-office-hours/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/events/august-virtual-office-hours-division-integrative-organismal"
+    ]
+   },
+   {
+    "url": "https://iosblog.nsfbio.com/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/events/august-virtual-office-hours-division-integrative-organismal"
+    ]
+   },
+   {
+    "url": "http://www07.grants.gov/applicants/app_help_reso.jsp",
+    "status": 0,
+    "reason": "EAI_AGAIN",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/del-documenting-endangered-languages/12816/nsf11-554/solicitation"
+    ]
+   },
+   {
+    "url": "https://nsf.nsf.gov/funding/build-america-buy-america",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/emb-emerging-mathematics-biology/506133/nsf25-509/solicitation"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJIsfu6trzIqGNkCnI0i34_6d7gPRspkQSk",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/national-stem-teacher-corps-webinars-information/2024-06-10"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJItdO2oqjwuE7G8pk1eGidsCRjQoCKMnv0",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/national-stem-teacher-corps-webinars-information/2024-06-10"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJItf-ugqz8oHmWXqJFMv8CVgG88XJuGVOk",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/national-stem-teacher-corps-webinars-information/2024-06-10"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJIsce-qrjgtEj84TPUkBnVMeegJuIWlzTo",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/national-stem-teacher-corps-webinars-information/2024-06-10"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJIsduGsrD8pHyv-bcET3j-XU16VMgDCQPE",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/national-stem-teacher-corps-webinars-information/2024-06-10"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJItdOyrrzkjGelp4DgURVaJQeQD3guxDis",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/national-stem-teacher-corps-webinars-information/2024-06-10"
+    ]
+   },
+   {
+    "url": "https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/news/nsf-simons-foundation-launch-2-ai-institutes-help"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "sustainability": 5,
+  "axe": 23,
+  "resources": 23,
+  "images": 23,
+  "standards": 13,
+  "link-check": 23,
+  "plain-language": 12,
+  "tech": 3,
+  "third-party": 4,
+  "alfa": 6,
+  "security": 2,
+  "deprecated-html": 4,
+  "public-interest": 2,
+  "lighthouse": 1
+ },
+ "tally": {
+  "ok": 23,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 1,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 1,
+  "error": 0
+ },
+ "finishedAt": "2026-11-17T18:50:47.342Z"
+}
