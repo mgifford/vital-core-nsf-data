@@ -1,0 +1,119 @@
+{
+ "runId": "2026-11-18T17-28-26-277Z-89cc0f",
+ "week": "2026-W47",
+ "domain": "seedfund.nsf.gov",
+ "canonical": {
+  "origin": "https://seedfund.nsf.gov",
+  "configured": "https://seedfund.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-18T17:28:26.830Z",
+ "scanned": [
+  "344a1d1e2b4cbba6",
+  "5fd320df65faac7f",
+  "63f7d870dd47bda0",
+  "395c5dd621e81b14",
+  "7f345c97fb5fe9a8",
+  "b9c73a1a407b7679",
+  "78a6862b7cd929af",
+  "5c9b8c0fe8c546bb",
+  "387456dd806ccda9",
+  "a453250b77283d28",
+  "0462a90bea9a16f1",
+  "8ac9e7cea631e79c",
+  "0c1d9808473cdd88",
+  "9b4292c7ac0d1568",
+  "e3c843b08f603ab3",
+  "fb3fcb87ee13c49d",
+  "046a12df1866dbf6",
+  "69c702b4bc152c5f",
+  "0e757f5cd1728ede",
+  "6487905d26daeaaf",
+  "98d2fb63665bd5c1",
+  "0663d2966281671c",
+  "0b7fbf63c86ed091",
+  "681b17369d62e9b6"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 88,
+  "checked": 88,
+  "brokenCount": 2,
+  "broken": [
+   {
+    "url": "https://www.mcknightsseniorliving.com/home/news/tech-daily-news/more-risk-management-data-on-seniors-and-falls-enabled-by-new-partnership/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://seedfund.nsf.gov/news/safelyyou"
+    ]
+   },
+   {
+    "url": "http://www.ascendelements.com/",
+    "status": 503,
+    "reason": "HTTP 503",
+    "foundOn": [
+     "https://seedfund.nsf.gov/awardees/history/details?company=battery-resourcers-llc"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 24,
+  "resources": 24,
+  "images": 24,
+  "standards": 10,
+  "link-check": 24,
+  "alfa": 12,
+  "plain-language": 12,
+  "sustainability": 3,
+  "third-party": 5,
+  "security": 5,
+  "tech": 1,
+  "lighthouse": 2,
+  "deprecated-html": 1
+ },
+ "tally": {
+  "ok": 24,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 1,
+  "error": 0
+ },
+ "finishedAt": "2026-11-18T17:30:53.783Z"
+}
