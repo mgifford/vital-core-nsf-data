@@ -1,0 +1,197 @@
+{
+ "runId": "2026-11-18T16-30-22-836Z-5630a0",
+ "week": "2026-W47",
+ "domain": "www.nsf.gov",
+ "canonical": {
+  "origin": "https://www.nsf.gov",
+  "configured": "https://www.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-18T16:30:25.050Z",
+ "scanned": [
+  "ed27ce44e9686bf0",
+  "d3531623a369c5cc",
+  "0f79e1702f0ae45c",
+  "a232aa467ba7dd17",
+  "5bb1e088e0476cd2",
+  "34323d236e19fb57",
+  "4abbaa0d47b6391e",
+  "604a6f3750b0bdfc",
+  "bebe0fed3d8eef59",
+  "466c16c8b59ef58f",
+  "d445c6541bb17466",
+  "ff83dd5d70a2ed1f",
+  "c8c0c147ca12ef16",
+  "7f3ee71f5255bf39",
+  "219c0455bd0b6302",
+  "ae8df55a493451b9",
+  "9abe19fe83d4c78b",
+  "bc96fd76542143fe",
+  "ddef848fc12ec30f",
+  "78955018b0d390b0",
+  "00195ef45525c597"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 314,
+  "checked": 314,
+  "brokenCount": 12,
+  "broken": [
+   {
+    "url": "https://apply.knowinnovation.com/climateintervention/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/exploring-ethics-societal-interactions-climate-intervention/2024-11-21"
+    ]
+   },
+   {
+    "url": "https://www.fastlane.nsf.gov/a1/newstan.htm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/curatorial-stewardship-national-collection-geological-rock/505287/nsf16-563/solicitation",
+     "https://www.nsf.gov/funding/opportunities/tf07-theoretical-foundations/13679/nsf07-525/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/policies/SOR_PA_NSF-50_Principal_Investigator_Proposal_File.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/curatorial-stewardship-national-collection-geological-rock/505287/nsf16-563/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf14043",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/curatorial-stewardship-national-collection-geological-rock/505287/nsf16-563/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=aag",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/curatorial-stewardship-national-collection-geological-rock/505287/nsf16-563/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nap.edu/initiative/committee-on-the-organization-and-management-of-research-in-astronomy-and-astrophysics",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/astronomy-astrophysics-advisory-committee-5"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubs/2023/nsf23045/nsf23045.jsp?org=NSF",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/ramp-research-mentoring-postbaccalaureates-biological-sciences/505965/nsf23-514"
+    ]
+   },
+   {
+    "url": "https://uscode.house.gov/view.xhtml?req=(title:15%20section:638%20edition:prelim)",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sbirsttr-phase-ii-nsf-small-business-innovation-research-small-business/505989/nsf24-580"
+    ]
+   },
+   {
+    "url": "https://uscode.house.gov/view.xhtml?path=/prelim@title42/chapter16&edition=prelim",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sbirsttr-phase-ii-nsf-small-business-innovation-research-small-business/505989/nsf24-580"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubs/2022/nsf22053/nsf22053.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sbirsttr-phase-ii-nsf-small-business-innovation-research-small-business/505989/nsf24-580"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=gpm",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/tf07-theoretical-foundations/13679/nsf07-525/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/cise/geni/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/tf07-theoretical-foundations/13679/nsf07-525/solicitation"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 21,
+  "alfa": 15,
+  "plain-language": 10,
+  "resources": 21,
+  "images": 21,
+  "standards": 10,
+  "link-check": 21,
+  "public-interest": 4,
+  "third-party": 9,
+  "deprecated-html": 4,
+  "tech": 2,
+  "sustainability": 4,
+  "security": 1
+ },
+ "tally": {
+  "ok": 21,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 4,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-18T16:33:33.654Z"
+}
