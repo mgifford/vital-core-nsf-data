@@ -1,0 +1,114 @@
+{
+ "runId": "2026-11-18T16-24-21-612Z-6db390",
+ "week": "2026-W47",
+ "domain": "ncses.nsf.gov",
+ "canonical": {
+  "origin": "https://ncses.nsf.gov",
+  "configured": "https://ncses.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-18T16:24:22.418Z",
+ "scanned": [
+  "237877c2e6eb7ff7",
+  "23d3be68bdb13bcd",
+  "7cf720dfd7847b41",
+  "76f8873d4a87efd9",
+  "23bd253f67fa21d8",
+  "0aba7922e3877748",
+  "84b1e11f25212bcd",
+  "5cfe0c90e542db1e",
+  "9f818017d1f130c6",
+  "fd159cdc1765b73a",
+  "92bd962dec63bf9b",
+  "8c91dd62be828990",
+  "6d80e974e9506ff5",
+  "34e410bc36e2eddb",
+  "2c5e9994850c4c0b",
+  "e433f82e1baa4b72",
+  "c14c36e7f06f6f43"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 2891,
+  "checked": 500,
+  "brokenCount": 2,
+  "broken": [
+   {
+    "url": "https://ec.europa.eu/eurostat/web/education-and-training/data/database",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20223/data/table/SHED-5"
+    ]
+   },
+   {
+    "url": "https://aishe.gov.in/aishe/gotoAisheReports",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20223/data/table/SHED-5",
+     "https://ncses.nsf.gov/pubs/nsbsep20261/supplemental-tables",
+     "https://ncses.nsf.gov/pubs/nsb202332/table/SHED-5"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 17,
+  "plain-language": 12,
+  "resources": 17,
+  "images": 17,
+  "security": 6,
+  "link-check": 17,
+  "standards": 10,
+  "third-party": 5,
+  "alfa": 7,
+  "public-interest": 3,
+  "sustainability": 1,
+  "deprecated-html": 1,
+  "tech": 1
+ },
+ "tally": {
+  "ok": 17,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 9,
+  "error": 0
+ },
+ "finishedAt": "2026-11-18T16:29:16.890Z"
+}
