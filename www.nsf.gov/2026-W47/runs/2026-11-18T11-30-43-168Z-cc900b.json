@@ -1,0 +1,215 @@
+{
+ "runId": "2026-11-18T11-30-43-168Z-cc900b",
+ "week": "2026-W47",
+ "domain": "www.nsf.gov",
+ "canonical": {
+  "origin": "https://www.nsf.gov",
+  "configured": "https://www.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-18T11:30:43.641Z",
+ "scanned": [
+  "15bcce493cadd789",
+  "05eab8364b04a141",
+  "4af88e310a574967",
+  "969dcbc5da560fc6",
+  "0f458bd67dfe425b",
+  "44def88007b8bd0e",
+  "ee3f7a67f48ab7e0",
+  "38a881aee138494d",
+  "ae8df374ad59ad1b",
+  "8689d1969de4faa5",
+  "b7768d9ff769f3f4",
+  "8be472ac835bbb47",
+  "f657ed942cff9ffe",
+  "84dde9c2b201af36",
+  "ee42500e8debcdfe",
+  "89f77c1fd330cce3",
+  "72313feca8880bcc",
+  "512dc37ff3be4682",
+  "7faf79e9fda698bc",
+  "f7f898931aa8ece6",
+  "2c4d741195c0d29b",
+  "b04c43f879dbbc95",
+  "d67f021cea2589ae",
+  "990bf36252b5ac81"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 324,
+  "checked": 324,
+  "brokenCount": 14,
+  "broken": [
+   {
+    "url": "https://www.nsf.gov/sbe/sbe_2020/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-interdisciplinary-research-across-sbe-sciences/nsf12-123"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_hav7eIgmSEizV4PFftNX8A",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/nsf-policy-webinar-nsf-funding-opportunities-organizational"
+    ]
+   },
+   {
+    "url": "https://exp.gl/About",
+    "status": 0,
+    "reason": "ECONNREFUSED",
+    "foundOn": [
+     "https://www.nsf.gov/od/opp/arc/arctic-support-logistics"
+    ]
+   },
+   {
+    "url": "http://www.nsf.gov/pubs/2014/nsf14093/nsf14093.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/preevents-prediction-resilience-against-extreme-events/504804/nsf16-562"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubs/2016/nsf16022/nsf16022.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/preevents-prediction-resilience-against-extreme-events/504804/nsf16-562"
+    ]
+   },
+   {
+    "url": "https://www.activate.org/osmoses",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/initiatives/i-corps/osmoses"
+    ]
+   },
+   {
+    "url": "https://www.nap.edu/initiative/committee-on-the-organization-and-management-of-research-in-astronomy-and-astrophysics",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/astronomy-astrophysics-advisory-committee-sep-2023"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_hTklL1fFR7-rFCTk8NvjTQ",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/ehr-core-research-outreach-webinar"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_BOjdMUSxRqKcHtS_axMEDw",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/ehr-core-research-outreach-webinar"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_EirDcDv9QVu4R2wLtQcVgg",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/ehr-core-research-outreach-webinar"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN__sghlZ3KRd68QKFqnGYCEw",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/ehr-core-research-outreach-webinar"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf19022",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/ehr-core-research-outreach-webinar"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubs/2017/nsf17041/nsf17041.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sl-science-learning/5567/pd16-004y"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_ZxoAb4MbSrG7rE4LZVRulA",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/upcoming-south-pole-station-master-plan-charrette/2023-08-29"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 23,
+  "plain-language": 11,
+  "resources": 23,
+  "images": 23,
+  "link-check": 23,
+  "alfa": 13,
+  "standards": 12,
+  "third-party": 8,
+  "security": 3,
+  "public-interest": 6,
+  "tech": 2,
+  "deprecated-html": 3,
+  "lighthouse": 1
+ },
+ "tally": {
+  "ok": 23,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 1,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 3,
+  "error": 0
+ },
+ "finishedAt": "2026-11-18T11:34:09.132Z"
+}
