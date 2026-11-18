@@ -1,0 +1,182 @@
+{
+ "runId": "2026-11-18T18-25-20-658Z-c7901e",
+ "week": "2026-W47",
+ "domain": "www.nsf.gov",
+ "canonical": {
+  "origin": "https://www.nsf.gov",
+  "configured": "https://www.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-18T18:25:21.142Z",
+ "scanned": [
+  "65c1547c6c8d14d4",
+  "d5a236d2a931dd86",
+  "3d6c41849739023b",
+  "4f9fcdf580fb3c07",
+  "c5b61148606a4071",
+  "dfbe3430b3af8875",
+  "bece86f9082470f1",
+  "ad21c59ab25d1587",
+  "66b22eb0e568ee28",
+  "18c895ce05653a8e",
+  "2a477b80dafd5381",
+  "0c862250ca25187e",
+  "c789e3591046a78e",
+  "f4309c2924daf53f",
+  "b47a1d0c18111506",
+  "7bcab8ec7273321c",
+  "b9e8345f6c1fa056",
+  "d08bed71623b2b05",
+  "7ea165c6ed93bb70",
+  "ca64f25aa82699df",
+  "5d7735cd424708e8",
+  "ac39b12c84dc62d2"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 320,
+  "checked": 320,
+  "brokenCount": 10,
+  "broken": [
+   {
+    "url": "https://www.nsf.gov/mps/phy/nqvl/NQVL-webinar_2023-08-04.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nqvl-nsf-national-quantum-virtual-laboratory/506131/nsf23-604"
+    ]
+   },
+   {
+    "url": "https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/09/fact-sheet-chips-and-science-act-will-lower-costs-create-jobs-strengthen-supply-chains-and-counter-china/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/news/nsf-announces-10-million-partnership-micron-support"
+    ]
+   },
+   {
+    "url": "https://www.whitehouse.gov/wp-content/uploads/2018/11/Plan-for-Addressing-Critical-Research-Gaps-Related-to-Emerging-Contaminants-in-Drinking-Water.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/cas-critical-aspects-sustainability"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/ere/ereweb/ac-ere/sustainable-urban-systems.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/cas-critical-aspects-sustainability"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/edu/about.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/edu-racial-equity-racial-equity-stem-education/506103/nsf22-634/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/od/broadeningparticipation/bp.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/edu-racial-equity-racial-equity-stem-education/506103/nsf22-634/solicitation"
+    ]
+   },
+   {
+    "url": "https://beta.nsf.gov/funding/opportunities/racial-equity-stem-education-EDU-racial-equity",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/edu-racial-equity-racial-equity-stem-education/506103/nsf22-634/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf13127",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/edu-racial-equity-racial-equity-stem-education/506103/nsf22-634/solicitation"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_oUB8vTpdTK2PV6ygWnisMg",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/cise-iis-office-hours-human-centered-computing-hcc-programs"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_hG137Oo0Sfarj5MTkrXYqA",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/civic-innovation-challenge-prospective-panelists-webinar/2022-04-18"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 21,
+  "resources": 21,
+  "images": 21,
+  "standards": 14,
+  "third-party": 4,
+  "link-check": 21,
+  "sustainability": 3,
+  "alfa": 9,
+  "security": 2,
+  "public-interest": 2,
+  "plain-language": 7,
+  "deprecated-html": 3,
+  "tech": 6,
+  "lighthouse": 1
+ },
+ "tally": {
+  "ok": 21,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 3,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 3,
+  "error": 0
+ },
+ "finishedAt": "2026-11-18T18:28:22.420Z"
+}
