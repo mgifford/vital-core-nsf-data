@@ -1,0 +1,152 @@
+{
+ "runId": "2026-11-18T13-18-24-653Z-9f9da2",
+ "week": "2026-W47",
+ "domain": "seedfund.nsf.gov",
+ "canonical": {
+  "origin": "https://seedfund.nsf.gov",
+  "configured": "https://seedfund.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-18T13:18:25.129Z",
+ "scanned": [
+  "13ba887826816d7b",
+  "31c06ca6a3ada566",
+  "a90ac8177f763cd8",
+  "6f95df55da483fc0",
+  "0566d3dc60ac7f39",
+  "b10ffd62f7b2cf85",
+  "b31955a78a209788",
+  "1b3dd3ed31d02989",
+  "68751a19b70b0c7e",
+  "eebd40b4dd27caea",
+  "f389af2f23c80d91",
+  "79bfaca1b742145d",
+  "ac22314c49c57eca",
+  "5bedb8fa8f76288d",
+  "3be97c14b3a5aa10",
+  "50c707c7d670d9fd",
+  "3dfabe5967dbacfb",
+  "d11231e6303a3ec8",
+  "d87bfba6dec26ccf",
+  "11558e4fc364456b",
+  "60760dcb854f706b",
+  "0f4a1e0c89a157e3",
+  "706c439256a700dc",
+  "353e527435340ba3",
+  "591a31190a51e928"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 109,
+  "checked": 109,
+  "brokenCount": 6,
+  "broken": [
+   {
+    "url": "http://www.precisionpolyolefins.com/",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://seedfund.nsf.gov/portfolio/details?company=precision-polyolefins-llc"
+    ]
+   },
+   {
+    "url": "https://www.knoxnews.com/story/money/business/2025/01/12/40-under-40-sam-rosolina-microbial-insights/75673324007/",
+    "status": 402,
+    "reason": "HTTP 402",
+    "foundOn": [
+     "https://seedfund.nsf.gov/news/MicrobialInsights"
+    ]
+   },
+   {
+    "url": "https://pages.18f.gov/brand/typography/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://seedfund.nsf.gov/styleguide/typography"
+    ]
+   },
+   {
+    "url": "https://standards.usa.gov/components/typography/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://seedfund.nsf.gov/styleguide/typography"
+    ]
+   },
+   {
+    "url": "https://github.com/18F/18f.gsa.gov/blob/master/_sass/_libs/wds/stylesheets/core/_variables.scss",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://seedfund.nsf.gov/styleguide/typography"
+    ]
+   },
+   {
+    "url": "https://ascendelements.com/",
+    "status": 503,
+    "reason": "HTTP 503",
+    "foundOn": [
+     "https://seedfund.nsf.gov/news/ascend-elements"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 25,
+  "alfa": 10,
+  "resources": 25,
+  "images": 25,
+  "link-check": 25,
+  "sustainability": 4,
+  "deprecated-html": 3,
+  "standards": 9,
+  "plain-language": 12,
+  "third-party": 5,
+  "tech": 3,
+  "public-interest": 2,
+  "lighthouse": 2
+ },
+ "tally": {
+  "ok": 25,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-18T13:20:58.767Z"
+}
