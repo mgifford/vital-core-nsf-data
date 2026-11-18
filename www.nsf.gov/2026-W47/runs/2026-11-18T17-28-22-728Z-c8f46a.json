@@ -1,0 +1,330 @@
+{
+ "runId": "2026-11-18T17-28-22-728Z-c8f46a",
+ "week": "2026-W47",
+ "domain": "www.nsf.gov",
+ "canonical": {
+  "origin": "https://www.nsf.gov",
+  "configured": "https://www.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-18T17:28:24.204Z",
+ "scanned": [
+  "99359500755d679a",
+  "814c2dfdb9b18307",
+  "53626fb9a8133f8a",
+  "bd3dd4f51aa1b56b",
+  "e99efc02dcd3ecdd",
+  "8fb7a6b4d7d91b85",
+  "36210c3c5d723178",
+  "3e0eb003c77ae0f3",
+  "feed4e354e6816ed",
+  "56696b11b11ad2eb",
+  "18e1aadb9da49e58",
+  "1c75f3f9f952452e",
+  "3973ced30e45330c",
+  "ede7ee5a0f82b297",
+  "578136974c17e6d4",
+  "46d2ffba19a36e76",
+  "5d2290617ac6093b",
+  "3a7066288e35384a",
+  "1187879fb4455109",
+  "108320c9a8621752",
+  "e55f026c3c5ff0ca",
+  "bf09cce239e5c1d1",
+  "7c71a89b21ea363f",
+  "93c9dec3dc8064cc"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 302,
+  "checked": 302,
+  "brokenCount": 28,
+  "broken": [
+   {
+    "url": "http://erc-assoc.org/best_practices/best-practices-manual",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/erc-engineering-research-centers/5502/nsf15-589/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.erc-assoc.org/Centers",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/erc-engineering-research-centers/5502/nsf15-589/solicitation"
+    ]
+   },
+   {
+    "url": "http://erc-assoc.org/best_practices/chapter-3-research-management",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/erc-engineering-research-centers/5502/nsf15-589/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.nnin.org/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/erc-engineering-research-centers/5502/nsf15-589/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/nano",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/erc-engineering-research-centers/5502/nsf15-589/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.fastlane.nsf.gov/a1/newstan.htm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/erc-engineering-research-centers/5502/nsf15-589/solicitation",
+     "https://www.nsf.gov/funding/opportunities/arcsees-arctic-sees/503604/nsf12-553/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf14043",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/erc-engineering-research-centers/5502/nsf15-589/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/policies/SOR_PA_NSF-50_Principal_Investigator_Proposal_File.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/erc-engineering-research-centers/5502/nsf15-589/solicitation",
+     "https://www.nsf.gov/funding/opportunities/arcsees-arctic-sees/503604/nsf12-553/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.arcus.org/guidelines",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/arcsees-arctic-sees/503604/nsf12-553/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/geo/plr/arctic/conduct.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/arcsees-arctic-sees/503604/nsf12-553/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/geo/plr/arctic/res_log_sup.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/arcsees-arctic-sees/503604/nsf12-553/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubs/2011/nsf11067/nsf11067.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/arcsees-arctic-sees/503604/nsf12-553/solicitation"
+    ]
+   },
+   {
+    "url": "http://uk.nanoq.gl/Emner/Government/Departments/ministry_of_domestic_affairs_nature_and_environment/expeditions.aspx",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/arcsees-arctic-sees/503604/nsf12-553/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=aag",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/arcsees-arctic-sees/503604/nsf12-553/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.epa.gov/aboutepa/region10.html",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/arcsees-arctic-sees/503604/nsf12-553/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.sfos.uaf.edu/arrv/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/arcsees-arctic-sees/503604/nsf12-553/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.cnrs.fr/",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/arcsees-arctic-sees/503604/nsf12-553/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.polar.ch2m.com/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/arcsees-arctic-sees/503604/nsf12-553/solicitation"
+    ]
+   },
+   {
+    "url": "https://c/Users/kipetrov/Desktop/Solicitation-Sustainable-Digital-Infrastructure-NG_07-13.docx",
+    "status": 0,
+    "reason": "EAI_AGAIN",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/ngsdi-nsfvmware-partnership-next-generation-sustainable-digital/505824/nsf20-594"
+    ]
+   },
+   {
+    "url": "https://www.vmware.com/topics/glossary/content/virtual-desktop-infrastructure-vdi",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/ngsdi-nsfvmware-partnership-next-generation-sustainable-digital/505824/nsf20-594"
+    ]
+   },
+   {
+    "url": "https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/sustainability/vmware-greenit-virtualization-delivers-energy-carbon-emissions.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/ngsdi-nsfvmware-partnership-next-generation-sustainable-digital/505824/nsf20-594"
+    ]
+   },
+   {
+    "url": "http://www07.grants.gov/applicants/app_help_reso.jsp",
+    "status": 0,
+    "reason": "EAI_AGAIN",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/arcsees-arctic-sees/503604/nsf12-553/solicitation"
+    ]
+   },
+   {
+    "url": "https://new.nsf.gov/sbe/bcs/sample-proposal",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/ca-ddrig-cultural-anthropology-program-doctoral-dissertation-research/505057/nsf24-605"
+    ]
+   },
+   {
+    "url": "http://rbm.nih.gov/profile_project.htm",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-assessing-impacts-recent-going-changes-federal-science/nsf13-104"
+    ]
+   },
+   {
+    "url": "http://www.whitehouse.gov/blog/2013/02/22/expanding-public-access-results-federally-funded-research",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-assessing-impacts-recent-going-changes-federal-science/nsf13-104"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJIsc-uupjMvE9fdyfPEoPGP8FHV9_X5YBw",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/chemical-measurement-imaging-cmi-program-office-hour"
+    ]
+   },
+   {
+    "url": "https://projectreporter.nih.gov/Reporter_Viewsh.cfm?sl=14E8C00D468AC0D67598B8961CAA4A01A2FFCEB861BF",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/eeid-ecology-evolution-infectious-diseases/5269/nsf22-620"
+    ]
+   },
+   {
+    "url": "https://cris.nifa.usda.gov/cgi-bin/starfinder/0?path=fastlink1.txt&id=anon&pass=&search=(GC=A1222)&format=WEBTITLESGIY",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/eeid-ecology-evolution-infectious-diseases/5269/nsf22-620"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 24,
+  "alfa": 14,
+  "plain-language": 11,
+  "resources": 24,
+  "images": 24,
+  "standards": 17,
+  "tech": 1,
+  "third-party": 8,
+  "link-check": 24,
+  "deprecated-html": 2,
+  "sustainability": 1,
+  "public-interest": 2,
+  "security": 3,
+  "lighthouse": 3
+ },
+ "tally": {
+  "ok": 24,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 1,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-18T17:32:20.772Z"
+}
