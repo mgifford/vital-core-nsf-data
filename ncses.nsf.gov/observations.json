@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
  "domain": "ncses.nsf.gov",
- "updated_at": "2026-11-18T17:36:16.626Z",
+ "updated_at": "2026-11-18T18:36:22.938Z",
  "urls": {
   "0011f88d24a5ba33": {
    "page_id": "0011f88d24a5ba33",
@@ -28389,11 +28389,11 @@
    "page_id": "7b0eb6f80e209f73",
    "url": "https://ncses.nsf.gov/pubs/nsf25308/figure/1",
    "first_discovered_at": "2026-11-18T17:34:52.524Z",
-   "last_attempt_at": null,
-   "last_success_at": null,
-   "last_status": null,
-   "last_week": null,
-   "outcome": "never_scanned",
+   "last_attempt_at": "2026-11-18T18:36:12.816Z",
+   "last_success_at": "2026-11-18T18:36:12.816Z",
+   "last_status": 200,
+   "last_week": "2026-W47",
+   "outcome": "success",
    "fail_count": 0,
    "clean": null,
    "last_failed_week": null
