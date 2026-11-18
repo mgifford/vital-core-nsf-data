@@ -1,0 +1,119 @@
+{
+ "runId": "2026-11-18T11-30-37-543Z-7f1112",
+ "week": "2026-W47",
+ "domain": "ncses.nsf.gov",
+ "canonical": {
+  "origin": "https://ncses.nsf.gov",
+  "configured": "https://ncses.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-18T11:30:38.099Z",
+ "scanned": [
+  "8ae7963d126eb171",
+  "2b35d5ac7b28d10d",
+  "39a9dd038893752d",
+  "8fb92a38406906d7",
+  "2d2718c1ae7735e6",
+  "51afba60aeb1d538",
+  "32091e482abcf6fa",
+  "5cab0ae194d150b1",
+  "2118f05e11d0b96f",
+  "ac16c9898ee39cb7",
+  "6e20f96ef7a99bef",
+  "753e59d93fae7f7e",
+  "e8edce2edecaa7a6",
+  "2a25e8358e3e6c17",
+  "b89aa0e18ac43ca1",
+  "870b5169a147b9a4",
+  "f9985012368cc288",
+  "db460dcd19a10fa2",
+  "0816b4f036024f62"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 2025,
+  "checked": 500,
+  "brokenCount": 1,
+  "broken": [
+   {
+    "url": "https://nsf.gov/nsb/sei/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20205/glossary",
+     "https://ncses.nsf.gov/pubs/nsb202333/data/table/SPBS-60",
+     "https://ncses.nsf.gov/pubs/nsb20227/table/SPPS-22",
+     "https://ncses.nsf.gov/pubs/nsb20225/table/RD-10",
+     "https://ncses.nsf.gov/pubs/nsb202331/figure/K12-15",
+     "https://ncses.nsf.gov/pubs/nsb202332/table/HED-3",
+     "https://ncses.nsf.gov/pubs/nsb202332/figure/HED-16",
+     "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-31",
+     "https://ncses.nsf.gov/pubs/nsb20244",
+     "https://ncses.nsf.gov/pubs/nsb20226/figure/KTI-G",
+     "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-83",
+     "https://ncses.nsf.gov/pubs/nsb20243/figure/24",
+     "https://ncses.nsf.gov/pubs/nsb20196/post-high-school-transitions",
+     "https://ncses.nsf.gov/pubs/nsb20207/interest-information-sources-and-involvement"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 19,
+  "alfa": 15,
+  "plain-language": 11,
+  "resources": 19,
+  "images": 19,
+  "link-check": 19,
+  "sustainability": 4,
+  "security": 2,
+  "public-interest": 6,
+  "third-party": 5,
+  "standards": 4,
+  "tech": 2,
+  "deprecated-html": 1
+ },
+ "tally": {
+  "ok": 19,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 8,
+  "error": 0
+ },
+ "finishedAt": "2026-11-18T11:35:59.607Z"
+}
