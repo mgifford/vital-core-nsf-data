@@ -1,0 +1,162 @@
+{
+ "runId": "2026-11-18T13-17-49-041Z-8bba5d",
+ "week": "2026-W47",
+ "domain": "ncses.nsf.gov",
+ "canonical": {
+  "origin": "https://ncses.nsf.gov",
+  "configured": "https://ncses.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-18T13:17:49.365Z",
+ "scanned": [
+  "304d04383773d392",
+  "b4374687a40ff98d",
+  "e847ad92b6001e3e",
+  "85da94f24c8cc853",
+  "ef6db9d93b19a3e1",
+  "0380c26661eafee6",
+  "d7dff1ae7a1aad3e",
+  "2f0f5def4788ae04",
+  "c054ea0945b089a5",
+  "8e9d7cd742b1f319",
+  "53a77ca4f4feae80",
+  "63a60bf87b394ea7",
+  "9c660ada637eab2f",
+  "6a75b8d1958134db",
+  "3c0c9f9df6aa8d99",
+  "8e278d0692ed7dce",
+  "c7ad7b27b89b0d85",
+  "34f41e95e5ad7539",
+  "b7937c51e5fa55a5",
+  "099831ff9967e392"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 3004,
+  "checked": 500,
+  "brokenCount": 7,
+  "broken": [
+   {
+    "url": "https://ncses.nsf.gov/pubs/nsb20261/assets/path-to-stem-employment/figures/nsb20261-figtal-031.pdf",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20261/path-to-stem-employment",
+     "https://ncses.nsf.gov/pubs/nsb20261/executive-summary"
+    ]
+   },
+   {
+    "url": "https://ncses.nsf.gov/pubs/nsf25321/table/A-1",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20261/path-to-stem-employment",
+     "https://ncses.nsf.gov/pubs/nsb20261/executive-summary"
+    ]
+   },
+   {
+    "url": "https://ncses.nsf.gov/pubs/nsb20261/assets/stem-labor/figures/nsb20261-figtal-001.xlsx",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20261/path-to-stem-employment",
+     "https://ncses.nsf.gov/pubs/nsb20261/executive-summary"
+    ]
+   },
+   {
+    "url": "https://ncses.nsf.gov/pubs/nsb20261/assets/stem-labor/figures/nsb20261-figtal-004.png",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20261/path-to-stem-employment",
+     "https://ncses.nsf.gov/pubs/nsb20261/executive-summary"
+    ]
+   },
+   {
+    "url": "https://ncses.nsf.gov/pubs/nsb20261/assets/stem-labor/figures/nsb20261-figtal-013.xlsx",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20261/path-to-stem-employment",
+     "https://ncses.nsf.gov/pubs/nsb20261/executive-summary"
+    ]
+   },
+   {
+    "url": "https://ncses.nsf.gov/pubs/nsb20261/figure/TAL-42",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20261/path-to-stem-employment",
+     "https://ncses.nsf.gov/pubs/nsb20261/executive-summary"
+    ]
+   },
+   {
+    "url": "https://aishe.gov.in/aishe/gotoAisheReports",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20261/path-to-stem-employment",
+     "https://ncses.nsf.gov/pubs/nsb20261/executive-summary"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 20,
+  "plain-language": 13,
+  "resources": 20,
+  "images": 20,
+  "standards": 10,
+  "link-check": 20,
+  "alfa": 7,
+  "public-interest": 2,
+  "third-party": 6,
+  "deprecated-html": 1,
+  "security": 2,
+  "lighthouse": 2,
+  "sustainability": 3
+ },
+ "tally": {
+  "ok": 20,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 10,
+  "error": 0
+ },
+ "finishedAt": "2026-11-18T13:22:18.351Z"
+}
