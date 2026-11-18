@@ -1,0 +1,305 @@
+{
+ "runId": "2026-11-18T13-18-01-469Z-9b76b6",
+ "week": "2026-W47",
+ "domain": "www.nsf.gov",
+ "canonical": {
+  "origin": "https://www.nsf.gov",
+  "configured": "https://www.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-18T13:18:03.387Z",
+ "scanned": [
+  "6122e4ec694db964",
+  "7e949bc5b2754caa",
+  "e21c6ffdad505183",
+  "2ea7d58b5af8a87e",
+  "cfda5d0951de64da",
+  "0e23a6b0536cb931",
+  "f2d9b45aa0424cc1",
+  "af608893f82c25ee",
+  "95a90ea29781d638",
+  "02501484c8f2cf95",
+  "e12dcc677dc64974",
+  "0769b6ba2f2dda53",
+  "b5e7e16f1035fd7c",
+  "9d2a9582e6b604fd",
+  "72c8b0bc9e8bd72c",
+  "49e8d0d0e96a2b98",
+  "702466a762ff5870",
+  "55f1a91c2bf6ce1b",
+  "4635d6905a00c4f4",
+  "233e61b43b4eb7ee",
+  "4f896eb9ed07fce6",
+  "f5790c5303c3fcbc",
+  "42768a530fe80d55",
+  "7c778d71a591f103",
+  "3b9badc70f2eee01"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 276,
+  "checked": 276,
+  "brokenCount": 25,
+  "broken": [
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_3RgztOBtSj2ph-iIigvcpg",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/ehrs-hsi-program-celebrates-hrds-30th-anniversary/2021-09-29"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_4ArIfZ92QnCsSJRS5srHLA",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/ehrs-hsi-program-celebrates-hrds-30th-anniversary/2021-09-29"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_ybDlboDmQwiBi4zcFLn8eQ",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/ehrs-hsi-program-celebrates-hrds-30th-anniversary/2021-09-29"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_jd6ZetTNRPytdeber-Gghg",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/ehrs-hsi-program-celebrates-hrds-30th-anniversary/2021-09-29"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/ehr/Pubs/HSISpeakerBios.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/ehrs-hsi-program-celebrates-hrds-30th-anniversary/2021-09-29"
+    ]
+   },
+   {
+    "url": "https://www.fastlane.nsf.gov/a1/newstan.htm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/shb-cise-cross-cutting-programs-fy-2011/13451/nsf05-518/solicitation",
+     "https://www.nsf.gov/funding/opportunities/engineering-virtual-organization-grants/501057/nsf07-558/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubsys/ods/getpub.cfm?iin127",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/shb-cise-cross-cutting-programs-fy-2011/13451/nsf05-518/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubsys/ods/getpub.cfm?nsb9772",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/shb-cise-cross-cutting-programs-fy-2011/13451/nsf05-518/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/home/grants/grants_gac.htm",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/shb-cise-cross-cutting-programs-fy-2011/13451/nsf05-518/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/cgi-bin/getpub?gpm",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/shb-cise-cross-cutting-programs-fy-2011/13451/nsf05-518/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/home/cns/start.htm",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/shb-cise-cross-cutting-programs-fy-2011/13451/nsf05-518/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/cgi-bin/getpub?gp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/shb-cise-cross-cutting-programs-fy-2011/13451/nsf05-518/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/home/ebulletin",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/shb-cise-cross-cutting-programs-fy-2011/13451/nsf05-518/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.whitehouse.gov/wp-content/uploads/2023/03/National-Cybersecurity-Strategy-2023.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/cyberai-sfs-cyberaicorps-scholarship-service/504991/nsf23-574"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubs/2022/nsf22517/nsf22517.htm",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/cyberai-sfs-cyberaicorps-scholarship-service/504991/nsf23-574"
+    ]
+   },
+   {
+    "url": "https://twitter.com/polarsecco",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/od/opp/updates/introducing-polar-science-early-career-community-office"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_854SLoyjT6SkAw8Y30pBDQ",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/information-intelligent-systems-iis-office-hours-3/2023-01-19"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/od/oci/ci-v7.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/engineering-virtual-organization-grants/501057/nsf07-558/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.nees.org/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/engineering-virtual-organization-grants/501057/nsf07-558/solicitation"
+    ]
+   },
+   {
+    "url": "http://cleaner.ncsa.uiuc.edu/home/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/engineering-virtual-organization-grants/501057/nsf07-558/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.nnin.org/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/engineering-virtual-organization-grants/501057/nsf07-558/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/od/oci/reports.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/engineering-virtual-organization-grants/501057/nsf07-558/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=cise051203",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/engineering-virtual-organization-grants/501057/nsf07-558/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubs/2007/nsf07558/nanoHUB.org",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/engineering-virtual-organization-grants/501057/nsf07-558/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=aag",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/engineering-virtual-organization-grants/501057/nsf07-558/solicitation"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 24,
+  "resources": 24,
+  "images": 24,
+  "standards": 13,
+  "third-party": 10,
+  "link-check": 24,
+  "plain-language": 14,
+  "alfa": 10,
+  "lighthouse": 1,
+  "public-interest": 1,
+  "tech": 1,
+  "sustainability": 2,
+  "deprecated-html": 1
+ },
+ "tally": {
+  "ok": 24,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 3,
+  "error": 0
+ },
+ "finishedAt": "2026-11-18T13:21:49.019Z"
+}
