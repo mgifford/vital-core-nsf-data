@@ -1,6 +1,6 @@
 {
  "domain": "seedfund.nsf.gov",
- "updatedAt": "2026-11-17T21:18:48.062Z",
+ "updatedAt": "2026-11-18T20:52:31.088Z",
  "vendors": {
   "gstatic.com": {
    "firstSeen": "2026-W43",
@@ -188,6 +188,15 @@
    ],
    "weeksSeen": 2,
    "isScriptVendor": false
+  },
+  "vidyard.com": {
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": true
   }
  }
 }

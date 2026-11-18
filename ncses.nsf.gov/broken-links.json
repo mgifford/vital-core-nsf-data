@@ -1,6 +1,6 @@
 {
  "domain": "ncses.nsf.gov",
- "updatedAt": "2026-11-17T21:18:45.911Z",
+ "updatedAt": "2026-11-18T20:52:29.424Z",
  "links": {
   "http://ncses.nsf.gov/pubs/nsf23300/": {
    "status": 0,
@@ -991,7 +991,12 @@
     "https://ncses.nsf.gov/pubs/nsb202332/table/SHED-11",
     "https://ncses.nsf.gov/pubs/nsb202332/table/SAHED-1",
     "https://ncses.nsf.gov/pubs/nsbsep20261/translation-to-impact-u-s-and-global-science-technology-and-innovation-output-2",
-    "https://ncses.nsf.gov/pubs/nsb202332/table/SHED-6"
+    "https://ncses.nsf.gov/pubs/nsb202332/table/SHED-6",
+    "https://ncses.nsf.gov/pubs/nsb20261/path-to-stem-employment",
+    "https://ncses.nsf.gov/pubs/nsb20261/executive-summary",
+    "https://ncses.nsf.gov/pubs/nsb20223/data/table/SHED-5",
+    "https://ncses.nsf.gov/pubs/nsbsep20261/supplemental-tables",
+    "https://ncses.nsf.gov/pubs/nsb202332/table/SHED-5"
    ]
   },
   "https://www.sbir.gov/sbirsearch/award/all": {
@@ -1612,13 +1617,14 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W47",
    "_weeks": [
-    "2026-W45"
+    "2026-W45",
+    "2026-W47"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "https://ncses.nsf.gov/pubs/nsb20223/table/SHED-3"
+    "https://ncses.nsf.gov/pubs/nsb20223/data/table/SHED-5"
    ]
   },
   "https://www.nsf.gov/nsb/meetings/2020/0729/presentations/Plenary-Open-HBCU.pdf": {
@@ -2693,6 +2699,112 @@
    "weeksBroken": 1,
    "foundOn": [
     "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-15"
+   ]
+  },
+  "https://nsf.gov/nsb/sei/": {
+   "status": 0,
+   "reason": "UND_ERR_CONNECT_TIMEOUT",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20205/glossary",
+    "https://ncses.nsf.gov/pubs/nsb202333/data/table/SPBS-60",
+    "https://ncses.nsf.gov/pubs/nsb20227/table/SPPS-22",
+    "https://ncses.nsf.gov/pubs/nsb20225/table/RD-10",
+    "https://ncses.nsf.gov/pubs/nsb202331/figure/K12-15",
+    "https://ncses.nsf.gov/pubs/nsb202332/table/HED-3",
+    "https://ncses.nsf.gov/pubs/nsb202332/figure/HED-16",
+    "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-31",
+    "https://ncses.nsf.gov/pubs/nsb20244",
+    "https://ncses.nsf.gov/pubs/nsb20226/figure/KTI-G"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsb20261/assets/path-to-stem-employment/figures/nsb20261-figtal-031.pdf": {
+   "status": 0,
+   "reason": "UND_ERR_CONNECT_TIMEOUT",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20261/path-to-stem-employment",
+    "https://ncses.nsf.gov/pubs/nsb20261/executive-summary"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsf25321/table/A-1": {
+   "status": 0,
+   "reason": "UND_ERR_CONNECT_TIMEOUT",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20261/path-to-stem-employment",
+    "https://ncses.nsf.gov/pubs/nsb20261/executive-summary"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsb20261/assets/stem-labor/figures/nsb20261-figtal-001.xlsx": {
+   "status": 0,
+   "reason": "UND_ERR_CONNECT_TIMEOUT",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20261/path-to-stem-employment",
+    "https://ncses.nsf.gov/pubs/nsb20261/executive-summary"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsb20261/assets/stem-labor/figures/nsb20261-figtal-004.png": {
+   "status": 0,
+   "reason": "UND_ERR_CONNECT_TIMEOUT",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20261/path-to-stem-employment",
+    "https://ncses.nsf.gov/pubs/nsb20261/executive-summary"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsb20261/assets/stem-labor/figures/nsb20261-figtal-013.xlsx": {
+   "status": 0,
+   "reason": "UND_ERR_CONNECT_TIMEOUT",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20261/path-to-stem-employment",
+    "https://ncses.nsf.gov/pubs/nsb20261/executive-summary"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsb20261/figure/TAL-42": {
+   "status": 0,
+   "reason": "UND_ERR_CONNECT_TIMEOUT",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20261/path-to-stem-employment",
+    "https://ncses.nsf.gov/pubs/nsb20261/executive-summary"
    ]
   }
  }

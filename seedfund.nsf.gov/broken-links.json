@@ -1,6 +1,6 @@
 {
  "domain": "seedfund.nsf.gov",
- "updatedAt": "2026-11-17T21:18:48.062Z",
+ "updatedAt": "2026-11-18T20:52:31.088Z",
  "links": {
   "https://relavomedical.com/": {
    "status": 0,
@@ -77,12 +77,13 @@
    "status": 0,
    "reason": "ENOTFOUND",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W43",
-    "2026-W45"
+    "2026-W45",
+    "2026-W47"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
     "https://seedfund.nsf.gov/styleguide"
    ]
@@ -221,13 +222,14 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W43",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksBroken": 3,
+   "weeksBroken": 4,
    "foundOn": [
     "https://seedfund.nsf.gov/styleguide/typography"
    ]
@@ -321,11 +323,12 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W47",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W47"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://seedfund.nsf.gov/requirements"
    ]
@@ -586,7 +589,8 @@
    ],
    "weeksBroken": 4,
    "foundOn": [
-    "https://seedfund.nsf.gov/styleguide/layouts"
+    "https://seedfund.nsf.gov/styleguide/layouts",
+    "https://seedfund.nsf.gov/styleguide/typography"
    ]
   },
   "http://www.solaridipm.com/": {
@@ -641,7 +645,8 @@
    ],
    "weeksBroken": 3,
    "foundOn": [
-    "https://seedfund.nsf.gov/showcase/news"
+    "https://seedfund.nsf.gov/showcase/news",
+    "https://seedfund.nsf.gov/news/MicrobialInsights"
    ]
   },
   "https://www.skiptek.com/": {
@@ -794,11 +799,12 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W47",
    "_weeks": [
-    "2026-W45"
+    "2026-W45",
+    "2026-W47"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://seedfund.nsf.gov/news/safelyyou"
    ]
@@ -820,11 +826,12 @@
    "status": 503,
    "reason": "HTTP 503",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W47",
    "_weeks": [
-    "2026-W45"
+    "2026-W45",
+    "2026-W47"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://seedfund.nsf.gov/news/ascend-elements"
    ]
@@ -847,11 +854,12 @@
    "status": 503,
    "reason": "HTTP 503",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W47",
    "_weeks": [
-    "2026-W45"
+    "2026-W45",
+    "2026-W47"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://seedfund.nsf.gov/awardees/history/details?company=battery-resourcers-llc"
    ]
@@ -927,12 +935,13 @@
    "status": 0,
    "reason": "ENOTFOUND",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
     "https://seedfund.nsf.gov/styleguide/typography"
    ]
@@ -1353,6 +1362,45 @@
    "weeksBroken": 1,
    "foundOn": [
     "https://seedfund.nsf.gov/awardees/phase-2/details?company=skip-technology-inc"
+   ]
+  },
+  "http://www.superiornano.com/": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/awardees/phase-2/details?company=superior-nano-llc"
+   ]
+  },
+  "http://www.precisionpolyolefins.com/": {
+   "status": 0,
+   "reason": "ECONNRESET",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/portfolio/details?company=precision-polyolefins-llc"
+   ]
+  },
+  "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1300.pdf": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/requirements"
    ]
   }
  }
