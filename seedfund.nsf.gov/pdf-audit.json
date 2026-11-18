@@ -1,6 +1,6 @@
 {
  "domain": "seedfund.nsf.gov",
- "updatedAt": "2026-11-16T02:25:44.769Z",
+ "updatedAt": "2026-11-18T03:56:53.201Z",
  "checker": {
   "name": "pdf-crawler",
   "url": "https://github.com/mgifford/pdf-crawler",
@@ -549,6 +549,90 @@
    },
    "errors": [
     "headings-warn, lists-fail, "
+   ]
+  },
+  "https://seedfund.nsf.gov/assets/files/applicants/indirect-cost-rate-adjustments.pdf": {
+   "checkedAt": "2026-11-18T03:56:53.201Z",
+   "week": "2026-W47",
+   "httpStatus": 200,
+   "md5": "11e2eef85ca4dcbaabe47303a388ddc9",
+   "bytes": 240007,
+   "etag": "\"11e2eef85ca4dcbaabe47303a388ddc9\"",
+   "lastModified": "Tue, 05 Nov 2024 17:48:14 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": true,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": false,
+    "published": "2024-11-04",
+    "title": "Update to Indirect Cost Rate Adjustments for NSF Small Business Innovation Research (SBIR) / Small Business Technology Transfer (STTR) Solicitations",
+    "pages": 2,
+    "words": 619,
+    "images": 0,
+    "category": null,
+    "checks": {
+     "tagged": "pass",
+     "title": "pass",
+     "language": "pass",
+     "bookmarks": "pass",
+     "taggedContent": "pass",
+     "figuresAlt": "pass",
+     "headings": null,
+     "lists": null,
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": "pass",
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "headings-none, "
+   ]
+  },
+  "https://seedfund.nsf.gov/assets/files/awardees/SBIRSTTR%20Sample%20Budget%20Justification%20Jan2024.pdf": {
+   "checkedAt": "2026-11-18T03:56:53.201Z",
+   "week": "2026-W47",
+   "httpStatus": 200,
+   "md5": "b6b4d0d7473cd76b50c1397c7eff9631",
+   "bytes": 116920,
+   "etag": "\"b6b4d0d7473cd76b50c1397c7eff9631\"",
+   "lastModified": "Tue, 16 Jan 2024 17:10:18 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": true,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": false,
+    "published": "2024-01-11",
+    "title": "Sample Budget Justification",
+    "pages": 2,
+    "words": 792,
+    "images": 0,
+    "category": null,
+    "checks": {
+     "tagged": "pass",
+     "title": "pass",
+     "language": "pass",
+     "bookmarks": "pass",
+     "taggedContent": "pass",
+     "figuresAlt": "pass",
+     "headings": null,
+     "lists": "pass",
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": null,
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "headings-none, "
    ]
   }
  }
