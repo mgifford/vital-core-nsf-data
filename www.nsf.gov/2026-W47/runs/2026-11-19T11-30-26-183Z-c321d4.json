@@ -1,0 +1,342 @@
+{
+ "runId": "2026-11-19T11-30-26-183Z-c321d4",
+ "week": "2026-W47",
+ "domain": "www.nsf.gov",
+ "canonical": {
+  "origin": "https://www.nsf.gov",
+  "configured": "https://www.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-19T11:30:28.143Z",
+ "scanned": [
+  "bc31b0317a2a4b09",
+  "23784de8e8d59c16",
+  "2a37daa7d98d5209",
+  "e21c9eee9b5917b3",
+  "cbf861c71b22da2c",
+  "163fc213b01f24e6",
+  "1afb70e42502a6c7",
+  "d8db0f5c3800e549",
+  "22c14c04c5a67208",
+  "6fa3e2f9c5800048",
+  "0f7e939d9193d339",
+  "6f768d640bb03186",
+  "a85067e3cd69cae1",
+  "3667e8aad9307737",
+  "1cad57ca9da3f190",
+  "09123a5ed8006c1e",
+  "f276eaadf69e08db",
+  "66ddfdfdcb5ae69a",
+  "51f69454d9b737da",
+  "79adb8452afcd0b7",
+  "6f9364c6fd9dc52a",
+  "01d935f36aeca72f",
+  "3dea976e15ce4155"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 265,
+  "checked": 265,
+  "brokenCount": 27,
+  "broken": [
+   {
+    "url": "https://www.grants.gov/",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/ssmc-solid-state-materials-chemistry/5356/pd10-1762",
+     "https://www.nsf.gov/events/office-hours-intro-americas-seed-fund-nsf-1/2026-06-02",
+     "https://www.nsf.gov/funding/opportunities/nsdl-national-stem-education-distributed-learning/5487/nsf10-545",
+     "https://www.nsf.gov/mps/updates/quantum-leap-challenge-institutes-program-frequently-asked",
+     "https://www.nsf.gov/funding/opportunities/dcl-special-guidelines-submitting-collaborative-proposals-under/nsf15-105",
+     "https://www.nsf.gov/funding/opportunities/eeid-ecology-evolution-infectious-diseases/5269/nsf21-609",
+     "https://www.nsf.gov/events/new-phase-ii-awardee-qa",
+     "https://www.nsf.gov/events/eng-distinguished-lecture-how-advanced-packaging-will-shape",
+     "https://www.nsf.gov/funding/opportunities/ds-developmental-sciences/8671/nsf07-508",
+     "https://www.nsf.gov/funding/opportunities/egfp-nsf-epscor-graduate-fellowship-program/updates/109149",
+     "https://www.nsf.gov/reports/indicators/science-engineering-indicators-2002-volume-2",
+     "https://www.nsf.gov/events/national-science-board-committee-oversight-co-teleconference-31/2024-03-07",
+     "https://www.nsf.gov/funding/opportunities/efri-wbc-emerging-frontiers-research-innovation-efri-wave-based",
+     "https://www.nsf.gov/funding/opportunities/msprf-mathematical-sciences-postdoctoral-research-fellowships/nsf16-558/solicitation",
+     "https://www.nsf.gov/events/beyond-core-funding-opportunities-eager-rapid-raise-rcn",
+     "https://www.nsf.gov/funding/opportunities/communicating-research-public-audiences/5362/nsf03-509/solicitation",
+     "https://www.nsf.gov/reports/foia/foia-report-fy-1999",
+     "https://www.nsf.gov/funding/opportunities/mip-materials-innovation-platforms/505133/nsf25-521/solicitation",
+     "https://www.nsf.gov/events/webinar-collaboratory-advance-mathematics-education-learning",
+     "https://www.nsf.gov/policies/document/general-programmatic-terms-conditions-cleaner-project-office",
+     "https://www.nsf.gov/funding/opportunities/synthesis-arctic-system-science/13462/nsf06-523",
+     "https://www.nsf.gov/funding/opportunities/noao-national-optical-astronomy-observatory/504938/nsf13-582",
+     "https://www.nsf.gov/events/computer-information-science-engineering-research-expansion-0"
+    ]
+   },
+   {
+    "url": "http://www.nsf.gov/cgi-bin/good-bye?http://www.chem.northwestern.edu/~poeppel/dmr/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/ssmc-solid-state-materials-chemistry/5356/pd10-1762"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_tFGKvy9kTief_iiipFVvBA",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/office-hours-intro-americas-seed-fund-nsf-1/2026-06-02"
+    ]
+   },
+   {
+    "url": "https://links-2.govdelivery.com/CL0/https:%2F%2Fseedfund.nsf.gov%2Fapply%2Fthe-basics%2F%3Futm_medium=email%26utm_source=govdelivery/1/0101019e6aba1d99-81ef57df-5cae-4cd1-8c05-01ed502b4b7b-000000/RptaUNIIUVwMFjtF9URef-BOvPXmcJBN9rsp-XfCP4o=452",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/office-hours-intro-americas-seed-fund-nsf-1/2026-06-02"
+    ]
+   },
+   {
+    "url": "https://links-2.govdelivery.com/CL0/https:%2F%2Fnsf.zoomgov.com%2Fwebinar%2Fregister%2FWN_tFGKvy9kTief_iiipFVvBA%3Futm_medium=email%26utm_source=govdelivery/4/0101019e6f51d515-8ae2dfa4-422f-4b8a-84b8-edaa5283b8f7-000000/Ruc3MYcNQCPevy2QzwCa14UhmtsV10UmhBpF6h8oyWo=452",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/office-hours-intro-americas-seed-fund-nsf-1/2026-06-02"
+    ]
+   },
+   {
+    "url": "https://projectreporter.nih.gov/Reporter_Viewsh.cfm?sl=14E8C00D468AC0D67598B8961CAA4A01A2FFCEB861BF",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/eeid-ecology-evolution-infectious-diseases/5269/nsf21-609"
+    ]
+   },
+   {
+    "url": "https://cris.nifa.usda.gov/cgi-bin/starfinder/0?path=fastlink1.txt&id=anon&pass=&search=(AN=%201026820;1026829;1005016;1024784;1013195;1019955;1024698;1013243;1004884;1003883;1024581;229951;1024682;1019862;1019891;1017060;101",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/eeid-ecology-evolution-infectious-diseases/5269/nsf21-609"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJItcemqrzovHB_rxXRhRajD092hDi76SBA",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/new-phase-ii-awardee-qa"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJItdu-tqzMoHDiBRe5Gy1A_cqVqlV-I8bs",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/new-phase-ii-awardee-qa"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_3wRgXV6MRkyqrh5mp8YmUg",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/eng-distinguished-lecture-how-advanced-packaging-will-shape"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_MprzZiObTHeaS-BwHj3fTA",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/eng-distinguished-lecture-how-advanced-packaging-will-shape"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_sG7e-nK7RxS-ZMD2J0fOkw",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/egfp-nsf-epscor-graduate-fellowship-program/updates/109149"
+    ]
+   },
+   {
+    "url": "https://www.fastlane.nsf.gov/a1/newstan.htm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/msprf-mathematical-sciences-postdoctoral-research-fellowships/nsf16-558/solicitation",
+     "https://www.nsf.gov/funding/opportunities/communicating-research-public-audiences/5362/nsf03-509/solicitation"
+    ]
+   },
+   {
+    "url": "https://mcbblog.nsfbio.com/office-hours/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/events/beyond-core-funding-opportunities-eager-rapid-raise-rcn"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf18045",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/msprf-mathematical-sciences-postdoctoral-research-fellowships/nsf16-558/solicitation"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_rcG95iI9QOOed-VfarsHFQ",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/beyond-core-funding-opportunities-eager-rapid-raise-rcn"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubs/2001/nsf012/nsf0102_1.html",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/communicating-research-public-audiences/5362/nsf03-509/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf9770",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/communicating-research-public-audiences/5362/nsf03-509/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsb9772",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/communicating-research-public-audiences/5362/nsf03-509/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=gpm",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/communicating-research-public-audiences/5362/nsf03-509/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=iin127",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/communicating-research-public-audiences/5362/nsf03-509/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/cgi-bin/getpub?gp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/communicating-research-public-audiences/5362/nsf03-509/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/home/ebulletin",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/communicating-research-public-audiences/5362/nsf03-509/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.grants.gov/applicants",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/mip-materials-innovation-platforms/505133/nsf25-521/solicitation"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_54Yk4NhVQUGvCTbPbOvFyw",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/webinar-collaboratory-advance-mathematics-education-learning"
+    ]
+   },
+   {
+    "url": "http://www.arcus.org/ARCSS/synthesis.html",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/synthesis-arctic-system-science/13462/nsf06-523"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_8ZMND6yKTSeuO_OYaka1Sg",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/computer-information-science-engineering-research-expansion-0"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 23,
+  "resources": 23,
+  "images": 23,
+  "third-party": 4,
+  "link-check": 23,
+  "alfa": 7,
+  "plain-language": 14,
+  "deprecated-html": 1,
+  "standards": 14,
+  "sustainability": 4,
+  "security": 4,
+  "tech": 3,
+  "public-interest": 1,
+  "lighthouse": 1
+ },
+ "tally": {
+  "ok": 23,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 2,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 2,
+  "error": 0
+ },
+ "finishedAt": "2026-11-19T11:33:52.379Z"
+}
