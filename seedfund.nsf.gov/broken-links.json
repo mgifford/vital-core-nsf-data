@@ -1,6 +1,6 @@
 {
  "domain": "seedfund.nsf.gov",
- "updatedAt": "2026-11-18T20:52:31.088Z",
+ "updatedAt": "2026-11-19T20:57:28.806Z",
  "links": {
   "https://relavomedical.com/": {
    "status": 0,
@@ -62,15 +62,15 @@
    "status": 0,
    "reason": "ERR_SSL_TLSV1_ALERT_INTERNAL_ERROR",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W43",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
-    "https://seedfund.nsf.gov/topics/super-intelligence-f",
-    "https://seedfund.nsf.gov/showcase"
+    "https://seedfund.nsf.gov/topics/super-intelligence-f"
    ]
   },
   "https://standards.usa.gov/": {
@@ -146,13 +146,14 @@
    "status": 0,
    "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W43",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksBroken": 3,
+   "weeksBroken": 4,
    "foundOn": [
     "https://seedfund.nsf.gov/"
    ]
@@ -161,13 +162,14 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W43",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksBroken": 3,
+   "weeksBroken": 4,
    "foundOn": [
     "https://seedfund.nsf.gov/"
    ]
@@ -1130,13 +1132,14 @@
    "status": 0,
    "reason": "fetch failed",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W47",
    "_weeks": [
-    "2026-W45"
+    "2026-W45",
+    "2026-W47"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "https://seedfund.nsf.gov/awardees/history/details?company=alloy-enterprises-inc"
+    "https://seedfund.nsf.gov/centers/ceps/digital-fabrication-of-aluminum-components-redefines-the-metal-manufacturing-industry"
    ]
   },
   "https://legacy.www.sbir.gov/tutorials/individual-agency-requirements/": {
@@ -1401,6 +1404,19 @@
    "weeksBroken": 1,
    "foundOn": [
     "https://seedfund.nsf.gov/requirements"
+   ]
+  },
+  "http://www.sqzbiotech.com/": {
+   "status": 409,
+   "reason": "HTTP 409",
+   "firstSeen": "2026-W47",
+   "lastSeen": "2026-W47",
+   "_weeks": [
+    "2026-W47"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/portfolio/details?company=sqz-biotechnologies-company"
    ]
   }
  }

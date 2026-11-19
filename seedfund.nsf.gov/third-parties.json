@@ -1,6 +1,6 @@
 {
  "domain": "seedfund.nsf.gov",
- "updatedAt": "2026-11-18T20:52:31.088Z",
+ "updatedAt": "2026-11-19T20:57:28.807Z",
  "vendors": {
   "gstatic.com": {
    "firstSeen": "2026-W43",
@@ -121,13 +121,14 @@
   },
   "youtube.com": {
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W47",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W47"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "isScriptVendor": true
   },
   "ytimg.com": {
@@ -143,11 +144,12 @@
   },
   "vumbnail.com": {
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W47",
    "_weeks": [
-    "2026-W45"
+    "2026-W45",
+    "2026-W47"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "isScriptVendor": false
   },
   "crazyegg.com": {
