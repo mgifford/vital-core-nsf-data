@@ -1,0 +1,143 @@
+{
+ "runId": "2026-11-23T19-18-09-934Z-854586",
+ "week": "2026-W48",
+ "domain": "www.nsf.gov",
+ "canonical": {
+  "origin": "https://www.nsf.gov",
+  "configured": "https://www.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-23T19:18:12.854Z",
+ "scanned": [
+  "2e555614bce52532",
+  "a32f6f7747c35dd9",
+  "0c6a3733ac30d2df",
+  "bbecc2a301932da0",
+  "5d34c8c7e7571a3a",
+  "b8ee6d17437e9d81",
+  "f10f8fced59849eb",
+  "597195891fe23484",
+  "aff6cc4fff518b40",
+  "ce64c3ac6a326455",
+  "89fe02ec439a5074",
+  "a6a5d6fce9d18f57",
+  "0e7a881ccfb15005",
+  "9e05e1995348e080",
+  "cbf0fd50864f1c4f",
+  "de6e85855e8cd503",
+  "f7adf0d753e474f4",
+  "dee00df572f49cb7",
+  "1acc027082a9b3d1",
+  "3b1ab7ffbbd7fabf",
+  "5108b8d489f1d1ea",
+  "ce094c7c5f0800d7",
+  "56cfb0970f1095f5",
+  "be91dc01ce426495"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 239,
+  "checked": 239,
+  "brokenCount": 2,
+  "broken": [
+   {
+    "url": "https://www.grants.gov/",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://www.nsf.gov/events/growing-convergence-lecture-series",
+     "https://www.nsf.gov/honorary-awards/pecase/recipients/sridevi-v-sarma",
+     "https://www.nsf.gov/events/nsf-convergence-accelerator-regional-expansion-event-midwest-1/2024-05-16",
+     "https://www.nsf.gov/tip/updates/nsf-invests-nearly-52m-align-science-technology-research",
+     "https://www.nsf.gov/bio/core-biological-sciences-research",
+     "https://www.nsf.gov/events/environmental-chemical-sciences-ecs-office-hour/2024-12-06",
+     "https://www.nsf.gov/news/gemini-south-telescope-captures-image-chamaeleon-infrared",
+     "https://www.nsf.gov/funding/opportunities/cps-cyberphysical-systems/503286/nsf24-581",
+     "https://www.nsf.gov/nsb/updates/national-science-board-will-hold-hybrid-meeting-august-3-4",
+     "https://www.nsf.gov/funding/opportunities/geoprisms-program/13516/nsf14-556",
+     "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/keivan-g-stassun",
+     "https://www.nsf.gov/reports/statistics/doctorate-recipients-us-universities-2021-data-tables",
+     "https://www.nsf.gov/funding/opportunities/brite-nsf-boosting-research-ideas-transformative-equitable/505880/nsf25-512",
+     "https://www.nsf.gov/funding/initiatives/pathways-enable-open-source-ecosystems/updates/nsf-invests-nearly-8-million",
+     "https://www.nsf.gov/events/ige-virtual-office-hours-postponed/2025-02-04",
+     "https://www.nsf.gov/events/national-science-board-awards-facilities-af-teleconference-13/2023-05-08",
+     "https://www.nsf.gov/funding/opportunities/dcl-opportunity-active-efri-erc-awardees-apply-supplemental/nsf18-107",
+     "https://www.nsf.gov/events/growing-convergence-research-lecture-series-0/2025-06-26",
+     "https://www.nsf.gov/reports/topical/workshop-report-methodological-advances-human-capital",
+     "https://www.nsf.gov/reports/performance/fiscal-year-2024-annual-performance-report",
+     "https://www.nsf.gov/funding/opportunities/prime-promoting-research-innovation-methodologies-evaluation/503586/nsf12-508",
+     "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/ronald-breslow",
+     "https://www.nsf.gov/events/national-science-board-nsb-nsf-commission-merit-review-mrx-15",
+     "https://www.nsf.gov/funding/opportunities/ridir-resource-implementations-data-intensive-research-social/505168/nsf15-602"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJItc--grz4oEw0TKxGWv0KXz6zHd3Eso_E",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/environmental-chemical-sciences-ecs-office-hour/2024-12-06"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 24,
+  "deprecated-html": 2,
+  "resources": 24,
+  "images": 24,
+  "link-check": 24,
+  "alfa": 9,
+  "plain-language": 12,
+  "standards": 9,
+  "lighthouse": 6,
+  "public-interest": 2,
+  "security": 4,
+  "third-party": 5,
+  "sustainability": 3,
+  "tech": 3
+ },
+ "tally": {
+  "ok": 24,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 1,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 2,
+  "error": 0
+ },
+ "finishedAt": "2026-11-23T19:22:18.410Z"
+}
