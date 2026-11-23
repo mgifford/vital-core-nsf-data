@@ -1,0 +1,180 @@
+{
+ "runId": "2026-11-23T21-42-17-006Z-315f92",
+ "week": "2026-W48",
+ "domain": "ncses.nsf.gov",
+ "canonical": {
+  "origin": "https://ncses.nsf.gov",
+  "configured": "https://ncses.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-23T21:42:19.906Z",
+ "scanned": [
+  "f264a126c838f2c6",
+  "1356109da9b2e1e9",
+  "f7917d825d389219",
+  "ca3259ca46bfe595",
+  "ded43740589fabe4",
+  "7e0341f162439b71",
+  "5883948b1f2470d9",
+  "e327953c404a11f9",
+  "8a750a6d308ac0b3",
+  "67c12f5721898fe1",
+  "8c7cdeb2fc7b7d45",
+  "96a846795db4757d",
+  "b1f749728611e58f",
+  "f86403d92dd4d403",
+  "03f84f54d958ef41",
+  "b84591829e52ba28",
+  "0a3c1198bdebef4f",
+  "e6a9f2640820ad71",
+  "8d288c3b510f97a2",
+  "1de509068538445f"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 2699,
+  "checked": 500,
+  "brokenCount": 10,
+  "broken": [
+   {
+    "url": "https://ncses.nsf.gov/pubs/nsb20203/nsb20203figure-link/4-5",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20203/supplemental-tables"
+    ]
+   },
+   {
+    "url": "https://ncses.nsf.gov/pubs/nsb20203/nsb20203figure-link/4-6",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20203/supplemental-tables"
+    ]
+   },
+   {
+    "url": "https://ncses.nsf.gov/pubs/nsb20203/nsb20203figure-link/4-7",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20203/supplemental-tables"
+    ]
+   },
+   {
+    "url": "https://ncses.nsf.gov/pubs/nsb20203/nsb20203figure-link/4-8",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20203/supplemental-tables"
+    ]
+   },
+   {
+    "url": "https://ncses.nsf.gov/pubs/nsb20203/nsb20203table-link/4-5",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20203/supplemental-tables"
+    ]
+   },
+   {
+    "url": "https://ncses.nsf.gov/pubs/nsb20203/nsb20203table-link/4-6",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20203/supplemental-tables"
+    ]
+   },
+   {
+    "url": "https://ncses.nsf.gov/pubs/nsb20203/nsb20203table-link/4-7",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20203/supplemental-tables"
+    ]
+   },
+   {
+    "url": "https://ncses.nsf.gov/pubs/nsb20203/nsb20203table-link/4-8",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20203/supplemental-tables"
+    ]
+   },
+   {
+    "url": "https://ncses.nsf.gov/pubs/nsb20203/nsb20203table-link/4-12",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20203/supplemental-tables"
+    ]
+   },
+   {
+    "url": "https://ncses.nsf.gov/pubs/nsb20203/nsb20203table-link/S4-1",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20203/supplemental-tables"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 20,
+  "alfa": 8,
+  "resources": 20,
+  "images": 20,
+  "standards": 8,
+  "link-check": 20,
+  "sustainability": 1,
+  "plain-language": 9,
+  "third-party": 5,
+  "lighthouse": 2,
+  "tech": 4,
+  "deprecated-html": 2,
+  "public-interest": 1,
+  "security": 1
+ },
+ "tally": {
+  "ok": 20,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 15,
+  "error": 0
+ },
+ "finishedAt": "2026-11-23T21:46:12.366Z"
+}
