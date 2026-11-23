@@ -1,0 +1,109 @@
+{
+ "runId": "2026-11-23T12-24-35-928Z-d5cb42",
+ "week": "2026-W48",
+ "domain": "seedfund.nsf.gov",
+ "canonical": {
+  "origin": "https://seedfund.nsf.gov",
+  "configured": "https://seedfund.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-23T12:24:39.135Z",
+ "scanned": [
+  "d03b4b56cf4fc228",
+  "cf11828bdf3a041f",
+  "7d41e5964221228f",
+  "2d083697a31995a3",
+  "c1ef106d36383b72",
+  "5dedacf10bc3aa78",
+  "91d25fe76c9aaebd",
+  "2f4cb01e4040a13f",
+  "2d22c3c63e40eab4",
+  "9056b37f9f2abcdf",
+  "2131ad15fab70d8f",
+  "c53ed30e525b6058",
+  "64162c61e68ec4e9",
+  "361cab69bbe3c350",
+  "192f6656b75335de",
+  "1b4cbbc886dc0b5e",
+  "416d4b7f8179eb22",
+  "671ce7cf701f4a6a",
+  "5317d9055fff29ea",
+  "0d8110eaddb12700",
+  "ec2fb566eba39618",
+  "e5f497af8f38cd5e",
+  "6734a69e9a62c097",
+  "491ce4711344ffbf"
+ ],
+ "errors": [
+  {
+   "pageId": "aad1d9cec52b0989",
+   "url": "https://seedfund.nsf.gov/fastlane/form-prep-2",
+   "error": "TimeoutError: page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://seedfund.nsf.gov/fastlane/form-prep-2\", waiting until \"load\"\n"
+  }
+ ],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 115,
+  "checked": 115,
+  "brokenCount": 0,
+  "broken": []
+ },
+ "enginesRun": {
+  "sustainability": 4,
+  "axe": 24,
+  "plain-language": 13,
+  "resources": 24,
+  "images": 24,
+  "tech": 2,
+  "link-check": 24,
+  "standards": 8,
+  "public-interest": 1,
+  "deprecated-html": 4,
+  "alfa": 10,
+  "third-party": 4,
+  "security": 1,
+  "lighthouse": 4
+ },
+ "tally": {
+  "ok": 24,
+  "blocked": 0,
+  "timeout": 1,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 1,
+  "error": 0
+ },
+ "finishedAt": "2026-11-23T12:28:02.105Z"
+}
