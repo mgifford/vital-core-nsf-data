@@ -1,0 +1,101 @@
+{
+ "runId": "2026-11-23T19-11-33-769Z-4c2fc6",
+ "week": "2026-W48",
+ "domain": "ncses.nsf.gov",
+ "canonical": {
+  "origin": "https://ncses.nsf.gov",
+  "configured": "https://ncses.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-23T19:11:34.194Z",
+ "scanned": [
+  "45ac0e71591a94af",
+  "fcce8dd9f6a20957",
+  "46f419d002f8f23d",
+  "5fc85cbefc45f25f",
+  "7f3118582afe77b6",
+  "ce71b40172de6312",
+  "19e0ab5e35162e38",
+  "2c57373e030b5910",
+  "90597a0bb1c644ec",
+  "1926c80dd555b932",
+  "57b2009361be6130",
+  "7245ed3b5f81d8f2",
+  "cc30142906c0db35",
+  "45b19c64440d1191",
+  "bf0681dbee0ec9eb",
+  "ea0499ac25386fdb",
+  "aa70b4e2eea33426",
+  "82803a596b73eaa5",
+  "026ed8b3ce914abc",
+  "7f68178d2ab477de",
+  "eef5d35e9d45f2c8",
+  "2e8d65b2ec837fe3"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 2382,
+  "checked": 500,
+  "brokenCount": 0,
+  "broken": []
+ },
+ "enginesRun": {
+  "axe": 22,
+  "alfa": 13,
+  "resources": 22,
+  "images": 22,
+  "standards": 13,
+  "link-check": 22,
+  "deprecated-html": 2,
+  "third-party": 5,
+  "lighthouse": 3,
+  "public-interest": 5,
+  "plain-language": 6,
+  "sustainability": 2,
+  "tech": 2,
+  "security": 1
+ },
+ "tally": {
+  "ok": 22,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 7,
+  "error": 0
+ },
+ "finishedAt": "2026-11-23T19:17:54.120Z"
+}
