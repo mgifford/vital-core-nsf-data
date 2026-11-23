@@ -1,0 +1,183 @@
+{
+ "runId": "2026-11-23T20-34-28-941Z-c4f0b7",
+ "week": "2026-W48",
+ "domain": "iucrc.nsf.gov",
+ "canonical": {
+  "origin": "https://iucrc.nsf.gov",
+  "configured": "https://iucrc.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-23T20:34:32.574Z",
+ "scanned": [
+  "08f8222fbe092ac3",
+  "609ac19d67117aa5",
+  "553af46288df4349",
+  "6482386a4c1660a4",
+  "7b8d424dc4fcb7b3",
+  "ce39adf7089f18e6",
+  "bf2665a589266a3b",
+  "7b58fe8616bcde64",
+  "05bfc5d7f5d7a8fe",
+  "e794c9b4c2c550cf",
+  "cec83c2b7bcc3db1",
+  "3e51345c637ceb65",
+  "d1a71ad17c2cbde1",
+  "fd727701f775e846",
+  "33ddf92e53c69627",
+  "4b178a1251662af9",
+  "a8c2bba5974cfa78",
+  "133b1c33eaf2c712",
+  "d0c61de1d01302cf",
+  "f0aaac923ca168e3",
+  "662f6d4953cd1c8a",
+  "ddff410ca594ea8e",
+  "25e1eab0b5fe277b",
+  "132bd42e74987681",
+  "037d92303430ffaa"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 286,
+  "checked": 286,
+  "brokenCount": 10,
+  "broken": [
+   {
+    "url": "https://iucrc.nsf.gov/centers/center-on-pervasive-personalized-intelligence-ppi/intel.com",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-on-pervasive-personalized-intelligence-ppi"
+    ]
+   },
+   {
+    "url": "https://iucrc.nsf.gov/centers/center-on-pervasive-personalized-intelligence-ppi/nec.com",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-on-pervasive-personalized-intelligence-ppi"
+    ]
+   },
+   {
+    "url": "http://www.sabic.com/en/products/specialties",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-dielectrics-and-piezoelectrics"
+    ]
+   },
+   {
+    "url": "http://www.samsungsem.com/global/index.do",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-dielectrics-and-piezoelectrics"
+    ]
+   },
+   {
+    "url": "https://getcruise.com/",
+    "status": 0,
+    "reason": "CERT_HAS_EXPIRED",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/efficient-vehicles-and-sustainable-transportation-systems"
+    ]
+   },
+   {
+    "url": "https://www.usaa.com/",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-interdisciplinary-research-on-convective-storms"
+    ]
+   },
+   {
+    "url": "https://www.cimsepp.org/",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-integrated-material-science-and-engineering-of-pharmaceutical-products-cimsepp"
+    ]
+   },
+   {
+    "url": "https://iucrc.nsf.gov/centers/center-for-research-in-systems-and-storage-crss",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers?foc=&prifoc=1&sta=&uni="
+    ]
+   },
+   {
+    "url": "https://iucrc.nsf.gov/centers/center-for-electric-connected-and-autonomous-technologies-for-mobility-ecat",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers?foc=&prifoc=1&sta=&uni="
+    ]
+   },
+   {
+    "url": "https://iucrc.nsf.gov/centers/center-for-soil-technologies-soiltech",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers?foc=&prifoc=1&sta=&uni="
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 23,
+  "plain-language": 13,
+  "resources": 23,
+  "images": 23,
+  "link-check": 23,
+  "standards": 10,
+  "alfa": 12,
+  "lighthouse": 4,
+  "public-interest": 2,
+  "third-party": 5,
+  "tech": 1,
+  "sustainability": 1
+ },
+ "tally": {
+  "ok": 23,
+  "blocked": 2,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-23T20:37:51.921Z"
+}
