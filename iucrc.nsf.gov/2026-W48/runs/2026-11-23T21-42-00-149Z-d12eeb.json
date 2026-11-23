@@ -1,0 +1,143 @@
+{
+ "runId": "2026-11-23T21-42-00-149Z-d12eeb",
+ "week": "2026-W48",
+ "domain": "iucrc.nsf.gov",
+ "canonical": {
+  "origin": "https://iucrc.nsf.gov",
+  "configured": "https://iucrc.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-23T21:42:02.262Z",
+ "scanned": [
+  "aff84d2f5d0bb447",
+  "1969de495e88916a",
+  "5b0feb90a723e240",
+  "92aabf4e9fbe1ad5",
+  "a565d36ae70a47eb",
+  "9f78441fbe6658f8",
+  "e927e765c3c31cde",
+  "f481df78f0fca5d0",
+  "164e830557062c08",
+  "6445828a57a60e5f",
+  "7908ce9ecebc45bd",
+  "102f751138d824f0",
+  "3681aec2dae9fcce",
+  "2cfa44ab869bef19",
+  "00f75ff96e970346",
+  "7ced58e1fe57f5b5",
+  "cb34e906e333e380",
+  "e09249c1fb565a55",
+  "6f9247dd70d23d63",
+  "b36c2ef821ca30d5",
+  "ae811fdf5d484bfb",
+  "0f3dbacf5c96e38e",
+  "bf72588c17844bc9",
+  "b8cc7a0997ef8184",
+  "49e1576645851fcb"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 199,
+  "checked": 199,
+  "brokenCount": 5,
+  "broken": [
+   {
+    "url": "https://www.usaa.com/",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-innovation-in-risk-catastrophes-and-decisions-circad"
+    ]
+   },
+   {
+    "url": "https://iucrc.nsf.gov/centers/center-for-soil-technologies-soiltech",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/focus-area/energy-and-environment/page/2"
+    ]
+   },
+   {
+    "url": "https://www.purdue.edu/cqt",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-quantum-technologies"
+    ]
+   },
+   {
+    "url": "http://sibs.uncc.edu/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/sustainably-integrated-buildings-and-sites"
+    ]
+   },
+   {
+    "url": "https://mds-rely.org/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-materials-data-science-for-reliability-and-degradation-mds-rely"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 24,
+  "plain-language": 19,
+  "resources": 24,
+  "images": 24,
+  "link-check": 24,
+  "standards": 10,
+  "alfa": 8,
+  "security": 2,
+  "sustainability": 2,
+  "public-interest": 2,
+  "third-party": 4,
+  "tech": 2
+ },
+ "tally": {
+  "ok": 24,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-23T21:44:24.059Z"
+}
