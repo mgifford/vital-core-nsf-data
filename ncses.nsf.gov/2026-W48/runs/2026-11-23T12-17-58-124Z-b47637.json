@@ -1,0 +1,121 @@
+{
+ "runId": "2026-11-23T12-17-58-124Z-b47637",
+ "week": "2026-W48",
+ "domain": "ncses.nsf.gov",
+ "canonical": {
+  "origin": "https://ncses.nsf.gov",
+  "configured": "https://ncses.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-23T12:17:58.905Z",
+ "scanned": [
+  "f3dafc25b0a61480",
+  "f45ed2afd635e1b3",
+  "8fe916d3d954379d",
+  "54afa2aef242f542",
+  "9c5228ab7a39d593",
+  "f1486d7798a4d24e",
+  "7cb0335a78acede4",
+  "75d1fa7cd7138ff5",
+  "71ceff0f6d2ac0ab",
+  "d9e18402e963069a",
+  "8716aebea06d4dd9",
+  "a41624d19e5914bb",
+  "1325636c823879a0",
+  "0238348153a36be4",
+  "fc1c7794f6b219c2",
+  "cc6c4545c17dfcad",
+  "32a066a81cf1adec",
+  "c4b48983925d5ee5",
+  "52c0e3b6c37a41cb",
+  "ac8a00d4095fd702",
+  "aafd4fe046d8cf25",
+  "cdafba30670d9531",
+  "03aa76e4dee1e08e",
+  "8025a17a75046587"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 3633,
+  "checked": 500,
+  "brokenCount": 2,
+  "broken": [
+   {
+    "url": "https://bulkdata.uspto.gov/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-21"
+    ]
+   },
+   {
+    "url": "https://www.sbir.gov/sbirsearch/award/all",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-21",
+     "https://ncses.nsf.gov/pubs/nsb20204/supplemental-tables",
+     "https://ncses.nsf.gov/pubs/nsb20262"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 23,
+  "plain-language": 16,
+  "resources": 23,
+  "images": 23,
+  "lighthouse": 3,
+  "link-check": 23,
+  "alfa": 11,
+  "third-party": 10,
+  "public-interest": 5,
+  "standards": 10,
+  "tech": 3,
+  "deprecated-html": 3,
+  "security": 2
+ },
+ "tally": {
+  "ok": 23,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 12,
+  "error": 0
+ },
+ "finishedAt": "2026-11-23T12:24:18.189Z"
+}
