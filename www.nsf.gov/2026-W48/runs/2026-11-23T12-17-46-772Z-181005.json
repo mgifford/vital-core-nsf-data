@@ -1,0 +1,301 @@
+{
+ "runId": "2026-11-23T12-17-46-772Z-181005",
+ "week": "2026-W48",
+ "domain": "www.nsf.gov",
+ "canonical": {
+  "origin": "https://www.nsf.gov",
+  "configured": "https://www.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-23T12:17:47.356Z",
+ "scanned": [
+  "dd8555af04410dd3",
+  "99fe010f6e724201",
+  "22c42b47e0fd0658",
+  "f0d1f32cf932d194",
+  "5594fbc7b04fd1bd",
+  "98ed9d3265bfe05e",
+  "9ca20c7a5a4563c3",
+  "47b7a36a511ab4c0",
+  "fc6f44ade29ef9f5",
+  "ce5d141ab822cf29",
+  "c3bce6e7b7a7e9ea",
+  "e371d084c113a304",
+  "8c3fa95c6117da38",
+  "2cafa82c35df95c9",
+  "05ec6a2599494ce2",
+  "c594ad0fae473808",
+  "58e294ea56980cbe",
+  "0b9e6e83c604863b",
+  "df07a73986607335",
+  "c2f00532f6ef4ac7",
+  "1de1bd7fd0f18cd2",
+  "f788ab137e2670a1"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 264,
+  "checked": 264,
+  "brokenCount": 22,
+  "broken": [
+   {
+    "url": "https://www.grants.gov/",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://www.nsf.gov/tip/emerging-technology",
+     "https://www.nsf.gov/funding/opportunities/biomedical-engineering-research-aid-persons-disabilities/6176/nsf06-566/solicitation",
+     "https://www.nsf.gov/reports/statistics/rd-spending-federally-funded-rd-centers-increases-fourth/nsf19-311",
+     "https://www.nsf.gov/funding/opportunities/paare-partnerships-astronomy-astrophysics-research-education/501046/nsf24-516",
+     "https://www.nsf.gov/reports/foia/nsf-foia-report-fy-2010",
+     "https://www.nsf.gov/policies/document/grant-proposal-guide-january-2011/gpg11001",
+     "https://www.nsf.gov/reports/performance/fy-2006-performance-highlights/nsf07-11",
+     "https://www.nsf.gov/funding/opportunities/che-drp-division-chemistry-disciplinary-research-programs/505537/nsf21-589",
+     "https://www.nsf.gov/funding/information/dcl-announcing-two-program-name-scope-changes",
+     "https://www.nsf.gov/funding/opportunities/spectrum-efficiency-energy-efficiency-security-enabling/505311/nsf19-529/solicitation",
+     "https://www.nsf.gov/funding/opportunities/msp-math-science-partnership/5756/nsf09-507",
+     "https://www.nsf.gov/events/human-networks-data-science-program-office-hours/2024-12-18",
+     "https://www.nsf.gov/events/nsf-epscor-research-fellows-register-today-upcoming-webinar/2023-01-20",
+     "https://www.nsf.gov/funding/opportunities/dcl-extreme-compound-cascading-hazards-ec2h/nsf23-125",
+     "https://www.nsf.gov/funding/opportunities/accelerator-science/505427/106668",
+     "https://www.nsf.gov/events/deb-virtual-office-hour-career-solicitation",
+     "https://www.nsf.gov/funding/opportunities/dcl-research-theory-analytical-tools-power-networks-high-levels/nsf15-082",
+     "https://www.nsf.gov/funding/opportunities/geobiology-low-temperature-geochemistry/13689/nsf15-559",
+     "https://www.nsf.gov/funding/opportunities/mid-scale-ri-2-mid-scale-research-infrastructure-2/505550/nsf23-570",
+     "https://www.nsf.gov/reports/planning/nsf-oig-strategic-plan-november-1998",
+     "https://www.nsf.gov/od/opp/updates/office-polar-programs-antarctic-science-section-welcomes",
+     "https://www.nsf.gov/events/nsf-crest-centers-graduate-student-postdoctoral-scientist"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?nsf98142",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/biomedical-engineering-research-aid-persons-disabilities/6176/nsf06-566/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?nsf00107",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/biomedical-engineering-research-aid-persons-disabilities/6176/nsf06-566/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.fastlane.nsf.gov/a1/newstan.htm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/biomedical-engineering-research-aid-persons-disabilities/6176/nsf06-566/solicitation",
+     "https://www.nsf.gov/funding/opportunities/spectrum-efficiency-energy-efficiency-security-enabling/505311/nsf19-529/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.grants.gov/CustomerSupport",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/biomedical-engineering-research-aid-persons-disabilities/6176/nsf06-566/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.grants.gov/",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/biomedical-engineering-research-aid-persons-disabilities/6176/nsf06-566/solicitation",
+     "https://www.nsf.gov/funding/opportunities/spectrum-efficiency-energy-efficiency-security-enabling/505311/nsf19-529/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/cgi-bin/getpub?gpm",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/biomedical-engineering-research-aid-persons-disabilities/6176/nsf06-566/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/home/grants/grants_gac.htm",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/biomedical-engineering-research-aid-persons-disabilities/6176/nsf06-566/solicitation"
+    ]
+   },
+   {
+    "url": "https://go.usa.gov/xRV8Q",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/spectrum-efficiency-energy-efficiency-security-enabling/505311/nsf19-529/solicitation"
+    ]
+   },
+   {
+    "url": "https://nncta.org/opportunities/report.html",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.nsf.gov/tip/emerging-technology"
+    ]
+   },
+   {
+    "url": "http://www.grants.gov/web/grants/applicants.html",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/spectrum-efficiency-energy-efficiency-security-enabling/505311/nsf19-529/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/policies/SOR_PA_NSF-50_Principal_Investigator_Proposal_File.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/spectrum-efficiency-energy-efficiency-security-enabling/505311/nsf19-529/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf18045&org=NSF",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/spectrum-efficiency-energy-efficiency-security-enabling/505311/nsf19-529/solicitation"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_iMzLnItARkWSoozXuNJ3uw",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/nsf-epscor-research-fellows-register-today-upcoming-webinar/2023-01-20"
+    ]
+   },
+   {
+    "url": "https://debblog.nsfbio.com/2021/03/08/explore-our-blog/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/events/deb-virtual-office-hour-career-solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/awards/award_visualization.jsp?org=NSF&ProgEleCode=7243&from=fund",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/accelerator-science/505427/106668"
+    ]
+   },
+   {
+    "url": "https://debblog.nsfbio.com/office-hours/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/events/deb-virtual-office-hour-career-solicitation"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_rcG95iI9QOOed-VfarsHFQ",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/deb-virtual-office-hour-career-solicitation"
+    ]
+   },
+   {
+    "url": "https://debblog.nsfbio.com/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/events/deb-virtual-office-hour-career-solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/bio/deb/DEB%20VOH%20CAREER%202023.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/deb-virtual-office-hour-career-solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/edu/CREST.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/nsf-crest-centers-graduate-student-postdoctoral-scientist"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubs/2023/nsf23555/nsf23555.htm",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/nsf-crest-centers-graduate-student-postdoctoral-scientist"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 22,
+  "alfa": 12,
+  "plain-language": 15,
+  "resources": 22,
+  "images": 22,
+  "link-check": 22,
+  "deprecated-html": 3,
+  "standards": 11,
+  "lighthouse": 3,
+  "security": 3,
+  "tech": 1,
+  "third-party": 4,
+  "sustainability": 2,
+  "public-interest": 3
+ },
+ "tally": {
+  "ok": 22,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 3,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 3,
+  "error": 0
+ },
+ "finishedAt": "2026-11-23T12:21:52.073Z"
+}
