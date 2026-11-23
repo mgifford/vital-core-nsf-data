@@ -1,0 +1,176 @@
+{
+ "runId": "2026-11-23T12-17-49-215Z-66c74b",
+ "week": "2026-W48",
+ "domain": "iucrc.nsf.gov",
+ "canonical": {
+  "origin": "https://iucrc.nsf.gov",
+  "configured": "https://iucrc.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-23T12:17:49.954Z",
+ "scanned": [
+  "7bd6a306f40142ef",
+  "f46db172fb9bdf9b",
+  "1a16a9d61a9470fd",
+  "7f03914e5c868060",
+  "ad034b126e9a66e5",
+  "38a755bc087a46e3",
+  "420e3a390cda9835",
+  "1d474bbbcc2f3e78",
+  "338c30990bfa1fdc",
+  "3e94b76db756a7e4",
+  "564d4a83757398b7",
+  "30441429fed56555",
+  "4625dea4fd069df6",
+  "aa3335b6ac950ef7",
+  "ba33937b4efe3f34",
+  "acbd368e2b7ea93a",
+  "5d0497bbe2e14c4a",
+  "3d60f0b7dd49562d",
+  "72f70afcec7651cc",
+  "3373e1abfc8cbbca",
+  "af7132aeafa60245",
+  "0da3104d764bd171",
+  "60b512933bde72e6",
+  "74d6ca561adf3a93",
+  "9fea7791b8d00689"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 275,
+  "checked": 275,
+  "brokenCount": 9,
+  "broken": [
+   {
+    "url": "https://faradaycopper.com/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-advanced-subsurface-earth-resource-models"
+    ]
+   },
+   {
+    "url": "https://hydroma.ca/",
+    "status": 0,
+    "reason": "EAI_AGAIN",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-advanced-subsurface-earth-resource-models"
+    ]
+   },
+   {
+    "url": "https://usdairy.com/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-advanced-research-in-drying"
+    ]
+   },
+   {
+    "url": "https://iucrc.nsf.gov/centers/center-for-soil-technologies-soiltech",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/focus-area/energy-and-environment/page/3"
+    ]
+   },
+   {
+    "url": "https://www.goodyear.co/",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-tire-research"
+    ]
+   },
+   {
+    "url": "https://www.avangrid.com/",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/wind-energy-science-technology-and-research"
+    ]
+   },
+   {
+    "url": "https://www.ge.com/renewableenergy/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/wind-energy-science-technology-and-research"
+    ]
+   },
+   {
+    "url": "http://fiwin.ece.gatech.edu/Index.htm",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/fiber-wireless-integration-and-networking-for-heterogeneous-mobile-data-communications"
+    ]
+   },
+   {
+    "url": "http://www.inrf.uci.edu/cadmim/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-advanced-design-and-man-of-integrated-microfluidics"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 22,
+  "plain-language": 14,
+  "resources": 22,
+  "images": 22,
+  "standards": 12,
+  "link-check": 22,
+  "deprecated-html": 3,
+  "third-party": 7,
+  "alfa": 9,
+  "lighthouse": 1,
+  "sustainability": 3,
+  "security": 1,
+  "tech": 3
+ },
+ "tally": {
+  "ok": 22,
+  "blocked": 3,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-23T12:20:34.370Z"
+}
