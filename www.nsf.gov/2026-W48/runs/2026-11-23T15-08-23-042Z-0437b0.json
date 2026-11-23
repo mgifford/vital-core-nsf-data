@@ -1,0 +1,750 @@
+{
+ "runId": "2026-11-23T15-08-23-042Z-0437b0",
+ "week": "2026-W48",
+ "domain": "www.nsf.gov",
+ "canonical": {
+  "origin": "https://www.nsf.gov",
+  "configured": "https://www.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-23T15:08:26.262Z",
+ "scanned": [
+  "aca26438da86d529",
+  "dc7faceaa4b41a8e",
+  "661d0427d0a95ac1",
+  "3bc2da331f839533",
+  "5916518a8816b394",
+  "52fbf67b9bc4872d",
+  "5c933adbd2cdcf49",
+  "8df49de7fd5cc47b",
+  "7d25bc2d16bc40e4",
+  "9e75e279b90316e1",
+  "603a7c21879ffa64",
+  "0f4c5b3f3809a4a6",
+  "72af12447352b0c7",
+  "182d1aaa913e31c3",
+  "38f2db360431e448",
+  "eb33313d1aec5c0d",
+  "200218600c58c1b2",
+  "1afda79ea3c12cf6",
+  "5f6aac647b0b59b0",
+  "4e28af8152f173b3",
+  "c73f45907d2e4916",
+  "f98ea68722fb73aa",
+  "dced92b64c839deb",
+  "f5bdd1ef3ee65aeb"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 417,
+  "checked": 417,
+  "brokenCount": 78,
+  "broken": [
+   {
+    "url": "https://www.grants.gov/",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/biotechnology-biochemical-engineering/501024/pd15-1491",
+     "https://www.nsf.gov/policies/document/general-programmatic-terms-conditions-ptc-gen-3-engineering",
+     "https://www.nsf.gov/events/astronomy-astrophysics-advisory-committee-0",
+     "https://www.nsf.gov/science-matters/space-weather-protecting-planet",
+     "https://www.nsf.gov/events/national-science-board-committee-awards-facilities/2026-02-20",
+     "https://www.nsf.gov/funding/opportunities/ipy-international-polar-year/13615/nsf06-534/solicitation",
+     "https://www.nsf.gov/funding/opportunities/rsb-decision-frameworks-multi-hazard-resilient-sustainable/6192/nsf11-512",
+     "https://www.nsf.gov/events/qa-about-nsf-engines-program-session-2/2022-06-21",
+     "https://www.nsf.gov/reports/topical/multinational-coordinated-arabidopsis-thaliana-functional",
+     "https://www.nsf.gov/funding/opportunities/conferences-workshops-mathematical-sciences/11701/nsf21-541/solicitation",
+     "https://www.nsf.gov/funding/opportunities/dcl-interdisciplinary-research-across-sbe-sciences/nsf11-035",
+     "https://www.nsf.gov/science-matters?page=2",
+     "https://www.nsf.gov/honorary-awards/pecase/recipients/janet-m-wang",
+     "https://www.nsf.gov/funding/opportunities/emb-emerging-mathematics-biology/506133/nsf25-509",
+     "https://www.nsf.gov/od/opp/updates/updated-covid-19-management-plan-us-antarctic-program-23-24",
+     "https://www.nsf.gov/honorary-awards/pecase/recipients/michael-j-freedman",
+     "https://www.nsf.gov/funding/opportunities/dcl-engineering-research-advance-solutions-environmental-pfas/nsf20-090",
+     "https://www.nsf.gov/news/integrative-biological-science-training-are-focus-4-new",
+     "https://www.nsf.gov/reports/performance/fy-2008-annual-performance-report/nsf09-22",
+     "https://www.nsf.gov/funding/opportunities/spectrum-efficiency-energy-efficiency-security-enabling/505311/nsf17-601",
+     "https://www.nsf.gov/policies/pappg/24-1/ch-2-proposal-preparation",
+     "https://www.nsf.gov/events/major-research-instrumentation-committee-visitors-mri-cov/2022-08-17",
+     "https://www.nsf.gov/nsb/updates/national-science-board-will-hold-virtual-meeting-may-7-2025"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_e8AKmHLSQ9OGig_yk5e6AQ",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/astronomy-astrophysics-advisory-committee-0"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/od/opp/ipy/ipyinfo.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/ipy-international-polar-year/13615/nsf06-534/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.us-ipy.gov/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/ipy-international-polar-year/13615/nsf06-534/solicitation"
+    ]
+   },
+   {
+    "url": "http://igloo.gsfc.nasa.gov/wais/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/ipy-international-polar-year/13615/nsf06-534/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.ig.utexas.edu/research/projects/agasea/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/ipy-international-polar-year/13615/nsf06-534/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.gisp2.sr.unh.edu/GISP2/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/ipy-international-polar-year/13615/nsf06-534/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.nicl-smo.sr.unh.edu/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/ipy-international-polar-year/13615/nsf06-534/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.arcus.org/SEARCH/index.php",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/ipy-international-polar-year/13615/nsf06-534/solicitation"
+    ]
+   },
+   {
+    "url": "http://books.nap.edu/catalog/10623.html",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/ipy-international-polar-year/13615/nsf06-534/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.arcus.org/search/meetings/2005/siw/report.php",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/ipy-international-polar-year/13615/nsf06-534/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.arcus.org/Education/Education_Report_02.html",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/ipy-international-polar-year/13615/nsf06-534/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.arcus.org/Education/Education_Report.html",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/ipy-international-polar-year/13615/nsf06-534/solicitation"
+    ]
+   },
+   {
+    "url": "http://cires.colorado.edu/education/k12/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/ipy-international-polar-year/13615/nsf06-534/solicitation"
+    ]
+   },
+   {
+    "url": "http://andrill.org/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/ipy-international-polar-year/13615/nsf06-534/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.summitcamp.org/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/ipy-international-polar-year/13615/nsf06-534/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.arf.fsu.edu/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/ipy-international-polar-year/13615/nsf06-534/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.arcus.org/guidelines",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/ipy-international-polar-year/13615/nsf06-534/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/od/opp/arctic/res_log_sup.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/ipy-international-polar-year/13615/nsf06-534/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/od/opp/prss/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/ipy-international-polar-year/13615/nsf06-534/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/od/opp/arctic/conduct.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/ipy-international-polar-year/13615/nsf06-534/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/od/opp/antarct/aca/aca.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/ipy-international-polar-year/13615/nsf06-534/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/od/opp/antarct/aca/nsf01151/aca4_permit.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/ipy-international-polar-year/13615/nsf06-534/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.fastlane.nsf.gov/a1/newstan.htm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/ipy-international-polar-year/13615/nsf06-534/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/od/opp/antarct/nofldwrk.doc",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/ipy-international-polar-year/13615/nsf06-534/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsb9772",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/ipy-international-polar-year/13615/nsf06-534/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=iin127",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/ipy-international-polar-year/13615/nsf06-534/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/od/opp/opp_advisory/oaccrit2.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/ipy-international-polar-year/13615/nsf06-534/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/od/opp/aawr.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/ipy-international-polar-year/13615/nsf06-534/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.coldregions.org/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/ipy-international-polar-year/13615/nsf06-534/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.coldregions.org/submit.htm",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/ipy-international-polar-year/13615/nsf06-534/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/staff/sub_div.jsp?org=OPP&orgId=287",
+    "status": 410,
+    "reason": "HTTP 410",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/ipy-international-polar-year/13615/nsf06-534/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=gpm",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/ipy-international-polar-year/13615/nsf06-534/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/staff/sub_div.jsp?org=OPP&orgId=284",
+    "status": 410,
+    "reason": "HTTP 410",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/ipy-international-polar-year/13615/nsf06-534/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/staff/staff_list.jsp?org=EHR",
+    "status": 410,
+    "reason": "HTTP 410",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/ipy-international-polar-year/13615/nsf06-534/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/home/ebulletin",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/ipy-international-polar-year/13615/nsf06-534/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/cgi-bin/getpub?gp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/ipy-international-polar-year/13615/nsf06-534/solicitation"
+    ]
+   },
+   {
+    "url": "http://mips.gsf.de/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/reports/topical/multinational-coordinated-arabidopsis-thaliana-functional"
+    ]
+   },
+   {
+    "url": "http://www.pi.csiro.au/HomePage.htm",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/reports/topical/multinational-coordinated-arabidopsis-thaliana-functional"
+    ]
+   },
+   {
+    "url": "http://www.cambia.org.au/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/reports/topical/multinational-coordinated-arabidopsis-thaliana-functional"
+    ]
+   },
+   {
+    "url": "http://www.vecopolar.com/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/ipy-international-polar-year/13615/nsf06-534/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.rsnz.govt.nz/funding/marsden_fund/index.php",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/reports/topical/multinational-coordinated-arabidopsis-thaliana-functional"
+    ]
+   },
+   {
+    "url": "http://www.frst.govt.nz/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/reports/topical/multinational-coordinated-arabidopsis-thaliana-functional"
+    ]
+   },
+   {
+    "url": "http://www.cordis.lu/life/",
+    "status": 0,
+    "reason": "EAI_AGAIN",
+    "foundOn": [
+     "https://www.nsf.gov/reports/topical/multinational-coordinated-arabidopsis-thaliana-functional"
+    ]
+   },
+   {
+    "url": "http://www.cordis.lu/en/home.html",
+    "status": 0,
+    "reason": "EAI_AGAIN",
+    "foundOn": [
+     "https://www.nsf.gov/reports/topical/multinational-coordinated-arabidopsis-thaliana-functional"
+    ]
+   },
+   {
+    "url": "http://www.cordis.lu/fp6/eoi-instruments",
+    "status": 0,
+    "reason": "EAI_AGAIN",
+    "foundOn": [
+     "https://www.nsf.gov/reports/topical/multinational-coordinated-arabidopsis-thaliana-functional"
+    ]
+   },
+   {
+    "url": "http://www.genoplante.org/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/reports/topical/multinational-coordinated-arabidopsis-thaliana-functional"
+    ]
+   },
+   {
+    "url": "http://europa.eu.int/comm/research/fp6/index_en.html",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/reports/topical/multinational-coordinated-arabidopsis-thaliana-functional"
+    ]
+   },
+   {
+    "url": "http://www.flagdb-genoplante-info.infobiogen.fr/%09projects/fst/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/reports/topical/multinational-coordinated-arabidopsis-thaliana-functional"
+    ]
+   },
+   {
+    "url": "http://www.evry.inra.fr/public/projects/agrikola/agrikola.html",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/reports/topical/multinational-coordinated-arabidopsis-thaliana-functional"
+    ]
+   },
+   {
+    "url": "http://www.evry.inra.fr/public/projects/orfeome/%09orfeome.html",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/reports/topical/multinational-coordinated-arabidopsis-thaliana-functional"
+    ]
+   },
+   {
+    "url": "http://jicbioinfo.bbsrc.ac.uk/CATMA/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/reports/topical/multinational-coordinated-arabidopsis-thaliana-functional"
+    ]
+   },
+   {
+    "url": "http://www.gabi.de/news/notifications/index_e.html",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/reports/topical/multinational-coordinated-arabidopsis-thaliana-functional"
+    ]
+   },
+   {
+    "url": "http://www.molgen.mpg.de/%7Egabi/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/reports/topical/multinational-coordinated-arabidopsis-thaliana-functional"
+    ]
+   },
+   {
+    "url": "http://gabi.rzpd.de/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/reports/topical/multinational-coordinated-arabidopsis-thaliana-functional"
+    ]
+   },
+   {
+    "url": "http://mips.gsf.de/proj/gabi/projects/index.html",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/reports/topical/multinational-coordinated-arabidopsis-thaliana-functional"
+    ]
+   },
+   {
+    "url": "http://www.uni-frankfurt.de/fb15/botanik/mcb/AFGN/AFGNHome.html",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/reports/topical/multinational-coordinated-arabidopsis-thaliana-functional"
+    ]
+   },
+   {
+    "url": "http://sequence-www.stanford.edu/ara/SPP.html",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/reports/topical/multinational-coordinated-arabidopsis-thaliana-functional"
+    ]
+   },
+   {
+    "url": "http://garnet.arabidopsis.org.uk/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/reports/topical/multinational-coordinated-arabidopsis-thaliana-functional"
+    ]
+   },
+   {
+    "url": "http://www.uni-frankfurt.de/fb15/botanik/mcb/AFGN/Memebers.html",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/reports/topical/multinational-coordinated-arabidopsis-thaliana-functional"
+    ]
+   },
+   {
+    "url": "http://www.jic.bbsrc.ac.uk/staff/michael-bevan/atis/index.htm",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/reports/topical/multinational-coordinated-arabidopsis-thaliana-functional"
+    ]
+   },
+   {
+    "url": "http://ukcrop.net/agr/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/reports/topical/multinational-coordinated-arabidopsis-thaliana-functional"
+    ]
+   },
+   {
+    "url": "http://plant-gems.org/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/reports/topical/multinational-coordinated-arabidopsis-thaliana-functional"
+    ]
+   },
+   {
+    "url": "http://arabidopsis.org.uk/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/reports/topical/multinational-coordinated-arabidopsis-thaliana-functional"
+    ]
+   },
+   {
+    "url": "http://www.jic.bbsrc.ac.uk/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/reports/topical/multinational-coordinated-arabidopsis-thaliana-functional"
+    ]
+   },
+   {
+    "url": "http://stein.cshl.org/%7Ex-pan/atidb/index.html",
+    "status": 0,
+    "reason": "EHOSTUNREACH",
+    "foundOn": [
+     "https://www.nsf.gov/reports/topical/multinational-coordinated-arabidopsis-thaliana-functional"
+    ]
+   },
+   {
+    "url": "https://www.fastlane.nsf.gov/a6/A6AwardSearch.htm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/reports/topical/multinational-coordinated-arabidopsis-thaliana-functional"
+    ]
+   },
+   {
+    "url": "http://www.reeusda.gov/nri/pubs/abstracts/programlinks01.htm",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/reports/topical/multinational-coordinated-arabidopsis-thaliana-functional"
+    ]
+   },
+   {
+    "url": "http://www.sc.doe.gov/production/bes/eb/ebhome.html",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/reports/topical/multinational-coordinated-arabidopsis-thaliana-functional"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/bio/pubs/awards/2010fy01.htm",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/reports/topical/multinational-coordinated-arabidopsis-thaliana-functional"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/div/index.jsp?org=OISE",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/conferences-workshops-mathematical-sciences/11701/nsf21-541/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.grants.gov/web/grants/applicants.html",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/conferences-workshops-mathematical-sciences/11701/nsf21-541/solicitation"
+    ]
+   },
+   {
+    "url": "http://commons.cit.nih.gov/crisp3/Crisp_Query.Generate_Screen",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.nsf.gov/reports/topical/multinational-coordinated-arabidopsis-thaliana-functional"
+    ]
+   },
+   {
+    "url": "http://www.arc.gov.au/",
+    "status": 0,
+    "reason": "timeout",
+    "foundOn": [
+     "https://www.nsf.gov/reports/topical/multinational-coordinated-arabidopsis-thaliana-functional"
+    ]
+   },
+   {
+    "url": "http://www.arc.gov.au/acpfg/default.htm",
+    "status": 0,
+    "reason": "timeout",
+    "foundOn": [
+     "https://www.nsf.gov/reports/topical/multinational-coordinated-arabidopsis-thaliana-functional"
+    ]
+   },
+   {
+    "url": "https://www.whitehouse.gov/wp-content/uploads/2022/01/010422-NSPM-33-Implementation-Guidance.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/policies/pappg/24-1/ch-2-proposal-preparation"
+    ]
+   },
+   {
+    "url": "http://www.phe.gov/s3/dualuse/Pages/default.aspx",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/policies/pappg/24-1/ch-2-proposal-preparation"
+    ]
+   },
+   {
+    "url": "https://www.phe.gov/s3/dualuse/Documents/P3CO.pdf",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/policies/pappg/24-1/ch-2-proposal-preparation"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 23,
+  "alfa": 7,
+  "deprecated-html": 2,
+  "resources": 23,
+  "images": 23,
+  "link-check": 23,
+  "plain-language": 16,
+  "standards": 10,
+  "sustainability": 2,
+  "public-interest": 1,
+  "third-party": 4,
+  "security": 2,
+  "tech": 1,
+  "lighthouse": 1
+ },
+ "tally": {
+  "ok": 23,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 1,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 3,
+  "error": 0
+ },
+ "finishedAt": "2026-11-23T15:12:52.935Z"
+}
