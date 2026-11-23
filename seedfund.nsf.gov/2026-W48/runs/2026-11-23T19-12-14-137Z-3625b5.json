@@ -1,0 +1,119 @@
+{
+ "runId": "2026-11-23T19-12-14-137Z-3625b5",
+ "week": "2026-W48",
+ "domain": "seedfund.nsf.gov",
+ "canonical": {
+  "origin": "https://seedfund.nsf.gov",
+  "configured": "https://seedfund.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-23T19:12:17.529Z",
+ "scanned": [
+  "04cced54d955c0fb",
+  "a4f1401416e2c30f",
+  "4892ba233917029d",
+  "ad5fdbf8ccb9ae84",
+  "ef7d394e0db5b95d",
+  "f524d8429d1552ce",
+  "a6381a1d1a2d500f",
+  "877797ee29a981b0",
+  "b31955a78a209788",
+  "0b30eeb9d6104676",
+  "e947706c45c0236d",
+  "3273c19d244314f9",
+  "7a5f0dedb9dc1617",
+  "314b179376e848a0",
+  "bf73ce10b9bbf294",
+  "50c707c7d670d9fd",
+  "524799183cc806c2",
+  "54a783a890197422",
+  "3a8cbdb6029e4a79",
+  "3d0ccfe37afa0281",
+  "81786cb8fc367057",
+  "00f72b1d536577e1",
+  "116a14b098e5ba62",
+  "90ca17e8df6c5e9a",
+  "9bec865992d9fcd4"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 96,
+  "checked": 96,
+  "brokenCount": 2,
+  "broken": [
+   {
+    "url": "https://seedfund.nsf.gov/centers/focus-area/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://seedfund.nsf.gov/centers/ceps/high-carotenoid-orange-corn-promises-nutritional-enhancement"
+    ]
+   },
+   {
+    "url": "http://www.pcka.com/",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://seedfund.nsf.gov/awardees/history/details?company=pc-krause-and-associates-inc"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 25,
+  "alfa": 11,
+  "plain-language": 12,
+  "resources": 25,
+  "images": 25,
+  "third-party": 7,
+  "link-check": 25,
+  "standards": 13,
+  "security": 2,
+  "sustainability": 4,
+  "deprecated-html": 2,
+  "tech": 1
+ },
+ "tally": {
+  "ok": 25,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-23T19:14:40.071Z"
+}
