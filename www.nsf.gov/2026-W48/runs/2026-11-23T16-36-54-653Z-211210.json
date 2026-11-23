@@ -1,0 +1,190 @@
+{
+ "runId": "2026-11-23T16-36-54-653Z-211210",
+ "week": "2026-W48",
+ "domain": "www.nsf.gov",
+ "canonical": {
+  "origin": "https://www.nsf.gov",
+  "configured": "https://www.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-23T16:36:57.416Z",
+ "scanned": [
+  "ae95fdb4c2f01845",
+  "beb742205b812324",
+  "3b87d30cbea98e2d",
+  "2c3e60c3f24b7e02",
+  "4e1853c0572f3f67",
+  "f525806b2fcf4f5f",
+  "3e8f28e91bda1d78",
+  "2d022edc03a107f1",
+  "b8a446c9267e7ce0",
+  "c358586665bb5607",
+  "fa263add23156c0b",
+  "04584c4cc3ed854c",
+  "af60c3630db37ca4",
+  "a27029497c79673b",
+  "c50e403ec038e59f",
+  "0f391596e383e861",
+  "4ae185f3a0120764",
+  "f36774b1443ab602",
+  "38e67c6c23763bfd",
+  "17506c689acc57e0",
+  "ff12b65dae291d6a",
+  "936f6e8159ad804a",
+  "04bfbabd915ea1a6",
+  "95d9ccf17d526149"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 239,
+  "checked": 239,
+  "brokenCount": 8,
+  "broken": [
+   {
+    "url": "https://www.grants.gov/",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://www.nsf.gov/events/astronomy-astrophysics-advisory-committee-sep-2023/2023-09-18",
+     "https://www.nsf.gov/news/nsf-invests-nearly-15m-four-academic-institutions",
+     "https://www.nsf.gov/honorary-awards/pecase/recipients/whitney-behr",
+     "https://www.nsf.gov/honorary-awards/pecase/recipients/jamil-zaki",
+     "https://www.nsf.gov/events/future-manufacturing-webinar-1/2021-02-26",
+     "https://www.nsf.gov/funding/opportunities/edu-racial-equity-racial-equity-stem-education/506103/nsf22-634",
+     "https://www.nsf.gov/funding/opportunities/ecdi-nsfvmware-partnership-edge-computing-data-infrastructure/505509/nsf18-540",
+     "https://www.nsf.gov/policies/document/individual-fellowship-terms-conditions-may-2010",
+     "https://www.nsf.gov/tip/updates/nsf-selects-15-finalists-advance-next-round-its-second",
+     "https://www.nsf.gov/events/opp-postdoctoral-research-fellowship-information-webinar/2022-11-08",
+     "https://www.nsf.gov/funding/opportunities/ltreb-long-term-research-environmental-biology/nsf07-588",
+     "https://www.nsf.gov/news/astronomers-make-highest-resolution-radio-observations-ever",
+     "https://www.nsf.gov/funding/opportunities/msp-math-science-partnership/5756/nsf12-518",
+     "https://www.nsf.gov/science-matters/downloading-data-black-holes",
+     "https://www.nsf.gov/reports/statistics/new-pilot-data-prevalence-work-related-credentials-among",
+     "https://www.nsf.gov/funding/opportunities/cellular-biochemical-engineering/505721/pd20-1491",
+     "https://www.nsf.gov/reports/statistics/innovation-data-2019-annual-business-survey",
+     "https://www.nsf.gov/funding/opportunities/mri-major-research-instrumentation-program/updates/111092",
+     "https://www.nsf.gov/funding/opportunities/rii-track-1-epscor-research-infrastructure-improvement-program-track-1/503429/nsf19-580",
+     "https://www.nsf.gov/events/national-science-board-nsb-nsf-commission-merit-review-mrx-32",
+     "https://www.nsf.gov/funding/opportunities/biooce-biological-oceanography/506154/updates",
+     "https://www.nsf.gov/news/researchers-simulate-behavior-living-minimal-cell-three",
+     "https://www.nsf.gov/events/s-stem-office-hours/2024-02-08"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubs/2021/nsf21564/nsf21564.htm",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/future-manufacturing-webinar-1/2021-02-26"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubs/2021/nsf21061/nsf21061.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/future-manufacturing-webinar-1/2021-02-26"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/epublish/nsf.gov/attachments/301968/public/Future_Manufacturing_Webinar_20210226_live_transcript-508.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/future-manufacturing-webinar-1/2021-02-26"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/ehr/about.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/edu-racial-equity-racial-equity-stem-education/506103/nsf22-634"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf18077",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/ecdi-nsfvmware-partnership-edge-computing-data-infrastructure/505509/nsf18-540"
+    ]
+   },
+   {
+    "url": "http://hub.mspnet.org/index.cfm",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/msp-math-science-partnership/5756/nsf12-518"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_d7gl-fj9QMGXlOCpEAg3JQ",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/s-stem-office-hours/2024-02-08"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 23,
+  "alfa": 12,
+  "plain-language": 10,
+  "resources": 23,
+  "images": 23,
+  "link-check": 23,
+  "third-party": 3,
+  "standards": 11,
+  "public-interest": 2,
+  "tech": 4,
+  "security": 3,
+  "sustainability": 3,
+  "lighthouse": 1,
+  "deprecated-html": 1
+ },
+ "tally": {
+  "ok": 23,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 1,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 5,
+  "error": 0
+ },
+ "finishedAt": "2026-11-23T16:40:21.995Z"
+}
