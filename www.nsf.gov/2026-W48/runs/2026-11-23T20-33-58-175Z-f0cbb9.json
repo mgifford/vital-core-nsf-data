@@ -1,0 +1,171 @@
+{
+ "runId": "2026-11-23T20-33-58-175Z-f0cbb9",
+ "week": "2026-W48",
+ "domain": "www.nsf.gov",
+ "canonical": {
+  "origin": "https://www.nsf.gov",
+  "configured": "https://www.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-23T20:34:00.163Z",
+ "scanned": [
+  "fd0251e3b46fb8e1",
+  "31e142914388bc31",
+  "a2952fd54c42eaa1",
+  "26e8b424fdf563c6",
+  "502dfe2f025bbeed",
+  "f6d52cd377dbcb7b",
+  "0abe4ce9a801a4d7",
+  "9ae94921b14765e7",
+  "29e501abce33e289",
+  "54b4b72928fcadfb",
+  "3552aede9c450d3d",
+  "1375bef0c207120f",
+  "de0901caa37bb1f8",
+  "65ee416735c7e8f9",
+  "fae7c7b6e087824f",
+  "31b8281bf6978155",
+  "a2eb2120b9316561",
+  "4fd30413ce7f882c",
+  "5228c5a68e0de7f2",
+  "bce34f41ef2f9579",
+  "f18370ca74498458",
+  "c4d45bf14e3c98ac",
+  "58e0ad7739df6a8f"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 294,
+  "checked": 294,
+  "brokenCount": 6,
+  "broken": [
+   {
+    "url": "https://www.grants.gov/",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/eri-engineering-research-initiation/505888/nsf22-595",
+     "https://www.nsf.gov/events/ires-program-virtual-office-hours",
+     "https://www.nsf.gov/funding/opportunities/crest-centers-research-excellence-science-technology",
+     "https://www.nsf.gov/events/nsf-engines-roadshow-1-co-ks-mo-nd-ne-nm-ok-sd-tx-wy/2022-05-19",
+     "https://www.nsf.gov/funding/opportunities/ltreb-long-term-research-environmental-biology/nsf15-503",
+     "https://www.nsf.gov/funding/opportunities/proto-okn-building-prototype-open-knowledge-network/506169/updates/95694",
+     "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/jerrold-meinwald",
+     "https://www.nsf.gov/news/nsf-announces-first-ai-engage-awards-modernize-global",
+     "https://www.nsf.gov/mps/updates/job-opportunity-astronomer-program-director-grants-temporary",
+     "https://www.nsf.gov/reports/performance/2004-competitive-sourcing-report",
+     "https://www.nsf.gov/reports/topical/bio-control-neural-networks",
+     "https://www.nsf.gov/funding/opportunities/gk-12-nsf-graduate-teaching-fellows-k-12-education/5472/nsf06-556",
+     "https://www.nsf.gov/events/new-approaches-representing-women-science/2022-03-22",
+     "https://www.nsf.gov/honorary-awards/pecase/recipients/emily-breza",
+     "https://www.nsf.gov/news",
+     "https://www.nsf.gov/funding/opportunities/mps-materials-mps-materials-research-programs",
+     "https://www.nsf.gov/funding/opportunities/embrace-empowering-broader-academic-capacity-education/nsf23-617/solicitation",
+     "https://www.nsf.gov/events/growing-convergence-research-lecture-series-1/2026-01-14",
+     "https://www.nsf.gov/funding/opportunities/robert-noyce-teacher-scholarship-program/5733/nsf10-514",
+     "https://www.nsf.gov/funding/opportunities/rde-research-disabilities-education/5482/nsf09-508",
+     "https://www.nsf.gov/edu",
+     "https://www.nsf.gov/funding/opportunities/dcl-research-integrated-photonics-utilizing-aim-photonics/nsf21-015"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/careers/openings/mps/ast-2023-95692",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/mps/updates/job-opportunity-astronomer-program-director-grants-temporary"
+    ]
+   },
+   {
+    "url": "https://bit.ly/3oaZp0M",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/new-approaches-representing-women-science/2022-03-22"
+    ]
+   },
+   {
+    "url": "https://www.americangeosciences.org/sites/default/files/DB_2020-001_NSF-GEO-FundingByInstitutionType_0.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/embrace-empowering-broader-academic-capacity-education/nsf23-617/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.grants.gov/web/grants/applicants.html",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/embrace-empowering-broader-academic-capacity-education/nsf23-617/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.gida-global.org/care",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/embrace-empowering-broader-academic-capacity-education/nsf23-617/solicitation"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 22,
+  "resources": 22,
+  "images": 22,
+  "standards": 8,
+  "third-party": 6,
+  "link-check": 22,
+  "alfa": 10,
+  "plain-language": 7,
+  "lighthouse": 3,
+  "public-interest": 2,
+  "deprecated-html": 3,
+  "security": 1,
+  "sustainability": 2
+ },
+ "tally": {
+  "ok": 22,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 2,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 4,
+  "error": 0
+ },
+ "finishedAt": "2026-11-23T20:37:36.123Z"
+}
