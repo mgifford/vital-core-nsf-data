@@ -1,0 +1,137 @@
+{
+ "runId": "2026-11-24T15-05-10-200Z-10df45",
+ "week": "2026-W48",
+ "domain": "iucrc.nsf.gov",
+ "canonical": {
+  "origin": "https://iucrc.nsf.gov",
+  "configured": "https://iucrc.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-24T15:05:11.035Z",
+ "scanned": [
+  "1de555a04b0a8378",
+  "8da37a7b0875a26e",
+  "168c1a3ae2f575fd",
+  "e660082b7b357ab8",
+  "7697a5f0d56621a1",
+  "f4dde08c846d9326",
+  "4b97ce9ca0a4913d",
+  "b7edaba4fd0950e5",
+  "800c5b013a22b8d3",
+  "697b6110d5b4a36c",
+  "01ff38c2a829ed27",
+  "b78d21630edb2acc",
+  "c61b70e2988bb6f8",
+  "d88ed4f900b785a7",
+  "cca2f520c8377229",
+  "e0ea06998adb4334",
+  "789090050aa8462a",
+  "93c5c45605765a61",
+  "669039965070489c",
+  "7b8c9b28a86f12e2",
+  "b8e2e3a7905ec935",
+  "5c20e8c690445650",
+  "27180125c3161a59",
+  "6fb1400e2198563c",
+  "9a643f971dbcdee9"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 132,
+  "checked": 132,
+  "brokenCount": 4,
+  "broken": [
+   {
+    "url": "http://compositescici.statler.wvu.edu/",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-the-integration-of-composites-into-infrastructure"
+    ]
+   },
+   {
+    "url": "https://iucrc.nsf.gov/centers/membrane-engineering-science-and-technology",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/achievements/membrane-based-technologies"
+    ]
+   },
+   {
+    "url": "https://www.amd.com/en.html",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-intelligent-distributed-embedded-applications-and-systems-ideas"
+    ]
+   },
+   {
+    "url": "http://www.netcentric.cse.unt.edu/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/net-centric-and-cloud-software-and-system"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 22,
+  "resources": 22,
+  "images": 22,
+  "security": 2,
+  "lighthouse": 4,
+  "link-check": 22,
+  "sustainability": 4,
+  "alfa": 9,
+  "plain-language": 10,
+  "deprecated-html": 2,
+  "standards": 11,
+  "third-party": 5,
+  "public-interest": 2,
+  "tech": 1
+ },
+ "tally": {
+  "ok": 22,
+  "blocked": 3,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-24T15:07:51.743Z"
+}
