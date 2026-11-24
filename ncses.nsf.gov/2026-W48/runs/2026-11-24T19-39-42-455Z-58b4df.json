@@ -1,0 +1,102 @@
+{
+ "runId": "2026-11-24T19-39-42-455Z-58b4df",
+ "week": "2026-W48",
+ "domain": "ncses.nsf.gov",
+ "canonical": {
+  "origin": "https://ncses.nsf.gov",
+  "configured": "https://ncses.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-24T19:39:43.938Z",
+ "scanned": [
+  "d36ed3bc03229a74",
+  "a2f0ac7a135d55fd",
+  "d923a41e3a91d7c7",
+  "07c54be83f900730",
+  "da93a850cebac0dd",
+  "af8cbfff09dced9f",
+  "35c6309340444698",
+  "2faded55bc5cd853",
+  "9c1ef96a57f08dac",
+  "d81dcddb6302602b",
+  "ad36ded011dfc80c",
+  "ecb3114c91e8e8b5"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 1498,
+  "checked": 500,
+  "brokenCount": 1,
+  "broken": [
+   {
+    "url": "https://www.sbir.gov/sbirsearch/award/all",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20224/data/table/SINV-40",
+     "https://ncses.nsf.gov/pubs/nsb20241/data/table/SINV-8",
+     "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-A",
+     "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-24"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 12,
+  "alfa": 7,
+  "plain-language": 5,
+  "resources": 12,
+  "images": 12,
+  "public-interest": 3,
+  "tech": 4,
+  "link-check": 12,
+  "third-party": 2,
+  "sustainability": 1,
+  "standards": 6,
+  "security": 1,
+  "lighthouse": 1
+ },
+ "tally": {
+  "ok": 12,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 14,
+  "error": 0
+ },
+ "finishedAt": "2026-11-24T19:44:44.378Z"
+}
