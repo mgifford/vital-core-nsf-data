@@ -1,0 +1,255 @@
+{
+ "runId": "2026-11-24T18-51-22-682Z-4d2486",
+ "week": "2026-W48",
+ "domain": "www.nsf.gov",
+ "canonical": {
+  "origin": "https://www.nsf.gov",
+  "configured": "https://www.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-24T18:51:23.079Z",
+ "scanned": [
+  "c463189ffa37c60d",
+  "80c96c8124a4f4f3",
+  "74f7d50c41810d65",
+  "1735de9e4e7a63fe",
+  "6ba57de03128cc99",
+  "234284029acceef8",
+  "8134c03e8328213d",
+  "f2da95379973728f",
+  "7128743351b7b936",
+  "a7914a8d4475b349",
+  "7ac641bda0e5c4ad",
+  "ebd208fc2603d7ce",
+  "16b0d070f04d52ee",
+  "6c0c63228fced8ba",
+  "cf4f998609d61944",
+  "d3f7e69f87166d85",
+  "37188a9d31bbb37e",
+  "acfbde7c396e3657",
+  "5c82f653c62ebd83",
+  "2cf2280cddda1efa",
+  "6296097d4749e992",
+  "abadc6c3f205a616",
+  "027b9fbe725e3db3",
+  "da63fa869daa088f"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 245,
+  "checked": 245,
+  "brokenCount": 16,
+  "broken": [
+   {
+    "url": "https://www.grants.gov/",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/mwn-materials-world-network-cooperative-activity-materials/12820/nsf12-593",
+     "https://www.nsf.gov/reports/performance/nsf-annual-report-fy-1996-1997/nsf98-1",
+     "https://www.nsf.gov/events/distinguished-lecture-socially-interactive-robots-equitable",
+     "https://www.nsf.gov/reports/statistics/california-leads-innovative-capacity-us-states-measured-us",
+     "https://www.nsf.gov/funding/opportunities/mathematical-social-behavioral-sciences/11683/nsf06-531",
+     "https://www.nsf.gov/events/national-science-board-nsb-nsf-commission-merit-review-mrx-11/2023-08-09",
+     "https://www.nsf.gov/events/astronomy-astrophysics-advisory-committee-meeting",
+     "https://www.nsf.gov/events/nsf-engines-roadshow-5-al-dc-fl-ga-la-md-ms-nc-pr-sc-va-vi/2022-06-15",
+     "https://www.nsf.gov/funding/opportunities/clp-chemistry-life-processes/503417/pd09-6883",
+     "https://www.nsf.gov/reports/nsb/merit/national-science-foundation-merit-review-fy-2007",
+     "https://www.nsf.gov/science-matters/celebrating-65th-anniversary-international-geophysical-year",
+     "https://www.nsf.gov/events/chemistry-division-office-hour-history-black-scientists-nsfs",
+     "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/robert-h-burris",
+     "https://www.nsf.gov/policies/document/significant-changes-sbir-phase-i-grant-general-conditions-0",
+     "https://www.nsf.gov/funding/information/dcl-request-information-technologies-enable-observations-remote/nsf24-021",
+     "https://www.nsf.gov/events/waterman-lecture-past-climates-inform-our-future",
+     "https://www.nsf.gov/events/dmr-open-hour-0/2023-07-21",
+     "https://www.nsf.gov/funding/opportunities/earif-earth-sciences-instrumentation-facilities/6186/15211",
+     "https://www.nsf.gov/funding/opportunities/antarctic-research/5519/nsf10-543",
+     "https://www.nsf.gov/events/gcr-lecture-convergence-science-collaborative-problem/2024-12-17",
+     "https://www.nsf.gov/funding/opportunities/pose-pathways-enable-open-source-ecosystems/505982/updates/94784",
+     "https://www.nsf.gov/funding/opportunities/igert-integrative-graduate-education-research-traineeship-program/12759/nsf11-533",
+     "https://www.nsf.gov/news/lizard-lungs-could-be-model-biotechnology-design",
+     "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/dennis-p-sullivan"
+    ]
+   },
+   {
+    "url": "http://www.fwf.ac.at/en/index.asp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/mwn-materials-world-network-cooperative-activity-materials/12820/nsf12-593"
+    ]
+   },
+   {
+    "url": "http://public.mzos.hr/Default.aspx",
+    "status": 400,
+    "reason": "HTTP 400",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/mwn-materials-world-network-cooperative-activity-materials/12820/nsf12-593"
+    ]
+   },
+   {
+    "url": "http://www.dfg.de/dfg_profil/im_internationalen_kontext/dachorganisationen_verbuende/materials_world_network/index.html",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/mwn-materials-world-network-cooperative-activity-materials/12820/nsf12-593"
+    ]
+   },
+   {
+    "url": "http://www.dffd.gov.ua/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/mwn-materials-world-network-cooperative-activity-materials/12820/nsf12-593"
+    ]
+   },
+   {
+    "url": "http://web.nsc.gov.tw/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/mwn-materials-world-network-cooperative-activity-materials/12820/nsf12-593"
+    ]
+   },
+   {
+    "url": "http://www.gsrt.gr/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/mwn-materials-world-network-cooperative-activity-materials/12820/nsf12-593"
+    ]
+   },
+   {
+    "url": "http://www.dmd.cnr.it/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/mwn-materials-world-network-cooperative-activity-materials/12820/nsf12-593"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_UQFSiZT3R1SbbfjCz_InvA",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/distinguished-lecture-socially-interactive-robots-equitable"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_JBI9nvj0RAOnNBCyYMkzVA",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/astronomy-astrophysics-advisory-committee-meeting"
+    ]
+   },
+   {
+    "url": "http://www.jst.go.jp/EN/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/mwn-materials-world-network-cooperative-activity-materials/12820/nsf12-593"
+    ]
+   },
+   {
+    "url": "https://antarcticsun.usap.gov/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/science-matters/celebrating-65th-anniversary-international-geophysical-year"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJItcu2uqzsuEgbnHzg7Qit6YWhInXNxzI4",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/chemistry-division-office-hour-history-black-scientists-nsfs"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJIsdu2hqDItGq1VIdkRCQxBGFqnI5CfET4",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/dmr-open-hour-0/2023-07-21"
+    ]
+   },
+   {
+    "url": "http://www.nsf.gov/crssprgm/igert/cc.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/igert-integrative-graduate-education-research-traineeship-program/12759/nsf11-533"
+    ]
+   },
+   {
+    "url": "https://www.surveymonkey.com/r/GNLHW6V",
+    "status": 504,
+    "reason": "HTTP 504",
+    "foundOn": [
+     "https://www.nsf.gov/funding/information/dcl-request-information-technologies-enable-observations-remote/nsf24-021"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 24,
+  "alfa": 15,
+  "plain-language": 7,
+  "resources": 24,
+  "images": 24,
+  "standards": 8,
+  "link-check": 24,
+  "third-party": 6,
+  "deprecated-html": 3,
+  "public-interest": 4,
+  "sustainability": 3,
+  "tech": 3,
+  "security": 1,
+  "lighthouse": 3
+ },
+ "tally": {
+  "ok": 24,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 1,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 2,
+  "error": 0
+ },
+ "finishedAt": "2026-11-24T18:55:10.948Z"
+}
