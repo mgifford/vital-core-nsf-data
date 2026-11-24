@@ -1,0 +1,110 @@
+{
+ "runId": "2026-11-24T13-33-20-812Z-a6b45c",
+ "week": "2026-W48",
+ "domain": "ncses.nsf.gov",
+ "canonical": {
+  "origin": "https://ncses.nsf.gov",
+  "configured": "https://ncses.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-24T13:33:21.501Z",
+ "scanned": [
+  "1dab5ee53d97c5f2",
+  "14e4d1666f794dcc",
+  "d7d44998db0d38d9",
+  "442b372e0813aecb",
+  "c0f0d47ca6cb5371",
+  "9297f54859dbf161",
+  "dbc1f2025b28b746",
+  "8e17513482f38cb8",
+  "0e5904bf830d6733",
+  "1773f02caa81435b",
+  "7b47ac636fe78ac9",
+  "d9b6313cdd5668bb",
+  "7d907fbd04531dbf",
+  "9b7ee1d715cdeada",
+  "4ac731907494a318",
+  "637a4918e4b279bb",
+  "af690ac178c55a09",
+  "62511983ec5098f2",
+  "9ec698cb3bdadd85",
+  "3e5aae70d38afa56"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 2630,
+  "checked": 500,
+  "brokenCount": 1,
+  "broken": [
+   {
+    "url": "https://www.sbir.gov/sbirsearch/award/all",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20224/data/table/SINV-34",
+     "https://ncses.nsf.gov/pubs/nsb20224/data/table/SINV-68",
+     "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-D"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 20,
+  "alfa": 11,
+  "plain-language": 7,
+  "deprecated-html": 3,
+  "resources": 20,
+  "images": 20,
+  "link-check": 20,
+  "standards": 7,
+  "security": 3,
+  "third-party": 5,
+  "sustainability": 1,
+  "lighthouse": 3,
+  "public-interest": 3,
+  "tech": 1
+ },
+ "tally": {
+  "ok": 20,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 8,
+  "error": 0
+ },
+ "finishedAt": "2026-11-24T13:38:59.968Z"
+}
