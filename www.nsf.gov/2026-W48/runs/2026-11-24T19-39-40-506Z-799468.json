@@ -1,0 +1,291 @@
+{
+ "runId": "2026-11-24T19-39-40-506Z-799468",
+ "week": "2026-W48",
+ "domain": "www.nsf.gov",
+ "canonical": {
+  "origin": "https://www.nsf.gov",
+  "configured": "https://www.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-24T19:39:40.934Z",
+ "scanned": [
+  "4365360ef7f9ad44",
+  "89d708a008592689",
+  "6dfecb5862945ef3",
+  "4e0d3a2246e6c144",
+  "e2ad91e8a585f7d3",
+  "6966ae3868353b1c",
+  "857400400cbe33a5",
+  "2429ed57a53afb56",
+  "a7a2d37940b1d847",
+  "472929746045a66f",
+  "1384d570156dfc03",
+  "959c3ebc6a20eead",
+  "3e905447899f629f",
+  "0042e272937faf4a",
+  "5e958c9143fd37a5",
+  "af14371362709a3c",
+  "464db59134cacb04",
+  "8376291b2f2b560a",
+  "cf5e2b0b08c94129",
+  "12b12ac7bd5c0d43",
+  "907a6aabf2b8fcd7",
+  "dd2b54ddb77b65de"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 314,
+  "checked": 314,
+  "brokenCount": 21,
+  "broken": [
+   {
+    "url": "https://www.grants.gov/",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/pose-pathways-enable-open-source-ecosystems/505982/nsf24-606",
+     "https://www.nsf.gov/funding/opportunities/vines-verticals-enabling-intelligent-network-systems/506396/updates",
+     "https://www.nsf.gov/tip/updates/nsf-promotes-transition-circular-economy-advanced",
+     "https://www.nsf.gov/honorary-awards/pecase/recipients/grace-oconnell",
+     "https://www.nsf.gov/making-it-easier-to-find-nsf-funding-opportunities",
+     "https://www.nsf.gov/funding/opportunities/dcl-nsf-options-address-helium-supply-shortage-concerns/nsf22-088",
+     "https://www.nsf.gov/awards/report-your-outcomes",
+     "https://www.nsf.gov/tip/updates/nsf-deploys-250-million-restart-small-business-innovation",
+     "https://www.nsf.gov/mps/funding-rates",
+     "https://www.nsf.gov/funding/opportunities/robert-noyce-teacher-scholarship-program/5733/nsf13-526",
+     "https://www.nsf.gov/policies/document/proposal-award-policies-procedures-guide-pappg-february-2019/nsf19-001",
+     "https://www.nsf.gov/about/budget/fy2022",
+     "https://www.nsf.gov/news/new-polymer-membrane-technology-efficiently-removes-carbon",
+     "https://www.nsf.gov/funding/opportunities/dcl-catalyzing-institutional-change-support-greater-equity/nsf23-087",
+     "https://www.nsf.gov/events/crevasse-webinar-series",
+     "https://www.nsf.gov/funding/opportunities/pel-ideas-lab-personalized-engineering-learning/506230/updates/96660",
+     "https://www.nsf.gov/news/monitoring-arctic-permafrost-satellites-supercomputers-deep",
+     "https://www.nsf.gov/events/nsf-cise-updates-office-hour",
+     "https://www.nsf.gov/policies/document/general-programmatic-terms-conditions-ptcs-centers",
+     "https://www.nsf.gov/news/study-examines-effect-prolonged-spaceflight-brain",
+     "https://www.nsf.gov/events/nsfnoaa-iucrc-dcl-university-oriented-office-hour-3",
+     "https://www.nsf.gov/funding/opportunities/sbir-small-business-innovation-research-program-phase-i/504762/nsf12-605/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.whitehouse.gov/wp-content/uploads/2022/08/08-2022-OSTP-Public-Access-Memo.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/awards/report-your-outcomes"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf18045",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/about/budget/fy2022"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJItdO-pqzwjGhj3kAJV1VZnJKnoZGVKhSk",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-catalyzing-institutional-change-support-greater-equity/nsf23-087"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_oEDb4EnyRH2_SpujmUtGTA",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/nsf-cise-updates-office-hour"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJIscu2spjIuHKYknbcbbQOTlLy56k-AreI%20",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/nsfnoaa-iucrc-dcl-university-oriented-office-hour-3"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/eng/iip/sbir/12_2012_ea.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sbir-small-business-innovation-research-program-phase-i/504762/nsf12-605/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/geo/geo-innovation/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/nsfnoaa-iucrc-dcl-university-oriented-office-hour-3"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/eng/iip/sbir/12_2012_bc.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sbir-small-business-innovation-research-program-phase-i/504762/nsf12-605/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/eng/iip/sbir/12_2012_nm.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sbir-small-business-innovation-research-program-phase-i/504762/nsf12-605/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/eng/iip/sbir/12_2012_ei.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sbir-small-business-innovation-research-program-phase-i/504762/nsf12-605/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/eng/iip/sbir/definitions.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sbir-small-business-innovation-research-program-phase-i/504762/nsf12-605/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/eng/iip/sbir/program.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sbir-small-business-innovation-research-program-phase-i/504762/nsf12-605/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/eng/iip/sbir/forms.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sbir-small-business-innovation-research-program-phase-i/504762/nsf12-605/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/eng/iip/sbir/Sample_Postdoc_Mentoring_Plan.doc",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sbir-small-business-innovation-research-program-phase-i/504762/nsf12-605/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.fastlane.nsf.gov/a1/newstan.htm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sbir-small-business-innovation-research-program-phase-i/504762/nsf12-605/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=aag",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sbir-small-business-innovation-research-program-phase-i/504762/nsf12-605/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.grants.gov/",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sbir-small-business-innovation-research-program-phase-i/504762/nsf12-605/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/eng/iip/sbir/award_req.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sbir-small-business-innovation-research-program-phase-i/504762/nsf12-605/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/oig/hotline_form.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sbir-small-business-innovation-research-program-phase-i/504762/nsf12-605/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/policies/SOR_PA_NSF-50_Principal_Investigator_Proposal_File.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sbir-small-business-innovation-research-program-phase-i/504762/nsf12-605/solicitation"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 22,
+  "resources": 22,
+  "images": 22,
+  "standards": 12,
+  "link-check": 22,
+  "tech": 3,
+  "alfa": 7,
+  "plain-language": 7,
+  "security": 3,
+  "third-party": 7,
+  "deprecated-html": 2,
+  "lighthouse": 2,
+  "sustainability": 1,
+  "public-interest": 1
+ },
+ "tally": {
+  "ok": 22,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 2,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 5,
+  "error": 0
+ },
+ "finishedAt": "2026-11-24T19:42:53.099Z"
+}
