@@ -1,0 +1,152 @@
+{
+ "runId": "2026-11-24T13-33-39-512Z-d5a2ce",
+ "week": "2026-W48",
+ "domain": "iucrc.nsf.gov",
+ "canonical": {
+  "origin": "https://iucrc.nsf.gov",
+  "configured": "https://iucrc.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-24T13:33:41.197Z",
+ "scanned": [
+  "7391fce832cf4516",
+  "91607c5617604add",
+  "c3a5f1571abf2b19",
+  "2114299063fcd666",
+  "3ce256bbb85ff714",
+  "7bf418d9c009a882",
+  "ecbf06e1359c4235",
+  "bc62be6ded3adc18",
+  "6b7d52150e8574dd",
+  "cf7b4444741bbb04",
+  "73c4d8fa77c40f86",
+  "497a931523aca590",
+  "3f548323a950c140",
+  "de364a3e0dd075e5",
+  "4ee7f78f50c84454",
+  "fcf1fe3418cefe2b",
+  "c2e9b029eab7892c",
+  "9212677a4fa1fea1",
+  "9a03c2a541822b26",
+  "c4c0f4f61b09a8b5",
+  "2510038527ab736a",
+  "c72f3a1d04ca72a4",
+  "38468354b72e05af",
+  "e7565176cdb66f56",
+  "c3b54239ed1d3919"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 221,
+  "checked": 221,
+  "brokenCount": 6,
+  "broken": [
+   {
+    "url": "http://www.clarkson.edu/citer",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-identification-technology-research"
+    ]
+   },
+   {
+    "url": "https://devel.private.id/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-identification-technology-research"
+    ]
+   },
+   {
+    "url": "https://www.amd.com/en.html",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/center-for-advanced-semiconductor-chips-with-accelerated-performance"
+    ]
+   },
+   {
+    "url": "https://iucrc.nsf.gov/centers/center-for-soil-technologies-soiltech",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/centers/focus-area/energy-and-environment"
+    ]
+   },
+   {
+    "url": "https://nsf.gov/pubs/2020/nsf20570/nsf20570.htm?org=NSF",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/universities/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubs/2020/nsf20080/nsf20080.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://iucrc.nsf.gov/universities/solicitation"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 22,
+  "plain-language": 10,
+  "resources": 22,
+  "images": 22,
+  "standards": 15,
+  "link-check": 22,
+  "deprecated-html": 2,
+  "alfa": 18,
+  "tech": 4,
+  "third-party": 8,
+  "sustainability": 4,
+  "security": 1,
+  "public-interest": 1
+ },
+ "tally": {
+  "ok": 22,
+  "blocked": 3,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-24T13:36:16.823Z"
+}
