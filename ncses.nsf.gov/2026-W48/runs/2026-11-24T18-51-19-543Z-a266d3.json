@@ -1,0 +1,93 @@
+{
+ "runId": "2026-11-24T18-51-19-543Z-a266d3",
+ "week": "2026-W48",
+ "domain": "ncses.nsf.gov",
+ "canonical": {
+  "origin": "https://ncses.nsf.gov",
+  "configured": "https://ncses.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-24T18:51:23.125Z",
+ "scanned": [
+  "926c51587746c0b3",
+  "eacc56754a9b7124",
+  "265c970f26941498",
+  "c12b84cd1f4fa0f0",
+  "bee902a4079afc19",
+  "e09c06034a7d26f0",
+  "7004842a495eaec1",
+  "bc5b781b69af9f07",
+  "68a1ccfc2e127115",
+  "6ccee3cac6177952",
+  "393537baace25617",
+  "71158daa8243c6b2",
+  "3fc102d1a7cd9b5b",
+  "5855c1b735432c14",
+  "8f4347994e9c4943",
+  "533f3f3aa627cc96"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 2092,
+  "checked": 500,
+  "brokenCount": 0,
+  "broken": []
+ },
+ "enginesRun": {
+  "axe": 16,
+  "alfa": 5,
+  "plain-language": 8,
+  "resources": 16,
+  "images": 16,
+  "link-check": 16,
+  "standards": 12,
+  "security": 3,
+  "sustainability": 4,
+  "third-party": 4,
+  "tech": 2,
+  "public-interest": 2
+ },
+ "tally": {
+  "ok": 16,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 13,
+  "error": 0
+ },
+ "finishedAt": "2026-11-24T18:54:22.421Z"
+}
