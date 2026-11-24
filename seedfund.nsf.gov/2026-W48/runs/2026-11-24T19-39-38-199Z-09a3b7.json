@@ -1,0 +1,129 @@
+{
+ "runId": "2026-11-24T19-39-38-199Z-09a3b7",
+ "week": "2026-W48",
+ "domain": "seedfund.nsf.gov",
+ "canonical": {
+  "origin": "https://seedfund.nsf.gov",
+  "configured": "https://seedfund.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-24T19:39:38.607Z",
+ "scanned": [
+  "fe39ae1dc8177203",
+  "8d28c20147368847",
+  "ab8c7ad5de164bef",
+  "d750e96ff1c57211",
+  "3b0ab4ed6194e071",
+  "419d925f36802143",
+  "ebdc43fdc3ee247a",
+  "e2c79eabbe6d02b6",
+  "662c3b334215bdcc",
+  "d7585ece83967439",
+  "952128556fce4cf5",
+  "f389af2f23c80d91",
+  "a920748aa0c2d46b",
+  "2eeeeb8f3ccee83f",
+  "94f0f62fa7fdcb56",
+  "7e36fb33605bbf19",
+  "9c3826b7c38ae2a7",
+  "59a4e51340ef5240",
+  "b610c038fe5d3da1",
+  "bcbdff497b9c6092",
+  "32eaf28d465a5919",
+  "2e9278f523a0ee05",
+  "f90bc8f13e57efdb",
+  "178212f4f90f7411",
+  "dabfa4584878931c"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 969,
+  "checked": 500,
+  "brokenCount": 3,
+  "broken": [
+   {
+    "url": "http://www.leadingedgetech.io/",
+    "status": 409,
+    "reason": "HTTP 409",
+    "foundOn": [
+     "https://seedfund.nsf.gov/portfolio/details?company=leading-edge-crystal-technologies-inc"
+    ]
+   },
+   {
+    "url": "https://www.pikerobotics.com/",
+    "status": 0,
+    "reason": "ERR_SSL_SSL/TLS_ALERT_HANDSHAKE_FAILURE",
+    "foundOn": [
+     "https://seedfund.nsf.gov/showcase/news"
+    ]
+   },
+   {
+    "url": "https://www.knoxnews.com/story/money/business/2025/01/12/40-under-40-sam-rosolina-microbial-insights/75673324007/",
+    "status": 402,
+    "reason": "HTTP 402",
+    "foundOn": [
+     "https://seedfund.nsf.gov/showcase/news"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "sustainability": 3,
+  "axe": 23,
+  "alfa": 9,
+  "plain-language": 13,
+  "deprecated-html": 2,
+  "resources": 23,
+  "images": 23,
+  "standards": 10,
+  "security": 2,
+  "lighthouse": 3,
+  "link-check": 23,
+  "public-interest": 2,
+  "third-party": 7,
+  "tech": 3
+ },
+ "tally": {
+  "ok": 23,
+  "blocked": 2,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 1,
+  "error": 0
+ },
+ "finishedAt": "2026-11-24T19:42:52.781Z"
+}
