@@ -1,0 +1,112 @@
+{
+ "runId": "2026-11-24T16-28-59-644Z-3c7737",
+ "week": "2026-W48",
+ "domain": "seedfund.nsf.gov",
+ "canonical": {
+  "origin": "https://seedfund.nsf.gov",
+  "configured": "https://seedfund.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-24T16:29:02.210Z",
+ "scanned": [
+  "2abea8823dce9754",
+  "fb160b840a09ac1c",
+  "c797a8b006ce16e0",
+  "6f8cc9832bb24ce1",
+  "401c85de9fd5c665",
+  "b0cc1f62b5b036c9",
+  "4881131e150a9df9",
+  "d17c7a7c0ae5bd7f",
+  "bfa4776dce86ccb2",
+  "d2478ba345a7d132",
+  "803a495916e4868b",
+  "e1b64258248477f2",
+  "59205811f021decf",
+  "fe6c91ac43dd3e0c",
+  "3bf9949228a9e71e",
+  "1bed6f893b684264",
+  "e59f29dcf163198f",
+  "cbc8af442a0629b3",
+  "0f41da707ccd6c6b",
+  "8189f85643722aad",
+  "920810fb6562193c",
+  "27d81d744853bc63",
+  "c32a18070b878073",
+  "fc8a3708b6ac3c28",
+  "e6d095d21d6e2a4f"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 120,
+  "checked": 120,
+  "brokenCount": 1,
+  "broken": [
+   {
+    "url": "https://www.businesswire.com/news/home/20230119005230/en/NEXT-Energy-Technologies-Installs-Energy-Generating-Windows-on-Outdoor-Retailer-Patagonia%E2%80%99s-Headquarters",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://seedfund.nsf.gov/news/next"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 25,
+  "alfa": 13,
+  "plain-language": 12,
+  "resources": 25,
+  "images": 25,
+  "third-party": 10,
+  "link-check": 25,
+  "standards": 14,
+  "sustainability": 2,
+  "deprecated-html": 3,
+  "security": 1,
+  "lighthouse": 3,
+  "tech": 2
+ },
+ "tally": {
+  "ok": 25,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-24T16:31:42.688Z"
+}
