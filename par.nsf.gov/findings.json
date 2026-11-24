@@ -1,25 +1,27 @@
 {
  "domain": "par.nsf.gov",
- "updatedAt": "2026-11-16T22:29:36.377Z",
+ "updatedAt": "2026-11-24T00:18:34.114Z",
  "findings": {
   "VS-646b1e0b": {
    "engine": "Siteimprove Alfa",
    "ruleId": "sia-r66",
    "summary": "Text has enhanced contrast (WCAG 1.4.6)",
    "wcag": "1.4.6",
-   "severity": "Moderate",
+   "severity": "Serious",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W47",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W44",
     "2026-W45",
     "2026-W46",
-    "2026-W47"
+    "2026-W47",
+    "2026-W48"
    ],
-   "weeksSeen": 4,
-   "lastPagesAffected": 1,
+   "weeksSeen": 5,
+   "lastPagesAffected": 2,
    "lastAffectedPages": [
-    "https://par.nsf.gov/services"
+    "https://par.nsf.gov/faq",
+    "https://par.nsf.gov/"
    ]
   },
   "VS-2208081b": {
@@ -29,16 +31,17 @@
    "wcag": "1.4.8",
    "severity": "Moderate",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W48"
    ],
-   "weeksSeen": 3,
+   "weeksSeen": 4,
    "lastPagesAffected": 1,
    "lastAffectedPages": [
-    "https://par.nsf.gov/contact"
+    "https://par.nsf.gov/"
    ]
   },
   "VS-cb53cc4d": {
@@ -46,19 +49,21 @@
    "ruleId": "sia-r111",
    "summary": "Target size is at least 44×44 CSS pixels (Enhanced) (WCAG 2.5.5)",
    "wcag": "2.5.5",
-   "severity": "Moderate",
+   "severity": "Serious",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W47",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W44",
     "2026-W45",
     "2026-W46",
-    "2026-W47"
+    "2026-W47",
+    "2026-W48"
    ],
-   "weeksSeen": 4,
-   "lastPagesAffected": 1,
+   "weeksSeen": 5,
+   "lastPagesAffected": 2,
    "lastAffectedPages": [
-    "https://par.nsf.gov/services"
+    "https://par.nsf.gov/faq",
+    "https://par.nsf.gov/"
    ]
   },
   "VS-424cced9": {
@@ -68,14 +73,15 @@
    "wcag": null,
    "severity": "Serious",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W47",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W44",
     "2026-W45",
     "2026-W46",
-    "2026-W47"
+    "2026-W47",
+    "2026-W48"
    ],
-   "weeksSeen": 4,
+   "weeksSeen": 5,
    "lastPagesAffected": 4,
    "lastAffectedPages": [
     "https://par.nsf.gov/services",
@@ -91,14 +97,15 @@
    "wcag": null,
    "severity": "Serious",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W47",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W44",
     "2026-W45",
     "2026-W46",
-    "2026-W47"
+    "2026-W47",
+    "2026-W48"
    ],
-   "weeksSeen": 4,
+   "weeksSeen": 5,
    "lastPagesAffected": 4,
    "lastAffectedPages": [
     "https://par.nsf.gov/services",
@@ -114,14 +121,15 @@
    "wcag": null,
    "severity": "Serious",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W47",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W44",
     "2026-W45",
     "2026-W46",
-    "2026-W47"
+    "2026-W47",
+    "2026-W48"
    ],
-   "weeksSeen": 4,
+   "weeksSeen": 5,
    "lastPagesAffected": 2,
    "lastAffectedPages": [
     "https://par.nsf.gov/services",
@@ -133,19 +141,21 @@
    "ruleId": "sia-r57",
    "summary": "Text is included in a landmark (best practice, not a WCAG requirement)",
    "wcag": null,
-   "severity": "Moderate",
+   "severity": "Serious",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W47",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W44",
     "2026-W45",
     "2026-W46",
-    "2026-W47"
+    "2026-W47",
+    "2026-W48"
    ],
-   "weeksSeen": 4,
-   "lastPagesAffected": 1,
+   "weeksSeen": 5,
+   "lastPagesAffected": 2,
    "lastAffectedPages": [
-    "https://par.nsf.gov/services"
+    "https://par.nsf.gov/faq",
+    "https://par.nsf.gov/"
    ]
   },
   "VS-7fbb8b20": {
@@ -155,11 +165,12 @@
    "wcag": null,
    "severity": "Moderate",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W48",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W48"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "lastPagesAffected": 1,
    "lastAffectedPages": [
     "https://par.nsf.gov/"

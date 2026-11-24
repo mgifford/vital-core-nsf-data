@@ -1,29 +1,29 @@
 {
  "domain": "par.nsf.gov",
- "updatedAt": "2026-11-16T22:29:36.303Z",
+ "updatedAt": "2026-11-24T00:18:33.958Z",
  "pages": {
   "https://par.nsf.gov/services": {
    "pageId": "399fb195bc15a6e7",
-   "lastWeek": "2026-W47",
-   "lastScannedAt": "2026-11-16T11:01:57.719Z",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-23T12:19:17.477Z",
    "status": 200,
    "axeViolations": 3,
-   "alfaFailures": 17,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://par.nsf.gov/faq": {
    "pageId": "5e519069901e876c",
-   "lastWeek": "2026-W47",
-   "lastScannedAt": "2026-11-16T11:01:52.659Z",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-23T12:19:12.574Z",
    "status": 200,
    "axeViolations": 2,
-   "alfaFailures": null,
+   "alfaFailures": 34,
    "hasIssues": true
   },
   "https://par.nsf.gov/contact": {
    "pageId": "da7b13ee31d434d9",
-   "lastWeek": "2026-W47",
-   "lastScannedAt": "2026-11-16T11:01:48.165Z",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-23T12:19:22.615Z",
    "status": 200,
    "axeViolations": 2,
    "alfaFailures": null,
@@ -31,11 +31,11 @@
   },
   "https://par.nsf.gov/": {
    "pageId": "ede606c6e2d93f43",
-   "lastWeek": "2026-W47",
-   "lastScannedAt": "2026-11-16T11:02:02.759Z",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-23T12:19:07.462Z",
    "status": 200,
    "axeViolations": 3,
-   "alfaFailures": null,
+   "alfaFailures": 13,
    "hasIssues": true
   }
  },
@@ -45,6 +45,7 @@
   "2026-W44",
   "2026-W45",
   "2026-W46",
-  "2026-W47"
+  "2026-W47",
+  "2026-W48"
  ]
 }

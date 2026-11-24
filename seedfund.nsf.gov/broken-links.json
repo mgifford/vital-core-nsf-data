@@ -1,6 +1,6 @@
 {
  "domain": "seedfund.nsf.gov",
- "updatedAt": "2026-11-19T20:57:28.806Z",
+ "updatedAt": "2026-11-24T00:18:40.054Z",
  "links": {
   "https://relavomedical.com/": {
    "status": 0,
@@ -21,12 +21,13 @@
    "status": 500,
    "reason": "HTTP 500",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W43",
-    "2026-W44"
+    "2026-W44",
+    "2026-W48"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
     "https://seedfund.nsf.gov/apply/full-proposal"
    ]
@@ -106,38 +107,35 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W47",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W43",
     "2026-W44",
     "2026-W45",
     "2026-W46",
-    "2026-W47"
+    "2026-W47",
+    "2026-W48"
    ],
-   "weeksBroken": 5,
+   "weeksBroken": 6,
    "foundOn": [
-    "https://seedfund.nsf.gov/centers/ceps/clean-low-energy-method-for-primary-magnesium-metal-production",
-    "https://seedfund.nsf.gov/centers/ceps/high-carotenoid-orange-corn-promises-nutritional-enhancement",
-    "https://seedfund.nsf.gov/centers/ceps/new-firefighting-nozzles-suppress-wildfires-more-quickly",
-    "https://seedfund.nsf.gov/centers/ceps/corn-zein-based-edible-coatings-reduce-fresh-produce-waste",
-    "https://seedfund.nsf.gov/centers/ceps/producing-green-iron-with-a-zero-carbon-electrochemical-process",
+    "https://seedfund.nsf.gov/centers/ceps/liquid-metal-based-thermal-interface-materials-keep-microelectronics-cool",
     "https://seedfund.nsf.gov/centers/ceps/novel-aerogel-based-insulation-may-transform-building-efficiency",
-    "https://seedfund.nsf.gov/centers/ceps/biopreservation-material-could-end-the-wait-for-organ-transplants",
-    "https://seedfund.nsf.gov/centers/ceps/low-cost-one-step-production-of-solar-silicon-from-natural-quartzite",
-    "https://seedfund.nsf.gov/centers/ceps/novel-rnai-technology-targets-leading-global-crop-pest",
-    "https://seedfund.nsf.gov/centers/ceps/innovation-sparks-life-into-hplc-detection-of-compounds"
+    "https://seedfund.nsf.gov/centers/ceps/high-carotenoid-orange-corn-promises-nutritional-enhancement",
+    "https://seedfund.nsf.gov/centers/ceps/paper-coating-enables-worlds-first-water-filter-for-pennies",
+    "https://seedfund.nsf.gov/centers/ceps/combating-pests-with-a-new-class-of-rna-based-pesticides"
    ]
   },
   "http://www.pcka.com/": {
    "status": 0,
    "reason": "fetch failed",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W43",
-    "2026-W46"
+    "2026-W46",
+    "2026-W48"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
     "https://seedfund.nsf.gov/awardees/history/details?company=pc-krause-and-associates-inc"
    ]
@@ -240,14 +238,15 @@
    "status": 0,
    "reason": "ENOTFOUND",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W47",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W43",
     "2026-W44",
     "2026-W45",
-    "2026-W47"
+    "2026-W47",
+    "2026-W48"
    ],
-   "weeksBroken": 4,
+   "weeksBroken": 5,
    "foundOn": [
     "https://seedfund.nsf.gov/resources/awardees/supplement/overview"
    ]
@@ -420,13 +419,13 @@
    "status": 0,
    "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W48",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W48"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "https://seedfund.nsf.gov/awardees/history/details?company=path-ex",
     "https://seedfund.nsf.gov/portfolio/details?company=path-ex"
    ]
   },
@@ -787,12 +786,13 @@
    "status": 0,
    "reason": "ENOTFOUND",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W47",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W45",
-    "2026-W47"
+    "2026-W47",
+    "2026-W48"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
     "https://seedfund.nsf.gov/portfolio/details?company=imagen-energy-llc"
    ]
@@ -883,12 +883,13 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W47",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W45",
-    "2026-W47"
+    "2026-W47",
+    "2026-W48"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
     "https://seedfund.nsf.gov/resources/awardees/supplement/overview"
    ]
@@ -1410,13 +1411,40 @@
    "status": 409,
    "reason": "HTTP 409",
    "firstSeen": "2026-W47",
-   "lastSeen": "2026-W47",
+   "lastSeen": "2026-W48",
    "_weeks": [
-    "2026-W47"
+    "2026-W47",
+    "2026-W48"
+   ],
+   "weeksBroken": 2,
+   "foundOn": [
+    "https://seedfund.nsf.gov/portfolio/details?company=sqz-biotechnologies-company"
+   ]
+  },
+  "https://identity.research.gov/sso/UI/Login?module=nsf&env=prvw&app=portal": {
+   "status": 0,
+   "reason": "ENOTFOUND",
+   "firstSeen": "2026-W48",
+   "lastSeen": "2026-W48",
+   "_weeks": [
+    "2026-W48"
    ],
    "weeksBroken": 1,
    "foundOn": [
-    "https://seedfund.nsf.gov/portfolio/details?company=sqz-biotechnologies-company"
+    "https://seedfund.nsf.gov/apply/review-decision"
+   ]
+  },
+  "http://www.illuminant.ai/": {
+   "status": 0,
+   "reason": "UND_ERR_CONNECT_TIMEOUT",
+   "firstSeen": "2026-W48",
+   "lastSeen": "2026-W48",
+   "_weeks": [
+    "2026-W48"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/awardees/history/details?company=illuminant-surgical-inc"
    ]
   }
  }

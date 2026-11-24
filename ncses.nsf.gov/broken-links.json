@@ -1,6 +1,6 @@
 {
  "domain": "ncses.nsf.gov",
- "updatedAt": "2026-11-18T20:52:29.424Z",
+ "updatedAt": "2026-11-24T00:18:37.579Z",
  "links": {
   "http://ncses.nsf.gov/pubs/nsf23300/": {
    "status": 0,
@@ -247,23 +247,15 @@
    "status": 0,
    "reason": "ECONNRESET",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W43",
-    "2026-W44"
+    "2026-W44",
+    "2026-W48"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
-    "http://ncses.nsf.gov/pubs/ncses22202/section/11154",
-    "http://ncses.nsf.gov/interest-areas/stem",
-    "http://ncses.nsf.gov/search?aois=STEM+Education&query=&topics=Family+Characteristics",
-    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=R%26D+Publications+%26+Articles",
-    "http://ncses.nsf.gov/pubs/nsf25320/figure/1",
-    "http://ncses.nsf.gov/resource/faqs",
-    "http://ncses.nsf.gov/search?aois=Innovation+and+Global+Competitiveness&query=&topics=Knowledge+and+Technology+Intensive+%28KTI%29+Industries",
-    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14440",
-    "http://ncses.nsf.gov/pubs/nsf25349/surveypage/table/14488",
-    "http://ncses.nsf.gov/pubs/nsf25322/surveypage/table/13698"
+    "https://ncses.nsf.gov/pubs/nsf20301/report/notes"
    ]
   },
   "http://ncses.nsf.gov/about/quality-transparency": {
@@ -1003,25 +995,22 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W47",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W44",
     "2026-W45",
     "2026-W46",
-    "2026-W47"
+    "2026-W47",
+    "2026-W48"
    ],
-   "weeksBroken": 4,
+   "weeksBroken": 5,
    "foundOn": [
-    "https://ncses.nsf.gov/pubs/nsb20224/table/SINV-32",
-    "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-C",
-    "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-43",
-    "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-20",
-    "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-23",
-    "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-L",
-    "https://ncses.nsf.gov/pubs/nsb20241/data/table/SINV-20",
-    "https://ncses.nsf.gov/pubs/nsb20224/table/SINV-57",
-    "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-39",
-    "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-28"
+    "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-21",
+    "https://ncses.nsf.gov/pubs/nsb20204/supplemental-tables",
+    "https://ncses.nsf.gov/pubs/nsb20262",
+    "https://ncses.nsf.gov/pubs/nsb20241/data",
+    "https://ncses.nsf.gov/pubs/nsb20224/table/SINV-60",
+    "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-18"
    ]
   },
   "http://ncses.nsf.gov/search?aois=STEM+Education&query=&topics=Family+Characteristics": {
@@ -1659,13 +1648,14 @@
    "status": 0,
    "reason": "ECONNRESET",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W48",
    "_weeks": [
-    "2026-W45"
+    "2026-W45",
+    "2026-W48"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "https://ncses.nsf.gov/surveys/business-enterprise-research-development/2024"
+    "https://ncses.nsf.gov/surveys/business-enterprise-research-development/2023"
    ]
   },
   "https://ncses.nsf.gov/surveys/business-enterprise-research-development/20243": {
@@ -2593,21 +2583,16 @@
    "status": 0,
    "reason": "ENOTFOUND",
    "firstSeen": "2026-W47",
-   "lastSeen": "2026-W47",
+   "lastSeen": "2026-W48",
    "_weeks": [
-    "2026-W47"
+    "2026-W47",
+    "2026-W48"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-C",
-    "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-43",
-    "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-20",
-    "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-23",
-    "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-L",
-    "https://ncses.nsf.gov/pubs/nsb20241/data/table/SINV-20",
-    "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-39",
-    "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-28",
-    "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-4"
+    "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-21",
+    "https://ncses.nsf.gov/pubs/nsb20241/data",
+    "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-18"
    ]
   },
   "https://www.src.isr.umich.edu/": {
@@ -2805,6 +2790,150 @@
    "foundOn": [
     "https://ncses.nsf.gov/pubs/nsb20261/path-to-stem-employment",
     "https://ncses.nsf.gov/pubs/nsb20261/executive-summary"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsb20241/assets/supplemental-tables/tables/nsb20241-tabsinv-009.xlsx": {
+   "status": 0,
+   "reason": "UND_ERR_CONNECT_TIMEOUT",
+   "firstSeen": "2026-W48",
+   "lastSeen": "2026-W48",
+   "_weeks": [
+    "2026-W48"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-33",
+    "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-9"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsb20203/nsb20203figure-link/4-5": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W48",
+   "lastSeen": "2026-W48",
+   "_weeks": [
+    "2026-W48"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20203/supplemental-tables"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsb20203/nsb20203figure-link/4-6": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W48",
+   "lastSeen": "2026-W48",
+   "_weeks": [
+    "2026-W48"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20203/supplemental-tables"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsb20203/nsb20203figure-link/4-7": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W48",
+   "lastSeen": "2026-W48",
+   "_weeks": [
+    "2026-W48"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20203/supplemental-tables"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsb20203/nsb20203figure-link/4-8": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W48",
+   "lastSeen": "2026-W48",
+   "_weeks": [
+    "2026-W48"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20203/supplemental-tables"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsb20203/nsb20203table-link/4-5": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W48",
+   "lastSeen": "2026-W48",
+   "_weeks": [
+    "2026-W48"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20203/supplemental-tables"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsb20203/nsb20203table-link/4-6": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W48",
+   "lastSeen": "2026-W48",
+   "_weeks": [
+    "2026-W48"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20203/supplemental-tables"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsb20203/nsb20203table-link/4-7": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W48",
+   "lastSeen": "2026-W48",
+   "_weeks": [
+    "2026-W48"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20203/supplemental-tables"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsb20203/nsb20203table-link/4-8": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W48",
+   "lastSeen": "2026-W48",
+   "_weeks": [
+    "2026-W48"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20203/supplemental-tables"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsb20203/nsb20203table-link/4-12": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W48",
+   "lastSeen": "2026-W48",
+   "_weeks": [
+    "2026-W48"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20203/supplemental-tables"
+   ]
+  },
+  "https://ncses.nsf.gov/pubs/nsb20203/nsb20203table-link/S4-1": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W48",
+   "lastSeen": "2026-W48",
+   "_weeks": [
+    "2026-W48"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsb20203/supplemental-tables"
    ]
   }
  }

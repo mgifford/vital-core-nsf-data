@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
  "domain": "ncses.nsf.gov",
- "updated_at": "2026-11-23T21:46:12.505Z",
+ "updated_at": "2026-11-24T00:18:35.983Z",
  "urls": {
   "0011f88d24a5ba33": {
    "page_id": "0011f88d24a5ba33",
@@ -579,8 +579,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T19:16:27.972Z"
   },
   "026fa3b424a51b9e": {
    "page_id": "026fa3b424a51b9e",
@@ -899,8 +900,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T12:23:16.306Z"
   },
   "03ad59b1a1982853": {
    "page_id": "03ad59b1a1982853",
@@ -2168,8 +2170,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T20:32:10.026Z"
   },
   "0836616492882441": {
    "page_id": "0836616492882441",
@@ -2248,8 +2251,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T15:12:43.708Z"
   },
   "0887acb3fcc9c4fc": {
    "page_id": "0887acb3fcc9c4fc",
@@ -3271,8 +3275,8 @@
    "page_id": "0c16a819a59c8acd",
    "url": "https://ncses.nsf.gov/pubs/nsb20262/figure/TRN-33",
    "first_discovered_at": "2026-10-26T08:12:32.906Z",
-   "last_attempt_at": "2026-10-27T08:55:14.319Z",
-   "last_success_at": "2026-10-27T08:55:14.319Z",
+   "last_attempt_at": "2026-10-26T08:12:32.906Z",
+   "last_success_at": "2026-10-26T08:12:32.906Z",
    "last_status": 200,
    "last_week": "2026-W44",
    "outcome": "success",
@@ -4139,8 +4143,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T15:14:14.310Z"
   },
   "1039a0ea68dd604c": {
    "page_id": "1039a0ea68dd604c",
@@ -4394,8 +4399,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T15:13:59.179Z"
   },
   "116eebb209e267a4": {
    "page_id": "116eebb209e267a4",
@@ -4804,8 +4810,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T21:42:41.242Z"
   },
   "135b6b6aafe1c6bd": {
    "page_id": "135b6b6aafe1c6bd",
@@ -5887,8 +5894,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T15:11:06.640Z"
   },
   "1926c80dd555b932": {
    "page_id": "1926c80dd555b932",
@@ -5900,8 +5908,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T19:14:30.282Z"
   },
   "193b7f0ea294f334": {
    "page_id": "193b7f0ea294f334",
@@ -6044,8 +6053,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T19:13:25.967Z"
   },
   "19fdcd4c5d947dd8": {
    "page_id": "19fdcd4c5d947dd8",
@@ -6057,8 +6067,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T16:32:47.171Z"
   },
   "1a03f3861459fe8f": {
    "page_id": "1a03f3861459fe8f",
@@ -6174,8 +6185,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T15:14:48.596Z"
   },
   "1a4ca26773d7c0da": {
    "page_id": "1a4ca26773d7c0da",
@@ -8463,8 +8475,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T16:32:03.698Z"
   },
   "24fc8e895acb9480": {
    "page_id": "24fc8e895acb9480",
@@ -8647,8 +8660,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T15:14:30.742Z"
   },
   "25b3dcea63a78a95": {
    "page_id": "25b3dcea63a78a95",
@@ -8901,8 +8915,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T20:32:33.301Z"
   },
   "2680ebd9fef2c1e3": {
    "page_id": "2680ebd9fef2c1e3",
@@ -8988,8 +9003,8 @@
    "page_id": "26ce6302f43e41d9",
    "url": "https://ncses.nsf.gov/pubs/nsf25300/report",
    "first_discovered_at": "2026-10-27T09:59:25.034Z",
-   "last_attempt_at": "2026-10-28T11:40:36.338Z",
-   "last_success_at": "2026-10-28T11:40:36.338Z",
+   "last_attempt_at": "2026-10-27T09:59:25.034Z",
+   "last_success_at": "2026-10-27T09:59:25.034Z",
    "last_status": 200,
    "last_week": "2026-W44",
    "outcome": "success",
@@ -9015,8 +9030,8 @@
    "page_id": "26e2eda3c3712bdf",
    "url": "https://ncses.nsf.gov/pubs/nsf26320/surveypage/table/17522",
    "first_discovered_at": "2026-10-28T09:39:18.645Z",
-   "last_attempt_at": "2026-10-28T16:20:45.649Z",
-   "last_success_at": "2026-10-28T16:20:45.649Z",
+   "last_attempt_at": "2026-10-28T09:39:18.645Z",
+   "last_success_at": "2026-10-28T09:39:18.645Z",
    "last_status": 200,
    "last_week": "2026-W44",
    "outcome": "success",
@@ -9794,8 +9809,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T15:15:10.458Z"
   },
   "2a0611788bcaedc9": {
    "page_id": "2a0611788bcaedc9",
@@ -9901,8 +9917,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T16:32:39.410Z"
   },
   "2a686e5029f9aa89": {
    "page_id": "2a686e5029f9aa89",
@@ -9980,8 +9997,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T16:32:53.884Z"
   },
   "2b0eda931e8d1432": {
    "page_id": "2b0eda931e8d1432",
@@ -10192,8 +10210,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T15:14:23.444Z"
   },
   "2bc47a4d05ae7543": {
    "page_id": "2bc47a4d05ae7543",
@@ -10363,8 +10382,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T19:13:44.461Z"
   },
   "2c5e4a7c99e95f0f": {
    "page_id": "2c5e4a7c99e95f0f",
@@ -10537,8 +10557,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T15:15:18.148Z"
   },
   "2cdc37d497a8ebe1": {
    "page_id": "2cdc37d497a8ebe1",
@@ -10935,8 +10956,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T19:17:07.085Z"
   },
   "2ea8ec5820ab3c1c": {
    "page_id": "2ea8ec5820ab3c1c",
@@ -11384,8 +11406,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T20:33:57.169Z"
   },
   "3139b19ab5573c42": {
    "page_id": "3139b19ab5573c42",
@@ -13698,8 +13721,8 @@
    "page_id": "3b04b28ce1e231e2",
    "url": "https://ncses.nsf.gov/pubs/nsb20262/figure/TRN-15",
    "first_discovered_at": "2026-10-26T16:20:55.656Z",
-   "last_attempt_at": "2026-10-27T14:57:29.583Z",
-   "last_success_at": "2026-10-27T14:57:29.583Z",
+   "last_attempt_at": "2026-10-26T16:20:55.656Z",
+   "last_success_at": "2026-10-26T16:20:55.656Z",
    "last_status": 200,
    "last_week": "2026-W44",
    "outcome": "success",
@@ -14374,8 +14397,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T16:35:14.951Z"
   },
   "3e709d7a36cff7c5": {
    "page_id": "3e709d7a36cff7c5",
@@ -15857,8 +15881,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T19:11:44.664Z"
   },
   "45b19c64440d1191": {
    "page_id": "45b19c64440d1191",
@@ -15870,8 +15895,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T19:15:24.868Z"
   },
   "45c2940cace27545": {
    "page_id": "45c2940cace27545",
@@ -16055,8 +16081,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T15:12:56.285Z"
   },
   "46a9d1549dfa8a76": {
    "page_id": "46a9d1549dfa8a76",
@@ -16185,8 +16212,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T19:12:13.641Z"
   },
   "47014ab17f128830": {
    "page_id": "47014ab17f128830",
@@ -17231,8 +17259,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T20:31:11.341Z"
   },
   "4b86d8eacef1aa1f": {
    "page_id": "4b86d8eacef1aa1f",
@@ -17481,8 +17510,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T20:33:23.493Z"
   },
   "4c6cf3699f891333": {
    "page_id": "4c6cf3699f891333",
@@ -18884,8 +18914,8 @@
    "page_id": "515e3145b72ccd5d",
    "url": "https://ncses.nsf.gov/pubs/nsb20257/references",
    "first_discovered_at": "2026-10-28T16:19:17.825Z",
-   "last_attempt_at": "2026-10-29T11:04:24.043Z",
-   "last_success_at": "2026-10-29T11:04:24.043Z",
+   "last_attempt_at": "2026-10-28T16:19:17.825Z",
+   "last_success_at": "2026-10-28T16:19:17.825Z",
    "last_status": 200,
    "last_week": "2026-W44",
    "outcome": "success",
@@ -19250,8 +19280,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T12:22:18.070Z"
   },
   "52d9177538a2ab18": {
    "page_id": "52d9177538a2ab18",
@@ -19403,8 +19434,8 @@
    "page_id": "533f3f3aa627cc96",
    "url": "https://ncses.nsf.gov/surveys/graduate-students-postdoctorates-s-e/2022",
    "first_discovered_at": "2026-10-27T11:03:50.084Z",
-   "last_attempt_at": "2026-10-27T15:36:51.499Z",
-   "last_success_at": "2026-10-27T15:36:51.499Z",
+   "last_attempt_at": "2026-10-27T11:03:50.084Z",
+   "last_success_at": "2026-10-27T11:03:50.084Z",
    "last_status": 200,
    "last_week": "2026-W44",
    "outcome": "success",
@@ -19741,8 +19772,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T12:19:17.761Z"
   },
   "54b76fa34e893a5c": {
    "page_id": "54b76fa34e893a5c",
@@ -20268,8 +20300,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T16:35:41.875Z"
   },
   "57073c08a64979c9": {
    "page_id": "57073c08a64979c9",
@@ -20295,8 +20328,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T16:34:35.898Z"
   },
   "5722616b3bcffabb": {
    "page_id": "5722616b3bcffabb",
@@ -20467,8 +20501,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T19:14:36.473Z"
   },
   "57bde40233004857": {
    "page_id": "57bde40233004857",
@@ -20639,8 +20674,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T21:43:23.881Z"
   },
   "5895a6538c33f202": {
    "page_id": "5895a6538c33f202",
@@ -21668,8 +21704,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T15:10:46.447Z"
   },
   "5d63dccc5244e19d": {
    "page_id": "5d63dccc5244e19d",
@@ -22162,8 +22199,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T20:32:23.665Z"
   },
   "5f0ff35c6297687b": {
    "page_id": "5f0ff35c6297687b",
@@ -22175,8 +22213,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T20:34:15.370Z"
   },
   "5f134df13a468754": {
    "page_id": "5f134df13a468754",
@@ -22333,8 +22372,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T19:12:42.215Z"
   },
   "5fe328dc1bf511e8": {
    "page_id": "5fe328dc1bf511e8",
@@ -22597,8 +22637,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T15:11:13.762Z"
   },
   "60f44c6f1b880482": {
    "page_id": "60f44c6f1b880482",
@@ -23078,8 +23119,8 @@
    "page_id": "62e83926c079ddd1",
    "url": "https://ncses.nsf.gov/search?aois=Science+and+Engineering+Workforce&query=&topics=Type+of+R%26D+%28basic%2C+applied%2C+experimental+development%29",
    "first_discovered_at": "2026-10-27T14:55:14.109Z",
-   "last_attempt_at": "2026-10-28T11:41:59.880Z",
-   "last_success_at": "2026-10-28T11:41:59.880Z",
+   "last_attempt_at": "2026-10-27T14:55:14.109Z",
+   "last_success_at": "2026-10-27T14:55:14.109Z",
    "last_status": 200,
    "last_week": "2026-W44",
    "outcome": "success",
@@ -23119,8 +23160,8 @@
    "page_id": "63135d806d23c541",
    "url": "https://ncses.nsf.gov/pubs/nsb20262/figure/TRN-25",
    "first_discovered_at": "2026-10-27T14:56:39.868Z",
-   "last_attempt_at": "2026-10-28T09:37:52.682Z",
-   "last_success_at": "2026-10-28T09:37:52.682Z",
+   "last_attempt_at": "2026-10-27T14:56:39.868Z",
+   "last_success_at": "2026-10-27T14:56:39.868Z",
    "last_status": 200,
    "last_week": "2026-W44",
    "outcome": "success",
@@ -24888,8 +24929,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T15:12:22.746Z"
   },
   "6959fee822d6b074": {
    "page_id": "6959fee822d6b074",
@@ -25449,8 +25491,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T16:32:27.039Z"
   },
   "6c460123840bc452": {
    "page_id": "6c460123840bc452",
@@ -26705,8 +26748,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T12:20:25.237Z"
   },
   "71d4aa11754e7ec0": {
    "page_id": "71d4aa11754e7ec0",
@@ -26784,8 +26828,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T20:33:43.998Z"
   },
   "722790a8a7400638": {
    "page_id": "722790a8a7400638",
@@ -26824,8 +26869,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T19:14:45.904Z"
   },
   "7261648e1e0decca": {
    "page_id": "7261648e1e0decca",
@@ -26982,8 +27028,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T15:12:12.373Z"
   },
   "7335db1f14925964": {
    "page_id": "7335db1f14925964",
@@ -27605,8 +27652,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T12:20:18.194Z"
   },
   "75db07cc3db38349": {
    "page_id": "75db07cc3db38349",
@@ -27712,8 +27760,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T15:10:54.044Z"
   },
   "76385b1271d44347": {
    "page_id": "76385b1271d44347",
@@ -28281,8 +28330,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T15:12:36.569Z"
   },
   "78e0beb836de7407": {
    "page_id": "78e0beb836de7407",
@@ -29167,8 +29217,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T12:19:58.315Z"
   },
   "7cb1ea9f489844b1": {
    "page_id": "7cb1ea9f489844b1",
@@ -29472,8 +29523,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T21:43:19.444Z"
   },
   "7e042458b9574ec2": {
    "page_id": "7e042458b9574ec2",
@@ -29844,8 +29896,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T19:13:09.292Z"
   },
   "7f68178d2ab477de": {
    "page_id": "7f68178d2ab477de",
@@ -29857,8 +29910,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T19:16:52.083Z"
   },
   "7f6d033a79c88716": {
    "page_id": "7f6d033a79c88716",
@@ -29903,8 +29957,8 @@
    "page_id": "7f91c506f802ed0a",
    "url": "https://ncses.nsf.gov/pubs/nsf23300/report/notes",
    "first_discovered_at": "2026-10-26T10:31:58.154Z",
-   "last_attempt_at": "2026-10-27T08:56:15.507Z",
-   "last_success_at": "2026-10-27T08:56:15.507Z",
+   "last_attempt_at": "2026-10-26T10:31:58.154Z",
+   "last_success_at": "2026-10-26T10:31:58.154Z",
    "last_status": 200,
    "last_week": "2026-W44",
    "outcome": "success",
@@ -30713,8 +30767,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T16:36:37.976Z"
   },
   "830fbe50b584356d": {
    "page_id": "830fbe50b584356d",
@@ -30739,8 +30794,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T16:34:54.910Z"
   },
   "83429bc67f8c7472": {
    "page_id": "83429bc67f8c7472",
@@ -31019,8 +31075,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T16:35:48.093Z"
   },
   "84543ea94faee26a": {
    "page_id": "84543ea94faee26a",
@@ -31124,8 +31181,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T15:15:32.569Z"
   },
   "8489d44a8241cb46": {
    "page_id": "8489d44a8241cb46",
@@ -31548,8 +31606,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T12:20:48.080Z"
   },
   "8729406366bfaa46": {
    "page_id": "8729406366bfaa46",
@@ -32334,8 +32393,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T21:43:58.347Z"
   },
   "8a84cc4ca5d67127": {
    "page_id": "8a84cc4ca5d67127",
@@ -32732,8 +32792,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T20:31:58.407Z"
   },
   "8c79259e184e8485": {
    "page_id": "8c79259e184e8485",
@@ -32759,8 +32820,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T21:44:26.423Z"
   },
   "8c91dd62be828990": {
    "page_id": "8c91dd62be828990",
@@ -32932,8 +32994,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T21:45:18.882Z"
   },
   "8d2ca66e4f78f0ef": {
    "page_id": "8d2ca66e4f78f0ef",
@@ -33623,8 +33686,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T12:18:57.173Z"
   },
   "8fedc896c2f55a95": {
    "page_id": "8fedc896c2f55a95",
@@ -33754,8 +33818,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T19:14:23.741Z"
   },
   "905dbaf322662460": {
    "page_id": "905dbaf322662460",
@@ -35112,8 +35177,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T21:44:32.630Z"
   },
   "96af916baac26354": {
    "page_id": "96af916baac26354",
@@ -36518,8 +36584,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T15:13:43.313Z"
   },
   "9de4bd850c99c0ab": {
    "page_id": "9de4bd850c99c0ab",
@@ -39397,8 +39464,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T15:13:30.078Z"
   },
   "aa14515faeb2e687": {
    "page_id": "aa14515faeb2e687",
@@ -39504,8 +39572,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T19:16:15.757Z"
   },
   "aac2e1d63474cdb5": {
    "page_id": "aac2e1d63474cdb5",
@@ -39584,8 +39653,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T12:22:55.771Z"
   },
   "ab0c0cde7ce946c1": {
    "page_id": "ab0c0cde7ce946c1",
@@ -39597,8 +39667,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T16:34:42.266Z"
   },
   "ab221fab1afeb342": {
    "page_id": "ab221fab1afeb342",
@@ -40071,8 +40142,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T12:22:25.135Z"
   },
   "ac9f829adcd81093": {
    "page_id": "ac9f829adcd81093",
@@ -40504,8 +40576,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T16:33:57.227Z"
   },
   "ae71df52330065ce": {
    "page_id": "ae71df52330065ce",
@@ -40589,8 +40662,8 @@
    "page_id": "aeab512fd69a2c74",
    "url": "https://ncses.nsf.gov/pubs/ncses25215/section/24086",
    "first_discovered_at": "2026-10-26T15:28:17.152Z",
-   "last_attempt_at": "2026-10-28T14:02:26.016Z",
-   "last_success_at": "2026-10-28T14:02:26.016Z",
+   "last_attempt_at": "2026-10-26T15:28:17.152Z",
+   "last_success_at": "2026-10-26T15:28:17.152Z",
    "last_status": 200,
    "last_week": "2026-W44",
    "outcome": "success",
@@ -42539,8 +42612,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T20:31:47.393Z"
   },
   "b7937c51e5fa55a5": {
    "page_id": "b7937c51e5fa55a5",
@@ -42781,8 +42855,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T20:33:12.196Z"
   },
   "b84591829e52ba28": {
    "page_id": "b84591829e52ba28",
@@ -42808,8 +42883,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T15:11:29.810Z"
   },
   "b87666a0d1dcc0b8": {
    "page_id": "b87666a0d1dcc0b8",
@@ -42935,8 +43011,8 @@
    "page_id": "b91659e738f609da",
    "url": "https://ncses.nsf.gov/indicators/help",
    "first_discovered_at": "2026-10-26T11:35:31.891Z",
-   "last_attempt_at": "2026-10-27T09:59:10.594Z",
-   "last_success_at": "2026-10-27T09:59:10.594Z",
+   "last_attempt_at": "2026-10-26T11:35:31.891Z",
+   "last_success_at": "2026-10-26T11:35:31.891Z",
    "last_status": 200,
    "last_week": "2026-W44",
    "outcome": "success",
@@ -43525,8 +43601,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T20:33:31.706Z"
   },
   "bb84891d14dc1200": {
    "page_id": "bb84891d14dc1200",
@@ -43805,8 +43882,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T16:36:43.368Z"
   },
   "bc5b781b69af9f07": {
    "page_id": "bc5b781b69af9f07",
@@ -43845,8 +43923,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T16:32:17.442Z"
   },
   "bc8901b1e7a82212": {
    "page_id": "bc8901b1e7a82212",
@@ -44066,8 +44145,8 @@
    "page_id": "bd9c220676d23994",
    "url": "https://ncses.nsf.gov/pubs/nsb20262/sidebar/comparing-innovation-across-countries",
    "first_discovered_at": "2026-10-26T08:52:11.926Z",
-   "last_attempt_at": "2026-10-28T09:35:18.637Z",
-   "last_success_at": "2026-10-28T09:35:18.637Z",
+   "last_attempt_at": "2026-10-26T08:52:11.926Z",
+   "last_success_at": "2026-10-26T08:52:11.926Z",
    "last_status": 200,
    "last_week": "2026-W44",
    "outcome": "success",
@@ -44112,8 +44191,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T20:32:58.947Z"
   },
   "bdfb10ea16a96555": {
    "page_id": "bdfb10ea16a96555",
@@ -44256,8 +44336,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T20:34:33.022Z"
   },
   "be9720e4ebf4d866": {
    "page_id": "be9720e4ebf4d866",
@@ -44348,8 +44429,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T19:15:32.063Z"
   },
   "bf09314f428232fe": {
    "page_id": "bf09314f428232fe",
@@ -45922,8 +46004,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T15:11:36.181Z"
   },
   "c554de69481f1b9f": {
    "page_id": "c554de69481f1b9f",
@@ -46668,8 +46751,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T20:33:52.400Z"
   },
   "c9590d6400a0ae97": {
    "page_id": "c9590d6400a0ae97",
@@ -46918,8 +47002,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T21:42:53.421Z"
   },
   "ca41f64e7163333c": {
    "page_id": "ca41f64e7163333c",
@@ -47023,8 +47108,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T20:34:02.299Z"
   },
   "cabc855fa6794e81": {
    "page_id": "cabc855fa6794e81",
@@ -47355,8 +47441,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T19:15:04.449Z"
   },
   "cc3b8464803d0f86": {
    "page_id": "cc3b8464803d0f86",
@@ -47395,8 +47482,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T12:21:50.254Z"
   },
   "cc715c3105cd9f93": {
    "page_id": "cc715c3105cd9f93",
@@ -47728,8 +47816,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T20:33:48.060Z"
   },
   "cdafba30670d9531": {
    "page_id": "cdafba30670d9531",
@@ -47741,8 +47830,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T12:23:03.778Z"
   },
   "cdb8153f7f19b805": {
    "page_id": "cdb8153f7f19b805",
@@ -47900,8 +47990,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T19:13:15.611Z"
   },
   "ce902fb1257fbda9": {
    "page_id": "ce902fb1257fbda9",
@@ -48687,8 +48778,8 @@
    "page_id": "d191293239f9eb2b",
    "url": "https://ncses.nsf.gov/search?aois=Research+and+Development+Funding+and+Performance&query=&topics=R%26D+Funding+by+Government",
    "first_discovered_at": "2026-10-27T13:16:32.437Z",
-   "last_attempt_at": "2026-10-28T10:46:00.342Z",
-   "last_success_at": "2026-10-28T10:46:00.342Z",
+   "last_attempt_at": "2026-10-27T13:16:32.437Z",
+   "last_success_at": "2026-10-27T13:16:32.437Z",
    "last_status": 200,
    "last_week": "2026-W44",
    "outcome": "success",
@@ -48995,8 +49086,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T16:36:03.540Z"
   },
   "d3dd866f05ac08a1": {
    "page_id": "d3dd866f05ac08a1",
@@ -50332,8 +50424,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T15:12:49.991Z"
   },
   "d9aa39301559fe9a": {
    "page_id": "d9aa39301559fe9a",
@@ -52646,8 +52739,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T21:43:30.232Z"
   },
   "e34a1b1cd194208e": {
    "page_id": "e34a1b1cd194208e",
@@ -52959,8 +53053,8 @@
    "page_id": "e4a6d4d0041ac979",
    "url": "https://ncses.nsf.gov/interest-areas/stem",
    "first_discovered_at": "2026-10-26T08:50:28.655Z",
-   "last_attempt_at": "2026-10-26T10:29:23.736Z",
-   "last_success_at": "2026-10-26T10:29:23.736Z",
+   "last_attempt_at": "2026-10-26T08:50:28.655Z",
+   "last_success_at": "2026-10-26T08:50:28.655Z",
    "last_status": 200,
    "last_week": "2026-W44",
    "outcome": "success",
@@ -54145,8 +54239,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T19:16:10.682Z"
   },
   "ea0f48b970a2e9f2": {
    "page_id": "ea0f48b970a2e9f2",
@@ -55230,8 +55325,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T19:16:58.383Z"
   },
   "eeffe46256eb514a": {
    "page_id": "eeffe46256eb514a",
@@ -55784,8 +55880,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T12:19:48.005Z"
   },
   "f1537d9e3c2a4948": {
    "page_id": "f1537d9e3c2a4948",
@@ -56092,8 +56189,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T21:42:32.167Z"
   },
   "f2656101a2977c48": {
    "page_id": "f2656101a2977c48",
@@ -57373,8 +57471,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T21:42:45.423Z"
   },
   "f7dccaaa7c746346": {
    "page_id": "f7dccaaa7c746346",
@@ -57466,8 +57565,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T21:44:46.320Z"
   },
   "f86f37aacf81af23": {
    "page_id": "f86f37aacf81af23",
@@ -58500,8 +58600,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T12:21:25.349Z"
   },
   "fc1cae6581739738": {
    "page_id": "fc1cae6581739738",
@@ -59098,8 +59199,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-23T20:34:28.532Z"
   },
   "ff24667a1769587b": {
    "page_id": "ff24667a1769587b",
