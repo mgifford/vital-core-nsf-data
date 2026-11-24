@@ -1,0 +1,362 @@
+{
+ "runId": "2026-11-24T15-05-36-938Z-80a883",
+ "week": "2026-W48",
+ "domain": "www.nsf.gov",
+ "canonical": {
+  "origin": "https://www.nsf.gov",
+  "configured": "https://www.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-24T15:05:40.482Z",
+ "scanned": [
+  "4fccc06fa3fb84c8",
+  "3c0087df68ee7f49",
+  "eac8d6b1c9ea332d",
+  "7e793f0bd95c0310",
+  "640a1bc95dc5f9b2",
+  "090891044fa10448",
+  "e47ff22fe4067256",
+  "e9f72df5a612b065",
+  "c1ca70b202798757",
+  "57b2f0ea9be67341",
+  "0619c4fb6fac3f07",
+  "463ae198ff58bb43",
+  "8807a2b38b4c2da5",
+  "c35717e0e47668ab",
+  "aba27e2dbcd3dbcd",
+  "8969a5ed44ed208c",
+  "22f85ce0090d185c",
+  "bd439b5f69d5b467",
+  "e14b18da673ffe6c",
+  "d8cf7d97a3712de2",
+  "9687bc325b610c83",
+  "283c6e6effe23641",
+  "26cbfe03d5cc29af",
+  "864259596e3f9bee",
+  "cd25e0d78019bdca"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 349,
+  "checked": 349,
+  "brokenCount": 29,
+  "broken": [
+   {
+    "url": "https://www.grants.gov/",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/environmental-sustainability/501027/pd15-7643",
+     "https://www.nsf.gov/news/nsf-industry-partners-announce-sustainable-polymer-research",
+     "https://www.nsf.gov/funding/opportunities/biophotonics/501025/pd15-7236",
+     "https://www.nsf.gov/funding/opportunities/mps-astro-mps-astronomical-sciences-research-programs/nsf22-624",
+     "https://www.nsf.gov/news/robotics-ai-used-stabilize-enzyme-reduces-scar-tissue",
+     "https://www.nsf.gov/science-matters/nsf-101-expanding-pathways-stem-careers-veterans",
+     "https://www.nsf.gov/policies/document/general-programmatic-terms-conditions-ptcs-proposal-award/nsf16001tptc000",
+     "https://www.nsf.gov/od/ori/updates/update-sacramento-peak-observatory-nsf-dunn-solar-telescope",
+     "https://www.nsf.gov/geo/opp/updates/arctic-field-season-covid-19-update-2023",
+     "https://www.nsf.gov/events/ios-virtual-office-hour-updated-solicitations-synthetic",
+     "https://www.nsf.gov/ocfo/payments-monitoring-travel",
+     "https://www.nsf.gov/events/crest-prp-office-hours",
+     "https://www.nsf.gov/events/section-antarctic-sciences-office-hour",
+     "https://www.nsf.gov/news/alaskas-arctic-coastal-towns-face-extensive-inundation",
+     "https://www.nsf.gov/events/engineering-biomedical-systems-office-hours/2024-07-09",
+     "https://www.nsf.gov/funding/opportunities/nsf-iss-transport-phenomena-research-international-space-station/505258/nsf18-521/solicitation",
+     "https://www.nsf.gov/honorary-awards/pecase/recipients/sergey-levine",
+     "https://www.nsf.gov/funding/opportunities/sse-structural-systems-engineering/13509/14874",
+     "https://www.nsf.gov/funding/opportunities/advanced-computing-systems-services-adapting-rapid-evolution/nsf23-518/solicitation",
+     "https://www.nsf.gov/honorary-awards/pecase/recipients/junqiao-wu",
+     "https://www.nsf.gov/funding/opportunities/cyberinfrastructure-training-education-advancement-mentoring/12782/nsf05-560",
+     "https://www.nsf.gov/funding/opportunities/dcl-emerging-frontiers-research-innovation-planning-grants/nsf22-019",
+     "https://www.nsf.gov/events/information-intelligent-systems-iis-office-hours-17/2024-10-17",
+     "https://www.nsf.gov/funding/opportunities/dcl-supporting-scientific-discovery-through-norms-practices/nsf14-059",
+     "https://www.nsf.gov/funding/opportunities/aced-aced-accelerating-computing-enabled-scientific-discovery/506267/nsf24-541/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.cdc.gov/coronavirus/2019-ncov/index.html",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/geo/opp/updates/arctic-field-season-covid-19-update-2023"
+    ]
+   },
+   {
+    "url": "https://covid19.alaska.gov/travelers/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/geo/opp/updates/arctic-field-season-covid-19-update-2023"
+    ]
+   },
+   {
+    "url": "https://iosblog.nsfbio.com/virtual-office-hours/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/events/ios-virtual-office-hour-updated-solicitations-synthetic"
+    ]
+   },
+   {
+    "url": "https://iosblog.nsfbio.com/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/events/ios-virtual-office-hour-updated-solicitations-synthetic"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/www.research.gov/research-web/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/ocfo/payments-monitoring-travel"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJItceGqrjIuG_llb3U2fNUZnBD87jrwPF4",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/section-antarctic-sciences-office-hour"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/nsf/ere",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/news/alaskas-arctic-coastal-towns-face-extensive-inundation"
+    ]
+   },
+   {
+    "url": "http://www.iss-casis.org/Opportunities/Solicitations/CBET.aspx",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsf-iss-transport-phenomena-research-international-space-station/505258/nsf18-521/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.iss-casis.org/Opportunities/Solicitations/CBET.aspx/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsf-iss-transport-phenomena-research-international-space-station/505258/nsf18-521/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.spacestationresearch.com/facilities-hardware/iss-hardware/",
+    "status": 0,
+    "reason": "EHOSTUNREACH",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsf-iss-transport-phenomena-research-international-space-station/505258/nsf18-521/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.spacestationresearch.com/facilities-hardware/implementation-partners/",
+    "status": 0,
+    "reason": "EHOSTUNREACH",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsf-iss-transport-phenomena-research-international-space-station/505258/nsf18-521/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.grants.gov/web/grants/applicants.html",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsf-iss-transport-phenomena-research-international-space-station/505258/nsf18-521/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.fastlane.nsf.gov/a1/newstan.htm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsf-iss-transport-phenomena-research-international-space-station/505258/nsf18-521/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.grants.gov/",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsf-iss-transport-phenomena-research-international-space-station/505258/nsf18-521/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf14043",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsf-iss-transport-phenomena-research-international-space-station/505258/nsf18-521/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/policies/SOR_PA_NSF-50_Principal_Investigator_Proposal_File.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsf-iss-transport-phenomena-research-international-space-station/505258/nsf18-521/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=aag",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsf-iss-transport-phenomena-research-international-space-station/505258/nsf18-521/solicitation"
+    ]
+   },
+   {
+    "url": "https://allocations.access-ci.org/resource-providers",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/advanced-computing-systems-services-adapting-rapid-evolution/nsf23-518/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.whitehouse.gov/wp-content/uploads/2021/10/National-Strategic-Computing-Reserve-Blueprint-Oct2021.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/advanced-computing-systems-services-adapting-rapid-evolution/nsf23-518/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.grants.gov/web/grants/applicants.html",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/advanced-computing-systems-services-adapting-rapid-evolution/nsf23-518/solicitation",
+     "https://www.nsf.gov/funding/opportunities/aced-aced-accelerating-computing-enabled-scientific-discovery/506267/nsf24-541/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.saferfederalworkforce.gov/contractors/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/advanced-computing-systems-services-adapting-rapid-evolution/nsf23-518/solicitation"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJIsdeiqrj4qHxA3q8n-1VrOPm2UgEYdS68",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/information-intelligent-systems-iis-office-hours-17/2024-10-17"
+    ]
+   },
+   {
+    "url": "http://csid.unt.edu/nsf/idworkshop.php",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-supporting-scientific-discovery-through-norms-practices/nsf14-059"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/cise/aci/cif21/CIF21Vision2012current.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-supporting-scientific-discovery-through-norms-practices/nsf14-059"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/cise/aci/taskforces/TaskForceReport_Data.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-supporting-scientific-discovery-through-norms-practices/nsf14-059"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/cise/aci/taskforces/TaskForceReport_Software.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-supporting-scientific-discovery-through-norms-practices/nsf14-059"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/cise/aci/cif21/DataVision2012.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-supporting-scientific-discovery-through-norms-practices/nsf14-059"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/od/broadeningparticipation/bp_portfolio_dynamic.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/aced-aced-accelerating-computing-enabled-scientific-discovery/506267/nsf24-541/solicitation"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 25,
+  "alfa": 8,
+  "resources": 25,
+  "images": 25,
+  "standards": 16,
+  "link-check": 25,
+  "plain-language": 10,
+  "public-interest": 4,
+  "third-party": 6,
+  "sustainability": 4,
+  "tech": 3,
+  "deprecated-html": 2,
+  "lighthouse": 2,
+  "security": 2
+ },
+ "tally": {
+  "ok": 25,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 3,
+  "error": 0
+ },
+ "finishedAt": "2026-11-24T15:09:39.561Z"
+}
