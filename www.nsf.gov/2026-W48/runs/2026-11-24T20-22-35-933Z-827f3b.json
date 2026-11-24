@@ -1,0 +1,360 @@
+{
+ "runId": "2026-11-24T20-22-35-933Z-827f3b",
+ "week": "2026-W48",
+ "domain": "www.nsf.gov",
+ "canonical": {
+  "origin": "https://www.nsf.gov",
+  "configured": "https://www.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-24T20:22:39.959Z",
+ "scanned": [
+  "8dcb9e21b9ebf102",
+  "2009c8f17073b4d4",
+  "a0c73d0240165fa0",
+  "b299222dea57678b",
+  "206c0e985ac0da2f",
+  "18c5ce75c6b4358d",
+  "f8f45341273d9b08",
+  "d2056ac050926299",
+  "8d9b28864836bd4e",
+  "dedac9726bcd71f1",
+  "b3978132bd707af5",
+  "ffef7222f18d874b",
+  "95c1ac26cc4d1529",
+  "7060123b6b72bc0a",
+  "2036c2cc259a9656",
+  "72838bd3ccb461ab",
+  "b65c4c56849ed1d6",
+  "46cbfd163d0ec262",
+  "e82b7871a2dba8c4",
+  "623c5595dd097c33",
+  "9cb3001875e07834",
+  "4f63a6ecb723881d",
+  "0e0006269d0c21d9",
+  "4f588ff7f88fcdcb",
+  "73c0a44fb777a9ef"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 317,
+  "checked": 317,
+  "brokenCount": 29,
+  "broken": [
+   {
+    "url": "https://www.grants.gov/",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://www.nsf.gov/news/nsf-invests-translating-low-dimensional-semiconductor",
+     "https://www.nsf.gov/reports/statistics/women-minorities-persons-disabilities-science-engineering-0",
+     "https://www.nsf.gov/od/opp/antarctic-research-nsf-23-509-additional-proposal",
+     "https://www.nsf.gov/funding/opportunities/ds-developmental-sciences/8671/nsf02-008",
+     "https://www.nsf.gov/reports/statistics/microbusinesses-performed-56-billion-rd-united-states-2020",
+     "https://www.nsf.gov/news/statement-nsf-fiscal-year-2022-appropriations",
+     "https://www.nsf.gov/funding/opportunities/pawrppo-platforms-advanced-wireless-research-pawr-establishing-pawr/505316/nsf16-585",
+     "https://www.nsf.gov/tip/updates/nsfs-convergence-accelerator-funding-use-inspired-training",
+     "https://www.nsf.gov/events/national-science-board-subcommittee-technology-innovation-1",
+     "https://www.nsf.gov/events/growing-convergence-research-lecture/2022-04-28",
+     "https://www.nsf.gov/events/ncses-skilled-technical-workforce-workshop-2",
+     "https://www.nsf.gov/funding/opportunities/ncclcs-epansf-networks-characterizing-chemical-life-cycle/504811/nsf13-524",
+     "https://www.nsf.gov/funding/initiatives/grfp/reviewers",
+     "https://www.nsf.gov/funding/opportunities/golife-genealogy-life/5129/nsf16-522",
+     "https://www.nsf.gov/funding/opportunities/dcl-alliances-graduate-education-professoriate-agep/nsf10-016",
+     "https://www.nsf.gov/funding/opportunities/nnci-national-nanotechnology-coordinated-infrastructure/505149/nsf15-519",
+     "https://www.nsf.gov/funding/opportunities/avatol-assembling-visualizing-analyzing-tree-life/503629/nsf11-534",
+     "https://www.nsf.gov/oam/evaluation/policy",
+     "https://www.nsf.gov/funding/opportunities/nsee-nanoscale-science-engineering-education/6669/nsf05-543/solicitation",
+     "https://www.nsf.gov/events/cise-research-expansion-nsf-536-office-hours/2024-12-05",
+     "https://www.nsf.gov/funding/opportunities/lter-long-term-ecological-research/7671/nsf13-588",
+     "https://www.nsf.gov/funding/opportunities/aag-astronomy-astrophysics-research-grants/5604/pd00-1678",
+     "https://www.nsf.gov/news/asteroid-formed-ancient-crater-larger-previously-believed",
+     "https://www.nsf.gov/funding/opportunities/engineering-eng-chemical-bioengineering-energy-transport/nsf26-518/solicitation"
+    ]
+   },
+   {
+    "url": "https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsam.gov%2Fworkspace%2Fcontract%2Fopp%2Ffc4611184ad340358c2314151865aef8%2Fview&data=05%7C02%7Ctwestfal%40associates.nsf.gov%7C76543a524dea46d2208308df14e7fb97%7C4939bd9435634244904d6e68ffc9b8cf%7C0%7C0%7C639252658807909510%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=l5WtZ9sLR9NpTyVFfHlmlmT%2Bpj9IbLdTQYdFz4fXpgA%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://www.nsf.gov/news/nsf-invests-translating-low-dimensional-semiconductor"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubs/2017/nsf17016/nsf17016.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/pawrppo-platforms-advanced-wireless-research-pawr-establishing-pawr/505316/nsf16-585"
+    ]
+   },
+   {
+    "url": "http://www.nsf.gov/pubs/2011/nsf11051/nsf11051.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/avatol-assembling-visualizing-analyzing-tree-life/503629/nsf11-534"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubsys/ods/getpub.cfm?nsf04043",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsee-nanoscale-science-engineering-education/6669/nsf05-543/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.ehr.nsf.gov/esie/resawrd/awdbypgm_for_esi.cfm",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsee-nanoscale-science-engineering-education/6669/nsf05-543/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/home/crssprgm/nano/04044_report.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsee-nanoscale-science-engineering-education/6669/nsf05-543/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.ehr.nsf.gov/esie/programs/ise/ise.asp",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsee-nanoscale-science-engineering-education/6669/nsf05-543/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/home/crssprgm/nano/solicitations.htm",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsee-nanoscale-science-engineering-education/6669/nsf05-543/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.nanofab.psu.edu/education/nsf-nue-program.htm",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsee-nanoscale-science-engineering-education/6669/nsf05-543/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.ehr.nsf.gov/due/programs/ccli",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsee-nanoscale-science-engineering-education/6669/nsf05-543/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/nano",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsee-nanoscale-science-engineering-education/6669/nsf05-543/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.ehr.nsf.gov/rec/programs/evaluation/handbook/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsee-nanoscale-science-engineering-education/6669/nsf05-543/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.ehr.nsf.gov/EHR/REC/pubs/NSF97-153/start.htm",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsee-nanoscale-science-engineering-education/6669/nsf05-543/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubs/2001/nsf012/nsf0102_1.html",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsee-nanoscale-science-engineering-education/6669/nsf05-543/solicitation"
+    ]
+   },
+   {
+    "url": "http://comm.nsdl.org/",
+    "status": 0,
+    "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsee-nanoscale-science-engineering-education/6669/nsf05-543/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.fastlane.nsf.gov/a1/newstan.htm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsee-nanoscale-science-engineering-education/6669/nsf05-543/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.wcer.wisc.edu/nise/CL1/flag/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsee-nanoscale-science-engineering-education/6669/nsf05-543/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubsys/ods/getpub.cfm?nsb9772",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsee-nanoscale-science-engineering-education/6669/nsf05-543/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubsys/ods/getpub.cfm?iin127",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsee-nanoscale-science-engineering-education/6669/nsf05-543/solicitation"
+    ]
+   },
+   {
+    "url": "http://iplantcollaborative.org/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/avatol-assembling-visualizing-analyzing-tree-life/503629/nsf11-534"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/home/grants/grants_gac.htm",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsee-nanoscale-science-engineering-education/6669/nsf05-543/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/cgi-bin/getpub?gpm",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsee-nanoscale-science-engineering-education/6669/nsf05-543/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/home/ebulletin",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsee-nanoscale-science-engineering-education/6669/nsf05-543/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/cgi-bin/getpub?gp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsee-nanoscale-science-engineering-education/6669/nsf05-543/solicitation"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJIsfuyrqTojHqaOu9lFqa4r8WqOJ_rZx5A",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/cise-research-expansion-nsf-536-office-hours/2024-12-05"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/home/cns/start.htm",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsee-nanoscale-science-engineering-education/6669/nsf05-543/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.nsf.gov/home/menus/pi.html",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/aag-astronomy-astrophysics-research-grants/5604/pd00-1678"
+    ]
+   },
+   {
+    "url": "http://metamanagement.comm.nsdlib.org/outline.html",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsee-nanoscale-science-engineering-education/6669/nsf05-543/solicitation"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "sustainability": 4,
+  "axe": 24,
+  "alfa": 11,
+  "plain-language": 7,
+  "deprecated-html": 3,
+  "resources": 24,
+  "images": 24,
+  "standards": 12,
+  "security": 2,
+  "third-party": 8,
+  "link-check": 24,
+  "lighthouse": 5,
+  "tech": 3,
+  "public-interest": 1
+ },
+ "tally": {
+  "ok": 24,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 2,
+  "error": 0
+ },
+ "finishedAt": "2026-11-24T20:27:11.783Z"
+}
