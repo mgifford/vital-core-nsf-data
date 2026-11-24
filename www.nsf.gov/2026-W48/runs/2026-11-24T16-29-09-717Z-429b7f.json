@@ -1,0 +1,207 @@
+{
+ "runId": "2026-11-24T16-29-09-717Z-429b7f",
+ "week": "2026-W48",
+ "domain": "www.nsf.gov",
+ "canonical": {
+  "origin": "https://www.nsf.gov",
+  "configured": "https://www.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-24T16:29:12.895Z",
+ "scanned": [
+  "a84ba5741f889753",
+  "c23baa0254a192a4",
+  "760c720d0f83d358",
+  "eeded25d091b552d",
+  "674ca0cd45c016fe",
+  "bc84c916c90cc936",
+  "89214148498697ad",
+  "eb9e1ea2058264e3",
+  "812ceaef8f536676",
+  "319f97203c33f901",
+  "3cde3994cf58ef35",
+  "13bba50d3391c795",
+  "38811d0607ef7dd5",
+  "70e1bb1455884be8",
+  "405d427c9d56fbfb",
+  "bef4194baa5d1f9f",
+  "a69a96128721316f",
+  "ae540bd61b6b1a21",
+  "fe18ef09caceb65e",
+  "ae69187b526b344f",
+  "d0e08da323fb602a",
+  "32d2aef90ccb0953",
+  "4c7a8bb838af92d3",
+  "98263e707cd78085"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 230,
+  "checked": 230,
+  "brokenCount": 10,
+  "broken": [
+   {
+    "url": "https://www.grants.gov/",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/seco-small-business-erc-collaborative-opportunity/503333/nsf10-617",
+     "https://www.nsf.gov/tip/updates/nsf-invests-regional-capacity-accelerate-quantum-enabled",
+     "https://www.nsf.gov/events/national-science-board-committee-oversight",
+     "https://www.nsf.gov/events/nsf-engines-roadshow-2-ct-de-ma-me-nh-nj-ny-pa-ri-vt/2022-05-25",
+     "https://www.nsf.gov/policies/document/grant-general-conditions-gc-1-october-1998",
+     "https://www.nsf.gov/funding/opportunities/cmmt-condensed-matter-materials-theory/505357/nsf18-500",
+     "https://www.nsf.gov/events/national-medal-science-informational-webinar/2022-03-30",
+     "https://www.nsf.gov/funding/opportunities/dcl-us-china-collaborative-research-advanced-sensors-bio/nsf11-024",
+     "https://www.nsf.gov/funding/information/dcl-request-input-development-us-research-security-integrity/nsf23-098",
+     "https://www.nsf.gov/focus-areas/physics",
+     "https://www.nsf.gov/funding/opportunities/initiative-sensing-imaging-technologies-multi-use/5535/nsf00-106",
+     "https://www.nsf.gov/policies/document/general-programmatic-terms-conditions-ptcs-conditions",
+     "https://www.nsf.gov/science-matters/solar-eclipse-offers-researchers-enthusiasts-unique",
+     "https://www.nsf.gov/events/nsf-convergence-accelerator-expo-2022",
+     "https://www.nsf.gov/funding/information/faq-exlent-experiential-learning-emerging-novel-technologies",
+     "https://www.nsf.gov/events/multiple-nsf-directorates-invite-research-security-related/2026-04-02",
+     "https://www.nsf.gov/news/far-out-blazar-discovery-suggests-early-universe-had-more",
+     "https://www.nsf.gov/events/computer-information-science-engineering-research-expansion",
+     "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/raymond-davis",
+     "https://www.nsf.gov/funding/opportunities/imd-instructional-materials-development/5468/nsf05-612",
+     "https://www.nsf.gov/funding/opportunities/nso-national-solar-observatory",
+     "https://www.nsf.gov/od/opp/updates/2024-2025-antarctic-media-visit-status",
+     "https://www.nsf.gov/funding/opportunities/dcl-encouraging-submission-industryuniversity-cooperative/nsf17-061",
+     "https://www.nsf.gov/news/discovery-planet-too-big-its-sun-throws-solar-system"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_Ia0G30zTSi-H5aXJnVIoAQ",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/national-medal-science-informational-webinar/2022-03-30"
+    ]
+   },
+   {
+    "url": "http://www.nsf.nms/gov",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/events/national-medal-science-informational-webinar/2022-03-30"
+    ]
+   },
+   {
+    "url": "http://www.fastlane.nsf.gov/honawards/",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/events/national-medal-science-informational-webinar/2022-03-30"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_vkOR6TrlRR6sb-03wmMYXA",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/information/dcl-request-input-development-us-research-security-integrity/nsf23-098"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/eng/efri/fy09awards_BSBA.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-us-china-collaborative-research-advanced-sensors-bio/nsf11-024"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=aag",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-us-china-collaborative-research-advanced-sensors-bio/nsf11-024"
+    ]
+   },
+   {
+    "url": "https://nsf-ca-expo2022.vfairs.com/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/events/nsf-convergence-accelerator-expo-2022"
+    ]
+   },
+   {
+    "url": "https://eclipse.boulder.swri.edu/",
+    "status": 0,
+    "reason": "EHOSTUNREACH",
+    "foundOn": [
+     "https://www.nsf.gov/science-matters/solar-eclipse-offers-researchers-enthusiasts-unique"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJIsdOmuqzIiHAE649mwlF6gpreNoHJv4x0",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/computer-information-science-engineering-research-expansion"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 24,
+  "plain-language": 16,
+  "resources": 24,
+  "images": 24,
+  "standards": 12,
+  "tech": 5,
+  "link-check": 24,
+  "alfa": 12,
+  "deprecated-html": 1,
+  "third-party": 6,
+  "public-interest": 5,
+  "sustainability": 2,
+  "lighthouse": 1,
+  "security": 1
+ },
+ "tally": {
+  "ok": 24,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 1,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 2,
+  "error": 0
+ },
+ "finishedAt": "2026-11-24T16:32:39.610Z"
+}
