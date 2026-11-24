@@ -1,0 +1,452 @@
+{
+ "runId": "2026-11-24T13-33-25-688Z-b0e492",
+ "week": "2026-W48",
+ "domain": "www.nsf.gov",
+ "canonical": {
+  "origin": "https://www.nsf.gov",
+  "configured": "https://www.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-24T13:33:28.102Z",
+ "scanned": [
+  "ee57082dc72c5f0c",
+  "2ff6dfa183820e46",
+  "17a7e07aca8907d5",
+  "ad0c7a1a0106a4f6",
+  "7e28485fbf81c0dc",
+  "2f20c8f4d60c6168",
+  "fe55ce94d9c694d9",
+  "fa2c16fe64608e74",
+  "bbf20d3a2f5ed8d8",
+  "ea9c2e7ef686240b",
+  "9407bcf40d6fd647",
+  "71a9e1d1921e013f",
+  "8ae18cb9208c5fe0",
+  "cea9ee66ba4560e3",
+  "63f82b365355c6f6",
+  "3cdeaf3f0575acc9",
+  "5714fdf3cdd37ae1",
+  "e9e043a9b92d7114",
+  "96a96a9562f1e15e",
+  "29eb1fa3e5b7aaef",
+  "8f293a592ddc7f4f",
+  "565a239b681c3800",
+  "71a76fca6d3cc2e1",
+  "c79ad97dd51d3fda"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 398,
+  "checked": 398,
+  "brokenCount": 40,
+  "broken": [
+   {
+    "url": "https://www.grants.gov/",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/urc-undergraduate-research-collaboratives/6675/nsf06-521",
+     "https://www.nsf.gov/reports/nsb/board/toward-more-effective-role-us-government-international",
+     "https://www.nsf.gov/events/nsf-listening-session-online-learningassessment/2021-01-15",
+     "https://www.nsf.gov/news/podcast-new-world-collaborative-aerial-robots",
+     "https://www.nsf.gov/events/2024-crises-program-webinar/2024-06-03",
+     "https://www.nsf.gov/funding/opportunities/dmuu-decision-making-under-uncertainty-collaborative-groups/503374/nsf09-544/solicitation",
+     "https://www.nsf.gov/news/nsf-aacc-2024-community-college-winners",
+     "https://www.nsf.gov/funding/opportunities/pgrp-plant-genome-research-program/5338/nsf21-507/solicitation",
+     "https://www.nsf.gov/funding/opportunities/bread-basic-research-enable-agricultural-development/503285/nsf11-579/solicitation",
+     "https://www.nsf.gov/funding/opportunities/epiic-enabling-partnerships-increase-innovation-capacity/506124/nsf23-625",
+     "https://www.nsf.gov/honorary-awards/pecase/recipients/veena-misra",
+     "https://www.nsf.gov/reports/performance/nsf-fy-2021-performance-financial-highlights",
+     "https://www.nsf.gov/funding/opportunities/dcl-conducting-future-cloud-research-leveraging-nsffuturecloud/nsf15-081",
+     "https://www.nsf.gov/reports/statistics/baccalaureate-origins-us-research-doctorate-recipients",
+     "https://www.nsf.gov/funding/opportunities/nsf-convergence-accelerator-phases-1-2-2025-cohort/506015/nsf23-590/solicitation",
+     "https://www.nsf.gov/reports/nsb/testimony/testimony-regarding-fy-2005-budget-request",
+     "https://www.nsf.gov/author-tools/components/video",
+     "https://www.nsf.gov/funding/opportunities/leadership-class-system-acquisition-creating-petascale/13649/nsf06-573/solicitation",
+     "https://www.nsf.gov/news/nsf-noblereach-emerge-partner-new-effort-speed-biotechnology-0",
+     "https://www.nsf.gov/funding/opportunities/future-core-computer-information-science-engineering-future-computing/nsf22-631/solicitation",
+     "https://www.nsf.gov/science-matters/nsf-greenland-promoting-novel-research-improving",
+     "https://www.nsf.gov/funding/information/faq-removal-deadlines-mathematical-biology-program",
+     "https://www.nsf.gov/funding/opportunities/ncs-integrative-strategies-understanding-neural-cognitive/505132/nsf21-517"
+    ]
+   },
+   {
+    "url": "http://www.nsf.gov/mps/che/nuggets/nuggets_urc.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/urc-undergraduate-research-collaboratives/6675/nsf06-521"
+    ]
+   },
+   {
+    "url": "http://www.scu.edu/cas/research/urc.cfm",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/urc-undergraduate-research-collaboratives/6675/nsf06-521"
+    ]
+   },
+   {
+    "url": "https://ida-org.zoomgov.com/meeting/register/vJIsf-yqqz0rHXow4guOYtjQlSi7EYq0rhc",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/nsf-listening-session-online-learningassessment/2021-01-15"
+    ]
+   },
+   {
+    "url": "https://www.fastlane.nsf.gov/a1/newstan.htm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dmuu-decision-making-under-uncertainty-collaborative-groups/503374/nsf09-544/solicitation",
+     "https://www.nsf.gov/funding/opportunities/bread-basic-research-enable-agricultural-development/503285/nsf11-579/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.grants.gov/CustomerSupport",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dmuu-decision-making-under-uncertainty-collaborative-groups/503374/nsf09-544/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.grants.gov/",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dmuu-decision-making-under-uncertainty-collaborative-groups/503374/nsf09-544/solicitation",
+     "https://www.nsf.gov/funding/opportunities/bread-basic-research-enable-agricultural-development/503285/nsf11-579/solicitation",
+     "https://www.nsf.gov/funding/opportunities/leadership-class-system-acquisition-creating-petascale/13649/nsf06-573/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=aag",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dmuu-decision-making-under-uncertainty-collaborative-groups/503374/nsf09-544/solicitation",
+     "https://www.nsf.gov/funding/opportunities/bread-basic-research-enable-agricultural-development/503285/nsf11-579/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubs/issuances/in147.jsp?org=NSF",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/pgrp-plant-genome-research-program/5338/nsf21-507/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/od/oia/activities/ceose/reports/2019-2020-ceose-letter-to-colleagues-508.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/pgrp-plant-genome-research-program/5338/nsf21-507/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/od/oia/publications/Broader_Impacts.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/pgrp-plant-genome-research-program/5338/nsf21-507/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.grants.gov/web/grants/applicants.html",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/pgrp-plant-genome-research-program/5338/nsf21-507/solicitation",
+     "https://www.nsf.gov/funding/opportunities/nsf-convergence-accelerator-phases-1-2-2025-cohort/506015/nsf23-590/solicitation",
+     "https://www.nsf.gov/funding/opportunities/future-core-computer-information-science-engineering-future-computing/nsf22-631/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf18045",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/pgrp-plant-genome-research-program/5338/nsf21-507/solicitation"
+    ]
+   },
+   {
+    "url": "http://urc.arizona.edu/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/urc-undergraduate-research-collaboratives/6675/nsf06-521"
+    ]
+   },
+   {
+    "url": "http://www.worldbank.org/data/countryclass/classgroups.htm",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/bread-basic-research-enable-agricultural-development/503285/nsf11-579/solicitation"
+    ]
+   },
+   {
+    "url": "https://extwiki.nsf.gov/x/JgCF",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/bread-basic-research-enable-agricultural-development/503285/nsf11-579/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.fastlane.nsf.gov/NSFHelp/Printdocs/FastLane_Help/pd_fastlane_registration/pd_fastlane_registration.pdf",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/bread-basic-research-enable-agricultural-development/503285/nsf11-579/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.ccr.gov/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/bread-basic-research-enable-agricultural-development/503285/nsf11-579/solicitation"
+    ]
+   },
+   {
+    "url": "http://fedgov.dnb.com/webform",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/bread-basic-research-enable-agricultural-development/503285/nsf11-579/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/bio/pubs/reports/npgi_five_year_plan_2009_2013.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/bread-basic-research-enable-agricultural-development/503285/nsf11-579/solicitation"
+    ]
+   },
+   {
+    "url": "http://bms.brown.edu/fogarty/codes.htm",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/bread-basic-research-enable-agricultural-development/503285/nsf11-579/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/bio/pubs/awards/bread10.htm?WT.si_n=ClickedAbstractsRecentAwards&WT.si_x=1&WT.si_cs=1&WT.z_pims_id=503285&",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/bread-basic-research-enable-agricultural-development/503285/nsf11-579/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubs/2007/in130/in130.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/bread-basic-research-enable-agricultural-development/503285/nsf11-579/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/policies/SOR_PA_NSF-50_Principal_Investigator_Proposal_File.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/bread-basic-research-enable-agricultural-development/503285/nsf11-579/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.aphis.usda.gov/programs/ag_selectagent/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/bread-basic-research-enable-agricultural-development/503285/nsf11-579/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.cdc.gov/nceh/casper/pdf-html/flint_water_crisis_pdf.html",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsf-convergence-accelerator-phases-1-2-2025-cohort/506015/nsf23-590/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.globalchange.gov/nna",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsf-convergence-accelerator-phases-1-2-2025-cohort/506015/nsf23-590/solicitation"
+    ]
+   },
+   {
+    "url": "https://report.ipcc.ch/ar6/wg2/IPCC_AR6_WGII_FullReport.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsf-convergence-accelerator-phases-1-2-2025-cohort/506015/nsf23-590/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/od/broadeningparticipation/bp.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsf-convergence-accelerator-phases-1-2-2025-cohort/506015/nsf23-590/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/od/broadeningparticipation/resources/BIO_BroadeningParticipation_2021_BR_v1Bmt_508_Final.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsf-convergence-accelerator-phases-1-2-2025-cohort/506015/nsf23-590/solicitation"
+    ]
+   },
+   {
+    "url": "http://www07.grants.gov/applicants/app_help_reso.jsp",
+    "status": 0,
+    "reason": "EAI_AGAIN",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/bread-basic-research-enable-agricultural-development/503285/nsf11-579/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.cdc.gov/foodsafety/foodborne-germs.html",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/nsf-convergence-accelerator-phases-1-2-2025-cohort/506015/nsf23-590/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.teragrid.org/userinfo/guide_access_accounts.html",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/leadership-class-system-acquisition-creating-petascale/13649/nsf06-573/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.fastlane.nsf.gov/a1/newstan.htm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/leadership-class-system-acquisition-creating-petascale/13649/nsf06-573/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/home/grants/grants_gac.htm",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/leadership-class-system-acquisition-creating-petascale/13649/nsf06-573/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/div/index.jsp?div=OCI",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/leadership-class-system-acquisition-creating-petascale/13649/nsf06-573/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubs/2006/nsf0605/nsf0605.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/leadership-class-system-acquisition-creating-petascale/13649/nsf06-573/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/cgi-bin/getpub?gpm",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/leadership-class-system-acquisition-creating-petascale/13649/nsf06-573/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/cise/bpc",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/future-core-computer-information-science-engineering-future-computing/nsf22-631/solicitation"
+    ]
+   },
+   {
+    "url": "https://ccrivo.org/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/future-core-computer-information-science-engineering-future-computing/nsf22-631/solicitation"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 23,
+  "deprecated-html": 2,
+  "resources": 23,
+  "images": 23,
+  "public-interest": 5,
+  "link-check": 23,
+  "sustainability": 2,
+  "alfa": 6,
+  "plain-language": 9,
+  "standards": 9,
+  "third-party": 4,
+  "security": 1,
+  "lighthouse": 2,
+  "tech": 1
+ },
+ "tally": {
+  "ok": 23,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 1,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 3,
+  "error": 0
+ },
+ "finishedAt": "2026-11-24T13:37:09.051Z"
+}
