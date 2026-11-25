@@ -1,0 +1,269 @@
+{
+ "runId": "2026-11-25T19-37-07-774Z-ff48fe",
+ "week": "2026-W48",
+ "domain": "www.nsf.gov",
+ "canonical": {
+  "origin": "https://www.nsf.gov",
+  "configured": "https://www.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-25T19:37:09.706Z",
+ "scanned": [
+  "732e30b0160c6ade",
+  "b3a08270b51c260e",
+  "628b4e7353a1ae5a",
+  "e19aa36a19f5ca16",
+  "167500e99faf3fe7",
+  "bfcd192d01a3ce60",
+  "6f57831979eaa72b",
+  "8f1251198da282c4",
+  "ea7b2d28b77434ad",
+  "c27895698c868304",
+  "75f6a0a5ddb1eaf4",
+  "112b9c4391ad494c",
+  "2199e4d63e085c79",
+  "f7afc3c702839b53",
+  "1912f322a037ff3e",
+  "bb78f4c617820a44",
+  "3fee2980d61e2187",
+  "ceb534198d36b77f",
+  "c6922061d675480a",
+  "f3e35f00b99e9990",
+  "484858ebb14221ea",
+  "7c6e54b7b5eaf776",
+  "20ecba168c4fe1d8",
+  "745a6f5d9a73bbc3"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 273,
+  "checked": 273,
+  "brokenCount": 18,
+  "broken": [
+   {
+    "url": "https://www.grants.gov/",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/cyber-trust/6191/nsf04-524/solicitation",
+     "https://www.nsf.gov/honorary-awards/pecase/recipients/eric-c-greene",
+     "https://www.nsf.gov/funding/opportunities/anes-2024-american-national-election-study-competition/505933/nsf21-601/solicitation",
+     "https://www.nsf.gov/events/human-centered-data-disaster-resilience-research-webinar/2023-06-16",
+     "https://www.nsf.gov/funding/opportunities/srs-rns-sustainable-regional-systems-research-networks/506222/updates/105048",
+     "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/leroy-hood",
+     "https://www.nsf.gov/funding/opportunities/dsc-data-science-corps/505536/nsf24-560",
+     "https://www.nsf.gov/reports/topical/pathways-broadening-participation-response-ceose-2011-2012",
+     "https://www.nsf.gov/funding/opportunities/mri-major-research-instrumentation-program",
+     "https://www.nsf.gov/notices/important/important-notice-no-133-impact-fy-2013-sequestration-order/in133",
+     "https://www.nsf.gov/geo/updates/announcement-new-decadal-survey-division-ocean-sciences",
+     "https://www.nsf.gov/funding/opportunities/gem-geospace-environment-modeling/5506/nsf18-543",
+     "https://www.nsf.gov/tip/updates/nsf-announces-18-teams-advancing-final-round-vital-prize",
+     "https://www.nsf.gov/od/opp/updates/statement-dr-kelly-k-falkner-regarding-covid-19-antarctica",
+     "https://www.nsf.gov/funding/opportunities/mid-scale-ri-1-mid-scale-research-infrastructure-1/updates",
+     "https://www.nsf.gov/funding/opportunities/microbial-observatories-mo-microbial-interactions-processes/6166/nsf05-600",
+     "https://www.nsf.gov/events/national-science-board-committee-oversight-co-teleconference-27",
+     "https://www.nsf.gov/events/expandai-virtual-office-hours-1/2024-06-17",
+     "https://www.nsf.gov/funding/opportunities/spse-structure-physics-solid-earth/506377/nsf25-518",
+     "https://www.nsf.gov/events/join-monday-june-10-2024-thursday-june-13-2024-virtual/2024-06-10",
+     "https://www.nsf.gov/policies/document/general-programmatic-terms-conditions-materials-research",
+     "https://www.nsf.gov/events/dmr-open-hour-annual-final-project-reports-qa/2023-12-15"
+    ]
+   },
+   {
+    "url": "http://www.fastlane.nsf.gov/a1/newstan.htm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/cyber-trust/6191/nsf04-524/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/home/grants/grants_gac.htm",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/cyber-trust/6191/nsf04-524/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubsys/ods/getpub.cfm?iin127",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/cyber-trust/6191/nsf04-524/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.nsf.gov/pubsys/ods/getpub.cfm?nsf04017",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/cyber-trust/6191/nsf04-524/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubsys/ods/getpub.cfm?nsb9772",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/cyber-trust/6191/nsf04-524/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/cgi-bin/getpub?gpm",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/cyber-trust/6191/nsf04-524/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/home/cns/start.htm",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/cyber-trust/6191/nsf04-524/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/home/ebulletin",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/cyber-trust/6191/nsf04-524/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/cgi-bin/getpub?gp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/cyber-trust/6191/nsf04-524/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.fastlane.nsf.gov/a1/newstan.htm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/anes-2024-american-national-election-study-competition/505933/nsf21-601/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.grants.gov/web/grants/applicants.html",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/anes-2024-american-national-election-study-competition/505933/nsf21-601/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf18045",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/anes-2024-american-national-election-study-competition/505933/nsf21-601/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.nsf.gov/bio/pubs/awards/mo.htm",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/microbial-observatories-mo-microbial-interactions-processes/6166/nsf05-600"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJItfuCqpzwjEoNQ6_yfpRRJeX8jkIQKgMc",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/join-monday-june-10-2024-thursday-june-13-2024-virtual/2024-06-10"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJIsfuGurz8oHURH1iQFnVdiyT3vVFd_dWA",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/join-monday-june-10-2024-thursday-june-13-2024-virtual/2024-06-10"
+    ]
+   },
+   {
+    "url": "http://aten.igpp.ucla.edu/gemwiki/index.php/Main_Page",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/gem-geospace-environment-modeling/5506/nsf18-543"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/meeting/register/vJIsdu2hqDItGq1VIdkRCQxBGFqnI5CfET4",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/dmr-open-hour-annual-final-project-reports-qa/2023-12-15"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 22,
+  "alfa": 9,
+  "resources": 22,
+  "images": 22,
+  "security": 4,
+  "link-check": 22,
+  "sustainability": 2,
+  "plain-language": 11,
+  "third-party": 5,
+  "standards": 5,
+  "public-interest": 3,
+  "lighthouse": 3,
+  "tech": 2,
+  "deprecated-html": 2
+ },
+ "tally": {
+  "ok": 22,
+  "blocked": 2,
+  "timeout": 0,
+  "robots_skipped": 1,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 4,
+  "error": 0
+ },
+ "finishedAt": "2026-11-25T19:40:52.555Z"
+}
