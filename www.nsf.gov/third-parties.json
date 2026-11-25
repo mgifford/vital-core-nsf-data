@@ -1,6 +1,6 @@
 {
  "domain": "www.nsf.gov",
- "updatedAt": "2026-11-24T00:18:33.731Z",
+ "updatedAt": "2026-11-25T21:58:08.447Z",
  "vendors": {
   "awswaf.com": {
    "firstSeen": "2026-W43",
@@ -182,72 +182,78 @@
   },
   "youtube.com": {
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W43",
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W48"
    ],
-   "weeksSeen": 4,
+   "weeksSeen": 5,
    "isScriptVendor": true
   },
   "gstatic.com": {
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W43",
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W48"
    ],
-   "weeksSeen": 4,
+   "weeksSeen": 5,
    "isScriptVendor": false
   },
   "google.com": {
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W43",
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W48"
    ],
-   "weeksSeen": 4,
+   "weeksSeen": 5,
    "isScriptVendor": true
   },
   "doubleclick.net": {
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W43",
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W48"
    ],
-   "weeksSeen": 4,
+   "weeksSeen": 5,
    "isScriptVendor": true
   },
   "googleapis.com": {
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W43",
     "2026-W44",
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W48"
    ],
-   "weeksSeen": 4,
+   "weeksSeen": 5,
    "isScriptVendor": false
   },
   "ytimg.com": {
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W48"
    ],
-   "weeksSeen": 2,
+   "weeksSeen": 3,
    "isScriptVendor": false
   },
   "cloudflare.com": {

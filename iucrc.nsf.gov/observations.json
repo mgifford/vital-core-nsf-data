@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
  "domain": "iucrc.nsf.gov",
- "updated_at": "2026-11-24T18:52:03.729Z",
+ "updated_at": "2026-11-25T21:58:11.967Z",
  "urls": {
   "002fef63abed1048": {
    "page_id": "002fef63abed1048",
@@ -2220,11 +2220,11 @@
    "page_id": "b05a23dd9f789690",
    "url": "https://iucrc.nsf.gov/centers",
    "first_discovered_at": "2026-10-26T11:47:31.645Z",
-   "last_attempt_at": "2026-11-24T16:29:05.112Z",
+   "last_attempt_at": "2026-10-26T11:47:31.645Z",
    "last_success_at": "2026-10-26T11:47:31.645Z",
-   "last_status": "redirect",
-   "last_week": "2026-W48",
-   "outcome": "failed",
+   "last_status": 200,
+   "last_week": "2026-W44",
+   "outcome": "success",
    "fail_count": 0,
    "clean": false,
    "first_finding_at": "2026-10-26T11:47:31.645Z",

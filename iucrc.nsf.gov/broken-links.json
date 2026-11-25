@@ -1,6 +1,6 @@
 {
  "domain": "iucrc.nsf.gov",
- "updatedAt": "2026-11-24T00:18:38.757Z",
+ "updatedAt": "2026-11-25T21:58:12.303Z",
  "links": {
   "https://iucrc.nsf.gov/centers/center-for-research-in-systems-and-storage-crss": {
    "status": 404,
@@ -17,7 +17,8 @@
    "weeksBroken": 5,
    "foundOn": [
     "https://iucrc.nsf.gov/centers/focus-area/information-communication-and-computing",
-    "https://iucrc.nsf.gov/centers?foc=&prifoc=1&sta=&uni="
+    "https://iucrc.nsf.gov/centers?foc=&prifoc=1&sta=&uni=",
+    "https://iucrc.nsf.gov/centers?foc=&prifoc=0&sta=&uni="
    ]
   },
   "https://iucrc.nsf.gov/centers/center-for-electric-connected-and-autonomous-technologies-for-mobility-ecat": {
@@ -35,7 +36,8 @@
    "weeksBroken": 5,
    "foundOn": [
     "https://iucrc.nsf.gov/centers/focus-area/information-communication-and-computing",
-    "https://iucrc.nsf.gov/centers?foc=&prifoc=1&sta=&uni="
+    "https://iucrc.nsf.gov/centers?foc=&prifoc=1&sta=&uni=",
+    "https://iucrc.nsf.gov/centers?foc=&prifoc=0&sta=&uni="
    ]
   },
   "https://chapulfarms.com/chapul-farms": {
@@ -117,7 +119,10 @@
    "foundOn": [
     "https://iucrc.nsf.gov/centers/focus-area/energy-and-environment/page/3",
     "https://iucrc.nsf.gov/centers?foc=&prifoc=1&sta=&uni=",
-    "https://iucrc.nsf.gov/centers/focus-area/energy-and-environment/page/2"
+    "https://iucrc.nsf.gov/centers/focus-area/energy-and-environment/page/2",
+    "https://iucrc.nsf.gov/centers/focus-area/energy-and-environment",
+    "https://iucrc.nsf.gov/centers?foc=&prifoc=0&sta=&uni=",
+    "https://iucrc.nsf.gov/centers/focus-area/energy-and-environment/page/4"
    ]
   },
   "https://mds-rely.org/": {
@@ -278,14 +283,15 @@
    "status": 0,
    "reason": "ERR_HTTP2_STREAM_ERROR",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W47",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W44",
     "2026-W45",
     "2026-W46",
-    "2026-W47"
+    "2026-W47",
+    "2026-W48"
    ],
-   "weeksBroken": 4,
+   "weeksBroken": 5,
    "foundOn": [
     "https://iucrc.nsf.gov/centers/center-for-advanced-semiconductor-chips-with-accelerated-performance",
     "https://iucrc.nsf.gov/centers/center-for-intelligent-distributed-embedded-applications-and-systems-ideas"
@@ -496,14 +502,15 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W47",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W44",
     "2026-W45",
     "2026-W46",
-    "2026-W47"
+    "2026-W47",
+    "2026-W48"
    ],
-   "weeksBroken": 4,
+   "weeksBroken": 5,
    "foundOn": [
     "https://iucrc.nsf.gov/universities/solicitation"
    ]
@@ -1050,12 +1057,13 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W48"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
     "https://iucrc.nsf.gov/centers/center-for-identification-technology-research"
    ]
@@ -1064,12 +1072,13 @@
    "status": 0,
    "reason": "ENOTFOUND",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W48"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
     "https://iucrc.nsf.gov/centers/center-for-identification-technology-research"
    ]

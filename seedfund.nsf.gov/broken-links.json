@@ -1,6 +1,6 @@
 {
  "domain": "seedfund.nsf.gov",
- "updatedAt": "2026-11-24T00:18:40.054Z",
+ "updatedAt": "2026-11-25T21:58:13.547Z",
  "links": {
   "https://relavomedical.com/": {
    "status": 0,
@@ -63,13 +63,14 @@
    "status": 0,
    "reason": "ERR_SSL_TLSV1_ALERT_INTERNAL_ERROR",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W47",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W43",
     "2026-W46",
-    "2026-W47"
+    "2026-W47",
+    "2026-W48"
    ],
-   "weeksBroken": 3,
+   "weeksBroken": 4,
    "foundOn": [
     "https://seedfund.nsf.gov/topics/super-intelligence-f"
    ]
@@ -78,13 +79,14 @@
    "status": 0,
    "reason": "ENOTFOUND",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W47",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W43",
     "2026-W45",
-    "2026-W47"
+    "2026-W47",
+    "2026-W48"
    ],
-   "weeksBroken": 3,
+   "weeksBroken": 4,
    "foundOn": [
     "https://seedfund.nsf.gov/styleguide"
    ]
@@ -122,7 +124,11 @@
     "https://seedfund.nsf.gov/centers/ceps/novel-aerogel-based-insulation-may-transform-building-efficiency",
     "https://seedfund.nsf.gov/centers/ceps/high-carotenoid-orange-corn-promises-nutritional-enhancement",
     "https://seedfund.nsf.gov/centers/ceps/paper-coating-enables-worlds-first-water-filter-for-pennies",
-    "https://seedfund.nsf.gov/centers/ceps/combating-pests-with-a-new-class-of-rna-based-pesticides"
+    "https://seedfund.nsf.gov/centers/ceps/combating-pests-with-a-new-class-of-rna-based-pesticides",
+    "https://seedfund.nsf.gov/centers/ceps/novel-additives-promise-strong-lightweight-composites-for-commercial-transportation",
+    "https://seedfund.nsf.gov/centers/ceps/a-novel-low-cost-sustainable-process-to-produce-silicon-carbide",
+    "https://seedfund.nsf.gov/centers/ceps/industrial-3d-printing-surges-forward-with-high-performance-elastomers",
+    "https://seedfund.nsf.gov/centers/ceps/a-sustainable-alternative-to-performance-plastics-makes-a-debut"
    ]
   },
   "http://www.pcka.com/": {
@@ -248,7 +254,8 @@
    ],
    "weeksBroken": 5,
    "foundOn": [
-    "https://seedfund.nsf.gov/resources/awardees/supplement/overview"
+    "https://seedfund.nsf.gov/resources/awardees/supplement/overview",
+    "https://seedfund.nsf.gov/resources/awardees/supplement/additional"
    ]
   },
   "http://www.miradatechnologies.com/": {
@@ -377,12 +384,13 @@
    "status": 0,
    "reason": "ENOTFOUND",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W47",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W44",
-    "2026-W47"
+    "2026-W47",
+    "2026-W48"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
     "https://seedfund.nsf.gov/awardees/history/details?company=sonera-magnetics-inc"
    ]
@@ -638,16 +646,16 @@
    "status": 402,
    "reason": "HTTP 402",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W47",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W44",
     "2026-W45",
-    "2026-W47"
+    "2026-W47",
+    "2026-W48"
    ],
-   "weeksBroken": 3,
+   "weeksBroken": 4,
    "foundOn": [
-    "https://seedfund.nsf.gov/showcase/news",
-    "https://seedfund.nsf.gov/news/MicrobialInsights"
+    "https://seedfund.nsf.gov/showcase/news"
    ]
   },
   "https://www.skiptek.com/": {
@@ -769,16 +777,16 @@
    "status": 0,
    "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W47",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W44",
     "2026-W45",
     "2026-W46",
-    "2026-W47"
+    "2026-W47",
+    "2026-W48"
    ],
-   "weeksBroken": 4,
+   "weeksBroken": 5,
    "foundOn": [
-    "https://seedfund.nsf.gov/news/clearflame",
     "https://seedfund.nsf.gov/what-we-fund"
    ]
   },
@@ -842,12 +850,13 @@
    "status": 503,
    "reason": "HTTP 503",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W48"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
     "https://seedfund.nsf.gov/portfolio/details?company=yesse-technologies-inc"
    ]
@@ -992,12 +1001,13 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W47",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W45",
-    "2026-W47"
+    "2026-W47",
+    "2026-W48"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
     "https://seedfund.nsf.gov/news/slooh"
    ]
@@ -1147,12 +1157,13 @@
    "status": 0,
    "reason": "ENOTFOUND",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W48"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
     "https://seedfund.nsf.gov/resources/additional-resources"
    ]
@@ -1161,12 +1172,13 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W45",
-    "2026-W46"
+    "2026-W46",
+    "2026-W48"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
     "https://seedfund.nsf.gov/resources/additional-resources"
    ]
@@ -1320,11 +1332,12 @@
    "status": 0,
    "reason": "ERR_HTTP2_STREAM_ERROR",
    "firstSeen": "2026-W47",
-   "lastSeen": "2026-W47",
+   "lastSeen": "2026-W48",
    "_weeks": [
-    "2026-W47"
+    "2026-W47",
+    "2026-W48"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://seedfund.nsf.gov/news/next"
    ]
@@ -1372,11 +1385,12 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W47",
-   "lastSeen": "2026-W47",
+   "lastSeen": "2026-W48",
    "_weeks": [
-    "2026-W47"
+    "2026-W47",
+    "2026-W48"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
     "https://seedfund.nsf.gov/awardees/phase-2/details?company=superior-nano-llc"
    ]
@@ -1445,6 +1459,58 @@
    "weeksBroken": 1,
    "foundOn": [
     "https://seedfund.nsf.gov/awardees/history/details?company=illuminant-surgical-inc"
+   ]
+  },
+  "https://www.voguebusiness.com/sustainability/unspun-launches-3d-weaving-to-reduce-waste-in-fashion": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W48",
+   "lastSeen": "2026-W48",
+   "_weeks": [
+    "2026-W48"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/news/unspun"
+   ]
+  },
+  "http://www.leadingedgetech.io/": {
+   "status": 409,
+   "reason": "HTTP 409",
+   "firstSeen": "2026-W48",
+   "lastSeen": "2026-W48",
+   "_weeks": [
+    "2026-W48"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/portfolio/details?company=leading-edge-crystal-technologies-inc"
+   ]
+  },
+  "https://www.pikerobotics.com/": {
+   "status": 0,
+   "reason": "ERR_SSL_SSL/TLS_ALERT_HANDSHAKE_FAILURE",
+   "firstSeen": "2026-W48",
+   "lastSeen": "2026-W48",
+   "_weeks": [
+    "2026-W48"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/showcase/news"
+   ]
+  },
+  "https://www.susteoninc.com/": {
+   "status": 0,
+   "reason": "ENOTFOUND",
+   "firstSeen": "2026-W48",
+   "lastSeen": "2026-W48",
+   "_weeks": [
+    "2026-W48"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/centers/ceps/a-novel-low-cost-sustainable-process-to-produce-silicon-carbide"
    ]
   }
  }

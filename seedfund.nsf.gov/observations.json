@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
  "domain": "seedfund.nsf.gov",
- "updated_at": "2026-11-25T19:40:23.128Z",
+ "updated_at": "2026-11-25T21:58:12.956Z",
  "urls": {
   "00178e265a034679": {
    "page_id": "00178e265a034679",
@@ -1082,11 +1082,11 @@
    "page_id": "0cea7a4566d34eab",
    "url": "https://seedfund.nsf.gov/portfolio",
    "first_discovered_at": "2026-10-29T09:53:46.825Z",
-   "last_attempt_at": "2026-11-12T10:56:50.081Z",
+   "last_attempt_at": "2026-10-29T09:53:46.825Z",
    "last_success_at": "2026-10-29T09:53:46.825Z",
-   "last_status": "redirect",
-   "last_week": "2026-W46",
-   "outcome": "failed",
+   "last_status": 200,
+   "last_week": "2026-W44",
+   "outcome": "success",
    "fail_count": 0,
    "clean": false,
    "first_finding_at": "2026-10-29T09:53:46.825Z",
@@ -1686,8 +1686,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-24T15:07:43.920Z"
   },
   "139a8bac799800d9": {
    "page_id": "139a8bac799800d9",
@@ -2311,8 +2312,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-24T20:23:59.185Z"
   },
   "1dc9ae04ca97d9ac": {
    "page_id": "1dc9ae04ca97d9ac",
@@ -2380,8 +2382,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-25T14:48:18.119Z"
   },
   "1e9537f27a3d025a": {
    "page_id": "1e9537f27a3d025a",
@@ -2546,8 +2549,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-24T13:35:34.566Z"
   },
   "2267f2e5f74baec8": {
    "page_id": "2267f2e5f74baec8",
@@ -3181,8 +3185,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-24T20:23:21.683Z"
   },
   "2b660c58439c5f36": {
    "page_id": "2b660c58439c5f36",
@@ -3766,8 +3771,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-24T19:41:47.879Z"
   },
   "32f56a992a5fa886": {
    "page_id": "32f56a992a5fa886",
@@ -3917,8 +3923,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-25T18:02:47.356Z"
   },
   "34e59341be98cdc6": {
    "page_id": "34e59341be98cdc6",
@@ -4333,8 +4340,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-25T12:43:40.149Z"
   },
   "39edecacd72ea00e": {
    "page_id": "39edecacd72ea00e",
@@ -4402,8 +4410,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-24T19:40:26.757Z"
   },
   "3b5d9403da5499b8": {
    "page_id": "3b5d9403da5499b8",
@@ -4429,8 +4438,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-25T12:44:08.412Z"
   },
   "3be97c14b3a5aa10": {
    "page_id": "3be97c14b3a5aa10",
@@ -4875,8 +4885,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-25T12:42:50.417Z"
   },
   "446b8ea149a69ce9": {
    "page_id": "446b8ea149a69ce9",
@@ -4985,8 +4996,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-25T19:38:56.352Z"
   },
   "4727fe57b885fe14": {
    "page_id": "4727fe57b885fe14",
@@ -5664,8 +5676,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-25T19:40:05.745Z"
   },
   "505ee0875284708d": {
    "page_id": "505ee0875284708d",
@@ -5713,11 +5726,11 @@
    "page_id": "514ebc4cef959b33",
    "url": "https://seedfund.nsf.gov/our-staff",
    "first_discovered_at": "2026-10-28T15:22:48.115Z",
-   "last_attempt_at": "2026-11-09T17:26:06.897Z",
+   "last_attempt_at": "2026-10-28T15:22:48.115Z",
    "last_success_at": "2026-10-28T15:22:48.115Z",
-   "last_status": "redirect",
-   "last_week": "2026-W46",
-   "outcome": "failed",
+   "last_status": 200,
+   "last_week": "2026-W44",
+   "outcome": "success",
    "fail_count": 0,
    "clean": false,
    "first_finding_at": "2026-10-28T15:22:48.115Z",
@@ -6438,8 +6451,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-25T18:02:38.638Z"
   },
   "5971b5ab0df7dac9": {
    "page_id": "5971b5ab0df7dac9",
@@ -6825,8 +6839,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-24T13:35:15.751Z"
   },
   "5dccfc784d702576": {
    "page_id": "5dccfc784d702576",
@@ -7796,11 +7811,11 @@
    "page_id": "68a455ae8d911b2a",
    "url": "https://seedfund.nsf.gov/SBIR-reauthorization",
    "first_discovered_at": "2026-10-26T11:36:05.493Z",
-   "last_attempt_at": "2026-11-16T18:50:13.870Z",
+   "last_attempt_at": "2026-10-26T11:36:05.493Z",
    "last_success_at": "2026-10-26T11:36:05.493Z",
-   "last_status": "redirect",
-   "last_week": "2026-W47",
-   "outcome": "failed",
+   "last_status": 200,
+   "last_week": "2026-W44",
+   "outcome": "success",
    "fail_count": 0,
    "clean": false,
    "first_finding_at": "2026-10-26T11:36:05.493Z",
@@ -8457,8 +8472,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-24T15:07:19.938Z"
   },
   "708e642280f15418": {
    "page_id": "708e642280f15418",
@@ -8965,11 +8981,11 @@
    "page_id": "7844c86b5b15678c",
    "url": "https://seedfund.nsf.gov/awardees/phase-1-recent/details",
    "first_discovered_at": "2026-10-26T16:35:25.323Z",
-   "last_attempt_at": "2026-11-16T14:04:36.252Z",
+   "last_attempt_at": "2026-10-26T16:35:25.323Z",
    "last_success_at": "2026-10-26T16:35:25.323Z",
-   "last_status": "redirect",
-   "last_week": "2026-W47",
-   "outcome": "failed",
+   "last_status": 200,
+   "last_week": "2026-W44",
+   "outcome": "success",
    "fail_count": 0,
    "clean": false,
    "first_finding_at": "2026-10-26T16:35:25.323Z",
@@ -9821,8 +9837,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-25T14:46:03.912Z"
   },
   "8266179757d05724": {
    "page_id": "8266179757d05724",
@@ -10293,8 +10310,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-25T18:48:25.350Z"
   },
   "88447f3cfd524b61": {
    "page_id": "88447f3cfd524b61",
@@ -10402,8 +10420,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-25T19:37:44.930Z"
   },
   "8992fd0497cbdd4c": {
    "page_id": "8992fd0497cbdd4c",
@@ -10415,8 +10434,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-25T18:47:46.304Z"
   },
   "89e36f25cb83a970": {
    "page_id": "89e36f25cb83a970",
@@ -10871,8 +10891,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-24T13:36:32.656Z"
   },
   "911c4aee34b0aa5a": {
    "page_id": "911c4aee34b0aa5a",
@@ -11591,8 +11612,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-25T12:43:54.373Z"
   },
   "9aa3526f57e0ab6e": {
    "page_id": "9aa3526f57e0ab6e",
@@ -11939,8 +11961,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-25T18:48:00.862Z"
   },
   "9e9149ba05457633": {
    "page_id": "9e9149ba05457633",
@@ -12273,8 +12296,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-25T18:01:20.860Z"
   },
   "a3f52b748ff152b3": {
    "page_id": "a3f52b748ff152b3",
@@ -12481,8 +12505,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-25T12:41:54.040Z"
   },
   "a6a00abbd620d326": {
    "page_id": "a6a00abbd620d326",
@@ -13405,11 +13430,11 @@
    "page_id": "b38b44c824b100aa",
    "url": "https://seedfund.nsf.gov/solicitation",
    "first_discovered_at": "2026-10-28T15:21:47.992Z",
-   "last_attempt_at": "2026-11-09T17:24:46.373Z",
+   "last_attempt_at": "2026-10-28T15:21:47.992Z",
    "last_success_at": "2026-10-28T15:21:47.992Z",
-   "last_status": "redirect",
-   "last_week": "2026-W46",
-   "outcome": "failed",
+   "last_status": 200,
+   "last_week": "2026-W44",
+   "outcome": "success",
    "fail_count": 0,
    "clean": false,
    "first_finding_at": "2026-10-28T15:21:47.992Z",
@@ -13564,8 +13589,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-25T19:39:53.150Z"
   },
   "b5ff27dd63c2fca9": {
    "page_id": "b5ff27dd63c2fca9",
@@ -13646,8 +13672,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-25T14:47:57.411Z"
   },
   "b680ced7f79de919": {
    "page_id": "b680ced7f79de919",
@@ -14338,8 +14365,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-24T20:24:50.066Z"
   },
   "c1ef106d36383b72": {
    "page_id": "c1ef106d36383b72",
@@ -14462,8 +14490,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-24T16:31:11.356Z"
   },
   "c35236906e8343f4": {
    "page_id": "c35236906e8343f4",
@@ -14948,8 +14977,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-24T18:54:08.088Z"
   },
   "cbc187adecb5df78": {
    "page_id": "cbc187adecb5df78",
@@ -14975,8 +15005,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-24T16:30:41.186Z"
   },
   "cbcc84ab265984d9": {
    "page_id": "cbcc84ab265984d9",
@@ -16046,8 +16077,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-24T18:52:11.598Z"
   },
   "d8ba1fa24ed38a1b": {
    "page_id": "d8ba1fa24ed38a1b",
@@ -17718,8 +17750,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-25T14:47:52.640Z"
   },
   "f0fab30a7d6e2012": {
    "page_id": "f0fab30a7d6e2012",
@@ -18536,8 +18569,9 @@
    "last_week": "2026-W48",
    "outcome": "success",
    "fail_count": 0,
-   "clean": null,
-   "last_failed_week": null
+   "clean": false,
+   "last_failed_week": null,
+   "first_finding_at": "2026-11-24T16:30:13.674Z"
   },
   "fe7170e6b632e5fd": {
    "page_id": "fe7170e6b632e5fd",

@@ -1,6 +1,6 @@
 {
  "domain": "ncses.nsf.gov",
- "updatedAt": "2026-11-24T00:18:37.579Z",
+ "updatedAt": "2026-11-25T21:58:11.313Z",
  "links": {
   "http://ncses.nsf.gov/pubs/nsf23300/": {
    "status": 0,
@@ -1010,7 +1010,11 @@
     "https://ncses.nsf.gov/pubs/nsb20262",
     "https://ncses.nsf.gov/pubs/nsb20241/data",
     "https://ncses.nsf.gov/pubs/nsb20224/table/SINV-60",
-    "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-18"
+    "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-18",
+    "https://ncses.nsf.gov/pubs/nsb20224/data/table/SINV-34",
+    "https://ncses.nsf.gov/pubs/nsb20224/data/table/SINV-68",
+    "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-D",
+    "https://ncses.nsf.gov/pubs/nsb20241/data/table/SINV-D"
    ]
   },
   "http://ncses.nsf.gov/search?aois=STEM+Education&query=&topics=Family+Characteristics": {
@@ -2592,20 +2596,27 @@
    "foundOn": [
     "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-21",
     "https://ncses.nsf.gov/pubs/nsb20241/data",
-    "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-18"
+    "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-18",
+    "https://ncses.nsf.gov/pubs/nsb20241/data/table/SINV-D",
+    "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-13",
+    "https://ncses.nsf.gov/pubs/nsb20241/data/table/SINV-23",
+    "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-G",
+    "https://ncses.nsf.gov/pubs/nsb20241/table/SINV-35"
    ]
   },
   "https://www.src.isr.umich.edu/": {
    "status": 0,
    "reason": "ERR_SSL_SSL/TLS_ALERT_HANDSHAKE_FAILURE",
    "firstSeen": "2026-W47",
-   "lastSeen": "2026-W47",
+   "lastSeen": "2026-W48",
    "_weeks": [
-    "2026-W47"
+    "2026-W47",
+    "2026-W48"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "https://ncses.nsf.gov/pubs/nsb20227/table/SPPS-1"
+    "https://ncses.nsf.gov/pubs/nsb20227/data/table/SPPS-16",
+    "https://ncses.nsf.gov/pubs/nsb20227/data/table/SPPS-5"
    ]
   },
   "https://gssdataexplorer.norc.org/variables/3507/vshow": {
@@ -2934,6 +2945,32 @@
    "weeksBroken": 1,
    "foundOn": [
     "https://ncses.nsf.gov/pubs/nsb20203/supplemental-tables"
+   ]
+  },
+  "https://ncses.nsf.gov/surveys/federal-support-survey/2023data": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W48",
+   "lastSeen": "2026-W48",
+   "_weeks": [
+    "2026-W48"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsf25341"
+   ]
+  },
+  "https://www.whitehouse.gov/wp-content/uploads/2018/06/s84.pdf": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W48",
+   "lastSeen": "2026-W48",
+   "_weeks": [
+    "2026-W48"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://ncses.nsf.gov/pubs/nsf21315"
    ]
   }
  }
