@@ -1,0 +1,99 @@
+{
+ "runId": "2026-11-25T16-08-06-987Z-18ede8",
+ "week": "2026-W48",
+ "domain": "ncses.nsf.gov",
+ "canonical": {
+  "origin": "https://ncses.nsf.gov",
+  "configured": "https://ncses.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-25T16:08:08.699Z",
+ "scanned": [
+  "d9da2b40678203c4",
+  "4f40c4a284f0203c",
+  "58c574b237700c84",
+  "36194b4bcf1a110b",
+  "508763098efcb44c",
+  "ce94d5e7cb0f2af3",
+  "db0eab35b04986af",
+  "1a44e56a09a1b455",
+  "461af7a6a21d3d14",
+  "21da8e1170db61f1",
+  "c203b34ac4b2b50f",
+  "5c09cbe807ad4318",
+  "37280e5dde2a3119",
+  "8093d433fd96bd3e",
+  "2b2dc782543ca8f7",
+  "1ad9f651524aa8b6",
+  "9b84ab7b87df3640",
+  "6b7c227f42fa60e5",
+  "299acf04ffe1552c",
+  "e259ea866a61a664"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 2515,
+  "checked": 500,
+  "brokenCount": 0,
+  "broken": []
+ },
+ "enginesRun": {
+  "sustainability": 3,
+  "axe": 20,
+  "resources": 20,
+  "images": 20,
+  "standards": 10,
+  "security": 5,
+  "tech": 5,
+  "link-check": 20,
+  "alfa": 10,
+  "plain-language": 11,
+  "lighthouse": 3,
+  "public-interest": 2,
+  "third-party": 3,
+  "deprecated-html": 3
+ },
+ "tally": {
+  "ok": 20,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 9,
+  "error": 0
+ },
+ "finishedAt": "2026-11-25T16:13:50.068Z"
+}
