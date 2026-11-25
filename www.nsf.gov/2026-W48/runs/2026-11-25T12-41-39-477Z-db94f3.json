@@ -1,0 +1,220 @@
+{
+ "runId": "2026-11-25T12-41-39-477Z-db94f3",
+ "week": "2026-W48",
+ "domain": "www.nsf.gov",
+ "canonical": {
+  "origin": "https://www.nsf.gov",
+  "configured": "https://www.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-25T12:41:41.423Z",
+ "scanned": [
+  "81b5bc01d9e74b97",
+  "bc1818925733a343",
+  "9441d556282abdd9",
+  "9c9189019558a999",
+  "7ccbb6ec1acf89c4",
+  "3b349b53f8e28627",
+  "5c5d5ee26c897145",
+  "e8eaa6440952e1bc",
+  "dc96904c37d3f11e",
+  "e6dc6ffeb4e64332",
+  "803b783f0e836d2a",
+  "108bb34d2305eadc",
+  "53b92a57ecaef9ae",
+  "54a28d8fb7f35cc6",
+  "67e127e7df4c20ec",
+  "afb652a342a4811d",
+  "3a53808a0d36637c",
+  "4a87b531961924ce",
+  "f60a56280fc10a5a",
+  "f81124ad2bf89d07",
+  "501a1644b3a10ce0",
+  "afca7fc512ed9094",
+  "6e3a1d75ef033de5"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 537,
+  "checked": 500,
+  "brokenCount": 12,
+  "broken": [
+   {
+    "url": "https://www.grants.gov/",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-sustainable-materials/nsf12-095",
+     "https://www.nsf.gov/funding/opportunities/innovation-innovative-infrastructure-biological-research",
+     "https://www.nsf.gov/funding/opportunities/crcns-collaborative-research-computational-neuroscience/nsf18-591",
+     "https://www.nsf.gov/funding/opportunities/crcns-collaborative-research-computational-neuroscience/nsf14-504",
+     "https://www.nsf.gov/news/engineers-examine-mechanical-forces-influence-cell",
+     "https://www.nsf.gov/news/innovative-traineeships-prepare-next-generation-stem-leaders",
+     "https://www.nsf.gov/funding/opportunities/qsb-quantitative-systems-biotechnology/5495/nsf02-026",
+     "https://www.nsf.gov/events/join-nsf-fapesp-webinar-series-thursday-june-6-2024/2024-06-06",
+     "https://www.nsf.gov/funding/opportunities/qusec-taqs-quantum-sensing-challenges-transformational-advances-quantum/505860/nsf21-553",
+     "https://www.nsf.gov/policies/document/small-business-innovation-research-sbir-phase-i-grant",
+     "https://www.nsf.gov/funding/opportunities/catalysis/506074/pd23-1401",
+     "https://www.nsf.gov/tip/updates/nsf-invests-regional-capacity-accelerate-critical-mineral",
+     "https://www.nsf.gov/policies/document/grantsgov-application-guide-december-2009/grantsgovguide1209",
+     "https://www.nsf.gov/funding/opportunities/dcl-nsf-call-iucrc-industry-university-cooperative-research",
+     "https://www.nsf.gov/funding/opportunities/qii-taqs-enabling-quantum-leap-quantum-idea-incubator/505601/nsf19-532/solicitation",
+     "https://www.nsf.gov/funding/opportunities/dcl-stimulating-research-related-science-broadening/nsf17-143",
+     "https://www.nsf.gov/funding/opportunities/dcl-advanced-measurement-systems-experimental-determination/nsf16-142",
+     "https://www.nsf.gov/funding/opportunities/clt-centers-learning-teaching/5465/nsf04-501",
+     "https://www.nsf.gov/funding/opportunities/sbirsttr-phase-ii-nsf-small-business-innovation-research-small-business/505989/nsf23-516/solicitation",
+     "https://www.nsf.gov/about/budget/fy2019/tables",
+     "https://www.nsf.gov/tip/updates/nsf-convergence-accelerator-announces-solicitation-establish",
+     "https://www.nsf.gov/funding/opportunities/fluid-dynamics/13365/pd17-1443",
+     "https://www.nsf.gov/funding/opportunities/gold-geo-opportunities-leadership-diversity/505271/nsf16-516"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/mps/dmr/awards/frgs.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-sustainable-materials/nsf12-095"
+    ]
+   },
+   {
+    "url": "https://www.fda.gov/medical-devices/science-and-research-medical-devices/catalog-regulatory-science-tools-help-assess-new-medical-devices",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-nsf-call-iucrc-industry-university-cooperative-research"
+    ]
+   },
+   {
+    "url": "http://www.grants.gov/web/grants/applicants.html",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/qii-taqs-enabling-quantum-leap-quantum-idea-incubator/505601/nsf19-532/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.fastlane.nsf.gov/a1/newstan.htm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/qii-taqs-enabling-quantum-leap-quantum-idea-incubator/505601/nsf19-532/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.grants.gov/",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/qii-taqs-enabling-quantum-leap-quantum-idea-incubator/505601/nsf19-532/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/policies/SOR_PA_NSF-50_Principal_Investigator_Proposal_File.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/qii-taqs-enabling-quantum-leap-quantum-idea-incubator/505601/nsf19-532/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf18045&org=NSF",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/qii-taqs-enabling-quantum-leap-quantum-idea-incubator/505601/nsf19-532/solicitation"
+    ]
+   },
+   {
+    "url": "https://uscode.house.gov/view.xhtml?req=(title:42%20section:19235%20edition:prelim)%20OR%20(granuleid:USC-prelim-title42-section19235)&f=treesort&edition=prelim&num=0&jumpTo=true",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sbirsttr-phase-ii-nsf-small-business-innovation-research-small-business/505989/nsf23-516/solicitation"
+    ]
+   },
+   {
+    "url": "https://uscode.house.gov/view.xhtml?req=(title:15%20section:638%20edition:prelim)",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sbirsttr-phase-ii-nsf-small-business-innovation-research-small-business/505989/nsf23-516/solicitation"
+    ]
+   },
+   {
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-1999-title42-section1861&num=0&edition=1999",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sbirsttr-phase-ii-nsf-small-business-innovation-research-small-business/505989/nsf23-516/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.saferfederalworkforce.gov/contractors/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/sbirsttr-phase-ii-nsf-small-business-innovation-research-small-business/505989/nsf23-516/solicitation"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 23,
+  "alfa": 11,
+  "plain-language": 13,
+  "resources": 23,
+  "images": 23,
+  "standards": 12,
+  "link-check": 23,
+  "third-party": 4,
+  "public-interest": 3,
+  "tech": 6,
+  "deprecated-html": 2,
+  "security": 3,
+  "lighthouse": 2
+ },
+ "tally": {
+  "ok": 23,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 2,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 2,
+  "error": 0
+ },
+ "finishedAt": "2026-11-25T12:45:15.787Z"
+}
