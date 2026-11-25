@@ -1,0 +1,366 @@
+{
+ "runId": "2026-11-25T18-47-45-787Z-50cbf6",
+ "week": "2026-W48",
+ "domain": "www.nsf.gov",
+ "canonical": {
+  "origin": "https://www.nsf.gov",
+  "configured": "https://www.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-25T18:47:48.371Z",
+ "scanned": [
+  "ffaea42cbd6ee7f3",
+  "41777150f75ea577",
+  "f52dfee180cafada",
+  "a17052072ef68155",
+  "48cc4a8a2066f098",
+  "cca3b7d46a4ad986",
+  "6ff90d35b70dd0b5",
+  "1c04fa60eb64b292",
+  "814192f8b0c78fd9",
+  "35c9449868f3e666",
+  "79e4a34c07ca617a",
+  "06f61a3c8643e706",
+  "f5f184838ad6d96e",
+  "147f41970fa4363c",
+  "931032139102a900",
+  "1ef4f41817d1f0f1",
+  "94e7a36a7e3e4da5",
+  "ec8eafadfd079881",
+  "6e95ca036ef29388",
+  "e279f9c8c28c74a1",
+  "3240056dbd6195ef",
+  "fab36715ff6791e7",
+  "ec552967499ed6e0"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 302,
+  "checked": 302,
+  "brokenCount": 30,
+  "broken": [
+   {
+    "url": "https://www.grants.gov/",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/cnic-catalyzing-new-international-collaborations/12815/nsf11-508",
+     "https://www.nsf.gov/funding/opportunities/cps-cyberphysical-systems/503286/nsf17-529/solicitation",
+     "https://www.nsf.gov/news/nsf-initiates-first-remotely-accessible-augmented-reality",
+     "https://www.nsf.gov/funding/research-involving-human-subjects",
+     "https://www.nsf.gov/funding/opportunities/dcl-request-information-rfi-science-drivers-requiring-capable/nsf16-008",
+     "https://www.nsf.gov/funding/opportunities/science-technology-centers-integrative-partnerships/5541/nsf19-567/solicitation",
+     "https://www.nsf.gov/funding/opportunities/dcl-research-collaboration-opportunity-europe-nsf-awardees/nsf23-085",
+     "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/nicolaas-bloembergen",
+     "https://www.nsf.gov/policies/document/significant-changes-grant-general-conditions-june-15-2005",
+     "https://www.nsf.gov/reports/statistics/discovery-rd-activity-research-publications",
+     "https://www.nsf.gov/reports/indicators/invention-knowledge-transfer-innovation",
+     "https://www.nsf.gov/science-matters/researchers-reveal-new-cellular-architecture-could",
+     "https://www.nsf.gov/events/nsf-mathematical-sciences-graduate-internship-msgi-summer",
+     "https://www.nsf.gov/events/division-biological-infrastructure-dbi-virtual-office-hours/2024-02-20",
+     "https://www.nsf.gov/funding/opportunities/cdi-cyber-enabled-discovery-innovation/503163/nsf08-604",
+     "https://www.nsf.gov/events/deb-virtual-office-hour-dises/2020-08-10",
+     "https://www.nsf.gov/reports/statistics/us-rd-increased-51-billion-2018-606-billion-estimate-2019",
+     "https://www.nsf.gov/funding/opportunities/bread-basic-research-enable-agricultural-development/503285/updates",
+     "https://www.nsf.gov/funding/initiatives/regional-innovation-engines/portfolio/textile-innovation-engine-north-carolina",
+     "https://www.nsf.gov/events/geo-quarterly-webinar-2/2021-11-10",
+     "https://www.nsf.gov/events/biodesign-computing-stephanie-forrest",
+     "https://www.nsf.gov/policies/document/nsfbfa-business-systems-review-bsr-guide/nsf13-100"
+    ]
+   },
+   {
+    "url": "http://www.whitehouse.gov/sites/default/files/microsites/ostp/pcast-nitrd-report-2010.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/cps-cyberphysical-systems/503286/nsf17-529/solicitation"
+    ]
+   },
+   {
+    "url": "http://nifa.usda.gov/indirect-costs",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/cps-cyberphysical-systems/503286/nsf17-529/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.whitehouse.gov/sites/default/files/microsites/ostp/pcast_agriculture_20121207.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/cps-cyberphysical-systems/503286/nsf17-529/solicitation"
+    ]
+   },
+   {
+    "url": "http://nifa.usda.gov/about/pdfs/strat_plan_2014.pdf",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/cps-cyberphysical-systems/503286/nsf17-529/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.grants.gov/web/grants/applicants.html",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/cps-cyberphysical-systems/503286/nsf17-529/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.ree.usda.gov/ree/news/USDA_2014_REE_Action_Plan_08-2014_Final.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/cps-cyberphysical-systems/503286/nsf17-529/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.fastlane.nsf.gov/a1/newstan.htm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/cps-cyberphysical-systems/503286/nsf17-529/solicitation",
+     "https://www.nsf.gov/funding/opportunities/science-technology-centers-integrative-partnerships/5541/nsf19-567/solicitation"
+    ]
+   },
+   {
+    "url": "http://grants.nih.gov/grants/peer/guidelines_general/Human_Subjects_Protection_and_Inclusion.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/cps-cyberphysical-systems/503286/nsf17-529/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf14043",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/cps-cyberphysical-systems/503286/nsf17-529/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/cise/collab/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/cps-cyberphysical-systems/503286/nsf17-529/solicitation"
+    ]
+   },
+   {
+    "url": "http://nifa.usda.gov/responsible-and-ethical-conduct-research",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/cps-cyberphysical-systems/503286/nsf17-529/solicitation"
+    ]
+   },
+   {
+    "url": "http://nifa.usda.gov/federal-regulations",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/cps-cyberphysical-systems/503286/nsf17-529/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=aag",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/cps-cyberphysical-systems/503286/nsf17-529/solicitation",
+     "https://www.nsf.gov/funding/opportunities/science-technology-centers-integrative-partnerships/5541/nsf19-567/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.grants.gov/",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/cps-cyberphysical-systems/503286/nsf17-529/solicitation"
+    ]
+   },
+   {
+    "url": "http://nifa.usda.gov/policy-guide",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/cps-cyberphysical-systems/503286/nsf17-529/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/policies/SOR_PA_NSF-50_Principal_Investigator_Proposal_File.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/cps-cyberphysical-systems/503286/nsf17-529/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/od/oia/programs/stc/index.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/science-technology-centers-integrative-partnerships/5541/nsf19-567/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.grants.gov/web/grants/applicants.html",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/science-technology-centers-integrative-partnerships/5541/nsf19-567/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf18045",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/science-technology-centers-integrative-partnerships/5541/nsf19-567/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.zoomgov.com/meeting/register/vJIsfuipqTMqEwMRgxt940ETW5HsiAE4J-8",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/nsf-mathematical-sciences-graduate-internship-msgi-summer"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_mUB5GwD2QgaH9hagjzghcQ",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/division-biological-infrastructure-dbi-virtual-office-hours/2024-02-20"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_E9ZWEGdFTlC1Tkr-F0YgZA",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/deb-virtual-office-hour-dises/2020-08-10"
+    ]
+   },
+   {
+    "url": "https://debblog.nsfbio.com/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/events/deb-virtual-office-hour-dises/2020-08-10"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubs/2020/nsf20579/nsf20579.htm",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/deb-virtual-office-hour-dises/2020-08-10"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/funding/opportunities/bread-basic-research-enable-agricultural-development",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/bread-basic-research-enable-agricultural-development/503285/updates"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_aylgGg_-TaavvzmKMj3plg",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/geo-quarterly-webinar-2/2021-11-10"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_AWGW-3XhQlulAKFHuUFFxQ",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/biodesign-computing-stephanie-forrest"
+    ]
+   },
+   {
+    "url": "http://www.nifa.usda.gov/business/awards/awardterms.html",
+    "status": 0,
+    "reason": "timeout",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/cps-cyberphysical-systems/503286/nsf17-529/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.nifa.usda.gov/",
+    "status": 0,
+    "reason": "timeout",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/cps-cyberphysical-systems/503286/nsf17-529/solicitation"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 22,
+  "alfa": 12,
+  "plain-language": 15,
+  "resources": 22,
+  "images": 22,
+  "link-check": 22,
+  "standards": 10,
+  "third-party": 5,
+  "lighthouse": 3,
+  "deprecated-html": 3,
+  "security": 4,
+  "tech": 2,
+  "sustainability": 1,
+  "public-interest": 2
+ },
+ "tally": {
+  "ok": 22,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 2,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 1,
+  "error": 0
+ },
+ "finishedAt": "2026-11-25T18:51:55.337Z"
+}
