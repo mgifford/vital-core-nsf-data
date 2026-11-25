@@ -1,0 +1,113 @@
+{
+ "runId": "2026-11-25T16-07-49-046Z-e523b0",
+ "week": "2026-W48",
+ "domain": "seedfund.nsf.gov",
+ "canonical": {
+  "origin": "https://seedfund.nsf.gov",
+  "configured": "https://seedfund.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-25T16:07:49.716Z",
+ "scanned": [
+  "1a77cee757112079",
+  "a3d2bc2a0603365f",
+  "321820f1464e5552",
+  "b74799a1a68d5a08",
+  "4fab1ed9dc291f4a",
+  "ccafd5e1f7798624",
+  "b1af18d8dd15dab2",
+  "3cace90051a2a2ff",
+  "bafd489bab489e9b",
+  "a519833a2f6065eb",
+  "df4c49e4e02409fc",
+  "46858f1543f746f1",
+  "b0ccd0c4c83c50ee",
+  "4612ab71a0d5063f",
+  "c9456120041df621",
+  "69425546aada01db",
+  "02804a2fc4dd8a1b",
+  "596c3598fb525c7d",
+  "1c5bea1d2abf40fd",
+  "34ce2bcefe17bfa7",
+  "3a0a4f4f33c10b14",
+  "9571ffc50f45854c",
+  "a453250b77283d28",
+  "40f1c0d3ca8fe66f",
+  "5adc99e4d8f89586"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 130,
+  "checked": 130,
+  "brokenCount": 1,
+  "broken": [
+   {
+    "url": "https://www.startuplanes.com/slooh-raises-nearly-5m-in-funding/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://seedfund.nsf.gov/news/slooh"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 25,
+  "resources": 25,
+  "images": 25,
+  "tech": 3,
+  "third-party": 13,
+  "lighthouse": 3,
+  "link-check": 25,
+  "alfa": 7,
+  "plain-language": 11,
+  "deprecated-html": 3,
+  "security": 4,
+  "standards": 7,
+  "public-interest": 5,
+  "sustainability": 1
+ },
+ "tally": {
+  "ok": 25,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-25T16:10:41.771Z"
+}
