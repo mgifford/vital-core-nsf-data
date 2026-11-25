@@ -1,0 +1,218 @@
+{
+ "runId": "2026-11-25T16-07-50-153Z-e70dfd",
+ "week": "2026-W48",
+ "domain": "www.nsf.gov",
+ "canonical": {
+  "origin": "https://www.nsf.gov",
+  "configured": "https://www.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-25T16:07:50.632Z",
+ "scanned": [
+  "6bd3600aa4663b82",
+  "5b99330ac5fe1af3",
+  "b5e2836d9e49c8aa",
+  "7e9e7d6394e44a05",
+  "a1e67182889af4e6",
+  "86215b23c9e452f0",
+  "7f142e629d9631ff",
+  "65e10c50702d75c3",
+  "312b822bc56a644f",
+  "b9d62aba6a86e53e",
+  "5e80e3d5036cdceb",
+  "b265a79e7db58104",
+  "d9b39a4ef779920b",
+  "9db4ed9a77b4617d",
+  "a349e6f6036d352c",
+  "4301c2c5fa94eedb",
+  "4edba3f3c2c132fd",
+  "5ee0f1e2c17418bd",
+  "b492b163c434e6af",
+  "bea666035a17d91a",
+  "0d1546c7fe5b62cc",
+  "e55b846befd5b897"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 303,
+  "checked": 303,
+  "brokenCount": 12,
+  "broken": [
+   {
+    "url": "https://www.grants.gov/",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://www.nsf.gov/events/intro-nsfs-directorate-technology-innovation-partnerships/2022-09-27",
+     "https://www.nsf.gov/funding/opportunities/career-faculty-early-career-development-program/nsf08-557/solicitation",
+     "https://www.nsf.gov/events/nsf-mps-astronomical-sciences-office-hours/2026-10-14",
+     "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/george-b-dantzig",
+     "https://www.nsf.gov/reports/nsb/board/science-engineering-workforce-realizing-americas-potential",
+     "https://www.nsf.gov/funding/opportunities/goali-grant-opportunities-academic-liaison-industry/13706/nsf09-516",
+     "https://www.nsf.gov/funding/opportunities/dcl-cyber-infrastructure-framework-21st-century-cif21/nsf12-103",
+     "https://www.nsf.gov/funding/opportunities/dcl-supplemental-funding-requests-grade-6-12-data-science/nsf22-071",
+     "https://www.nsf.gov/reports/performance/fy-2007-annual-financial-report/nsf08-02",
+     "https://www.nsf.gov/funding/opportunities/fire-fire-science-innovations-through-research-education",
+     "https://www.nsf.gov/reports/statistics/1950s-federal-rd-funding-has-shifted-development-research",
+     "https://www.nsf.gov/funding/opportunities/dcl-models-uncovering-rules-unexpected-phenomena-biological/nsf19-054",
+     "https://www.nsf.gov/funding/opportunities/cdse-computational-data-enabled-science-engineering/pd23-8084",
+     "https://www.nsf.gov/funding/opportunities/amps-algorithms-modern-power-systems",
+     "https://www.nsf.gov/funding/opportunities/us-national-science-foundation-state-regional-artificial",
+     "https://www.nsf.gov/funding/opportunities/robert-noyce-teacher-scholarship-program/5733/nsf12-525",
+     "https://www.nsf.gov/policies/document/proposal-award-policies-procedures-guide-pappg/nsf22-001",
+     "https://www.nsf.gov/funding/opportunities/dcl-tcup-stem-innovative-faculty-support/nsf21-096",
+     "https://www.nsf.gov/author-tools/events-management",
+     "https://www.nsf.gov/news/sugar-coated-strip-advances-covid-19-testing",
+     "https://www.nsf.gov/events/engineering-research-centers-qa-session/2022-08-04",
+     "https://www.nsf.gov/reports/nsb/board/preparing-our-children-math-science-education-national"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf08051",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/career-faculty-early-career-development-program/nsf08-557/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/home/crssprgm/career/contacts.htm",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/career-faculty-early-career-development-program/nsf08-557/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.fastlane.nsf.gov/a1/newstan.htm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/career-faculty-early-career-development-program/nsf08-557/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.grants.gov/",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/career-faculty-early-career-development-program/nsf08-557/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/home/crssprgm/career/report.htm",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/career-faculty-early-career-development-program/nsf08-557/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=aag",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/career-faculty-early-career-development-program/nsf08-557/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/mps/cds-e/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-cyber-infrastructure-framework-21st-century-cif21/nsf12-103"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/cif21",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-cyber-infrastructure-framework-21st-century-cif21/nsf12-103"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/events/data-infrastructure-building-blocks-dibbs",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/dcl-cyber-infrastructure-framework-21st-century-cif21/nsf12-103"
+    ]
+   },
+   {
+    "url": "https://erc-assoc.org/ERCwebinar2022",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/engineering-research-centers-qa-session/2022-08-04"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/pubs/2022/nsf22103/nsf22103.jsp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/engineering-research-centers-qa-session/2022-08-04"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 22,
+  "alfa": 11,
+  "deprecated-html": 5,
+  "resources": 22,
+  "images": 22,
+  "third-party": 4,
+  "link-check": 22,
+  "plain-language": 16,
+  "standards": 9,
+  "tech": 1,
+  "public-interest": 1,
+  "sustainability": 2,
+  "security": 1
+ },
+ "tally": {
+  "ok": 22,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 3,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 1,
+  "error": 0
+ },
+ "finishedAt": "2026-11-25T16:11:17.050Z"
+}
