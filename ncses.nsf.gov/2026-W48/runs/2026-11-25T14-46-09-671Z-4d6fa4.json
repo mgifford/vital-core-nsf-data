@@ -1,0 +1,113 @@
+{
+ "runId": "2026-11-25T14-46-09-671Z-4d6fa4",
+ "week": "2026-W48",
+ "domain": "ncses.nsf.gov",
+ "canonical": {
+  "origin": "https://ncses.nsf.gov",
+  "configured": "https://ncses.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-25T14:46:12.849Z",
+ "scanned": [
+  "a1d7b3956deff882",
+  "e0fa5589e4cfe4aa",
+  "6efe44f147a1942a",
+  "74d628f0ce3ee874",
+  "807be21cca708146",
+  "6a5c01e6988b63fd",
+  "90d9e00d32b4c86b",
+  "e5eb557f2bd670c0",
+  "edb917d6afe6f1fd",
+  "bd6514aa53481e91",
+  "25fbfc8ac2435784",
+  "bb4688e5d060986d",
+  "b82d25f40891baed",
+  "ebd9389fde25e726",
+  "a10b3c97fcab6bbc",
+  "bb281c9103158bd3",
+  "ce26737806559d8f"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 1638,
+  "checked": 500,
+  "brokenCount": 2,
+  "broken": [
+   {
+    "url": "https://www.src.isr.umich.edu/",
+    "status": 0,
+    "reason": "ERR_SSL_SSL/TLS_ALERT_HANDSHAKE_FAILURE",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20227/data/table/SPPS-16",
+     "https://ncses.nsf.gov/pubs/nsb20227/data/table/SPPS-5"
+    ]
+   },
+   {
+    "url": "https://ncses.nsf.gov/surveys/federal-support-survey/2023data",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsf25341"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 17,
+  "deprecated-html": 5,
+  "resources": 17,
+  "images": 17,
+  "third-party": 5,
+  "link-check": 17,
+  "plain-language": 10,
+  "standards": 11,
+  "security": 2,
+  "alfa": 6,
+  "sustainability": 1,
+  "lighthouse": 2,
+  "tech": 1
+ },
+ "tally": {
+  "ok": 17,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 9,
+  "error": 0
+ },
+ "finishedAt": "2026-11-25T14:50:09.549Z"
+}
