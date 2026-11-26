@@ -1,0 +1,160 @@
+{
+ "runId": "2026-11-26T14-09-40-180Z-9081b5",
+ "week": "2026-W48",
+ "domain": "www.nsf.gov",
+ "canonical": {
+  "origin": "https://www.nsf.gov",
+  "configured": "https://www.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-26T14:09:41.310Z",
+ "scanned": [
+  "4d3e141e61120928",
+  "866ebb3b598baf30"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 124,
+  "checked": 124,
+  "brokenCount": 10,
+  "broken": [
+   {
+    "url": "https://www.grants.gov/",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/research-experiences-teachers-engineering-computer-science/nsf15-536/solicitation",
+     "https://www.nsf.gov/funding/opportunities/research-experience-graduates-supplement-dear-colleague/5416/5652/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.grants.gov/web/grants/applicants.html",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/research-experiences-teachers-engineering-computer-science/nsf15-536/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.fastlane.nsf.gov/a1/newstan.htm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/research-experiences-teachers-engineering-computer-science/nsf15-536/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.grants.gov/",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/research-experiences-teachers-engineering-computer-science/nsf15-536/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf14043",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/research-experiences-teachers-engineering-computer-science/nsf15-536/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/policies/SOR_PA_NSF-50_Principal_Investigator_Proposal_File.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/research-experiences-teachers-engineering-computer-science/nsf15-536/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=aag",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/research-experiences-teachers-engineering-computer-science/nsf15-536/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/sbe/bcs/anthro.",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/research-experience-graduates-supplement-dear-colleague/5416/5652/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/cgi-bin/getpub?gp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/research-experience-graduates-supplement-dear-colleague/5416/5652/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/home/ebulletin/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/research-experience-graduates-supplement-dear-colleague/5416/5652/solicitation"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 2,
+  "alfa": 2,
+  "resources": 2,
+  "images": 2,
+  "standards": 2,
+  "third-party": 1,
+  "lighthouse": 1,
+  "link-check": 2,
+  "sustainability": 1,
+  "plain-language": 1,
+  "tech": 1
+ },
+ "tally": {
+  "ok": 2,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-26T14:10:30.169Z"
+}
