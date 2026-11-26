@@ -1,6 +1,6 @@
 {
  "domain": "ncses.nsf.gov",
- "updatedAt": "2026-11-25T21:58:10.070Z",
+ "updatedAt": "2026-11-26T21:54:08.087Z",
  "pages": {
   "https://ncses.nsf.gov/pubs/nsb202333/table/SPBS-45": {
    "pageId": "00abbacd9d4d5dcc",
@@ -15741,6 +15741,24 @@
    "status": 200,
    "axeViolations": 40,
    "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/pubs/nsb20227/table/PPS-1": {
+   "pageId": "3244f616add1b4fa",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-26T12:18:13.721Z",
+   "status": 200,
+   "axeViolations": 34,
+   "alfaFailures": 171,
+   "hasIssues": true
+  },
+  "https://ncses.nsf.gov/pubs/nsb20224/data/table/SINV-69": {
+   "pageId": "bb765c7dd09762f4",
+   "lastWeek": "2026-W48",
+   "lastScannedAt": "2026-11-26T12:18:25.424Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": 212,
    "hasIssues": true
   }
  },

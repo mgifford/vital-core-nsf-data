@@ -1,6 +1,6 @@
 {
  "domain": "seedfund.nsf.gov",
- "updatedAt": "2026-11-25T21:58:13.547Z",
+ "updatedAt": "2026-11-26T21:54:10.760Z",
  "links": {
   "https://relavomedical.com/": {
    "status": 0,
@@ -95,12 +95,13 @@
    "status": 0,
    "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W46",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W43",
-    "2026-W46"
+    "2026-W46",
+    "2026-W48"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
     "https://seedfund.nsf.gov/topics/internet-of-things"
    ]
@@ -128,7 +129,8 @@
     "https://seedfund.nsf.gov/centers/ceps/novel-additives-promise-strong-lightweight-composites-for-commercial-transportation",
     "https://seedfund.nsf.gov/centers/ceps/a-novel-low-cost-sustainable-process-to-produce-silicon-carbide",
     "https://seedfund.nsf.gov/centers/ceps/industrial-3d-printing-surges-forward-with-high-performance-elastomers",
-    "https://seedfund.nsf.gov/centers/ceps/a-sustainable-alternative-to-performance-plastics-makes-a-debut"
+    "https://seedfund.nsf.gov/centers/ceps/a-sustainable-alternative-to-performance-plastics-makes-a-debut",
+    "https://seedfund.nsf.gov/centers/ceps/novel-rnai-technology-targets-leading-global-crop-pest"
    ]
   },
   "http://www.pcka.com/": {
@@ -150,14 +152,15 @@
    "status": 0,
    "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W47",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W43",
     "2026-W45",
     "2026-W46",
-    "2026-W47"
+    "2026-W47",
+    "2026-W48"
    ],
-   "weeksBroken": 4,
+   "weeksBroken": 5,
    "foundOn": [
     "https://seedfund.nsf.gov/"
    ]
@@ -166,14 +169,15 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W43",
-   "lastSeen": "2026-W47",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W43",
     "2026-W45",
     "2026-W46",
-    "2026-W47"
+    "2026-W47",
+    "2026-W48"
    ],
-   "weeksBroken": 4,
+   "weeksBroken": 5,
    "foundOn": [
     "https://seedfund.nsf.gov/"
    ]
@@ -275,13 +279,14 @@
    "status": 0,
    "reason": "ENOTFOUND",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W48",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W48"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "https://seedfund.nsf.gov/awardees/history/details?company=radiation-detection-solutions-llc"
+    "https://seedfund.nsf.gov/awardees/phase-1/details?company=radiation-detection-solutions-llc"
    ]
   },
   "https://resuture.com/": {
@@ -331,12 +336,13 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W47",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W44",
-    "2026-W47"
+    "2026-W47",
+    "2026-W48"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
     "https://seedfund.nsf.gov/requirements"
    ]
@@ -547,12 +553,13 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W47",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W44",
-    "2026-W47"
+    "2026-W47",
+    "2026-W48"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
     "https://seedfund.nsf.gov/styleguide/layouts"
    ]
@@ -561,12 +568,13 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W47",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W44",
-    "2026-W47"
+    "2026-W47",
+    "2026-W48"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
     "https://seedfund.nsf.gov/styleguide/layouts"
    ]
@@ -575,12 +583,13 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W47",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W44",
-    "2026-W47"
+    "2026-W47",
+    "2026-W48"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
     "https://seedfund.nsf.gov/styleguide/layouts"
    ]
@@ -589,17 +598,17 @@
    "status": 0,
    "reason": "ENOTFOUND",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W47",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W44",
     "2026-W45",
     "2026-W46",
-    "2026-W47"
+    "2026-W47",
+    "2026-W48"
    ],
-   "weeksBroken": 4,
+   "weeksBroken": 5,
    "foundOn": [
-    "https://seedfund.nsf.gov/styleguide/layouts",
-    "https://seedfund.nsf.gov/styleguide/typography"
+    "https://seedfund.nsf.gov/styleguide/layouts"
    ]
   },
   "http://www.solaridipm.com/": {
@@ -734,12 +743,13 @@
    "status": 500,
    "reason": "HTTP 500",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W48"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
     "https://seedfund.nsf.gov/awardees/history/details?company=beta-hatch-inc"
    ]
@@ -762,13 +772,14 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W47",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W44",
     "2026-W46",
-    "2026-W47"
+    "2026-W47",
+    "2026-W48"
    ],
-   "weeksBroken": 3,
+   "weeksBroken": 4,
    "foundOn": [
     "https://seedfund.nsf.gov/portfolio/details?company=glauconix-inc"
    ]
@@ -836,12 +847,13 @@
    "status": 503,
    "reason": "HTTP 503",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W47",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W45",
-    "2026-W47"
+    "2026-W47",
+    "2026-W48"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
     "https://seedfund.nsf.gov/news/ascend-elements"
    ]
@@ -1143,14 +1155,15 @@
    "status": 0,
    "reason": "fetch failed",
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W47",
+   "lastSeen": "2026-W48",
    "_weeks": [
     "2026-W45",
-    "2026-W47"
+    "2026-W47",
+    "2026-W48"
    ],
-   "weeksBroken": 2,
+   "weeksBroken": 3,
    "foundOn": [
-    "https://seedfund.nsf.gov/centers/ceps/digital-fabrication-of-aluminum-components-redefines-the-metal-manufacturing-industry"
+    "https://seedfund.nsf.gov/awardees/history/details?company=alloy-enterprises-inc"
    ]
   },
   "https://legacy.www.sbir.gov/tutorials/individual-agency-requirements/": {
@@ -1511,6 +1524,32 @@
    "weeksBroken": 1,
    "foundOn": [
     "https://seedfund.nsf.gov/centers/ceps/a-novel-low-cost-sustainable-process-to-produce-silicon-carbide"
+   ]
+  },
+  "http://www.ilans.com.co/": {
+   "status": 0,
+   "reason": "ENOTFOUND",
+   "firstSeen": "2026-W48",
+   "lastSeen": "2026-W48",
+   "_weeks": [
+    "2026-W48"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/portfolio/details?company=ilans-inc"
+   ]
+  },
+  "http://www.apricityrobotics.com/": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W48",
+   "lastSeen": "2026-W48",
+   "_weeks": [
+    "2026-W48"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://seedfund.nsf.gov/awardees/phase-2/details?company=crookes-research-llc"
    ]
   }
  }
