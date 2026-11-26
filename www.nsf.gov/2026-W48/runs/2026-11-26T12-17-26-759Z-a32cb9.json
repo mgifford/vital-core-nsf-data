@@ -1,0 +1,201 @@
+{
+ "runId": "2026-11-26T12-17-26-759Z-a32cb9",
+ "week": "2026-W48",
+ "domain": "www.nsf.gov",
+ "canonical": {
+  "origin": "https://www.nsf.gov",
+  "configured": "https://www.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-26T12:17:27.251Z",
+ "scanned": [
+  "ebabef6c0b5679e4",
+  "52c49ffee3fa5601",
+  "4d053919c0b36997",
+  "cb76bcf88706b1c2",
+  "4f407a6fca4415a7",
+  "4afbae8c94045f7d",
+  "e19ac6673ccdc694",
+  "ef0ed03e7ba99be2",
+  "b490fb8673402d35",
+  "e069e3f3afd21a65",
+  "2658236dd7623735",
+  "3f7a5936efe005ba",
+  "485bec06affdd437",
+  "c08919f501701573",
+  "61768dc97b2c7324",
+  "5df83ba6f7f200c0",
+  "6ef5dbc7b5219a9f",
+  "3dd1653aaf9c298a",
+  "61ae4e9b977e8fd9",
+  "8f886b57e916974e",
+  "ecee7b2180c8ad39"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 242,
+  "checked": 242,
+  "brokenCount": 10,
+  "broken": [
+   {
+    "url": "https://www.grants.gov/",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/shine-solar-heliospheric-interplanetary-environment/5749/nsf22-570",
+     "https://www.nsf.gov/news/podcast-creating-thermal-cloaking-new-structures",
+     "https://www.nsf.gov/funding/opportunities/bigdata-critical-techniques-technologies-methodologies-advancing/504767/nsf14-543",
+     "https://www.nsf.gov/funding/initiatives/nrt/updates/week-nsf-director-panchanathan",
+     "https://www.nsf.gov/reports/nsb/testimony/mrefc-management-2012",
+     "https://www.nsf.gov/funding/opportunities/research-experiences-teachers-engineering-computer-science/nsf15-536",
+     "https://www.nsf.gov/events/csforall-research-practice-partnership-workshop/2020-10-14",
+     "https://www.nsf.gov/news/nsf-director-panchanathan-joins-sen-shaheen-tour-university",
+     "https://www.nsf.gov/funding/opportunities/mps-materials-mps-materials-research-programs/nsf23-612",
+     "https://www.nsf.gov/science-matters/ocean-research-time-covid-19-expedition-gulf-alaska-keeps",
+     "https://www.nsf.gov/reports/statistics/fy-2022-federal-science-engineering-support-selected-types",
+     "https://www.nsf.gov/events/mcb-virtual-office-hour",
+     "https://www.nsf.gov/funding/opportunities/dcl-non-academic-research-internships-graduate-students",
+     "https://www.nsf.gov/funding/opportunities/sttr-small-business-technology-transfer-program-phase-i/504857/nsf13-501",
+     "https://www.nsf.gov/funding/opportunities/xc-crosscutting-activities-materials-research",
+     "https://www.nsf.gov/funding/opportunities/sprf-sbe-postdoctoral-research-fellowships/nsf14-595",
+     "https://www.nsf.gov/science-matters/5-ways-make-citizen-science-year-round-passion",
+     "https://www.nsf.gov/funding/opportunities/rig-bp-research-initiation-grants-broaden-participation-biology/10676/nsf09-501/solicitation",
+     "https://www.nsf.gov/events/do-simpler-machine-learning-models-exist-how-can-we-find",
+     "https://www.nsf.gov/honorary-awards/national-medal-science/recipients/lynn-margulis",
+     "https://www.nsf.gov/policies/document/general-grant-conditions-gc-1-january-4-2010"
+    ]
+   },
+   {
+    "url": "https://mcbblog.nsfbio.com/office-hours/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/events/mcb-virtual-office-hour"
+    ]
+   },
+   {
+    "url": "https://mcbblog.nsfbio.com/category/blog/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.nsf.gov/events/mcb-virtual-office-hour"
+    ]
+   },
+   {
+    "url": "https://nsf.zoomgov.com/webinar/register/WN_rcG95iI9QOOed-VfarsHFQ",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/events/mcb-virtual-office-hour"
+    ]
+   },
+   {
+    "url": "https://pct.usanpn.org/nn/campaigns/NectarConnectors",
+    "status": 530,
+    "reason": "HTTP 530",
+    "foundOn": [
+     "https://www.nsf.gov/science-matters/5-ways-make-citizen-science-year-round-passion"
+    ]
+   },
+   {
+    "url": "http://www.fastlane.nsf.gov/a1/newstan.htm",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/rig-bp-research-initiation-grants-broaden-participation-biology/10676/nsf09-501/solicitation"
+    ]
+   },
+   {
+    "url": "http://www.grants.gov/",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/rig-bp-research-initiation-grants-broaden-participation-biology/10676/nsf09-501/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/publications/pub_summ.jsp?ods_key=aag",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/rig-bp-research-initiation-grants-broaden-participation-biology/10676/nsf09-501/solicitation"
+    ]
+   },
+   {
+    "url": "https://www.nsf.gov/policies/SOR_PA_NSF-50_Principal_Investigator_Proposal_File.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.nsf.gov/funding/opportunities/rig-bp-research-initiation-grants-broaden-participation-biology/10676/nsf09-501/solicitation"
+    ]
+   },
+   {
+    "url": "https://pheno-mismatch.org/",
+    "status": 522,
+    "reason": "HTTP 522",
+    "foundOn": [
+     "https://www.nsf.gov/science-matters/5-ways-make-citizen-science-year-round-passion"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 21,
+  "deprecated-html": 5,
+  "resources": 21,
+  "images": 21,
+  "link-check": 21,
+  "plain-language": 8,
+  "standards": 9,
+  "public-interest": 1,
+  "sustainability": 2,
+  "alfa": 7,
+  "third-party": 3,
+  "lighthouse": 2,
+  "security": 1,
+  "tech": 1
+ },
+ "tally": {
+  "ok": 21,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 4,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 1,
+  "error": 0
+ },
+ "finishedAt": "2026-11-26T12:21:03.494Z"
+}
