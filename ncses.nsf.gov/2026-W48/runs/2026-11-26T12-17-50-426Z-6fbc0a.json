@@ -1,0 +1,115 @@
+{
+ "runId": "2026-11-26T12-17-50-426Z-6fbc0a",
+ "week": "2026-W48",
+ "domain": "ncses.nsf.gov",
+ "canonical": {
+  "origin": "https://ncses.nsf.gov",
+  "configured": "https://ncses.nsf.gov",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-26T12:17:52.139Z",
+ "scanned": [
+  "3244f616add1b4fa",
+  "bb765c7dd09762f4"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-nsf; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "screenshots": {
+  "enabled": false,
+  "captured": 0
+ },
+ "linkCheck": {
+  "total": 573,
+  "checked": 500,
+  "brokenCount": 5,
+  "broken": [
+   {
+    "url": "https://gssdataexplorer.norc.org/variables/3507/vshow",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20227/table/PPS-1"
+    ]
+   },
+   {
+    "url": "https://gssdataexplorer.norc.org/variables/3522/vshow",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20227/table/PPS-1"
+    ]
+   },
+   {
+    "url": "https://gssdataexplorer.norc.org/variables/3528/vshow",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20227/table/PPS-1"
+    ]
+   },
+   {
+    "url": "https://gssdataexplorer.norc.org/variables/3513/vshow",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20227/table/PPS-1"
+    ]
+   },
+   {
+    "url": "https://www.sbir.gov/sbirsearch/award/all",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://ncses.nsf.gov/pubs/nsb20224/data/table/SINV-69"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 2,
+  "alfa": 2,
+  "resources": 2,
+  "images": 2,
+  "link-check": 2,
+  "plain-language": 1,
+  "security": 1
+ },
+ "tally": {
+  "ok": 2,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 2,
+  "error": 0
+ },
+ "finishedAt": "2026-11-26T12:19:15.168Z"
+}
